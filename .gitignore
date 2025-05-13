@@ -1,0 +1,23 @@
+# ローカル実行用のTypeScriptファイル
+*.ts
+
+# Node.jsの依存関係
+node_modules/
+package-lock.json
+
+# ビルド生成物
+dist/
+build/
+*.js.map
+
+# 環境変数
+.env
+.env.local
+
+# エディタ設定
+.vscode/
+.idea/
+
+# その他の一時ファイル
+.DS_Store
+*.log

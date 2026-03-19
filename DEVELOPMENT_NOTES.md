@@ -1,6 +1,6 @@
 # pokemon-data 開発ノート
 
-> 最終更新: 2026-03-19
+> 最終更新: 2026-03-19（form_id重複解消・regional form_name_ja修正）
 
 ## このリポジトリの役割
 
@@ -108,22 +108,22 @@ uv run scripts/fetch-forms.py --force
 - `game-data/ability_list.json` は `abilities/all.json` に移行済み
 - 旧ファイルを削除してディレクトリも消す
 
-#### 3. `regional` フォームの `form_name_ja` 修正
-- 現在リージョンフォームの `form_name_ja` がベースポケモン名のまま（例: "コラッタ"）
-- 正しくは "コラッタ（アローラのすがた）" にすべき
-- `special-forms.json` に `formName` がそうなっていないため、`derive_form_id` と合わせて修正が必要
-  - `category: regional` かつ `form_id` から地域名を付加するロジックを追加
+#### 3. `regional` フォームの `form_name_ja` 修正 ✅ 完了（2026-03-19）
+- `fetch-forms.py` の `build_form_entry` で地域名を付加するロジックを実装済み
+- 単一亜種: "コラッタ（アローラのすがた）" 形式
+- 複数亜種（ケンタロス）: "ケンタロス コンバット種（パルデアのすがた）" 形式
+- form_id重複修正（タスク4）と同時に対応
 
 ### 優先度中
 
 #### 4. `form_name_en` の追加 ✅ 完了（2026-03-19）
 - `scripts/fetch-form-names-en.py` で実装・実行済み
 - M-dimension限定フォーム15件はスクリプト内の `MANUAL_FORM_NAMES_EN` でカバー
-- **既知の未解決問題（form_idの重複）**:
-  - No.128 ケンタロス: パルデア3フォーム（かくとう・みず・ほのおのうち）が全て `form_id=paldea` で重複
-  - No.892 ウーラオス: いちげき・れんげき両形態のgmaxが `form_id=gmax` で重複
-  - → これらは `special-forms.json` 側で一意なform_idを付与する必要あり（`paldea-combat` 等）
-  - → `fetch-forms.py` の `derive_form_id` ロジックも合わせて修正が必要
+- **form_id重複問題 ✅ 解決済み（2026-03-19）**:
+  - No.128 ケンタロス: `paldea-combat-breed` / `paldea-blaze-breed` / `paldea-aqua-breed` に修正
+  - No.892 ウーラオス: `gmax-single-strike` / `gmax-rapid-strike` に修正
+  - → `special-forms.json` に `formId` フィールドを追加（5フォームのみ）
+  - → `fetch-forms.py` の `build_form_entry` で `formId` を優先参照するよう修正
 
 #### 5. `pokemon/all.json` の Gen10（ZA）対応
 - 現状 No.1026以降は未収録

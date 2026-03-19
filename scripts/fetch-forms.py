@@ -90,13 +90,21 @@ def build_form_entry(form: dict, pokemon_name_ja: str) -> dict:
     form_name_ja: str = form["formName"]
     debut_game: str = form.get("debutGame", "")
 
-    form_id = derive_form_id(category, form_name_ja, pokemon_name_ja, debut_game)
+    # formId が明示指定されていればそれを優先（重複回避用）
+    form_id = form.get("formId") or derive_form_id(category, form_name_ja, pokemon_name_ja, debut_game)
 
     # regional フォームの form_name_ja を補完
     if category == "regional":
-        region_ja = REGION_JA.get(form_id)
+        # form_id からリージョン部分を抽出（"paldea-combat-breed" → "paldea"）
+        region_key = form_id.split("-")[0] if "-" in form_id else form_id
+        region_ja = REGION_JA.get(region_key)
         if region_ja:
-            form_name_ja = f"{pokemon_name_ja}（{region_ja}のすがた）"
+            if form_id == region_key:
+                # 通常のリージョンフォーム（サフィックスなし）
+                form_name_ja = f"{pokemon_name_ja}（{region_ja}のすがた）"
+            else:
+                # 亜種あり（ケンタロス等）: 元のformNameに地域名を付加
+                form_name_ja = f"{form_name_ja}（{region_ja}のすがた）"
         else:
             print(f"[WARN] 未知のリージョン form_id: {form_id}")
 

@@ -157,13 +157,7 @@ uv run scripts/fetch-form-names-en.py
 
 ### 優先度高
 
-#### 1. `pokemon/all.json` の Gen10（ZA）対応
-- 現状 No.1026以降は未収録
-- ZAの新ポケモン番号確定後 → `fetch-pokemon.py` の `TOTAL_POKEMON` を更新
-- PokeAPI未対応ポケモンは手動追記（`"no", "name_ja", "name_en", "gen", "types", "is_legendary", "is_mythical"`）
-- `generate_pokemon_names.py` 再実行で `mappings/pokemon_names.json` も更新される
-
-#### 2. `distribution-scraper/mappings/games.json` の正本化
+#### 1. `distribution-scraper/mappings/games.json` の正本化
 - 現状: distribution-scraper が独自フォーマットで管理（symlink未移行の唯一のファイル）
 - 方針: `distribution-scraper` の `games.json` が必要とするフィールドを調査し、
   `pokemon-data/games/titles.json` から生成するスクリプトか変換アダプターを実装
@@ -173,7 +167,8 @@ uv run scripts/fetch-form-names-en.py
 
 #### 3. `ribbon-tracker` の ZA（legends_za）対応
 - 現状: `distribution-scraper` の EXCLUDED_IDS に登録されており取得スキップ中
-- 方針: ZAリボン実装状況を確認後、ribbon-tracker と distribution-scraper を更新
+- **ZAリボン・あかし内容は2026年春のHOME連携まで確認不可**
+- HOME連携後に確認してから ribbon-tracker と distribution-scraper を更新する
 
 #### 4. フォームデータのスコープ拡張（検討）
 - `zmove` カテゴリ（現状スキップ）: ネクロズマ等タイプ変化フォームを含む可能性

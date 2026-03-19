@@ -2,2170 +2,2170 @@
   {
     "id": 1,
     "name_ja": "あくしゅう",
-    "name_en": "",
+    "name_en": "Stench",
     "description": "攻撃した相手をひるませることがある。",
     "generation": 3
   },
   {
     "id": 2,
     "name_ja": "あめふらし",
-    "name_en": "",
+    "name_en": "Drizzle",
     "description": "場に出たとき、てんきをあめ状態にする。",
     "generation": 3
   },
   {
     "id": 3,
     "name_ja": "かそく",
-    "name_en": "",
+    "name_en": "Speed Boost",
     "description": "毎ターンすばやさが1段階上がる。",
     "generation": 3
   },
   {
     "id": 4,
     "name_ja": "カブトアーマー",
-    "name_en": "",
+    "name_en": "Battle Armor",
     "description": "相手の攻撃が急所に当たらない。",
     "generation": 3
   },
   {
     "id": 5,
     "name_ja": "がんじょう",
-    "name_en": "",
+    "name_en": "Sturdy",
     "description": "一撃必殺技が効かない。\nHPが満タンならば一撃でひんしになるダメージでもHP1で持ちこたえる。",
     "generation": 3
   },
   {
     "id": 6,
     "name_ja": "しめりけ",
-    "name_en": "",
+    "name_en": "Damp",
     "description": "じばく、だいばくはつ、ビックリヘッド、ミストバースト、ゆうばくが使えなくなる。",
     "generation": 3
   },
   {
     "id": 7,
     "name_ja": "じゅうなん",
-    "name_en": "",
+    "name_en": "Limber",
     "description": "まひ状態にならない。",
     "generation": 3
   },
   {
     "id": 8,
     "name_ja": "すながくれ",
-    "name_en": "",
+    "name_en": "Sand Veil",
     "description": "すなあらし状態なら回避率が1.25倍になる。",
     "generation": 3
   },
   {
     "id": 9,
     "name_ja": "せいでんき",
-    "name_en": "",
+    "name_en": "Static",
     "description": "直接攻撃を受けたとき、相手をまひ状態にすることがある。",
     "generation": 3
   },
   {
     "id": 10,
     "name_ja": "ちくでん",
-    "name_en": "",
+    "name_en": "Volt Absorb",
     "description": "でんきタイプのわざを無効化しHPを1/4回復する。",
     "generation": 3
   },
   {
     "id": 11,
     "name_ja": "ちょすい",
-    "name_en": "",
+    "name_en": "Water Absorb",
     "description": "みずタイプのわざを無効化しHPを1/4回復する。",
     "generation": 3
   },
   {
     "id": 12,
     "name_ja": "どんかん",
-    "name_en": "",
+    "name_en": "Oblivious",
     "description": "メロメロ状態・ちょうはつ状態にならない。\nゆうわくを無効化する。",
     "generation": 3
   },
   {
     "id": 13,
     "name_ja": "ノーてんき",
-    "name_en": "",
+    "name_en": "Cloud Nine",
     "description": "天気の影響が無くなる。",
     "generation": 3
   },
   {
     "id": 14,
     "name_ja": "ふくがん",
-    "name_en": "",
+    "name_en": "Compound Eyes",
     "description": "使用する技の命中率が1.3倍に上がる。",
     "generation": 3
   },
   {
     "id": 15,
     "name_ja": "ふみん",
-    "name_en": "",
+    "name_en": "Insomnia",
     "description": "ねむり状態にならない。",
     "generation": 3
   },
   {
     "id": 16,
     "name_ja": "へんしょく",
-    "name_en": "",
+    "name_en": "Color Change",
     "description": "受けた攻撃技と同じタイプになる。",
     "generation": 3
   },
   {
     "id": 17,
     "name_ja": "めんえき",
-    "name_en": "",
+    "name_en": "Immunity",
     "description": "どく、もうどく状態にならない。",
     "generation": 3
   },
   {
     "id": 18,
     "name_ja": "もらいび",
-    "name_en": "",
+    "name_en": "Flash Fire",
     "description": "ほのおタイプのわざを無効化し、その後自分がほのおわざを使う時のこうげき・とくこうが1.5倍になる。",
     "generation": 3
   },
   {
     "id": 19,
     "name_ja": "りんぷん",
-    "name_en": "",
+    "name_en": "Shield Dust",
     "description": "攻撃技の追加効果を受けない。",
     "generation": 3
   },
   {
     "id": 20,
     "name_ja": "マイペース",
-    "name_en": "",
+    "name_en": "Own Tempo",
     "description": "こんらん状態にならない。",
     "generation": 3
   },
   {
     "id": 21,
     "name_ja": "きゅうばん",
-    "name_en": "",
+    "name_en": "Suction Cups",
     "description": "相手の交代させる技やレッドカードの効果を受けない。",
     "generation": 3
   },
   {
     "id": 22,
     "name_ja": "いかく",
-    "name_en": "",
+    "name_en": "Intimidate",
     "description": "場に出たときに、相手のこうげきを1段階下げる。",
     "generation": 3
   },
   {
     "id": 23,
     "name_ja": "かげふみ",
-    "name_en": "",
+    "name_en": "Shadow Tag",
     "description": "相手を逃げられなくする。",
     "generation": 3
   },
   {
     "id": 24,
     "name_ja": "さめはだ",
-    "name_en": "",
+    "name_en": "Rough Skin",
     "description": "直接攻撃を受けたとき、相手に最大HPの1/8分のダメージを与える。",
     "generation": 3
   },
   {
     "id": 25,
     "name_ja": "ふしぎなまもり",
-    "name_en": "",
+    "name_en": "Wonder Guard",
     "description": "効果抜群となるタイプ以外の攻撃技を無効化する。",
     "generation": 3
   },
   {
     "id": 26,
     "name_ja": "ふゆう",
-    "name_en": "",
+    "name_en": "Levitate",
     "description": "地面にいない状態になる。",
     "generation": 3
   },
   {
     "id": 27,
     "name_ja": "ほうし",
-    "name_en": "",
+    "name_en": "Effect Spore",
     "description": "直接攻撃を受けたとき、相手をどく・まひ・ねむり状態にすることがある。",
     "generation": 3
   },
   {
     "id": 28,
     "name_ja": "シンクロ",
-    "name_en": "",
+    "name_en": "Synchronize",
     "description": "どく・もうどく・まひ・やけど状態になったとき、相手も同じ状態異常にする。",
     "generation": 3
   },
   {
     "id": 29,
     "name_ja": "クリアボディ",
-    "name_en": "",
+    "name_en": "Clear Body",
     "description": "相手からランク補正を下げられない。",
     "generation": 3
   },
   {
     "id": 30,
     "name_ja": "しぜんかいふく",
-    "name_en": "",
+    "name_en": "Natural Cure",
     "description": "手持ちに戻ると状態異常が回復する。",
     "generation": 3
   },
   {
     "id": 31,
     "name_ja": "ひらいしん",
-    "name_en": "",
+    "name_en": "Lightning Rod",
     "description": "でんきわざの対象を自分にし、無効化してとくこうを1段階上げる。",
     "generation": 3
   },
   {
     "id": 32,
     "name_ja": "てんのめぐみ",
-    "name_en": "",
+    "name_en": "Serene Grace",
     "description": "追加効果の出る確率が2倍になる。",
     "generation": 3
   },
   {
     "id": 33,
     "name_ja": "すいすい",
-    "name_en": "",
+    "name_en": "Swift Swim",
     "description": "あめのとき、すばやさが2倍になる。",
     "generation": 3
   },
   {
     "id": 34,
     "name_ja": "ようりょくそ",
-    "name_en": "",
+    "name_en": "Chlorophyll",
     "description": "にほんばれのとき、すばやさが2倍になる。",
     "generation": 3
   },
   {
     "id": 35,
     "name_ja": "はっこう",
-    "name_en": "",
+    "name_en": "Illuminate",
     "description": "命中率を下げられず、相手の回避率を無視できる。",
     "generation": 3
   },
   {
     "id": 36,
     "name_ja": "トレース",
-    "name_en": "",
+    "name_en": "Trace",
     "description": "場に出たとき、相手と同じ特性になる。",
     "generation": 3
   },
   {
     "id": 37,
     "name_ja": "ちからもち",
-    "name_en": "",
+    "name_en": "Huge Power",
     "description": "こうげきが2倍になる。",
     "generation": 3
   },
   {
     "id": 38,
     "name_ja": "どくのトゲ",
-    "name_en": "",
+    "name_en": "Poison Point",
     "description": "直接攻撃を受けたとき、相手をどく状態にすることがある。",
     "generation": 3
   },
   {
     "id": 39,
     "name_ja": "せいしんりょく",
-    "name_en": "",
+    "name_en": "Inner Focus",
     "description": "ひるみ状態にならない。",
     "generation": 3
   },
   {
     "id": 40,
     "name_ja": "マグマのよろい",
-    "name_en": "",
+    "name_en": "Magma Armor",
     "description": "こおり状態にならなくなる。\nタマゴの孵化に必要な歩数が半減する。",
     "generation": 3
   },
   {
     "id": 41,
     "name_ja": "みずのベール",
-    "name_en": "",
+    "name_en": "Water Veil",
     "description": "やけど状態にならない。",
     "generation": 3
   },
   {
     "id": 42,
     "name_ja": "じりょく",
-    "name_en": "",
+    "name_en": "Magnet Pull",
     "description": "はがねタイプのポケモンを逃げられなくする。",
     "generation": 3
   },
   {
     "id": 43,
     "name_ja": "ぼうおん",
-    "name_en": "",
+    "name_en": "Soundproof",
     "description": "音のわざを無効化する。",
     "generation": 3
   },
   {
     "id": 44,
     "name_ja": "あめうけざら",
-    "name_en": "",
+    "name_en": "Rain Dish",
     "description": "あめのとき、HPが1/16回復する。",
     "generation": 3
   },
   {
     "id": 45,
     "name_ja": "すなおこし",
-    "name_en": "",
+    "name_en": "Sand Stream",
     "description": "場に出たとき、すなあらしにする。",
     "generation": 3
   },
   {
     "id": 46,
     "name_ja": "プレッシャー",
-    "name_en": "",
+    "name_en": "Pressure",
     "description": "使われる技のPPが1多く減少する。",
     "generation": 3
   },
   {
     "id": 47,
     "name_ja": "あついしぼう",
-    "name_en": "",
+    "name_en": "Thick Fat",
     "description": "自分がほのお・こおりわざを受ける時の相手のこうげき・とくこうを半減させる。",
     "generation": 3
   },
   {
     "id": 48,
     "name_ja": "はやおき",
-    "name_en": "",
+    "name_en": "Early Bird",
     "description": "ねむりのターンの消費量が2倍になる。",
     "generation": 3
   },
   {
     "id": 49,
     "name_ja": "ほのおのからだ",
-    "name_en": "",
+    "name_en": "Flame Body",
     "description": "直接攻撃を受けたとき、相手をやけど状態にすることがある。\nタマゴの孵化に必要な歩数が半減する。",
     "generation": 3
   },
   {
     "id": 50,
     "name_ja": "にげあし",
-    "name_en": "",
+    "name_en": "Run Away",
     "description": "野生ポケモンから必ず逃げられる。",
     "generation": 3
   },
   {
     "id": 51,
     "name_ja": "するどいめ",
-    "name_en": "",
+    "name_en": "Keen Eye",
     "description": "命中率を下げられず、相手の回避率を無視できる。",
     "generation": 3
   },
   {
     "id": 52,
     "name_ja": "かいりきバサミ",
-    "name_en": "",
+    "name_en": "Hyper Cutter",
     "description": "相手からこうげきを下げられない。",
     "generation": 3
   },
   {
     "id": 53,
     "name_ja": "ものひろい",
-    "name_en": "",
+    "name_en": "Pickup",
     "description": "相手の使ったアイテムを拾う。\nバトル終了後アイテムを拾うことがある。",
     "generation": 3
   },
   {
     "id": 54,
     "name_ja": "なまけ",
-    "name_en": "",
+    "name_en": "Truant",
     "description": "2ターンに1回しか行動できない。",
     "generation": 3
   },
   {
     "id": 55,
     "name_ja": "はりきり",
-    "name_en": "",
+    "name_en": "Hustle",
     "description": "こうげきが1.5倍になるが、命中率が0.8倍になる。",
     "generation": 3
   },
   {
     "id": 56,
     "name_ja": "メロメロボディ",
-    "name_en": "",
+    "name_en": "Cute Charm",
     "description": "直接攻撃を受けたとき、相手をメロメロにすることがある。",
     "generation": 3
   },
   {
     "id": 57,
     "name_ja": "プラス",
-    "name_en": "",
+    "name_en": "Plus",
     "description": "味方の場にプラスかマイナスのポケモンがいる時、とくこうが1.5倍になる。",
     "generation": 3
   },
   {
     "id": 58,
     "name_ja": "マイナス",
-    "name_en": "",
+    "name_en": "Minus",
     "description": "味方の場にプラスかマイナスのポケモンがいる時、とくこうが1.5倍になる。",
     "generation": 3
   },
   {
     "id": 59,
     "name_ja": "てんきや",
-    "name_en": "",
+    "name_en": "Forecast",
     "description": "場の天気によってタイプ・フォルムが変化する。",
     "generation": 3
   },
   {
     "id": 60,
     "name_ja": "ねんちゃく",
-    "name_en": "",
+    "name_en": "Sticky Hold",
     "description": "持ち物を奪われない。",
     "generation": 3
   },
   {
     "id": 61,
     "name_ja": "だっぴ",
-    "name_en": "",
+    "name_en": "Shed Skin",
     "description": "状態異常を治すことがある。",
     "generation": 3
   },
   {
     "id": 62,
     "name_ja": "こんじょう",
-    "name_en": "",
+    "name_en": "Guts",
     "description": "状態異常のとき、こうげきが1.5倍になる。",
     "generation": 3
   },
   {
     "id": 63,
     "name_ja": "ふしぎなうろこ",
-    "name_en": "",
+    "name_en": "Marvel Scale",
     "description": "状態異常のとき、ぼうぎょが1.5倍になる。",
     "generation": 3
   },
   {
     "id": 64,
     "name_ja": "ヘドロえき",
-    "name_en": "",
+    "name_en": "Liquid Ooze",
     "description": "HPを吸い取るわざを受けたとき、逆にダメージを与える。",
     "generation": 3
   },
   {
     "id": 65,
     "name_ja": "しんりょく",
-    "name_en": "",
+    "name_en": "Overgrow",
     "description": "HPが1/3以下になると、くさタイプのわざで攻撃するときのこうげき・とくこうが1.5倍になる。",
     "generation": 3
   },
   {
     "id": 66,
     "name_ja": "もうか",
-    "name_en": "",
+    "name_en": "Blaze",
     "description": "HPが1/3以下になると、ほのおタイプのわざで攻撃するときのこうげき・とくこうが1.5倍になる。",
     "generation": 3
   },
   {
     "id": 67,
     "name_ja": "げきりゅう",
-    "name_en": "",
+    "name_en": "Torrent",
     "description": "HPが1/3以下になると、みずタイプのわざで攻撃するときのこうげき・とくこうが1.5倍になる。",
     "generation": 3
   },
   {
     "id": 68,
     "name_ja": "むしのしらせ",
-    "name_en": "",
+    "name_en": "Swarm",
     "description": "HPが1/3以下になると、むしタイプのわざで攻撃するときのこうげき・とくこうが1.5倍になる。",
     "generation": 3
   },
   {
     "id": 69,
     "name_ja": "いしあたま",
-    "name_en": "",
+    "name_en": "Rock Head",
     "description": "反動技を使用してもダメージを受けない。",
     "generation": 3
   },
   {
     "id": 70,
     "name_ja": "ひでり",
-    "name_en": "",
+    "name_en": "Drought",
     "description": "場の天気をにほんばれにする。",
     "generation": 3
   },
   {
     "id": 71,
     "name_ja": "ありじごく",
-    "name_en": "",
+    "name_en": "Arena Trap",
     "description": "相手を逃げられなくする。",
     "generation": 3
   },
   {
     "id": 72,
     "name_ja": "やるき",
-    "name_en": "",
+    "name_en": "Vital Spirit",
     "description": "ねむり状態にならない。",
     "generation": 3
   },
   {
     "id": 73,
     "name_ja": "しろいけむり",
-    "name_en": "",
+    "name_en": "White Smoke",
     "description": "相手からランク補正を下げられない。",
     "generation": 3
   },
   {
     "id": 74,
     "name_ja": "ヨガパワー",
-    "name_en": "",
+    "name_en": "Pure Power",
     "description": "こうげきが2倍になる。",
     "generation": 3
   },
   {
     "id": 75,
     "name_ja": "シェルアーマー",
-    "name_en": "",
+    "name_en": "Shell Armor",
     "description": "相手の攻撃が急所に当たらない。",
     "generation": 3
   },
   {
     "id": 76,
     "name_ja": "エアロック",
-    "name_en": "",
+    "name_en": "Air Lock",
     "description": "天気の影響が無くなる。",
     "generation": 3
   },
   {
     "id": 77,
     "name_ja": "ちどりあし",
-    "name_en": "",
+    "name_en": "Tangled Feet",
     "description": "こんらん状態のとき、回避率が2倍になる。",
     "generation": 4
   },
   {
     "id": 78,
     "name_ja": "でんきエンジン",
-    "name_en": "",
+    "name_en": "Motor Drive",
     "description": "でんきタイプのわざを無効化して、すばやさが1段階上がる。",
     "generation": 4
   },
   {
     "id": 79,
     "name_ja": "とうそうしん",
-    "name_en": "",
+    "name_en": "Rivalry",
     "description": "相手が同性のときはわざの威力が1.25倍になり、異性のときは0.75倍になる。",
     "generation": 4
   },
   {
     "id": 80,
     "name_ja": "ふくつのこころ",
-    "name_en": "",
+    "name_en": "Steadfast",
     "description": "ひるむとすばやさが1段階上がる。",
     "generation": 4
   },
   {
     "id": 81,
     "name_ja": "ゆきがくれ",
-    "name_en": "",
+    "name_en": "Snow Cloak",
     "description": "あられ/ゆきのとき、回避率が1.25倍になる。",
     "generation": 4
   },
   {
     "id": 82,
     "name_ja": "くいしんぼう",
-    "name_en": "",
+    "name_en": "Gluttony",
     "description": "きのみを通常より早いタイミングで使う。",
     "generation": 4
   },
   {
     "id": 83,
     "name_ja": "いかりのつぼ",
-    "name_en": "",
+    "name_en": "Anger Point",
     "description": "急所に当たると、攻撃が最大まで上がる。",
     "generation": 4
   },
   {
     "id": 84,
     "name_ja": "かるわざ",
-    "name_en": "",
+    "name_en": "Unburden",
     "description": "道具を持っていないとすばやさが2倍になる。",
     "generation": 4
   },
   {
     "id": 85,
     "name_ja": "たいねつ",
-    "name_en": "",
+    "name_en": "Heatproof",
     "description": "ほのおわざを受けた時に威力を半減する。やけど状態のダメージを半減する。",
     "generation": 4
   },
   {
     "id": 86,
     "name_ja": "たんじゅん",
-    "name_en": "",
+    "name_en": "Simple",
     "description": "ランク補正の変化量が2倍になる。",
     "generation": 4
   },
   {
     "id": 87,
     "name_ja": "かんそうはだ",
-    "name_en": "",
+    "name_en": "Dry Skin",
     "description": "みずわざを受けるとHPが1/4回復し、ほのおわざを受けた時の威力は1.25倍になる。\nあめのときはHPを1/8回復し、にほんばれのときは1/8のダメージを受ける。",
     "generation": 4
   },
   {
     "id": 88,
     "name_ja": "ダウンロード",
-    "name_en": "",
+    "name_en": "Download",
     "description": "相手のステータスに応じてこうげきかとくこうが1段階上がる。",
     "generation": 4
   },
   {
     "id": 89,
     "name_ja": "てつのこぶし",
-    "name_en": "",
+    "name_en": "Iron Fist",
     "description": "パンチわざの威力が1.2倍になる。",
     "generation": 4
   },
   {
     "id": 90,
     "name_ja": "ポイズンヒール",
-    "name_en": "",
+    "name_en": "Poison Heal",
     "description": "どく・もうどく状態によるダメージを無効化し、HPを1/8回復するようになる。",
     "generation": 4
   },
   {
     "id": 91,
     "name_ja": "てきおうりょく",
-    "name_en": "",
+    "name_en": "Adaptability",
     "description": "タイプ一致のダメージ補正が1.5倍から2倍になる。",
     "generation": 4
   },
   {
     "id": 92,
     "name_ja": "スキルリンク",
-    "name_en": "",
+    "name_en": "Skill Link",
     "description": "連続攻撃技を常に最大回数出せる。",
     "generation": 4
   },
   {
     "id": 93,
     "name_ja": "うるおいボディ",
-    "name_en": "",
+    "name_en": "Hydration",
     "description": "あめのとき、状態異常を治す。",
     "generation": 4
   },
   {
     "id": 94,
     "name_ja": "サンパワー",
-    "name_en": "",
+    "name_en": "Solar Power",
     "description": "にほんばれのとき、毎ターンHPが1/8減り、とくこうが1.5倍になる。",
     "generation": 4
   },
   {
     "id": 95,
     "name_ja": "はやあし",
-    "name_en": "",
+    "name_en": "Quick Feet",
     "description": "状態異常のとき、すばやさが1.5倍になる。",
     "generation": 4
   },
   {
     "id": 96,
     "name_ja": "ノーマルスキン",
-    "name_en": "",
+    "name_en": "Normalize",
     "description": "全てのわざがノーマルタイプとなり、タイプを変えた技の威力が1.2倍になる。",
     "generation": 4
   },
   {
     "id": 97,
     "name_ja": "スナイパー",
-    "name_en": "",
+    "name_en": "Sniper",
     "description": "急所に当てたときのダメージが2.25倍になる。",
     "generation": 4
   },
   {
     "id": 98,
     "name_ja": "マジックガード",
-    "name_en": "",
+    "name_en": "Magic Guard",
     "description": "攻撃以外でのダメージを受けない。",
     "generation": 4
   },
   {
     "id": 99,
     "name_ja": "ノーガード",
-    "name_en": "",
+    "name_en": "No Guard",
     "description": "自分と相手のわざが必中になる。",
     "generation": 4
   },
   {
     "id": 100,
     "name_ja": "あとだし",
-    "name_en": "",
+    "name_en": "Stall",
     "description": "自分の行動順が、同じ優先度の中で最後になる。",
     "generation": 4
   },
   {
     "id": 101,
     "name_ja": "テクニシャン",
-    "name_en": "",
+    "name_en": "Technician",
     "description": "威力が低いわざの威力が1.5倍になる。",
     "generation": 4
   },
   {
     "id": 102,
     "name_ja": "リーフガード",
-    "name_en": "",
+    "name_en": "Leaf Guard",
     "description": "にほんばれのときに状態異常にならない。",
     "generation": 4
   },
   {
     "id": 103,
     "name_ja": "ぶきよう",
-    "name_en": "",
+    "name_en": "Klutz",
     "description": "自分の持ち物の効果がなくなる。",
     "generation": 4
   },
   {
     "id": 104,
     "name_ja": "かたやぶり",
-    "name_en": "",
+    "name_en": "Mold Breaker",
     "description": "特性の影響を受けずに技を出せる。",
     "generation": 4
   },
   {
     "id": 105,
     "name_ja": "きょううん",
-    "name_en": "",
+    "name_en": "Super Luck",
     "description": "急所ランクが1段階上がる。",
     "generation": 4
   },
   {
     "id": 106,
     "name_ja": "ゆうばく",
-    "name_en": "",
+    "name_en": "Aftermath",
     "description": "ひんしになったとき、相手に1/4のダメージを与える。",
     "generation": 4
   },
   {
     "id": 107,
     "name_ja": "きけんよち",
-    "name_en": "",
+    "name_en": "Anticipation",
     "description": "相手が自分に効果抜群のわざを持っているかわかる。",
     "generation": 4
   },
   {
     "id": 108,
     "name_ja": "よちむ",
-    "name_en": "",
+    "name_en": "Forewarn",
     "description": "相手の持つわざが1つ分かる。",
     "generation": 4
   },
   {
     "id": 109,
     "name_ja": "てんねん",
-    "name_en": "",
+    "name_en": "Unaware",
     "description": "相手のランク補正を無視する。",
     "generation": 4
   },
   {
     "id": 110,
     "name_ja": "いろめがね",
-    "name_en": "",
+    "name_en": "Tinted Lens",
     "description": "与える「効果は 今ひとつ」のダメージが2倍になる。",
     "generation": 4
   },
   {
     "id": 111,
     "name_ja": "フィルター",
-    "name_en": "",
+    "name_en": "Filter",
     "description": "受ける効果抜群のわざのダメージが0.75倍になる。",
     "generation": 4
   },
   {
     "id": 112,
     "name_ja": "スロースタート",
-    "name_en": "",
+    "name_en": "Slow Start",
     "description": "5ターンの間こうげきとすばやさが半分になる。",
     "generation": 4
   },
   {
     "id": 113,
     "name_ja": "きもったま",
-    "name_en": "",
+    "name_en": "Scrappy",
     "description": "ゴーストタイプにノーマル・かくとうわざが当たるようになる。",
     "generation": 4
   },
   {
     "id": 114,
     "name_ja": "よびみず",
-    "name_en": "",
+    "name_en": "Storm Drain",
     "description": "みずわざの対象を自分にし、無効化してとくこうを1段階上げる。",
     "generation": 4
   },
   {
     "id": 115,
     "name_ja": "アイスボディ",
-    "name_en": "",
+    "name_en": "Ice Body",
     "description": "あられ/ゆきのとき、HPが1/16回復する。",
     "generation": 4
   },
   {
     "id": 116,
     "name_ja": "ハードロック",
-    "name_en": "",
+    "name_en": "Solid Rock",
     "description": "受ける効果抜群のわざのダメージが0.75倍になる。",
     "generation": 4
   },
   {
     "id": 117,
     "name_ja": "ゆきふらし",
-    "name_en": "",
+    "name_en": "Snow Warning",
     "description": "場をあられ4-8/9にする。",
     "generation": 4
   },
   {
     "id": 118,
     "name_ja": "みつあつめ",
-    "name_en": "",
+    "name_en": "Honey Gather",
     "description": "バトル終了後、あまいミツを拾ってくることがある。",
     "generation": 4
   },
   {
     "id": 119,
     "name_ja": "おみとおし",
-    "name_en": "",
+    "name_en": "Frisk",
     "description": "相手の持ち物が分かる。",
     "generation": 4
   },
   {
     "id": 120,
     "name_ja": "すてみ",
-    "name_en": "",
+    "name_en": "Reckless",
     "description": "反動を受けるわざなどの威力が1.2倍になる。",
     "generation": 4
   },
   {
     "id": 121,
     "name_ja": "マルチタイプ",
-    "name_en": "",
+    "name_en": "Multitype",
     "description": "持たせたプレート・Zクリスタルによってフォルムとタイプが変化する。",
     "generation": 4
   },
   {
     "id": 122,
     "name_ja": "フラワーギフト",
-    "name_en": "",
+    "name_en": "Flower Gift",
     "description": "にほんばれのとき、自分と味方のこうげきととくぼうを1.5倍に上げる。",
     "generation": 4
   },
   {
     "id": 123,
     "name_ja": "ナイトメア",
-    "name_en": "",
+    "name_en": "Bad Dreams",
     "description": "ねむり状態のポケモンのHPを1/8減らす。",
     "generation": 4
   },
   {
     "id": 124,
     "name_ja": "わるいてぐせ",
-    "name_en": "",
+    "name_en": "Pickpocket",
     "description": "直接攻撃を受けたとき、相手の道具を奪う。",
     "generation": 5
   },
   {
     "id": 125,
     "name_ja": "ちからずく",
-    "name_en": "",
+    "name_en": "Sheer Force",
     "description": "わざの追加効果が出なくなり、そのわざの威力が1.3倍に上がる。",
     "generation": 5
   },
   {
     "id": 126,
     "name_ja": "あまのじゃく",
-    "name_en": "",
+    "name_en": "Contrary",
     "description": "自分にかかるランク補正を逆にする。",
     "generation": 5
   },
   {
     "id": 127,
     "name_ja": "きんちょうかん",
-    "name_en": "",
+    "name_en": "Unnerve",
     "description": "相手のきのみを使えなくする。",
     "generation": 5
   },
   {
     "id": 128,
     "name_ja": "まけんき",
-    "name_en": "",
+    "name_en": "Defiant",
     "description": "敵から能力を下げられたとき、こうげきが2段階上がる。",
     "generation": 5
   },
   {
     "id": 129,
     "name_ja": "よわき",
-    "name_en": "",
+    "name_en": "Defeatist",
     "description": "HPが半分以下になると、こうげきととくこうが半分になる。",
     "generation": 5
   },
   {
     "id": 130,
     "name_ja": "のろわれボディ",
-    "name_en": "",
+    "name_en": "Cursed Body",
     "description": "攻撃技を受けると相手をかなしばりにすることがある。",
     "generation": 5
   },
   {
     "id": 131,
     "name_ja": "いやしのこころ",
-    "name_en": "",
+    "name_en": "Healer",
     "description": "味方の状態異常を治すことがある。",
     "generation": 5
   },
   {
     "id": 132,
     "name_ja": "フレンドガード",
-    "name_en": "",
+    "name_en": "Friend Guard",
     "description": "味方へのダメージが0.75倍になる。",
     "generation": 5
   },
   {
     "id": 133,
     "name_ja": "くだけるよろい",
-    "name_en": "",
+    "name_en": "Weak Armor",
     "description": "物理技を受けると、ぼうぎょが1段階下がりすばやさが2段階上がる。",
     "generation": 5
   },
   {
     "id": 134,
     "name_ja": "ヘヴィメタル",
-    "name_en": "",
+    "name_en": "Heavy Metal",
     "description": "重さが2倍になる。",
     "generation": 5
   },
   {
     "id": 135,
     "name_ja": "ライトメタル",
-    "name_en": "",
+    "name_en": "Light Metal",
     "description": "重さが半分になる。",
     "generation": 5
   },
   {
     "id": 136,
     "name_ja": "マルチスケイル",
-    "name_en": "",
+    "name_en": "Multiscale",
     "description": "HPが満タンのとき、受けるダメージが半減する。",
     "generation": 5
   },
   {
     "id": 137,
     "name_ja": "どくぼうそう",
-    "name_en": "",
+    "name_en": "Toxic Boost",
     "description": "どく・もうどく状態のとき、物理技の威力が1.5倍になる。",
     "generation": 5
   },
   {
     "id": 138,
     "name_ja": "ねつぼうそう",
-    "name_en": "",
+    "name_en": "Flare Boost",
     "description": "やけど状態のとき、特殊技の威力が1.5倍になる。",
     "generation": 5
   },
   {
     "id": 139,
     "name_ja": "しゅうかく",
-    "name_en": "",
+    "name_en": "Harvest",
     "description": "消費したきのみを復活させることがある。",
     "generation": 5
   },
   {
     "id": 140,
     "name_ja": "テレパシー",
-    "name_en": "",
+    "name_en": "Telepathy",
     "description": "味方からの攻撃を無効化する。",
     "generation": 5
   },
   {
     "id": 141,
     "name_ja": "ムラっけ",
-    "name_en": "",
+    "name_en": "Moody",
     "description": "毎ターンいずれかのステータスが1段階下がり、2段階上がる。",
     "generation": 5
   },
   {
     "id": 142,
     "name_ja": "ぼうじん",
-    "name_en": "",
+    "name_en": "Overcoat",
     "description": "すなあらし・あられや粉のわざを無効化する。",
     "generation": 5
   },
   {
     "id": 143,
     "name_ja": "どくしゅ",
-    "name_en": "",
+    "name_en": "Poison Touch",
     "description": "直接攻撃を使ったとき、相手をどく状態にすることがある。",
     "generation": 5
   },
   {
     "id": 144,
     "name_ja": "さいせいりょく",
-    "name_en": "",
+    "name_en": "Regenerator",
     "description": "手持ちに戻るとHPが1/3回復する。",
     "generation": 5
   },
   {
     "id": 145,
     "name_ja": "はとむね",
-    "name_en": "",
+    "name_en": "Big Pecks",
     "description": "相手からぼうぎょを下げられない。",
     "generation": 5
   },
   {
     "id": 146,
     "name_ja": "すなかき",
-    "name_en": "",
+    "name_en": "Sand Rush",
     "description": "すなあらしのとき、すばやさが2倍になる。",
     "generation": 5
   },
   {
     "id": 147,
     "name_ja": "ミラクルスキン",
-    "name_en": "",
+    "name_en": "Wonder Skin",
     "description": "相手の変化技の命中率が50%以上の場合は50%になる。",
     "generation": 5
   },
   {
     "id": 148,
     "name_ja": "アナライズ",
-    "name_en": "",
+    "name_en": "Analytic",
     "description": "最後にわざを出すと威力が1.3倍になる。",
     "generation": 5
   },
   {
     "id": 149,
     "name_ja": "イリュージョン",
-    "name_en": "",
+    "name_en": "Illusion",
     "description": "手持ちのポケモンに化けて場に出る。",
     "generation": 5
   },
   {
     "id": 150,
     "name_ja": "かわりもの",
-    "name_en": "",
+    "name_en": "Imposter",
     "description": "場に出た直後に相手にへんしんする。",
     "generation": 5
   },
   {
     "id": 151,
     "name_ja": "すりぬけ",
-    "name_en": "",
+    "name_en": "Infiltrator",
     "description": "壁系のわざやみがわりを無視して攻撃できる。",
     "generation": 5
   },
   {
     "id": 152,
     "name_ja": "ミイラ",
-    "name_en": "",
+    "name_en": "Mummy",
     "description": "直接攻撃を受けたとき、相手の特性もミイラにする。",
     "generation": 5
   },
   {
     "id": 153,
     "name_ja": "じしんかじょう",
-    "name_en": "",
+    "name_en": "Moxie",
     "description": "ポケモンを倒すとこうげきが1段階上がる。",
     "generation": 5
   },
   {
     "id": 154,
     "name_ja": "せいぎのこころ",
-    "name_en": "",
+    "name_en": "Justified",
     "description": "あくタイプの攻撃を受けるとこうげきが1段階上がる。",
     "generation": 5
   },
   {
     "id": 155,
     "name_ja": "びびり",
-    "name_en": "",
+    "name_en": "Rattled",
     "description": "ゴースト・むし・あくタイプの攻撃を受けるとすばやさが1段階上がる。",
     "generation": 5
   },
   {
     "id": 156,
     "name_ja": "マジックミラー",
-    "name_en": "",
+    "name_en": "Magic Bounce",
     "description": "常にマジックコート状態になる。",
     "generation": 5
   },
   {
     "id": 157,
     "name_ja": "そうしょく",
-    "name_en": "",
+    "name_en": "Sap Sipper",
     "description": "くさタイプのわざを無効化し、こうげきが1段階上がる。",
     "generation": 5
   },
   {
     "id": 158,
     "name_ja": "いたずらごころ",
-    "name_en": "",
+    "name_en": "Prankster",
     "description": "変化技の優先度を1高くして出せる。",
     "generation": 5
   },
   {
     "id": 159,
     "name_ja": "すなのちから",
-    "name_en": "",
+    "name_en": "Sand Force",
     "description": "すなあらしのとき、いわ・じめん・はがねの威力が1.3倍になる。",
     "generation": 5
   },
   {
     "id": 160,
     "name_ja": "てつのトゲ",
-    "name_en": "",
+    "name_en": "Iron Barbs",
     "description": "直接攻撃を受けたとき、相手に最大HPの1/8分のダメージを与える。",
     "generation": 5
   },
   {
     "id": 161,
     "name_ja": "ダルマモード",
-    "name_en": "",
+    "name_en": "Zen Mode",
     "description": "HPが半分以下になるとヒヒダルマのフォルムが変化する。",
     "generation": 5
   },
   {
     "id": 162,
     "name_ja": "しょうりのほし",
-    "name_en": "",
+    "name_en": "Victory Star",
     "description": "自分と味方の命中率が1.1倍になる。",
     "generation": 5
   },
   {
     "id": 163,
     "name_ja": "ターボブレイズ",
-    "name_en": "",
+    "name_en": "Turboblaze",
     "description": "特性の影響を受けずに技を出せる。",
     "generation": 5
   },
   {
     "id": 164,
     "name_ja": "テラボルテージ",
-    "name_en": "",
+    "name_en": "Teravolt",
     "description": "特性の影響を受けずに技を出せる。",
     "generation": 5
   },
   {
     "id": 165,
     "name_ja": "アロマベール",
-    "name_en": "",
+    "name_en": "Aroma Veil",
     "description": "自分と味方がメンタル系の状態変化にならない。",
     "generation": 6
   },
   {
     "id": 166,
     "name_ja": "フラワーベール",
-    "name_en": "",
+    "name_en": "Flower Veil",
     "description": "味方の場のくさタイプのポケモンは、相手からランク補正を下げられなくなり、状態異常にもならない。",
     "generation": 6
   },
   {
     "id": 167,
     "name_ja": "ほおぶくろ",
-    "name_en": "",
+    "name_en": "Cheek Pouch",
     "description": "きのみを食べたとき、通常の効果に加えてHPが1/3回復する。",
     "generation": 6
   },
   {
     "id": 168,
     "name_ja": "へんげんじざい",
-    "name_en": "",
+    "name_en": "Protean",
     "description": "わざを出す直前にそのわざのタイプになる。",
     "generation": 6
   },
   {
     "id": 169,
     "name_ja": "ファーコート",
-    "name_en": "",
+    "name_en": "Fur Coat",
     "description": "ぼうぎょが2倍になる。",
     "generation": 6
   },
   {
     "id": 170,
     "name_ja": "マジシャン",
-    "name_en": "",
+    "name_en": "Magician",
     "description": "攻撃を当てたとき、相手の持ち物を奪う。",
     "generation": 6
   },
   {
     "id": 171,
     "name_ja": "ぼうだん",
-    "name_en": "",
+    "name_en": "Bulletproof",
     "description": "砲弾系のわざを無効化する。",
     "generation": 6
   },
   {
     "id": 172,
     "name_ja": "かちき",
-    "name_en": "",
+    "name_en": "Competitive",
     "description": "敵から能力を下げられたとき、とくこうが2段階上がる。",
     "generation": 6
   },
   {
     "id": 173,
     "name_ja": "がんじょうあご",
-    "name_en": "",
+    "name_en": "Strong Jaw",
     "description": "かみつきわざの威力が1.5倍になる。",
     "generation": 6
   },
   {
     "id": 174,
     "name_ja": "フリーズスキン",
-    "name_en": "",
+    "name_en": "Refrigerate",
     "description": "ノーマルタイプのわざがこおりタイプになり、威力が1.2倍になる。",
     "generation": 6
   },
   {
     "id": 175,
     "name_ja": "スイートベール",
-    "name_en": "",
+    "name_en": "Sweet Veil",
     "description": "自分と味方がねむり状態にならなくなる。",
     "generation": 6
   },
   {
     "id": 176,
     "name_ja": "バトルスイッチ",
-    "name_en": "",
+    "name_en": "Stance Change",
     "description": "使う技に応じてギルガルドのフォルムを変化させる。",
     "generation": 6
   },
   {
     "id": 177,
     "name_ja": "はやてのつばさ",
-    "name_en": "",
+    "name_en": "Gale Wings",
     "description": "HPが満タンのとき、ひこうわざの優先度を1高くして出せる。",
     "generation": 6
   },
   {
     "id": 178,
     "name_ja": "メガランチャー",
-    "name_en": "",
+    "name_en": "Mega Launcher",
     "description": "はどう系のわざの威力が1.5倍になる。",
     "generation": 6
   },
   {
     "id": 179,
     "name_ja": "くさのけがわ",
-    "name_en": "",
+    "name_en": "Grass Pelt",
     "description": "グラスフィールドのとき、ぼうぎょが1.5倍になる。",
     "generation": 6
   },
   {
     "id": 180,
     "name_ja": "きょうせい",
-    "name_en": "",
+    "name_en": "Symbiosis",
     "description": "味方の持ち物がなくなったとき、自分の持ち物を渡す。",
     "generation": 6
   },
   {
     "id": 181,
     "name_ja": "かたいツメ",
-    "name_en": "",
+    "name_en": "Tough Claws",
     "description": "使用する直接攻撃の威力が1.3倍になる。",
     "generation": 6
   },
   {
     "id": 182,
     "name_ja": "フェアリースキン",
-    "name_en": "",
+    "name_en": "Pixilate",
     "description": "ノーマルタイプのわざがフェアリータイプになり、威力が1.2倍になる。",
     "generation": 6
   },
   {
     "id": 183,
     "name_ja": "ぬめぬめ",
-    "name_en": "",
+    "name_en": "Gooey",
     "description": "直接攻撃を受けたとき、相手のすばやさを1段階下げる。",
     "generation": 6
   },
   {
     "id": 184,
     "name_ja": "スカイスキン",
-    "name_en": "",
+    "name_en": "Aerilate",
     "description": "ノーマルタイプのわざがひこうタイプになり、威力が1.2倍になる。",
     "generation": 6
   },
   {
     "id": 185,
     "name_ja": "おやこあい",
-    "name_en": "",
+    "name_en": "Parental Bond",
     "description": "攻撃技を出した際に、25%の威力の2発目を出せる。",
     "generation": 6
   },
   {
     "id": 186,
     "name_ja": "ダークオーラ",
-    "name_en": "",
+    "name_en": "Dark Aura",
     "description": "場にいるポケモンのあくわざの威力が1.33倍になる。",
     "generation": 6
   },
   {
     "id": 187,
     "name_ja": "フェアリーオーラ",
-    "name_en": "",
+    "name_en": "Fairy Aura",
     "description": "場にいるポケモンのフェアリーわざの威力が1.33倍になる。",
     "generation": 6
   },
   {
     "id": 188,
     "name_ja": "オーラブレイク",
-    "name_en": "",
+    "name_en": "Aura Break",
     "description": "ダークオーラ・フェアリーオーラの効果を逆にし、威力が0.75倍になるようにする。",
     "generation": 6
   },
   {
     "id": 189,
     "name_ja": "はじまりのうみ",
-    "name_en": "",
+    "name_en": "Primordial Sea",
     "description": "天気をおおあめにする。",
     "generation": 6
   },
   {
     "id": 190,
     "name_ja": "おわりのだいち",
-    "name_en": "",
+    "name_en": "Desolate Land",
     "description": "天気をおおひでりにする。",
     "generation": 6
   },
   {
     "id": 191,
     "name_ja": "デルタストリーム",
-    "name_en": "",
+    "name_en": "Delta Stream",
     "description": "天気をらんきりゅうにする。",
     "generation": 6
   },
   {
     "id": 192,
     "name_ja": "じきゅうりょく",
-    "name_en": "",
+    "name_en": "Stamina",
     "description": "攻撃技を受けるとぼうぎょが1段階上がる。",
     "generation": 7
   },
   {
     "id": 193,
     "name_ja": "にげごし",
-    "name_en": "",
+    "name_en": "Wimp Out",
     "description": "HPが半分以下になると交代する。",
     "generation": 7
   },
   {
     "id": 194,
     "name_ja": "ききかいひ",
-    "name_en": "",
+    "name_en": "Emergency Exit",
     "description": "HPが半分以下になると交代する。",
     "generation": 7
   },
   {
     "id": 195,
     "name_ja": "みずがため",
-    "name_en": "",
+    "name_en": "Water Compaction",
     "description": "みずタイプの攻撃を受けるとぼうぎょが2段階上がる。",
     "generation": 7
   },
   {
     "id": 196,
     "name_ja": "ひとでなし",
-    "name_en": "",
+    "name_en": "Merciless",
     "description": "相手がどく・もうどく状態のとき、自分のわざが急所に当たる。",
     "generation": 7
   },
   {
     "id": 197,
     "name_ja": "リミットシールド",
-    "name_en": "",
+    "name_en": "Shields Down",
     "description": "HPが半分より多いとメテノのフォルムが変わる。",
     "generation": 7
   },
   {
     "id": 198,
     "name_ja": "はりこみ",
-    "name_en": "",
+    "name_en": "Stakeout",
     "description": "交代して出てきたポケモンに攻撃するとき、こうげき・とくこうが2倍になる。",
     "generation": 7
   },
   {
     "id": 199,
     "name_ja": "すいほう",
-    "name_en": "",
+    "name_en": "Water Bubble",
     "description": "ほのおタイプのわざを受けるとき、相手のこうげき・とくこうを半分にする。\nやけど状態にならない。\nみずタイプのわざで攻撃するとき、こうげき・とくこうが2倍になる。",
     "generation": 7
   },
   {
     "id": 200,
     "name_ja": "はがねつかい",
-    "name_en": "",
+    "name_en": "Steelworker",
     "description": "はがねタイプのわざで攻撃するとき、こうげき・とくこうが1.5倍になる。",
     "generation": 7
   },
   {
     "id": 201,
     "name_ja": "ぎゃくじょう",
-    "name_en": "",
+    "name_en": "Berserk",
     "description": "HPが半分以下になったとき、とくこうが1段階上がる。",
     "generation": 7
   },
   {
     "id": 202,
     "name_ja": "ゆきかき",
-    "name_en": "",
+    "name_en": "Slush Rush",
     "description": "あられ/ゆきのとき、すばやさが2倍になる。",
     "generation": 7
   },
   {
     "id": 203,
     "name_ja": "えんかく",
-    "name_en": "",
+    "name_en": "Long Reach",
     "description": "使用する直接攻撃わざが、直接攻撃でなくなる。",
     "generation": 7
   },
   {
     "id": 204,
     "name_ja": "うるおいボイス",
-    "name_en": "",
+    "name_en": "Liquid Voice",
     "description": "音のわざがみずタイプになる。",
     "generation": 7
   },
   {
     "id": 205,
     "name_ja": "ヒーリングシフト",
-    "name_en": "",
+    "name_en": "Triage",
     "description": "HPを回復するわざの優先度を3高くして出せる。",
     "generation": 7
   },
   {
     "id": 206,
     "name_ja": "エレキスキン",
-    "name_en": "",
+    "name_en": "Galvanize",
     "description": "ノーマルタイプのわざがでんきタイプになり、威力が1.2倍になる。",
     "generation": 7
   },
   {
     "id": 207,
     "name_ja": "サーフテール",
-    "name_en": "",
+    "name_en": "Surge Surfer",
     "description": "場がエレキフィールドのとき、すばやさが2倍になる。",
     "generation": 7
   },
   {
     "id": 208,
     "name_ja": "ぎょぐん",
-    "name_en": "",
+    "name_en": "Schooling",
     "description": "HPが25%以上あるとヨワシのフォルムが変化する。",
     "generation": 7
   },
   {
     "id": 209,
     "name_ja": "ばけのかわ",
-    "name_en": "",
+    "name_en": "Disguise",
     "description": "1回だけ攻撃技のダメージを無効化する。発動すると最大HPの1/8が減少する。",
     "generation": 7
   },
   {
     "id": 210,
     "name_ja": "きずなへんげ",
-    "name_en": "",
+    "name_en": "Battle Bond",
     "description": "ポケモンを倒すとこうげき・とくこう・すばやさが1段階ずつ上昇する。",
     "generation": 7
   },
   {
     "id": 211,
     "name_ja": "スワームチェンジ",
-    "name_en": "",
+    "name_en": "Power Construct",
     "description": "HPが半分以下になるとパーフェクトフォルムにフォルムチェンジする。",
     "generation": 7
   },
   {
     "id": 212,
     "name_ja": "ふしょく",
-    "name_en": "",
+    "name_en": "Corrosion",
     "description": "はがね・どくタイプのポケモンをどく・もうどく状態にできる。",
     "generation": 7
   },
   {
     "id": 213,
     "name_ja": "ぜったいねむり",
-    "name_en": "",
+    "name_en": "Comatose",
     "description": "状態異常にならない。ねむり状態のように扱われる。",
     "generation": 7
   },
   {
     "id": 214,
     "name_ja": "じょおうのいげん",
-    "name_en": "",
+    "name_en": "Queenly Majesty",
     "description": "自分と味方は相手側からの先制技を受けなくなる。",
     "generation": 7
   },
   {
     "id": 215,
     "name_ja": "とびだすなかみ",
-    "name_en": "",
+    "name_en": "Innards Out",
     "description": "ひんしになったとき、直前のHP分だけ相手にダメージを与える。",
     "generation": 7
   },
   {
     "id": 216,
     "name_ja": "おどりこ",
-    "name_en": "",
+    "name_en": "Dancer",
     "description": "他のポケモンが踊り系のわざを使った直後に同じ技をだす。",
     "generation": 7
   },
   {
     "id": 217,
     "name_ja": "バッテリー",
-    "name_en": "",
+    "name_en": "Battery",
     "description": "味方の特殊技の威力が1.3倍になる。",
     "generation": 7
   },
   {
     "id": 218,
     "name_ja": "もふもふ",
-    "name_en": "",
+    "name_en": "Fluffy",
     "description": "受ける直接攻撃のダメージが0.5倍、ほのおわざのダメージが2倍になる。",
     "generation": 7
   },
   {
     "id": 219,
     "name_ja": "ビビッドボディ",
-    "name_en": "",
+    "name_en": "Dazzling",
     "description": "自分と味方は相手側からの先制技を受けなくなる。",
     "generation": 7
   },
   {
     "id": 220,
     "name_ja": "ソウルハート",
-    "name_en": "",
+    "name_en": "Soul-Heart",
     "description": "場のポケモンがひんしになるととくこうが1段階上がる。",
     "generation": 7
   },
   {
     "id": 221,
     "name_ja": "カーリーヘアー",
-    "name_en": "",
+    "name_en": "Tangling Hair",
     "description": "直接攻撃を受けたとき、相手のすばやさを1段階下げる。",
     "generation": 7
   },
   {
     "id": 222,
     "name_ja": "レシーバー",
-    "name_en": "",
+    "name_en": "Receiver",
     "description": "味方がひんしになったとき、そのポケモンと同じ特性になる。",
     "generation": 7
   },
   {
     "id": 223,
     "name_ja": "かがくのちから",
-    "name_en": "",
+    "name_en": "Power of Alchemy",
     "description": "味方がひんしになったとき、そのポケモンと同じ特性になる。",
     "generation": 7
   },
   {
     "id": 224,
     "name_ja": "ビーストブースト",
-    "name_en": "",
+    "name_en": "Beast Boost",
     "description": "ポケモンを倒すと、自分の最も高い能力が1段階上がる。",
     "generation": 7
   },
   {
     "id": 225,
     "name_ja": "ARシステム",
-    "name_en": "",
+    "name_en": "RKS System",
     "description": "持たせたメモリによってフォルムとタイプが変わる。",
     "generation": 7
   },
   {
     "id": 226,
     "name_ja": "エレキメイカー",
-    "name_en": "",
+    "name_en": "Electric Surge",
     "description": "場の状態をエレキフィールドにする。",
     "generation": 7
   },
   {
     "id": 227,
     "name_ja": "サイコメイカー",
-    "name_en": "",
+    "name_en": "Psychic Surge",
     "description": "場の状態をサイコフィールドにする。",
     "generation": 7
   },
   {
     "id": 228,
     "name_ja": "ミストメイカー",
-    "name_en": "",
+    "name_en": "Misty Surge",
     "description": "場の状態をミストフィールドにする。",
     "generation": 7
   },
   {
     "id": 229,
     "name_ja": "グラスメイカー",
-    "name_en": "",
+    "name_en": "Grassy Surge",
     "description": "場の状態をグラスフィールドにする。",
     "generation": 7
   },
   {
     "id": 230,
     "name_ja": "メタルプロテクト",
-    "name_en": "",
+    "name_en": "Full Metal Body",
     "description": "相手からランク補正を下げられない。",
     "generation": 7
   },
   {
     "id": 231,
     "name_ja": "ファントムガード",
-    "name_en": "",
+    "name_en": "Shadow Shield",
     "description": "HPが満タンのとき、受けるダメージが半減する。",
     "generation": 7
   },
   {
     "id": 232,
     "name_ja": "プリズムアーマー",
-    "name_en": "",
+    "name_en": "Prism Armor",
     "description": "効果抜群のわざのダメージが0.75倍になる。",
     "generation": 7
   },
   {
     "id": 233,
     "name_ja": "ブレインフォース",
-    "name_en": "",
+    "name_en": "Neuroforce",
     "description": "効果抜群のわざの威力が1.25倍になる。",
     "generation": 7
   },
   {
     "id": 234,
     "name_ja": "ふとうのけん",
-    "name_en": "",
+    "name_en": "Intrepid Sword",
     "description": "場に出たとき、こうげきが1段階上がる。",
     "generation": 8
   },
   {
     "id": 235,
     "name_ja": "ふくつのたて",
-    "name_en": "",
+    "name_en": "Dauntless Shield",
     "description": "場に出たとき、ぼうぎょが1段階上がる。",
     "generation": 8
   },
   {
     "id": 236,
     "name_ja": "リベロ",
-    "name_en": "",
+    "name_en": "Libero",
     "description": "わざを出す直前にそのわざのタイプになる。",
     "generation": 8
   },
   {
     "id": 237,
     "name_ja": "たまひろい",
-    "name_en": "",
+    "name_en": "Ball Fetch",
     "description": "野生ポケモンの捕獲に失敗した際、ボールを拾ってくる。",
     "generation": 8
   },
   {
     "id": 238,
     "name_ja": "わたげ",
-    "name_en": "",
+    "name_en": "Cotton Down",
     "description": "攻撃を受けると自分以外のポケモンのすばやさを1段階下げる。",
     "generation": 8
   },
   {
     "id": 239,
     "name_ja": "スクリューおびれ",
-    "name_en": "",
+    "name_en": "Propeller Tail",
     "description": "攻撃を引き寄せる技や特性の効果を無視する。",
     "generation": 8
   },
   {
     "id": 240,
     "name_ja": "ミラーアーマー",
-    "name_en": "",
+    "name_en": "Mirror Armor",
     "description": "相手から受けたランク補正を下げる効果を跳ね返す。",
     "generation": 8
   },
   {
     "id": 241,
     "name_ja": "うのミサイル",
-    "name_en": "",
+    "name_en": "Gulp Missile",
     "description": "なみのりかダイビングを使うと水中から獲物を咥えてくる。\nこの状態で攻撃を受けると咥えた獲物を吐き出して反撃し、元のフォルムに戻る。",
     "generation": 8
   },
   {
     "id": 242,
     "name_ja": "すじがねいり",
-    "name_en": "",
+    "name_en": "Stalwart",
     "description": "攻撃を引き寄せる技や特性の効果を無視する。",
     "generation": 8
   },
   {
     "id": 243,
     "name_ja": "じょうききかん",
-    "name_en": "",
+    "name_en": "Steam Engine",
     "description": "みずタイプかほのおタイプのわざを受けるとすばやさが6段階上がる。\nタマゴの孵化に必要な歩数が半減する。",
     "generation": 8
   },
   {
     "id": 244,
     "name_ja": "パンクロック",
-    "name_en": "",
+    "name_en": "Punk Rock",
     "description": "使用する音のわざの威力が1.3倍になる。\n受ける音のわざのダメージが半減する。",
     "generation": 8
   },
   {
     "id": 245,
     "name_ja": "すなはき",
-    "name_en": "",
+    "name_en": "Sand Spit",
     "description": "攻撃を受けると場をすなあらし状態にする。",
     "generation": 8
   },
   {
     "id": 246,
     "name_ja": "こおりのりんぷん",
-    "name_en": "",
+    "name_en": "Ice Scales",
     "description": "受ける特殊技のダメージが半減する。",
     "generation": 8
   },
   {
     "id": 247,
     "name_ja": "じゅくせい",
-    "name_en": "",
+    "name_en": "Ripen",
     "description": "きのみの効果が2倍になる。",
     "generation": 8
   },
   {
     "id": 248,
     "name_ja": "アイスフェイス",
-    "name_en": "",
+    "name_en": "Ice Face",
     "description": "物理技を受けると、ダメージを無効化してフォルムチェンジする。\n天気があられ/ゆき状態に変わるとフォルムが戻る。",
     "generation": 8
   },
   {
     "id": 249,
     "name_ja": "パワースポット",
-    "name_en": "",
+    "name_en": "Power Spot",
     "description": "味方の攻撃技の威力が1.3倍になる。",
     "generation": 8
   },
   {
     "id": 250,
     "name_ja": "ぎたい",
-    "name_en": "",
+    "name_en": "Mimicry",
     "description": "フィールドに合わせてタイプが変わる。",
     "generation": 8
   },
   {
     "id": 251,
     "name_ja": "バリアフリー",
-    "name_en": "",
+    "name_en": "Screen Cleaner",
     "description": "場に出たとき、お互いの壁を解除する。",
     "generation": 8
   },
   {
     "id": 252,
     "name_ja": "はがねのせいしん",
-    "name_en": "",
+    "name_en": "Steely Spirit",
     "description": "自分・味方のはがねタイプの技の威力が1.5倍になる。",
     "generation": 8
   },
   {
     "id": 253,
     "name_ja": "ほろびのボディ",
-    "name_en": "",
+    "name_en": "Perish Body",
     "description": "直接攻撃を受けたとき、お互いがほろびのうた状態になる。",
     "generation": 8
   },
   {
     "id": 254,
     "name_ja": "さまようたましい",
-    "name_en": "",
+    "name_en": "Wandering Spirit",
     "description": "直接攻撃を受けたとき、相手と特性を入れ替える。",
     "generation": 8
   },
   {
     "id": 255,
     "name_ja": "ごりむちゅう",
-    "name_en": "",
+    "name_en": "Gorilla Tactics",
     "description": "こうげきが1.5倍になるが、最初に選んだ技しか出せなくなる。",
     "generation": 8
   },
   {
     "id": 256,
     "name_ja": "かがくへんかガス",
-    "name_en": "",
+    "name_en": "Neutralizing Gas",
     "description": "場にいる間、他の特性の効果が発動しなくなる。",
     "generation": 8
   },
   {
     "id": 257,
     "name_ja": "パステルベール",
-    "name_en": "",
+    "name_en": "Pastel Veil",
     "description": "自分と味方がどく状態にならない。",
     "generation": 8
   },
   {
     "id": 258,
     "name_ja": "はらぺこスイッチ",
-    "name_en": "",
+    "name_en": "Hunger Switch",
     "description": "1ターンごとにモルペコのフォルムが変わる。",
     "generation": 8
   },
   {
     "id": 259,
     "name_ja": "クイックドロウ",
-    "name_en": "",
+    "name_en": "Quick Draw",
     "description": "攻撃技を使ったとき、同じ優先度の中で最初に行動できることがある。",
     "generation": 8
   },
   {
     "id": 260,
     "name_ja": "ふかしのこぶし",
-    "name_en": "",
+    "name_en": "Unseen Fist",
     "description": "直接攻撃を使ったとき、相手のまもる状態を無視する。",
     "generation": 8
   },
   {
     "id": 261,
     "name_ja": "きみょうなくすり",
-    "name_en": "",
+    "name_en": "Curious Medicine",
     "description": "場に出たとき、味方のランク補正を元に戻す。",
     "generation": 8
   },
   {
     "id": 262,
     "name_ja": "トランジスタ",
-    "name_en": "",
+    "name_en": "Transistor",
     "description": "でんきタイプのわざで攻撃するとき、こうげき・とくこうが1.3倍になる。",
     "generation": 8
   },
   {
     "id": 263,
     "name_ja": "りゅうのあぎと",
-    "name_en": "",
+    "name_en": "Dragon’s Maw",
     "description": "ドラゴンタイプのわざで攻撃するとき、こうげき・とくこうが1.5倍になる。",
     "generation": 8
   },
   {
     "id": 264,
     "name_ja": "しろのいななき",
-    "name_en": "",
+    "name_en": "Chilling Neigh",
     "description": "ポケモンを倒すとこうげきが1段階上がる。",
     "generation": 8
   },
   {
     "id": 265,
     "name_ja": "くろのいななき",
-    "name_en": "",
+    "name_en": "Grim Neigh",
     "description": "ポケモンを倒すととくこうが1段階上がる。",
     "generation": 8
   },
   {
     "id": 266,
     "name_ja": "じんばいったい",
-    "name_en": "",
+    "name_en": "As One",
     "description": "きんちょうかんとしろのいななきの効果をあわせ持つ。",
     "generation": 8
   },
   {
     "id": 267,
     "name_ja": "じんばいったい",
-    "name_en": "",
+    "name_en": "As One",
     "description": "きんちょうかんとくろのいななきの効果をあわせ持つ。",
     "generation": 8
   },
   {
     "id": 268,
     "name_ja": "とれないにおい",
-    "name_en": "",
+    "name_en": "Lingering Aroma",
     "description": "直接攻撃を受けたとき、相手の特性もとれないにおいにする。",
     "generation": 9
   },
   {
     "id": 269,
     "name_ja": "こぼれダネ",
-    "name_en": "",
+    "name_en": "Seed Sower",
     "description": "攻撃技を受けたとき、場をグラスフィールド状態にする。",
     "generation": 9
   },
   {
     "id": 270,
     "name_ja": "ねつこうかん",
-    "name_en": "",
+    "name_en": "Thermal Exchange",
     "description": "ほのおタイプの攻撃を受けるとこうげきが1段階上がる。やけど状態にならない。",
     "generation": 9
   },
   {
     "id": 271,
     "name_ja": "いかりのこうら",
-    "name_en": "",
+    "name_en": "Anger Shell",
     "description": "HPが半分以下になったとき、ぼうぎょ・とくぼうが1段階下がり、こうげき・とくこう・すばやさが1段階上がる。",
     "generation": 9
   },
   {
     "id": 272,
     "name_ja": "きよめのしお",
-    "name_en": "",
+    "name_en": "Purifying Salt",
     "description": "状態異常にならず、ゴースト技を受けるとき相手のこうげき・とくこうを半減させる。",
     "generation": 9
   },
   {
     "id": 273,
     "name_ja": "こんがりボディ",
-    "name_en": "",
+    "name_en": "Well-Baked Body",
     "description": "ほのおタイプの技を受けても無効化し、ぼうぎょを2段階上げる。",
     "generation": 9
   },
   {
     "id": 274,
     "name_ja": "かぜのり",
-    "name_en": "",
+    "name_en": "Wind Rider",
     "description": "おいかぜ状態の効果を受けるか、風の技を受けるとこうげきが1段階上がる。風の技のダメージを受けない。",
     "generation": 9
   },
   {
     "id": 275,
     "name_ja": "ばんけん",
-    "name_en": "",
+    "name_en": "Guard Dog",
     "description": "いかくを受けるとこうげきが1段階上がる。相手の交代させる技やレッドカードの効果を受けない。",
     "generation": 9
   },
   {
     "id": 276,
     "name_ja": "いわはこび",
-    "name_en": "",
+    "name_en": "Rocky Payload",
     "description": "いわタイプの技で攻撃するとき、こうげき・とくこうが1.5倍になる。",
     "generation": 9
   },
   {
     "id": 277,
     "name_ja": "ふうりょくでんき",
-    "name_en": "",
+    "name_en": "Wind Power",
     "description": "場がおいかぜ状態に変わるか、風の技でダメージを受けるとじゅうでん状態になる。",
     "generation": 9
   },
   {
     "id": 278,
     "name_ja": "マイティチェンジ",
-    "name_en": "",
+    "name_en": "Zero to Hero",
     "description": "手持ちに戻ったとき、マイティフォルムにフォルムチェンジする。",
     "generation": 9
   },
   {
     "id": 279,
     "name_ja": "しれいとう",
-    "name_en": "",
+    "name_en": "Commander",
     "description": "味方にヘイラッシャがいる場合その中に入り、全能力を2段階ずつ上げる。",
     "generation": 9
   },
   {
     "id": 280,
     "name_ja": "でんきにかえる",
-    "name_en": "",
+    "name_en": "Electromorphosis",
     "description": "攻撃技を受けるとじゅうでん状態になる。",
     "generation": 9
   },
   {
     "id": 281,
     "name_ja": "こだいかっせい",
-    "name_en": "",
+    "name_en": "Protosynthesis",
     "description": "場がにほんばれ状態か、ブーストエナジーを持っているとき、自分の最も高い能力が上がる。",
     "generation": 9
   },
   {
     "id": 282,
     "name_ja": "クォークチャージ",
-    "name_en": "",
+    "name_en": "Quark Drive",
     "description": "場がエレキフィールド状態か、ブーストエナジーを持っているとき、自分の最も高い能力が上がる。",
     "generation": 9
   },
   {
     "id": 283,
     "name_ja": "おうごんのからだ",
-    "name_en": "",
+    "name_en": "Good as Gold",
     "description": "他のポケモンから受ける変化技を無効化する。",
     "generation": 9
   },
   {
     "id": 284,
     "name_ja": "わざわいのうつわ",
-    "name_en": "",
+    "name_en": "Vessel of Ruin",
     "description": "この特性のポケモン以外全員のとくこうが3/4倍になる。",
     "generation": 9
   },
   {
     "id": 285,
     "name_ja": "わざわいのつるぎ",
-    "name_en": "",
+    "name_en": "Sword of Ruin",
     "description": "この特性のポケモン以外全員のぼうぎょが3/4倍になる。",
     "generation": 9
   },
   {
     "id": 286,
     "name_ja": "わざわいのおふだ",
-    "name_en": "",
+    "name_en": "Tablets of Ruin",
     "description": "この特性のポケモン以外全員のこうげきが3/4倍になる。",
     "generation": 9
   },
   {
     "id": 287,
     "name_ja": "わざわいのたま",
-    "name_en": "",
+    "name_en": "Beads of Ruin",
     "description": "この特性のポケモン以外全員のとくぼうが3/4倍になる。",
     "generation": 9
   },
   {
     "id": 288,
     "name_ja": "ひひいろのこどう",
-    "name_en": "",
+    "name_en": "Orichalcum Pulse",
     "description": "場に出たとき、にほんばれ状態にし、その間こうげきも4/3倍になる。",
     "generation": 9
   },
   {
     "id": 289,
     "name_ja": "ハドロンエンジン",
-    "name_en": "",
+    "name_en": "Hadron Engine",
     "description": "場に出たとき、エレキフィールド状態にし、その間とくこうも4/3倍になる。",
     "generation": 9
   },
   {
     "id": 290,
     "name_ja": "びんじょう",
-    "name_en": "",
+    "name_en": "Opportunist",
     "description": "相手のランク補正が上昇したとき、自分も同じだけランクを上げる。",
     "generation": 9
   },
   {
     "id": 291,
     "name_ja": "はんすう",
-    "name_en": "",
+    "name_en": "Cud Chew",
     "description": "きのみを食べたとき、次のターンの終了時にまた同じきのみを食べる。",
     "generation": 9
   },
   {
     "id": 292,
     "name_ja": "きれあじ",
-    "name_en": "",
+    "name_en": "Sharpness",
     "description": "切る技の威力が1.5倍になる。",
     "generation": 9
   },
   {
     "id": 293,
     "name_ja": "そうだいしょう",
-    "name_en": "",
+    "name_en": "Supreme Overlord",
     "description": "場に出たときに、ひんしになった味方1体につき10%ずつ攻撃技の威力が上がる。",
     "generation": 9
   },
   {
     "id": 294,
     "name_ja": "きょうえん",
-    "name_en": "",
+    "name_en": "Costar",
     "description": "場に出たとき、味方のランク補正をコピーする。",
     "generation": 9
   },
   {
     "id": 295,
     "name_ja": "どくげしょう",
-    "name_en": "",
+    "name_en": "Toxic Debris",
     "description": "物理技を受けたとき、相手の場をどくびし状態にする。",
     "generation": 9
   },
   {
     "id": 296,
     "name_ja": "テイルアーマー",
-    "name_en": "",
+    "name_en": "Armor Tail",
     "description": "自分と味方は相手側からの先制技を受けなくなる。",
     "generation": 9
   },
   {
     "id": 297,
     "name_ja": "どしょく",
-    "name_en": "",
+    "name_en": "Earth Eater",
     "description": "じめんタイプの技を無効化し、最大HPの1/4を回復する。",
     "generation": 9
   },
   {
     "id": 298,
     "name_ja": "きんしのちから",
-    "name_en": "",
+    "name_en": "Mycelium Might",
     "description": "変化技を使用するとき、同じ優先度の中で最後に行動するが、相手の特性を無視する。",
     "generation": 9
   },
   {
     "id": 299,
     "name_ja": "おもてなし",
-    "name_en": "",
+    "name_en": "Mind’s Eye",
     "description": "場に出たとき、味方のHPを1/4回復する。",
     "generation": 9
   },
   {
     "id": 300,
     "name_ja": "しんがん",
-    "name_en": "",
+    "name_en": "Supersweet Syrup",
     "description": "ゴーストタイプにノーマル・かくとうわざが当たるようになる。\n命中率を下げられず、相手の回避率を無視できる。",
     "generation": 9
   },
   {
     "id": 301,
     "name_ja": "おもかげやどし",
-    "name_en": "",
+    "name_en": "Hospitality",
     "description": "オーガポン (みどりのめん) がテラスタルしたとき、すばやさが1段階上がる。",
     "generation": 9
   },
   {
     "id": 302,
     "name_ja": "おもかげやどし",
-    "name_en": "",
+    "name_en": "Toxic Chain",
     "description": "オーガポン (かまどのめん) がテラスタルしたとき、こうげきが1段階上がる。",
     "generation": 9
   },
   {
     "id": 303,
     "name_ja": "おもかげやどし",
-    "name_en": "",
+    "name_en": "Embody Aspect",
     "description": "オーガポン (いどのめん) がテラスタルしたとき、とくぼうが1段階上がる。",
     "generation": 9
   },
   {
     "id": 304,
     "name_ja": "おもかげやどし",
-    "name_en": "",
+    "name_en": "Tera Shift",
     "description": "オーガポン (いしずえのめん) がテラスタルしたとき、ぼうぎょが1段階上がる。",
     "generation": 9
   },
   {
     "id": 305,
     "name_ja": "どくのくさり",
-    "name_en": "",
+    "name_en": "Tera Shell",
     "description": "攻撃技を使ったとき、相手をもうどく状態にすることがある。",
     "generation": 9
   },
   {
     "id": 306,
     "name_ja": "かんろなミツ",
-    "name_en": "",
+    "name_en": "Teraform Zero",
     "description": "場に出たとき、相手の回避率を1段階下げる。",
     "generation": 9
   },
   {
     "id": 307,
     "name_ja": "テラスチェンジ",
-    "name_en": "",
+    "name_en": "Poison Puppeteer",
     "description": "場に出たとき、テラパゴスがテラスタルフォルムにフォルムチェンジする。",
     "generation": 9
   },
   {
     "id": 308,
     "name_ja": "テラスシェル",
-    "name_en": "",
+    "name_en": "Tera Shell",
     "description": "HPが満タンならば受ける攻撃技の相性が全て今ひとつになる。",
     "generation": 9
   },
   {
     "id": 309,
     "name_ja": "ゼロフォーミング",
-    "name_en": "",
+    "name_en": "Teraform Zero",
     "description": "テラパゴスがステラタイプにテラスタルしたとき、場の天候とフィールドを消滅させる。",
     "generation": 9
   },
   {
     "id": 310,
     "name_ja": "どくくぐつ",
-    "name_en": "",
+    "name_en": "Poison Puppeteer",
     "description": "使用した技でどく・もうどく状態になったポケモンは、こんらん状態にもなる。",
     "generation": 9
   }

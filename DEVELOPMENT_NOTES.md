@@ -116,10 +116,14 @@ uv run scripts/fetch-forms.py --force
 
 ### 優先度中
 
-#### 4. `form_name_en` の追加
-- 現状 `form_name_en` フィールドが存在しない
-- PokeAPI `/pokemon-form/{name}` から取得（メガ・リージョン等）
-- ZA新規メガはPokeAPIにない可能性が高いため手動追記
+#### 4. `form_name_en` の追加 ✅ 完了（2026-03-19）
+- `scripts/fetch-form-names-en.py` で実装・実行済み
+- M-dimension限定フォーム15件はスクリプト内の `MANUAL_FORM_NAMES_EN` でカバー
+- **既知の未解決問題（form_idの重複）**:
+  - No.128 ケンタロス: パルデア3フォーム（かくとう・みず・ほのおのうち）が全て `form_id=paldea` で重複
+  - No.892 ウーラオス: いちげき・れんげき両形態のgmaxが `form_id=gmax` で重複
+  - → これらは `special-forms.json` 側で一意なform_idを付与する必要あり（`paldea-combat` 等）
+  - → `fetch-forms.py` の `derive_form_id` ロジックも合わせて修正が必要
 
 #### 5. `pokemon/all.json` の Gen10（ZA）対応
 - 現状 No.1026以降は未収録

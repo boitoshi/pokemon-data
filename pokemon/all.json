@@ -38,6 +38,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガフシギバナ",
+        "form_name_en": "Mega Venusaur",
         "types": [
           "くさ",
           "どく"
@@ -58,6 +59,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスフシギバナ",
+        "form_name_en": "Gigantamax Venusaur",
         "types": [
           "くさ",
           "どく"
@@ -109,6 +111,7 @@
       {
         "form_id": "mega-x",
         "form_name_ja": "メガリザードンX",
+        "form_name_en": "Mega Charizard X",
         "types": [
           "ほのお",
           "ドラゴン"
@@ -129,6 +132,7 @@
       {
         "form_id": "mega-y",
         "form_name_ja": "メガリザードンY",
+        "form_name_en": "Mega Charizard Y",
         "types": [
           "ほのお",
           "ひこう"
@@ -149,6 +153,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスリザードン",
+        "form_name_en": "Gigantamax Charizard",
         "types": [
           "ほのお",
           "ひこう"
@@ -199,6 +204,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガカメックス",
+        "form_name_en": "Mega Blastoise",
         "types": [
           "みず"
         ],
@@ -218,6 +224,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスカメックス",
+        "form_name_en": "Gigantamax Blastoise",
         "types": [
           "みず"
         ],
@@ -268,6 +275,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスバタフリー",
+        "form_name_en": "Gigantamax Butterfree",
         "types": [
           "むし",
           "ひこう"
@@ -321,6 +329,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガスピアー",
+        "form_name_en": "Mega Beedrill",
         "types": [
           "むし",
           "どく"
@@ -378,6 +387,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガピジョット",
+        "form_name_en": "Mega Pidgeot",
         "types": [
           "ノーマル",
           "ひこう"
@@ -409,7 +419,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "コラッタ",
+        "form_name_ja": "コラッタ（アローラのすがた）",
+        "form_name_en": "Alolan Rattata",
         "types": [
           "あく",
           "ノーマル"
@@ -436,7 +447,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ラッタ",
+        "form_name_ja": "ラッタ（アローラのすがた）",
+        "form_name_en": "Alolan Raticate",
         "types": [
           "あく",
           "ノーマル"
@@ -510,6 +522,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスピカチュウ",
+        "form_name_en": "Gigantamax Pikachu",
         "types": [
           "でんき"
         ],
@@ -536,7 +549,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ライチュウ",
+        "form_name_ja": "ライチュウ（アローラのすがた）",
+        "form_name_en": "Alolan Raichu",
         "types": [
           "でんき",
           "エスパー"
@@ -551,6 +565,7 @@
       {
         "form_id": "mega-x",
         "form_name_ja": "メガライチュウX",
+        "form_name_en": "Mega Raichu X",
         "types": [
           "でんき"
         ],
@@ -564,6 +579,7 @@
       {
         "form_id": "mega-y",
         "form_name_ja": "メガライチュウY",
+        "form_name_en": "Mega Raichu Y",
         "types": [
           "でんき"
         ],
@@ -589,7 +605,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "サンド",
+        "form_name_ja": "サンド（アローラのすがた）",
+        "form_name_en": "Alolan Sandshrew",
         "types": [
           "こおり",
           "はがね"
@@ -616,7 +633,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "サンドパン",
+        "form_name_ja": "サンドパン（アローラのすがた）",
+        "form_name_en": "Alolan Sandslash",
         "types": [
           "こおり",
           "はがね"
@@ -723,6 +741,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガピクシー",
+        "form_name_en": "Mega Clefable",
         "types": [
           "フェアリー",
           "ひこう"
@@ -750,7 +769,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ロコン",
+        "form_name_ja": "ロコン（アローラのすがた）",
+        "form_name_en": "Alolan Vulpix",
         "types": [
           "こおり"
         ],
@@ -776,7 +796,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "キュウコン",
+        "form_name_ja": "キュウコン（アローラのすがた）",
+        "form_name_en": "Alolan Ninetales",
         "types": [
           "こおり",
           "フェアリー"
@@ -935,7 +956,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ディグダ",
+        "form_name_ja": "ディグダ（アローラのすがた）",
+        "form_name_en": "Alolan Diglett",
         "types": [
           "じめん",
           "はがね"
@@ -962,7 +984,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ダグトリオ",
+        "form_name_ja": "ダグトリオ（アローラのすがた）",
+        "form_name_en": "Alolan Dugtrio",
         "types": [
           "じめん",
           "はがね"
@@ -989,7 +1012,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ニャース",
+        "form_name_ja": "ニャース（アローラのすがた）",
+        "form_name_en": "Alolan Meowth",
         "types": [
           "あく"
         ],
@@ -1002,7 +1026,8 @@
       },
       {
         "form_id": "galar",
-        "form_name_ja": "ニャース",
+        "form_name_ja": "ニャース（ガラルのすがた）",
+        "form_name_en": "Galarian Meowth",
         "types": [
           "はがね"
         ],
@@ -1016,6 +1041,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスニャース",
+        "form_name_en": "Gigantamax Meowth",
         "types": [
           "はがね"
         ],
@@ -1042,7 +1068,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ペルシアン",
+        "form_name_ja": "ペルシアン（アローラのすがた）",
+        "form_name_en": "Alolan Persian",
         "types": [
           "あく"
         ],
@@ -1112,7 +1139,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ガーディ",
+        "form_name_ja": "ガーディ（ヒスイのすがた）",
+        "form_name_en": "Hisuian Growlithe",
         "types": [
           "ほのお",
           "いわ"
@@ -1139,7 +1167,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ウインディ",
+        "form_name_ja": "ウインディ（ヒスイのすがた）",
+        "form_name_en": "Hisuian Arcanine",
         "types": [
           "ほのお",
           "いわ"
@@ -1223,6 +1252,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガフーディン",
+        "form_name_en": "Mega Alakazam",
         "types": [
           "エスパー"
         ],
@@ -1277,6 +1307,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスカイリキー",
+        "form_name_en": "Gigantamax Machamp",
         "types": [
           "かくとう"
         ],
@@ -1329,6 +1360,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガウツボット",
+        "form_name_en": "Mega Victreebel",
         "types": [
           "くさ",
           "どく"
@@ -1381,7 +1413,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "イシツブテ",
+        "form_name_ja": "イシツブテ（アローラのすがた）",
+        "form_name_en": "Alolan Geodude",
         "types": [
           "いわ",
           "でんき"
@@ -1409,7 +1442,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ゴローン",
+        "form_name_ja": "ゴローン（アローラのすがた）",
+        "form_name_en": "Alolan Graveler",
         "types": [
           "いわ",
           "でんき"
@@ -1437,7 +1471,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ゴローニャ",
+        "form_name_ja": "ゴローニャ（アローラのすがた）",
+        "form_name_en": "Alolan Golem",
         "types": [
           "いわ",
           "でんき"
@@ -1464,7 +1499,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "ポニータ",
+        "form_name_ja": "ポニータ（ガラルのすがた）",
+        "form_name_en": "Galarian Ponyta",
         "types": [
           "エスパー"
         ],
@@ -1490,7 +1526,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "ギャロップ",
+        "form_name_ja": "ギャロップ（ガラルのすがた）",
+        "form_name_en": "Galarian Rapidash",
         "types": [
           "エスパー",
           "フェアリー"
@@ -1518,7 +1555,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "ヤドン",
+        "form_name_ja": "ヤドン（ガラルのすがた）",
+        "form_name_en": "Galarian Slowpoke",
         "types": [
           "エスパー"
         ],
@@ -1545,7 +1583,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "ヤドラン",
+        "form_name_ja": "ヤドラン（ガラルのすがた）",
+        "form_name_en": "Galarian Slowbro",
         "types": [
           "どく",
           "エスパー"
@@ -1560,6 +1599,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガヤドラン",
+        "form_name_en": "Mega Slowbro",
         "types": [
           "みず",
           "エスパー"
@@ -1616,7 +1656,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "カモネギ",
+        "form_name_ja": "カモネギ（ガラルのすがた）",
+        "form_name_en": "Galarian Farfetch’d",
         "types": [
           "かくとう"
         ],
@@ -1689,7 +1730,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ベトベター",
+        "form_name_ja": "ベトベター（アローラのすがた）",
+        "form_name_en": "Alolan Grimer",
         "types": [
           "どく",
           "あく"
@@ -1716,7 +1758,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ベトベトン",
+        "form_name_ja": "ベトベトン（アローラのすがた）",
+        "form_name_en": "Alolan Muk",
         "types": [
           "どく",
           "あく"
@@ -1792,6 +1835,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガゲンガー",
+        "form_name_en": "Mega Gengar",
         "types": [
           "ゴースト",
           "どく"
@@ -1812,6 +1856,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスゲンガー",
+        "form_name_en": "Gigantamax Gengar",
         "types": [
           "ゴースト",
           "どく"
@@ -1885,6 +1930,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスキングラー",
+        "form_name_en": "Gigantamax Kingler",
         "types": [
           "みず"
         ],
@@ -1911,7 +1957,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ビリリダマ",
+        "form_name_ja": "ビリリダマ（ヒスイのすがた）",
+        "form_name_en": "Hisuian Voltorb",
         "types": [
           "でんき",
           "くさ"
@@ -1938,7 +1985,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "マルマイン",
+        "form_name_ja": "マルマイン（ヒスイのすがた）",
+        "form_name_en": "Hisuian Electrode",
         "types": [
           "でんき",
           "くさ"
@@ -1978,7 +2026,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ナッシー",
+        "form_name_ja": "ナッシー（アローラのすがた）",
+        "form_name_en": "Alolan Exeggutor",
         "types": [
           "くさ",
           "ドラゴン"
@@ -2016,7 +2065,8 @@
     "forms": [
       {
         "form_id": "alola",
-        "form_name_ja": "ガラガラ",
+        "form_name_ja": "ガラガラ（アローラのすがた）",
+        "form_name_en": "Alolan Marowak",
         "types": [
           "ほのお",
           "ゴースト"
@@ -2087,7 +2137,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "マタドガス",
+        "form_name_ja": "マタドガス（ガラルのすがた）",
+        "form_name_en": "Galarian Weezing",
         "types": [
           "どく",
           "フェアリー"
@@ -2161,6 +2212,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガガルーラ",
+        "form_name_en": "Mega Kangaskhan",
         "types": [
           "ノーマル"
         ],
@@ -2249,6 +2301,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガスターミー",
+        "form_name_en": "Mega Starmie",
         "types": [
           "みず",
           "エスパー"
@@ -2277,7 +2330,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "バリヤード",
+        "form_name_ja": "バリヤード（ガラルのすがた）",
+        "form_name_en": "Galarian Mr. Mime",
         "types": [
           "こおり",
           "エスパー"
@@ -2351,6 +2405,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガカイロス",
+        "form_name_en": "Mega Pinsir",
         "types": [
           "むし",
           "ひこう"
@@ -2383,7 +2438,8 @@
     "forms": [
       {
         "form_id": "paldea",
-        "form_name_ja": "ケンタロス コンバット種",
+        "form_name_ja": "ケンタロス（パルデアのすがた）",
+        "form_name_en": "",
         "types": [
           "かくとう"
         ],
@@ -2396,7 +2452,8 @@
       },
       {
         "form_id": "paldea",
-        "form_name_ja": "ケンタロス ブレイズ種",
+        "form_name_ja": "ケンタロス（パルデアのすがた）",
+        "form_name_en": "",
         "types": [
           "かくとう",
           "ほのお"
@@ -2410,7 +2467,8 @@
       },
       {
         "form_id": "paldea",
-        "form_name_ja": "ケンタロス ウォーター種",
+        "form_name_ja": "ケンタロス（パルデアのすがた）",
+        "form_name_en": "",
         "types": [
           "かくとう",
           "みず"
@@ -2450,6 +2508,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガギャラドス",
+        "form_name_en": "Mega Gyarados",
         "types": [
           "みず",
           "あく"
@@ -2484,6 +2543,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスラプラス",
+        "form_name_en": "Gigantamax Lapras",
         "types": [
           "みず",
           "こおり"
@@ -2523,6 +2583,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスイーブイ",
+        "form_name_en": "Gigantamax Eevee",
         "types": [
           "ノーマル"
         ],
@@ -2643,6 +2704,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガプテラ",
+        "form_name_en": "Mega Aerodactyl",
         "types": [
           "いわ",
           "ひこう"
@@ -2676,6 +2738,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスカビゴン",
+        "form_name_en": "Gigantamax Snorlax",
         "types": [
           "ノーマル"
         ],
@@ -2703,7 +2766,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "フリーザー",
+        "form_name_ja": "フリーザー（ガラルのすがた）",
+        "form_name_en": "Galarian Articuno",
         "types": [
           "エスパー",
           "ひこう"
@@ -2731,7 +2795,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "サンダー",
+        "form_name_ja": "サンダー（ガラルのすがた）",
+        "form_name_en": "Galarian Zapdos",
         "types": [
           "かくとう",
           "ひこう"
@@ -2759,7 +2824,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "ファイヤー",
+        "form_name_ja": "ファイヤー（ガラルのすがた）",
+        "form_name_en": "Galarian Moltres",
         "types": [
           "あく",
           "ひこう"
@@ -2810,6 +2876,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガカイリュー",
+        "form_name_en": "Mega Dragonite",
         "types": [
           "ノーマル",
           "ひこう"
@@ -2838,6 +2905,7 @@
       {
         "form_id": "mega-x",
         "form_name_ja": "メガミュウツーX",
+        "form_name_en": "Mega Mewtwo X",
         "types": [
           "エスパー",
           "かくとう"
@@ -2858,6 +2926,7 @@
       {
         "form_id": "mega-y",
         "form_name_ja": "メガミュウツーY",
+        "form_name_en": "Mega Mewtwo Y",
         "types": [
           "エスパー"
         ],
@@ -2924,6 +2993,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガメガニウム",
+        "form_name_en": "Mega Meganium",
         "types": [
           "くさ",
           "フェアリー"
@@ -2973,7 +3043,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "バクフーン",
+        "form_name_ja": "バクフーン（ヒスイのすがた）",
+        "form_name_en": "Hisuian Typhlosion",
         "types": [
           "ほのお",
           "ゴースト"
@@ -3023,6 +3094,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガオーダイル",
+        "form_name_en": "Mega Feraligatr",
         "types": [
           "みず",
           "ドラゴン"
@@ -3284,6 +3356,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガデンリュウ",
+        "form_name_en": "Mega Ampharos",
         "types": [
           "でんき"
         ],
@@ -3453,7 +3526,8 @@
     "forms": [
       {
         "form_id": "paldea",
-        "form_name_ja": "ウパー",
+        "form_name_ja": "ウパー（パルデアのすがた）",
+        "form_name_en": "Paldean Wooper",
         "types": [
           "どく",
           "じめん"
@@ -3527,7 +3601,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "ヤドキング",
+        "form_name_ja": "ヤドキング（ガラルのすがた）",
+        "form_name_en": "Galarian Slowking",
         "types": [
           "どく",
           "エスパー"
@@ -3647,6 +3722,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガハガネール",
+        "form_name_en": "Mega Steelix",
         "types": [
           "はがね",
           "じめん"
@@ -3700,7 +3776,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ハリーセン",
+        "form_name_ja": "ハリーセン（ヒスイのすがた）",
+        "form_name_en": "Hisuian Qwilfish",
         "types": [
           "あく",
           "どく"
@@ -3729,6 +3806,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガハッサム",
+        "form_name_en": "Mega Scizor",
         "types": [
           "むし",
           "はがね"
@@ -3774,6 +3852,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガヘラクロス",
+        "form_name_en": "Mega Heracross",
         "types": [
           "むし",
           "かくとう"
@@ -3806,7 +3885,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ニューラ",
+        "form_name_ja": "ニューラ（ヒスイのすがた）",
+        "form_name_en": "Hisuian Sneasel",
         "types": [
           "かくとう",
           "どく"
@@ -3903,7 +3983,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "サニーゴ",
+        "form_name_ja": "サニーゴ（ガラルのすがた）",
+        "form_name_en": "Galarian Corsola",
         "types": [
           "ゴースト"
         ],
@@ -3977,6 +4058,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガエアームド",
+        "form_name_en": "Mega Skarmory",
         "types": [
           "はがね",
           "ひこう"
@@ -4018,6 +4100,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガヘルガー",
+        "form_name_en": "Mega Houndoom",
         "types": [
           "あく",
           "ほのお"
@@ -4253,6 +4336,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガバンギラス",
+        "form_name_en": "Mega Tyranitar",
         "types": [
           "いわ",
           "あく"
@@ -4343,6 +4427,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガジュカイン",
+        "form_name_en": "Mega Sceptile",
         "types": [
           "くさ",
           "ドラゴン"
@@ -4398,6 +4483,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガバシャーモ",
+        "form_name_en": "Mega Blaziken",
         "types": [
           "ほのお",
           "かくとう"
@@ -4454,6 +4540,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガラグラージ",
+        "form_name_en": "Mega Swampert",
         "types": [
           "みず",
           "じめん"
@@ -4506,7 +4593,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "ジグザグマ",
+        "form_name_ja": "ジグザグマ（ガラルのすがた）",
+        "form_name_en": "Galarian Zigzagoon",
         "types": [
           "あく"
         ],
@@ -4532,7 +4620,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "マッスグマ",
+        "form_name_ja": "マッスグマ（ガラルのすがた）",
+        "form_name_en": "Galarian Linoone",
         "types": [
           "あく"
         ],
@@ -4760,6 +4849,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガサーナイト",
+        "form_name_en": "Mega Gardevoir",
         "types": [
           "エスパー",
           "フェアリー"
@@ -5009,6 +5099,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガヤミラミ",
+        "form_name_en": "Mega Sableye",
         "types": [
           "あく",
           "ゴースト"
@@ -5041,6 +5132,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガクチート",
+        "form_name_en": "Mega Mawile",
         "types": [
           "はがね",
           "フェアリー"
@@ -5098,6 +5190,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガボスゴドラ",
+        "form_name_en": "Mega Aggron",
         "types": [
           "はがね"
         ],
@@ -5142,6 +5235,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガチャーレム",
+        "form_name_en": "Mega Medicham",
         "types": [
           "かくとう",
           "エスパー"
@@ -5185,6 +5279,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガライボルト",
+        "form_name_en": "Mega Manectric",
         "types": [
           "でんき"
         ],
@@ -5307,6 +5402,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガサメハダー",
+        "form_name_en": "Mega Sharpedo",
         "types": [
           "みず",
           "あく"
@@ -5373,6 +5469,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガバクーダ",
+        "form_name_en": "Mega Camerupt",
         "types": [
           "ほのお",
           "じめん"
@@ -5519,6 +5616,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガチルタリス",
+        "form_name_en": "Mega Altaria",
         "types": [
           "ドラゴン",
           "ひこう"
@@ -5770,6 +5868,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガジュペッタ",
+        "form_name_en": "Mega Banette",
         "types": [
           "ゴースト"
         ],
@@ -5835,6 +5934,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガチリーン",
+        "form_name_en": "Mega Chimecho",
         "types": [
           "エスパー",
           "はがね"
@@ -5862,6 +5962,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガアブソル",
+        "form_name_en": "Mega Absol",
         "types": [
           "あく"
         ],
@@ -5880,6 +5981,7 @@
       {
         "form_id": "mega-z",
         "form_name_ja": "メガアブソルZ",
+        "form_name_en": "Mega Absol Z",
         "types": [
           "あく"
         ],
@@ -5928,6 +6030,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガオニゴーリ",
+        "form_name_en": "Mega Glalie",
         "types": [
           "こおり"
         ],
@@ -6073,6 +6176,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガボーマンダ",
+        "form_name_en": "Mega Salamence",
         "types": [
           "ドラゴン",
           "ひこう"
@@ -6129,6 +6233,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガメタグロス",
+        "form_name_en": "Mega Metagross",
         "types": [
           "はがね",
           "エスパー"
@@ -6194,6 +6299,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガラティアス",
+        "form_name_en": "Mega Latias",
         "types": [
           "ドラゴン",
           "エスパー"
@@ -6227,6 +6333,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガラティオス",
+        "form_name_en": "Mega Latios",
         "types": [
           "ドラゴン",
           "エスパー"
@@ -6259,6 +6366,7 @@
       {
         "form_id": "primal",
         "form_name_ja": "ゲンシカイオーガ",
+        "form_name_en": "Primal Kyogre",
         "types": [
           "みず"
         ],
@@ -6288,6 +6396,7 @@
       {
         "form_id": "primal",
         "form_name_ja": "ゲンシグラードン",
+        "form_name_en": "Primal Groudon",
         "types": [
           "じめん",
           "ほのお"
@@ -6319,6 +6428,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガレックウザ",
+        "form_name_en": "Mega Rayquaza",
         "types": [
           "ドラゴン",
           "ひこう"
@@ -6501,6 +6611,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガムクホーク",
+        "form_name_en": "Mega Staraptor",
         "types": [
           "かくとう",
           "ひこう"
@@ -6859,6 +6970,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガミミロップ",
+        "form_name_en": "Mega Lopunny",
         "types": [
           "ノーマル",
           "かくとう"
@@ -7078,6 +7190,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガガブリアス",
+        "form_name_en": "Mega Garchomp",
         "types": [
           "ドラゴン",
           "じめん"
@@ -7133,6 +7246,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガルカリオ",
+        "form_name_en": "Mega Lucario",
         "types": [
           "かくとう",
           "はがね"
@@ -7152,6 +7266,7 @@
       {
         "form_id": "mega-z",
         "form_name_ja": "メガルカリオZ",
+        "form_name_en": "Mega Lucario Z",
         "types": [
           "かくとう",
           "はがね"
@@ -7307,6 +7422,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガユキノオー",
+        "form_name_en": "Mega Abomasnow",
         "types": [
           "くさ",
           "こおり"
@@ -7501,6 +7617,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガエルレイド",
+        "form_name_en": "Mega Gallade",
         "types": [
           "エスパー",
           "かくとう"
@@ -7556,6 +7673,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガユキメノコ",
+        "form_name_en": "Mega Froslass",
         "types": [
           "こおり",
           "ゴースト"
@@ -7654,6 +7772,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガヒードラン",
+        "form_name_en": "Mega Heatran",
         "types": [
           "ほのお",
           "はがね"
@@ -7839,6 +7958,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガエンブオー",
+        "form_name_en": "Mega Emboar",
         "types": [
           "ほのお",
           "かくとう"
@@ -7888,7 +8008,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ダイケンキ",
+        "form_name_ja": "ダイケンキ（ヒスイのすがた）",
+        "form_name_en": "Hisuian Samurott",
         "types": [
           "みず",
           "あく"
@@ -8208,6 +8329,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガドリュウズ",
+        "form_name_en": "Mega Excadrill",
         "types": [
           "じめん",
           "はがね"
@@ -8236,6 +8358,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガタブンネ",
+        "form_name_en": "Mega Audino",
         "types": [
           "ノーマル"
         ],
@@ -8462,7 +8585,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ドレディア",
+        "form_name_ja": "ドレディア（ヒスイのすがた）",
+        "form_name_en": "Hisuian Lilligant",
         "types": [
           "くさ",
           "かくとう"
@@ -8536,7 +8660,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "ヒヒダルマ ダルマモード",
+        "form_name_ja": "ヒヒダルマ ダルマモード（ガラルのすがた）",
+        "form_name_en": "Galarian Darumaka",
         "types": [
           "こおり",
           "ほのお"
@@ -8623,6 +8748,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガズルズキン",
+        "form_name_en": "Mega Scrafty",
         "types": [
           "あく",
           "かくとう"
@@ -8662,7 +8788,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "デスカーン",
+        "form_name_ja": "デスカーン（ガラルのすがた）",
+        "form_name_en": "Galarian Yamask",
         "types": [
           "じめん",
           "ゴースト"
@@ -8760,6 +8887,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスダストダス",
+        "form_name_en": "Gigantamax Garbodor",
         "types": [
           "どく"
         ],
@@ -8786,7 +8914,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ゾロアーク",
+        "form_name_ja": "ゾロア（ヒスイのすがた）",
+        "form_name_en": "Hisuian Zorua",
         "types": [
           "ノーマル",
           "ゴースト"
@@ -8813,7 +8942,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ゾロアーク",
+        "form_name_ja": "ゾロアーク（ヒスイのすがた）",
+        "form_name_en": "Hisuian Zoroark",
         "types": [
           "ノーマル",
           "ゴースト"
@@ -9207,6 +9337,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガシビルドン",
+        "form_name_en": "Mega Eelektross",
         "types": [
           "でんき"
         ],
@@ -9281,6 +9412,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガシャンデラ",
+        "form_name_en": "Mega Chandelure",
         "types": [
           "ゴースト",
           "ほのお"
@@ -9397,7 +9529,8 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "マッギョ",
+        "form_name_ja": "マッギョ（ガラルのすがた）",
+        "form_name_en": "Galarian Stunfisk",
         "types": [
           "じめん",
           "はがね"
@@ -9471,6 +9604,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガゴルーグ",
+        "form_name_en": "Mega Golurk",
         "types": [
           "じめん",
           "ゴースト"
@@ -9545,7 +9679,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ウォーグル",
+        "form_name_ja": "ウォーグル（ヒスイのすがた）",
+        "form_name_en": "Hisuian Braviary",
         "types": [
           "エスパー",
           "ひこう"
@@ -9846,6 +9981,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガブリガロン",
+        "form_name_en": "Mega Chesnaught",
         "types": [
           "くさ",
           "かくとう"
@@ -9897,6 +10033,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガマフォクシー",
+        "form_name_en": "Mega Delphox",
         "types": [
           "ほのお",
           "エスパー"
@@ -9948,6 +10085,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガゲッコウガ",
+        "form_name_en": "Mega Greninja",
         "types": [
           "みず",
           "あく"
@@ -10082,6 +10220,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガカエンジシ",
+        "form_name_en": "Mega Pyroar",
         "types": [
           "ほのお",
           "ノーマル"
@@ -10121,6 +10260,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "フェアリー",
+        "form_name_en": "Mega Floette",
         "types": [],
         "category": "mega",
         "ability": "",
@@ -10223,6 +10363,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガニャオニクス",
+        "form_name_en": "Mega Meowstic",
         "types": [
           "エスパー"
         ],
@@ -10342,6 +10483,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガカラマネロ",
+        "form_name_en": "Mega Malamar",
         "types": [
           "あく",
           "エスパー"
@@ -10383,6 +10525,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガガメノデス",
+        "form_name_en": "Mega Barbaracle",
         "types": [
           "いわ",
           "かくとう"
@@ -10424,6 +10567,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガドラミドロ",
+        "form_name_en": "Mega Dragalge",
         "types": [
           "どく",
           "ドラゴン"
@@ -10558,6 +10702,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガルチャブル",
+        "form_name_en": "Mega Hawlucha",
         "types": [
           "かくとう",
           "ひこう"
@@ -10620,7 +10765,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ヌメイル",
+        "form_name_ja": "ヌメイル（ヒスイのすがた）",
+        "form_name_en": "Hisuian Sliggoo",
         "types": [
           "はがね",
           "ドラゴン"
@@ -10647,7 +10793,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ヌメルゴン",
+        "form_name_ja": "ヌメルゴン（ヒスイのすがた）",
+        "form_name_en": "Hisuian Goodra",
         "types": [
           "はがね",
           "ドラゴン"
@@ -10745,7 +10892,8 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ジュナイパー",
+        "form_name_ja": "ジュナイパー（ヒスイのすがた）",
+        "form_name_en": "Hisuian Avalugg",
         "types": [
           "くさ",
           "かくとう"
@@ -10821,6 +10969,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガジガルデ",
+        "form_name_en": "Mega Zygarde",
         "types": [
           "ドラゴン",
           "じめん"
@@ -10850,6 +10999,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガディアンシー",
+        "form_name_en": "Mega Diancie",
         "types": [
           "いわ",
           "フェアリー"
@@ -11117,6 +11267,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガケケンカニ",
+        "form_name_en": "Mega Crabominable",
         "types": [
           "かくとう",
           "こおり"
@@ -11458,6 +11609,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガグソクムシャ",
+        "form_name_en": "Mega Golisopod",
         "types": [
           "むし",
           "みず"
@@ -11615,6 +11767,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガジジーロン",
+        "form_name_en": "Mega Drampa",
         "types": [
           "ノーマル",
           "ドラゴン"
@@ -11887,6 +12040,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガマギアナ",
+        "form_name_en": "Mega Magearna",
         "types": [
           "はがね",
           "フェアリー"
@@ -11974,6 +12128,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガゼラオラ",
+        "form_name_en": "Mega Zeraora",
         "types": [
           "でんき"
         ],
@@ -12011,6 +12166,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスメルメタル",
+        "form_name_en": "Gigantamax Melmetal",
         "types": [
           "はがね"
         ],
@@ -12060,6 +12216,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスゴリランダー",
+        "form_name_en": "Gigantamax Rillaboom",
         "types": [
           "くさ"
         ],
@@ -12109,6 +12266,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスエースバーン",
+        "form_name_en": "Gigantamax Cinderace",
         "types": [
           "ほのお"
         ],
@@ -12158,6 +12316,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスインテレオン",
+        "form_name_en": "Gigantamax Inteleon",
         "types": [
           "みず"
         ],
@@ -12230,6 +12389,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスアーマーガア",
+        "form_name_en": "Gigantamax Corviknight",
         "types": [
           "ひこう",
           "はがね"
@@ -12282,6 +12442,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスイオルブ",
+        "form_name_en": "Gigantamax Orbeetle",
         "types": [
           "むし",
           "エスパー"
@@ -12388,6 +12549,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスカジリガメ",
+        "form_name_en": "Gigantamax Drednaw",
         "types": [
           "みず",
           "いわ"
@@ -12462,6 +12624,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスセキタンザン",
+        "form_name_en": "Gigantamax Coalossal",
         "types": [
           "いわ",
           "ほのお"
@@ -12503,6 +12666,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスアップリュー",
+        "form_name_en": "Gigantamax Flapple",
         "types": [
           "くさ",
           "ドラゴン"
@@ -12532,6 +12696,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスタルップル",
+        "form_name_en": "Gigantamax Appletun",
         "types": [
           "くさ",
           "ドラゴン"
@@ -12571,6 +12736,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスサダイジャ",
+        "form_name_en": "Gigantamax Sandaconda",
         "types": [
           "みず"
         ],
@@ -12645,6 +12811,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスストリンダー",
+        "form_name_en": "Gigantamax Toxtricity",
         "types": [
           "でんき",
           "どく"
@@ -12686,6 +12853,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスマルヤクデ",
+        "form_name_en": "Gigantamax Centiskorch",
         "types": [
           "むし",
           "ほのお"
@@ -12781,6 +12949,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスブリムオン",
+        "form_name_en": "Gigantamax Hatterene",
         "types": [
           "フェアリー"
         ],
@@ -12833,6 +13002,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスオーロンゲ",
+        "form_name_en": "Gigantamax Grimmsnarl",
         "types": [
           "あく",
           "フェアリー"
@@ -12941,6 +13111,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスマホイップ",
+        "form_name_en": "Gigantamax Alcremie",
         "types": [
           "フェアリー"
         ],
@@ -12968,6 +13139,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガタイレーツ",
+        "form_name_en": "Mega Falinks",
         "types": [
           "かくとう"
         ],
@@ -13086,6 +13258,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスダイオウドウ",
+        "form_name_en": "Gigantamax Copperajah",
         "types": [
           "はがね"
         ],
@@ -13162,6 +13335,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスジュラルドン",
+        "form_name_en": "Gigantamax Duraludon",
         "types": [
           "はがね",
           "ドラゴン"
@@ -13272,6 +13446,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスウーラオス（いちげきのかた）",
+        "form_name_en": "",
         "types": [
           "かくとう",
           "あく"
@@ -13287,6 +13462,7 @@
       {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスウーラオス（れんげきのかた）",
+        "form_name_en": "",
         "types": [
           "かくとう",
           "みず"
@@ -13994,6 +14170,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガスコヴィラン",
+        "form_name_en": "Mega Scovillain",
         "types": [
           "くさ",
           "ほのお"
@@ -14548,6 +14725,7 @@
       {
         "form_id": "mega",
         "form_name_ja": "メガセグレイブ",
+        "form_name_en": "Mega Baxcalibur",
         "types": [
           "ドラゴン",
           "こおり"

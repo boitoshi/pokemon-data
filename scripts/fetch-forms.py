@@ -44,6 +44,13 @@ GAME_TO_REGION: dict[str, str] = {
     "SV": "paldea",
 }
 
+REGION_JA: dict[str, str] = {
+    "alola": "アローラ",
+    "galar": "ガラル",
+    "hisui": "ヒスイ",
+    "paldea": "パルデア",
+}
+
 
 def derive_form_id(
     category: str,
@@ -85,9 +92,18 @@ def build_form_entry(form: dict, pokemon_name_ja: str) -> dict:
 
     form_id = derive_form_id(category, form_name_ja, pokemon_name_ja, debut_game)
 
+    # regional フォームの form_name_ja を補完
+    if category == "regional":
+        region_ja = REGION_JA.get(form_id)
+        if region_ja:
+            form_name_ja = f"{pokemon_name_ja}（{region_ja}のすがた）"
+        else:
+            print(f"[WARN] 未知のリージョン form_id: {form_id}")
+
     entry: dict = {
         "form_id": form_id,
         "form_name_ja": form_name_ja,
+        "form_name_en": "",
         "types": form.get("formTypes", []),
         "category": category,
         "ability": form.get("formAbility", ""),

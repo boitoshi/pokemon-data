@@ -1,6 +1,6 @@
 # pokemon-data 開発ノート
 
-> 最終更新: 2026-03-19（form_id重複解消・regional form_name_ja修正）
+> 最終更新: 2026-03-19（DLC管理・HOME連携フィールド追加・タイトル整備）
 
 ## このリポジトリの役割
 
@@ -13,14 +13,14 @@
 ```
 pokemon-data/
 ├── pokemon/
-│   └── all.json              # ポケモンマスターデータ 1025件 + フォームデータ
+│   └── all.json              # ポケモンマスターデータ 1025件 + フォームデータ 178件
 ├── games/
-│   ├── titles.json           # ゲームタイトル 41件（Gen1〜Gen10/ZA）
+│   ├── titles.json           # ゲームタイトル 42件（Gen1〜Gen10/ZA + ぽこ あ ポケモン）
 │   └── generations.json      # 世代定義 10件
 ├── abilities/
-│   └── all.json              # 特性 310件（name_enは空、要補完）
+│   └── all.json              # 特性 310件（name_en 補完済み）
 ├── mappings/
-│   ├── ribbons.json          # リボン・あかし 英日マッピング
+│   ├── ribbons.json          # リボン・あかし 英日マッピング（ribbon 53件 + mark 55件）
 │   ├── distribution-methods.json
 │   ├── regions.json
 │   ├── met-locations.json
@@ -32,7 +32,8 @@ pokemon-data/
 │   └── ability_list.json     # 旧ファイル（abilities/all.jsonに移行済み、削除待ち）
 └── scripts/
     ├── fetch-pokemon.py      # PokeAPIからマスターデータ取得
-    └── fetch-forms.py        # special-forms.jsonからフォームデータ取得
+    ├── fetch-forms.py        # special-forms.jsonからフォームデータ取得
+    └── fetch-form-names-en.py  # PokeAPIからフォーム英語名を取得
 ```
 
 ---
@@ -53,6 +54,7 @@ pokemon-data/
       {
         "form_id": "mega-x",
         "form_name_ja": "メガリザードンX",
+        "form_name_en": "Mega Charizard X",
         "types": ["ほのお", "ドラゴン"],
         "category": "mega",
         "ability": "かたいツメ",
@@ -68,13 +70,53 @@ pokemon-data/
 
 | category | 件数 | 内容 |
 |---|---|---|
-| mega | 89 | ZA新規25件含む |
-| regional | 58 | アローラ・ガラル・ヒスイ・パルデア |
+| mega | 88 | ZA新規25件含む |
+| regional | 55 | アローラ・ガラル・ヒスイ・パルデア |
 | gigantamax | 33 | gmax_moveフィールド付き |
 | primal | 2 | グラードン・カイオーガ |
 
 ソース: `pokebros-tools/tools/summary-pages/src/data/special-forms.json`
-更新時: `uv run scripts/fetch-forms.py --force`
+更新時: `uv run scripts/fetch-forms.py --force && uv run scripts/fetch-form-names-en.py`
+
+---
+
+## games/titles.json の構造
+
+```json
+{
+  "id": "sword",
+  "name": "ポケットモンスター ソード",
+  "name_en": "Pokémon Sword",
+  "shortName": "ソード",
+  "abbrev": "SW",
+  "generation": 8,
+  "releaseDate_jp": "2019-11-15",
+  "releaseDate_us": "2019-11-15",
+  "platform": "Switch",
+  "category": "mainline",
+  "paired_with": ["shield"],
+  "region": "ガラル",
+  "dlc": [
+    { "id": "ioa", "name": "鎧の孤島", "name_en": "The Isle of Armor", "releaseDate_jp": "2020-06-17", "releaseDate_us": "2020-06-17" },
+    { "id": "ct",  "name": "冠の雪原", "name_en": "The Crown Tundra",  "releaseDate_jp": "2020-10-22", "releaseDate_us": "2020-10-22" }
+  ],
+  "home": { "send": true, "receive": true }
+}
+```
+
+### フィールド説明
+
+| フィールド | 説明 |
+|---|---|
+| `dlc` | DLC配列。発売日 = そのDLCで解禁される新ポケモンの実装日として管理。DLCのないタイトルはフィールド自体省略 |
+| `home.send` | ゲーム→HOMEへポケモンを転送できるか |
+| `home.receive` | HOME→ゲームへポケモンを受け取れるか |
+
+### HOME連携の注意点
+
+- Gen1〜Gen7 3DSタイトル: 直接HOME接続なし（Pokémon Bank経由のみ）→ `send/receive: false`
+- レジェンズアルセウス: HOMEへ出せるが、HOMEから受け取れない → `send: true, receive: false`
+- Let's Go系以降のSwitchタイトル: 基本的に `send/receive: true`
 
 ---
 
@@ -87,9 +129,8 @@ uv run scripts/fetch-pokemon.py
 # フォームデータ（special-forms.json更新後）
 uv run scripts/fetch-forms.py --force
 
-# 特性の英語名補完（未実装・要対応）
-# → abilities/all.json の name_en が全て "" のまま
-# → PokeAPIから取得するスクリプトを作る必要あり
+# フォーム英語名補完（fetch-forms.py実行後）
+uv run scripts/fetch-form-names-en.py
 ```
 
 ---
@@ -98,11 +139,9 @@ uv run scripts/fetch-forms.py --force
 
 ### 優先度高
 
-#### 1. `abilities/all.json` の `name_en` 補完スクリプト
-- `abilities/all.json` の `name_en` が全310件 `""` のまま
-- PokeAPI `/ability/{id}` の `names` から英語名を取得する
-- `distribution-scraper` が英語ソース（Bulbapedia）を使うため必要
-- スクリプト: `scripts/fetch-ability-names.py` として作成
+#### 1. `abilities/all.json` の `name_en` 補完スクリプト ✅ 完了（2026-03-19）
+- `scripts/fetch-ability-names.py` で実装・実行済み
+- 310件全て補完済み
 
 #### 2. `game-data/` ディレクトリの削除
 - `game-data/ability_list.json` は `abilities/all.json` に移行済み
@@ -112,13 +151,12 @@ uv run scripts/fetch-forms.py --force
 - `fetch-forms.py` の `build_form_entry` で地域名を付加するロジックを実装済み
 - 単一亜種: "コラッタ（アローラのすがた）" 形式
 - 複数亜種（ケンタロス）: "ケンタロス コンバット種（パルデアのすがた）" 形式
-- form_id重複修正（タスク4）と同時に対応
 
 ### 優先度中
 
 #### 4. `form_name_en` の追加 ✅ 完了（2026-03-19）
-- `scripts/fetch-form-names-en.py` で実装・実行済み
-- M-dimension限定フォーム15件はスクリプト内の `MANUAL_FORM_NAMES_EN` でカバー
+- `scripts/fetch-form-names-en.py` で実装・実行済み（178件、警告0件）
+- M-dimension限定フォーム15件 + ウーラオスgmax2件はスクリプト内の `MANUAL_FORM_NAMES_EN` でカバー
 - **form_id重複問題 ✅ 解決済み（2026-03-19）**:
   - No.128 ケンタロス: `paldea-combat-breed` / `paldea-blaze-breed` / `paldea-aqua-breed` に修正
   - No.892 ウーラオス: `gmax-single-strike` / `gmax-rapid-strike` に修正
@@ -137,9 +175,12 @@ uv run scripts/fetch-forms.py --force
 
 ### 優先度低
 
-#### 7. `games/titles.json` の補完
-- `legends_za` の `releaseDate_jp` / `releaseDate_us` が `null` → 実際の日付を入力
-- Switch 2のプラットフォーム記述を統一
+#### 7. `games/titles.json` の補完 ✅ 一部完了（2026-03-19）
+- ZA発売日: 2025-10-16 ✅
+- ぽこ あ ポケモン追加済み（2026-03-05）✅
+- DLC管理追加済み（SwSh/SV）✅
+- HOME連携フィールド追加済み（全42タイトル）✅
+- **残課題**: `group` フィールド（SwSh/SV等のペア単位キーの正式定義）は未実装
 
 #### 8. フォームデータのスコープ拡張（検討）
 - `zmove` カテゴリ（現状スキップ）: ネクロズマ等タイプ変化フォームを含む可能性
@@ -154,6 +195,9 @@ uv run scripts/fetch-forms.py --force
 - `forms` フィールドのないポケモンは `forms` キー自体なし（空配列ではない）
 - `form_id` はPokeAPI命名規則に準拠（将来的な英語ソースとの照合用）
 - `gigantamax` はタイプ変化なしでも収録（`gmax_move` 情報が有用なため）
+- DLCは親タイトルの `dlc[]` 配列で管理（独立エントリにしない）
+- HOME連携は `home: {send, receive}` で非対称ケース（LA等）に対応
+- `availableIn` の粒度はタイトルペア単位を維持（DLC単位には細分化しない）
 
 ---
 

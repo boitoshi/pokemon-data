@@ -1,6 +1,6 @@
 # pokemon-data 開発ノート
 
-> 最終更新: 2026-03-19（DLC管理・HOME連携フィールド追加・タイトル整備・groupフィールド追加・pokemon_names.json追加）
+> 最終更新: 2026-03-19（DLC管理・HOME連携フィールド追加・タイトル整備・groupフィールド追加・pokemon_names.json追加・game-data削除・実装計画更新）
 
 ## このリポジトリの役割
 
@@ -30,12 +30,11 @@ pokemon-data/
 │   ├── types.json            # 全18タイプ 英日
 │   ├── natures.json          # 全25せいかく（上昇/下降ステータス付き）
 │   └── balls.json            # ボール 28種
-├── game-data/
-│   └── ability_list.json     # 旧ファイル（abilities/all.jsonに移行済み、削除待ち）
 └── scripts/
     ├── fetch-pokemon.py           # PokeAPIからマスターデータ取得
     ├── fetch-forms.py             # special-forms.jsonからフォームデータ取得
     ├── fetch-form-names-en.py     # PokeAPIからフォーム英語名を取得
+    ├── fetch-ability-names.py     # PokeAPIからabilities/all.jsonのname_en補完
     └── generate_pokemon_names.py  # all.json → mappings/pokemon_names.json 生成
 ```
 
@@ -139,56 +138,52 @@ uv run scripts/fetch-form-names-en.py
 
 ---
 
+## 完了済みタスク（2026-03-19）
+
+| # | タスク | 詳細 |
+|---|---|---|
+| 1 | `abilities/all.json` の `name_en` 補完 | `fetch-ability-names.py` で310件全て補完 |
+| 2 | `game-data/` ディレクトリの削除 | `ability_list.json` を `abilities/all.json` に移行し削除完了 |
+| 3 | `regional` フォームの `form_name_ja` 修正 | "コラッタ（アローラのすがた）" 形式で統一 |
+| 4 | `form_name_en` の追加 | `fetch-form-names-en.py` で178件完全カバー |
+| 5 | form_id重複問題の解決 | ケンタロス・ウーラオスのform_id修正 |
+| 6 | `games/titles.json` の補完 | ZA発売日・DLC・HOME連携・groupフィールド追加（全43タイトル） |
+| 7 | `mappings/` の distribution-scraper への正本化 | symlink移行完了（10ファイル）、build_mappings.pyにsymlink guard追加 |
+| 8 | `mappings/pokemon_names.json` 生成 | `generate_pokemon_names.py` 実装、all.json → 1025件の英日lookup生成 |
+
+---
+
 ## 今後の実装予定
 
 ### 優先度高
 
-#### 1. `abilities/all.json` の `name_en` 補完スクリプト ✅ 完了（2026-03-19）
-- `scripts/fetch-ability-names.py` で実装・実行済み
-- 310件全て補完済み
+#### 1. `pokemon/all.json` の Gen10（ZA）対応
+- 現状 No.1026以降は未収録
+- ZAの新ポケモン番号確定後 → `fetch-pokemon.py` の `TOTAL_POKEMON` を更新
+- PokeAPI未対応ポケモンは手動追記（`"no", "name_ja", "name_en", "gen", "types", "is_legendary", "is_mythical"`）
+- `generate_pokemon_names.py` 再実行で `mappings/pokemon_names.json` も更新される
 
-#### 2. `game-data/` ディレクトリの削除
-- `game-data/ability_list.json` は `abilities/all.json` に移行済み
-- 旧ファイルを削除してディレクトリも消す
-
-#### 3. `regional` フォームの `form_name_ja` 修正 ✅ 完了（2026-03-19）
-- `fetch-forms.py` の `build_form_entry` で地域名を付加するロジックを実装済み
-- 単一亜種: "コラッタ（アローラのすがた）" 形式
-- 複数亜種（ケンタロス）: "ケンタロス コンバット種（パルデアのすがた）" 形式
+#### 2. `distribution-scraper/mappings/games.json` の正本化
+- 現状: distribution-scraper が独自フォーマットで管理（symlink未移行の唯一のファイル）
+- 方針: `distribution-scraper` の `games.json` が必要とするフィールドを調査し、
+  `pokemon-data/games/titles.json` から生成するスクリプトか変換アダプターを実装
+- 前提: 他リポジトリからも同様の需要が出てきたら対応（YAGNI原則）
 
 ### 優先度中
 
-#### 4. `form_name_en` の追加 ✅ 完了（2026-03-19）
-- `scripts/fetch-form-names-en.py` で実装・実行済み（178件、警告0件）
-- M-dimension限定フォーム15件 + ウーラオスgmax2件はスクリプト内の `MANUAL_FORM_NAMES_EN` でカバー
-- **form_id重複問題 ✅ 解決済み（2026-03-19）**:
-  - No.128 ケンタロス: `paldea-combat-breed` / `paldea-blaze-breed` / `paldea-aqua-breed` に修正
-  - No.892 ウーラオス: `gmax-single-strike` / `gmax-rapid-strike` に修正
-  - → `special-forms.json` に `formId` フィールドを追加（5フォームのみ）
-  - → `fetch-forms.py` の `build_form_entry` で `formId` を優先参照するよう修正
+#### 3. `ribbon-tracker` の ZA（legends_za）対応
+- 現状: `distribution-scraper` の EXCLUDED_IDS に登録されており取得スキップ中
+- 方針: ZAリボン実装状況を確認後、ribbon-tracker と distribution-scraper を更新
 
-#### 5. `pokemon/all.json` の Gen10（ZA）対応
-- 現状 No.1026以降は未収録
-- ZAの新ポケモン番号が確定したら `fetch-pokemon.py` の `TOTAL_POKEMON` を更新
-- ZA固有ポケモンはPokeAPI未対応の可能性があるため手動追記も想定
-
-#### 6. `mappings/` の他リポジトリへの正本化
-- 現状 `distribution-scraper/mappings/` に同様のデータが存在（二重管理）
-- `distribution-scraper` が `pokemon-data/mappings/` を参照するように移行
-- 方法: git submodule または相対パス参照
-
-### 優先度低
-
-#### 7. `games/titles.json` の補完 ✅ 完了（2026-03-19）
-- ZA発売日: 2025-10-16 ✅
-- ぽこ あ ポケモン追加済み（2026-03-05）✅
-- DLC管理追加済み（SwSh/SV/ZA）✅ ZA: M次元ラッシュ（2025-12-10）
-- HOME連携フィールド追加済み（全43タイトル）✅
-- `group` フィールド追加済み（全43タイトル）✅ → `games/groups.json` と対応
-
-#### 8. フォームデータのスコープ拡張（検討）
+#### 4. フォームデータのスコープ拡張（検討）
 - `zmove` カテゴリ（現状スキップ）: ネクロズマ等タイプ変化フォームを含む可能性
 - `bond` カテゴリ（現状スキップ）: サトシゲッコウガなど
+
+### 優先度低（YAGNI: 複数リポジトリから需要が出たら対応）
+
+#### 5. `moves.json` / `items.json` のリッチデータ化
+- 現状: distribution-scraper が PokeAPI 由来のフラット lookup を使用
+- 方針: 別リポジトリからも参照需要が出た時点で pokemon-data に取り込む
 
 ---
 

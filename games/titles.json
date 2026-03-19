@@ -566,11 +566,25 @@
     "shortName": "ZA",
     "abbrev": "ZA",
     "generation": 10,
-    "releaseDate_jp": null,
-    "releaseDate_us": null,
+    "releaseDate_jp": "2025-10-16",
+    "releaseDate_us": "2025-10-16",
     "platform": "Switch 2",
     "category": "legends",
     "paired_with": [],
     "region": "カロス"
+  },
+  {
+    "id": "poko_a_pokemon",
+    "name": "ぽこ あ ポケモン",
+    "name_en": "Poko a Pokémon",
+    "shortName": "ぽこポケ",
+    "abbrev": "PokoPoke",
+    "generation": null,
+    "releaseDate_jp": "2026-03-05",
+    "releaseDate_us": null,
+    "platform": "Switch 2",
+    "category": "spinoff",
+    "paired_with": [],
+    "region": null
   }
 ]

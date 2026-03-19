@@ -48,6 +48,10 @@ MANUAL_FORM_NAMES_EN: dict[tuple[int, str], str] = {
     (998, "mega"): "Mega Baxcalibur",
     # PokeAPIスラッグがform_idと一致しないケース
     (849, "gmax"): "Gigantamax Toxtricity",
+    # ウーラオスgmax: PokeAPI slug は urshifu-single-strike-gmax / urshifu-rapid-strike-gmax
+    # （form_id が gmax-* なので slug が逆順になってしまうため手動登録）
+    (892, "gmax-single-strike"): "Gigantamax Urshifu (Single Strike Style)",
+    (892, "gmax-rapid-strike"): "Gigantamax Urshifu (Rapid Strike Style)",
 }
 
 

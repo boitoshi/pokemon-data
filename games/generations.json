@@ -1,0 +1,102 @@
+[
+  {
+    "generation": 1,
+    "name": "第1世代",
+    "name_en": "Generation I",
+    "region": "カントー",
+    "region_en": "Kanto",
+    "startYear": 1996,
+    "newPokemon": { "start": 1, "end": 151 },
+    "mainGames": ["red", "green", "blue", "yellow"]
+  },
+  {
+    "generation": 2,
+    "name": "第2世代",
+    "name_en": "Generation II",
+    "region": "ジョウト",
+    "region_en": "Johto",
+    "startYear": 1999,
+    "newPokemon": { "start": 152, "end": 251 },
+    "mainGames": ["gold", "silver", "crystal"]
+  },
+  {
+    "generation": 3,
+    "name": "第3世代",
+    "name_en": "Generation III",
+    "region": "ホウエン",
+    "region_en": "Hoenn",
+    "startYear": 2002,
+    "newPokemon": { "start": 252, "end": 386 },
+    "mainGames": ["ruby", "sapphire", "emerald", "firered", "leafgreen", "colosseum", "xd"]
+  },
+  {
+    "generation": 4,
+    "name": "第4世代",
+    "name_en": "Generation IV",
+    "region": "シンオウ",
+    "region_en": "Sinnoh",
+    "startYear": 2006,
+    "newPokemon": { "start": 387, "end": 493 },
+    "mainGames": ["diamond", "pearl", "platinum", "heartgold", "soulsilver"]
+  },
+  {
+    "generation": 5,
+    "name": "第5世代",
+    "name_en": "Generation V",
+    "region": "イッシュ",
+    "region_en": "Unova",
+    "startYear": 2010,
+    "newPokemon": { "start": 494, "end": 649 },
+    "mainGames": ["black", "white", "black2", "white2"]
+  },
+  {
+    "generation": 6,
+    "name": "第6世代",
+    "name_en": "Generation VI",
+    "region": "カロス",
+    "region_en": "Kalos",
+    "startYear": 2013,
+    "newPokemon": { "start": 650, "end": 721 },
+    "mainGames": ["x", "y", "omegaruby", "alphasapphire"]
+  },
+  {
+    "generation": 7,
+    "name": "第7世代",
+    "name_en": "Generation VII",
+    "region": "アローラ",
+    "region_en": "Alola",
+    "startYear": 2016,
+    "newPokemon": { "start": 722, "end": 809 },
+    "mainGames": ["sun", "moon", "ultra_sun", "ultra_moon", "lets_go_pikachu", "lets_go_eevee"]
+  },
+  {
+    "generation": 8,
+    "name": "第8世代",
+    "name_en": "Generation VIII",
+    "region": "ガラル",
+    "region_en": "Galar",
+    "startYear": 2019,
+    "newPokemon": { "start": 810, "end": 905 },
+    "mainGames": ["sword", "shield", "brilliant_diamond", "shining_pearl", "legends_arceus"]
+  },
+  {
+    "generation": 9,
+    "name": "第9世代",
+    "name_en": "Generation IX",
+    "region": "パルデア",
+    "region_en": "Paldea",
+    "startYear": 2022,
+    "newPokemon": { "start": 906, "end": 1025 },
+    "mainGames": ["scarlet", "violet"]
+  },
+  {
+    "generation": 10,
+    "name": "第10世代",
+    "name_en": "Generation X",
+    "region": "カロス（ルミオスシティ）",
+    "region_en": "Kalos (Lumiose City)",
+    "startYear": 2025,
+    "newPokemon": { "start": 1026, "end": null },
+    "mainGames": ["legends_za"]
+  }
+]

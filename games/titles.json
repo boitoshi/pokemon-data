@@ -10,6 +10,7 @@
     "releaseDate_us": "1998-09-28",
     "platform": "GB",
     "category": "mainline",
+    "group": "RG",
     "paired_with": [
       "green"
     ],
@@ -30,6 +31,7 @@
     "releaseDate_us": null,
     "platform": "GB",
     "category": "mainline",
+    "group": "RG",
     "paired_with": [
       "red"
     ],
@@ -50,6 +52,7 @@
     "releaseDate_us": "1998-09-28",
     "platform": "GB",
     "category": "mainline",
+    "group": "Blue",
     "paired_with": [],
     "region": "カントー",
     "home": {
@@ -68,6 +71,7 @@
     "releaseDate_us": "1999-10-19",
     "platform": "GBC",
     "category": "third_version",
+    "group": "Yellow",
     "paired_with": [],
     "region": "カントー",
     "home": {
@@ -86,6 +90,7 @@
     "releaseDate_us": "2000-10-15",
     "platform": "GBC",
     "category": "mainline",
+    "group": "GS",
     "paired_with": [
       "silver"
     ],
@@ -106,6 +111,7 @@
     "releaseDate_us": "2000-10-15",
     "platform": "GBC",
     "category": "mainline",
+    "group": "GS",
     "paired_with": [
       "gold"
     ],
@@ -126,6 +132,7 @@
     "releaseDate_us": "2001-07-29",
     "platform": "GBC",
     "category": "third_version",
+    "group": "Crystal",
     "paired_with": [],
     "region": "ジョウト",
     "home": {
@@ -144,6 +151,7 @@
     "releaseDate_us": "2003-03-19",
     "platform": "GBA",
     "category": "mainline",
+    "group": "RS",
     "paired_with": [
       "sapphire"
     ],
@@ -164,6 +172,7 @@
     "releaseDate_us": "2003-03-19",
     "platform": "GBA",
     "category": "mainline",
+    "group": "RS",
     "paired_with": [
       "ruby"
     ],
@@ -184,6 +193,7 @@
     "releaseDate_us": "2004-03-22",
     "platform": "GCN",
     "category": "spinoff",
+    "group": "Colo",
     "paired_with": [],
     "region": "オーレ",
     "home": {
@@ -202,6 +212,7 @@
     "releaseDate_us": "2004-09-09",
     "platform": "GBA",
     "category": "remake",
+    "group": "FRLG",
     "paired_with": [
       "leafgreen"
     ],
@@ -222,6 +233,7 @@
     "releaseDate_us": "2004-09-09",
     "platform": "GBA",
     "category": "remake",
+    "group": "FRLG",
     "paired_with": [
       "firered"
     ],
@@ -242,6 +254,7 @@
     "releaseDate_us": "2005-05-01",
     "platform": "GBA",
     "category": "third_version",
+    "group": "Emerald",
     "paired_with": [],
     "region": "ホウエン",
     "home": {
@@ -260,6 +273,7 @@
     "releaseDate_us": "2005-10-03",
     "platform": "GCN",
     "category": "spinoff",
+    "group": "XD",
     "paired_with": [],
     "region": "オーレ",
     "home": {
@@ -278,6 +292,7 @@
     "releaseDate_us": "2007-04-22",
     "platform": "DS",
     "category": "mainline",
+    "group": "DP",
     "paired_with": [
       "pearl"
     ],
@@ -298,6 +313,7 @@
     "releaseDate_us": "2007-04-22",
     "platform": "DS",
     "category": "mainline",
+    "group": "DP",
     "paired_with": [
       "diamond"
     ],
@@ -318,6 +334,7 @@
     "releaseDate_us": "2009-03-22",
     "platform": "DS",
     "category": "third_version",
+    "group": "Pt",
     "paired_with": [],
     "region": "シンオウ",
     "home": {
@@ -336,6 +353,7 @@
     "releaseDate_us": "2010-03-14",
     "platform": "DS",
     "category": "remake",
+    "group": "HGSS",
     "paired_with": [
       "soulsilver"
     ],
@@ -356,6 +374,7 @@
     "releaseDate_us": "2010-03-14",
     "platform": "DS",
     "category": "remake",
+    "group": "HGSS",
     "paired_with": [
       "heartgold"
     ],
@@ -376,6 +395,7 @@
     "releaseDate_us": "2011-03-06",
     "platform": "DS",
     "category": "mainline",
+    "group": "BW",
     "paired_with": [
       "white"
     ],
@@ -396,6 +416,7 @@
     "releaseDate_us": "2011-03-06",
     "platform": "DS",
     "category": "mainline",
+    "group": "BW",
     "paired_with": [
       "black"
     ],
@@ -416,6 +437,7 @@
     "releaseDate_us": "2012-10-07",
     "platform": "DS",
     "category": "sequel",
+    "group": "B2W2",
     "paired_with": [
       "white2"
     ],
@@ -436,6 +458,7 @@
     "releaseDate_us": "2012-10-07",
     "platform": "DS",
     "category": "sequel",
+    "group": "B2W2",
     "paired_with": [
       "black2"
     ],
@@ -456,6 +479,7 @@
     "releaseDate_us": "2013-10-12",
     "platform": "3DS",
     "category": "mainline",
+    "group": "XY",
     "paired_with": [
       "y"
     ],
@@ -476,6 +500,7 @@
     "releaseDate_us": "2013-10-12",
     "platform": "3DS",
     "category": "mainline",
+    "group": "XY",
     "paired_with": [
       "x"
     ],
@@ -496,6 +521,7 @@
     "releaseDate_us": "2014-11-21",
     "platform": "3DS",
     "category": "remake",
+    "group": "ORAS",
     "paired_with": [
       "alphasapphire"
     ],
@@ -516,6 +542,7 @@
     "releaseDate_us": "2014-11-21",
     "platform": "3DS",
     "category": "remake",
+    "group": "ORAS",
     "paired_with": [
       "omegaruby"
     ],
@@ -536,6 +563,7 @@
     "releaseDate_us": "2016-11-18",
     "platform": "3DS",
     "category": "mainline",
+    "group": "SM",
     "paired_with": [
       "moon"
     ],
@@ -556,6 +584,7 @@
     "releaseDate_us": "2016-11-18",
     "platform": "3DS",
     "category": "mainline",
+    "group": "SM",
     "paired_with": [
       "sun"
     ],
@@ -576,6 +605,7 @@
     "releaseDate_us": "2017-11-17",
     "platform": "3DS",
     "category": "third_version",
+    "group": "USUM",
     "paired_with": [
       "ultra_moon"
     ],
@@ -596,6 +626,7 @@
     "releaseDate_us": "2017-11-17",
     "platform": "3DS",
     "category": "third_version",
+    "group": "USUM",
     "paired_with": [
       "ultra_sun"
     ],
@@ -616,6 +647,7 @@
     "releaseDate_us": "2018-11-16",
     "platform": "Switch",
     "category": "lets_go",
+    "group": "LPLE",
     "paired_with": [
       "lets_go_eevee"
     ],
@@ -636,6 +668,7 @@
     "releaseDate_us": "2018-11-16",
     "platform": "Switch",
     "category": "lets_go",
+    "group": "LPLE",
     "paired_with": [
       "lets_go_pikachu"
     ],
@@ -656,6 +689,7 @@
     "releaseDate_us": "2019-11-15",
     "platform": "Switch",
     "category": "mainline",
+    "group": "SwSh",
     "paired_with": [
       "shield"
     ],
@@ -692,6 +726,7 @@
     "releaseDate_us": "2019-11-15",
     "platform": "Switch",
     "category": "mainline",
+    "group": "SwSh",
     "paired_with": [
       "sword"
     ],
@@ -728,6 +763,7 @@
     "releaseDate_us": "2021-11-19",
     "platform": "Switch",
     "category": "remake",
+    "group": "BDSP",
     "paired_with": [
       "shining_pearl"
     ],
@@ -748,6 +784,7 @@
     "releaseDate_us": "2021-11-19",
     "platform": "Switch",
     "category": "remake",
+    "group": "BDSP",
     "paired_with": [
       "brilliant_diamond"
     ],
@@ -768,6 +805,7 @@
     "releaseDate_us": "2022-01-28",
     "platform": "Switch",
     "category": "legends",
+    "group": "LA",
     "paired_with": [],
     "region": "ヒスイ",
     "home": {
@@ -786,6 +824,7 @@
     "releaseDate_us": "2022-11-18",
     "platform": "Switch",
     "category": "mainline",
+    "group": "SV",
     "paired_with": [
       "violet"
     ],
@@ -822,6 +861,7 @@
     "releaseDate_us": "2022-11-18",
     "platform": "Switch",
     "category": "mainline",
+    "group": "SV",
     "paired_with": [
       "scarlet"
     ],
@@ -858,8 +898,18 @@
     "releaseDate_us": "2025-10-16",
     "platform": "Switch 2",
     "category": "legends",
+    "group": "ZA",
     "paired_with": [],
     "region": "カロス",
+    "dlc": [
+      {
+        "id": "m-dimension",
+        "name": "M次元ラッシュ",
+        "name_en": "M-Dimension Rush",
+        "releaseDate_jp": "2025-12-10",
+        "releaseDate_us": "2025-12-10"
+      }
+    ],
     "home": {
       "send": true,
       "receive": true
@@ -876,6 +926,7 @@
     "releaseDate_us": null,
     "platform": "Switch 2",
     "category": "spinoff",
+    "group": "PokoPoke",
     "paired_with": [],
     "region": null,
     "home": {

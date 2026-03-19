@@ -1,0 +1,184 @@
+[
+  {
+    "id": "RG",
+    "name_ja": "赤・緑",
+    "name_en": "Red & Green",
+    "generation": 1,
+    "games": ["red", "green"]
+  },
+  {
+    "id": "Blue",
+    "name_ja": "青",
+    "name_en": "Blue",
+    "generation": 1,
+    "games": ["blue"]
+  },
+  {
+    "id": "Yellow",
+    "name_ja": "ピカチュウ",
+    "name_en": "Yellow",
+    "generation": 1,
+    "games": ["yellow"]
+  },
+  {
+    "id": "GS",
+    "name_ja": "金・銀",
+    "name_en": "Gold & Silver",
+    "generation": 2,
+    "games": ["gold", "silver"]
+  },
+  {
+    "id": "Crystal",
+    "name_ja": "クリスタル",
+    "name_en": "Crystal",
+    "generation": 2,
+    "games": ["crystal"]
+  },
+  {
+    "id": "RS",
+    "name_ja": "ルビー・サファイア",
+    "name_en": "Ruby & Sapphire",
+    "generation": 3,
+    "games": ["ruby", "sapphire"]
+  },
+  {
+    "id": "Colo",
+    "name_ja": "コロシアム",
+    "name_en": "Colosseum",
+    "generation": 3,
+    "games": ["colosseum"]
+  },
+  {
+    "id": "FRLG",
+    "name_ja": "ファイアレッド・リーフグリーン",
+    "name_en": "FireRed & LeafGreen",
+    "generation": 3,
+    "games": ["firered", "leafgreen"]
+  },
+  {
+    "id": "Emerald",
+    "name_ja": "エメラルド",
+    "name_en": "Emerald",
+    "generation": 3,
+    "games": ["emerald"]
+  },
+  {
+    "id": "XD",
+    "name_ja": "XD 闇の旋風ダークルギア",
+    "name_en": "XD: Gale of Darkness",
+    "generation": 3,
+    "games": ["xd"]
+  },
+  {
+    "id": "DP",
+    "name_ja": "ダイヤモンド・パール",
+    "name_en": "Diamond & Pearl",
+    "generation": 4,
+    "games": ["diamond", "pearl"]
+  },
+  {
+    "id": "Pt",
+    "name_ja": "プラチナ",
+    "name_en": "Platinum",
+    "generation": 4,
+    "games": ["platinum"]
+  },
+  {
+    "id": "HGSS",
+    "name_ja": "ハートゴールド・ソウルシルバー",
+    "name_en": "HeartGold & SoulSilver",
+    "generation": 4,
+    "games": ["heartgold", "soulsilver"]
+  },
+  {
+    "id": "BW",
+    "name_ja": "ブラック・ホワイト",
+    "name_en": "Black & White",
+    "generation": 5,
+    "games": ["black", "white"]
+  },
+  {
+    "id": "B2W2",
+    "name_ja": "ブラック2・ホワイト2",
+    "name_en": "Black 2 & White 2",
+    "generation": 5,
+    "games": ["black2", "white2"]
+  },
+  {
+    "id": "XY",
+    "name_ja": "X・Y",
+    "name_en": "X & Y",
+    "generation": 6,
+    "games": ["x", "y"]
+  },
+  {
+    "id": "ORAS",
+    "name_ja": "オメガルビー・アルファサファイア",
+    "name_en": "Omega Ruby & Alpha Sapphire",
+    "generation": 6,
+    "games": ["omegaruby", "alphasapphire"]
+  },
+  {
+    "id": "SM",
+    "name_ja": "サン・ムーン",
+    "name_en": "Sun & Moon",
+    "generation": 7,
+    "games": ["sun", "moon"]
+  },
+  {
+    "id": "USUM",
+    "name_ja": "ウルトラサン・ウルトラムーン",
+    "name_en": "Ultra Sun & Ultra Moon",
+    "generation": 7,
+    "games": ["ultra_sun", "ultra_moon"]
+  },
+  {
+    "id": "LPLE",
+    "name_ja": "Let's Go! ピカチュウ・イーブイ",
+    "name_en": "Let's Go, Pikachu! & Eevee!",
+    "generation": 7,
+    "games": ["lets_go_pikachu", "lets_go_eevee"]
+  },
+  {
+    "id": "SwSh",
+    "name_ja": "ソード・シールド",
+    "name_en": "Sword & Shield",
+    "generation": 8,
+    "games": ["sword", "shield"]
+  },
+  {
+    "id": "BDSP",
+    "name_ja": "ブリリアントダイヤモンド・シャイニングパール",
+    "name_en": "Brilliant Diamond & Shining Pearl",
+    "generation": 8,
+    "games": ["brilliant_diamond", "shining_pearl"]
+  },
+  {
+    "id": "LA",
+    "name_ja": "LEGENDS アルセウス",
+    "name_en": "Legends: Arceus",
+    "generation": 8,
+    "games": ["legends_arceus"]
+  },
+  {
+    "id": "SV",
+    "name_ja": "スカーレット・バイオレット",
+    "name_en": "Scarlet & Violet",
+    "generation": 9,
+    "games": ["scarlet", "violet"]
+  },
+  {
+    "id": "ZA",
+    "name_ja": "LEGENDS Z-A",
+    "name_en": "Legends: Z-A",
+    "generation": 10,
+    "games": ["legends_za"]
+  },
+  {
+    "id": "PokoPoke",
+    "name_ja": "ぽこ あ ポケモン",
+    "name_en": "Poko a Pokémon",
+    "generation": null,
+    "games": ["poko_a_pokemon"]
+  }
+]

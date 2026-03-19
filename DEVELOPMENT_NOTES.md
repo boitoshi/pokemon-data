@@ -1,6 +1,6 @@
 # pokemon-data 開発ノート
 
-> 最終更新: 2026-03-19（DLC管理・HOME連携フィールド追加・タイトル整備）
+> 最終更新: 2026-03-19（DLC管理・HOME連携フィールド追加・タイトル整備・groupフィールド追加）
 
 ## このリポジトリの役割
 
@@ -15,7 +15,8 @@ pokemon-data/
 ├── pokemon/
 │   └── all.json              # ポケモンマスターデータ 1025件 + フォームデータ 178件
 ├── games/
-│   ├── titles.json           # ゲームタイトル 42件（Gen1〜Gen10/ZA + ぽこ あ ポケモン）
+│   ├── titles.json           # ゲームタイトル 43件（Gen1〜Gen10/ZA + ぽこ あ ポケモン）。groupフィールド付き
+│   ├── groups.json           # グループ定義 26件（"SwSh", "SV"等のペア単位キー）
 │   └── generations.json      # 世代定義 10件
 ├── abilities/
 │   └── all.json              # 特性 310件（name_en 補完済み）
@@ -108,6 +109,7 @@ pokemon-data/
 
 | フィールド | 説明 |
 |---|---|
+| `group` | ペア単位グループID（`games/groups.json` の `id` と対応）。`available_in` で使う文字列の正本定義 |
 | `dlc` | DLC配列。発売日 = そのDLCで解禁される新ポケモンの実装日として管理。DLCのないタイトルはフィールド自体省略 |
 | `home.send` | ゲーム→HOMEへポケモンを転送できるか |
 | `home.receive` | HOME→ゲームへポケモンを受け取れるか |
@@ -175,12 +177,12 @@ uv run scripts/fetch-form-names-en.py
 
 ### 優先度低
 
-#### 7. `games/titles.json` の補完 ✅ 一部完了（2026-03-19）
+#### 7. `games/titles.json` の補完 ✅ 完了（2026-03-19）
 - ZA発売日: 2025-10-16 ✅
 - ぽこ あ ポケモン追加済み（2026-03-05）✅
-- DLC管理追加済み（SwSh/SV）✅
-- HOME連携フィールド追加済み（全42タイトル）✅
-- **残課題**: `group` フィールド（SwSh/SV等のペア単位キーの正式定義）は未実装
+- DLC管理追加済み（SwSh/SV/ZA）✅ ZA: M次元ラッシュ（2025-12-10）
+- HOME連携フィールド追加済み（全43タイトル）✅
+- `group` フィールド追加済み（全43タイトル）✅ → `games/groups.json` と対応
 
 #### 8. フォームデータのスコープ拡張（検討）
 - `zmove` カテゴリ（現状スキップ）: ネクロズマ等タイプ変化フォームを含む可能性

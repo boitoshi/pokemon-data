@@ -473,7 +473,11 @@
     "platform": "Switch",
     "category": "mainline",
     "paired_with": ["shield"],
-    "region": "ガラル"
+    "region": "ガラル",
+    "dlc": [
+      { "id": "ioa", "name": "鎧の孤島", "name_en": "The Isle of Armor", "releaseDate_jp": "2020-06-17", "releaseDate_us": "2020-06-17" },
+      { "id": "ct",  "name": "冠の雪原", "name_en": "The Crown Tundra",  "releaseDate_jp": "2020-10-22", "releaseDate_us": "2020-10-22" }
+    ]
   },
   {
     "id": "shield",
@@ -487,7 +491,11 @@
     "platform": "Switch",
     "category": "mainline",
     "paired_with": ["sword"],
-    "region": "ガラル"
+    "region": "ガラル",
+    "dlc": [
+      { "id": "ioa", "name": "鎧の孤島", "name_en": "The Isle of Armor", "releaseDate_jp": "2020-06-17", "releaseDate_us": "2020-06-17" },
+      { "id": "ct",  "name": "冠の雪原", "name_en": "The Crown Tundra",  "releaseDate_jp": "2020-10-22", "releaseDate_us": "2020-10-22" }
+    ]
   },
   {
     "id": "brilliant_diamond",
@@ -543,7 +551,11 @@
     "platform": "Switch",
     "category": "mainline",
     "paired_with": ["violet"],
-    "region": "パルデア"
+    "region": "パルデア",
+    "dlc": [
+      { "id": "kitakami",   "name": "碧の仮面",   "name_en": "The Teal Mask",      "releaseDate_jp": "2023-09-13", "releaseDate_us": "2023-09-13" },
+      { "id": "blueberry",  "name": "藍の円盤",   "name_en": "The Indigo Disk",    "releaseDate_jp": "2023-12-14", "releaseDate_us": "2023-12-14" }
+    ]
   },
   {
     "id": "violet",
@@ -557,7 +569,11 @@
     "platform": "Switch",
     "category": "mainline",
     "paired_with": ["scarlet"],
-    "region": "パルデア"
+    "region": "パルデア",
+    "dlc": [
+      { "id": "kitakami",   "name": "碧の仮面",   "name_en": "The Teal Mask",      "releaseDate_jp": "2023-09-13", "releaseDate_us": "2023-09-13" },
+      { "id": "blueberry",  "name": "藍の円盤",   "name_en": "The Indigo Disk",    "releaseDate_jp": "2023-12-14", "releaseDate_us": "2023-12-14" }
+    ]
   },
   {
     "id": "legends_za",

@@ -10,8 +10,14 @@
     "releaseDate_us": "1998-09-28",
     "platform": "GB",
     "category": "mainline",
-    "paired_with": ["green"],
-    "region": "カントー"
+    "paired_with": [
+      "green"
+    ],
+    "region": "カントー",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "green",
@@ -24,8 +30,14 @@
     "releaseDate_us": null,
     "platform": "GB",
     "category": "mainline",
-    "paired_with": ["red"],
-    "region": "カントー"
+    "paired_with": [
+      "red"
+    ],
+    "region": "カントー",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "blue",
@@ -39,7 +51,11 @@
     "platform": "GB",
     "category": "mainline",
     "paired_with": [],
-    "region": "カントー"
+    "region": "カントー",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "yellow",
@@ -53,7 +69,11 @@
     "platform": "GBC",
     "category": "third_version",
     "paired_with": [],
-    "region": "カントー"
+    "region": "カントー",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "gold",
@@ -66,8 +86,14 @@
     "releaseDate_us": "2000-10-15",
     "platform": "GBC",
     "category": "mainline",
-    "paired_with": ["silver"],
-    "region": "ジョウト"
+    "paired_with": [
+      "silver"
+    ],
+    "region": "ジョウト",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "silver",
@@ -80,8 +106,14 @@
     "releaseDate_us": "2000-10-15",
     "platform": "GBC",
     "category": "mainline",
-    "paired_with": ["gold"],
-    "region": "ジョウト"
+    "paired_with": [
+      "gold"
+    ],
+    "region": "ジョウト",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "crystal",
@@ -95,7 +127,11 @@
     "platform": "GBC",
     "category": "third_version",
     "paired_with": [],
-    "region": "ジョウト"
+    "region": "ジョウト",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "ruby",
@@ -108,8 +144,14 @@
     "releaseDate_us": "2003-03-19",
     "platform": "GBA",
     "category": "mainline",
-    "paired_with": ["sapphire"],
-    "region": "ホウエン"
+    "paired_with": [
+      "sapphire"
+    ],
+    "region": "ホウエン",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "sapphire",
@@ -122,8 +164,14 @@
     "releaseDate_us": "2003-03-19",
     "platform": "GBA",
     "category": "mainline",
-    "paired_with": ["ruby"],
-    "region": "ホウエン"
+    "paired_with": [
+      "ruby"
+    ],
+    "region": "ホウエン",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "colosseum",
@@ -137,7 +185,11 @@
     "platform": "GCN",
     "category": "spinoff",
     "paired_with": [],
-    "region": "オーレ"
+    "region": "オーレ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "firered",
@@ -150,8 +202,14 @@
     "releaseDate_us": "2004-09-09",
     "platform": "GBA",
     "category": "remake",
-    "paired_with": ["leafgreen"],
-    "region": "カントー"
+    "paired_with": [
+      "leafgreen"
+    ],
+    "region": "カントー",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "leafgreen",
@@ -164,8 +222,14 @@
     "releaseDate_us": "2004-09-09",
     "platform": "GBA",
     "category": "remake",
-    "paired_with": ["firered"],
-    "region": "カントー"
+    "paired_with": [
+      "firered"
+    ],
+    "region": "カントー",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "emerald",
@@ -179,7 +243,11 @@
     "platform": "GBA",
     "category": "third_version",
     "paired_with": [],
-    "region": "ホウエン"
+    "region": "ホウエン",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "xd",
@@ -193,7 +261,11 @@
     "platform": "GCN",
     "category": "spinoff",
     "paired_with": [],
-    "region": "オーレ"
+    "region": "オーレ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "diamond",
@@ -206,8 +278,14 @@
     "releaseDate_us": "2007-04-22",
     "platform": "DS",
     "category": "mainline",
-    "paired_with": ["pearl"],
-    "region": "シンオウ"
+    "paired_with": [
+      "pearl"
+    ],
+    "region": "シンオウ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "pearl",
@@ -220,8 +298,14 @@
     "releaseDate_us": "2007-04-22",
     "platform": "DS",
     "category": "mainline",
-    "paired_with": ["diamond"],
-    "region": "シンオウ"
+    "paired_with": [
+      "diamond"
+    ],
+    "region": "シンオウ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "platinum",
@@ -235,7 +319,11 @@
     "platform": "DS",
     "category": "third_version",
     "paired_with": [],
-    "region": "シンオウ"
+    "region": "シンオウ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "heartgold",
@@ -248,8 +336,14 @@
     "releaseDate_us": "2010-03-14",
     "platform": "DS",
     "category": "remake",
-    "paired_with": ["soulsilver"],
-    "region": "ジョウト"
+    "paired_with": [
+      "soulsilver"
+    ],
+    "region": "ジョウト",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "soulsilver",
@@ -262,8 +356,14 @@
     "releaseDate_us": "2010-03-14",
     "platform": "DS",
     "category": "remake",
-    "paired_with": ["heartgold"],
-    "region": "ジョウト"
+    "paired_with": [
+      "heartgold"
+    ],
+    "region": "ジョウト",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "black",
@@ -276,8 +376,14 @@
     "releaseDate_us": "2011-03-06",
     "platform": "DS",
     "category": "mainline",
-    "paired_with": ["white"],
-    "region": "イッシュ"
+    "paired_with": [
+      "white"
+    ],
+    "region": "イッシュ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "white",
@@ -290,8 +396,14 @@
     "releaseDate_us": "2011-03-06",
     "platform": "DS",
     "category": "mainline",
-    "paired_with": ["black"],
-    "region": "イッシュ"
+    "paired_with": [
+      "black"
+    ],
+    "region": "イッシュ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "black2",
@@ -304,8 +416,14 @@
     "releaseDate_us": "2012-10-07",
     "platform": "DS",
     "category": "sequel",
-    "paired_with": ["white2"],
-    "region": "イッシュ"
+    "paired_with": [
+      "white2"
+    ],
+    "region": "イッシュ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "white2",
@@ -318,8 +436,14 @@
     "releaseDate_us": "2012-10-07",
     "platform": "DS",
     "category": "sequel",
-    "paired_with": ["black2"],
-    "region": "イッシュ"
+    "paired_with": [
+      "black2"
+    ],
+    "region": "イッシュ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "x",
@@ -332,8 +456,14 @@
     "releaseDate_us": "2013-10-12",
     "platform": "3DS",
     "category": "mainline",
-    "paired_with": ["y"],
-    "region": "カロス"
+    "paired_with": [
+      "y"
+    ],
+    "region": "カロス",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "y",
@@ -346,8 +476,14 @@
     "releaseDate_us": "2013-10-12",
     "platform": "3DS",
     "category": "mainline",
-    "paired_with": ["x"],
-    "region": "カロス"
+    "paired_with": [
+      "x"
+    ],
+    "region": "カロス",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "omegaruby",
@@ -360,8 +496,14 @@
     "releaseDate_us": "2014-11-21",
     "platform": "3DS",
     "category": "remake",
-    "paired_with": ["alphasapphire"],
-    "region": "ホウエン"
+    "paired_with": [
+      "alphasapphire"
+    ],
+    "region": "ホウエン",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "alphasapphire",
@@ -374,8 +516,14 @@
     "releaseDate_us": "2014-11-21",
     "platform": "3DS",
     "category": "remake",
-    "paired_with": ["omegaruby"],
-    "region": "ホウエン"
+    "paired_with": [
+      "omegaruby"
+    ],
+    "region": "ホウエン",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "sun",
@@ -388,8 +536,14 @@
     "releaseDate_us": "2016-11-18",
     "platform": "3DS",
     "category": "mainline",
-    "paired_with": ["moon"],
-    "region": "アローラ"
+    "paired_with": [
+      "moon"
+    ],
+    "region": "アローラ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "moon",
@@ -402,8 +556,14 @@
     "releaseDate_us": "2016-11-18",
     "platform": "3DS",
     "category": "mainline",
-    "paired_with": ["sun"],
-    "region": "アローラ"
+    "paired_with": [
+      "sun"
+    ],
+    "region": "アローラ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "ultra_sun",
@@ -416,8 +576,14 @@
     "releaseDate_us": "2017-11-17",
     "platform": "3DS",
     "category": "third_version",
-    "paired_with": ["ultra_moon"],
-    "region": "アローラ"
+    "paired_with": [
+      "ultra_moon"
+    ],
+    "region": "アローラ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "ultra_moon",
@@ -430,8 +596,14 @@
     "releaseDate_us": "2017-11-17",
     "platform": "3DS",
     "category": "third_version",
-    "paired_with": ["ultra_sun"],
-    "region": "アローラ"
+    "paired_with": [
+      "ultra_sun"
+    ],
+    "region": "アローラ",
+    "home": {
+      "send": false,
+      "receive": false
+    }
   },
   {
     "id": "lets_go_pikachu",
@@ -444,8 +616,14 @@
     "releaseDate_us": "2018-11-16",
     "platform": "Switch",
     "category": "lets_go",
-    "paired_with": ["lets_go_eevee"],
-    "region": "カントー"
+    "paired_with": [
+      "lets_go_eevee"
+    ],
+    "region": "カントー",
+    "home": {
+      "send": true,
+      "receive": true
+    }
   },
   {
     "id": "lets_go_eevee",
@@ -458,8 +636,14 @@
     "releaseDate_us": "2018-11-16",
     "platform": "Switch",
     "category": "lets_go",
-    "paired_with": ["lets_go_pikachu"],
-    "region": "カントー"
+    "paired_with": [
+      "lets_go_pikachu"
+    ],
+    "region": "カントー",
+    "home": {
+      "send": true,
+      "receive": true
+    }
   },
   {
     "id": "sword",
@@ -472,12 +656,30 @@
     "releaseDate_us": "2019-11-15",
     "platform": "Switch",
     "category": "mainline",
-    "paired_with": ["shield"],
+    "paired_with": [
+      "shield"
+    ],
     "region": "ガラル",
     "dlc": [
-      { "id": "ioa", "name": "鎧の孤島", "name_en": "The Isle of Armor", "releaseDate_jp": "2020-06-17", "releaseDate_us": "2020-06-17" },
-      { "id": "ct",  "name": "冠の雪原", "name_en": "The Crown Tundra",  "releaseDate_jp": "2020-10-22", "releaseDate_us": "2020-10-22" }
-    ]
+      {
+        "id": "ioa",
+        "name": "鎧の孤島",
+        "name_en": "The Isle of Armor",
+        "releaseDate_jp": "2020-06-17",
+        "releaseDate_us": "2020-06-17"
+      },
+      {
+        "id": "ct",
+        "name": "冠の雪原",
+        "name_en": "The Crown Tundra",
+        "releaseDate_jp": "2020-10-22",
+        "releaseDate_us": "2020-10-22"
+      }
+    ],
+    "home": {
+      "send": true,
+      "receive": true
+    }
   },
   {
     "id": "shield",
@@ -490,12 +692,30 @@
     "releaseDate_us": "2019-11-15",
     "platform": "Switch",
     "category": "mainline",
-    "paired_with": ["sword"],
+    "paired_with": [
+      "sword"
+    ],
     "region": "ガラル",
     "dlc": [
-      { "id": "ioa", "name": "鎧の孤島", "name_en": "The Isle of Armor", "releaseDate_jp": "2020-06-17", "releaseDate_us": "2020-06-17" },
-      { "id": "ct",  "name": "冠の雪原", "name_en": "The Crown Tundra",  "releaseDate_jp": "2020-10-22", "releaseDate_us": "2020-10-22" }
-    ]
+      {
+        "id": "ioa",
+        "name": "鎧の孤島",
+        "name_en": "The Isle of Armor",
+        "releaseDate_jp": "2020-06-17",
+        "releaseDate_us": "2020-06-17"
+      },
+      {
+        "id": "ct",
+        "name": "冠の雪原",
+        "name_en": "The Crown Tundra",
+        "releaseDate_jp": "2020-10-22",
+        "releaseDate_us": "2020-10-22"
+      }
+    ],
+    "home": {
+      "send": true,
+      "receive": true
+    }
   },
   {
     "id": "brilliant_diamond",
@@ -508,8 +728,14 @@
     "releaseDate_us": "2021-11-19",
     "platform": "Switch",
     "category": "remake",
-    "paired_with": ["shining_pearl"],
-    "region": "シンオウ"
+    "paired_with": [
+      "shining_pearl"
+    ],
+    "region": "シンオウ",
+    "home": {
+      "send": true,
+      "receive": true
+    }
   },
   {
     "id": "shining_pearl",
@@ -522,8 +748,14 @@
     "releaseDate_us": "2021-11-19",
     "platform": "Switch",
     "category": "remake",
-    "paired_with": ["brilliant_diamond"],
-    "region": "シンオウ"
+    "paired_with": [
+      "brilliant_diamond"
+    ],
+    "region": "シンオウ",
+    "home": {
+      "send": true,
+      "receive": true
+    }
   },
   {
     "id": "legends_arceus",
@@ -537,7 +769,11 @@
     "platform": "Switch",
     "category": "legends",
     "paired_with": [],
-    "region": "ヒスイ"
+    "region": "ヒスイ",
+    "home": {
+      "send": true,
+      "receive": false
+    }
   },
   {
     "id": "scarlet",
@@ -550,12 +786,30 @@
     "releaseDate_us": "2022-11-18",
     "platform": "Switch",
     "category": "mainline",
-    "paired_with": ["violet"],
+    "paired_with": [
+      "violet"
+    ],
     "region": "パルデア",
     "dlc": [
-      { "id": "kitakami",   "name": "碧の仮面",   "name_en": "The Teal Mask",      "releaseDate_jp": "2023-09-13", "releaseDate_us": "2023-09-13" },
-      { "id": "blueberry",  "name": "藍の円盤",   "name_en": "The Indigo Disk",    "releaseDate_jp": "2023-12-14", "releaseDate_us": "2023-12-14" }
-    ]
+      {
+        "id": "kitakami",
+        "name": "碧の仮面",
+        "name_en": "The Teal Mask",
+        "releaseDate_jp": "2023-09-13",
+        "releaseDate_us": "2023-09-13"
+      },
+      {
+        "id": "blueberry",
+        "name": "藍の円盤",
+        "name_en": "The Indigo Disk",
+        "releaseDate_jp": "2023-12-14",
+        "releaseDate_us": "2023-12-14"
+      }
+    ],
+    "home": {
+      "send": true,
+      "receive": true
+    }
   },
   {
     "id": "violet",
@@ -568,12 +822,30 @@
     "releaseDate_us": "2022-11-18",
     "platform": "Switch",
     "category": "mainline",
-    "paired_with": ["scarlet"],
+    "paired_with": [
+      "scarlet"
+    ],
     "region": "パルデア",
     "dlc": [
-      { "id": "kitakami",   "name": "碧の仮面",   "name_en": "The Teal Mask",      "releaseDate_jp": "2023-09-13", "releaseDate_us": "2023-09-13" },
-      { "id": "blueberry",  "name": "藍の円盤",   "name_en": "The Indigo Disk",    "releaseDate_jp": "2023-12-14", "releaseDate_us": "2023-12-14" }
-    ]
+      {
+        "id": "kitakami",
+        "name": "碧の仮面",
+        "name_en": "The Teal Mask",
+        "releaseDate_jp": "2023-09-13",
+        "releaseDate_us": "2023-09-13"
+      },
+      {
+        "id": "blueberry",
+        "name": "藍の円盤",
+        "name_en": "The Indigo Disk",
+        "releaseDate_jp": "2023-12-14",
+        "releaseDate_us": "2023-12-14"
+      }
+    ],
+    "home": {
+      "send": true,
+      "receive": true
+    }
   },
   {
     "id": "legends_za",
@@ -587,7 +859,11 @@
     "platform": "Switch 2",
     "category": "legends",
     "paired_with": [],
-    "region": "カロス"
+    "region": "カロス",
+    "home": {
+      "send": true,
+      "receive": true
+    }
   },
   {
     "id": "poko_a_pokemon",
@@ -601,6 +877,10 @@
     "platform": "Switch 2",
     "category": "spinoff",
     "paired_with": [],
-    "region": null
+    "region": null,
+    "home": {
+      "send": false,
+      "receive": false
+    }
   }
 ]

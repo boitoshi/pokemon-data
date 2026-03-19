@@ -53,7 +53,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       },
       {
@@ -126,7 +126,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       },
       {
@@ -147,7 +147,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       },
       {
@@ -218,7 +218,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       },
       {
@@ -343,7 +343,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -401,7 +401,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -573,7 +573,7 @@
         "ability": "",
         "required_item": "ライチュウナイトX",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       },
       {
@@ -587,7 +587,7 @@
         "ability": "",
         "required_item": "ライチュウナイトY",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -751,7 +751,7 @@
         "required_item": "ピクシナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -1266,7 +1266,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -1370,7 +1370,7 @@
         "required_item": "ウツボットナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -1613,7 +1613,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -1850,7 +1850,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       },
       {
@@ -2226,7 +2226,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -2311,7 +2311,7 @@
         "required_item": "スターミナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -2420,7 +2420,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -2523,7 +2523,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -2719,7 +2719,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -2886,7 +2886,7 @@
         "required_item": "カイリュナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -2920,7 +2920,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       },
       {
@@ -2940,7 +2940,7 @@
           "USUM",
           "LPLE",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -3003,7 +3003,7 @@
         "required_item": "メガニウムナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -3104,7 +3104,7 @@
         "required_item": "オーダイルナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -3369,7 +3369,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -3735,7 +3735,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -3820,7 +3820,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -3866,7 +3866,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -4068,7 +4068,7 @@
         "required_item": "エアームドナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -4114,7 +4114,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -4350,7 +4350,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -4440,7 +4440,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -4497,7 +4497,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -4553,7 +4553,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -4863,7 +4863,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5112,7 +5112,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5146,7 +5146,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5203,7 +5203,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5249,7 +5249,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5292,7 +5292,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5415,7 +5415,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5482,7 +5482,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5629,7 +5629,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5881,7 +5881,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5943,7 +5943,7 @@
         "ability": "",
         "required_item": "チリーンナイト",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -5975,7 +5975,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       },
       {
@@ -5989,7 +5989,7 @@
         "ability": "",
         "required_item": "アブソルナイトZ",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -6042,7 +6042,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -6189,7 +6189,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -6246,7 +6246,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -6313,7 +6313,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -6347,7 +6347,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -6377,7 +6377,7 @@
           "ORAS",
           "SM",
           "USUM",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -6408,7 +6408,7 @@
           "ORAS",
           "SM",
           "USUM",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -6441,7 +6441,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -6620,7 +6620,7 @@
         "ability": "",
         "required_item": "M次元",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -6984,7 +6984,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -7204,7 +7204,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -7260,7 +7260,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       },
       {
@@ -7275,7 +7275,7 @@
         "ability": "",
         "required_item": "ルカリオナイトZ",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -7436,7 +7436,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -7630,7 +7630,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -7683,7 +7683,7 @@
         "required_item": "ユキメノコナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -7781,7 +7781,7 @@
         "ability": "",
         "required_item": "ヒードラナイト",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -7968,7 +7968,7 @@
         "required_item": "エンブオナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -8339,7 +8339,7 @@
         "required_item": "ドリュウズナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -8370,7 +8370,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -8758,7 +8758,7 @@
         "required_item": "ズルズキナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -9346,7 +9346,7 @@
         "required_item": "シビルドナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -9422,7 +9422,7 @@
         "required_item": "シャンデラナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -9613,7 +9613,7 @@
         "ability": "",
         "required_item": "ゴルーグナイト",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -9991,7 +9991,7 @@
         "required_item": "ブリガロナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -10043,7 +10043,7 @@
         "required_item": "マフォクシナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -10095,7 +10095,7 @@
         "required_item": "ゲッコウガナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -10230,7 +10230,7 @@
         "required_item": "カエンジシナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -10371,7 +10371,7 @@
         "ability": "",
         "required_item": "ニャオニクスナイト",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -10493,7 +10493,7 @@
         "required_item": "カラマネロナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -10535,7 +10535,7 @@
         "required_item": "ガメノデスナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -10577,7 +10577,7 @@
         "required_item": "ドラミドナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -10712,7 +10712,7 @@
         "required_item": "ルチャブルナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -10979,7 +10979,7 @@
         "required_item": "ジガルデナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -11012,7 +11012,7 @@
           "SM",
           "USUM",
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -11276,7 +11276,7 @@
         "ability": "",
         "required_item": "ケケンカニナイト",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -11618,7 +11618,7 @@
         "ability": "",
         "required_item": "グソクムシャナイト",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -11777,7 +11777,7 @@
         "required_item": "ジジーロナイト",
         "available_in": [
           "ZA",
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -12049,7 +12049,7 @@
         "ability": "",
         "required_item": "マギアナイト",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -12136,7 +12136,7 @@
         "ability": "",
         "required_item": "ゼラオラナイト",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -14179,7 +14179,7 @@
         "ability": "",
         "required_item": "スコヴィランナイト",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]
@@ -14734,7 +14734,7 @@
         "ability": "",
         "required_item": "セグレイブナイト",
         "available_in": [
-          "M-dimension"
+          "ZA"
         ]
       }
     ]

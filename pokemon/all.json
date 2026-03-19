@@ -33,6 +33,43 @@
     "types": [
       "くさ",
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガフシギバナ",
+        "types": [
+          "くさ",
+          "どく"
+        ],
+        "category": "mega",
+        "ability": "あついしぼう",
+        "required_item": "フシギバナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      },
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスフシギバナ",
+        "types": [
+          "くさ",
+          "どく"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイベンタツ"
+      }
     ]
   },
   "4": {
@@ -67,6 +104,63 @@
     "types": [
       "ほのお",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega-x",
+        "form_name_ja": "メガリザードンX",
+        "types": [
+          "ほのお",
+          "ドラゴン"
+        ],
+        "category": "mega",
+        "ability": "かたいツメ",
+        "required_item": "リザードナイトX",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      },
+      {
+        "form_id": "mega-y",
+        "form_name_ja": "メガリザードンY",
+        "types": [
+          "ほのお",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "ひでり",
+        "required_item": "リザードナイトY",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      },
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスリザードン",
+        "types": [
+          "ほのお",
+          "ひこう"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイゴクエン"
+      }
     ]
   },
   "7": {
@@ -100,6 +194,41 @@
     "is_mythical": false,
     "types": [
       "みず"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガカメックス",
+        "types": [
+          "みず"
+        ],
+        "category": "mega",
+        "ability": "メガランチャー",
+        "required_item": "カメックスナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      },
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスカメックス",
+        "types": [
+          "みず"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイホウゲキ"
+      }
     ]
   },
   "10": {
@@ -134,6 +263,23 @@
     "types": [
       "むし",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスバタフリー",
+        "types": [
+          "むし",
+          "ひこう"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイコワク"
+      }
     ]
   },
   "13": {
@@ -170,6 +316,27 @@
     "types": [
       "むし",
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガスピアー",
+        "types": [
+          "むし",
+          "どく"
+        ],
+        "category": "mega",
+        "ability": "てきおうりょく",
+        "required_item": "スピアナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "16": {
@@ -206,6 +373,27 @@
     "types": [
       "ノーマル",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガピジョット",
+        "types": [
+          "ノーマル",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "ノーガード",
+        "required_item": "ピジョットナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "19": {
@@ -217,6 +405,22 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "コラッタ",
+        "types": [
+          "あく",
+          "ノーマル"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "20": {
@@ -228,6 +432,22 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ラッタ",
+        "types": [
+          "あく",
+          "ノーマル"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "21": {
@@ -285,6 +505,22 @@
     "is_mythical": false,
     "types": [
       "でんき"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスピカチュウ",
+        "types": [
+          "でんき"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイバンライ"
+      }
     ]
   },
   "26": {
@@ -296,6 +532,48 @@
     "is_mythical": false,
     "types": [
       "でんき"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ライチュウ",
+        "types": [
+          "でんき",
+          "エスパー"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      },
+      {
+        "form_id": "mega-x",
+        "form_name_ja": "メガライチュウX",
+        "types": [
+          "でんき"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ライチュウナイトX",
+        "available_in": [
+          "M-dimension"
+        ]
+      },
+      {
+        "form_id": "mega-y",
+        "form_name_ja": "メガライチュウY",
+        "types": [
+          "でんき"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ライチュウナイトY",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "27": {
@@ -307,6 +585,22 @@
     "is_mythical": false,
     "types": [
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "サンド",
+        "types": [
+          "こおり",
+          "はがね"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "28": {
@@ -318,6 +612,22 @@
     "is_mythical": false,
     "types": [
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "サンドパン",
+        "types": [
+          "こおり",
+          "はがね"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "29": {
@@ -408,6 +718,23 @@
     "is_mythical": false,
     "types": [
       "フェアリー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガピクシー",
+        "types": [
+          "フェアリー",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ピクシナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "37": {
@@ -419,6 +746,21 @@
     "is_mythical": false,
     "types": [
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ロコン",
+        "types": [
+          "こおり"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "38": {
@@ -430,6 +772,22 @@
     "is_mythical": false,
     "types": [
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "キュウコン",
+        "types": [
+          "こおり",
+          "フェアリー"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "39": {
@@ -573,6 +931,22 @@
     "is_mythical": false,
     "types": [
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ディグダ",
+        "types": [
+          "じめん",
+          "はがね"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "51": {
@@ -584,6 +958,22 @@
     "is_mythical": false,
     "types": [
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ダグトリオ",
+        "types": [
+          "じめん",
+          "はがね"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "52": {
@@ -595,6 +985,48 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ニャース",
+        "types": [
+          "あく"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      },
+      {
+        "form_id": "galar",
+        "form_name_ja": "ニャース",
+        "types": [
+          "はがね"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      },
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスニャース",
+        "types": [
+          "はがね"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイコバン"
+      }
     ]
   },
   "53": {
@@ -606,6 +1038,21 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ペルシアン",
+        "types": [
+          "あく"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "54": {
@@ -661,6 +1108,22 @@
     "is_mythical": false,
     "types": [
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ガーディ",
+        "types": [
+          "ほのお",
+          "いわ"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "59": {
@@ -672,6 +1135,22 @@
     "is_mythical": false,
     "types": [
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ウインディ",
+        "types": [
+          "ほのお",
+          "いわ"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "60": {
@@ -739,6 +1218,27 @@
     "is_mythical": false,
     "types": [
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガフーディン",
+        "types": [
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "トレース",
+        "required_item": "フーディナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "66": {
@@ -772,6 +1272,22 @@
     "is_mythical": false,
     "types": [
       "かくとう"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスカイリキー",
+        "types": [
+          "かくとう"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイシンゲキ"
+      }
     ]
   },
   "69": {
@@ -808,6 +1324,23 @@
     "types": [
       "くさ",
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガウツボット",
+        "types": [
+          "くさ",
+          "どく"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ウツボットナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "72": {
@@ -844,6 +1377,22 @@
     "types": [
       "いわ",
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "イシツブテ",
+        "types": [
+          "いわ",
+          "でんき"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "75": {
@@ -856,6 +1405,22 @@
     "types": [
       "いわ",
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ゴローン",
+        "types": [
+          "いわ",
+          "でんき"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "76": {
@@ -868,6 +1433,22 @@
     "types": [
       "いわ",
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ゴローニャ",
+        "types": [
+          "いわ",
+          "でんき"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "77": {
@@ -879,6 +1460,21 @@
     "is_mythical": false,
     "types": [
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "ポニータ",
+        "types": [
+          "エスパー"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "78": {
@@ -890,6 +1486,22 @@
     "is_mythical": false,
     "types": [
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "ギャロップ",
+        "types": [
+          "エスパー",
+          "フェアリー"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "79": {
@@ -902,6 +1514,21 @@
     "types": [
       "みず",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "ヤドン",
+        "types": [
+          "エスパー"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "80": {
@@ -914,6 +1541,41 @@
     "types": [
       "みず",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "ヤドラン",
+        "types": [
+          "どく",
+          "エスパー"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      },
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガヤドラン",
+        "types": [
+          "みず",
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "シェルアーマー",
+        "required_item": "ヤドランナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "81": {
@@ -950,6 +1612,21 @@
     "types": [
       "ノーマル",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "カモネギ",
+        "types": [
+          "かくとう"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "84": {
@@ -1008,6 +1685,22 @@
     "is_mythical": false,
     "types": [
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ベトベター",
+        "types": [
+          "どく",
+          "あく"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "89": {
@@ -1019,6 +1712,22 @@
     "is_mythical": false,
     "types": [
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ベトベトン",
+        "types": [
+          "どく",
+          "あく"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "90": {
@@ -1078,6 +1787,43 @@
     "types": [
       "ゴースト",
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガゲンガー",
+        "types": [
+          "ゴースト",
+          "どく"
+        ],
+        "category": "mega",
+        "ability": "かげふみ",
+        "required_item": "ゲンガナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      },
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスゲンガー",
+        "types": [
+          "ゴースト",
+          "どく"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイゲンエイ"
+      }
     ]
   },
   "95": {
@@ -1134,6 +1880,22 @@
     "is_mythical": false,
     "types": [
       "みず"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスキングラー",
+        "types": [
+          "みず"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイホウマツ"
+      }
     ]
   },
   "100": {
@@ -1145,6 +1907,22 @@
     "is_mythical": false,
     "types": [
       "でんき"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ビリリダマ",
+        "types": [
+          "でんき",
+          "くさ"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "101": {
@@ -1156,6 +1934,22 @@
     "is_mythical": false,
     "types": [
       "でんき"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "マルマイン",
+        "types": [
+          "でんき",
+          "くさ"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "102": {
@@ -1180,6 +1974,22 @@
     "types": [
       "くさ",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ナッシー",
+        "types": [
+          "くさ",
+          "ドラゴン"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "104": {
@@ -1202,6 +2012,22 @@
     "is_mythical": false,
     "types": [
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "alola",
+        "form_name_ja": "ガラガラ",
+        "types": [
+          "ほのお",
+          "ゴースト"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM"
+        ]
+      }
     ]
   },
   "106": {
@@ -1257,6 +2083,22 @@
     "is_mythical": false,
     "types": [
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "マタドガス",
+        "types": [
+          "どく",
+          "フェアリー"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "111": {
@@ -1314,6 +2156,27 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガガルーラ",
+        "types": [
+          "ノーマル"
+        ],
+        "category": "mega",
+        "ability": "おやこあい",
+        "required_item": "ガルーラナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "116": {
@@ -1381,6 +2244,23 @@
     "types": [
       "みず",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガスターミー",
+        "types": [
+          "みず",
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "スターミナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "122": {
@@ -1393,6 +2273,22 @@
     "types": [
       "エスパー",
       "フェアリー"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "バリヤード",
+        "types": [
+          "こおり",
+          "エスパー"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "123": {
@@ -1450,6 +2346,28 @@
     "is_mythical": false,
     "types": [
       "むし"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガカイロス",
+        "types": [
+          "むし",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "スカイスキン",
+        "required_item": "カイロスナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "128": {
@@ -1461,6 +2379,49 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "paldea",
+        "form_name_ja": "ケンタロス コンバット種",
+        "types": [
+          "かくとう"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SV"
+        ]
+      },
+      {
+        "form_id": "paldea",
+        "form_name_ja": "ケンタロス ブレイズ種",
+        "types": [
+          "かくとう",
+          "ほのお"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SV"
+        ]
+      },
+      {
+        "form_id": "paldea",
+        "form_name_ja": "ケンタロス ウォーター種",
+        "types": [
+          "かくとう",
+          "みず"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SV"
+        ]
+      }
     ]
   },
   "129": {
@@ -1484,6 +2445,28 @@
     "types": [
       "みず",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガギャラドス",
+        "types": [
+          "みず",
+          "あく"
+        ],
+        "category": "mega",
+        "ability": "かたやぶり",
+        "required_item": "ギャラドスナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "131": {
@@ -1496,6 +2479,23 @@
     "types": [
       "みず",
       "こおり"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスラプラス",
+        "types": [
+          "みず",
+          "こおり"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイセンリツ"
+      }
     ]
   },
   "132": {
@@ -1518,6 +2518,22 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスイーブイ",
+        "types": [
+          "ノーマル"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイホーヨー"
+      }
     ]
   },
   "134": {
@@ -1622,6 +2638,28 @@
     "types": [
       "いわ",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガプテラ",
+        "types": [
+          "いわ",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "かたいツメ",
+        "required_item": "プテラナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "143": {
@@ -1633,6 +2671,22 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスカビゴン",
+        "types": [
+          "ノーマル"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイサイセイ"
+      }
     ]
   },
   "144": {
@@ -1645,6 +2699,22 @@
     "types": [
       "こおり",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "フリーザー",
+        "types": [
+          "エスパー",
+          "ひこう"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "145": {
@@ -1657,6 +2727,22 @@
     "types": [
       "でんき",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "サンダー",
+        "types": [
+          "かくとう",
+          "ひこう"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "146": {
@@ -1669,6 +2755,22 @@
     "types": [
       "ほのお",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "ファイヤー",
+        "types": [
+          "あく",
+          "ひこう"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "147": {
@@ -1703,6 +2805,23 @@
     "types": [
       "ドラゴン",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガカイリュー",
+        "types": [
+          "ノーマル",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "カイリュナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "150": {
@@ -1714,6 +2833,47 @@
     "is_mythical": false,
     "types": [
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega-x",
+        "form_name_ja": "メガミュウツーX",
+        "types": [
+          "エスパー",
+          "かくとう"
+        ],
+        "category": "mega",
+        "ability": "ふくつのこころ",
+        "required_item": "ミュウツナイトX",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      },
+      {
+        "form_id": "mega-y",
+        "form_name_ja": "メガミュウツーY",
+        "types": [
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "ふみん",
+        "required_item": "ミュウツナイトY",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "LPLE",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "151": {
@@ -1725,7 +2885,8 @@
     "is_mythical": true,
     "types": [
       "エスパー"
-    ]
+    ],
+    "forms": []
   },
   "152": {
     "no": 152,
@@ -1758,6 +2919,23 @@
     "is_mythical": false,
     "types": [
       "くさ"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガメガニウム",
+        "types": [
+          "くさ",
+          "フェアリー"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "メガニウムナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "155": {
@@ -1791,6 +2969,22 @@
     "is_mythical": false,
     "types": [
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "バクフーン",
+        "types": [
+          "ほのお",
+          "ゴースト"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "158": {
@@ -1824,6 +3018,23 @@
     "is_mythical": false,
     "types": [
       "みず"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガオーダイル",
+        "types": [
+          "みず",
+          "ドラゴン"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "オーダイルナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "161": {
@@ -2068,6 +3279,26 @@
     "is_mythical": false,
     "types": [
       "でんき"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガデンリュウ",
+        "types": [
+          "でんき"
+        ],
+        "category": "mega",
+        "ability": "かたやぶり",
+        "required_item": "デンリュウナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "182": {
@@ -2218,6 +3449,22 @@
     "types": [
       "みず",
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "paldea",
+        "form_name_ja": "ウパー",
+        "types": [
+          "どく",
+          "じめん"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SV"
+        ]
+      }
     ]
   },
   "195": {
@@ -2276,6 +3523,22 @@
     "types": [
       "みず",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "ヤドキング",
+        "types": [
+          "どく",
+          "エスパー"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "200": {
@@ -2379,6 +3642,26 @@
     "types": [
       "はがね",
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガハガネール",
+        "types": [
+          "はがね",
+          "じめん"
+        ],
+        "category": "mega",
+        "ability": "すなのちから",
+        "required_item": "ハガネールナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "209": {
@@ -2413,6 +3696,22 @@
     "types": [
       "みず",
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ハリーセン",
+        "types": [
+          "あく",
+          "どく"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "212": {
@@ -2425,6 +3724,27 @@
     "types": [
       "むし",
       "はがね"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガハッサム",
+        "types": [
+          "むし",
+          "はがね"
+        ],
+        "category": "mega",
+        "ability": "テクニシャン",
+        "required_item": "ハッサムナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "213": {
@@ -2449,6 +3769,27 @@
     "types": [
       "むし",
       "かくとう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガヘラクロス",
+        "types": [
+          "むし",
+          "かくとう"
+        ],
+        "category": "mega",
+        "ability": "スキルリンク",
+        "required_item": "ヘラクロスナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "215": {
@@ -2461,6 +3802,22 @@
     "types": [
       "あく",
       "こおり"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ニューラ",
+        "types": [
+          "かくとう",
+          "どく"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "216": {
@@ -2542,6 +3899,21 @@
     "types": [
       "みず",
       "いわ"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "サニーゴ",
+        "types": [
+          "ゴースト"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "223": {
@@ -2600,6 +3972,23 @@
     "types": [
       "はがね",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガエアームド",
+        "types": [
+          "はがね",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "エアームドナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "228": {
@@ -2624,6 +4013,27 @@
     "types": [
       "あく",
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガヘルガー",
+        "types": [
+          "あく",
+          "ほのお"
+        ],
+        "category": "mega",
+        "ability": "サンパワー",
+        "required_item": "ヘルガナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "230": {
@@ -2838,6 +4248,27 @@
     "types": [
       "いわ",
       "あく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガバンギラス",
+        "types": [
+          "いわ",
+          "あく"
+        ],
+        "category": "mega",
+        "ability": "すなあらし",
+        "required_item": "バンギラスナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "249": {
@@ -2907,6 +4338,26 @@
     "is_mythical": false,
     "types": [
       "くさ"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガジュカイン",
+        "types": [
+          "くさ",
+          "ドラゴン"
+        ],
+        "category": "mega",
+        "ability": "ひらいしん",
+        "required_item": "ジュカインナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "255": {
@@ -2942,6 +4393,27 @@
     "types": [
       "ほのお",
       "かくとう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガバシャーモ",
+        "types": [
+          "ほのお",
+          "かくとう"
+        ],
+        "category": "mega",
+        "ability": "かそく",
+        "required_item": "バシャーモナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "258": {
@@ -2977,6 +4449,26 @@
     "types": [
       "みず",
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガラグラージ",
+        "types": [
+          "みず",
+          "じめん"
+        ],
+        "category": "mega",
+        "ability": "すいすい",
+        "required_item": "ラグラージナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "261": {
@@ -3010,6 +4502,21 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "ジグザグマ",
+        "types": [
+          "あく"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "264": {
@@ -3021,6 +4528,21 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "マッスグマ",
+        "types": [
+          "あく"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "265": {
@@ -3233,6 +4755,27 @@
     "types": [
       "エスパー",
       "フェアリー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガサーナイト",
+        "types": [
+          "エスパー",
+          "フェアリー"
+        ],
+        "category": "mega",
+        "ability": "フェアリースキン",
+        "required_item": "サーナイトナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "283": {
@@ -3461,6 +5004,26 @@
     "types": [
       "あく",
       "ゴースト"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガヤミラミ",
+        "types": [
+          "あく",
+          "ゴースト"
+        ],
+        "category": "mega",
+        "ability": "マジックミラー",
+        "required_item": "ヤミラミナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "303": {
@@ -3473,6 +5036,27 @@
     "types": [
       "はがね",
       "フェアリー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガクチート",
+        "types": [
+          "はがね",
+          "フェアリー"
+        ],
+        "category": "mega",
+        "ability": "ちからずく",
+        "required_item": "クチートナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "304": {
@@ -3509,6 +5093,26 @@
     "types": [
       "はがね",
       "いわ"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガボスゴドラ",
+        "types": [
+          "はがね"
+        ],
+        "category": "mega",
+        "ability": "フィルター",
+        "required_item": "ボスゴドラナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "307": {
@@ -3533,6 +5137,27 @@
     "types": [
       "かくとう",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガチャーレム",
+        "types": [
+          "かくとう",
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "ヨガパワー",
+        "required_item": "チャーレムナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "309": {
@@ -3555,6 +5180,26 @@
     "is_mythical": false,
     "types": [
       "でんき"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガライボルト",
+        "types": [
+          "でんき"
+        ],
+        "category": "mega",
+        "ability": "いかく",
+        "required_item": "ライボルトナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "311": {
@@ -3657,6 +5302,26 @@
     "types": [
       "みず",
       "あく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガサメハダー",
+        "types": [
+          "みず",
+          "あく"
+        ],
+        "category": "mega",
+        "ability": "がんじょあご",
+        "required_item": "サメハダナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "320": {
@@ -3703,6 +5368,26 @@
     "types": [
       "ほのお",
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガバクーダ",
+        "types": [
+          "ほのお",
+          "じめん"
+        ],
+        "category": "mega",
+        "ability": "ちからずく",
+        "required_item": "バクーダナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "324": {
@@ -3829,6 +5514,26 @@
     "types": [
       "ドラゴン",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガチルタリス",
+        "types": [
+          "ドラゴン",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "フェアリースキン",
+        "required_item": "チルタリスナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "335": {
@@ -4060,6 +5765,26 @@
     "is_mythical": false,
     "types": [
       "ゴースト"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガジュペッタ",
+        "types": [
+          "ゴースト"
+        ],
+        "category": "mega",
+        "ability": "いたずらごころ",
+        "required_item": "ジュペッタナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "355": {
@@ -4105,6 +5830,22 @@
     "is_mythical": false,
     "types": [
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガチリーン",
+        "types": [
+          "エスパー",
+          "はがね"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "チリーンナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "359": {
@@ -4116,6 +5857,39 @@
     "is_mythical": false,
     "types": [
       "あく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガアブソル",
+        "types": [
+          "あく"
+        ],
+        "category": "mega",
+        "ability": "マジックミラー",
+        "required_item": "アブソルナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      },
+      {
+        "form_id": "mega-z",
+        "form_name_ja": "メガアブソルZ",
+        "types": [
+          "あく"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "アブソルナイトZ",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "360": {
@@ -4149,6 +5923,25 @@
     "is_mythical": false,
     "types": [
       "こおり"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガオニゴーリ",
+        "types": [
+          "こおり"
+        ],
+        "category": "mega",
+        "ability": "フリーズスキン",
+        "required_item": "オニゴーリナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "363": {
@@ -4275,6 +6068,26 @@
     "types": [
       "ドラゴン",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガボーマンダ",
+        "types": [
+          "ドラゴン",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "スカイスキン",
+        "required_item": "ボーマンダナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "374": {
@@ -4311,6 +6124,26 @@
     "types": [
       "はがね",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガメタグロス",
+        "types": [
+          "はがね",
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "かたいツメ",
+        "required_item": "メタグロスナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "377": {
@@ -4356,6 +6189,27 @@
     "types": [
       "ドラゴン",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガラティアス",
+        "types": [
+          "ドラゴン",
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "ふゆう",
+        "required_item": "ラティアスナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "381": {
@@ -4368,6 +6222,27 @@
     "types": [
       "ドラゴン",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガラティオス",
+        "types": [
+          "ドラゴン",
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "ふゆう",
+        "required_item": "ラティオスナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "382": {
@@ -4379,6 +6254,24 @@
     "is_mythical": false,
     "types": [
       "みず"
+    ],
+    "forms": [
+      {
+        "form_id": "primal",
+        "form_name_ja": "ゲンシカイオーガ",
+        "types": [
+          "みず"
+        ],
+        "category": "primal",
+        "ability": "はじまりのうみ",
+        "required_item": "あいいろのたま",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "383": {
@@ -4390,6 +6283,25 @@
     "is_mythical": false,
     "types": [
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "primal",
+        "form_name_ja": "ゲンシグラードン",
+        "types": [
+          "じめん",
+          "ほのお"
+        ],
+        "category": "primal",
+        "ability": "おわりのだいち",
+        "required_item": "べにいろのたま",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "384": {
@@ -4402,6 +6314,26 @@
     "types": [
       "ドラゴン",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガレックウザ",
+        "types": [
+          "ドラゴン",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "デルタストリーム",
+        "required_item": "(わざ)ガリョウテンセイ",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "385": {
@@ -4564,6 +6496,22 @@
     "types": [
       "ノーマル",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガムクホーク",
+        "types": [
+          "かくとう",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "M次元",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "399": {
@@ -4906,6 +6854,27 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガミミロップ",
+        "types": [
+          "ノーマル",
+          "かくとう"
+        ],
+        "category": "mega",
+        "ability": "きもったま",
+        "required_item": "ミミロップナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "429": {
@@ -5104,6 +7073,27 @@
     "types": [
       "ドラゴン",
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガガブリアス",
+        "types": [
+          "ドラゴン",
+          "じめん"
+        ],
+        "category": "mega",
+        "ability": "すなのちから",
+        "required_item": "ガブリアスナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "446": {
@@ -5138,6 +7128,41 @@
     "types": [
       "かくとう",
       "はがね"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガルカリオ",
+        "types": [
+          "かくとう",
+          "はがね"
+        ],
+        "category": "mega",
+        "ability": "てきおうりょく",
+        "required_item": "ルカリオナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      },
+      {
+        "form_id": "mega-z",
+        "form_name_ja": "メガルカリオZ",
+        "types": [
+          "かくとう",
+          "はがね"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ルカリオナイトZ",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "449": {
@@ -5277,6 +7302,27 @@
     "types": [
       "くさ",
       "こおり"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガユキノオー",
+        "types": [
+          "くさ",
+          "こおり"
+        ],
+        "category": "mega",
+        "ability": "ゆきふらし",
+        "required_item": "ユキノオナイト",
+        "available_in": [
+          "XY",
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "461": {
@@ -5450,6 +7496,26 @@
     "types": [
       "エスパー",
       "かくとう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガエルレイド",
+        "types": [
+          "エスパー",
+          "かくとう"
+        ],
+        "category": "mega",
+        "ability": "せいしんりょく",
+        "required_item": "エルレイドナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "476": {
@@ -5485,6 +7551,23 @@
     "types": [
       "こおり",
       "ゴースト"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガユキメノコ",
+        "types": [
+          "こおり",
+          "ゴースト"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ユキメノコナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "479": {
@@ -5566,6 +7649,22 @@
     "types": [
       "ほのお",
       "はがね"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガヒードラン",
+        "types": [
+          "ほのお",
+          "はがね"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ヒードラナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "486": {
@@ -5735,6 +7834,23 @@
     "types": [
       "ほのお",
       "かくとう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガエンブオー",
+        "types": [
+          "ほのお",
+          "かくとう"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "エンブオナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "501": {
@@ -5768,6 +7884,22 @@
     "is_mythical": false,
     "types": [
       "みず"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ダイケンキ",
+        "types": [
+          "みず",
+          "あく"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "504": {
@@ -6071,6 +8203,23 @@
     "types": [
       "じめん",
       "はがね"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガドリュウズ",
+        "types": [
+          "じめん",
+          "はがね"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ドリュウズナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "531": {
@@ -6082,6 +8231,25 @@
     "is_mythical": false,
     "types": [
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガタブンネ",
+        "types": [
+          "ノーマル"
+        ],
+        "category": "mega",
+        "ability": "いやしのこころ",
+        "required_item": "タブンネナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "532": {
@@ -6290,6 +8458,22 @@
     "is_mythical": false,
     "types": [
       "くさ"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ドレディア",
+        "types": [
+          "くさ",
+          "かくとう"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "550": {
@@ -6348,6 +8532,22 @@
     "is_mythical": false,
     "types": [
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "ヒヒダルマ ダルマモード",
+        "types": [
+          "こおり",
+          "ほのお"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "555": {
@@ -6418,6 +8618,23 @@
     "types": [
       "あく",
       "かくとう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガズルズキン",
+        "types": [
+          "あく",
+          "かくとう"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ズルズキナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "561": {
@@ -6441,6 +8658,22 @@
     "is_mythical": false,
     "types": [
       "ゴースト"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "デスカーン",
+        "types": [
+          "じめん",
+          "ゴースト"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "563": {
@@ -6522,6 +8755,22 @@
     "is_mythical": false,
     "types": [
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスダストダス",
+        "types": [
+          "どく"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイシュウキ"
+      }
     ]
   },
   "570": {
@@ -6533,6 +8782,22 @@
     "is_mythical": false,
     "types": [
       "あく"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ゾロアーク",
+        "types": [
+          "ノーマル",
+          "ゴースト"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "571": {
@@ -6544,6 +8809,22 @@
     "is_mythical": false,
     "types": [
       "あく"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ゾロアーク",
+        "types": [
+          "ノーマル",
+          "ゴースト"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "572": {
@@ -6921,6 +9202,22 @@
     "is_mythical": false,
     "types": [
       "でんき"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガシビルドン",
+        "types": [
+          "でんき"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "シビルドナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "605": {
@@ -6979,6 +9276,23 @@
     "types": [
       "ゴースト",
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガシャンデラ",
+        "types": [
+          "ゴースト",
+          "ほのお"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "シャンデラナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "610": {
@@ -7079,6 +9393,22 @@
     "types": [
       "じめん",
       "でんき"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "マッギョ",
+        "types": [
+          "じめん",
+          "はがね"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "619": {
@@ -7136,6 +9466,22 @@
     "types": [
       "じめん",
       "ゴースト"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガゴルーグ",
+        "types": [
+          "じめん",
+          "ゴースト"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ゴルーグナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "624": {
@@ -7195,6 +9541,22 @@
     "types": [
       "ノーマル",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ウォーグル",
+        "types": [
+          "エスパー",
+          "ひこう"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "629": {
@@ -7479,6 +9841,23 @@
     "types": [
       "くさ",
       "かくとう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガブリガロン",
+        "types": [
+          "くさ",
+          "かくとう"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ブリガロナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "653": {
@@ -7513,6 +9892,23 @@
     "types": [
       "ほのお",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガマフォクシー",
+        "types": [
+          "ほのお",
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "マフォクシナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "656": {
@@ -7547,6 +9943,23 @@
     "types": [
       "みず",
       "あく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガゲッコウガ",
+        "types": [
+          "みず",
+          "あく"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ゲッコウガナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "659": {
@@ -7664,6 +10077,23 @@
     "types": [
       "ほのお",
       "ノーマル"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガカエンジシ",
+        "types": [
+          "ほのお",
+          "ノーマル"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "カエンジシナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "669": {
@@ -7686,6 +10116,19 @@
     "is_mythical": false,
     "types": [
       "フェアリー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "フェアリー",
+        "types": [],
+        "category": "mega",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "ZA"
+        ]
+      }
     ]
   },
   "671": {
@@ -7775,6 +10218,21 @@
     "is_mythical": false,
     "types": [
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガニャオニクス",
+        "types": [
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ニャオニクスナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "679": {
@@ -7879,6 +10337,23 @@
     "types": [
       "あく",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガカラマネロ",
+        "types": [
+          "あく",
+          "エスパー"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "カラマネロナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "688": {
@@ -7903,6 +10378,23 @@
     "types": [
       "いわ",
       "みず"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガガメノデス",
+        "types": [
+          "いわ",
+          "かくとう"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ガメノデスナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "690": {
@@ -7927,6 +10419,23 @@
     "types": [
       "どく",
       "ドラゴン"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガドラミドロ",
+        "types": [
+          "どく",
+          "ドラゴン"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ドラミドナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "692": {
@@ -8044,6 +10553,23 @@
     "types": [
       "かくとう",
       "ひこう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガルチャブル",
+        "types": [
+          "かくとう",
+          "ひこう"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ルチャブルナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "702": {
@@ -8090,6 +10616,22 @@
     "is_mythical": false,
     "types": [
       "ドラゴン"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ヌメイル",
+        "types": [
+          "はがね",
+          "ドラゴン"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "706": {
@@ -8101,6 +10643,22 @@
     "is_mythical": false,
     "types": [
       "ドラゴン"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ヌメルゴン",
+        "types": [
+          "はがね",
+          "ドラゴン"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "707": {
@@ -8183,6 +10741,22 @@
     "is_mythical": false,
     "types": [
       "こおり"
+    ],
+    "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ジュナイパー",
+        "types": [
+          "くさ",
+          "かくとう"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      }
     ]
   },
   "714": {
@@ -8242,6 +10816,23 @@
     "types": [
       "ドラゴン",
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガジガルデ",
+        "types": [
+          "ドラゴン",
+          "じめん"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ジガルデナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "719": {
@@ -8254,6 +10845,26 @@
     "types": [
       "いわ",
       "フェアリー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガディアンシー",
+        "types": [
+          "いわ",
+          "フェアリー"
+        ],
+        "category": "mega",
+        "ability": "マジックミラー",
+        "required_item": "ディアンシナイト",
+        "available_in": [
+          "ORAS",
+          "SM",
+          "USUM",
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "720": {
@@ -8314,7 +10925,8 @@
     "types": [
       "くさ",
       "ゴースト"
-    ]
+    ],
+    "forms": []
   },
   "725": {
     "no": 725,
@@ -8348,7 +10960,8 @@
     "types": [
       "ほのお",
       "あく"
-    ]
+    ],
+    "forms": []
   },
   "728": {
     "no": 728,
@@ -8382,7 +10995,8 @@
     "types": [
       "みず",
       "フェアリー"
-    ]
+    ],
+    "forms": []
   },
   "731": {
     "no": 731,
@@ -8498,6 +11112,22 @@
     "types": [
       "かくとう",
       "こおり"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガケケンカニ",
+        "types": [
+          "かくとう",
+          "こおり"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ケケンカニナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "741": {
@@ -8556,7 +11186,8 @@
     "is_mythical": false,
     "types": [
       "いわ"
-    ]
+    ],
+    "forms": []
   },
   "746": {
     "no": 746,
@@ -8822,6 +11453,22 @@
     "types": [
       "むし",
       "みず"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガグソクムシャ",
+        "types": [
+          "むし",
+          "みず"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "グソクムシャナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "769": {
@@ -8938,7 +11585,8 @@
     "types": [
       "ゴースト",
       "フェアリー"
-    ]
+    ],
+    "forms": []
   },
   "779": {
     "no": 779,
@@ -8962,6 +11610,23 @@
     "types": [
       "ノーマル",
       "ドラゴン"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガジジーロン",
+        "types": [
+          "ノーマル",
+          "ドラゴン"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ジジーロナイト",
+        "available_in": [
+          "ZA",
+          "M-dimension"
+        ]
+      }
     ]
   },
   "781": {
@@ -9009,7 +11674,8 @@
     "types": [
       "ドラゴン",
       "かくとう"
-    ]
+    ],
+    "forms": []
   },
   "785": {
     "no": 785,
@@ -9021,7 +11687,8 @@
     "types": [
       "でんき",
       "フェアリー"
-    ]
+    ],
+    "forms": []
   },
   "786": {
     "no": 786,
@@ -9033,7 +11700,8 @@
     "types": [
       "エスパー",
       "フェアリー"
-    ]
+    ],
+    "forms": []
   },
   "787": {
     "no": 787,
@@ -9045,7 +11713,8 @@
     "types": [
       "くさ",
       "フェアリー"
-    ]
+    ],
+    "forms": []
   },
   "788": {
     "no": 788,
@@ -9057,7 +11726,8 @@
     "types": [
       "みず",
       "フェアリー"
-    ]
+    ],
+    "forms": []
   },
   "789": {
     "no": 789,
@@ -9091,7 +11761,8 @@
     "types": [
       "エスパー",
       "はがね"
-    ]
+    ],
+    "forms": []
   },
   "792": {
     "no": 792,
@@ -9103,7 +11774,8 @@
     "types": [
       "エスパー",
       "ゴースト"
-    ]
+    ],
+    "forms": []
   },
   "793": {
     "no": 793,
@@ -9197,7 +11869,8 @@
     "is_mythical": false,
     "types": [
       "エスパー"
-    ]
+    ],
+    "forms": []
   },
   "801": {
     "no": 801,
@@ -9209,6 +11882,22 @@
     "types": [
       "はがね",
       "フェアリー"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガマギアナ",
+        "types": [
+          "はがね",
+          "フェアリー"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "マギアナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "802": {
@@ -9221,7 +11910,8 @@
     "types": [
       "かくとう",
       "ゴースト"
-    ]
+    ],
+    "forms": []
   },
   "803": {
     "no": 803,
@@ -9279,6 +11969,21 @@
     "is_mythical": true,
     "types": [
       "でんき"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガゼラオラ",
+        "types": [
+          "でんき"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "ゼラオラナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "808": {
@@ -9301,6 +12006,22 @@
     "is_mythical": true,
     "types": [
       "はがね"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスメルメタル",
+        "types": [
+          "はがね"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイユウゲキ"
+      }
     ]
   },
   "810": {
@@ -9334,6 +12055,22 @@
     "is_mythical": false,
     "types": [
       "くさ"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスゴリランダー",
+        "types": [
+          "くさ"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイコランダ"
+      }
     ]
   },
   "813": {
@@ -9367,6 +12104,22 @@
     "is_mythical": false,
     "types": [
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスエースバーン",
+        "types": [
+          "ほのお"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイカキュウ"
+      }
     ]
   },
   "816": {
@@ -9400,6 +12153,22 @@
     "is_mythical": false,
     "types": [
       "みず"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスインテレオン",
+        "types": [
+          "みず"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイソゲキ"
+      }
     ]
   },
   "819": {
@@ -9456,6 +12225,23 @@
     "types": [
       "ひこう",
       "はがね"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスアーマーガア",
+        "types": [
+          "ひこう",
+          "はがね"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイフウゲキ"
+      }
     ]
   },
   "824": {
@@ -9491,6 +12277,23 @@
     "types": [
       "むし",
       "エスパー"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスイオルブ",
+        "types": [
+          "むし",
+          "エスパー"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイテンドウ"
+      }
     ]
   },
   "827": {
@@ -9580,6 +12383,23 @@
     "types": [
       "みず",
       "いわ"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスカジリガメ",
+        "types": [
+          "みず",
+          "いわ"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイガンジン"
+      }
     ]
   },
   "835": {
@@ -9637,6 +12457,23 @@
     "types": [
       "いわ",
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスセキタンザン",
+        "types": [
+          "いわ",
+          "ほのお"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイフンセキ"
+      }
     ]
   },
   "840": {
@@ -9661,6 +12498,23 @@
     "types": [
       "くさ",
       "ドラゴン"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスアップリュー",
+        "types": [
+          "くさ",
+          "ドラゴン"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイサンゲキ"
+      }
     ]
   },
   "842": {
@@ -9673,6 +12527,23 @@
     "types": [
       "くさ",
       "ドラゴン"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスタルップル",
+        "types": [
+          "くさ",
+          "ドラゴン"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイカンロ"
+      }
     ]
   },
   "843": {
@@ -9695,6 +12566,22 @@
     "is_mythical": false,
     "types": [
       "じめん"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスサダイジャ",
+        "types": [
+          "みず"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイサジン"
+      }
     ]
   },
   "845": {
@@ -9753,6 +12640,23 @@
     "types": [
       "でんき",
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスストリンダー",
+        "types": [
+          "でんき",
+          "どく"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイカンデン"
+      }
     ]
   },
   "850": {
@@ -9777,6 +12681,23 @@
     "types": [
       "ほのお",
       "むし"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスマルヤクデ",
+        "types": [
+          "むし",
+          "ほのお"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイヒャッカ"
+      }
     ]
   },
   "852": {
@@ -9855,6 +12776,22 @@
     "types": [
       "エスパー",
       "フェアリー"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスブリムオン",
+        "types": [
+          "フェアリー"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイテンバツ"
+      }
     ]
   },
   "859": {
@@ -9891,6 +12828,23 @@
     "types": [
       "あく",
       "フェアリー"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスオーロンゲ",
+        "types": [
+          "あく",
+          "フェアリー"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイスイマ"
+      }
     ]
   },
   "862": {
@@ -9982,6 +12936,22 @@
     "is_mythical": false,
     "types": [
       "フェアリー"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスマホイップ",
+        "types": [
+          "フェアリー"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイダンエン"
+      }
     ]
   },
   "870": {
@@ -9993,6 +12963,21 @@
     "is_mythical": false,
     "types": [
       "かくとう"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガタイレーツ",
+        "types": [
+          "かくとう"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "ZA"
+        ]
+      }
     ]
   },
   "871": {
@@ -10096,6 +13081,22 @@
     "is_mythical": false,
     "types": [
       "はがね"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスダイオウドウ",
+        "types": [
+          "はがね"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイコウジン"
+      }
     ]
   },
   "880": {
@@ -10156,6 +13157,23 @@
     "types": [
       "はがね",
       "ドラゴン"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスジュラルドン",
+        "types": [
+          "はがね",
+          "ドラゴン"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイゲンスイ"
+      }
     ]
   },
   "885": {
@@ -10249,6 +13267,38 @@
     "types": [
       "かくとう",
       "あく"
+    ],
+    "forms": [
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスウーラオス（いちげきのかた）",
+        "types": [
+          "かくとう",
+          "あく"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイイチゲキ"
+      },
+      {
+        "form_id": "gmax",
+        "form_name_ja": "キョダイマックスウーラオス（れんげきのかた）",
+        "types": [
+          "かくとう",
+          "みず"
+        ],
+        "category": "gigantamax",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ],
+        "gmax_move": "キョダイレンゲキ"
+      }
     ]
   },
   "893": {
@@ -10939,6 +13989,22 @@
     "types": [
       "くさ",
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガスコヴィラン",
+        "types": [
+          "くさ",
+          "ほのお"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "スコヴィランナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "953": {
@@ -11477,6 +14543,22 @@
     "types": [
       "ドラゴン",
       "こおり"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガセグレイブ",
+        "types": [
+          "ドラゴン",
+          "こおり"
+        ],
+        "category": "mega",
+        "ability": "",
+        "required_item": "セグレイブナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "999": {

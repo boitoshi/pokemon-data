@@ -1,6 +1,6 @@
 # pokemon-data 開発ノート
 
-> 最終更新: 2026-03-19（DLC管理・HOME連携フィールド追加・タイトル整備・groupフィールド追加）
+> 最終更新: 2026-03-19（DLC管理・HOME連携フィールド追加・タイトル整備・groupフィールド追加・pokemon_names.json追加）
 
 ## このリポジトリの役割
 
@@ -21,6 +21,7 @@ pokemon-data/
 ├── abilities/
 │   └── all.json              # 特性 310件（name_en 補完済み）
 ├── mappings/
+│   ├── pokemon_names.json    # ポケモン名 英日マッピング 1025件（generate_pokemon_names.py で生成）
 │   ├── ribbons.json          # リボン・あかし 英日マッピング（ribbon 53件 + mark 55件）
 │   ├── distribution-methods.json
 │   ├── regions.json
@@ -32,9 +33,10 @@ pokemon-data/
 ├── game-data/
 │   └── ability_list.json     # 旧ファイル（abilities/all.jsonに移行済み、削除待ち）
 └── scripts/
-    ├── fetch-pokemon.py      # PokeAPIからマスターデータ取得
-    ├── fetch-forms.py        # special-forms.jsonからフォームデータ取得
-    └── fetch-form-names-en.py  # PokeAPIからフォーム英語名を取得
+    ├── fetch-pokemon.py           # PokeAPIからマスターデータ取得
+    ├── fetch-forms.py             # special-forms.jsonからフォームデータ取得
+    ├── fetch-form-names-en.py     # PokeAPIからフォーム英語名を取得
+    └── generate_pokemon_names.py  # all.json → mappings/pokemon_names.json 生成
 ```
 
 ---

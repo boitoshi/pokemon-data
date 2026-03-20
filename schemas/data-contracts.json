@@ -1,0 +1,18 @@
+{
+  "pokemon/all.json": {
+    "requiredKeys": ["no", "name_ja", "name_en", "gen", "is_legendary", "is_mythical", "types"],
+    "minEntries": 1000
+  },
+  "games/titles.json": {
+    "requiredKeys": ["id", "name", "name_en", "generation", "platform", "group"],
+    "minEntries": 40
+  },
+  "abilities/all.json": {
+    "requiredKeys": ["id", "name_ja", "name_en", "description", "generation"],
+    "minEntries": 300
+  },
+  "mappings/pokemon_names.json": {
+    "requiredKeys": ["en", "ja", "dex_no"],
+    "minEntries": 1000
+  }
+}

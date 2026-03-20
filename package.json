@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "validate": "node scripts/validate-data.mjs"
+  },
   "devDependencies": {
     "@types/node": "^22.15.17"
   },

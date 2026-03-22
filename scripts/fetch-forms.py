@@ -6,8 +6,8 @@
 special-forms.json をソースにして pokemon/all.json の各エントリに
 forms 配列を追加・更新するスクリプト。
 
-収録カテゴリ: mega / regional / primal / gigantamax
-スキップ:     bond / zmove
+収録カテゴリ: mega / regional / primal / gigantamax / zmove / bond
+スキップ:     なし
 
 実行方法:
   uv run scripts/fetch-forms.py
@@ -33,8 +33,8 @@ SPECIAL_FORMS_PATH = (
 )
 OUTPUT_PATH = Path(__file__).parent.parent / "pokemon" / "all.json"
 
-INCLUDE_CATEGORIES = {"mega", "regional", "primal", "gigantamax"}
-SKIP_CATEGORIES = {"bond", "zmove"}
+INCLUDE_CATEGORIES = {"mega", "regional", "primal", "gigantamax", "zmove", "bond"}
+SKIP_CATEGORIES: set[str] = set()
 
 GAME_TO_REGION: dict[str, str] = {
     "SM": "alola",
@@ -80,6 +80,12 @@ def derive_form_id(
         # フォーム名がprefixで始まらない場合のフォールバック
         return "mega"
 
+    if category == "zmove":
+        return "zmove"
+
+    if category == "bond":
+        return "bond"
+
     # 上記以外（想定外）はそのままカテゴリ名を返す
     return category
 
@@ -121,6 +127,10 @@ def build_form_entry(form: dict, pokemon_name_ja: str) -> dict:
 
     if category == "gigantamax":
         entry["gmax_move"] = form.get("gmaxMoveName", "")
+
+    if category == "zmove":
+        entry["z_crystal"] = form.get("zCrystalName", "")
+        entry["z_move"] = form.get("zMoveName", "")
 
     return entry
 

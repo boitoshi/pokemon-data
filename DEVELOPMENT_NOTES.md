@@ -1,6 +1,6 @@
 # pokemon-data 開発ノート
 
-> 最終更新: 2026-03-19（DLC管理・HOME連携フィールド追加・タイトル整備・groupフィールド追加・pokemon_names.json追加・game-data削除・実装計画更新）
+> 最終更新: 2026-03-21（games.json正本化・zmove/bondフォームデータ追加）
 
 ## このリポジトリの役割
 
@@ -13,7 +13,7 @@
 ```
 pokemon-data/
 ├── pokemon/
-│   └── all.json              # ポケモンマスターデータ 1025件 + フォームデータ 178件
+│   └── all.json              # ポケモンマスターデータ 1025件 + フォームデータ 202件
 ├── games/
 │   ├── titles.json           # ゲームタイトル 43件（Gen1〜Gen10/ZA + ぽこ あ ポケモン）。groupフィールド付き
 │   ├── groups.json           # グループ定義 26件（"SwSh", "SV"等のペア単位キー）
@@ -72,10 +72,12 @@ pokemon-data/
 
 | category | 件数 | 内容 |
 |---|---|---|
-| mega | 88 | ZA新規25件含む |
-| regional | 55 | アローラ・ガラル・ヒスイ・パルデア |
+| mega | 89 | ZA新規25件含む |
+| regional | 58 | アローラ・ガラル・ヒスイ・パルデア |
 | gigantamax | 33 | gmax_moveフィールド付き |
 | primal | 2 | グラードン・カイオーガ |
+| zmove | 19 | z_crystal・z_moveフィールド付き（SM/USUM専用Zワザ持ち） |
+| bond | 1 | サトシゲッコウガ（きずなへんげ） |
 
 ソース: `pokebros-tools/tools/summary-pages/src/data/special-forms.json`
 更新時: `uv run scripts/fetch-forms.py --force && uv run scripts/fetch-form-names-en.py`
@@ -134,11 +136,23 @@ uv run scripts/fetch-forms.py --force
 
 # フォーム英語名補完（fetch-forms.py実行後）
 uv run scripts/fetch-form-names-en.py
+
+# ゲームマッピング（titles.json更新後）
+uv run scripts/generate-games-mapping.py
 ```
 
 ---
 
-## 完了済みタスク（2026-03-19）
+## 完了済みタスク
+
+### 2026-03-21
+
+| # | タスク | 詳細 |
+|---|---|---|
+| 9 | `mappings/games.json` の正本化 | `generate-games-mapping.py` を実装。`titles.json` から自動生成（61エントリ）。distribution-scraper の `games.json` をシンボリックリンクに移行 |
+| 10 | フォームデータに zmove/bond 追加 | `fetch-forms.py` を更新。zmove 19件（z_crystal・z_moveフィールド付き）+ bond 1件（サトシゲッコウガ）を収録。total 202件 |
+
+### 2026-03-19
 
 | # | タスク | 詳細 |
 |---|---|---|
@@ -155,24 +169,12 @@ uv run scripts/fetch-form-names-en.py
 
 ## 今後の実装予定
 
-### 優先度高
-
-#### 1. `distribution-scraper/mappings/games.json` の正本化
-- 現状: distribution-scraper が独自フォーマットで管理（symlink未移行の唯一のファイル）
-- 方針: `distribution-scraper` の `games.json` が必要とするフィールドを調査し、
-  `pokemon-data/games/titles.json` から生成するスクリプトか変換アダプターを実装
-- 前提: 他リポジトリからも同様の需要が出てきたら対応（YAGNI原則）
-
 ### 優先度中
 
-#### 3. `ribbon-tracker` の ZA（legends_za）対応
+#### 1. `ribbon-tracker` の ZA（legends_za）対応
 - 現状: `distribution-scraper` の EXCLUDED_IDS に登録されており取得スキップ中
 - **ZAリボン・あかし内容は2026年春のHOME連携まで確認不可**
 - HOME連携後に確認してから ribbon-tracker と distribution-scraper を更新する
-
-#### 4. フォームデータのスコープ拡張（検討）
-- `zmove` カテゴリ（現状スキップ）: ネクロズマ等タイプ変化フォームを含む可能性
-- `bond` カテゴリ（現状スキップ）: サトシゲッコウガなど
 
 ### 優先度低（YAGNI: 複数リポジトリから需要が出たら対応）
 

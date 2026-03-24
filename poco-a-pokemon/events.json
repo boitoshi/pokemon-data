@@ -1,0 +1,49 @@
+{
+  "$schema": "poco-a-pokemon-events-v1",
+  "events": [
+    {
+      "id": "2026-03-hoppip-watage",
+      "eventName": "ハネッコのわたげあつめ",
+      "eventType": "dream-island",
+      "startDate": "2026-03-10",
+      "endDate": "2026-03-25",
+      "startTime": "05:00",
+      "endTime": "04:59",
+      "participationCondition": "ポケモンセンターを修理済みの街",
+      "specialItem": {
+        "name": "わたげ",
+        "source": "ゆめしま"
+      },
+      "exchangeNpc": {
+        "pokemon": "ハネッコ",
+        "dexNo": 187,
+        "location": "ポケモンセンター"
+      },
+      "exchangeItems": [
+        { "give": "わたげ", "giveCount": 5, "receive": "ハネッコすいとう", "receiveCount": 1 },
+        { "give": "わたげ", "giveCount": 5, "receive": "おべんとう", "receiveCount": 1 },
+        { "give": "わたげ", "giveCount": 5, "receive": "ボトルジュース", "receiveCount": 1 },
+        { "give": "わたげ", "giveCount": 5, "receive": "おはなのリュック", "receiveCount": 1 },
+        { "give": "わたげ", "giveCount": 5, "receive": "はなのカベかざり", "receiveCount": 10 },
+        { "give": "わたげ", "giveCount": 5, "receive": "のどかなはなのタネ", "receiveCount": 5 },
+        { "give": "わたげ", "giveCount": 10, "receive": "おはなのクッション", "receiveCount": 1 },
+        { "give": "わたげ", "giveCount": 10, "receive": "おはなのテーブル", "receiveCount": 1 },
+        { "give": "わたげ", "giveCount": 10, "receive": "おはなのしょっきセット", "receiveCount": 1 },
+        { "give": "わたげ", "giveCount": 15, "receive": "レジャーシート", "receiveCount": 1 }
+      ],
+      "exchangeTotalNeeded": 75,
+      "eventPokemon": [
+        { "name": "ハネッコ", "dexNo": 187, "rarity": "ふつう" },
+        { "name": "ポポッコ", "dexNo": 188, "rarity": "めずらしい" },
+        { "name": "ワタッコ", "dexNo": 189, "rarity": "とてもめずらしい" }
+      ],
+      "eventHabitats": [
+        { "name": "黄色のじゅうたん", "pokemon": ["ハネッコ", "ポポッコ", "ワタッコ"] },
+        { "name": "遠足のおとも", "pokemon": ["ポポッコ"] },
+        { "name": "タンポポとお昼ご飯", "pokemon": ["ワタッコ"] }
+      ],
+      "notes": "ゆめしまでわたげを集め、ポケセンのハネッコに渡すとイベント生息地が復活。全アイテム交換には合計75個必要。",
+      "postUrl": ""
+    }
+  ]
+}

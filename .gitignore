@@ -21,3 +21,4 @@ build/
 # その他の一時ファイル
 .DS_Store
 *.log
+.DS_Store

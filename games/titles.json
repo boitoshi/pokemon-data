@@ -933,5 +933,24 @@
       "send": false,
       "receive": false
     }
+  },
+  {
+    "id": "pokemon_champions",
+    "name": "Pokémon Champions",
+    "name_en": "Pokémon Champions",
+    "shortName": "チャンピオンズ",
+    "abbrev": "Champions",
+    "generation": null,
+    "releaseDate_jp": "2026-04-08",
+    "releaseDate_us": "2026-04-08",
+    "platform": "Switch / スマートフォン",
+    "category": "spinoff",
+    "group": "Champions",
+    "paired_with": [],
+    "region": null,
+    "home": {
+      "send": false,
+      "receive": false
+    }
   }
 ]

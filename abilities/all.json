@@ -2168,5 +2168,33 @@
     "name_en": "Poison Puppeteer",
     "description": "使用した技でどく・もうどく状態になったポケモンは、こんらん状態にもなる。",
     "generation": 9
+  },
+  {
+    "id": 311,
+    "name_ja": "メガソーラー",
+    "name_en": "Mega Solar",
+    "description": "自分が技を使うとき、天気がにほんばれ状態と同じ効果になる。",
+    "generation": 10
+  },
+  {
+    "id": 312,
+    "name_ja": "ドラゴンスキン",
+    "name_en": "Dragon Skin",
+    "description": "自分が出したノーマルタイプの技がドラゴンタイプの技となり、技の威力が1.2倍になる。",
+    "generation": 10
+  },
+  {
+    "id": 313,
+    "name_ja": "かんつうドリル",
+    "name_en": "Piercing Drill",
+    "description": "接触技を使うとき、相手の守りの効果を無視して本来の1/4のダメージを与える。相手の守りの効果以外は発動される。",
+    "generation": 10
+  },
+  {
+    "id": 314,
+    "name_ja": "とびだすハバネロ",
+    "name_en": "Popping Habanero",
+    "description": "技のダメージを受けると、相手をやけど状態にする。",
+    "generation": 10
   }
 ]

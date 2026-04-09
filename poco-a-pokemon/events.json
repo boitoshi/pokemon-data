@@ -44,6 +44,28 @@
       ],
       "notes": "ゆめしまでわたげを集め、ポケセンのハネッコに渡すとイベント生息地が復活。全アイテム交換には合計75個必要。",
       "postUrl": ""
+    },
+    {
+      "id": "2026-04-april-fool-manekko",
+      "eventName": "今日だけのクイズに正解しよう（マネっこチャレンジ）",
+      "eventType": "special-challenge",
+      "startDate": "2026-04-01",
+      "endDate": "2026-04-01",
+      "startTime": "05:00",
+      "endTime": "04:59",
+      "participationCondition": "",
+      "specialItem": null,
+      "exchangeNpc": null,
+      "exchangeItems": [],
+      "exchangeTotalNeeded": 0,
+      "rewardItems": [
+        { "name": "ウソッキーバルーン", "receiveMethod": "パソコン・タスク報酬" }
+      ],
+      "rewardCondition": "3回クイズに正解する",
+      "eventPokemon": [],
+      "eventHabitats": [],
+      "notes": "エイプリルフール限定24時間イベント。ポケモンがほかのポケモンの話し方をマネしてクイズを出題。スペシャルチャレンジ形式（ゆめしまイベントとは異なる）。",
+      "postUrl": ""
     }
   ]
 }

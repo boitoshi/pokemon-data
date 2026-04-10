@@ -175,10 +175,10 @@
     "games": ["legends_za"]
   },
   {
-    "id": "PokoPoke",
+    "id": "PocoPoke",
     "name_ja": "ぽこ あ ポケモン",
-    "name_en": "Poko a Pokémon",
+    "name_en": "Pokémon Pokopia",
     "generation": null,
-    "games": ["poko_a_pokemon"]
+    "games": ["poco_a_pokemon"]
   }
 ]

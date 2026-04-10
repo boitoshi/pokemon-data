@@ -916,17 +916,17 @@
     }
   },
   {
-    "id": "poko_a_pokemon",
+    "id": "poco_a_pokemon",
     "name": "ぽこ あ ポケモン",
-    "name_en": "Poko a Pokémon",
+    "name_en": "Pokémon Pokopia",
     "shortName": "ぽこポケ",
-    "abbrev": "PokoPoke",
+    "abbrev": "PocoPoke",
     "generation": null,
     "releaseDate_jp": "2026-03-05",
     "releaseDate_us": null,
     "platform": "Switch 2",
     "category": "spinoff",
-    "group": "PokoPoke",
+    "group": "PocoPoke",
     "paired_with": [],
     "region": null,
     "home": {

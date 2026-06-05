@@ -167,20 +167,100 @@ uv run scripts/generate-games-mapping.py
 
 ---
 
-## 今後の実装予定
+## 今後の実装予定 / 整備すべきデータ一覧
 
-### 優先度中
+> 最終更新: 2026-06-05
 
-#### 1. `ribbon-tracker` の ZA（legends_za）対応
-- 現状: `distribution-scraper` の EXCLUDED_IDS に登録されており取得スキップ中
-- **ZAリボン・あかし内容は2026年春のHOME連携まで確認不可**
-- HOME連携後に確認してから ribbon-tracker と distribution-scraper を更新する
+### 凡例
 
-### 優先度低（YAGNI: 複数リポジトリから需要が出たら対応）
+| 記号 | 意味 |
+|---|---|
+| ✅ | 整備済み（pokemon-data に正本あり） |
+| 🔶 | 部分整備（名前マッピングのみ等、情報が不完全） |
+| ❌ | 未整備 |
 
-#### 5. `moves.json` / `items.json` のリッチデータ化
-- 現状: distribution-scraper が PokeAPI 由来のフラット lookup を使用
-- 方針: 別リポジトリからも参照需要が出た時点で pokemon-data に取り込む
+---
+
+### ゲーム・タイトル関連
+
+| データ | 状態 | 場所 / 備考 |
+|---|---|---|
+| ゲームタイトル一覧（発売日・プラットフォーム・世代） | ✅ | `games/titles.json` 43件。`releaseDate_jp` / `releaseDate_us` あり |
+| ゲームグループ定義（ペア単位キー） | ✅ | `games/groups.json` 26件 |
+| 世代定義 | ✅ | `games/generations.json` 10件 |
+| スピンオフ・外伝タイトルの発売日 | ❌ | ポケモン不思議のダンジョン・ポケモンスタジアム等、`titles.json` 対象外のタイトル |
+| アプリ・サービスのサービス開始・終了日 | ❌ | ポケモンGO・HOME・バンク等。終了済みサービス（Dream World等）も含めると有用 |
+
+---
+
+### ポケモンマスターデータ
+
+| データ | 状態 | 場所 / 備考 |
+|---|---|---|
+| ポケモン基本情報（名前・タイプ・世代・伝説/幻） | ✅ | `pokemon/all.json` 1025件 |
+| フォームデータ（メガ・リージョン・ギガ・Zワザ等） | ✅ | `pokemon/all.json` forms配列 202件 |
+| 名前 英日マッピング | ✅ | `mappings/pokemon_names.json` 1025件 |
+| 種族値（HP/攻撃/防御/特攻/特防/素早さ） | ❌ | PokeAPI で取得可能。ribbon-tracker 等で需要が出たら追加 |
+| タマゴグループ | ❌ | 育て屋・繁殖関連ツールで需要が出たら追加 |
+| 進化チェーン | ❌ | PokeAPI `/evolution-chain` で取得可能 |
+| ポケモン図鑑テキスト | ❌ | 需要・容量が大きいため別途検討 |
+| 捕捉率・幸福度初期値 | ❌ | 低優先。需要次第 |
+
+---
+
+### 特性
+
+| データ | 状態 | 場所 / 備考 |
+|---|---|---|
+| 特性一覧（英日名） | ✅ | `abilities/all.json` 310件 |
+| 特性の効果説明文 | ❌ | 低優先。PokeAPI `flavor_text_entries` で取得可能 |
+
+---
+
+### リボン・あかし
+
+| データ | 状態 | 場所 / 備考 |
+|---|---|---|
+| リボン名 英日マッピング | 🔶 | `mappings/ribbons.json` 53件（名前のみ） |
+| あかし名 英日マッピング | 🔶 | `mappings/ribbons.json` 55件（名前のみ） |
+| リボン詳細リスト | ❌ | 入手方法・対応ゲーム・カテゴリ（バトル/コンテスト/イベント等）付きの `ribbons/ribbons.json` |
+| あかし詳細リスト | ❌ | 入手条件（時間帯/天気/個性等）付きの `ribbons/marks.json` |
+| ZAリボン・あかし | ❌ | **HOME連携後に確認**（2026年春以降）。`ribbon-tracker` の EXCLUDED_IDS に登録中 |
+
+---
+
+### わざ・アイテム
+
+| データ | 状態 | 場所 / 備考 |
+|---|---|---|
+| わざ一覧（英日名・タイプ・分類・威力・命中） | ❌ | `moves.json`。distribution-scraper が PokeAPI フラット lookup を使用中 |
+| アイテム一覧（英日名・カテゴリ） | ❌ | `items.json`。複数リポジトリから参照需要が出たら pokemon-data に取り込む |
+| TM/TR/HMリスト（ゲームごと） | ❌ | わざ一覧整備後に対応 |
+
+---
+
+### マッピング類
+
+| データ | 状態 | 場所 / 備考 |
+|---|---|---|
+| タイプ一覧 英日 | ✅ | `mappings/types.json` 18タイプ |
+| せいかく一覧（上昇/下降ステータス付き） | ✅ | `mappings/natures.json` 25件 |
+| ボール一覧 | ✅ | `mappings/balls.json` 28種 |
+| 地方一覧 | ✅ | `mappings/regions.json` |
+| 捕まえた場所（met-location） | ✅ | `mappings/met-locations.json` |
+| 配信方法 | ✅ | `mappings/distribution-methods.json` |
+| フォーム名マッピング | ✅ | `mappings/forms.json` |
+| ゲームタイトルマッピング（abbrev→id） | ✅ | `mappings/games.json`（generate-games-mapping.py で自動生成） |
+| タイプ相性表 | ❌ | 低優先。18×18の相性倍率テーブル |
+
+---
+
+### 優先度メモ
+
+- **高**: ZAリボン・あかし（HOME連携後に要対応）
+- **中**: リボン詳細リスト・あかし詳細リスト（ribbon-tracker の表示情報充実化に直結）
+- **中**: わざ一覧 `moves.json`（distribution-scraper の PokeAPI 依存を正本化）
+- **低（YAGNI）**: 種族値・タマゴグループ・進化チェーン・アイテム一覧・タイプ相性表
 
 ---
 

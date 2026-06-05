@@ -1,0 +1,418 @@
+[
+  {
+    "id": "champion_ribbon",
+    "name_ja": "チャンピオンリボン",
+    "name_en": "Champion Ribbon",
+    "category": "champion_game",
+    "introduced_gen": 3,
+    "source_ja": "バトルタワー制覇（Gen3）"
+  },
+  {
+    "id": "sinnoh_champion_ribbon",
+    "name_ja": "シンオウチャンプリボン",
+    "name_en": "Sinnoh Champion Ribbon",
+    "category": "champion_game",
+    "introduced_gen": 4,
+    "source_ja": "シンオウ殿堂入り（DP/Pt）"
+  },
+  {
+    "id": "unova_champion_ribbon",
+    "name_ja": "イッシュチャンプリボン",
+    "name_en": "Unova Champion Ribbon",
+    "category": "champion_game",
+    "introduced_gen": 5,
+    "source_ja": "イッシュ殿堂入り（BW/B2W2）"
+  },
+  {
+    "id": "kalos_champion_ribbon",
+    "name_ja": "カロスチャンプリボン",
+    "name_en": "Kalos Champion Ribbon",
+    "category": "champion_game",
+    "introduced_gen": 6,
+    "source_ja": "カロス殿堂入り（XY）"
+  },
+  {
+    "id": "hoenn_champion_ribbon",
+    "name_ja": "ホウエンチャンプリボン",
+    "name_en": "Hoenn Champion Ribbon",
+    "category": "champion_game",
+    "introduced_gen": 6,
+    "source_ja": "ホウエン殿堂入り（ORAS）"
+  },
+  {
+    "id": "alola_champion_ribbon",
+    "name_ja": "アローラチャンプリボン",
+    "name_en": "Alola Champion Ribbon",
+    "category": "champion_game",
+    "introduced_gen": 7,
+    "source_ja": "アローラ殿堂入り（SM/USUM）"
+  },
+  {
+    "id": "galar_champion_ribbon",
+    "name_ja": "ガラルチャンプリボン",
+    "name_en": "Galar Champion Ribbon",
+    "category": "champion_game",
+    "introduced_gen": 8,
+    "source_ja": "ガラル殿堂入り（SwSh）"
+  },
+  {
+    "id": "paldea_champion_ribbon",
+    "name_ja": "パルデアチャンプリボン",
+    "name_en": "Paldea Champion Ribbon",
+    "category": "champion_game",
+    "introduced_gen": 9,
+    "source_ja": "パルデア殿堂入り（SV）"
+  },
+  {
+    "id": "battle_champion_ribbon",
+    "name_ja": "チャンピオンリボン",
+    "name_en": "Battle Champion Ribbon",
+    "category": "champion_tournament",
+    "introduced_gen": 4,
+    "source_ja": "公式大会チャンピオン"
+  },
+  {
+    "id": "regional_champion_ribbon",
+    "name_ja": "リージョンチャンピオンリボン",
+    "name_en": "Regional Champion Ribbon",
+    "category": "champion_tournament",
+    "introduced_gen": 4,
+    "source_ja": "公式地区大会優勝"
+  },
+  {
+    "id": "national_champion_ribbon",
+    "name_ja": "ナショナルチャンピオンリボン",
+    "name_en": "National Champion Ribbon",
+    "category": "champion_tournament",
+    "introduced_gen": 4,
+    "source_ja": "公式全国大会優勝"
+  },
+  {
+    "id": "world_champion_ribbon",
+    "name_ja": "ワールドチャンピオンリボン",
+    "name_en": "World Champion Ribbon",
+    "category": "champion_tournament",
+    "introduced_gen": 4,
+    "source_ja": "世界大会優勝"
+  },
+  {
+    "id": "victory_ribbon",
+    "name_ja": "ビクトリーリボン",
+    "name_en": "Victory Ribbon",
+    "category": "battle",
+    "introduced_gen": 3,
+    "source_ja": "バトルタワー連勝（Gen3）"
+  },
+  {
+    "id": "winning_ribbon",
+    "name_ja": "ウィニングリボン",
+    "name_en": "Winning Ribbon",
+    "category": "battle",
+    "introduced_gen": 4,
+    "source_ja": "バトルタワー連勝（Gen4）"
+  },
+  {
+    "id": "skillful_battler_ribbon",
+    "name_ja": "バトルマスターリボン",
+    "name_en": "Skillful Battler Ribbon",
+    "category": "battle",
+    "introduced_gen": 8,
+    "source_ja": "バトルタワー（BDSP）50連勝"
+  },
+  {
+    "id": "expert_battler_ribbon",
+    "name_ja": "バトルエキスパートリボン",
+    "name_en": "Expert Battler Ribbon",
+    "category": "battle",
+    "introduced_gen": 8,
+    "source_ja": "バトルタワー（BDSP）連続クリア"
+  },
+  {
+    "id": "tower_master_ribbon",
+    "name_ja": "タワーマスターリボン",
+    "name_en": "Tower Master Ribbon",
+    "category": "battle",
+    "introduced_gen": 8,
+    "source_ja": "バトルタワー（BDSP）マスターランク達成"
+  },
+  {
+    "id": "master_rank_ribbon",
+    "name_ja": "マスターランクリボン",
+    "name_en": "Master Rank Ribbon",
+    "category": "battle",
+    "introduced_gen": 8,
+    "source_ja": "ランクバトル（SwSh）マスターランク到達"
+  },
+  {
+    "id": "classic_ribbon",
+    "name_ja": "クラシックリボン",
+    "name_en": "Classic Ribbon",
+    "category": "event",
+    "introduced_gen": 4,
+    "source_ja": "配布・イベント（クラシック）"
+  },
+  {
+    "id": "premier_ribbon",
+    "name_ja": "プレミアリボン",
+    "name_en": "Premier Ribbon",
+    "category": "event",
+    "introduced_gen": 4,
+    "source_ja": "配布・イベント（プレミア）"
+  },
+  {
+    "id": "event_ribbon",
+    "name_ja": "イベントリボン",
+    "name_en": "Event Ribbon",
+    "category": "event",
+    "introduced_gen": 4,
+    "source_ja": "公式イベント参加"
+  },
+  {
+    "id": "birthday_ribbon",
+    "name_ja": "バースデーリボン",
+    "name_en": "Birthday Ribbon",
+    "category": "event",
+    "introduced_gen": 4,
+    "source_ja": "誕生日配布"
+  },
+  {
+    "id": "special_ribbon",
+    "name_ja": "スペシャルリボン",
+    "name_en": "Special Ribbon",
+    "category": "event",
+    "introduced_gen": 4,
+    "source_ja": "特別配布"
+  },
+  {
+    "id": "souvenir_ribbon",
+    "name_ja": "おもいでリボン",
+    "name_en": "Souvenir Ribbon",
+    "category": "event",
+    "introduced_gen": 4,
+    "source_ja": "特別配布（思い出）"
+  },
+  {
+    "id": "wishing_ribbon",
+    "name_ja": "ウィッシュリボン",
+    "name_en": "Wishing Ribbon",
+    "category": "event",
+    "introduced_gen": 4,
+    "source_ja": "ポケモンセンター・ウィッシュメーカー等"
+  },
+  {
+    "id": "effort_ribbon",
+    "name_ja": "がんばリボン",
+    "name_en": "Effort Ribbon",
+    "category": "effort",
+    "introduced_gen": 3,
+    "source_ja": "努力値MAXのポケモンにNPCが付与"
+  },
+  {
+    "id": "best_friends_ribbon",
+    "name_ja": "なかよしリボン",
+    "name_en": "Best Friends Ribbon",
+    "category": "effort",
+    "introduced_gen": 6,
+    "source_ja": "なつき度MAX（Gen6〜）"
+  },
+  {
+    "id": "footprint_ribbon",
+    "name_ja": "あしあとリボン",
+    "name_en": "Footprint Ribbon",
+    "category": "effort",
+    "introduced_gen": 4,
+    "source_ja": "一定歩数で博士NPCが付与（Gen4）"
+  },
+  {
+    "id": "partner_ribbon",
+    "name_ja": "パートナーリボン",
+    "name_en": "Partner Ribbon",
+    "category": "effort",
+    "introduced_gen": 7,
+    "source_ja": "Let's Go! パートナーポケモンとの冒険"
+  },
+  {
+    "id": "gorgeous_ribbon",
+    "name_ja": "ゴージャスリボン",
+    "name_en": "Gorgeous Ribbon",
+    "category": "gorgeous",
+    "introduced_gen": 4,
+    "source_ja": "リボンショップ購入（10,000円）"
+  },
+  {
+    "id": "royal_ribbon",
+    "name_ja": "ロイヤルリボン",
+    "name_en": "Royal Ribbon",
+    "category": "gorgeous",
+    "introduced_gen": 4,
+    "source_ja": "リボンショップ購入（100,000円）"
+  },
+  {
+    "id": "gorgeous_royal_ribbon",
+    "name_ja": "ゴージャスロイヤルリボン",
+    "name_en": "Gorgeous Royal Ribbon",
+    "category": "gorgeous",
+    "introduced_gen": 4,
+    "source_ja": "リボンショップ購入（999,999円）"
+  },
+  {
+    "id": "artist_ribbon",
+    "name_ja": "アーティストリボン",
+    "name_en": "Artist Ribbon",
+    "category": "special",
+    "introduced_gen": 3,
+    "source_ja": "コンテスト殿堂で絵を描かれる（Gen3）"
+  },
+  {
+    "id": "legend_ribbon",
+    "name_ja": "レジェンドリボン",
+    "name_en": "Legend Ribbon",
+    "category": "special",
+    "introduced_gen": 4,
+    "source_ja": "Pokémon Battle Revolution にポケモンを登録"
+  },
+  {
+    "id": "country_ribbon",
+    "name_ja": "カントリーリボン",
+    "name_en": "Country Ribbon",
+    "category": "special",
+    "introduced_gen": 3,
+    "source_ja": "海外のソフトとの通信交換"
+  },
+  {
+    "id": "national_ribbon",
+    "name_ja": "ナショナルリボン",
+    "name_en": "National Ribbon",
+    "category": "special",
+    "introduced_gen": 3,
+    "source_ja": "特別配布"
+  },
+  {
+    "id": "earth_ribbon",
+    "name_ja": "アースリボン",
+    "name_en": "Earth Ribbon",
+    "category": "special",
+    "introduced_gen": 3,
+    "source_ja": "ポケモンコロシアム / XD クリア"
+  },
+  {
+    "id": "world_ribbon",
+    "name_ja": "ワールドリボン",
+    "name_en": "World Ribbon",
+    "category": "special",
+    "introduced_gen": 3,
+    "source_ja": "特別配布"
+  },
+  {
+    "id": "hisui_ribbon",
+    "name_ja": "ヒスイリボン",
+    "name_en": "Hisui Ribbon",
+    "category": "special",
+    "introduced_gen": 8,
+    "source_ja": "PLA クリア後ジュビライフ村でNPCが付与"
+  },
+  {
+    "id": "once_in_a_lifetime_ribbon",
+    "name_ja": "いちどきりリボン",
+    "name_en": "Once-in-a-Lifetime Ribbon",
+    "category": "special",
+    "introduced_gen": 8,
+    "source_ja": "SwSh 特定イベント（1回限り）"
+  },
+  {
+    "id": "contest_memory_ribbon",
+    "name_ja": "コンテストメモリーリボン",
+    "name_en": "Contest Memory Ribbon",
+    "category": "memory",
+    "introduced_gen": 8,
+    "source_ja": "過去のコンテストリボン持ちポケモンをHOME経由で移行すると付与"
+  },
+  {
+    "id": "battle_memory_ribbon",
+    "name_ja": "バトルメモリーリボン",
+    "name_en": "Battle Memory Ribbon",
+    "category": "memory",
+    "introduced_gen": 8,
+    "source_ja": "過去のバトルリボン持ちポケモンをHOME経由で移行すると付与"
+  },
+  {
+    "id": "mark_ribbon",
+    "name_ja": "ほしのリボン",
+    "name_en": "Mark Ribbon",
+    "category": "memory",
+    "introduced_gen": 8,
+    "source_ja": "あかしを持つポケモンにSwShのNPCが付与"
+  },
+  {
+    "id": "careless_ribbon",
+    "name_ja": "おちゃめリボン",
+    "name_en": "Careless Ribbon",
+    "category": "mood",
+    "introduced_gen": 4,
+    "source_ja": "NPCから入手（Gen4〜）"
+  },
+  {
+    "id": "relax_ribbon",
+    "name_ja": "のんきものリボン",
+    "name_en": "Relax Ribbon",
+    "category": "mood",
+    "introduced_gen": 4,
+    "source_ja": "NPCから入手（Gen4〜）"
+  },
+  {
+    "id": "snooze_ribbon",
+    "name_ja": "ひるねリボン",
+    "name_en": "Snooze Ribbon",
+    "category": "mood",
+    "introduced_gen": 4,
+    "source_ja": "NPCから入手（Gen4〜）"
+  },
+  {
+    "id": "smile_ribbon",
+    "name_ja": "にこにこリボン",
+    "name_en": "Smile Ribbon",
+    "category": "mood",
+    "introduced_gen": 4,
+    "source_ja": "NPCから入手（Gen4〜）"
+  },
+  {
+    "id": "downcast_ribbon",
+    "name_ja": "しょんぼりリボン",
+    "name_en": "Downcast Ribbon",
+    "category": "mood",
+    "introduced_gen": 4,
+    "source_ja": "NPCから入手（Gen4〜）"
+  },
+  {
+    "id": "alert_ribbon",
+    "name_ja": "びっくりリボン",
+    "name_en": "Alert Ribbon",
+    "category": "mood",
+    "introduced_gen": 4,
+    "source_ja": "NPCから入手（Gen4〜）"
+  },
+  {
+    "id": "shock_ribbon",
+    "name_ja": "どきどきリボン",
+    "name_en": "Shock Ribbon",
+    "category": "mood",
+    "introduced_gen": 4,
+    "source_ja": "NPCから入手（Gen4〜）"
+  },
+  {
+    "id": "marathon_ribbon",
+    "name_ja": "マラソンリボン",
+    "name_en": "Marathon Ribbon",
+    "category": "mood",
+    "introduced_gen": 4,
+    "source_ja": "NPCから入手（Gen4〜）"
+  },
+  {
+    "id": "twinkling_star_ribbon",
+    "name_ja": "きらきらリボン",
+    "name_en": "Twinkling Star Ribbon",
+    "category": "mood",
+    "introduced_gen": 4,
+    "source_ja": "NPCから入手（Gen4〜）"
+  }
+]

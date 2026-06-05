@@ -1,6 +1,6 @@
 # pokemon-data 開発ノート
 
-> 最終更新: 2026-03-21（games.json正本化・zmove/bondフォームデータ追加）
+> 最終更新: 2026-06-05（ribbons/all.json・marks/all.json・games/release-dates.json 追加）
 
 ## このリポジトリの役割
 
@@ -8,21 +8,26 @@
 
 ---
 
-## 現在の構成（2026-03-19時点）
+## 現在の構成（2026-06-05時点）
 
 ```
 pokemon-data/
 ├── pokemon/
 │   └── all.json              # ポケモンマスターデータ 1025件 + フォームデータ 202件
 ├── games/
-│   ├── titles.json           # ゲームタイトル 43件（Gen1〜Gen10/ZA + ぽこ あ ポケモン）。groupフィールド付き
+│   ├── titles.json           # ゲームタイトル 43件（Gen1〜Gen10/ZA + ぽこポケ + チャンピオンズ）。groupフィールド付き
+│   ├── release-dates.json    # ソフト発売日リスト（titles.jsonから発売日情報を抽出したビュー）
 │   ├── groups.json           # グループ定義 26件（"SwSh", "SV"等のペア単位キー）
 │   └── generations.json      # 世代定義 10件
+├── ribbons/
+│   └── all.json              # リボン 52件（category / introduced_gen / source_ja 付き）
+├── marks/
+│   └── all.json              # あかし 53件（category / condition_ja / games 付き）
 ├── abilities/
 │   └── all.json              # 特性 310件（name_en 補完済み）
 ├── mappings/
 │   ├── pokemon_names.json    # ポケモン名 英日マッピング 1025件（generate_pokemon_names.py で生成）
-│   ├── ribbons.json          # リボン・あかし 英日マッピング（ribbon 53件 + mark 55件）
+│   ├── ribbons.json          # リボン・あかし 英日マッピング（レガシー: ribbon 52件 + mark 53件）
 │   ├── distribution-methods.json
 │   ├── regions.json
 │   ├── met-locations.json

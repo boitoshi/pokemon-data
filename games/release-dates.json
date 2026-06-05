@@ -1,0 +1,365 @@
+[
+  {
+    "id": "red",
+    "name_ja": "ポケットモンスター 赤",
+    "name_en": "Pokémon Red",
+    "platform": "GB",
+    "releaseDate_jp": "1996-02-27",
+    "releaseDate_us": "1998-09-28"
+  },
+  {
+    "id": "green",
+    "name_ja": "ポケットモンスター 緑",
+    "name_en": "Pokémon Green",
+    "platform": "GB",
+    "releaseDate_jp": "1996-02-27",
+    "releaseDate_us": null
+  },
+  {
+    "id": "blue",
+    "name_ja": "ポケットモンスター 青",
+    "name_en": "Pokémon Blue",
+    "platform": "GB",
+    "releaseDate_jp": "1996-10-15",
+    "releaseDate_us": "1998-09-28"
+  },
+  {
+    "id": "yellow",
+    "name_ja": "ポケットモンスター ピカチュウ",
+    "name_en": "Pokémon Yellow",
+    "platform": "GBC",
+    "releaseDate_jp": "1998-09-12",
+    "releaseDate_us": "1999-10-19"
+  },
+  {
+    "id": "gold",
+    "name_ja": "ポケットモンスター 金",
+    "name_en": "Pokémon Gold",
+    "platform": "GBC",
+    "releaseDate_jp": "1999-11-21",
+    "releaseDate_us": "2000-10-15"
+  },
+  {
+    "id": "silver",
+    "name_ja": "ポケットモンスター 銀",
+    "name_en": "Pokémon Silver",
+    "platform": "GBC",
+    "releaseDate_jp": "1999-11-21",
+    "releaseDate_us": "2000-10-15"
+  },
+  {
+    "id": "crystal",
+    "name_ja": "ポケットモンスター クリスタル",
+    "name_en": "Pokémon Crystal",
+    "platform": "GBC",
+    "releaseDate_jp": "2000-12-14",
+    "releaseDate_us": "2001-07-29"
+  },
+  {
+    "id": "ruby",
+    "name_ja": "ポケットモンスター ルビー",
+    "name_en": "Pokémon Ruby",
+    "platform": "GBA",
+    "releaseDate_jp": "2002-11-21",
+    "releaseDate_us": "2003-03-19"
+  },
+  {
+    "id": "sapphire",
+    "name_ja": "ポケットモンスター サファイア",
+    "name_en": "Pokémon Sapphire",
+    "platform": "GBA",
+    "releaseDate_jp": "2002-11-21",
+    "releaseDate_us": "2003-03-19"
+  },
+  {
+    "id": "colosseum",
+    "name_ja": "ポケモンコロシアム",
+    "name_en": "Pokémon Colosseum",
+    "platform": "GCN",
+    "releaseDate_jp": "2003-11-21",
+    "releaseDate_us": "2004-03-22"
+  },
+  {
+    "id": "firered",
+    "name_ja": "ポケモン ファイアレッド",
+    "name_en": "Pokémon FireRed",
+    "platform": "GBA",
+    "releaseDate_jp": "2004-01-29",
+    "releaseDate_us": "2004-09-09"
+  },
+  {
+    "id": "leafgreen",
+    "name_ja": "ポケモン リーフグリーン",
+    "name_en": "Pokémon LeafGreen",
+    "platform": "GBA",
+    "releaseDate_jp": "2004-01-29",
+    "releaseDate_us": "2004-09-09"
+  },
+  {
+    "id": "emerald",
+    "name_ja": "ポケットモンスター エメラルド",
+    "name_en": "Pokémon Emerald",
+    "platform": "GBA",
+    "releaseDate_jp": "2004-09-16",
+    "releaseDate_us": "2005-05-01"
+  },
+  {
+    "id": "xd",
+    "name_ja": "ポケモンXD 闇の旋風ダークルギア",
+    "name_en": "Pokémon XD: Gale of Darkness",
+    "platform": "GCN",
+    "releaseDate_jp": "2005-08-04",
+    "releaseDate_us": "2005-10-03"
+  },
+  {
+    "id": "diamond",
+    "name_ja": "ポケットモンスター ダイヤモンド",
+    "name_en": "Pokémon Diamond",
+    "platform": "DS",
+    "releaseDate_jp": "2006-09-28",
+    "releaseDate_us": "2007-04-22"
+  },
+  {
+    "id": "pearl",
+    "name_ja": "ポケットモンスター パール",
+    "name_en": "Pokémon Pearl",
+    "platform": "DS",
+    "releaseDate_jp": "2006-09-28",
+    "releaseDate_us": "2007-04-22"
+  },
+  {
+    "id": "platinum",
+    "name_ja": "ポケットモンスター プラチナ",
+    "name_en": "Pokémon Platinum",
+    "platform": "DS",
+    "releaseDate_jp": "2008-09-13",
+    "releaseDate_us": "2009-03-22"
+  },
+  {
+    "id": "heartgold",
+    "name_ja": "ポケットモンスター ハートゴールド",
+    "name_en": "Pokémon HeartGold",
+    "platform": "DS",
+    "releaseDate_jp": "2009-09-12",
+    "releaseDate_us": "2010-03-14"
+  },
+  {
+    "id": "soulsilver",
+    "name_ja": "ポケットモンスター ソウルシルバー",
+    "name_en": "Pokémon SoulSilver",
+    "platform": "DS",
+    "releaseDate_jp": "2009-09-12",
+    "releaseDate_us": "2010-03-14"
+  },
+  {
+    "id": "black",
+    "name_ja": "ポケットモンスター ブラック",
+    "name_en": "Pokémon Black",
+    "platform": "DS",
+    "releaseDate_jp": "2010-09-18",
+    "releaseDate_us": "2011-03-06"
+  },
+  {
+    "id": "white",
+    "name_ja": "ポケットモンスター ホワイト",
+    "name_en": "Pokémon White",
+    "platform": "DS",
+    "releaseDate_jp": "2010-09-18",
+    "releaseDate_us": "2011-03-06"
+  },
+  {
+    "id": "black2",
+    "name_ja": "ポケットモンスター ブラック2",
+    "name_en": "Pokémon Black 2",
+    "platform": "DS",
+    "releaseDate_jp": "2012-06-23",
+    "releaseDate_us": "2012-10-07"
+  },
+  {
+    "id": "white2",
+    "name_ja": "ポケットモンスター ホワイト2",
+    "name_en": "Pokémon White 2",
+    "platform": "DS",
+    "releaseDate_jp": "2012-06-23",
+    "releaseDate_us": "2012-10-07"
+  },
+  {
+    "id": "x",
+    "name_ja": "ポケットモンスター X",
+    "name_en": "Pokémon X",
+    "platform": "3DS",
+    "releaseDate_jp": "2013-10-12",
+    "releaseDate_us": "2013-10-12"
+  },
+  {
+    "id": "y",
+    "name_ja": "ポケットモンスター Y",
+    "name_en": "Pokémon Y",
+    "platform": "3DS",
+    "releaseDate_jp": "2013-10-12",
+    "releaseDate_us": "2013-10-12"
+  },
+  {
+    "id": "omegaruby",
+    "name_ja": "ポケットモンスター オメガルビー",
+    "name_en": "Pokémon Omega Ruby",
+    "platform": "3DS",
+    "releaseDate_jp": "2014-11-21",
+    "releaseDate_us": "2014-11-21"
+  },
+  {
+    "id": "alphasapphire",
+    "name_ja": "ポケットモンスター アルファサファイア",
+    "name_en": "Pokémon Alpha Sapphire",
+    "platform": "3DS",
+    "releaseDate_jp": "2014-11-21",
+    "releaseDate_us": "2014-11-21"
+  },
+  {
+    "id": "sun",
+    "name_ja": "ポケットモンスター サン",
+    "name_en": "Pokémon Sun",
+    "platform": "3DS",
+    "releaseDate_jp": "2016-11-18",
+    "releaseDate_us": "2016-11-18"
+  },
+  {
+    "id": "moon",
+    "name_ja": "ポケットモンスター ムーン",
+    "name_en": "Pokémon Moon",
+    "platform": "3DS",
+    "releaseDate_jp": "2016-11-18",
+    "releaseDate_us": "2016-11-18"
+  },
+  {
+    "id": "ultra_sun",
+    "name_ja": "ポケットモンスター ウルトラサン",
+    "name_en": "Pokémon Ultra Sun",
+    "platform": "3DS",
+    "releaseDate_jp": "2017-11-17",
+    "releaseDate_us": "2017-11-17"
+  },
+  {
+    "id": "ultra_moon",
+    "name_ja": "ポケットモンスター ウルトラムーン",
+    "name_en": "Pokémon Ultra Moon",
+    "platform": "3DS",
+    "releaseDate_jp": "2017-11-17",
+    "releaseDate_us": "2017-11-17"
+  },
+  {
+    "id": "lets_go_pikachu",
+    "name_ja": "ポケットモンスター Let's Go! ピカチュウ",
+    "name_en": "Pokémon Let's Go, Pikachu!",
+    "platform": "Switch",
+    "releaseDate_jp": "2018-11-16",
+    "releaseDate_us": "2018-11-16"
+  },
+  {
+    "id": "lets_go_eevee",
+    "name_ja": "ポケットモンスター Let's Go! イーブイ",
+    "name_en": "Pokémon Let's Go, Eevee!",
+    "platform": "Switch",
+    "releaseDate_jp": "2018-11-16",
+    "releaseDate_us": "2018-11-16"
+  },
+  {
+    "id": "sword",
+    "name_ja": "ポケットモンスター ソード",
+    "name_en": "Pokémon Sword",
+    "platform": "Switch",
+    "releaseDate_jp": "2019-11-15",
+    "releaseDate_us": "2019-11-15",
+    "dlc": [
+      { "id": "ioa", "name_ja": "鎧の孤島", "releaseDate_jp": "2020-06-17" },
+      { "id": "ct", "name_ja": "冠の雪原", "releaseDate_jp": "2020-10-22" }
+    ]
+  },
+  {
+    "id": "shield",
+    "name_ja": "ポケットモンスター シールド",
+    "name_en": "Pokémon Shield",
+    "platform": "Switch",
+    "releaseDate_jp": "2019-11-15",
+    "releaseDate_us": "2019-11-15",
+    "dlc": [
+      { "id": "ioa", "name_ja": "鎧の孤島", "releaseDate_jp": "2020-06-17" },
+      { "id": "ct", "name_ja": "冠の雪原", "releaseDate_jp": "2020-10-22" }
+    ]
+  },
+  {
+    "id": "brilliant_diamond",
+    "name_ja": "ポケットモンスター ブリリアントダイヤモンド",
+    "name_en": "Pokémon Brilliant Diamond",
+    "platform": "Switch",
+    "releaseDate_jp": "2021-11-19",
+    "releaseDate_us": "2021-11-19"
+  },
+  {
+    "id": "shining_pearl",
+    "name_ja": "ポケットモンスター シャイニングパール",
+    "name_en": "Pokémon Shining Pearl",
+    "platform": "Switch",
+    "releaseDate_jp": "2021-11-19",
+    "releaseDate_us": "2021-11-19"
+  },
+  {
+    "id": "legends_arceus",
+    "name_ja": "Pokémon LEGENDS アルセウス",
+    "name_en": "Pokémon Legends: Arceus",
+    "platform": "Switch",
+    "releaseDate_jp": "2022-01-28",
+    "releaseDate_us": "2022-01-28"
+  },
+  {
+    "id": "scarlet",
+    "name_ja": "ポケットモンスター スカーレット",
+    "name_en": "Pokémon Scarlet",
+    "platform": "Switch",
+    "releaseDate_jp": "2022-11-18",
+    "releaseDate_us": "2022-11-18",
+    "dlc": [
+      { "id": "kitakami", "name_ja": "碧の仮面", "releaseDate_jp": "2023-09-13" },
+      { "id": "blueberry", "name_ja": "藍の円盤", "releaseDate_jp": "2023-12-14" }
+    ]
+  },
+  {
+    "id": "violet",
+    "name_ja": "ポケットモンスター バイオレット",
+    "name_en": "Pokémon Violet",
+    "platform": "Switch",
+    "releaseDate_jp": "2022-11-18",
+    "releaseDate_us": "2022-11-18",
+    "dlc": [
+      { "id": "kitakami", "name_ja": "碧の仮面", "releaseDate_jp": "2023-09-13" },
+      { "id": "blueberry", "name_ja": "藍の円盤", "releaseDate_jp": "2023-12-14" }
+    ]
+  },
+  {
+    "id": "legends_za",
+    "name_ja": "Pokémon LEGENDS Z-A",
+    "name_en": "Pokémon Legends: Z-A",
+    "platform": "Switch 2",
+    "releaseDate_jp": "2025-10-16",
+    "releaseDate_us": "2025-10-16",
+    "dlc": [
+      { "id": "m-dimension", "name_ja": "M次元ラッシュ", "releaseDate_jp": "2025-12-10" }
+    ]
+  },
+  {
+    "id": "poco_a_pokemon",
+    "name_ja": "ぽこ あ ポケモン",
+    "name_en": "Pokémon Pokopia",
+    "platform": "Switch 2",
+    "releaseDate_jp": "2026-03-05",
+    "releaseDate_us": null
+  },
+  {
+    "id": "pokemon_champions",
+    "name_ja": "Pokémon Champions",
+    "name_en": "Pokémon Champions",
+    "platform": "Switch / スマートフォン",
+    "releaseDate_jp": "2026-04-08",
+    "releaseDate_us": "2026-04-08"
+  }
+]

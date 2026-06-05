@@ -1,0 +1,479 @@
+[
+  {
+    "id": "lunchtime_mark",
+    "name_ja": "ひるどきのあかし",
+    "name_en": "Lunchtime Mark",
+    "category": "time",
+    "condition_ja": "11:00〜14:59に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "sleepy_time_mark",
+    "name_ja": "うたたねのあかし",
+    "name_en": "Sleepy-Time Mark",
+    "category": "time",
+    "condition_ja": "21:00〜3:59に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "dusk_mark",
+    "name_ja": "たそがれのあかし",
+    "name_en": "Dusk Mark",
+    "category": "time",
+    "condition_ja": "17:00〜19:59に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "dawn_mark",
+    "name_ja": "あかつきのあかし",
+    "name_en": "Dawn Mark",
+    "category": "time",
+    "condition_ja": "5:00〜7:59に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "cloudy_mark",
+    "name_ja": "どんてんのあかし",
+    "name_en": "Cloudy Mark",
+    "category": "weather",
+    "condition_ja": "曇りの天候中に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "rainy_mark",
+    "name_ja": "あめふりのあかし",
+    "name_en": "Rainy Mark",
+    "category": "weather",
+    "condition_ja": "雨の天候中に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "stormy_mark",
+    "name_ja": "いかづちのあかし",
+    "name_en": "Stormy Mark",
+    "category": "weather",
+    "condition_ja": "雷雨の天候中に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "snowy_mark",
+    "name_ja": "こうせつのあかし",
+    "name_en": "Snowy Mark",
+    "category": "weather",
+    "condition_ja": "雪の天候中に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "blizzard_mark",
+    "name_ja": "ふぶきのあかし",
+    "name_en": "Blizzard Mark",
+    "category": "weather",
+    "condition_ja": "吹雪の天候中に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "dry_mark",
+    "name_ja": "かんそうのあかし",
+    "name_en": "Dry Mark",
+    "category": "weather",
+    "condition_ja": "日照りの天候中に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "sandstorm_mark",
+    "name_ja": "すなあらしのあかし",
+    "name_en": "Sandstorm Mark",
+    "category": "weather",
+    "condition_ja": "砂嵐の天候中に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "misty_mark",
+    "name_ja": "きりのあかし",
+    "name_en": "Misty Mark",
+    "category": "weather",
+    "condition_ja": "霧の天候中に野生で出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "destiny_mark",
+    "name_ja": "うんめいのあかし",
+    "name_en": "Destiny Mark",
+    "category": "encounter",
+    "condition_ja": "非常に低確率でランダムに付与（約1/100）",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "fishing_mark",
+    "name_ja": "つりあげのあかし",
+    "name_en": "Fishing Mark",
+    "category": "encounter",
+    "condition_ja": "釣りで出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "curry_mark",
+    "name_ja": "カレーのあかし",
+    "name_en": "Curry Mark",
+    "category": "encounter",
+    "condition_ja": "キャンプでカレーを食べているところに出会う",
+    "introduced_gen": 8,
+    "games": ["sword", "shield"]
+  },
+  {
+    "id": "uncommon_mark",
+    "name_ja": "ときどきみかけるあかし",
+    "name_en": "Uncommon Mark",
+    "category": "encounter",
+    "condition_ja": "低確率でランダムに付与",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "rare_mark",
+    "name_ja": "みつけたあかし",
+    "name_en": "Rare Mark",
+    "category": "encounter",
+    "condition_ja": "さらに低確率でランダムに付与",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "rowdy_mark",
+    "name_ja": "やんちゃなあかし",
+    "name_en": "Rowdy Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "absent_minded_mark",
+    "name_ja": "ぼんやりしたあかし",
+    "name_en": "Absent-Minded Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "jittery_mark",
+    "name_ja": "びくびくしたあかし",
+    "name_en": "Jittery Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "excited_mark",
+    "name_ja": "うきうきしたあかし",
+    "name_en": "Excited Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "charismatic_mark",
+    "name_ja": "カリスマなあかし",
+    "name_en": "Charismatic Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "calmness_mark",
+    "name_ja": "れいせいなあかし",
+    "name_en": "Calmness Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "intense_mark",
+    "name_ja": "じょうねつのあかし",
+    "name_en": "Intense Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "zoned_out_mark",
+    "name_ja": "ぼーっとしたあかし",
+    "name_en": "Zoned-Out Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "joyful_mark",
+    "name_ja": "ごきげんなあかし",
+    "name_en": "Joyful Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "angry_mark",
+    "name_ja": "おこりんぼのあかし",
+    "name_en": "Angry Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "smiley_mark",
+    "name_ja": "にこにこのあかし",
+    "name_en": "Smiley Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "teary_mark",
+    "name_ja": "めそめそしたあかし",
+    "name_en": "Teary Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "upbeat_mark",
+    "name_ja": "わくわくしたあかし",
+    "name_en": "Upbeat Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "peeved_mark",
+    "name_ja": "ふんぬのあかし",
+    "name_en": "Peeved Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "intellectual_mark",
+    "name_ja": "ちてきなあかし",
+    "name_en": "Intellectual Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "ferocious_mark",
+    "name_ja": "きょうぼうなあかし",
+    "name_en": "Ferocious Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "crafty_mark",
+    "name_ja": "したたかなあかし",
+    "name_en": "Crafty Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "scowling_mark",
+    "name_ja": "きむずかしいあかし",
+    "name_en": "Scowling Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "kindly_mark",
+    "name_ja": "やさしいあかし",
+    "name_en": "Kindly Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "flustered_mark",
+    "name_ja": "あわてたあかし",
+    "name_en": "Flustered Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "pumped_up_mark",
+    "name_ja": "きあいじゅうぶんのあかし",
+    "name_en": "Pumped-Up Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "zero_energy_mark",
+    "name_ja": "きぬけしたあかし",
+    "name_en": "Zero Energy Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "prideful_mark",
+    "name_ja": "ほこらしげなあかし",
+    "name_en": "Prideful Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "unsure_mark",
+    "name_ja": "ふあんそうなあかし",
+    "name_en": "Unsure Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "humble_mark",
+    "name_ja": "けんそんなあかし",
+    "name_en": "Humble Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "thorny_mark",
+    "name_ja": "とげとげしたあかし",
+    "name_en": "Thorny Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "vigor_mark",
+    "name_ja": "げんきいっぱいのあかし",
+    "name_en": "Vigor Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "slump_mark",
+    "name_ja": "ふちょうなあかし",
+    "name_en": "Slump Mark",
+    "category": "personality",
+    "condition_ja": "ランダム性格あかし",
+    "introduced_gen": 8,
+    "games": ["sword", "shield", "scarlet", "violet"]
+  },
+  {
+    "id": "itemfinder_mark",
+    "name_ja": "ダウジングのあかし",
+    "name_en": "Itemfinder Mark",
+    "category": "special",
+    "condition_ja": "ダウジングマシンで発見したポケモン",
+    "introduced_gen": 8,
+    "games": ["legends_arceus"]
+  },
+  {
+    "id": "gourmand_mark",
+    "name_ja": "しょくつうのあかし",
+    "name_en": "Gourmand Mark",
+    "category": "special",
+    "condition_ja": "食べ物を食べているところを観察して出会う",
+    "introduced_gen": 8,
+    "games": ["legends_arceus"]
+  },
+  {
+    "id": "partner_mark",
+    "name_ja": "あいぼうのあかし",
+    "name_en": "Partner Mark",
+    "category": "special",
+    "condition_ja": "ヒスイ図鑑完成後に特別なポケモンに付与",
+    "introduced_gen": 8,
+    "games": ["legends_arceus"]
+  },
+  {
+    "id": "alpha_mark",
+    "name_ja": "ヌシのあかし",
+    "name_en": "Alpha Mark",
+    "category": "special",
+    "condition_ja": "ヌシポケモン（アルファポケモン）",
+    "introduced_gen": 8,
+    "games": ["legends_arceus"]
+  },
+  {
+    "id": "mightiest_mark",
+    "name_ja": "さいきょうのあかし",
+    "name_en": "Mightiest Mark",
+    "category": "special",
+    "condition_ja": "7スターのテラレイドバトルで倒したポケモン",
+    "introduced_gen": 9,
+    "games": ["scarlet", "violet"]
+  },
+  {
+    "id": "titan_mark",
+    "name_ja": "ぬしのあかし",
+    "name_en": "Titan Mark",
+    "category": "special",
+    "condition_ja": "ヌシポケモン（SV）",
+    "introduced_gen": 9,
+    "games": ["scarlet", "violet"]
+  },
+  {
+    "id": "mini_mark",
+    "name_ja": "ちいさなあかし",
+    "name_en": "Mini Mark",
+    "category": "special",
+    "condition_ja": "種族内で最小サイズのポケモン",
+    "introduced_gen": 9,
+    "games": ["scarlet", "violet"]
+  },
+  {
+    "id": "jumbo_mark",
+    "name_ja": "おおきなあかし",
+    "name_en": "Jumbo Mark",
+    "category": "special",
+    "condition_ja": "種族内で最大サイズのポケモン",
+    "introduced_gen": 9,
+    "games": ["scarlet", "violet"]
+  }
+]

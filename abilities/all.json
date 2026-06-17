@@ -2196,5 +2196,19 @@
     "name_en": "Popping Habanero",
     "description": "技のダメージを受けると、相手をやけど状態にする。",
     "generation": 10
+  },
+  {
+    "id": 315,
+    "name_ja": "うなぎのぼり",
+    "name_en": "",
+    "description": "",
+    "generation": 10
+  },
+  {
+    "id": 316,
+    "name_ja": "ほのおのたてがみ",
+    "name_en": "",
+    "description": "",
+    "generation": 10
   }
 ]

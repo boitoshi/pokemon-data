@@ -587,7 +587,7 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "",
+        "ability": "エレキメイカー",
         "required_item": "ライチュウナイトX",
         "available_in": [
           "M-dimension"
@@ -601,7 +601,7 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "",
+        "ability": "ノーガード",
         "required_item": "ライチュウナイトY",
         "available_in": [
           "M-dimension"
@@ -6704,7 +6704,7 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "",
+        "ability": "あまのじゃく",
         "required_item": "M次元",
         "available_in": [
           "M-dimension"
@@ -8622,6 +8622,23 @@
     "types": [
       "むし",
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガペンドラー",
+        "form_name_en": "",
+        "category": "mega",
+        "types": [
+          "むし",
+          "どく"
+        ],
+        "ability": "シェルアーマー",
+        "required_item": "ペンドラナイト",
+        "available_in": [
+          "M-dimension"
+        ]
+      }
     ]
   },
   "546": {
@@ -8841,7 +8858,7 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "",
+        "ability": "いかく",
         "required_item": "ズルズキナイト",
         "available_in": [
           "ZA",
@@ -9429,7 +9446,7 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "",
+        "ability": "うなぎのぼり",
         "required_item": "シビルドナイト",
         "available_in": [
           "ZA",
@@ -10330,7 +10347,7 @@
           "ノーマル"
         ],
         "category": "mega",
-        "ability": "",
+        "ability": "ほのおのたてがみ",
         "required_item": "カエンジシナイト",
         "available_in": [
           "ZA",
@@ -10595,7 +10612,7 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "",
+        "ability": "あまのじゃく",
         "required_item": "カラマネロナイト",
         "available_in": [
           "ZA",
@@ -10637,7 +10654,7 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "",
+        "ability": "かたいツメ",
         "required_item": "ガメノデスナイト",
         "available_in": [
           "ZA",
@@ -10679,7 +10696,7 @@
           "ドラゴン"
         ],
         "category": "mega",
-        "ability": "",
+        "ability": "さいせいりょく",
         "required_item": "ドラミドナイト",
         "available_in": [
           "ZA",
@@ -13500,7 +13517,7 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "",
+        "ability": "まけんき",
         "required_item": "",
         "available_in": [
           "ZA"

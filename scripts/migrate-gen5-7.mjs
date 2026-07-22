@@ -245,6 +245,11 @@ const FIX_MAP = {
   distributionMethod: {
     "Poké Ball Plus": "モンスターボール Plus", // mappings/distribution-methods.json の和訳に統一（対象07138）
   },
+  // Fable5リボン監査由来: mappings/ribbons.json の正典表記へ統一（ribbons配列は要素単位で適用）
+  ribbon: {
+    "おもいでリボン": "メモリアルリボン", // 全世代・47件想定
+    "チャンピオンリボン": "バトルチャンプリボン", // 5件想定＝05101/05102/06014/06191/07002
+  },
 };
 
 function applyFixMap(field, value) {
@@ -299,7 +304,9 @@ function convertEntry(entry) {
 
   if (Array.isArray(entry.moves) && entry.moves.length > 0) out.moves = entry.moves;
   if (Array.isArray(entry.specialMoves) && entry.specialMoves.length > 0) out.specialMoves = entry.specialMoves;
-  if (Array.isArray(entry.ribbons) && entry.ribbons.length > 0) out.ribbons = entry.ribbons;
+  if (Array.isArray(entry.ribbons) && entry.ribbons.length > 0) {
+    out.ribbons = entry.ribbons.map((r) => applyFixMap("ribbon", r));
+  }
 
   Object.assign(out, convertIvs(entry));
 

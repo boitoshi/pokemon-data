@@ -19,7 +19,13 @@
   "Europe": "欧州",
   "Korea": "韓国",
   "Taiwan": "台湾",
-  "Australia": "欧州",
-  "Southeast Asia": "台湾",
-  "Hong Kong": "台湾"
+  "Australia": "豪州",
+  "Southeast Asia": "東南アジア",
+  "Hong Kong": "香港",
+  "Singapore": "シンガポール",
+  "Asia": "アジア",
+  "Mainland China": "中国本土",
+  "Philippines": "フィリピン",
+  "France": "フランス",
+  "United States": "アメリカ"
 }

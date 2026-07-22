@@ -923,7 +923,7 @@
       ],
       "level": 100,
       "nature": "ランダム",
-      "ability": "ＡＲシステム",
+      "ability": "ARシステム",
       "ball": "プレシャスボール",
       "metLocation": "すてきなばしょ",
       "heldItem": "きんのおうかん",
@@ -959,7 +959,7 @@
       ],
       "level": 100,
       "nature": "ランダム",
-      "ability": "ＡＲシステム",
+      "ability": "ARシステム",
       "ball": "プレシャスボール",
       "metLocation": "すてきなばしょ",
       "heldItem": "きんのおうかん",
@@ -1911,7 +1911,7 @@
         "lets_go_eevee"
       ],
       "eventName": "モンスターボール Plus特典 ミュウ",
-      "distributionMethod": "Poké Ball Plus",
+      "distributionMethod": "モンスターボール Plus",
       "startDate": "2018-11-16",
       "region": [
         "全世界"

@@ -71,7 +71,7 @@
         "level": { "type": "integer", "minimum": 1, "maximum": 100 },
         "levelNote": { "type": "string", "description": "非数値レベル（例: 'Lv.50相当(非表示)'）の受け皿" },
         "gender": { "type": "string" },
-        "nature": { "type": "string", "description": "mappings/natures.json の name_ja に存在すること" },
+        "nature": { "type": "string", "description": "mappings/natures.json の name_ja に存在すること。「ランダム」＝固定ネイチャー無しと判明した場合の許容値（省略＝不明とは区別）" },
         "ability": { "type": "string", "description": "abilities/all.json の name_ja に存在すること" },
         "ball": { "type": "string", "description": "mappings/balls.json の値集合に存在すること" },
         "metLocation": { "type": "string" },

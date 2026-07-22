@@ -195,7 +195,16 @@ function convertIvs(entry) {
     const ivs = {};
     for (const k of ivKeys) {
       const v = entry[sourceKeys[k]];
-      if (v !== null && v !== undefined) ivs[k] = Number(v);
+      if (v !== null && v !== undefined) {
+        const num = Number(v);
+        // Fable5レビュー由来のハードニング: サイレントにNaN→キー欠落させず文脈付きでthrow
+        if (Number.isNaN(num)) {
+          throw new Error(
+            `convertIvs: ${sourceKeys[k]} の値 "${v}" が数値に変換できません (managementId=${entry.managementId})`
+          );
+        }
+        ivs[k] = num;
+      }
     }
     return { ivs };
   }
@@ -215,8 +224,35 @@ function convertPokemonName(rawName) {
   return { pokemonName: rawName };
 }
 
-function convertFlag(rawValue) {
-  return rawValue !== "" ? true : undefined;
+// Fable5レビュー由来のハードニング: 「非空なら無条件true」から明示ホワイトリストへ
+// gen8のキョダイマックス等、実データ投入前の想定外表記を静かに拾わないための事故防止
+const FLAG_FALSY_VALUES = new Set(["", "なし", "無", "×"]);
+const FLAG_TRUTHY_VALUES = new Set(["あり"]);
+
+function convertFlag(rawValue, fieldName, managementId) {
+  if (FLAG_FALSY_VALUES.has(rawValue)) return undefined;
+  if (FLAG_TRUTHY_VALUES.has(rawValue)) return true;
+  throw new Error(`未知の ${fieldName} 値 "${rawValue}" (managementId=${managementId})`);
+}
+
+// ---- Fable5レビュー由来のデータ正規化 ----
+// 変換元データの表記ゆれ・誤字をフィールドごとにピンポイントで正すマップ。
+// 「いかく/だっぴ」（07150、複数特性の未確定表記）はP2でスキーマ対応するまで意図的に対象外。
+const FIX_MAP = {
+  ability: {
+    "ＡＲシステム": "ARシステム", // 全角→半角。abilities/all.json の name_ja 正典表記に合わせる（対象07027/07028）
+  },
+  distributionMethod: {
+    "Poké Ball Plus": "モンスターボール Plus", // mappings/distribution-methods.json の和訳に統一（対象07138）
+  },
+};
+
+function applyFixMap(field, value) {
+  const map = FIX_MAP[field];
+  if (map && Object.prototype.hasOwnProperty.call(map, value)) {
+    return map[value];
+  }
+  return value;
 }
 
 function convertEntry(entry) {
@@ -231,7 +267,11 @@ function convertEntry(entry) {
 
   out.eventName = entry.eventName;
 
-  if (entry.distributionMethod !== "") out.distributionMethod = entry.distributionMethod;
+  // Fable5レビュー由来のハードニング: schemaの required と整合させ、省略でなくthrowする
+  if (entry.distributionMethod === "") {
+    throw new Error(`distributionMethod が空です (managementId=${entry.managementId})`);
+  }
+  out.distributionMethod = applyFixMap("distributionMethod", entry.distributionMethod);
   if (entry.distributionLocation !== "") out.distributionLocation = entry.distributionLocation;
 
   out.startDate = entry.startDate;
@@ -244,7 +284,7 @@ function convertEntry(entry) {
 
   if (entry.gender !== "") out.gender = entry.gender;
   if (entry.nature !== "") out.nature = entry.nature;
-  if (entry.ability !== "") out.ability = entry.ability;
+  if (entry.ability !== "") out.ability = applyFixMap("ability", entry.ability);
   if (entry.ball !== "") out.ball = entry.ball;
   if (entry.metLocation !== "") out.metLocation = entry.metLocation;
   if (entry.heldItem !== "") out.heldItem = entry.heldItem;
@@ -265,9 +305,9 @@ function convertEntry(entry) {
 
   if (entry.evs !== "") out.evs = entry.evs;
 
-  const gigantamax = convertFlag(entry.gigantamax);
+  const gigantamax = convertFlag(entry.gigantamax, "gigantamax", entry.managementId);
   if (gigantamax) out.gigantamax = gigantamax;
-  const alpha = convertFlag(entry.alpha);
+  const alpha = convertFlag(entry.alpha, "alpha", entry.managementId);
   if (alpha) out.alpha = alpha;
 
   if (entry.password !== "") out.password = entry.password;

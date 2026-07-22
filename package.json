@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "validate": "node scripts/validate-data.mjs"
+    "validate": "node scripts/validate-data.mjs && node scripts/validate-distributions.mjs",
+    "validate:master": "node scripts/validate-data.mjs",
+    "validate:distributions": "node scripts/validate-distributions.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.15.17"

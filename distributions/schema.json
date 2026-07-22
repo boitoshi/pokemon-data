@@ -1,0 +1,124 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://pokebros.net/schemas/distributions.json",
+  "title": "配信ポケモン正本（世代別ファイル）",
+  "description": "配信イベントで配布されたポケモン個体の正本。distributions/gen5.json〜gen9.json と champions.json が本スキーマに従う。マスターデータ（pokemon/all.json・games/titles.json 等）をキー/値で参照し、名前等の重複は最小化する。generation はファイル自身が表すため各エントリには持たない（L3ビルドが注入する）。",
+  "type": "object",
+  "required": ["schemaVersion", "dataset", "entries"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "dataset": {
+      "type": "string",
+      "description": "gen5 / gen6 / gen7 / gen8 / gen9 / champions",
+      "pattern": "^(gen[1-9]|champions)$"
+    },
+    "generation": {
+      "type": ["integer", "null"],
+      "description": "このファイルの世代。champions は null（L3が generation:0 を注入）"
+    },
+    "provenance": {
+      "type": "string",
+      "description": "このデータの主な出所（例: 'scraper:bulbapedia', 'spreadsheet-migration', 'hand'）"
+    },
+    "entries": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": ["id", "dexNo", "pokemonName", "games", "eventName", "distributionMethod", "startDate"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "配信レコードの管理ID。ファイル内一意。公開URL /pokemon/{id} に使われるため既存IDは凍結・改名禁止。新規IDは世代プレフィックス（05〜09 / CH）に従う。"
+        },
+        "dexNo": { "type": "integer", "minimum": 1, "description": "全国図鑑No。pokemon/all.json の no を参照" },
+        "pokemonName": { "type": "string", "description": "種族名（フォルム抜き）。pokemon/all.json の name_ja と一致すること" },
+        "form": { "type": "string", "description": "フォルム名（例: ヒスイのすがた / ボールのもよう）。無フォルムでは省略" },
+        "games": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string" },
+          "description": "games/titles.json の id 配列（例 [\"sun\",\"moon\"]、champions は [\"pokemon_champions\"]）"
+        },
+        "eventName": { "type": "string" },
+        "event": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "大会・映画等のイベント属性。tournament系フィールドをここに畳む",
+          "properties": {
+            "kind": { "enum": ["movie", "wcs", "pjcs", "regional", "champions", "collab", "other"] },
+            "year": { "type": "integer" },
+            "schedule": { "type": "string" },
+            "location": { "type": "string" },
+            "winner": { "type": "string" },
+            "winnerX": { "type": "string" }
+          }
+        },
+        "distributionMethod": { "type": "string", "description": "mappings/distribution-methods.json の値集合に存在すること" },
+        "distributionLocation": { "type": "string" },
+        "startDate": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "endDate": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "省略＝無期限または未定" },
+        "region": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "配布地域の配列。mappings/regions.json の値集合に存在すること"
+        },
+        "level": { "type": "integer", "minimum": 1, "maximum": 100 },
+        "levelNote": { "type": "string", "description": "非数値レベル（例: 'Lv.50相当(非表示)'）の受け皿" },
+        "gender": { "type": "string" },
+        "nature": { "type": "string", "description": "mappings/natures.json の name_ja に存在すること" },
+        "ability": { "type": "string", "description": "abilities/all.json の name_ja に存在すること" },
+        "ball": { "type": "string", "description": "mappings/balls.json の値集合に存在すること" },
+        "metLocation": { "type": "string" },
+        "heldItem": { "type": "string" },
+        "teraType": { "type": "string" },
+        "shiny": { "enum": ["fixed", "conditional"], "description": "fixed=確定色違い / conditional=条件次第。通常色は省略" },
+        "ot": {
+          "type": "object",
+          "additionalProperties": { "type": "string" },
+          "description": "言語キー→OT名（JPN/ENG/SPA/FRE/GER/ITA/KOR/CHS/CHT/SPA_EU/SPA_LA）"
+        },
+        "otFromPlayer": { "const": true, "description": "OTがプレイヤー自身（ot は持たない）" },
+        "trainerId": { "type": "string", "description": "必ず文字列（先頭ゼロ保護）" },
+        "moves": { "type": "array", "items": { "type": "string" } },
+        "specialMoves": { "type": "array", "items": { "type": "string" } },
+        "ribbons": { "type": "array", "items": { "type": "string" }, "description": "mappings/ribbons.json の値集合に存在すること" },
+        "ivs": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "確定個体値のみ。ivsGuaranteed とは排他",
+          "properties": {
+            "hp": { "type": "integer", "minimum": 0, "maximum": 31 },
+            "atk": { "type": "integer", "minimum": 0, "maximum": 31 },
+            "def": { "type": "integer", "minimum": 0, "maximum": 31 },
+            "spa": { "type": "integer", "minimum": 0, "maximum": 31 },
+            "spd": { "type": "integer", "minimum": 0, "maximum": 31 },
+            "spe": { "type": "integer", "minimum": 0, "maximum": 31 }
+          }
+        },
+        "ivsGuaranteed": { "type": "integer", "minimum": 0, "maximum": 6, "description": "確定V個数（例: 3V→3）。ivs とは排他。省略かつ ivs 無し＝ランダム" },
+        "evs": { "type": "string", "description": "努力値（例: 'H36/B4/C214/D28/S228'）。構造化は将来" },
+        "gigantamax": { "const": true },
+        "alpha": { "const": true, "description": "オヤブン（LA/ZA）" },
+        "password": { "type": "string" },
+        "notes": { "type": "string" },
+        "postUrl": { "type": "string" },
+        "source": {
+          "type": "object",
+          "required": ["kind"],
+          "additionalProperties": false,
+          "properties": {
+            "url": { "type": "string" },
+            "kind": { "enum": ["bulbapedia", "official", "self"] },
+            "note": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

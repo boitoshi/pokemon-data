@@ -1,0 +1,7965 @@
+{
+  "schemaVersion": 1,
+  "dataset": "gen6",
+  "generation": 6,
+  "provenance": "scraper:bulbapedia",
+  "entries": [
+    {
+      "id": "06001",
+      "dexNo": 255,
+      "pokemonName": "アチャモ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "アチャモ　プレゼント",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2013-10-12",
+      "endDate": "2014-01-15",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "かそく",
+      "ball": "プレシャスボール",
+      "metLocation": "インターネットでのプレゼント",
+      "heldItem": "バシャーモナイト",
+      "ot": {
+        "JPN": "XY"
+      },
+      "trainerId": "10123",
+      "moves": [
+        "ひっかく",
+        "なきごえ",
+        "きあいだめ",
+        "ひのこ"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ]
+    },
+    {
+      "id": "06002",
+      "dexNo": 666,
+      "pokemonName": "ビビヨン",
+      "form": "ファンシーなもよう",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ファンシーなもようの　ビビヨン",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2014-07-08",
+      "endDate": "2014-07-31",
+      "region": [
+        "日本"
+      ],
+      "level": 12,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "りんぷん",
+      "ball": "プレシャスボール",
+      "metLocation": "インターネットでのプレゼント",
+      "ot": {
+        "JPN": "GTS"
+      },
+      "trainerId": "00108",
+      "moves": [
+        "かぜおこし",
+        "ひかりのかべ",
+        "むしのていこう",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "06003",
+      "dexNo": 374,
+      "pokemonName": "ダンバル",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいのダンバル　プレゼント",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2014-11-21",
+      "endDate": "2015-01-14",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "インターネットでのプレゼント",
+      "heldItem": "メタグロスナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ダイゴ"
+      },
+      "trainerId": "11214",
+      "moves": [
+        "てかげん",
+        "アイアンヘッド",
+        "しねんのずつき",
+        "てっぺき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06004",
+      "dexNo": 371,
+      "pokemonName": "タツベイ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガシンカするポケモンの　タマゴ（タツベイ）",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2015-02-21",
+      "endDate": "2015-03-01",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いしあたま",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "孵化した人のもの"
+      },
+      "trainerId": "(Hatcher's)",
+      "moves": [
+        "いかり",
+        "あばれる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "メガキャンペーン第2弾記念。ポケモンセンター店頭のニンテンドーゾーンで5種のタマゴをランダム配布（重複あり）。孵化した個体のOT/IDは受け取った人のもの。"
+    },
+    {
+      "id": "06005",
+      "dexNo": 333,
+      "pokemonName": "チルット",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガシンカするポケモンの　タマゴ（チルット）",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2015-02-21",
+      "endDate": "2015-03-01",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ノーてんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "孵化した人のもの"
+      },
+      "trainerId": "(Hatcher's)",
+      "moves": [
+        "つつく",
+        "なきごえ",
+        "ハイパーボイス"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "メガキャンペーン第2弾記念。ポケモンセンター店頭のニンテンドーゾーンで5種のタマゴをランダム配布（重複あり）。孵化した個体のOT/IDは受け取った人のもの。"
+    },
+    {
+      "id": "06006",
+      "dexNo": 322,
+      "pokemonName": "ドンメル",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガシンカするポケモンの　タマゴ（ドンメル）",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2015-02-21",
+      "endDate": "2015-03-01",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "たんじゅん",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "孵化した人のもの"
+      },
+      "trainerId": "(Hatcher's)",
+      "moves": [
+        "なきごえ",
+        "たいあたり",
+        "アイアンヘッド"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "メガキャンペーン第2弾記念。ポケモンセンター店頭のニンテンドーゾーンで5種のタマゴをランダム配布（重複あり）。孵化した個体のOT/IDは受け取った人のもの。"
+    },
+    {
+      "id": "06007",
+      "dexNo": 318,
+      "pokemonName": "キバニア",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガシンカするポケモンの　タマゴ（キバニア）",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2015-02-21",
+      "endDate": "2015-03-01",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "かそく",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "孵化した人のもの"
+      },
+      "trainerId": "(Hatcher's)",
+      "moves": [
+        "にらみつける",
+        "かみつく",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "メガキャンペーン第2弾記念。ポケモンセンター店頭のニンテンドーゾーンで5種のタマゴをランダム配布（重複あり）。孵化した個体のOT/IDは受け取った人のもの。"
+    },
+    {
+      "id": "06008",
+      "dexNo": 280,
+      "pokemonName": "ラルトス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガシンカするポケモンの　タマゴ（ラルトス）",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2015-02-21",
+      "endDate": "2015-03-01",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "テレパシー",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "孵化した人のもの"
+      },
+      "trainerId": "(Hatcher's)",
+      "moves": [
+        "なきごえ",
+        "アンコール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "メガキャンペーン第2弾記念。ポケモンセンター店頭のニンテンドーゾーンで5種のタマゴをランダム配布（重複あり）。孵化した個体のOT/IDは受け取った人のもの。"
+    },
+    {
+      "id": "06009",
+      "dexNo": 674,
+      "pokemonName": "ヤンチャム",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ヤンチャム　プレゼント",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2015-08-17",
+      "endDate": "2015-08-23",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "かたやぶり",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "くろいメガネ",
+      "ot": {
+        "JPN": "セレナ"
+      },
+      "trainerId": "08175",
+      "moves": [
+        "つっぱり",
+        "ストーンエッジ",
+        "あくのはどう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06010",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ピカチュウ　プレゼント",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2015-08-24",
+      "endDate": "2015-08-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "08245",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06011",
+      "dexNo": 381,
+      "pokemonName": "ラティオス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ラティオス　プレゼント",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2015-08-31",
+      "endDate": "2015-09-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ラティオスナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "08315",
+      "moves": [
+        "りゅうのはどう",
+        "ラスターパージ",
+        "サイコキネシス",
+        "いやしのはどう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06012",
+      "dexNo": 249,
+      "pokemonName": "ルギア",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ルギア　プレゼント",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2015-09-07",
+      "endDate": "2015-09-13",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "おくびょう",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "たべのこし",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "09075",
+      "moves": [
+        "エアロブラスト",
+        "ハイドロポンプ",
+        "ドラゴンダイブ",
+        "れいとうビーム"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06013",
+      "dexNo": 710,
+      "pokemonName": "バケッチャ",
+      "form": "とくだいサイズ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ハロウィンの　バケッチャ　プレゼント",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2015-10-10",
+      "endDate": "2015-11-01",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ものひろい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "10105",
+      "moves": [
+        "ハロウィン",
+        "おどろかす",
+        "こわいかお",
+        "かげうち"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06014",
+      "dexNo": 248,
+      "pokemonName": "バンギラス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "チャンピオンの　バンギラス",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2015-11-07",
+      "endDate": "2015-12-06",
+      "region": [
+        "日本"
+      ],
+      "level": 55,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "すなおこし",
+      "ball": "プレシャスボール",
+      "metLocation": "7ばんどうろ",
+      "heldItem": "いのちのたま",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ヤミらみこ"
+      },
+      "trainerId": "03866",
+      "moves": [
+        "かみくだく",
+        "いわなだれ",
+        "けたぐり",
+        "まもる"
+      ],
+      "ribbons": [
+        "チャンピオンリボン"
+      ]
+    },
+    {
+      "id": "06015",
+      "dexNo": 719,
+      "pokemonName": "ディアンシー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいのディアンシー　プレゼント",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2015-12-12",
+      "endDate": "2015-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ノーマルジュエル",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "12125",
+      "moves": [
+        "ダイヤストーム",
+        "ムーンフォース",
+        "リフレクター",
+        "おんがえし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06016",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ジャービスの　いろちがいのゲンガー",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2016-07-30",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画16",
+      "heldItem": "ゲンガナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ジャービス"
+      },
+      "trainerId": "07096",
+      "moves": [
+        "くろいまなざし",
+        "さいみんじゅつ",
+        "サイコキネシス",
+        "はかいこうせん"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06017",
+      "dexNo": 445,
+      "pokemonName": "ガブリアス",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ガブリアス　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2013-11-15",
+      "endDate": "2014-08-29",
+      "region": [
+        "日本"
+      ],
+      "level": 48,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "すながくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "りゅうのキバ",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "11153",
+      "moves": [
+        "りゅうせいぐん",
+        "ドラゴンクロー",
+        "あなをほる",
+        "かみくだく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06018",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "y"
+      ],
+      "eventName": "リザードナイトＸを　もった　リザードン",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-03-15",
+      "endDate": "2014-08-29",
+      "region": [
+        "日本"
+      ],
+      "level": 36,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "リザードナイトＸ",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "03154",
+      "moves": [
+        "ほのおのキバ",
+        "エアスラッシュ",
+        "ドラゴンクロー",
+        "りゅうのいかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06019",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "x"
+      ],
+      "eventName": "リザードナイトＹを　もった　リザードン",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-03-15",
+      "endDate": "2014-08-29",
+      "region": [
+        "日本"
+      ],
+      "level": 36,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "リザードナイトＹ",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "03154",
+      "moves": [
+        "ほのおのキバ",
+        "はじけるほのお",
+        "エアスラッシュ",
+        "れんごく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06020",
+      "dexNo": 491,
+      "pokemonName": "ダークライ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ダークライ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-04-19",
+      "endDate": "2014-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ナイトメア",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画14",
+      "heldItem": "ナゾのみ",
+      "ot": {
+        "JPN": "ふしぎのくに"
+      },
+      "trainerId": "04194",
+      "moves": [
+        "ダークホール",
+        "ゆめくい",
+        "あくのはどう",
+        "ゴーストダイブ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06021",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "y"
+      ],
+      "eventName": "リザードナイトＸを　もった　リザードン",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-07-29",
+      "endDate": "2014-10-31",
+      "region": [
+        "日本"
+      ],
+      "level": 36,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "リザードナイトＸ",
+      "ot": {
+        "JPN": "XY"
+      },
+      "trainerId": "07274",
+      "moves": [
+        "ほのおのキバ",
+        "エアスラッシュ",
+        "ドラゴンクロー",
+        "りゅうのいかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06022",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "x"
+      ],
+      "eventName": "リザードナイトＹを　もった　リザードン",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-07-29",
+      "endDate": "2014-10-31",
+      "region": [
+        "日本"
+      ],
+      "level": 36,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "リザードナイトＹ",
+      "ot": {
+        "JPN": "XY"
+      },
+      "trainerId": "07274",
+      "moves": [
+        "ほのおのキバ",
+        "はじけるほのお",
+        "エアスラッシュ",
+        "れんごく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06023",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "XY Gengar",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-10-24",
+      "endDate": "2014-10-31",
+      "region": [
+        "シンガポール"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "ダークボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ゲンガナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "XY"
+      },
+      "trainerId": "10244",
+      "moves": [
+        "シャドーボール",
+        "ヘドロウェーブ",
+        "あやしいひかり",
+        "おどろかす"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06024",
+      "dexNo": 647,
+      "pokemonName": "ケルディオ",
+      "form": "いつものすがた",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ　ケルディオ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-12-01",
+      "endDate": "2015-05-15",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "せいぎのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "12014",
+      "moves": [
+        "アクアジェット",
+        "にらみつける",
+        "にどげり",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06025",
+      "dexNo": 494,
+      "pokemonName": "ビクティニ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ　ビクティニ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-12-01",
+      "endDate": "2015-05-15",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "しょうりのほし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "12014",
+      "moves": [
+        "ねんりき",
+        "でんこうせっか",
+        "Ｖジェネレート",
+        "かえんだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06026",
+      "dexNo": 492,
+      "pokemonName": "シェイミ",
+      "form": "ランドフォルム",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ　シェイミ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-12-01",
+      "endDate": "2015-05-15",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "12014",
+      "moves": [
+        "せいちょう",
+        "マジカルリーフ",
+        "シードフレア",
+        "エアスラッシュ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06027",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいの　ジラーチ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-12-01",
+      "endDate": "2015-05-28",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ほしのすな",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "12014",
+      "moves": [
+        "ねがいごと",
+        "ねんりき",
+        "てだすけ",
+        "おんがえし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06028",
+      "dexNo": 658,
+      "pokemonName": "ゲッコウガ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "スマブラどうじこうにゅう　とくてん",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-12-09",
+      "endDate": "2015-03-31",
+      "region": [
+        "日本"
+      ],
+      "level": 36,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "へんげんじざい",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "スマブラ"
+      },
+      "trainerId": "09134",
+      "moves": [
+        "みずしゅりけん",
+        "かげうち",
+        "ハイドロポンプ",
+        "みがわり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06029",
+      "dexNo": 503,
+      "pokemonName": "ダイケンキ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ダイケンキ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-01-16",
+      "endDate": "2015-11-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "シェルアーマー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "プレゼント"
+      },
+      "trainerId": "01165",
+      "moves": [
+        "シェルブレード",
+        "てかげん",
+        "ないしょばなし",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06030",
+      "dexNo": 500,
+      "pokemonName": "エンブオー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "エンブオー　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-01-16",
+      "endDate": "2015-11-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "すてみ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "プレゼント"
+      },
+      "trainerId": "01165",
+      "moves": [
+        "フレアドライブ",
+        "てかげん",
+        "もろはのずつき",
+        "とっしん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06031",
+      "dexNo": 497,
+      "pokemonName": "ジャローダ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ジャローダ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-01-09",
+      "endDate": "2015-11-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "あまのじゃく",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "プレゼント"
+      },
+      "trainerId": "01095",
+      "moves": [
+        "リーフストーム",
+        "てかげん",
+        "しぼりとる",
+        "ギガドレイン"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06032",
+      "dexNo": 696,
+      "pokemonName": "チゴラス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "かくれとくせいの　チゴラス",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-02-17",
+      "endDate": "2015-04-30",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "がんじょう",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "ot": {
+        "JPN": "ＰＧＬ"
+      },
+      "trainerId": "01235",
+      "moves": [
+        "しっぽをふる",
+        "たいあたり",
+        "ほえる",
+        "ふみつけ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06033",
+      "dexNo": 653,
+      "pokemonName": "フォッコ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "セレナのフォッコ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-02-26",
+      "endDate": "2015-03-31",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "♀",
+      "nature": "がんばりや",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ミアレシティ",
+      "heldItem": "あかいいと",
+      "ot": {
+        "JPN": "セレナ"
+      },
+      "trainerId": "02265",
+      "moves": [
+        "ひっかく",
+        "かえんほうしゃ",
+        "めざめるパワー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06034",
+      "dexNo": 493,
+      "pokemonName": "アルセウス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "アルセウス　プレゼント（色違い）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-03-07",
+      "endDate": "2015-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "マルチタイプ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画15",
+      "heldItem": "シルクのスカーフ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "デセルシティ"
+      },
+      "trainerId": "03075",
+      "moves": [
+        "さばきのつぶて",
+        "ブラストバーン",
+        "ハイドロカノン",
+        "だいちのちから"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06035",
+      "dexNo": 493,
+      "pokemonName": "アルセウス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "アルセウス　プレゼント（通常）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-11-20",
+      "endDate": "2015-12-17",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "マルチタイプ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画15",
+      "heldItem": "各種",
+      "ot": {
+        "JPN": "デセルシティ"
+      },
+      "trainerId": "03075",
+      "moves": [
+        "さばきのつぶて",
+        "ブラストバーン",
+        "ハイドロカノン",
+        "だいちのちから"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06036",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいのレックウザ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-03-14",
+      "endDate": "2015-05-15",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "イベント会場",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "03145",
+      "moves": [
+        "りゅうのはどう",
+        "たつまき",
+        "かみなり",
+        "しんそく"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06037",
+      "dexNo": 698,
+      "pokemonName": "アマルス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "かくれとくせいの　アマルス",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-03-31",
+      "endDate": "2015-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ゆきふらし",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "ot": {
+        "JPN": "ＰＧＬ"
+      },
+      "trainerId": "03205",
+      "moves": [
+        "なきごえ",
+        "こなゆき",
+        "でんじは",
+        "いわおとし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06038",
+      "dexNo": 115,
+      "pokemonName": "ガルーラ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Spring 2015 Kangaskhan",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-04-03",
+      "endDate": "2015-04-09",
+      "region": [
+        "台湾",
+        "香港"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "きもったま",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ガルーラナイト",
+      "ot": {
+        "JPN": "2015 Spring"
+      },
+      "trainerId": "04035",
+      "moves": [
+        "ねこだまし",
+        "おんがえし",
+        "じしん",
+        "ふいうち"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06039",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Singapore Summer 2015 Rayquaza",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-05-06",
+      "endDate": "2015-07-31",
+      "region": [
+        "シンガポール"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "イベント会場",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SG Summer'15"
+      },
+      "trainerId": "03145",
+      "moves": [
+        "りゅうのはどう",
+        "たつまき",
+        "かみなり",
+        "しんそく"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06040",
+      "dexNo": 7,
+      "pokemonName": "ゼニガメ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンラボの　ゼニガメ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-07-08",
+      "endDate": "2015-11-30",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "カメックスナイト",
+      "ot": {
+        "JPN": "ポケモンラボ"
+      },
+      "trainerId": "07085",
+      "moves": [
+        "しっぽをふる",
+        "みずでっぽう",
+        "からにこもる",
+        "あわ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06041",
+      "dexNo": 4,
+      "pokemonName": "ヒトカゲ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンラボの　ヒトカゲ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-07-08",
+      "endDate": "2015-11-30",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "リザードナイトＹ",
+      "ot": {
+        "JPN": "ポケモンラボ"
+      },
+      "trainerId": "07085",
+      "moves": [
+        "なきごえ",
+        "ひのこ",
+        "えんまく",
+        "りゅうのいかり"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06042",
+      "dexNo": 1,
+      "pokemonName": "フシギダネ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンラボの　フシギダネ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-07-08",
+      "endDate": "2015-11-30",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "しんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "フシギバナイト",
+      "ot": {
+        "JPN": "ポケモンラボ"
+      },
+      "trainerId": "07085",
+      "moves": [
+        "なきごえ",
+        "やどりぎのタネ",
+        "つるのムチ",
+        "どくのこな"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06043",
+      "dexNo": 674,
+      "pokemonName": "ヤンチャム",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンDSラリー2015　ヤンチャム",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-07-18",
+      "endDate": "2015-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "かたやぶり",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "くろいメガネ",
+      "ot": {
+        "JPN": "セレナ"
+      },
+      "trainerId": "00711",
+      "moves": [
+        "つっぱり",
+        "ストーンエッジ",
+        "あくのはどう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06044",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンDSラリー2015　ピカチュウ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-07-18",
+      "endDate": "2015-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "00711",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06045",
+      "dexNo": 381,
+      "pokemonName": "ラティオス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンDSラリー2015　ラティオス",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-08-01",
+      "endDate": "2015-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ラティオスナイト",
+      "ot": {
+        "JPN": "７　ＳＰＯＴ"
+      },
+      "trainerId": "00711",
+      "moves": [
+        "りゅうのはどう",
+        "ラスターパージ",
+        "サイコキネシス",
+        "いやしのはどう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06046",
+      "dexNo": 249,
+      "pokemonName": "ルギア",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンDSラリー2015　ルギア",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-08-01",
+      "endDate": "2015-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "おくびょう",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "たべのこし",
+      "ot": {
+        "JPN": "７　ＳＰＯＴ"
+      },
+      "trainerId": "00711",
+      "moves": [
+        "エアロブラスト",
+        "ハイドロポンプ",
+        "ドラゴンダイブ",
+        "れいとうビーム"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06047",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Satay King Pikachu",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-08-09",
+      "endDate": "2015-09-30",
+      "region": [
+        "香港"
+      ],
+      "level": 10,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ハートスイーツ",
+      "ot": {
+        "JPN": "Satay King"
+      },
+      "trainerId": "08095",
+      "moves": [
+        "なかよくする",
+        "あまえる",
+        "ほっぺすりすり",
+        "てんしのキッス"
+      ],
+      "ribbons": [
+        "スペシャルリボン"
+      ]
+    },
+    {
+      "id": "06048",
+      "dexNo": 720,
+      "pokemonName": "フーパ",
+      "form": "いましめられし",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Manesh Hoopa",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-08-21",
+      "endDate": "2015-11-30",
+      "region": [
+        "シンガポール",
+        "フィリピン"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "マジシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "Manesh"
+      },
+      "trainerId": "08195",
+      "moves": [
+        "いじげんホール",
+        "サイコキネシス",
+        "おどろかす",
+        "わるだくみ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06049",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "戦う！ピカチュウ大会チュウ！",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-09-01",
+      "endDate": "2015-10-29",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ひらいしん",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "ＰＧＬ"
+      },
+      "trainerId": "08215",
+      "moves": [
+        "ねこだまし",
+        "アンコール",
+        "ボルテッカー",
+        "がむしゃら"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06050",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Nintendo Hong Kong Rayquaza",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-09-11",
+      "endDate": "2015-10-31",
+      "region": [
+        "香港"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "イベント会場",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Nintendo HK"
+      },
+      "trainerId": "09115",
+      "moves": [
+        "りゅうのはどう",
+        "りゅうのまい",
+        "かみなり",
+        "しんそく"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06051",
+      "dexNo": 719,
+      "pokemonName": "ディアンシー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Universe Diancie",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-10-15",
+      "endDate": "2015-11-30",
+      "region": [
+        "香港"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ノーマルジュエル",
+      "ot": {
+        "JPN": "Universe"
+      },
+      "trainerId": "10045",
+      "moves": [
+        "ダイヤストーム",
+        "ムーンフォース",
+        "リフレクター",
+        "おんがえし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06052",
+      "dexNo": 716,
+      "pokemonName": "ゼルネアス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "アニメ　ＸＹ＆Ｚ　ゼルネアス",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-10-29",
+      "endDate": "2016-01-12",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "フェアリーオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ＸＹ＆Ｚ"
+      },
+      "trainerId": "10295",
+      "moves": [
+        "ジオコントロール",
+        "ムーンフォース",
+        "アロマセラピー",
+        "きあいだま"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06053",
+      "dexNo": 717,
+      "pokemonName": "イベルタル",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "アニメ　ＸＹ＆Ｚ　イベルタル",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-11-05",
+      "endDate": "2016-01-12",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ダークオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ＸＹ＆Ｚ"
+      },
+      "trainerId": "11055",
+      "moves": [
+        "デスウイング",
+        "ふいうち",
+        "あくのはどう",
+        "イカサマ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06054",
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "アニメ　ＸＹ＆Ｚ　ジガルデ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-11-12",
+      "endDate": "2016-01-12",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "オーラブレイク",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "ＸＹ＆Ｚ"
+      },
+      "trainerId": "11125",
+      "moves": [
+        "グランドフォース",
+        "しんそく",
+        "へびにらみ",
+        "げきりん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06055",
+      "dexNo": 720,
+      "pokemonName": "フーパ",
+      "form": "いましめられし",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "フーパ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-11-03",
+      "endDate": "2015-11-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "マジシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画15",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "Mighty"
+      },
+      "trainerId": "07185",
+      "moves": [
+        "いじげんホール",
+        "サイコキネシス",
+        "おどろかす",
+        "わるだくみ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06056",
+      "dexNo": 571,
+      "pokemonName": "ゾロアーク",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンEXPOジム　ゾロアーク",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-11-19",
+      "endDate": "2016-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 45,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "イリュージョン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "たつじんのおび",
+      "ot": {
+        "JPN": "サダ"
+      },
+      "trainerId": "11195",
+      "moves": [
+        "こわいかお",
+        "みだれひっかき",
+        "わるだくみ",
+        "おしおき"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "06057",
+      "dexNo": 235,
+      "pokemonName": "ドーブル",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンEXPOジム　ドーブル",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-11-19",
+      "endDate": "2016-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 40,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "マイペース",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "シルクのスカーフ",
+      "ot": {
+        "JPN": "﻿ＡＤサカイ"
+      },
+      "trainerId": "11195",
+      "moves": [
+        "スケッチ",
+        "みだれひっかき",
+        "ちきゅうなげ",
+        "かえんほうしゃ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "06058",
+      "dexNo": 68,
+      "pokemonName": "カイリキー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンEXPOジム　カイリキー",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-11-19",
+      "endDate": "2016-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 39,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "ノーガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ほしのかけら",
+      "ot": {
+        "JPN": "﻿Ｄｒ．シャイ"
+      },
+      "trainerId": "11195",
+      "moves": [
+        "ちきゅうなげ",
+        "ばくれつパンチ",
+        "あなをほる",
+        "きあいだめ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "06059",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンEXPOジム　リザードン",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-11-19",
+      "endDate": "2016-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 36,
+      "gender": "♂",
+      "nature": "まじめ",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "リザードナイトＹ",
+      "ot": {
+        "JPN": "マオ"
+      },
+      "trainerId": "11195",
+      "moves": [
+        "かえんほうしゃ",
+        "ひのこ",
+        "ほのおのうず",
+        "はじけるほのお"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "06060",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Nintendo Hong Kong Jirachi",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-12-12",
+      "endDate": "2016-01-31",
+      "region": [
+        "香港"
+      ],
+      "level": 25,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ほしのかけら",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Nintendo HK"
+      },
+      "trainerId": "12015",
+      "moves": [
+        "ねがいごと",
+        "ねんりき",
+        "スピードスター",
+        "ハッピータイム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06061",
+      "dexNo": 493,
+      "pokemonName": "アルセウス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Manesh Arceus",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-12-21",
+      "endDate": "2016-01-30",
+      "region": [
+        "シンガポール"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "マルチタイプ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "シルクのスカーフ",
+      "ot": {
+        "JPN": "Manesh"
+      },
+      "trainerId": "12215",
+      "moves": [
+        "さばきのつぶて",
+        "ほろびのうた",
+        "はかいこうせん",
+        "じこさいせい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06062",
+      "dexNo": 158,
+      "pokemonName": "ワニノコ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンラボの　ワニノコ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-07-16",
+      "endDate": "2016-10-31",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "ot": {
+        "JPN": "ポケモンラボ"
+      },
+      "trainerId": "12235",
+      "moves": [
+        "ひっかく",
+        "にらみつける"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06063",
+      "dexNo": 155,
+      "pokemonName": "ヒノアラシ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンラボの　ヒノアラシ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-07-16",
+      "endDate": "2016-10-31",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "ot": {
+        "JPN": "ポケモンラボ"
+      },
+      "trainerId": "12235",
+      "moves": [
+        "たいあたり",
+        "にらみつける"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06064",
+      "dexNo": 152,
+      "pokemonName": "チコリータ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンラボの　チコリータ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-07-16",
+      "endDate": "2016-10-31",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "しんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "ot": {
+        "JPN": "ポケモンラボ"
+      },
+      "trainerId": "12235",
+      "moves": [
+        "たいあたり",
+        "なきごえ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06065",
+      "dexNo": 225,
+      "pokemonName": "デリバード",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "クリスマス・トライ　さんかきねん",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-12-25",
+      "endDate": "2016-02-29",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "やるき",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "こだいのきんか",
+      "ot": {
+        "JPN": "ＰＧＬ"
+      },
+      "trainerId": "12255",
+      "moves": [
+        "プレゼント",
+        "ハッピータイム"
+      ],
+      "ribbons": [
+        "スペシャルリボン"
+      ]
+    },
+    {
+      "id": "06066",
+      "dexNo": 392,
+      "pokemonName": "ゴウカザル",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Jade Infernape",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-01-28",
+      "endDate": "2016-02-29",
+      "region": [
+        "台湾",
+        "香港"
+      ],
+      "level": 88,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "てつのこぶし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのたま",
+      "ot": {
+        "JPN": "Jade"
+      },
+      "trainerId": "01286",
+      "moves": [
+        "だいもんじ",
+        "インファイト",
+        "ほのおのパンチ",
+        "きあいパンチ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06067",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ＰＣオンライン　オープンきねん",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-02-16",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "オンライン"
+      },
+      "trainerId": "02056",
+      "moves": [
+        "そらをとぶ",
+        "なみのり",
+        "こうそくいどう",
+        "おいわい"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "06068",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "まぼろしのポケモン　ミュウ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-02-27",
+      "endDate": "2017-03-31",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ゲームフリーク",
+      "ot": {
+        "JPN": "ゲーフリ"
+      },
+      "trainerId": "22796",
+      "moves": [
+        "はたく"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ]
+    },
+    {
+      "id": "06069",
+      "dexNo": 146,
+      "pokemonName": "ファイヤー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ2016　ファイヤー",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-03-01",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "ほのおのからだ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "03016",
+      "moves": [
+        "ゴッドバード",
+        "ねっぷう",
+        "にほんばれ",
+        "しんぴのまもり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06070",
+      "dexNo": 145,
+      "pokemonName": "サンダー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ2016　サンダー",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-03-01",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "03016",
+      "moves": [
+        "ほうでん",
+        "でんきショック",
+        "あまごい",
+        "こうそくいどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06071",
+      "dexNo": 144,
+      "pokemonName": "フリーザー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ2016　フリーザー",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-03-01",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "ゆきがくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "03016",
+      "moves": [
+        "フリーズドライ",
+        "れいとうビーム",
+        "あられ",
+        "リフレクター"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06072",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ2016　イーブイ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-03-01",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "きけんよち",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "03016",
+      "moves": [
+        "スピードスター",
+        "でんこうせっか",
+        "つぶらなひとみ",
+        "てだすけ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06073",
+      "dexNo": 150,
+      "pokemonName": "ミュウツー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ2016　ミュウツー",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-04-28",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "きんちょうかん",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ミュウツナイトＹ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "04286",
+      "moves": [
+        "サイコブレイク",
+        "サイコキネシス",
+        "じこさいせい",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06074",
+      "dexNo": 9,
+      "pokemonName": "カメックス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ2016　カメックス",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-04-28",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "あめうけざら",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "カメックスナイト",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "04286",
+      "moves": [
+        "ハイドロポンプ",
+        "ハイドロカノン",
+        "てっぺき",
+        "みずのちかい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06075",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ2016　リザードン",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-04-28",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "サンパワー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "リザードナイトＹ",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "04286",
+      "moves": [
+        "フレアドライブ",
+        "ブラストバーン",
+        "こわいかお",
+        "ほのおのちかい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06076",
+      "dexNo": 3,
+      "pokemonName": "フシギバナ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンスクラップ2016　フシギバナ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-04-28",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ようりょくそ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "フシギバナイト",
+      "ot": {
+        "JPN": "Ｐスクラップ"
+      },
+      "trainerId": "04286",
+      "moves": [
+        "ソーラービーム",
+        "ハードプラント",
+        "こうごうせい",
+        "くさのちかい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06077",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "トウホクへの　ギフトパス♡",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-03-11",
+      "endDate": "2016-04-21",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "ヒールボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ハートスイーツ",
+      "ot": {
+        "JPN": "トウホク"
+      },
+      "trainerId": "20163",
+      "moves": [
+        "ギフトパス",
+        "てをつなぐ",
+        "おんがえし",
+        "なかよくする"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06078",
+      "dexNo": 149,
+      "pokemonName": "カイリュー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "カントークラシック　さんかきねん",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-03-15",
+      "endDate": "2016-04-27",
+      "region": [
+        "日本"
+      ],
+      "level": 62,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "せいしんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンリーグ",
+      "ot": {
+        "JPN": "ワタル"
+      },
+      "trainerId": "03046",
+      "moves": [
+        "こうそくいどう",
+        "たたきつける",
+        "バリアー",
+        "はかいこうせん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06079",
+      "dexNo": 721,
+      "pokemonName": "ボルケニオン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ボルケニオン　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-01-21",
+      "endDate": "2017-02-28",
+      "region": [
+        "アジア"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "ちょすい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画16",
+      "heldItem": "いかりまんじゅう",
+      "ot": {
+        "JPN": "ネーベル"
+      },
+      "trainerId": "04166",
+      "moves": [
+        "スチームバースト",
+        "オーバーヒート",
+        "ハイドロポンプ",
+        "しろいきり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06080",
+      "dexNo": 645,
+      "pokemonName": "ランドロス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "PJCS2016よせん　さんかきねん",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-05-24",
+      "endDate": "2016-06-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "すなのちから",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン番組",
+      "heldItem": "とつげきチョッキ",
+      "ot": {
+        "JPN": "ヒャダイン"
+      },
+      "trainerId": "14818",
+      "moves": [
+        "じしん",
+        "はたきおとす",
+        "とんぼがえり",
+        "がんせきふうじ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06081",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Pokémon Cafe Pikachu",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-05-27",
+      "endDate": "2016-08-31",
+      "region": [
+        "シンガポール"
+      ],
+      "level": 10,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ハートスイーツ",
+      "ot": {
+        "JPN": "P-Cafe"
+      },
+      "trainerId": "05276",
+      "moves": [
+        "なかよくする",
+        "あまえる",
+        "ほっぺすりすり",
+        "てんしのキッス"
+      ],
+      "ribbons": [
+        "スペシャルリボン"
+      ]
+    },
+    {
+      "id": "06082",
+      "dexNo": 241,
+      "pokemonName": "ミルタンク",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ジョウトオープン　さんかきねん",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-06-07",
+      "endDate": "2016-07-31",
+      "region": [
+        "日本"
+      ],
+      "level": 20,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "きもったま",
+      "ball": "プレシャスボール",
+      "metLocation": "ジョウトちほう",
+      "ot": {
+        "JPN": "アカネ"
+      },
+      "trainerId": "05276",
+      "moves": [
+        "ころがる",
+        "メロメロ",
+        "ふみつけ",
+        "ミルクのみ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06083",
+      "dexNo": 150,
+      "pokemonName": "ミュウツー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Nintendo Hong Kong Mewtwo",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-06-09",
+      "endDate": "2016-07-24",
+      "region": [
+        "香港"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "きんちょうかん",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ミュウツナイトＹ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Nintendo HK"
+      },
+      "trainerId": "06096",
+      "moves": [
+        "サイコブレイク",
+        "サイコキネシス",
+        "じこさいせい",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06084",
+      "dexNo": 282,
+      "pokemonName": "サーナイト",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "キミアの　いろちがいのサーナイト",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-06-17",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画16",
+      "heldItem": "サーナイトナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "キミア"
+      },
+      "trainerId": "06176",
+      "moves": [
+        "マジカルシャイン",
+        "ムーンフォース",
+        "アシストパワー",
+        "めいそう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06085",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ジャービスの　いろちがいのゲンガー",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-07-09",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画16",
+      "heldItem": "ゲンガナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ジャービス"
+      },
+      "trainerId": "07096",
+      "moves": [
+        "くろいまなざし",
+        "さいみんじゅつ",
+        "サイコキネシス",
+        "はかいこうせん"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06086",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "まぼろしのポケモン　ミュウ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-07-16",
+      "endDate": "2016-12-18",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ゲームフリーク",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "22796",
+      "moves": [
+        "はたく"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ]
+    },
+    {
+      "id": "06087",
+      "dexNo": 445,
+      "pokemonName": "ガブリアス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "シンオウダービー　さんかきねん",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-08-02",
+      "endDate": "2016-09-29",
+      "region": [
+        "日本"
+      ],
+      "level": 66,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "すながくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンリーグ",
+      "heldItem": "オボンのみ",
+      "ot": {
+        "JPN": "シロナ"
+      },
+      "trainerId": "07226",
+      "moves": [
+        "ドラゴンダイブ",
+        "じしん",
+        "かわらわり",
+        "ギガインパクト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06088",
+      "dexNo": 555,
+      "pokemonName": "ヒヒダルマ",
+      "form": "ノーマルモード",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "イッシュファイナル　さんかきねん",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-09-06",
+      "endDate": "2016-10-24",
+      "region": [
+        "日本"
+      ],
+      "level": 35,
+      "gender": "♂",
+      "nature": "おだやか",
+      "ability": "ダルマモード",
+      "ball": "プレシャスボール",
+      "metLocation": "イッシュちほう",
+      "ot": {
+        "JPN": "Ｎ"
+      },
+      "trainerId": "00002",
+      "moves": [
+        "あばれる",
+        "はらだいこ",
+        "フレアドライブ",
+        "アームハンマー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06089",
+      "dexNo": 721,
+      "pokemonName": "ボルケニオン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Southeast Asian Nebel Volcanion",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-11-12",
+      "endDate": "2017-01-25",
+      "region": [
+        "東南アジア"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "ちょすい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画16",
+      "heldItem": "いかりまんじゅう",
+      "ot": {
+        "JPN": "Nebel"
+      },
+      "trainerId": "11036",
+      "moves": [
+        "スチームバースト",
+        "オーバーヒート",
+        "ハイドロポンプ",
+        "しろいきり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06090",
+      "dexNo": 700,
+      "pokemonName": "ニンフィア",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "おたんじょうび　おめでとう！",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "メロメロボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン♪"
+      },
+      "trainerId": "10123（第1回）, 10014（第2回）, 10015（第3回）, 10016（第4回）",
+      "moves": [
+        "おいわい",
+        "てだすけ",
+        "すなかけ",
+        "ようせいのかぜ"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "06091",
+      "dexNo": 471,
+      "pokemonName": "グレイシア",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "おたんじょうび　おめでとう！",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ゆきがくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン♪"
+      },
+      "trainerId": "10123（第1回）, 10014（第2回）, 10015（第3回）, 10016（第4回）",
+      "moves": [
+        "おいわい",
+        "しっぽをふる",
+        "すなかけ",
+        "こごえるかぜ"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "06092",
+      "dexNo": 470,
+      "pokemonName": "リーフィア",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "おたんじょうび　おめでとう！",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン♪"
+      },
+      "trainerId": "10123（第1回）, 10014（第2回）, 10015（第3回）, 10016（第4回）",
+      "moves": [
+        "おいわい",
+        "てだすけ",
+        "すなかけ",
+        "はっぱカッター"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "06093",
+      "dexNo": 197,
+      "pokemonName": "ブラッキー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "おたんじょうび　おめでとう！",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン♪"
+      },
+      "trainerId": "10123（第1回）, 10014（第2回）, 10015（第3回）, 10016（第4回）",
+      "moves": [
+        "おいわい",
+        "しっぽをふる",
+        "すなかけ",
+        "おいうち"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "06094",
+      "dexNo": 196,
+      "pokemonName": "エーフィ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "おたんじょうび　おめでとう！",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン♪"
+      },
+      "trainerId": "10123（第1回）, 10014（第2回）, 10015（第3回）, 10016（第4回）",
+      "moves": [
+        "おいわい",
+        "しっぽをふる",
+        "すなかけ",
+        "ねんりき"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "06095",
+      "dexNo": 136,
+      "pokemonName": "ブースター",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "おたんじょうび　おめでとう！",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "もらいび",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン♪"
+      },
+      "trainerId": "10123（第1回）, 10014（第2回）, 10015（第3回）, 10016（第4回）",
+      "moves": [
+        "おいわい",
+        "しっぽをふる",
+        "すなかけ",
+        "ひのこ"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "06096",
+      "dexNo": 135,
+      "pokemonName": "サンダース",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "おたんじょうび　おめでとう！",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ちくでん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン♪"
+      },
+      "trainerId": "10123（第1回）, 10014（第2回）, 10015（第3回）, 10016（第4回）",
+      "moves": [
+        "おいわい",
+        "しっぽをふる",
+        "すなかけ",
+        "でんきショック"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "06097",
+      "dexNo": 134,
+      "pokemonName": "シャワーズ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "おたんじょうび　おめでとう！",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ちょすい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン♪"
+      },
+      "trainerId": "10123（第1回）, 10014（第2回）, 10015（第3回）, 10016（第4回）",
+      "moves": [
+        "おいわい",
+        "しっぽをふる",
+        "すなかけ",
+        "みずでっぽう"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "06098",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "おたんじょうび　おめでとう！",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "にげあし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン♪"
+      },
+      "trainerId": "10123（第1回）, 10014（第2回）, 10015（第3回）, 10016（第4回）",
+      "moves": [
+        "おいわい",
+        "しっぽをふる",
+        "つぶらなひとみ",
+        "スピードスター"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "06099",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "おたんじょうび　おめでとう！",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン♪"
+      },
+      "trainerId": "10123（第1回）, 10014（第2回）, 10015（第3回）, 10016（第4回）",
+      "moves": [
+        "おいわい",
+        "なかよくする",
+        "でんきショック",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "06100",
+      "dexNo": 686,
+      "pokemonName": "マーイーカ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "トウキョーベイ　オープンきねん！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-12-26",
+      "endDate": "2014-01-26",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "あまのじゃく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンタートウキョーベイ",
+      "heldItem": "ナナシのみ",
+      "ot": {
+        "JPN": "ＰＣＴＢ"
+      },
+      "trainerId": "11223",
+      "moves": [
+        "ハッピータイム",
+        "イカサマ",
+        "さいみんじゅつ",
+        "ひっくりかえす"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ]
+    },
+    {
+      "id": "06101",
+      "dexNo": 202,
+      "pokemonName": "ソーナンス",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "トレッタから　ぬけだした　ソーナンス",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-02-12",
+      "endDate": "2014-02-16",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "かげふみ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "ot": {
+        "JPN": "ヌケッタ"
+      },
+      "trainerId": "12063",
+      "moves": [
+        "カウンター"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06102",
+      "dexNo": 700,
+      "pokemonName": "ニンフィア",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ニンフィア",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-01-19",
+      "endDate": "2014-01-19",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "メロメロボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "じゃくてんほけん",
+      "ot": {
+        "JPN": "XY"
+      },
+      "trainerId": "01044",
+      "moves": [
+        "チャームボイス",
+        "つぶらなひとみ",
+        "でんこうせっか",
+        "ドレインキッス"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06103",
+      "dexNo": 700,
+      "pokemonName": "ニンフィア",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "Eevee House Sylveon",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-01-09",
+      "endDate": "2014-01-15",
+      "region": [
+        "韓国"
+      ],
+      "level": 10,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "メロメロボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "じゃくてんほけん",
+      "ot": {
+        "JPN": "이브이하우스"
+      },
+      "trainerId": "12013",
+      "moves": [
+        "チャームボイス",
+        "つぶらなひとみ",
+        "でんこうせっか",
+        "ドレインキッス"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06104",
+      "dexNo": 212,
+      "pokemonName": "ハッサム",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ハッサム　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-02-01",
+      "endDate": "2014-02-28",
+      "region": [
+        "日本"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "むしのしらせ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "02014",
+      "moves": [
+        "メタルクロー",
+        "みねうち",
+        "こうそくいどう",
+        "れんぞくぎり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06105",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ゲンガー　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-02-01",
+      "endDate": "2014-02-28",
+      "region": [
+        "日本"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "02014",
+      "moves": [
+        "ナイトヘッド",
+        "あやしいひかり",
+        "ふいうち",
+        "シャドーパンチ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06106",
+      "dexNo": 445,
+      "pokemonName": "ガブリアス",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "Spring Carnival Garchomp",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-04-19",
+      "endDate": "2014-04-19",
+      "region": [
+        "韓国"
+      ],
+      "level": 48,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "すながくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ガブリアスナイト",
+      "ot": {
+        "JPN": "스프링카니발"
+      },
+      "trainerId": "04124",
+      "moves": [
+        "りゅうせいぐん",
+        "ドラゴンクロー",
+        "あなをほる",
+        "かみくだく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06107",
+      "dexNo": 473,
+      "pokemonName": "マンムー",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "Arash Ommati's Mamoswine",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-07-13",
+      "endDate": "2014-07-13",
+      "region": [
+        "欧州",
+        "北米",
+        "豪州"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "あついしぼう",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "こだわりスカーフ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Arash"
+      },
+      "trainerId": "05034",
+      "moves": [
+        "つららばり",
+        "じしん",
+        "つららおとし",
+        "いわなだれ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06108",
+      "dexNo": 130,
+      "pokemonName": "ギャラドス",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "メガシンカするポケモン　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-06-23",
+      "endDate": "2014-07-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いかく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ギャラドスナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "05104（第1回）, 06234（第2回）",
+      "moves": [
+        "たきのぼり",
+        "じしん",
+        "こおりのキバ",
+        "りゅうのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06109",
+      "dexNo": 212,
+      "pokemonName": "ハッサム",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "メガシンカするポケモン　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-06-23",
+      "endDate": "2014-07-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ハッサムナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "05194（第1回）, 06234（第2回）",
+      "moves": [
+        "バレットパンチ",
+        "つるぎのまい",
+        "はねやすめ",
+        "とんぼがえり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06110",
+      "dexNo": 115,
+      "pokemonName": "ガルーラ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "メガシンカするポケモン　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-06-23",
+      "endDate": "2014-07-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "きもったま",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ガルーラナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "05264（第1回）, 06234（第2回）",
+      "moves": [
+        "ねこだまし",
+        "おんがえし",
+        "じしん",
+        "ふいうち"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06111",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "メガシンカするポケモン　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-07-07",
+      "endDate": "2014-07-21",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ゲンガナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "06024（第1回）, 07074（第2回）",
+      "moves": [
+        "シャドーボール",
+        "ヘドロばくだん",
+        "おにび",
+        "みちづれ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06112",
+      "dexNo": 248,
+      "pokemonName": "バンギラス",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "メガシンカするポケモン　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-07-07",
+      "endDate": "2014-07-21",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "すなおこし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "バンギラスナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "06094（第1回）, 07074（第2回）",
+      "moves": [
+        "ストーンエッジ",
+        "かみくだく",
+        "じしん",
+        "れいとうパンチ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06113",
+      "dexNo": 303,
+      "pokemonName": "クチート",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "メガシンカするポケモン　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-07-07",
+      "endDate": "2014-07-21",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いかく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "クチートナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "06164（第1回）, 07074（第2回）",
+      "moves": [
+        "アイアンヘッド",
+        "じゃれつく",
+        "ほのおのキバ",
+        "ふいうち"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06114",
+      "dexNo": 666,
+      "pokemonName": "ビビヨン",
+      "form": "ボールのもよう",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "Paris Poké Ball Pattern Vivillon",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-06-04",
+      "endDate": "2014-06-21",
+      "region": [
+        "フランス"
+      ],
+      "level": 12,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "りんぷん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "Paris"
+      },
+      "trainerId": "06014",
+      "moves": [
+        "しびれごな",
+        "かぜおこし",
+        "ひかりのかべ",
+        "むしのていこう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06115",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ウチダアツトの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-06-15",
+      "endDate": "2014-06-15",
+      "region": [
+        "日本"
+      ],
+      "level": 22,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "イベント会場",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "ウチダアツト"
+      },
+      "trainerId": "00022",
+      "moves": [
+        "でんこうせっか",
+        "エレキボール",
+        "かげぶんしん",
+        "メガトンキック"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06116",
+      "dexNo": 202,
+      "pokemonName": "ソーナンス",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "Jessie's Wobbuffet",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-06-21",
+      "endDate": "2014-06-22",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 15,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "かげふみ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "ot": {
+        "JPN": "Jessie"
+      },
+      "trainerId": "06214",
+      "moves": [
+        "カウンター",
+        "ミラーコート"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06117",
+      "dexNo": 310,
+      "pokemonName": "ライボルト",
+      "games": [
+        "x"
+      ],
+      "eventName": "Manectric",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-07-05",
+      "endDate": "2014-07-05",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "おくびょう",
+      "ability": "ひらいしん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ライボルトナイト",
+      "ot": {
+        "JPN": "WCS14K"
+      },
+      "trainerId": "07054",
+      "moves": [
+        "オーバーヒート",
+        "１０まんボルト",
+        "ボルトチェンジ",
+        "まもる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06118",
+      "dexNo": 248,
+      "pokemonName": "バンギラス",
+      "games": [
+        "x"
+      ],
+      "eventName": "Tyranitar",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-07-05",
+      "endDate": "2014-07-05",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ようき",
+      "ability": "すなおこし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "バンギラスナイト",
+      "ot": {
+        "JPN": "WCS14K"
+      },
+      "trainerId": "07054",
+      "moves": [
+        "いわなだれ",
+        "じしん",
+        "かみくだく",
+        "ストーンエッジ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06119",
+      "dexNo": 127,
+      "pokemonName": "カイロス",
+      "games": [
+        "y"
+      ],
+      "eventName": "Pinsir",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-07-05",
+      "endDate": "2014-07-05",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ようき",
+      "ability": "じしんかじょう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "カイロスナイト",
+      "ot": {
+        "JPN": "WCS14K"
+      },
+      "trainerId": "07054",
+      "moves": [
+        "じしん",
+        "つるぎのまい",
+        "フェイント",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06120",
+      "dexNo": 306,
+      "pokemonName": "ボスゴドラ",
+      "games": [
+        "y"
+      ],
+      "eventName": "Aggron",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-07-06",
+      "endDate": "2014-07-06",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ゆうかん",
+      "ability": "いしあたま",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ボスゴドラナイト",
+      "ot": {
+        "JPN": "WCS14K"
+      },
+      "trainerId": "07064",
+      "moves": [
+        "アイアンヘッド",
+        "じしん",
+        "もろはのずつき",
+        "いわなだれ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06121",
+      "dexNo": 229,
+      "pokemonName": "ヘルガー",
+      "games": [
+        "y"
+      ],
+      "eventName": "Houndoom",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-07-06",
+      "endDate": "2014-07-06",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "おくびょう",
+      "ability": "もらいび",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ヘルガナイト",
+      "ot": {
+        "JPN": "WCS14K"
+      },
+      "trainerId": "07064",
+      "moves": [
+        "かえんほうしゃ",
+        "あくのはどう",
+        "ソーラービーム",
+        "ヘドロばくだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06122",
+      "dexNo": 214,
+      "pokemonName": "ヘラクロス",
+      "games": [
+        "x"
+      ],
+      "eventName": "Heracross",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-07-06",
+      "endDate": "2014-07-06",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "いじっぱり",
+      "ability": "こんじょう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ヘラクロスナイト",
+      "ot": {
+        "JPN": "WCS14K"
+      },
+      "trainerId": "07064",
+      "moves": [
+        "ミサイルばり",
+        "タネマシンガン",
+        "じしん",
+        "ロックブラスト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06123",
+      "dexNo": 719,
+      "pokemonName": "ディアンシー",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ディアンシー　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-07-19",
+      "endDate": "2014-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画14",
+      "heldItem": "ノーマルジュエル",
+      "ot": {
+        "JPN": "えいがかん"
+      },
+      "trainerId": "07194",
+      "moves": [
+        "ダイヤストーム",
+        "リフレクター",
+        "おんがえし",
+        "ムーンフォース"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06124",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "y"
+      ],
+      "eventName": "Charizardite X Charizard",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-07-26",
+      "endDate": "2014-07-26",
+      "region": [
+        "韓国"
+      ],
+      "level": 36,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "リザードナイトＸ",
+      "ot": {
+        "JPN": "올레 tv"
+      },
+      "trainerId": "07264",
+      "moves": [
+        "ほのおのキバ",
+        "エアスラッシュ",
+        "ドラゴンクロー",
+        "りゅうのいかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06125",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "x"
+      ],
+      "eventName": "Charizardite Y Charizard",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-07-26",
+      "endDate": "2014-07-26",
+      "region": [
+        "韓国"
+      ],
+      "level": 36,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "リザードナイトＹ",
+      "ot": {
+        "JPN": "올레 tv"
+      },
+      "trainerId": "07264",
+      "moves": [
+        "ほのおのキバ",
+        "はじけるほのお",
+        "エアスラッシュ",
+        "れんごく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06126",
+      "dexNo": 666,
+      "pokemonName": "ビビヨン",
+      "form": "ボールのもよう",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ボールのもようの　ビビヨン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-08-01",
+      "endDate": "2014-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 12,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "りんぷん",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "08014",
+      "moves": [
+        "しびれごな",
+        "かぜおこし",
+        "ひかりのかべ",
+        "むしのていこう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06127",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "いろちがいの　ジラーチ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-08-01",
+      "endDate": "2014-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンタートウホク",
+      "heldItem": "ほしのかけら",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "たなばた"
+      },
+      "trainerId": "08014",
+      "moves": [
+        "ねがいごと",
+        "スピードスター",
+        "いやしのねがい",
+        "ムーンフォース"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06128",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "パシフィコよこはまの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-08-16",
+      "endDate": "2014-08-17",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "きあいのハチマキ",
+      "ot": {
+        "JPN": "みなとみらい"
+      },
+      "trainerId": "08094",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "なみのり",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06129",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "しっぽがハートの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-08-09",
+      "endDate": "2014-08-17",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "ヒールボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ハートのウロコ",
+      "ot": {
+        "JPN": "みなとみらい"
+      },
+      "trainerId": "08094",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "ハートスタンプ",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06130",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "せんちょうの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-08-09",
+      "endDate": "2014-08-17",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "シルクのスカーフ",
+      "ot": {
+        "JPN": "みなとみらい"
+      },
+      "trainerId": "08094",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "なみのり",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06131",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "あかレンガそうこの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-08-09",
+      "endDate": "2014-08-17",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "うしおのおこう",
+      "ot": {
+        "JPN": "みなとみらい"
+      },
+      "trainerId": "08094",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "なみのり",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06132",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "コスモワールドの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-08-09",
+      "endDate": "2014-08-17",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "すいせいのかけら",
+      "ot": {
+        "JPN": "みなとみらい"
+      },
+      "trainerId": "08094",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "なみのり",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06133",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ランドマークタワーの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-08-09",
+      "endDate": "2014-08-17",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ふうせん",
+      "ot": {
+        "JPN": "みなとみらい"
+      },
+      "trainerId": "08094",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "なみのり",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06134",
+      "dexNo": 681,
+      "pokemonName": "ギルガルド",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "2014 World Championships Aegislash",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-08-16",
+      "endDate": "2014-08-17",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "れいせい",
+      "ability": "バトルスイッチ",
+      "ball": "プレシャスボール",
+      "metLocation": "2014ポケモンワールドチャンピオンシップス",
+      "heldItem": "じゃくてんほけん",
+      "ot": {
+        "JPN": "WORLD14"
+      },
+      "trainerId": "08164",
+      "moves": [
+        "ワイドガード",
+        "キングシールド",
+        "シャドーボール",
+        "ラスターカノン"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "WCS2014会場（アメリカ・ワシントンD.C.）での配布。"
+    },
+    {
+      "id": "06135",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "いろちがいの　ゲンガー",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-09-13",
+      "endDate": "2014-10-14",
+      "region": [
+        "日本"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "ダークボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ゲンガナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ハロウィン"
+      },
+      "trainerId": "09134",
+      "moves": [
+        "シャドーボール",
+        "ヘドロウェーブ",
+        "あやしいひかり",
+        "おどろかす"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06136",
+      "dexNo": 479,
+      "pokemonName": "ロトム",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "トレッタに　もぐりこんだ　ロトム",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-10-15",
+      "endDate": "2014-12-03",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "nature": "きまぐれ",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "トレッタ"
+      },
+      "trainerId": "09254",
+      "moves": [
+        "でんげきは",
+        "おどろかす",
+        "トリック",
+        "でんじは"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06137",
+      "dexNo": 417,
+      "pokemonName": "パチリス",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "Dongdaemun Design Plaza",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2014-11-15",
+      "endDate": "2014-11-16",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "わんぱく",
+      "ability": "ちくでん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "オボンのみ",
+      "ot": {
+        "JPN": "박세준"
+      },
+      "trainerId": "11154",
+      "moves": [
+        "ほっぺすりすり",
+        "いかりのまえば",
+        "このゆびとまれ",
+        "まもる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06138",
+      "dexNo": 417,
+      "pokemonName": "パチリス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Korean Regional Championships",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-04-18",
+      "endDate": "2015-04-19",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "わんぱく",
+      "ability": "ちくでん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "オボンのみ",
+      "ot": {
+        "JPN": "박세준"
+      },
+      "trainerId": "04045",
+      "moves": [
+        "ほっぺすりすり",
+        "いかりのまえば",
+        "このゆびとまれ",
+        "まもる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06139",
+      "dexNo": 417,
+      "pokemonName": "パチリス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "National Championships",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2015-07-03",
+      "endDate": "2015-07-05",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "わんぱく",
+      "ability": "ちくでん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "オボンのみ",
+      "ot": {
+        "JPN": "박세준"
+      },
+      "trainerId": "05165",
+      "moves": [
+        "ほっぺすりすり",
+        "いかりのまえば",
+        "このゆびとまれ",
+        "まもる"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06140",
+      "dexNo": 393,
+      "pokemonName": "ポッチャマ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "トウキョーフィナーレの　ポッチャマ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-12-06",
+      "endDate": "2014-12-06",
+      "region": [
+        "日本"
+      ],
+      "level": 7,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンタートウキョー",
+      "ot": {
+        "JPN": "はままつちょ"
+      },
+      "trainerId": "12074",
+      "moves": [
+        "はたく",
+        "なきごえ",
+        "おんがえし"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "06141",
+      "dexNo": 656,
+      "pokemonName": "ケロマツ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "トウキョーフィナーレの　ケロマツ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-12-07",
+      "endDate": "2014-12-07",
+      "region": [
+        "日本"
+      ],
+      "level": 7,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンタートウキョー",
+      "ot": {
+        "JPN": "はままつちょ"
+      },
+      "trainerId": "12074",
+      "moves": [
+        "はたく",
+        "なきごえ",
+        "あわ",
+        "おんがえし"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "06142",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガトウキョーの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-12-12",
+      "endDate": "2015-01-16",
+      "region": [
+        "日本"
+      ],
+      "level": 36,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ひらいしん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "メガトウキョ"
+      },
+      "trainerId": "12124",
+      "moves": [
+        "かみなり",
+        "みがわり",
+        "なかよくする",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ]
+    },
+    {
+      "id": "06143",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガトウキョーの　リザードン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-12-12",
+      "endDate": "2015-01-16",
+      "region": [
+        "日本"
+      ],
+      "level": 36,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "リザードナイトＹ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "メガトウキョ"
+      },
+      "trainerId": "12124",
+      "moves": [
+        "オーバーヒート",
+        "ソーラービーム",
+        "きあいだま",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ]
+    },
+    {
+      "id": "06144",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいの　ジラーチ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-12-14",
+      "endDate": "2014-12-14",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ほしのすな",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "12014",
+      "moves": [
+        "ねがいごと",
+        "ねんりき",
+        "てだすけ",
+        "おんがえし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06145",
+      "dexNo": 264,
+      "pokemonName": "マッスグマ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ジャンフェスの　マッスグマ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2014-12-20",
+      "endDate": "2014-12-21",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ものひろい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "ジャンフェス"
+      },
+      "trainerId": "12204",
+      "moves": [
+        "てだすけ",
+        "しんそく",
+        "つぶらなひとみ",
+        "まもる"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06146",
+      "dexNo": 491,
+      "pokemonName": "ダークライ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Mysterious World Darkrai",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-01-24",
+      "endDate": "2015-01-25",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ナイトメア",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "ナゾのみ",
+      "ot": {
+        "JPN": "신비한 세계"
+      },
+      "trainerId": "12204",
+      "moves": [
+        "ダークホール",
+        "ゆめくい",
+        "あくのはどう",
+        "ゴーストダイブ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06147",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンカフェの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2015-01-09",
+      "endDate": "2015-03-15",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ハートスイーツ",
+      "ot": {
+        "JPN": "Ｐ－Ｃａｆｅ"
+      },
+      "trainerId": "01095",
+      "moves": [
+        "なかよくする",
+        "あまえる",
+        "ほっぺすりすり",
+        "てんしのキッス"
+      ],
+      "ribbons": [
+        "スペシャルリボン"
+      ]
+    },
+    {
+      "id": "06148",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいのレックウザ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2015-02-08",
+      "endDate": "2015-02-08",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "イベント会場",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ＷＨＦ１５"
+      },
+      "trainerId": "01185",
+      "moves": [
+        "りゅうのはどう",
+        "たつまき",
+        "かみなり",
+        "しんそく"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06149",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Pokémon Spring Carnival 2015 Rayquaza",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-05-02",
+      "endDate": "2015-05-05",
+      "region": [
+        "韓国"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "포켓몬타운15"
+      },
+      "trainerId": "05025",
+      "moves": [
+        "りゅうのはどう",
+        "たつまき",
+        "かみなり",
+        "しんそく"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06150",
+      "dexNo": 646,
+      "pokemonName": "キュレム",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "キュレム　プレゼント",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-06-27",
+      "endDate": "2015-06-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画15",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "デセルシティ"
+      },
+      "trainerId": "06205",
+      "moves": [
+        "こごえるせかい",
+        "こわいかお",
+        "りゅうせいぐん",
+        "アイアンヘッド"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06151",
+      "dexNo": 487,
+      "pokemonName": "ギラティナ",
+      "form": "オリジンフォルム",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ギラティナ　プレゼント",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-06-27",
+      "endDate": "2015-06-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ゆうかん",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画15",
+      "heldItem": "はっきんだま",
+      "ot": {
+        "JPN": "デセルシティ"
+      },
+      "trainerId": "06205",
+      "moves": [
+        "はどうだん",
+        "りゅうせいぐん",
+        "シャドーダイブ",
+        "アイアンヘッド"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06152",
+      "dexNo": 484,
+      "pokemonName": "パルキア",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "パルキア　プレゼント",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-06-27",
+      "endDate": "2015-06-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "おくびょう",
+      "ability": "テレパシー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画15",
+      "heldItem": "しらたま",
+      "ot": {
+        "JPN": "デセルシティ"
+      },
+      "trainerId": "06205",
+      "moves": [
+        "だいちのちから",
+        "はどうだん",
+        "あくうせつだん",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06153",
+      "dexNo": 483,
+      "pokemonName": "ディアルガ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ディアルガ　プレゼント",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-06-27",
+      "endDate": "2015-06-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ひかえめ",
+      "ability": "テレパシー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画15",
+      "heldItem": "こんごうだま",
+      "ot": {
+        "JPN": "デセルシティ"
+      },
+      "trainerId": "06205",
+      "moves": [
+        "メタルバースト",
+        "オーバーヒート",
+        "ときのほうこう",
+        "ラスターカノン"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06154",
+      "dexNo": 383,
+      "pokemonName": "グラードン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "グラードン　プレゼント",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-06-27",
+      "endDate": "2015-06-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "いじっぱり",
+      "ability": "ひでり",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画15",
+      "heldItem": "こだわりハチマキ",
+      "ot": {
+        "JPN": "デセルシティ"
+      },
+      "trainerId": "06205",
+      "moves": [
+        "ほのおのパンチ",
+        "ソーラービーム",
+        "アームハンマー",
+        "いわなだれ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06155",
+      "dexNo": 382,
+      "pokemonName": "カイオーガ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "カイオーガ　プレゼント",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-06-27",
+      "endDate": "2015-06-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "おくびょう",
+      "ability": "あめふらし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画15",
+      "heldItem": "こだわりスカーフ",
+      "ot": {
+        "JPN": "デセルシティ"
+      },
+      "trainerId": "06205",
+      "moves": [
+        "しおふき",
+        "かみなり",
+        "ぜったいれいど",
+        "れいとうビーム"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06156",
+      "dexNo": 130,
+      "pokemonName": "ギャラドス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ひろしまの　あかいギャラドス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2015-06-26",
+      "endDate": "2015-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 20,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いかく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ギャラドスナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "PCひろしま"
+      },
+      "trainerId": "06265",
+      "moves": [
+        "たきのぼり",
+        "かみつく",
+        "こおりのキバ",
+        "アイアンヘッド"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ]
+    },
+    {
+      "id": "06157",
+      "dexNo": 129,
+      "pokemonName": "コイキング",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ひろしまの　コイキング",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2015-06-26",
+      "endDate": "2015-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "すいすい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ほしのすな",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "06265",
+      "moves": [
+        "はねる",
+        "おいわい",
+        "ハッピータイム"
+      ]
+    },
+    {
+      "id": "06158",
+      "dexNo": 720,
+      "pokemonName": "フーパ",
+      "form": "いましめられし",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "フーパ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2015-07-18",
+      "endDate": "2015-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "マジシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画15",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "えいがかん"
+      },
+      "trainerId": "07185",
+      "moves": [
+        "いじげんホール",
+        "サイコキネシス",
+        "おどろかす",
+        "わるだくみ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06159",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "たなばたまつり2015　ジラーチ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2015-07-18",
+      "endDate": "2015-08-16",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンタートウホク",
+      "heldItem": "あかいいと",
+      "ot": {
+        "JPN": "おりひめ"
+      },
+      "trainerId": "07185",
+      "moves": [
+        "ハートスタンプ",
+        "じゃれつく",
+        "ねがいごと",
+        "コスモパワー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06160",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Pokémon Mega Battle Festival Charizard",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-08-08",
+      "endDate": "2015-08-09",
+      "region": [
+        "韓国"
+      ],
+      "level": 36,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "リザードナイトＹ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "메가배틀"
+      },
+      "trainerId": "08085",
+      "moves": [
+        "オーバーヒート",
+        "ソーラービーム",
+        "きあいだま",
+        "はねやすめ"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ]
+    },
+    {
+      "id": "06161",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "踊る？ピカチュウ大量発生チュウ！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2015-08-08",
+      "endDate": "2015-08-16",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "キーのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ヨコハマ"
+      },
+      "trainerId": "08085",
+      "moves": [
+        "フラフラダンス",
+        "なかよくする",
+        "しっぽをふる",
+        "ほっぺすりすり"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06162",
+      "dexNo": 319,
+      "pokemonName": "サメハダー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "2015 World Championships Sharpedo",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2015-08-21",
+      "endDate": "2015-08-23",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "いじっぱり",
+      "ability": "かそく",
+      "ball": "プレシャスボール",
+      "metLocation": "2015ポケモンワールドチャンピオンシップス",
+      "heldItem": "サメハダナイト",
+      "ot": {
+        "JPN": "WORLD15"
+      },
+      "trainerId": "08215",
+      "moves": [
+        "アクアジェット",
+        "かみくだく",
+        "こおりのキバ",
+        "みちづれ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "WCS2015会場（アメリカ・ボストン）での配布。"
+    },
+    {
+      "id": "06163",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Beginner Trainer Pikachu",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-10-17",
+      "endDate": "2015-10-18",
+      "region": [
+        "韓国"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "キーのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "초보트레이너"
+      },
+      "trainerId": "10095",
+      "moves": [
+        "フラフラダンス",
+        "なかよくする",
+        "しっぽをふる",
+        "ほっぺすりすり"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06164",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "スマイルパークの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-01-02",
+      "endDate": "2016-01-11",
+      "region": [
+        "日本"
+      ],
+      "level": 99,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ふしぎなアメ",
+      "ot": {
+        "JPN": "トウホク"
+      },
+      "trainerId": "12205",
+      "moves": [
+        "ハッピータイム",
+        "なかよくする",
+        "てをつなぐ",
+        "フラッシュ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06165",
+      "dexNo": 646,
+      "pokemonName": "キュレム",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Kyurem",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-12-23",
+      "endDate": "2015-12-27",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "데세르시티"
+      },
+      "trainerId": "11205",
+      "moves": [
+        "こごえるせかい",
+        "こわいかお",
+        "りゅうせいぐん",
+        "アイアンヘッド"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06166",
+      "dexNo": 484,
+      "pokemonName": "パルキア",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Palkia",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-12-23",
+      "endDate": "2015-12-27",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "おくびょう",
+      "ability": "テレパシー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "しらたま",
+      "ot": {
+        "JPN": "데세르시티"
+      },
+      "trainerId": "11205",
+      "moves": [
+        "だいちのちから",
+        "はどうだん",
+        "あくうせつだん",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06167",
+      "dexNo": 483,
+      "pokemonName": "ディアルガ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Dialga",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-12-23",
+      "endDate": "2015-12-27",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "ひかえめ",
+      "ability": "テレパシー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "こんごうだま",
+      "ot": {
+        "JPN": "데세르시티"
+      },
+      "trainerId": "11205",
+      "moves": [
+        "メタルバースト",
+        "オーバーヒート",
+        "ときのほうこう",
+        "ラスターカノン"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06168",
+      "dexNo": 383,
+      "pokemonName": "グラードン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Groudon",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-12-23",
+      "endDate": "2015-12-27",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "いじっぱり",
+      "ability": "ひでり",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "こだわりハチマキ",
+      "ot": {
+        "JPN": "데세르시티"
+      },
+      "trainerId": "11205",
+      "moves": [
+        "ほのおのパンチ",
+        "ソーラービーム",
+        "アームハンマー",
+        "いわなだれ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06169",
+      "dexNo": 382,
+      "pokemonName": "カイオーガ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Kyogre",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2015-12-23",
+      "endDate": "2015-12-27",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "おくびょう",
+      "ability": "あめふらし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "こだわりスカーフ",
+      "ot": {
+        "JPN": "데세르시티"
+      },
+      "trainerId": "11205",
+      "moves": [
+        "しおふき",
+        "かみなり",
+        "ぜったいれいど",
+        "れいとうビーム"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06170",
+      "dexNo": 531,
+      "pokemonName": "タブンネ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "つよ★カワ　ピカチュウのメガキャンペーン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-01-30",
+      "endDate": "2016-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "ランダム",
+      "nature": "のんき",
+      "ability": "さいせいりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "タブンネナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "01016（第1回）, 01096（第2回）, 01166（第3回）, 01236（第4回）, 01306（第5回）",
+      "moves": [
+        "トリックルーム",
+        "いやしのはどう",
+        "シンプルビーム",
+        "１０まんボルト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06171",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "つよ★カワ　ピカチュウのメガキャンペーン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-01-30",
+      "endDate": "2016-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "ランダム",
+      "nature": "ようき",
+      "ability": "せいしんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ルカリオナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "01016（第1回）, 01096（第2回）, 01166（第3回）, 01236（第4回）, 01306（第5回）",
+      "moves": [
+        "インファイト",
+        "はどうだん",
+        "ラスターカノン",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06172",
+      "dexNo": 334,
+      "pokemonName": "チルタリス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "つよ★カワ　ピカチュウのメガキャンペーン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-01-30",
+      "endDate": "2016-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "ランダム",
+      "nature": "ひかえめ",
+      "ability": "ノーてんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "チルタリスナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "01016（第1回）, 01096（第2回）, 01166（第3回）, 01236（第4回）, 01306（第5回）",
+      "moves": [
+        "ハイパーボイス",
+        "だいもんじ",
+        "まもる",
+        "こうそくいどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06173",
+      "dexNo": 302,
+      "pokemonName": "ヤミラミ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "つよ★カワ　ピカチュウのメガキャンペーン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-01-30",
+      "endDate": "2016-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "ランダム",
+      "nature": "ずぶとい",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ヤミラミナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "01016（第1回）, 01096（第2回）, 01166（第3回）, 01236（第4回）, 01306（第5回）",
+      "moves": [
+        "おにび",
+        "じこさいせい",
+        "ちょうはつ",
+        "でんげきは"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06174",
+      "dexNo": 80,
+      "pokemonName": "ヤドラン",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "つよ★カワ　ピカチュウのメガキャンペーン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-01-30",
+      "endDate": "2016-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "ランダム",
+      "nature": "れいせい",
+      "ability": "どんかん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ヤドランナイト",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "01016（第1回）, 01096（第2回）, 01166（第3回）, 01236（第4回）, 01306（第5回）",
+      "moves": [
+        "ねっとう",
+        "トリックルーム",
+        "なまける",
+        "アイアンテール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06175",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガトウキョーの　リザードン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 36,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "リザードナイトＹ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "メガトウキョ"
+      },
+      "trainerId": "12124",
+      "moves": [
+        "オーバーヒート",
+        "ソーラービーム",
+        "きあいだま",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ],
+      "notes": "ポケモンセンターヒロシマでの過去配信リピート。"
+    },
+    {
+      "id": "06176",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいのレックウザ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-02-01",
+      "endDate": "2016-02-29",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "イベント会場",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "03145",
+      "moves": [
+        "りゅうのはどう",
+        "たつまき",
+        "かみなり",
+        "しんそく"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "ポケモンセンターヒロシマでの過去配信リピート。"
+    },
+    {
+      "id": "06177",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいの　ゲンガー",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-03-01",
+      "endDate": "2016-03-31",
+      "region": [
+        "日本"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "ダークボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ゲンガナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ハロウィン"
+      },
+      "trainerId": "09134",
+      "moves": [
+        "シャドーボール",
+        "ヘドロウェーブ",
+        "あやしいひかり",
+        "おどろかす"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンターヒロシマでの過去配信リピート。"
+    },
+    {
+      "id": "06178",
+      "dexNo": 371,
+      "pokemonName": "タツベイ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガシンカするポケモンの　タマゴ（タツベイ）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-04-01",
+      "endDate": "2016-04-30",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いしあたま",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "いかり",
+        "あばれる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンターヒロシマでの過去配信リピート。タマゴでの配布。"
+    },
+    {
+      "id": "06179",
+      "dexNo": 333,
+      "pokemonName": "チルット",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガシンカするポケモンの　タマゴ（チルット）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-04-01",
+      "endDate": "2016-04-30",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ノーてんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "つつく",
+        "なきごえ",
+        "ハイパーボイス"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンターヒロシマでの過去配信リピート。タマゴでの配布。"
+    },
+    {
+      "id": "06180",
+      "dexNo": 322,
+      "pokemonName": "ドンメル",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガシンカするポケモンの　タマゴ（ドンメル）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-04-01",
+      "endDate": "2016-04-30",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "たんじゅん",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "なきごえ",
+        "たいあたり",
+        "アイアンヘッド"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンターヒロシマでの過去配信リピート。タマゴでの配布。"
+    },
+    {
+      "id": "06181",
+      "dexNo": 318,
+      "pokemonName": "キバニア",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガシンカするポケモンの　タマゴ（キバニア）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-04-01",
+      "endDate": "2016-04-30",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "かそく",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "にらみつける",
+        "かみつく",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンターヒロシマでの過去配信リピート。タマゴでの配布。"
+    },
+    {
+      "id": "06182",
+      "dexNo": 280,
+      "pokemonName": "ラルトス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガシンカするポケモンの　タマゴ（ラルトス）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-04-01",
+      "endDate": "2016-04-30",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "テレパシー",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "なきごえ",
+        "アンコール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンターヒロシマでの過去配信リピート。タマゴでの配布。"
+    },
+    {
+      "id": "06183",
+      "dexNo": 666,
+      "pokemonName": "ビビヨン",
+      "form": "ボールのもよう",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ボールのもようの　ビビヨン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-05-01",
+      "endDate": "2016-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 12,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "りんぷん",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "08014",
+      "moves": [
+        "しびれごな",
+        "かぜおこし",
+        "ひかりのかべ",
+        "むしのていこう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンターヒロシマでの過去配信リピート。"
+    },
+    {
+      "id": "06184",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "メガトウキョーの　ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-06-01",
+      "endDate": "2016-06-30",
+      "region": [
+        "日本"
+      ],
+      "level": 36,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ひらいしん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "メガトウキョ"
+      },
+      "trainerId": "12124",
+      "moves": [
+        "かみなり",
+        "みがわり",
+        "なかよくする",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ],
+      "notes": "ポケモンセンターヒロシマでの過去配信リピート。"
+    },
+    {
+      "id": "06185",
+      "dexNo": 130,
+      "pokemonName": "ギャラドス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Winter Counterattack Gyarados",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-01-16",
+      "endDate": "2016-01-17",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いかく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ギャラドスナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "겨울의반격"
+      },
+      "trainerId": "01166",
+      "moves": [
+        "たきのぼり",
+        "あばれる",
+        "こおりのキバ",
+        "じしん"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06186",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Game Freak Mew",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-02-27",
+      "endDate": "2016-02-28",
+      "region": [
+        "韓国"
+      ],
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ゲームフリーク",
+      "ot": {
+        "JPN": "게임프리크"
+      },
+      "trainerId": "22796",
+      "moves": [
+        "はたく"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ]
+    },
+    {
+      "id": "06187",
+      "dexNo": 54,
+      "pokemonName": "コダック",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "マスダのコダック　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-10-16",
+      "endDate": "2016-10-16",
+      "region": [
+        "日本"
+      ],
+      "level": 20,
+      "gender": "♂",
+      "nature": "のうてんき",
+      "ability": "ノーてんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ゲームフリーク",
+      "ot": {
+        "JPN": "マスダ"
+      },
+      "trainerId": "02276",
+      "moves": [
+        "ねんりき",
+        "かなしばり",
+        "じこあんじ",
+        "ドわすれ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06188",
+      "dexNo": 250,
+      "pokemonName": "ホウオウ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ＰＣキョウト　オープンきねん",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-03-16",
+      "endDate": "2016-05-08",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "せいなるはい",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "﻿ＰＣキョウト"
+      },
+      "trainerId": "03166",
+      "moves": [
+        "せいなるほのお",
+        "ブレイブバード",
+        "じこさいせい",
+        "おいわい"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "06189",
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "アニメ　ＸＹ＆Ｚ　ジガルデ",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-03-19",
+      "endDate": "2016-03-20",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "オーラブレイク",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "XY&Z"
+      },
+      "trainerId": "03196",
+      "moves": [
+        "グランドフォース",
+        "しんそく",
+        "へびにらみ",
+        "げきりん"
+      ]
+    },
+    {
+      "id": "06190",
+      "dexNo": 150,
+      "pokemonName": "ミュウツー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "2016 Korean World Championship Series Mewtwo",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-05-05",
+      "endDate": "2016-05-08",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "きんちょうかん",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ミュウツナイトＹ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "WCSK16"
+      },
+      "trainerId": "05056",
+      "moves": [
+        "サイコブレイク",
+        "サイコキネシス",
+        "じこさいせい",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06191",
+      "dexNo": 68,
+      "pokemonName": "カイリキー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Mark McQuillan's Machamp",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-07-02",
+      "endDate": "2016-07-03",
+      "region": [
+        "欧州",
+        "北米",
+        "豪州"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "ノーガード",
+      "ball": "プレシャスボール",
+      "metLocation": "バトルリゾート",
+      "heldItem": "オボンのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "﻿ScreenPeekaz"
+      },
+      "trainerId": "05146",
+      "moves": [
+        "ばくれつパンチ",
+        "ストーンエッジ",
+        "ワイドガード",
+        "はたきおとす"
+      ],
+      "ribbons": [
+        "チャンピオンリボン"
+      ]
+    },
+    {
+      "id": "06192",
+      "dexNo": 514,
+      "pokemonName": "バオッキー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "そうせんきょ７２０いの　バオッキー",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-06-25",
+      "endDate": "2016-07-15",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "くいしんぼう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画16",
+      "heldItem": "ふうせん",
+      "ot": {
+        "JPN": "そうせんきょ"
+      },
+      "trainerId": "00720",
+      "moves": [
+        "ふるいたてる",
+        "つめとぎ",
+        "グロウパンチ",
+        "ギガインパクト"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "06193",
+      "dexNo": 658,
+      "pokemonName": "ゲッコウガ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ゲッコウガ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-07-16",
+      "endDate": "2016-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "へんげんじざい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画16",
+      "heldItem": "マスターボール",
+      "ot": {
+        "JPN": "そうせんきょ"
+      },
+      "trainerId": "00720",
+      "moves": [
+        "ハイドロカノン",
+        "ダストシュート",
+        "たたみがえし",
+        "ハッピータイム"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "ポケモン総選挙720で1位になったゲッコウガの配布。"
+    },
+    {
+      "id": "06194",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "PCスカイツリータウン　オープンきねん",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-07-06",
+      "endDate": "2016-09-04",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "すいせいのかけら",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "07066",
+      "moves": [
+        "ガリョウテンセイ",
+        "りゅうせいぐん",
+        "そらをとぶ",
+        "おいわい"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "06195",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "たなばたまつり２０１６　ジラーチ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-08-01",
+      "endDate": "2016-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンタートウホク",
+      "heldItem": "ほしのかけら",
+      "ot": {
+        "JPN": "ひこぼし"
+      },
+      "trainerId": "08076",
+      "moves": [
+        "ねがいごと",
+        "コスモパワー",
+        "スピードスター",
+        "コメットパンチ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06196",
+      "dexNo": 719,
+      "pokemonName": "ディアンシー",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Pokémon All-Stars Battle Diancie",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-08-13",
+      "endDate": "2016-08-14",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ノーマルジュエル",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "올스타"
+      },
+      "trainerId": "08136",
+      "moves": [
+        "ダイヤストーム",
+        "ムーンフォース",
+        "リフレクター",
+        "おんがえし"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "06197",
+      "dexNo": 7,
+      "pokemonName": "ゼニガメ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Squirtle",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-08-19",
+      "endDate": "2016-08-21",
+      "region": [
+        "北米"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "あめうけざら",
+      "ball": "プレシャスボール",
+      "metLocation": "2016ポケモンワールドチャンピオンシップス",
+      "heldItem": "カメックスナイト",
+      "ot": {
+        "JPN": "WORLDS16"
+      },
+      "trainerId": "08196",
+      "moves": [
+        "たいあたり",
+        "しっぽをふる",
+        "おいわい"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "WCS2016会場（アメリカ・サンフランシスコ）での配布。"
+    },
+    {
+      "id": "06198",
+      "dexNo": 4,
+      "pokemonName": "ヒトカゲ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Charmander",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-08-19",
+      "endDate": "2016-08-21",
+      "region": [
+        "北米"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "サンパワー",
+      "ball": "プレシャスボール",
+      "metLocation": "2016ポケモンワールドチャンピオンシップス",
+      "heldItem": "リザードナイトＸ",
+      "ot": {
+        "JPN": "WORLDS16"
+      },
+      "trainerId": "08196",
+      "moves": [
+        "ひっかく",
+        "なきごえ",
+        "おいわい"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "WCS2016会場（アメリカ・サンフランシスコ）での配布。"
+    },
+    {
+      "id": "06199",
+      "dexNo": 1,
+      "pokemonName": "フシギダネ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Bulbasaur",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-08-19",
+      "endDate": "2016-08-21",
+      "region": [
+        "北米"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ようりょくそ",
+      "ball": "プレシャスボール",
+      "metLocation": "2016ポケモンワールドチャンピオンシップス",
+      "heldItem": "フシギバナイト",
+      "ot": {
+        "JPN": "WORLDS16"
+      },
+      "trainerId": "08196",
+      "moves": [
+        "たいあたり",
+        "なきごえ",
+        "おいわい"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "WCS2016会場（アメリカ・サンフランシスコ）での配布。"
+    },
+    {
+      "id": "06200",
+      "dexNo": 668,
+      "pokemonName": "カエンジシ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "フレアだんフラダリの　カエンジシ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-11-05",
+      "endDate": "2016-11-11",
+      "region": [
+        "日本"
+      ],
+      "level": 49,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "きんちょうかん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "フラダリ"
+      },
+      "trainerId": "10123",
+      "moves": [
+        "ハイパーボイス",
+        "だいもんじ",
+        "あくのはどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06201",
+      "dexNo": 635,
+      "pokemonName": "サザンドラ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "プラズマだんゲーチスの　サザンドラ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-11-05",
+      "endDate": "2016-11-11",
+      "region": [
+        "日本"
+      ],
+      "level": 52,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "ゲーチス"
+      },
+      "trainerId": "06232",
+      "moves": [
+        "ドラゴンダイブ",
+        "かみくだく",
+        "いわなだれ",
+        "やつあたり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06202",
+      "dexNo": 461,
+      "pokemonName": "マニューラ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ギンガだんアカギの　マニューラ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-11-05",
+      "endDate": "2016-11-11",
+      "region": [
+        "日本"
+      ],
+      "level": 48,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "オボンのみ",
+      "ot": {
+        "JPN": "アカギ"
+      },
+      "trainerId": "09286",
+      "moves": [
+        "つじぎり",
+        "れいとうパンチ",
+        "かわらわり",
+        "シザークロス"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06203",
+      "dexNo": 323,
+      "pokemonName": "バクーダ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "マグマだんマツブサの　バクーダ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-11-05",
+      "endDate": "2016-11-11",
+      "region": [
+        "日本"
+      ],
+      "level": 43,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ハードロック",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "バクーダナイト",
+      "ot": {
+        "JPN": "マツブサ"
+      },
+      "trainerId": "11214",
+      "moves": [
+        "のろい",
+        "とっしん",
+        "いわなだれ",
+        "あくび"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06204",
+      "dexNo": 319,
+      "pokemonName": "サメハダー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "アクアだんアオギリの　サメハダー",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-11-05",
+      "endDate": "2016-11-11",
+      "region": [
+        "日本"
+      ],
+      "level": 43,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "さめはだ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "サメハダナイト",
+      "ot": {
+        "JPN": "アオギリ"
+      },
+      "trainerId": "11214",
+      "moves": [
+        "こわいかお",
+        "きりさく",
+        "どくどくのキバ",
+        "かみくだく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06205",
+      "dexNo": 31,
+      "pokemonName": "ニドクイン",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ロケットだんサカキの　ニドクイン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2016-11-05",
+      "endDate": "2016-11-11",
+      "region": [
+        "日本"
+      ],
+      "level": 41,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "どくのトゲ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "サカキ"
+      },
+      "trainerId": "01294",
+      "moves": [
+        "しっぽをふる",
+        "にどげり",
+        "どくばり",
+        "のしかかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06206",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "Korean League Eevee",
+      "distributionMethod": "赤外線通信",
+      "startDate": "2016-10-22",
+      "endDate": "2016-10-23",
+      "region": [
+        "韓国"
+      ],
+      "level": 15,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "にげあし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "코리안리그"
+      },
+      "trainerId": "10226",
+      "moves": [
+        "スピードスター",
+        "でんこうせっか",
+        "つぶらなひとみ",
+        "てだすけ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06207",
+      "dexNo": 123,
+      "pokemonName": "ストライク",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "クリスマス ストライク",
+      "distributionMethod": "ローカル交換",
+      "startDate": "2013-12-21",
+      "endDate": "2013-12-26",
+      "region": [
+        "日本"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "いじっぱり",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "メタルコート",
+      "ot": {
+        "JPN": "クリスマス"
+      },
+      "trainerId": "12213",
+      "moves": [
+        "つばめがえし",
+        "みねうち",
+        "こうそくいどう",
+        "れんぞくぎり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンター・トイザらス店頭の通信交換形式で配布（クリスマスイベント）。"
+    },
+    {
+      "id": "06208",
+      "dexNo": 93,
+      "pokemonName": "ゴースト",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "クリスマス ゴースト",
+      "distributionMethod": "ローカル交換",
+      "startDate": "2013-12-21",
+      "endDate": "2013-12-26",
+      "region": [
+        "日本"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "おくびょう",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "ot": {
+        "JPN": "クリスマス"
+      },
+      "trainerId": "12213",
+      "moves": [
+        "サイコキネシス",
+        "あやしいひかり",
+        "ふいうち",
+        "シャドーパンチ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンター・トイザらス店頭の通信交換形式で配布（クリスマスイベント）。"
+    },
+    {
+      "id": "06209",
+      "dexNo": 123,
+      "pokemonName": "ストライク",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "Scyther",
+      "distributionMethod": "ローカル交換",
+      "startDate": "2014-02-22",
+      "endDate": "2014-02-22",
+      "region": [
+        "韓国"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "いじっぱり",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "メタルコート",
+      "ot": {
+        "JPN": "새해복많이"
+      },
+      "trainerId": "02014",
+      "moves": [
+        "つばめがえし",
+        "みねうち",
+        "こうそくいどう",
+        "れんぞくぎり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06210",
+      "dexNo": 93,
+      "pokemonName": "ゴースト",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "Haunter",
+      "distributionMethod": "ローカル交換",
+      "startDate": "2014-02-22",
+      "endDate": "2014-02-22",
+      "region": [
+        "韓国"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "おくびょう",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "ot": {
+        "JPN": "새해복많이"
+      },
+      "trainerId": "02014",
+      "moves": [
+        "サイコキネシス",
+        "あやしいひかり",
+        "ふいうち",
+        "シャドーパンチ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06211",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ポケモンバンク　セレビィ",
+      "distributionMethod": "ポケモンリンク",
+      "startDate": "2014-02-05",
+      "endDate": "2014-09-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 10,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "ゴージャスボール",
+      "metLocation": "ポケモンリンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "じこさいせい",
+        "いやしのすず",
+        "しんぴのまもり",
+        "てかげん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンバンク利用特典。ゲーム内で直接受け取り。"
+    },
+    {
+      "id": "06212",
+      "dexNo": 362,
+      "pokemonName": "オニゴーリ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ORAS体験版　オニゴーリ",
+      "distributionMethod": "ポケモンリンク",
+      "startDate": "2014-10-15",
+      "endDate": "2023-03-27",
+      "region": [
+        "全世界"
+      ],
+      "level": 40,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいしんりょく",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンリンク",
+      "heldItem": "オニゴーリナイト",
+      "ot": {
+        "JPN": "オメガ",
+        "ENG": "Orlando",
+        "SPA": "Orlando",
+        "FRE": "Orlando",
+        "GER": "Orlando",
+        "ITA": "Orlando",
+        "KOR": "오메가"
+      },
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "こおりのキバ",
+        "ずつき",
+        "まもる",
+        "こおりのいぶき"
+      ],
+      "notes": "オメガルビー・アルファサファイア特別体験版からの連動特典。／ORAS体験版のポケモンリンク特典。3DSニンテンドーeショップ営業終了（2023-03-27）以降は体験版の新規入手不可"
+    },
+    {
+      "id": "06213",
+      "dexNo": 208,
+      "pokemonName": "ハガネール",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ORAS体験版　ハガネール",
+      "distributionMethod": "ポケモンリンク",
+      "startDate": "2014-10-15",
+      "endDate": "2023-03-27",
+      "region": [
+        "全世界"
+      ],
+      "level": 40,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いしあたま",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンリンク",
+      "heldItem": "ハガネールナイト",
+      "ot": {
+        "JPN": "オメガ",
+        "ENG": "Orlando",
+        "SPA": "Orlando",
+        "FRE": "Orlando",
+        "GER": "Orlando",
+        "ITA": "Orlando",
+        "KOR": "오메가"
+      },
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "アイアンテール",
+        "かみくだく",
+        "いわなだれ",
+        "いやなおと"
+      ],
+      "notes": "オメガルビー・アルファサファイア特別体験版からの連動特典。／ORAS体験版のポケモンリンク特典。3DSニンテンドーeショップ営業終了（2023-03-27）以降は体験版の新規入手不可"
+    },
+    {
+      "id": "06214",
+      "dexNo": 160,
+      "pokemonName": "オーダイル",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンバンク　オーダイル",
+      "distributionMethod": "ポケモンリンク",
+      "startDate": "2015-02-27",
+      "endDate": "2015-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ちからずく",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンリンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "れいとうパンチ",
+        "かみくだく",
+        "たきのぼり",
+        "いやなおと"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンバンク利用特典（隠れ特性）。"
+    },
+    {
+      "id": "06215",
+      "dexNo": 157,
+      "pokemonName": "バクフーン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンバンク　バクフーン",
+      "distributionMethod": "ポケモンリンク",
+      "startDate": "2015-02-27",
+      "endDate": "2015-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "もらいび",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンリンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "オーバーヒート",
+        "かえんほうしゃ",
+        "ニトロチャージ",
+        "スピードスター"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンバンク利用特典（隠れ特性）。"
+    },
+    {
+      "id": "06216",
+      "dexNo": 154,
+      "pokemonName": "メガニウム",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモンバンク　メガニウム",
+      "distributionMethod": "ポケモンリンク",
+      "startDate": "2015-02-27",
+      "endDate": "2015-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "リーフガード",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンリンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ソーラービーム",
+        "にほんばれ",
+        "こうごうせい",
+        "のしかかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンバンク利用特典（隠れ特性）。"
+    },
+    {
+      "id": "06217",
+      "dexNo": 379,
+      "pokemonName": "レジスチル",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "レジスチル",
+      "distributionMethod": "ポケモンリンク",
+      "startDate": "2016-03-04",
+      "endDate": "2016-10-31",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ライトメタル",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンリンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "アイアンヘッド",
+        "いわなだれ",
+        "じゅうりょく",
+        "てっぺき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06218",
+      "dexNo": 378,
+      "pokemonName": "レジアイス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "レジアイス",
+      "distributionMethod": "ポケモンリンク",
+      "startDate": "2016-03-04",
+      "endDate": "2016-10-31",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "アイスボディ",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンリンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "１０まんボルト",
+        "ドわすれ",
+        "れいとうビーム",
+        "あられ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "06219",
+      "dexNo": 377,
+      "pokemonName": "レジロック",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "レジロック",
+      "distributionMethod": "ポケモンリンク",
+      "startDate": "2016-03-04",
+      "endDate": "2016-10-31",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "がんじょう",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンリンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "だいばくはつ",
+        "れいとうパンチ",
+        "ストーンエッジ",
+        "アームハンマー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    }
+  ]
+}

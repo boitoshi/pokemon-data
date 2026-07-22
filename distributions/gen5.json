@@ -1,0 +1,4262 @@
+{
+  "schemaVersion": 1,
+  "dataset": "gen5",
+  "generation": 5,
+  "provenance": "scraper:bulbapedia",
+  "entries": [
+    {
+      "id": "05001",
+      "dexNo": 616,
+      "pokemonName": "チョボマキ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "がくえんさいＸポケモンプレゼント（チョボマキ）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-10-10",
+      "endDate": "2010-11-28",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "うるおいボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "むしのジュエル",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "10100",
+      "moves": [
+        "むしのていこう",
+        "メガドレイン",
+        "あくび",
+        "まもる"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ],
+      "notes": "全国の大学の学園祭で開催された「学園祭X」でランダム配布。OTは開催校により25種類。"
+    },
+    {
+      "id": "05002",
+      "dexNo": 588,
+      "pokemonName": "カブルモ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "がくえんさいＸポケモンプレゼント（カブルモ）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-10-10",
+      "endDate": "2010-11-28",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "むしのしらせ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "むしのジュエル",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "10100",
+      "moves": [
+        "みだれづき",
+        "ずつき",
+        "みねうち",
+        "むしのさざめき"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ],
+      "notes": "全国の大学の学園祭で開催された「学園祭X」でランダム配布。OTは開催校により25種類。"
+    },
+    {
+      "id": "05003",
+      "dexNo": 126,
+      "pokemonName": "ブーバー",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "がくえんさいＸポケモンプレゼント（ブーバー）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-10-10",
+      "endDate": "2010-11-28",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ほのおのからだ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "マグマブースター",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "10100",
+      "moves": [
+        "えんまく",
+        "だましうち",
+        "ほのおのうず",
+        "あやしいひかり"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ],
+      "notes": "全国の大学の学園祭で開催された「学園祭X」でランダム配布。OTは開催校により25種類。"
+    },
+    {
+      "id": "05004",
+      "dexNo": 125,
+      "pokemonName": "エレブー",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "がくえんさいＸポケモンプレゼント（エレブー）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-10-10",
+      "endDate": "2010-11-28",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "エレキブースター",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "10100",
+      "moves": [
+        "けたぐり",
+        "スピードスター",
+        "でんげきは",
+        "ひかりのかべ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ],
+      "notes": "全国の大学の学園祭で開催された「学園祭X」でランダム配布。OTは開催校により25種類。"
+    },
+    {
+      "id": "05005",
+      "dexNo": 123,
+      "pokemonName": "ストライク",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "がくえんさいＸポケモンプレゼント（ストライク）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-10-10",
+      "endDate": "2010-11-28",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "むしのしらせ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "メタルコート",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "10100",
+      "moves": [
+        "こうそくいどう",
+        "つばさでうつ",
+        "れんぞくぎり",
+        "きりさく"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ],
+      "notes": "全国の大学の学園祭で開催された「学園祭X」でランダム配布。OTは開催校により25種類。"
+    },
+    {
+      "id": "05006",
+      "dexNo": 93,
+      "pokemonName": "ゴースト",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "がくえんさいＸポケモンプレゼント（ゴースト）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-10-10",
+      "endDate": "2010-11-28",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ゴーストジュエル",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "10100",
+      "moves": [
+        "あやしいひかり",
+        "ふいうち",
+        "シャドーパンチ",
+        "しっぺがえし"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ],
+      "notes": "全国の大学の学園祭で開催された「学園祭X」でランダム配布。OTは開催校により25種類。"
+    },
+    {
+      "id": "05007",
+      "dexNo": 79,
+      "pokemonName": "ヤドン",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "がくえんさいＸポケモンプレゼント（ヤドン）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-10-10",
+      "endDate": "2010-11-28",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "どんかん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "おうじゃのしるし",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "10100",
+      "moves": [
+        "ねんりき",
+        "かなしばり",
+        "ずつき",
+        "みずのはどう"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ],
+      "notes": "全国の大学の学園祭で開催された「学園祭X」でランダム配布。OTは開催校により25種類。"
+    },
+    {
+      "id": "05008",
+      "dexNo": 67,
+      "pokemonName": "ゴーリキー",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "がくえんさいＸポケモンプレゼント（ゴーリキー）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-10-10",
+      "endDate": "2010-11-28",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "こんじょう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "かくとうジュエル",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "10100",
+      "moves": [
+        "ローキック",
+        "みやぶる",
+        "ちきゅうなげ",
+        "リベンジ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ],
+      "notes": "全国の大学の学園祭で開催された「学園祭X」でランダム配布。OTは開催校により25種類。"
+    },
+    {
+      "id": "05009",
+      "dexNo": 531,
+      "pokemonName": "タブンネ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "バースデー タブンネ（2010）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-11-04",
+      "endDate": "2011-11-03",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "♀",
+      "nature": "おだやか",
+      "ability": "いやしのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "（配布により異なる）",
+      "heldItem": "ふしぎなアメ",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "11040",
+      "moves": [
+        "いやしのはどう",
+        "てだすけ",
+        "リフレッシュ",
+        "おうふくビンタ"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "05010",
+      "dexNo": 491,
+      "pokemonName": "ダークライ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "冬休み ダークライ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-12-27",
+      "endDate": "2011-01-11",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ナイトメア",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ナゾのみ",
+      "ot": {
+        "JPN": "ＡＮＡ"
+      },
+      "trainerId": "12270",
+      "moves": [
+        "ダークホール",
+        "あやしいかぜ",
+        "だましうち",
+        "あくむ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05011",
+      "dexNo": 571,
+      "pokemonName": "ゾロアーク",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンスマッシュ! ゾロアーク",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-01-16",
+      "endDate": "2011-02-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "きまぐれ",
+      "ability": "イリュージョン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "ot": {
+        "JPN": "ポケスマ！"
+      },
+      "trainerId": "01161",
+      "moves": [
+        "こうそくいどう",
+        "さしおさえ",
+        "おしおき",
+        "バークアウト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05012",
+      "dexNo": 610,
+      "pokemonName": "キバゴ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンサーチャーBW キバゴ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-03-19",
+      "endDate": "2011-05-08",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "かたやぶり",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "やすらぎのすず",
+      "ot": {
+        "JPN": "サーチャー"
+      },
+      "trainerId": "03191",
+      "moves": [
+        "りゅうのいかり",
+        "おんがえし",
+        "こらえる",
+        "ドラゴンクロー"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ],
+      "notes": "配信期間は2011-03-19〜04-03と2011-04-29〜05-08の2期に分けて実施"
+    },
+    {
+      "id": "05013",
+      "dexNo": 494,
+      "pokemonName": "ビクティニ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ビクティニ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-04-16",
+      "endDate": "2011-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "しょうりのほし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画11",
+      "heldItem": "ほのおのジュエル",
+      "ot": {
+        "JPN": "アイント"
+      },
+      "trainerId": "04161",
+      "moves": [
+        "Ｖジェネレート",
+        "クロスフレイム",
+        "クロスサンダー",
+        "かえんだん"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05014",
+      "dexNo": 644,
+      "pokemonName": "ゼクロム",
+      "games": [
+        "black"
+      ],
+      "eventName": "ゼクロム　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-07-09",
+      "endDate": "2011-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "テラボルテージ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画11",
+      "heldItem": "ドラゴンジュエル",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "07161",
+      "moves": [
+        "らいげき",
+        "クロスサンダー",
+        "くろいきり",
+        "げきりん"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05015",
+      "dexNo": 643,
+      "pokemonName": "レシラム",
+      "games": [
+        "white"
+      ],
+      "eventName": "レシラム　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-07-09",
+      "endDate": "2011-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ターボブレイズ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画11",
+      "heldItem": "ドラゴンジュエル",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "07161",
+      "moves": [
+        "あおいほのお",
+        "クロスフレイム",
+        "しろいきり",
+        "りゅうせいぐん"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05016",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ＡＮＡ　ピカチュウ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-07-18",
+      "endDate": "2011-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "ＡＮＡ"
+      },
+      "trainerId": "07181",
+      "moves": [
+        "そらをとぶ",
+        "アイアンテール",
+        "エレキボール",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05017",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "「うたうピカチュウ」をうけとろう！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-07-30",
+      "endDate": "2011-09-04",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "ひらいしん",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "07301",
+      "moves": [
+        "うたう",
+        "フラフラダンス",
+        "アンコール",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05018",
+      "dexNo": 560,
+      "pokemonName": "ズルズキン",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "WCS2011 ズルズキン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-08-14",
+      "endDate": "2011-08-14",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ゆうかん",
+      "ability": "じしんかじょう",
+      "ball": "プレシャスボール",
+      "metLocation": "2011ポケモンワールドチャンピオンシップス",
+      "heldItem": "たべのこし",
+      "ot": {
+        "JPN": "WORLD11"
+      },
+      "trainerId": "08141",
+      "moves": [
+        "ほのおのパンチ",
+        "しっぺがえし",
+        "ドレインパンチ",
+        "みがわり"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "WCS2011会場（アメリカ・サンディエゴ）での配布。"
+    },
+    {
+      "id": "05019",
+      "dexNo": 531,
+      "pokemonName": "タブンネ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "バースデー タブンネ（2011）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-11-04",
+      "endDate": "2012-11-03",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "♀",
+      "nature": "まじめ",
+      "ability": "いやしのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "（配布により異なる）",
+      "heldItem": "ふしぎなアメ",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "11041",
+      "moves": [
+        "いやしのはどう",
+        "てだすけ",
+        "リフレッシュ",
+        "プレゼント"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "05020",
+      "dexNo": 495,
+      "pokemonName": "ツタージャ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンセンタートウホク ツタージャ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-12-04",
+      "endDate": "2011-12-18",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "しんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ちからのハチマキ",
+      "ot": {
+        "JPN": "トウホク"
+      },
+      "trainerId": "12041",
+      "moves": [
+        "せいちょう",
+        "こうごうせい",
+        "エナジーボール",
+        "アロマセラピー"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05021",
+      "dexNo": 492,
+      "pokemonName": "シェイミ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンセンター シェイミ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2011-12-19",
+      "endDate": "2012-01-05",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ＰＣ"
+      },
+      "trainerId": "12191",
+      "moves": [
+        "シードフレア",
+        "やどりぎのタネ",
+        "こうごうせい",
+        "あまいかおり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05022",
+      "dexNo": 633,
+      "pokemonName": "モノズ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "モノズ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-01-06",
+      "endDate": "2012-02-05",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "はりきり",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "たいあたり",
+        "りゅうのいかり"
+      ]
+    },
+    {
+      "id": "05023",
+      "dexNo": 621,
+      "pokemonName": "クリムガン",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "クリムガン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-01-06",
+      "endDate": "2012-02-05",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "さめはだ",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "にらみつける",
+        "ひっかく"
+      ]
+    },
+    {
+      "id": "05024",
+      "dexNo": 371,
+      "pokemonName": "タツベイ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "タツベイ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-01-06",
+      "endDate": "2012-02-05",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いしあたま",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "いかり"
+      ]
+    },
+    {
+      "id": "05025",
+      "dexNo": 333,
+      "pokemonName": "チルット",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "チルット",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-01-06",
+      "endDate": "2012-02-05",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "つつく",
+        "なきごえ"
+      ]
+    },
+    {
+      "id": "05026",
+      "dexNo": 328,
+      "pokemonName": "ナックラー",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ナックラー",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-01-06",
+      "endDate": "2012-02-05",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "かいりきバサミ",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "かみつく"
+      ]
+    },
+    {
+      "id": "05027",
+      "dexNo": 116,
+      "pokemonName": "タッツー",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "タッツー",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-01-06",
+      "endDate": "2012-02-05",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "すいすい",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンセンター",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "あわ"
+      ]
+    },
+    {
+      "id": "05028",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンセンター15しゅうねんきねん",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-02-10",
+      "endDate": "2012-02-27",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "せんきょ"
+      },
+      "trainerId": "02102",
+      "moves": [
+        "しんそく",
+        "はかいこうせん",
+        "りゅうのはどう",
+        "Ｖジェネレート"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05029",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "しんそくピカチュウ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-03-01",
+      "endDate": "2012-05-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "さくら"
+      },
+      "trainerId": "03012",
+      "moves": [
+        "しんそく",
+        "１０まんボルト",
+        "くさむすび",
+        "かわらわり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05030",
+      "dexNo": 260,
+      "pokemonName": "ラグラージ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ちょうきょうりょくポケモン　プレゼント！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-03-17",
+      "endDate": "2012-04-01",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "じしん",
+        "れいとうビーム",
+        "ハイドロポンプ",
+        "アームハンマー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05031",
+      "dexNo": 257,
+      "pokemonName": "バシャーモ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ちょうきょうりょくポケモン　プレゼント！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-03-17",
+      "endDate": "2012-04-01",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "フレアドライブ",
+        "とびひざげり",
+        "かみなりパンチ",
+        "ストーンエッジ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05032",
+      "dexNo": 254,
+      "pokemonName": "ジュカイン",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ちょうきょうりょくポケモン　プレゼント！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-03-17",
+      "endDate": "2012-04-01",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "しんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "リーフストーム",
+        "りゅうのはどう",
+        "きあいだま",
+        "いわなだれ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05033",
+      "dexNo": 365,
+      "pokemonName": "トドゼルガ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ちょうきょうりょくポケモン　プレゼント！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-04-02",
+      "endDate": "2012-04-22",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "あついしぼう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "れいとうビーム",
+        "なみのり",
+        "あられ",
+        "ぜったいれいど"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05034",
+      "dexNo": 350,
+      "pokemonName": "ミロカロス",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ちょうきょうりょくポケモン　プレゼント！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-04-02",
+      "endDate": "2012-04-22",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ふしぎなうろこ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "じこさいせい",
+        "ハイドロポンプ",
+        "れいとうビーム",
+        "ミラーコート"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05035",
+      "dexNo": 272,
+      "pokemonName": "ルンパッパ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ちょうきょうりょくポケモン　プレゼント！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-04-02",
+      "endDate": "2012-04-22",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "すいすい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "ねこだまし",
+        "ハイドロポンプ",
+        "れいとうビーム",
+        "ギガドレイン"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05036",
+      "dexNo": 376,
+      "pokemonName": "メタグロス",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ちょうきょうりょくポケモン　プレゼント！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-04-23",
+      "endDate": "2012-05-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "コメットパンチ",
+        "じしん",
+        "バレットパンチ",
+        "アームハンマー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05037",
+      "dexNo": 373,
+      "pokemonName": "ボーマンダ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ちょうきょうりょくポケモン　プレゼント！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-04-23",
+      "endDate": "2012-05-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いかく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "りゅうのまい",
+        "ドラゴンクロー",
+        "げきりん",
+        "つばめがえし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05038",
+      "dexNo": 282,
+      "pokemonName": "サーナイト",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ちょうきょうりょくポケモン　プレゼント！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-04-23",
+      "endDate": "2012-05-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "トレース",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "さいみんじゅつ",
+        "１０まんボルト",
+        "きあいだま",
+        "サイコキネシス"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05039",
+      "dexNo": 383,
+      "pokemonName": "グラードン",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンセンターフクオカ グラードン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-03-17",
+      "endDate": "2012-04-15",
+      "region": [
+        "日本"
+      ],
+      "level": 80,
+      "nature": "ランダム",
+      "ability": "ひでり",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンターフクオカ",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "フクオカ"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "じしん",
+        "げんしのちから",
+        "ふんか",
+        "ソーラービーム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05040",
+      "dexNo": 382,
+      "pokemonName": "カイオーガ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンセンターフクオカ カイオーガ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-04-16",
+      "endDate": "2012-05-06",
+      "region": [
+        "日本"
+      ],
+      "level": 80,
+      "nature": "ランダム",
+      "ability": "あめふらし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンターフクオカ",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "フクオカ"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "れいとうビーム",
+        "げんしのちから",
+        "しおふき",
+        "かみなり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05041",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "さいきょうクラスのピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-03-23",
+      "endDate": "2012-04-08",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "でんきだま",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "トウホク"
+      },
+      "trainerId": "03232",
+      "moves": [
+        "かみなり",
+        "ボルテッカー",
+        "くさむすび",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "05042",
+      "dexNo": 393,
+      "pokemonName": "ポッチャマ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンサーチャーBW ポッチャマ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-04-28",
+      "endDate": "2012-05-06",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "みずのジュエル",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "サーチャー"
+      },
+      "trainerId": "04282",
+      "moves": [
+        "ハイドロポンプ",
+        "フェザーダンス",
+        "みずあそび",
+        "つつく"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "05043",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ピカチュウ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-05-11",
+      "endDate": "2012-05-20",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "おまつり"
+      },
+      "trainerId": "05112",
+      "moves": [
+        "かみなり",
+        "ボルテッカー",
+        "くさむすび",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "05044",
+      "dexNo": 609,
+      "pokemonName": "シャンデラ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "シャンデラ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-05-07",
+      "endDate": "2012-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "ひかえめ",
+      "ability": "もらいび",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "モモンのみ",
+      "ot": {
+        "JPN": "PC"
+      },
+      "trainerId": "05072",
+      "moves": [
+        "ねっぷう",
+        "シャドーボール",
+        "エナジーボール",
+        "サイコキネシス"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05045",
+      "dexNo": 38,
+      "pokemonName": "キュウコン",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "キュウコン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-05-07",
+      "endDate": "2012-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ずぶとい",
+      "ability": "ひでり",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "カゴのみ",
+      "ot": {
+        "JPN": "PC"
+      },
+      "trainerId": "05072",
+      "moves": [
+        "ねっぷう",
+        "ソーラービーム",
+        "サイコショック",
+        "おにび"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05046",
+      "dexNo": 547,
+      "pokemonName": "エルフーン",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "エルフーン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-06-01",
+      "endDate": "2012-06-22",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "おくびょう",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "クラボのみ",
+      "ot": {
+        "JPN": "PC"
+      },
+      "trainerId": "06012",
+      "moves": [
+        "いばる",
+        "ギガドレイン",
+        "ふくろだたき",
+        "てだすけ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05047",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ルカリオ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-06-01",
+      "endDate": "2012-06-22",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "せいぎのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "キーのみ",
+      "ot": {
+        "JPN": "PC"
+      },
+      "trainerId": "06012",
+      "moves": [
+        "バレットパンチ",
+        "インファイト",
+        "ストーンエッジ",
+        "シャドークロー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05048",
+      "dexNo": 647,
+      "pokemonName": "ケルディオ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ケルディオ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-06-23",
+      "endDate": "2012-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "せいぎのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画12",
+      "heldItem": "ポイントマックス",
+      "ot": {
+        "JPN": "しょこたん"
+      },
+      "trainerId": "06232",
+      "moves": [
+        "アクアジェット",
+        "にらみつける",
+        "にどげり",
+        "バブルこうせん"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "ポケモンセンター店舗で赤外線配信。台湾でも2012-09-20〜10-20に配信された"
+    },
+    {
+      "id": "05049",
+      "dexNo": 648,
+      "pokemonName": "メロエッタ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "メロエッタ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-07-14",
+      "endDate": "2012-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画12",
+      "heldItem": "ポイントマックス",
+      "ot": {
+        "JPN": "えいがかん"
+      },
+      "trainerId": "07142",
+      "moves": [
+        "りんしょう",
+        "でんこうせっか",
+        "ねんりき"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "映画「キュレムVS聖剣士ケルディオ」上映劇場で配信。2012-07-01に先行配信あり"
+    },
+    {
+      "id": "05050",
+      "dexNo": 566,
+      "pokemonName": "アーケン",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "アーケン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-07-21",
+      "endDate": "2013-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "よわき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ヤチェのみ",
+      "ot": {
+        "JPN": "キャンプ"
+      },
+      "trainerId": "07192",
+      "moves": [
+        "もろはのずつき",
+        "つばさでうつ",
+        "かげぶんしん",
+        "こわいかお"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05051",
+      "dexNo": 564,
+      "pokemonName": "プロトーガ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "プロトーガ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-07-21",
+      "endDate": "2013-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ハードロック",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ソクノのみ",
+      "ot": {
+        "JPN": "キャンプ"
+      },
+      "trainerId": "07192",
+      "moves": [
+        "かみつく",
+        "まもる",
+        "アクアジェット",
+        "のしかかり"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05052",
+      "dexNo": 410,
+      "pokemonName": "タテトプス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "タテトプス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-07-21",
+      "endDate": "2013-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "がんじょう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "シュカのみ",
+      "ot": {
+        "JPN": "キャンプ"
+      },
+      "trainerId": "07192",
+      "moves": [
+        "きんぞくおん",
+        "とっしん",
+        "のしかかり",
+        "まもる"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05053",
+      "dexNo": 408,
+      "pokemonName": "ズガイドス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ズガイドス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-07-21",
+      "endDate": "2013-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "かたやぶり",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "イトケのみ",
+      "ot": {
+        "JPN": "キャンプ"
+      },
+      "trainerId": "07192",
+      "moves": [
+        "おいうち",
+        "とっしん",
+        "かみくだく",
+        "ずつき"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05054",
+      "dexNo": 347,
+      "pokemonName": "アノプス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "アノプス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-07-21",
+      "endDate": "2013-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "カブトアーマー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ヨロギのみ",
+      "ot": {
+        "JPN": "キャンプ"
+      },
+      "trainerId": "07192",
+      "moves": [
+        "かたくなる",
+        "どろあそび",
+        "みずでっぽう",
+        "クロスポイズン"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05055",
+      "dexNo": 345,
+      "pokemonName": "リリーラ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "リリーラ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-07-21",
+      "endDate": "2013-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "きゅうばん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "タンガのみ",
+      "ot": {
+        "JPN": "キャンプ"
+      },
+      "trainerId": "07192",
+      "moves": [
+        "じこさいせい",
+        "いわなだれ",
+        "からみつく",
+        "ようかいえき"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05056",
+      "dexNo": 142,
+      "pokemonName": "プテラ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "プテラ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-07-21",
+      "endDate": "2013-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いしあたま",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "リリバのみ",
+      "ot": {
+        "JPN": "キャンプ"
+      },
+      "trainerId": "07192",
+      "moves": [
+        "はがねのつばさ",
+        "こおりのキバ",
+        "ほのおのキバ",
+        "かみなりのキバ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05057",
+      "dexNo": 140,
+      "pokemonName": "カブト",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "カブト",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-07-21",
+      "endDate": "2013-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "すいすい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ヨプのみ",
+      "ot": {
+        "JPN": "キャンプ"
+      },
+      "trainerId": "07192",
+      "moves": [
+        "あやしいひかり",
+        "あなをほる",
+        "ひっかく",
+        "かたくなる"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05058",
+      "dexNo": 138,
+      "pokemonName": "オムナイト",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "オムナイト",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-07-21",
+      "endDate": "2013-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "すいすい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "リンドのみ",
+      "ot": {
+        "JPN": "キャンプ"
+      },
+      "trainerId": "07192",
+      "moves": [
+        "バブルこうせん",
+        "ちょうおんぱ",
+        "からにこもる",
+        "かみつく"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05059",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "Soar to Victory!",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-08-12",
+      "endDate": "2012-08-12",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "おくびょう",
+      "ability": "ひらいしん",
+      "ball": "プレシャスボール",
+      "metLocation": "2012ポケモンワールドチャンピオンシップス",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "WORLD12"
+      },
+      "trainerId": "08122",
+      "moves": [
+        "そらをとぶ",
+        "１０まんボルト",
+        "くさむすび",
+        "まもる"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "WCS2012会場（アメリカ・ハワイ州コナ）での配布。"
+    },
+    {
+      "id": "05060",
+      "dexNo": 7,
+      "pokemonName": "ゼニガメ",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "ゼニガメ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-09-01",
+      "endDate": "2012-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "げきりゅう",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "みねうち",
+        "とおせんぼう",
+        "ハイドロカノン",
+        "このゆびとまれ"
+      ]
+    },
+    {
+      "id": "05061",
+      "dexNo": 4,
+      "pokemonName": "ヒトカゲ",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "ヒトカゲ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-09-01",
+      "endDate": "2012-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "みねうち",
+        "とおせんぼう",
+        "ブラストバーン",
+        "アクロバット"
+      ]
+    },
+    {
+      "id": "05062",
+      "dexNo": 1,
+      "pokemonName": "フシギダネ",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "フシギダネ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-09-01",
+      "endDate": "2012-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "しんりょく",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "みねうち",
+        "とおせんぼう",
+        "ハードプラント",
+        "ウェザーボール"
+      ]
+    },
+    {
+      "id": "05063",
+      "dexNo": 445,
+      "pokemonName": "ガブリアス",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "ガブリアス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-09-15",
+      "endDate": "2012-10-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "すながくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ひかりのこな",
+      "ot": {
+        "JPN": "PC"
+      },
+      "trainerId": "09152",
+      "moves": [
+        "げきりん",
+        "じしん",
+        "つるぎのまい",
+        "ストーンエッジ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05064",
+      "dexNo": 376,
+      "pokemonName": "メタグロス",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "メタグロス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-09-15",
+      "endDate": "2012-10-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "こだわりハチマキ",
+      "ot": {
+        "JPN": "PC"
+      },
+      "trainerId": "09152",
+      "moves": [
+        "バレットパンチ",
+        "しねんのずつき",
+        "アームハンマー",
+        "れいとうパンチ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05065",
+      "dexNo": 248,
+      "pokemonName": "バンギラス",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "バンギラス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-09-15",
+      "endDate": "2012-10-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "すなおこし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "PC"
+      },
+      "trainerId": "09152",
+      "moves": [
+        "だいもんじ",
+        "れいとうビーム",
+        "ストーンエッジ",
+        "かみくだく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05066",
+      "dexNo": 212,
+      "pokemonName": "ハッサム",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "ハッサム",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-09-15",
+      "endDate": "2012-10-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "PC"
+      },
+      "trainerId": "09152",
+      "moves": [
+        "バレットパンチ",
+        "むしくい",
+        "はねやすめ",
+        "つるぎのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05067",
+      "dexNo": 149,
+      "pokemonName": "カイリュー",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "カイリュー",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-09-15",
+      "endDate": "2012-10-28",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "マルチスケイル",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ラムのみ",
+      "ot": {
+        "JPN": "PC"
+      },
+      "trainerId": "09152",
+      "moves": [
+        "しんそく",
+        "ほのおのパンチ",
+        "りゅうのまい",
+        "げきりん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05068",
+      "dexNo": 531,
+      "pokemonName": "タブンネ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "バースデー タブンネ（2012）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-11-04",
+      "endDate": "2013-10-11",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "♀",
+      "nature": "ようき",
+      "ability": "いやしのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "（配布により異なる）",
+      "heldItem": "ふしぎなアメ",
+      "ot": {
+        "JPN": "（配布により異なる）"
+      },
+      "trainerId": "11042",
+      "moves": [
+        "いやしのはどう",
+        "てだすけ",
+        "リフレッシュ",
+        "プレゼント"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ]
+    },
+    {
+      "id": "05069",
+      "dexNo": 383,
+      "pokemonName": "グラードン",
+      "games": [
+        "black2"
+      ],
+      "eventName": "グラードン",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-11-21",
+      "endDate": "2013-01-10",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ひでり",
+      "ball": "プレシャスボール",
+      "metLocation": "ホウエンちほう",
+      "heldItem": "ほのおのジュエル",
+      "ot": {
+        "JPN": "ルビー"
+      },
+      "trainerId": "11212",
+      "moves": [
+        "ふんか",
+        "アームハンマー",
+        "だいちのちから",
+        "ソーラービーム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05070",
+      "dexNo": 382,
+      "pokemonName": "カイオーガ",
+      "games": [
+        "white2"
+      ],
+      "eventName": "カイオーガ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-11-21",
+      "endDate": "2013-01-10",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "あめふらし",
+      "ball": "プレシャスボール",
+      "metLocation": "ホウエンちほう",
+      "heldItem": "みずのジュエル",
+      "ot": {
+        "JPN": "サファイア"
+      },
+      "trainerId": "11212",
+      "moves": [
+        "しおふき",
+        "かみなり",
+        "れいとうビーム",
+        "ぜったいれいど"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05071",
+      "dexNo": 494,
+      "pokemonName": "ビクティニ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ポケモンセンタートウホク ビクティニ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-11-25",
+      "endDate": "2013-01-06",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "しょうりのほし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "やすらぎのすず",
+      "ot": {
+        "JPN": "トウホク"
+      },
+      "trainerId": "11252",
+      "moves": [
+        "Ｖジェネレート",
+        "あおいほのお",
+        "らいげき",
+        "こごえるせかい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05072",
+      "dexNo": 386,
+      "pokemonName": "デオキシス",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "デオキシス（第1回）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-12-15",
+      "endDate": "2012-12-23",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "ダークボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "マスダ"
+      },
+      "trainerId": "12152",
+      "moves": [
+        "わるだくみ",
+        "あくのはどう",
+        "じこさいせい",
+        "サイコブースト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05073",
+      "dexNo": 386,
+      "pokemonName": "デオキシス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "デオキシス（第2回）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-03-20",
+      "endDate": "2013-05-06",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "ダークボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "マスダ"
+      },
+      "trainerId": "12152",
+      "moves": [
+        "わるだくみ",
+        "あくのはどう",
+        "じこさいせい",
+        "サイコブースト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05074",
+      "dexNo": 649,
+      "pokemonName": "ゲノセクト",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "P2ラボのゲノセクト",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-01-11",
+      "endDate": "2013-02-10",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ダウンロード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "Ｐ２ラボ"
+      },
+      "trainerId": "01113",
+      "moves": [
+        "テクノバスター",
+        "マグネットボム",
+        "ソーラービーム",
+        "シグナルビーム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンター店舗で配信。台湾でも2013-02-14〜28に配信された"
+    },
+    {
+      "id": "05075",
+      "dexNo": 129,
+      "pokemonName": "コイキング",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "きんのコイキング　プレゼント！",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-03-20",
+      "endDate": "2013-05-06",
+      "region": [
+        "日本"
+      ],
+      "level": 99,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "すいすい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンターナゴヤ",
+      "heldItem": "ふしぎなアメ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ナゴヤ"
+      },
+      "trainerId": "03203",
+      "moves": [
+        "じたばた",
+        "ハイドロポンプ",
+        "とびはねる",
+        "はねる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05076",
+      "dexNo": 395,
+      "pokemonName": "エンペルト",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "シングルさいきょうクラス　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-05-15",
+      "endDate": "2013-07-07",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "ふうせん",
+      "ot": {
+        "JPN": "ＰＣＳ"
+      },
+      "trainerId": "05153",
+      "moves": [
+        "ハイドロポンプ",
+        "れいとうビーム",
+        "アクアジェット",
+        "くさむすび"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05077",
+      "dexNo": 497,
+      "pokemonName": "ジャローダ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "シングルさいきょうクラス　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-05-22",
+      "endDate": "2013-07-07",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "しんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "たべのこし",
+      "ot": {
+        "JPN": "ＰＣＴＨ"
+      },
+      "trainerId": "05223",
+      "moves": [
+        "リーフストーム",
+        "みがわり",
+        "ギガドレイン",
+        "やどりぎのタネ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05078",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-05-29",
+      "endDate": "2013-07-07",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ひらいしん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "ＰＣＴ"
+      },
+      "trainerId": "05293",
+      "moves": [
+        "ボルテッカー",
+        "でんこうせっか",
+        "フェイント",
+        "ボルトチェンジ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05079",
+      "dexNo": 389,
+      "pokemonName": "ドダイトス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ドダイトス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-06-05",
+      "endDate": "2013-07-07",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "しんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "こだわりハチマキ",
+      "ot": {
+        "JPN": "ＰＣＹ"
+      },
+      "trainerId": "06053",
+      "moves": [
+        "ウッドハンマー",
+        "じしん",
+        "げきりん",
+        "ストーンエッジ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05080",
+      "dexNo": 392,
+      "pokemonName": "ゴウカザル",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ゴウカザル",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-06-12",
+      "endDate": "2013-07-07",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "ＰＣＮ"
+      },
+      "trainerId": "06123",
+      "moves": [
+        "だいもんじ",
+        "インファイト",
+        "とんぼがえり",
+        "くさむすび"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05081",
+      "dexNo": 500,
+      "pokemonName": "エンブオー",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "エンブオー",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-06-19",
+      "endDate": "2013-07-07",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "こだわりスカーフ",
+      "ot": {
+        "JPN": "ＰＣＯ"
+      },
+      "trainerId": "06193",
+      "moves": [
+        "フレアドライブ",
+        "アームハンマー",
+        "ワイルドボルト",
+        "もろはのずつき"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05082",
+      "dexNo": 503,
+      "pokemonName": "ダイケンキ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ダイケンキ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-06-26",
+      "endDate": "2013-07-07",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "たつじんのおび",
+      "ot": {
+        "JPN": "ＰＣＦ"
+      },
+      "trainerId": "06263",
+      "moves": [
+        "ハイドロポンプ",
+        "れいとうビーム",
+        "メガホーン",
+        "ばかぢから"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05083",
+      "dexNo": 150,
+      "pokemonName": "ミュウツー",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ミュウツー　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-06-15",
+      "endDate": "2013-09-01",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "おくびょう",
+      "ability": "きんちょうかん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画13",
+      "heldItem": "イバンのみ",
+      "ot": {
+        "JPN": "Ｐヒルズ"
+      },
+      "trainerId": "06153",
+      "moves": [
+        "サイコブレイク",
+        "れいとうビーム",
+        "いやしのはどう",
+        "ぼうふう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "ポケモンセンター店舗で赤外線配信。次世代ワールドホビーフェア2013（2013-06-29〜30）でも配信"
+    },
+    {
+      "id": "05084",
+      "dexNo": 649,
+      "pokemonName": "ゲノセクト",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "あかいゲノセクト　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-07-13",
+      "endDate": "2013-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "せっかち",
+      "ability": "ダウンロード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画13",
+      "heldItem": "こだわりスカーフ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "えいがかん"
+      },
+      "trainerId": "07133",
+      "moves": [
+        "しんそく",
+        "テクノバスター",
+        "ブレイズキック",
+        "ギアチェンジ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "映画上映劇場で配信。2013-06-29に先行配信あり"
+    },
+    {
+      "id": "05085",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "うたうイーブイ　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-07-13",
+      "endDate": "2013-09-01",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "がんばりや",
+      "ability": "てきおうりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "イベント会場",
+      "heldItem": "シルクのスカーフ",
+      "ot": {
+        "JPN": "キヨ"
+      },
+      "trainerId": "37379",
+      "moves": [
+        "うたう",
+        "おんがえし",
+        "エコーボイス",
+        "メロメロ"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ]
+    },
+    {
+      "id": "05086",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "さいきょうクラスの ピカチュウ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-07-26",
+      "endDate": "2013-08-20",
+      "region": [
+        "香港",
+        "台湾"
+      ],
+      "level": 100,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "イベント"
+      },
+      "trainerId": "07263",
+      "moves": [
+        "かみなり",
+        "ボルテッカー",
+        "くさむすび",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "香港ACGHK2013（2013-07-26〜30）と台湾漫画博覧会（2013-08-15〜20）で配信。日本国内では未配信"
+    },
+    {
+      "id": "05087",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "七夕ジラーチ（2013）",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-01",
+      "endDate": "2013-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "スターのみ",
+      "ot": {
+        "JPN": "たなばた"
+      },
+      "trainerId": "08013",
+      "moves": [
+        "りゅうせいぐん",
+        "コメットパンチ",
+        "ねがいごと",
+        "このゆびとまれ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05088",
+      "dexNo": 235,
+      "pokemonName": "ドーブル",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "Battle in Vancouver!",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-10",
+      "endDate": "2013-08-11",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "ようき",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "2013ポケモンワールドチャンピオンシップス",
+      "heldItem": "シルクのスカーフ",
+      "ot": {
+        "JPN": "WORLD13"
+      },
+      "trainerId": "08113",
+      "moves": [
+        "みねうち",
+        "キノコのほうし",
+        "かぎわける",
+        "くろいまなざし"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "WCS2013会場（カナダ・バンクーバー）での配布。"
+    },
+    {
+      "id": "05089",
+      "dexNo": 610,
+      "pokemonName": "キバゴ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "「みんなのベストフレンズ」　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-10",
+      "endDate": "2013-09-06",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "♂",
+      "nature": "むじゃき",
+      "ability": "とうそうしん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "アイリス"
+      },
+      "trainerId": "08103",
+      "moves": [
+        "りゅうのいかり",
+        "ひっかく",
+        "げきりん",
+        "ギガインパクト"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05090",
+      "dexNo": 511,
+      "pokemonName": "ヤナップ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "「みんなのベストフレンズ」　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-10",
+      "endDate": "2013-09-06",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "♂",
+      "nature": "まじめ",
+      "ability": "くいしんぼう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "デント"
+      },
+      "trainerId": "08103",
+      "moves": [
+        "タネマシンガン",
+        "ソーラービーム",
+        "がんせきふうじ",
+        "あなをほる"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05091",
+      "dexNo": 479,
+      "pokemonName": "ロトム",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "「みんなのベストフレンズ」　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-10",
+      "endDate": "2013-09-06",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "nature": "やんちゃ",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "オーキド"
+      },
+      "trainerId": "08103",
+      "moves": [
+        "さわぐ",
+        "おどろかす",
+        "トリック",
+        "でんきショック"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05092",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "「みんなのベストフレンズ」　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-10",
+      "endDate": "2013-09-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ゆうかん",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "08103",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05093",
+      "dexNo": 637,
+      "pokemonName": "ウルガモス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "アデクのウルガモス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-17",
+      "endDate": "2013-08-18",
+      "region": [
+        "日本"
+      ],
+      "level": 77,
+      "gender": "♂",
+      "nature": "おだやか",
+      "ability": "ほのおのからだ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンリーグ",
+      "ot": {
+        "JPN": "アデク"
+      },
+      "trainerId": "09180",
+      "moves": [
+        "むしのさざめき",
+        "オーバーヒート",
+        "はかいこうせん",
+        "ちょうのまい"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05094",
+      "dexNo": 612,
+      "pokemonName": "オノノクス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "アイリスのオノノクス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-17",
+      "endDate": "2013-08-18",
+      "region": [
+        "日本"
+      ],
+      "level": 59,
+      "gender": "♀",
+      "nature": "むじゃき",
+      "ability": "かたやぶり",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンリーグ",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "アイリス"
+      },
+      "trainerId": "06232",
+      "moves": [
+        "じしん",
+        "ダブルチョップ",
+        "シザークロス",
+        "りゅうのまい"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05095",
+      "dexNo": 442,
+      "pokemonName": "ミカルゲ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "シロナのミカルゲ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-17",
+      "endDate": "2013-08-18",
+      "region": [
+        "日本"
+      ],
+      "level": 61,
+      "gender": "♀",
+      "nature": "れいせい",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンリーグ",
+      "ot": {
+        "JPN": "シロナ"
+      },
+      "trainerId": "09286",
+      "moves": [
+        "あくのはどう",
+        "サイコキネシス",
+        "ぎんいろのかぜ",
+        "さしおさえ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05096",
+      "dexNo": 376,
+      "pokemonName": "メタグロス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ダイゴのメタグロス",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-17",
+      "endDate": "2013-08-18",
+      "region": [
+        "日本"
+      ],
+      "level": 58,
+      "nature": "まじめ",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンリーグ",
+      "heldItem": "オボンのみ",
+      "ot": {
+        "JPN": "ダイゴ"
+      },
+      "trainerId": "11212",
+      "moves": [
+        "じしん",
+        "はかいこうせん",
+        "サイコキネシス",
+        "コメットパンチ"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05097",
+      "dexNo": 350,
+      "pokemonName": "ミロカロス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ミクリのミロカロス　プレゼント",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-17",
+      "endDate": "2013-08-18",
+      "region": [
+        "日本"
+      ],
+      "level": 58,
+      "gender": "♂",
+      "nature": "のうてんき",
+      "ability": "ふしぎなうろこ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンリーグ",
+      "heldItem": "オボンのみ",
+      "ot": {
+        "JPN": "ミクリ"
+      },
+      "trainerId": "09164",
+      "moves": [
+        "じこさいせい",
+        "なみのり",
+        "れいとうビーム",
+        "どくどく"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05098",
+      "dexNo": 149,
+      "pokemonName": "カイリュー",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ワタルのカイリュー",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-17",
+      "endDate": "2013-08-18",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ゆうかん",
+      "ability": "せいしんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンリーグ",
+      "ot": {
+        "JPN": "ワタル"
+      },
+      "trainerId": "11219",
+      "moves": [
+        "だいもんじ",
+        "しんぴのまもり",
+        "げきりん",
+        "はかいこうせん"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05099",
+      "dexNo": 18,
+      "pokemonName": "ピジョット",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "グリーンのピジョット",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-17",
+      "endDate": "2013-08-18",
+      "region": [
+        "日本"
+      ],
+      "level": 61,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "するどいめ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンリーグ",
+      "ot": {
+        "JPN": "グリーン"
+      },
+      "trainerId": "02276",
+      "moves": [
+        "ふきとばし",
+        "つばさでうつ",
+        "ゴッドバード",
+        "オウムがえし"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "05100",
+      "dexNo": 302,
+      "pokemonName": "ヤミラミ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "ゴルゴ所長のヤミラミ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-09-15",
+      "endDate": "2013-09-28",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "くろいヘドロ",
+      "ot": {
+        "JPN": "しょちょう"
+      },
+      "trainerId": "09153",
+      "moves": [
+        "イカサマ",
+        "オクタンほう",
+        "くすぐる",
+        "トリック"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05101",
+      "dexNo": 230,
+      "pokemonName": "キングドラ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "キングドラ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-09-29",
+      "endDate": "2013-10-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "おくびょう",
+      "ability": "すいすい",
+      "ball": "プレシャスボール",
+      "metLocation": "ギアステーション",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "ヤマモト"
+      },
+      "trainerId": "09293",
+      "moves": [
+        "りゅうせいぐん",
+        "だくりゅう",
+        "りゅうのはどう",
+        "まもる"
+      ],
+      "ribbons": [
+        "チャンピオンリボン"
+      ]
+    },
+    {
+      "id": "05102",
+      "dexNo": 186,
+      "pokemonName": "ニョロトノ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "やまもとたいいんの ニョロトノ",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-09-29",
+      "endDate": "2013-10-06",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "おだやか",
+      "ability": "あめふらし",
+      "ball": "プレシャスボール",
+      "metLocation": "ギアステーション",
+      "heldItem": "オボンのみ",
+      "ot": {
+        "JPN": "ヤマモト"
+      },
+      "trainerId": "09293",
+      "moves": [
+        "ねっとう",
+        "れいとうビーム",
+        "ほろびのうた",
+        "まもる"
+      ],
+      "ribbons": [
+        "チャンピオンリボン"
+      ]
+    },
+    {
+      "id": "05103",
+      "dexNo": 613,
+      "pokemonName": "クマシュン",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンスマッシュ! クマシュン",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2010-10-22",
+      "endDate": "2010-11-29",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ゆきがくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "まんたんのくすり",
+      "ot": {
+        "JPN": "ポケスマ"
+      },
+      "trainerId": "10220",
+      "moves": [
+        "こなゆき",
+        "なきごえ",
+        "がまん",
+        "こごえるかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05104",
+      "dexNo": 610,
+      "pokemonName": "キバゴ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "アイリスのキバゴ",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2010-12-17",
+      "endDate": "2011-01-11",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "♂",
+      "nature": "むじゃき",
+      "ability": "かたやぶり",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "ひっかく",
+        "りゅうのいかり"
+      ]
+    },
+    {
+      "id": "05105",
+      "dexNo": 519,
+      "pokemonName": "マメパト",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "サトシのマメパト",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2010-12-17",
+      "endDate": "2011-01-11",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "♀",
+      "nature": "がんばりや",
+      "ability": "きょううん",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "かぜおこし",
+        "でんこうせっか",
+        "エアカッター"
+      ]
+    },
+    {
+      "id": "05106",
+      "dexNo": 511,
+      "pokemonName": "ヤナップ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "デントのヤナップ",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2010-12-17",
+      "endDate": "2011-01-11",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "♂",
+      "nature": "ゆうかん",
+      "ability": "くいしんぼう",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "conditional",
+      "ot": {
+        "JPN": "(孵化した人のもの)"
+      },
+      "trainerId": "(孵化した人のもの)",
+      "moves": [
+        "タネマシンガン",
+        "かみつく",
+        "ソーラービーム",
+        "あなをほる"
+      ]
+    },
+    {
+      "id": "05107",
+      "dexNo": 559,
+      "pokemonName": "ズルッグ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "サトシのズルッグ",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2011-01-28",
+      "endDate": "2011-02-10",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "じしんかじょう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ちからのハチマキ",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "01281",
+      "moves": [
+        "にらみつける",
+        "けたぐり",
+        "ずつき",
+        "とびひざげり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05108",
+      "dexNo": 571,
+      "pokemonName": "ゾロアーク",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンスマッシュ! ゾロアーク",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2011-02-15",
+      "endDate": "2011-03-14",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "きまぐれ",
+      "ability": "イリュージョン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "ot": {
+        "JPN": "ポケスマ！"
+      },
+      "trainerId": "01161",
+      "moves": [
+        "こうそくいどう",
+        "さしおさえ",
+        "おしおき",
+        "バークアウト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05109",
+      "dexNo": 635,
+      "pokemonName": "サザンドラ",
+      "games": [
+        "black"
+      ],
+      "eventName": "「カリータのサザンドラ」プレゼント",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2011-06-17",
+      "endDate": "2011-09-08",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画11",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "カリータ"
+      },
+      "trainerId": "06171",
+      "moves": [
+        "ハイパーボイス",
+        "りゅうのいぶき",
+        "かえんほうしゃ",
+        "きあいだま"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05110",
+      "dexNo": 623,
+      "pokemonName": "ゴルーグ",
+      "games": [
+        "white"
+      ],
+      "eventName": "「ジャンタのゴルーグ」プレゼント",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2011-06-17",
+      "endDate": "2011-09-08",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "てつのこぶし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画11",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ジャンタ"
+      },
+      "trainerId": "06171",
+      "moves": [
+        "シャドーパンチ",
+        "はかいこうせん",
+        "ジャイロボール",
+        "アームハンマー"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05111",
+      "dexNo": 150,
+      "pokemonName": "ミュウツー",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "ポケモンスマッシュ! ミュウツー",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2011-09-26",
+      "endDate": "2011-10-31",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "おうじゃのしるし",
+      "ot": {
+        "JPN": "ポケスマ！"
+      },
+      "trainerId": "09261",
+      "moves": [
+        "サイコブレイク",
+        "シャドーボール",
+        "はどうだん",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ]
+    },
+    {
+      "id": "05112",
+      "dexNo": 642,
+      "pokemonName": "ボルトロス",
+      "games": [
+        "black"
+      ],
+      "eventName": "ボルトロス",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2011-12-16",
+      "endDate": "2012-01-10",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ふっかつそう",
+      "ot": {
+        "JPN": "ミロスとう"
+      },
+      "trainerId": "12161",
+      "moves": [
+        "かみなり",
+        "アームハンマー",
+        "きあいだま",
+        "ワイルドボルト"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05113",
+      "dexNo": 641,
+      "pokemonName": "トルネロス",
+      "games": [
+        "white"
+      ],
+      "eventName": "トルネロス",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2011-12-16",
+      "endDate": "2012-01-10",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ふっかつそう",
+      "ot": {
+        "JPN": "ミロスとう"
+      },
+      "trainerId": "12161",
+      "moves": [
+        "ぼうふう",
+        "アームハンマー",
+        "エアスラッシュ",
+        "めざめるパワー"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05114",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "black",
+        "white"
+      ],
+      "eventName": "くろいレックウザ　プレゼント",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2012-03-17",
+      "endDate": "2012-04-16",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "とおいばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ノブナガ"
+      },
+      "trainerId": "03172",
+      "moves": [
+        "りゅうのはどう",
+        "げんしのちから",
+        "げきりん",
+        "りゅうのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05115",
+      "dexNo": 393,
+      "pokemonName": "ポッチャマ",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "リサイタル ポッチャマ",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2012-07-20",
+      "endDate": "2012-08-09",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "metLocation": "Wi-Fiでのプレゼント",
+      "heldItem": "メトロノーム",
+      "ot": {
+        "JPN": "リサイタル"
+      },
+      "trainerId": "07202",
+      "moves": [
+        "うたう",
+        "りんしょう",
+        "フェザーダンス",
+        "つつく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05116",
+      "dexNo": 649,
+      "pokemonName": "ゲノセクト",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "プラズマ団のゲノセクト",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2012-08-11",
+      "endDate": "2012-09-14",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ダウンロード",
+      "ball": "プレシャスボール",
+      "metLocation": "Wi-Fiでのプレゼント",
+      "ot": {
+        "JPN": "プラズマ"
+      },
+      "trainerId": "08112",
+      "moves": [
+        "テクノバスター",
+        "マグネットボム",
+        "ソーラービーム",
+        "シグナルビーム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "05117",
+      "dexNo": 52,
+      "pokemonName": "ニャース",
+      "games": [
+        "black2",
+        "white2"
+      ],
+      "eventName": "ロケット団のニャース",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2012-12-07",
+      "endDate": "2013-01-10",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ものひろい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "heldItem": "けむりだま",
+      "ot": {
+        "JPN": "Ｒだん"
+      },
+      "trainerId": "12072",
+      "moves": [
+        "みだれひっかき",
+        "うたう",
+        "わるだくみ",
+        "よこどり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "05118",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "デコロラジラーチ",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2013-07-01",
+      "endDate": "2013-07-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "Wi-Fiでのプレゼント",
+      "heldItem": "ミクルのみ",
+      "ot": {
+        "JPN": "デコロラ"
+      },
+      "trainerId": "07013",
+      "moves": [
+        "いやしのねがい",
+        "サイコキネシス",
+        "スピードスター",
+        "コメットパンチ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    }
+  ]
+}

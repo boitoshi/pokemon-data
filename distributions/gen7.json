@@ -1,0 +1,2424 @@
+{
+  "schemaVersion": 1,
+  "dataset": "gen7",
+  "generation": 7,
+  "provenance": "scraper:bulbapedia",
+  "entries": [
+    {
+      "id": "07001",
+      "dexNo": 446,
+      "pokemonName": "ゴンベ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "早期購入特典 ゴンベ（カビゴンZ）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2016-11-18",
+      "endDate": "2017-01-11",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "あついしぼう",
+      "ball": "プレシャスボール",
+      "metLocation": "インターネットでのプレゼント",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "たいあたり",
+        "ゆびをふる",
+        "てかげん",
+        "ハッピータイム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07002",
+      "dexNo": 68,
+      "pokemonName": "カイリキー",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "サオリの　カイリキー",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2017-02-08",
+      "endDate": "2017-02-28",
+      "region": [
+        "日本"
+      ],
+      "level": 34,
+      "gender": "♀",
+      "nature": "ゆうかん",
+      "ability": "こんじょう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "サオリ"
+      },
+      "trainerId": "160206",
+      "moves": [
+        "すてみタックル",
+        "ビルドアップ",
+        "かいりき",
+        "ファストガード"
+      ],
+      "ribbons": [
+        "チャンピオンリボン"
+      ]
+    },
+    {
+      "id": "07003",
+      "dexNo": 744,
+      "pokemonName": "イワンコ",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "イワンコ　プレゼント（かみなりのキバ）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2017-11-17",
+      "endDate": "2018-01-10",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "マイペース",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きあいのハチマキ",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "たいあたり",
+        "かみつく",
+        "かみなりのキバ",
+        "ハッピータイム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07004",
+      "dexNo": 744,
+      "pokemonName": "イワンコ",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "イワンコ　プレゼント（ほのおのキバ）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2017-11-17",
+      "endDate": "2018-01-10",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "マイペース",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きあいのハチマキ",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "たいあたり",
+        "かみつく",
+        "ほのおのキバ",
+        "ハッピータイム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07005",
+      "dexNo": 129,
+      "pokemonName": "コイキング",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "旧正月 色違いコイキング",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-01-26",
+      "endDate": "2017-02-06",
+      "region": [
+        "日本"
+      ],
+      "level": 19,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "すいすい",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ふしぎなアメ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Lunar"
+      },
+      "trainerId": "170128",
+      "moves": [
+        "はねる",
+        "とびはねる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07006",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "トウホクへのギフトパス♡",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-03-11",
+      "endDate": "2017-04-20",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ハートスイーツ",
+      "ot": {
+        "JPN": "トウホク"
+      },
+      "trainerId": "201703",
+      "moves": [
+        "ギフトパス",
+        "てをつなぐ",
+        "おんがえし",
+        "なかよくする"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07007",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "コロコロ40しゅうねん　リザードン",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-03-15",
+      "endDate": "2017-05-14",
+      "region": [
+        "日本"
+      ],
+      "level": 40,
+      "nature": "ようき",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "565640",
+      "moves": [
+        "ドラゴンクロー",
+        "りゅうのいかり",
+        "そらをとぶ",
+        "フレアドライブ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07008",
+      "dexNo": 785,
+      "pokemonName": "カプ・コケコ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "くろい　カプ・コケコ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-03-17",
+      "endDate": "2017-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "nature": "おくびょう",
+      "ability": "エレキメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "エレキシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "メレメレ"
+      },
+      "trainerId": "170317",
+      "moves": [
+        "しぜんのいかり",
+        "ほうでん",
+        "こうそくいどう",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07009",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "サトシのピカチュウ（アローラキャップ）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-09-27",
+      "endDate": "2017-10-09",
+      "region": [
+        "日本"
+      ],
+      "level": 20,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "161117",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07010",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "サトシのピカチュウ（カロスキャップ）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-09-13",
+      "endDate": "2017-09-25",
+      "region": [
+        "日本"
+      ],
+      "level": 17,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "131017",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07011",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "サトシのピカチュウ（イッシュキャップ）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-08-30",
+      "endDate": "2017-09-11",
+      "region": [
+        "日本"
+      ],
+      "level": 14,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "100923",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "ボルテッカー"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07012",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "サトシのピカチュウ（シンオウキャップ）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-08-16",
+      "endDate": "2017-08-28",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "060928",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "ボルテッカー"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07013",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "サトシのピカチュウ（ホウエンキャップ）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-08-02",
+      "endDate": "2017-08-14",
+      "region": [
+        "日本"
+      ],
+      "level": 6,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "021121",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "かみなり",
+        "アイアンテール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07014",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "サトシのピカチュウ（オリジナルキャップ）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-07-19",
+      "endDate": "2017-07-31",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "970401",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "かみなり",
+        "こうそくいどう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07015",
+      "dexNo": 785,
+      "pokemonName": "カプ・コケコ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Taiwanese Melemele Island Shiny Tapu Koko",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-04-28",
+      "endDate": "2017-06-30",
+      "region": [
+        "台湾"
+      ],
+      "level": 60,
+      "nature": "おくびょう",
+      "ability": "エレキメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "エレキシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Melemele"
+      },
+      "trainerId": "170428",
+      "moves": [
+        "しぜんのいかり",
+        "ほうでん",
+        "こうそくいどう",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07016",
+      "dexNo": 762,
+      "pokemonName": "アママイコ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "マオのアママイコ プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-06-17",
+      "endDate": "2017-07-04",
+      "region": [
+        "日本"
+      ],
+      "level": 20,
+      "gender": "♀",
+      "nature": "むじゃき",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "heldItem": "やまぶきのミツ",
+      "ot": {
+        "JPN": "マオ"
+      },
+      "trainerId": "170617",
+      "moves": [
+        "マジカルリーフ",
+        "おうふくビンタ",
+        "あまいかおり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07017",
+      "dexNo": 776,
+      "pokemonName": "バクガメス",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "カキのバクガメス プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-06-26",
+      "endDate": "2017-07-14",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "♂",
+      "nature": "ゆうかん",
+      "ability": "シェルアーマー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "heldItem": "モーモーミルク",
+      "ot": {
+        "JPN": "カキ"
+      },
+      "trainerId": "170626",
+      "moves": [
+        "かえんほうしゃ",
+        "トラップシェル",
+        "ドラゴンテール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07018",
+      "dexNo": 37,
+      "pokemonName": "ロコン",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "リーリエのシロン プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-07-05",
+      "endDate": "2017-07-24",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "♀",
+      "nature": "ひかえめ",
+      "ability": "ゆきがくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "heldItem": "シルクのスカーフ",
+      "ot": {
+        "JPN": "リーリエ"
+      },
+      "trainerId": "170705",
+      "moves": [
+        "こなゆき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07019",
+      "dexNo": 393,
+      "pokemonName": "ポッチャマ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "キミにきめた！　マコトのポッチャマ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-08-01",
+      "endDate": "2017-08-28",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "げきりゅう",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "マコト"
+      },
+      "trainerId": "170715",
+      "moves": [
+        "ハイドロポンプ",
+        "バブルこうせん",
+        "うずしお",
+        "ドリルくちばし"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07020",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "キミにきめた！　ソウジのルカリオ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-08-01",
+      "endDate": "2017-08-28",
+      "region": [
+        "日本"
+      ],
+      "level": 40,
+      "gender": "♂",
+      "nature": "まじめ",
+      "ability": "ふくつのこころ",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "ソウジ"
+      },
+      "trainerId": "170715",
+      "moves": [
+        "はどうだん",
+        "とびひざげり",
+        "りゅうのはどう",
+        "しんそく"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07021",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "キミにきめた！　サトシのリザードン",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-08-01",
+      "endDate": "2017-08-28",
+      "region": [
+        "日本"
+      ],
+      "level": 40,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "もうか",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "170715",
+      "moves": [
+        "かえんほうしゃ",
+        "りゅうのいかり",
+        "きりさく",
+        "ちきゅうなげ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07022",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "えいが「ミュウツーの逆襲」のミュウ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-07-11",
+      "endDate": "2017-08-07",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "２０ＴＨ☆*"
+      },
+      "trainerId": "980718",
+      "moves": [
+        "サイコキネシス",
+        "バリアー",
+        "ゆびをふる",
+        "へんしん"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07023",
+      "dexNo": 250,
+      "pokemonName": "ホウオウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "テンセイざんの　ホウオウ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-07-15",
+      "endDate": "2017-09-14",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画2017",
+      "heldItem": "せいなるはい",
+      "ot": {
+        "JPN": "テンセイざん"
+      },
+      "trainerId": "170715",
+      "moves": [
+        "せいなるほのお",
+        "ブレイブバード",
+        "じこさいせい",
+        "しんぴのまもり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07024",
+      "dexNo": 337,
+      "pokemonName": "ルナトーン",
+      "games": [
+        "moon"
+      ],
+      "eventName": "ポケモンミステリーファイル　ルナ…",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-07-26",
+      "endDate": "2017-10-31",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンだいすきクラブ",
+      "heldItem": "すいせいのかけら",
+      "ot": {
+        "JPN": "サクジ"
+      },
+      "trainerId": "170726",
+      "moves": [
+        "コスモパワー",
+        "めざめるパワー",
+        "ムーンフォース",
+        "パワージェム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07025",
+      "dexNo": 338,
+      "pokemonName": "ソルロック",
+      "games": [
+        "sun"
+      ],
+      "eventName": "ポケモンミステリーファイル　ソル…",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-07-26",
+      "endDate": "2017-10-31",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンだいすきクラブ",
+      "heldItem": "すいせいのかけら",
+      "ot": {
+        "JPN": "サクジ"
+      },
+      "trainerId": "170726",
+      "moves": [
+        "コスモパワー",
+        "めざめるパワー",
+        "ソーラービーム",
+        "ストーンエッジ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07026",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "ときわたりポケモン　セレビィ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-09-22",
+      "endDate": "2018-10-31",
+      "region": [
+        "日本"
+      ],
+      "level": 30,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ジョウトちほう",
+      "ot": {
+        "JPN": "ウバメ"
+      },
+      "trainerId": "112199",
+      "moves": [
+        "いやしのすず",
+        "しんぴのまもり",
+        "げんしのちから",
+        "みらいよち"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "07027",
+      "dexNo": 773,
+      "pokemonName": "シルヴァディ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "きらめきの　シルヴァディ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-09-22",
+      "endDate": "2017-11-16",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ＡＲシステム",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "エーテル"
+      },
+      "trainerId": "170922",
+      "moves": [
+        "マルチアタック",
+        "すてゼリフ",
+        "おしおき",
+        "こわいかお"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07028",
+      "dexNo": 773,
+      "pokemonName": "シルヴァディ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Taiwanese Aether Silvally",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-09-22",
+      "endDate": "2017-12-16",
+      "region": [
+        "台湾"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ＡＲシステム",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "エーテル"
+      },
+      "trainerId": "170922",
+      "moves": [
+        "マルチアタック",
+        "すてゼリフ",
+        "おしおき",
+        "こわいかお"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07029",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Taiwanese Ash's Pikachu",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-10-19",
+      "endDate": "2017-11-23",
+      "region": [
+        "台湾"
+      ],
+      "level": 1,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "Satoshi"
+      },
+      "trainerId": "970401",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "かみなり",
+        "こうそくいどう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07030",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Singapore Ash's Pikachu",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-11-10",
+      "endDate": "2017-11-23",
+      "region": [
+        "シンガポール"
+      ],
+      "level": 1,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "Ash"
+      },
+      "trainerId": "090898",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "かみなり",
+        "こうそくいどう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07031",
+      "dexNo": 479,
+      "pokemonName": "ロトム",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "スマートフォンに　はいりこんでいた　ロトム",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-11-17",
+      "endDate": "2018-04-30",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "ククイ"
+      },
+      "trainerId": "171117",
+      "moves": [
+        "さわぐ",
+        "ないしょばなし",
+        "チャームボイス"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "07032",
+      "dexNo": 802,
+      "pokemonName": "マーシャドー",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Asian Mount Tensei Marshadow",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-03-29",
+      "endDate": "2018-05-31",
+      "region": [
+        "アジア"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "MT. Tensei"
+      },
+      "trainerId": "100917",
+      "moves": [
+        "シャドースチール",
+        "インファイト",
+        "はっけい",
+        "シャドーボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07033",
+      "dexNo": 720,
+      "pokemonName": "フーパ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "ゼンリョク2017　フーパ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-01",
+      "endDate": "2018-04-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "マジシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "ゼンリョク"
+      },
+      "trainerId": "171201",
+      "moves": [
+        "シャドーボール",
+        "わるだくみ",
+        "サイコキネシス",
+        "いじげんホール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07034",
+      "dexNo": 648,
+      "pokemonName": "メロエッタ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "ゼンリョク2017　メロエッタ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-01",
+      "endDate": "2018-04-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "ゼンリョク"
+      },
+      "trainerId": "171201",
+      "moves": [
+        "うたう",
+        "サイコキネシス",
+        "インファイト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07035",
+      "dexNo": 490,
+      "pokemonName": "マナフィ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "ゼンリョク2017　マナフィ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-01",
+      "endDate": "2018-04-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "うるおいボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "ゼンリョク"
+      },
+      "trainerId": "171201",
+      "moves": [
+        "ほたるび",
+        "みずのはどう",
+        "アクアリング",
+        "ハートスワップ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07036",
+      "dexNo": 383,
+      "pokemonName": "グラードン",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "いろちがいのグラードン　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-01-13",
+      "endDate": "2018-03-19",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "ひでり",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ウルトラ"
+      },
+      "trainerId": "180113",
+      "moves": [
+        "じしん",
+        "だんがいのつるぎ",
+        "ビルドアップ",
+        "ソーラービーム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07037",
+      "dexNo": 382,
+      "pokemonName": "カイオーガ",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "いろちがいのカイオーガ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-01-13",
+      "endDate": "2018-03-19",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "あめふらし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ウルトラ"
+      },
+      "trainerId": "180113",
+      "moves": [
+        "れいとうビーム",
+        "こんげんのはどう",
+        "めいそう",
+        "だくりゅう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07038",
+      "dexNo": 222,
+      "pokemonName": "サニーゴ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "はじめしゃちょーの　サニーゴ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-01-14",
+      "endDate": "2018-02-28",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "まじめ",
+      "ability": "はりきり",
+      "ball": "ハイパーボール",
+      "metLocation": "ポケモン番組",
+      "ot": {
+        "JPN": "はじめ"
+      },
+      "trainerId": "180114",
+      "moves": [
+        "たいあたり",
+        "パワージェム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07039",
+      "dexNo": 493,
+      "pokemonName": "アルセウス",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "まぼろしのポケモン　アルセウス",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-01-15",
+      "endDate": "2018-03-14",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "マルチタイプ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "180115",
+      "moves": [
+        "さばきのつぶて",
+        "しんそく",
+        "じこさいせい",
+        "はかいこうせん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07040",
+      "dexNo": 803,
+      "pokemonName": "ベベノム",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "はっこうのベベノム／せんこうのアーゴヨン",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-03-02",
+      "endDate": "2018-05-06",
+      "region": [
+        "日本"
+      ],
+      "level": 40,
+      "nature": "ひかえめ",
+      "ability": "ビーストブースト",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ウルトラ"
+      },
+      "trainerId": "180302",
+      "moves": [
+        "ベノムトラップ",
+        "わるだくみ",
+        "どくづき",
+        "りゅうのはどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07041",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "とどけ　トウホクへのギフトパス",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-03-05",
+      "endDate": "2018-04-26",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ハートスイーツ",
+      "ot": {
+        "JPN": "トウホク１８"
+      },
+      "trainerId": "201803",
+      "moves": [
+        "ギフトパス",
+        "てをつなぐ",
+        "おんがえし",
+        "なかよくする"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07042",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Hong Kong Ash's Pikachu",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-03-29",
+      "endDate": "2018-05-31",
+      "region": [
+        "香港"
+      ],
+      "level": 1,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2017",
+      "ot": {
+        "JPN": "Satoshi"
+      },
+      "trainerId": "970401",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "かみなり",
+        "こうそくいどう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07043",
+      "dexNo": 249,
+      "pokemonName": "ルギア",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "かぜのルギア　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-04-13",
+      "endDate": "2018-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "マルチスケイル",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画2018",
+      "ot": {
+        "JPN": "フウラシティ"
+      },
+      "trainerId": "180413",
+      "moves": [
+        "エアロブラスト",
+        "ぼうふう",
+        "きりばらい",
+        "おいかぜ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07044",
+      "dexNo": 778,
+      "pokemonName": "ミミッキュ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "いろちがいのミミッキュ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-13",
+      "endDate": "2018-12-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ばけのかわ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ふしぎなアメ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "PGL"
+      },
+      "trainerId": "181026",
+      "moves": [
+        "ものまね",
+        "よこどり",
+        "トリック",
+        "みちづれ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07045",
+      "dexNo": 249,
+      "pokemonName": "ルギア",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Asian Fula City Lugia",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-12",
+      "endDate": "2019-03-31",
+      "region": [
+        "アジア"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "マルチスケイル",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画2018",
+      "ot": {
+        "JPN": "フウラシティ"
+      },
+      "trainerId": "180413",
+      "moves": [
+        "エアロブラスト",
+        "ぼうふう",
+        "きりばらい",
+        "おいかぜ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07046",
+      "dexNo": 807,
+      "pokemonName": "ゼラオラ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "フウラシティのゼラオラ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-12-01",
+      "endDate": "2019-03-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ちくでん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画2018",
+      "heldItem": "ふうせん",
+      "ot": {
+        "JPN": "フウラシティ"
+      },
+      "trainerId": "180713",
+      "moves": [
+        "プラズマフィスト",
+        "かみなりパンチ",
+        "インファイト",
+        "かみなり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07047",
+      "dexNo": 786,
+      "pokemonName": "カプ・テテフ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "いろちがいの　カプ・テテフ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-12-18",
+      "endDate": "2019-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "サイコメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "サイコシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "アーカラ"
+      },
+      "trainerId": "181130",
+      "moves": [
+        "しぜんのいかり",
+        "じんつうりき",
+        "おだてる",
+        "ムーンフォース"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07048",
+      "dexNo": 787,
+      "pokemonName": "カプ・ブルル",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "いろちがいの　カプ・ブルル　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-03-19",
+      "endDate": "2019-04-29",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "グラスメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "グラスシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ウラウラ"
+      },
+      "trainerId": "190222",
+      "moves": [
+        "しぜんのいかり",
+        "しねんのずつき",
+        "メガホーン",
+        "ロケットずつき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07049",
+      "dexNo": 788,
+      "pokemonName": "カプ・レヒレ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "いろちがいの　カプ・レヒレ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-05-21",
+      "endDate": "2019-06-28",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "ミストメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ミストシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ポニ"
+      },
+      "trainerId": "190419",
+      "moves": [
+        "しぜんのいかり",
+        "だくりゅう",
+        "アクアリング",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "シリアルコードの引き換え期間は2019-06-11〜2019-07-30"
+    },
+    {
+      "id": "07050",
+      "dexNo": 800,
+      "pokemonName": "ネクロズマ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "ひみつの　ネクロズマ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-09-06",
+      "endDate": "2020-02-03",
+      "region": [
+        "日本"
+      ],
+      "level": 75,
+      "nature": "ランダム",
+      "ability": "プリズムアーマー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ひみつ"
+      },
+      "trainerId": "000132",
+      "moves": [
+        "ひかりのかべ",
+        "みがわり",
+        "つきのひかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07051",
+      "dexNo": 785,
+      "pokemonName": "カプ・コケコ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "いろちがいの　カプ・コケコ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-10-18",
+      "endDate": "2019-11-30",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "エレキメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "エレキシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "メレメレ"
+      },
+      "trainerId": "191004",
+      "moves": [
+        "１０まんボルト",
+        "マジカルシャイン",
+        "ボルトチェンジ",
+        "しぜんのいかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07052",
+      "dexNo": 791,
+      "pokemonName": "ソルガレオ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "いろちがいの　ソルガレオ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-12-19",
+      "endDate": "2020-02-03",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "メタルプロテクト",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "にっしょく"
+      },
+      "trainerId": "191026",
+      "moves": [
+        "メテオドライブ",
+        "しねんのずつき",
+        "おたけび",
+        "あさのひざし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07053",
+      "dexNo": 792,
+      "pokemonName": "ルナアーラ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "いろちがいの　ルナアーラ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-12-19",
+      "endDate": "2020-02-03",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "ファントムガード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "げっしょく"
+      },
+      "trainerId": "191026",
+      "moves": [
+        "シャドーレイ",
+        "サイコショック",
+        "ムーンフォース",
+        "つきのひかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07054",
+      "dexNo": 517,
+      "pokemonName": "ムンナ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "マコモのムンナ　プレゼント",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-11-25",
+      "endDate": "2020-02-24",
+      "region": [
+        "日本"
+      ],
+      "level": 39,
+      "gender": "♀",
+      "nature": "おっとり",
+      "ability": "テレパシー",
+      "ball": "ドリームボール",
+      "metLocation": "PGL",
+      "ot": {
+        "JPN": "マコモ"
+      },
+      "trainerId": "100918",
+      "moves": [
+        "さいみんじゅつ",
+        "ゆめくい",
+        "ねむる",
+        "ねごと"
+      ],
+      "ribbons": [
+        "おもいでリボン"
+      ]
+    },
+    {
+      "id": "07138",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
+      "eventName": "モンスターボール Plus特典 ミュウ",
+      "distributionMethod": "Poké Ball Plus",
+      "startDate": "2018-11-16",
+      "region": [
+        "全世界"
+      ],
+      "level": 1,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "モンスターボール",
+      "metLocation": "Poké Ball Plus",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "はたく"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "モンスターボール Plus 購入特典。"
+    },
+    {
+      "id": "07139",
+      "dexNo": 113,
+      "pokemonName": "ラッキー",
+      "games": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
+      "eventName": "ポケモンセンター バースデー ラッキー",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-16",
+      "endDate": "2020-02-29",
+      "region": [
+        "日本"
+      ],
+      "level": 1,
+      "gender": "♀",
+      "nature": "おっとり",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "181116",
+      "moves": [
+        "はたく",
+        "おいわい"
+      ],
+      "notes": "ポケモンセンターのバースデー特典。"
+    },
+    {
+      "id": "07140",
+      "dexNo": 150,
+      "pokemonName": "ミュウツー",
+      "games": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
+      "eventName": "はかせのミュウツー",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-04-12",
+      "endDate": "2019-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "nature": "れいせい",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "2019 Pokémon Movie",
+      "ot": {
+        "JPN": "はかせ"
+      },
+      "trainerId": "980718",
+      "moves": [
+        "サイコキネシス",
+        "シャドーボール",
+        "バリアー",
+        "めいそう"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 31,
+        "def": 30,
+        "spa": 31,
+        "spd": 30,
+        "spe": 31
+      },
+      "notes": "日本でのシリアルコード配布。"
+    },
+    {
+      "id": "07141",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "lets_go_pikachu"
+      ],
+      "eventName": "Eevee",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-05-01",
+      "endDate": "2019-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "にげあし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "베스트프렌드"
+      },
+      "trainerId": "190501",
+      "moves": [
+        "すてみタックル",
+        "あなをほる",
+        "アイアンテール",
+        "てだすけ"
+      ],
+      "notes": "韓国での配布。ピカチュウ版で受け取り。"
+    },
+    {
+      "id": "07142",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "lets_go_eevee"
+      ],
+      "eventName": "Pikachu",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-05-01",
+      "endDate": "2019-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "베스트프렌드"
+      },
+      "trainerId": "190501",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "てだすけ"
+      ],
+      "notes": "韓国での配布。イーブイ版で受け取り。"
+    },
+    {
+      "id": "07143",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "lets_go_pikachu"
+      ],
+      "eventName": "Eevee",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-05-11",
+      "endDate": "2019-08-29",
+      "region": [
+        "アメリカ"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "にげあし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Bullseye"
+      },
+      "trainerId": "190511",
+      "moves": [
+        "すてみタックル",
+        "アイアンテール",
+        "てだすけ",
+        "からげんき"
+      ],
+      "notes": "米国での配布（Target店舗）。ピカチュウ版で受け取り。"
+    },
+    {
+      "id": "07144",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "lets_go_eevee"
+      ],
+      "eventName": "Pikachu",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-05-11",
+      "endDate": "2019-08-29",
+      "region": [
+        "アメリカ"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Bullseye"
+      },
+      "trainerId": "190511",
+      "moves": [
+        "１０まんボルト",
+        "にどげり",
+        "かげぶんしん",
+        "かみなり"
+      ],
+      "notes": "米国での配布（Target店舗）。イーブイ版で受け取り。"
+    },
+    {
+      "id": "07145",
+      "dexNo": 150,
+      "pokemonName": "ミュウツー",
+      "games": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
+      "eventName": "European Giovanni's Mewtwo",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-08-09",
+      "endDate": "2020-04-30",
+      "region": [
+        "欧州"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Giovanni"
+      },
+      "trainerId": "190801",
+      "moves": [
+        "ドわすれ",
+        "サイコキネシス",
+        "テレポート",
+        "じこさいせい"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "欧州での配布。"
+    },
+    {
+      "id": "07146",
+      "dexNo": 98,
+      "pokemonName": "クラブ",
+      "games": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
+      "eventName": "ひみつの色違いクラブ",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-10-04",
+      "endDate": "2020-02-03",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "かいりきバサミ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ひみつ"
+      },
+      "trainerId": "000132",
+      "moves": [
+        "クラブハンマー",
+        "どくどく",
+        "からげんき",
+        "バブルこうせん"
+      ],
+      "notes": "日本での配布。"
+    },
+    {
+      "id": "07147",
+      "dexNo": 150,
+      "pokemonName": "ミュウツー",
+      "games": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
+      "eventName": "American Giovanni's Mewtwo",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-11-04",
+      "endDate": "2020-03-05",
+      "region": [
+        "アメリカ"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Giovanni"
+      },
+      "trainerId": "191104",
+      "moves": [
+        "ドわすれ",
+        "サイコキネシス",
+        "テレポート",
+        "じこさいせい"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "米国での配布。"
+    },
+    {
+      "id": "07148",
+      "dexNo": 150,
+      "pokemonName": "ミュウツー",
+      "games": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
+      "eventName": "Korean Professor's Mewtwo",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2020-09-30",
+      "endDate": "2020-11-30",
+      "region": [
+        "韓国"
+      ],
+      "level": 70,
+      "nature": "れいせい",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "박사"
+      },
+      "trainerId": "200930",
+      "moves": [
+        "サイコキネシス",
+        "シャドーボール",
+        "バリアー",
+        "めいそう"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 31,
+        "def": 30,
+        "spa": 31,
+        "spd": 30,
+        "spe": 31
+      },
+      "notes": "韓国での配布。"
+    },
+    {
+      "id": "07149",
+      "dexNo": 808,
+      "pokemonName": "メルタン",
+      "games": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
+      "eventName": "発売記念 メルタン（中国本土）",
+      "distributionMethod": "あいことば",
+      "startDate": "2024-10-26",
+      "endDate": "2025-04-30",
+      "region": [
+        "中国本土"
+      ],
+      "level": 25,
+      "nature": "ランダム",
+      "ability": "じりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "トレーナーのもの"
+      },
+      "moves": [
+        "ずつき",
+        "かたくなる",
+        "しっぽをふる",
+        "でんきショック"
+      ],
+      "password": "20UBA1ME1LUTAN",
+      "notes": "中国本土版（Tencent販売）専用。受け取りにはWeChatアカウント連携が必要。中国本土でのピカブイ発売（2024-09-26）記念。",
+      "postUrl": "https://www.pokebros.net/gen7-meltan-chinese-mainland/"
+    },
+    {
+      "id": "07150",
+      "dexNo": 24,
+      "pokemonName": "アーボック",
+      "games": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
+      "eventName": "旧正月記念 色違いアーボック（中国本土）",
+      "distributionMethod": "あいことば",
+      "startDate": "2025-01-29",
+      "endDate": "2025-02-12",
+      "region": [
+        "中国本土"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "いかく/だっぴ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "新年快乐"
+      },
+      "trainerId": "250129",
+      "moves": [
+        "まきつく",
+        "へびにらみ",
+        "まもる"
+      ],
+      "password": "g0ngx1faca1",
+      "notes": "中国本土版（Tencent販売）専用。受け取りにはWeChatアカウント連携が必要。",
+      "postUrl": "https://www.pokebros.net/gen7-shiny-arbok-chinese-mainland/"
+    },
+    {
+      "id": "07151",
+      "dexNo": 809,
+      "pokemonName": "メルメタル",
+      "games": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
+      "eventName": "PokémonDay記念 メルメタル（中国本土）",
+      "distributionMethod": "あいことば",
+      "startDate": "2025-02-27",
+      "endDate": "2025-04-30",
+      "region": [
+        "中国本土"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "てつのこぶし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "トレーナーのもの"
+      },
+      "moves": [
+        "でんじは",
+        "でんきショック",
+        "とける",
+        "ラスターカノン"
+      ],
+      "password": "W1THY0U29YEARS",
+      "notes": "中国本土版（Tencent販売）専用。受け取りにはWeChatアカウント連携が必要。",
+      "postUrl": "https://www.pokebros.net/gen7-melmetal-chinese-mainland/"
+    },
+    {
+      "id": "07152",
+      "dexNo": 31,
+      "pokemonName": "ニドクイン",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "PJCS2018チャンピオンの　ニドクイン",
+      "distributionMethod": "ローカル通信",
+      "distributionLocation": "幕張メッセ（PJCS2019会場）",
+      "startDate": "2019-06-08",
+      "endDate": "2019-06-09",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "おくびょう",
+      "ability": "ちからずく",
+      "ball": "プレシャスボール",
+      "metLocation": "オハナぼくじょう",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "てんさいピィ"
+      },
+      "trainerId": "190608",
+      "moves": [
+        "まもる",
+        "ヘドロばくだん",
+        "れいとうビーム",
+        "だいちのちから"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 5,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "notes": "PJCS2018チャンピオン・キムラヒロフミ選手の使用個体。PJCS2019会場でローカル配信。努力値はH12/B4/C252/S236。",
+      "postUrl": "https://www.pokebros.net/hirofumikimurasnidoqueen/"
+    }
+  ]
+}

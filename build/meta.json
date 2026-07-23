@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "source": "distributions/*.json",
+  "counts": {
+    "gen5": 118,
+    "gen6": 219,
+    "gen7": 152,
+    "gen8": 96,
+    "gen9": 82,
+    "champions": 21,
+    "total": 688
+  },
+  "byGeneration": {
+    "0": 21,
+    "5": 118,
+    "6": 219,
+    "7": 152,
+    "8": 96,
+    "9": 82
+  }
+}

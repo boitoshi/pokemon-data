@@ -7,7 +7,11 @@ package-lock.json
 
 # ビルド生成物
 dist/
-build/
+# build/ の成果物（build-distributions.mjs の前方向生成物）はコミットする（P4 apps が消費）。
+# その他 build/ 配下の一時物は除外する。
+build/*
+!build/pokemon.json
+!build/meta.json
 *.js.map
 
 # 環境変数

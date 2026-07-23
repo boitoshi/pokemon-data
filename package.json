@@ -2,7 +2,9 @@
   "scripts": {
     "validate": "node scripts/validate-data.mjs && node scripts/validate-distributions.mjs",
     "validate:master": "node scripts/validate-data.mjs",
-    "validate:distributions": "node scripts/validate-distributions.mjs"
+    "validate:distributions": "node scripts/validate-distributions.mjs",
+    "build": "node scripts/build-distributions.mjs",
+    "test:build-compat": "node scripts/test-build-compat.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.15.17"

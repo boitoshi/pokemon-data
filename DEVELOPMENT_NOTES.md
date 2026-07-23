@@ -143,6 +143,38 @@ uv run scripts/generate-games-mapping.py
 
 ---
 
+## 配信ポケモン正本と L3 ビルド（2026-07-23）
+
+配信ポケモンデータの正本をこの repo に集約（旧: app→tools→app の循環同期）。3レイヤー構成:
+
+```
+L2 正本      distributions/gen5..gen9.json + champions.json（688件）
+             └ distributions/schema.json 準拠。マスター(pokemon/games/mappings)を参照
+L1 マスター  pokemon/all.json, games/titles.json, mappings/* ほか
+L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・コミット方式）
+```
+
+### スクリプト
+
+| コマンド | 内容 |
+|---|---|
+| `npm run build`（= `node scripts/build-distributions.mjs`） | L2正本＋L1マスターを join し `build/pokemon.json` を前方向生成。migrate 3本の逆写像。REVERSE_GAME_MAP・ot単一JPN→素文字列/多言語→object・ivs・shiny・form再結合・generation注入。`build/meta.json` サイドカー＋件数単調増加ガード（減少は `ALLOW_BUILD_SHRINK=1` が必要） |
+| `npm run test:build-compat`（= `node scripts/test-build-compat.mjs`） | `build/pokemon.json` を distribution-app committed `pokemon.json` と照合し「文書化済み正規化差分のみ・データロス無し」を機械検証。未登録差分1件でFAIL。sibling不在(CI)は skip |
+| `npm run validate` | 既存のマスター＋配信正本 validate（build 前段の健全性） |
+
+### build/ をコミットする理由
+
+- 成果物は `build/*` を `.gitignore` 除外（`!build/pokemon.json` `!build/meta.json`）＝**コミット方式**。
+- 既存 CI が兄弟 repo を checkout しない前提のため、consumer は生成物をそのまま参照できる。
+- P4 で両アプリを `build/pokemon.json` に向け替え（distribution-app の public/pokemon.json を生成物化・summary-pages の3ファイル統合・旧 sync 2本撤去・GAS 切り離し）。
+
+### 移行スクリプト（一度きりの seed・逆写像の対）
+
+`scripts/migrate-gen5-7.mjs` / `migrate-from-app.mjs` / `migrate-champions.mjs`。
+`build-distributions.mjs` はこの3本の逆写像で、`test-build-compat.mjs` の allowlist は各 FIX_MAP を共有する。
+
+---
+
 ## 完了済みタスク
 
 ### 2026-03-21
@@ -202,6 +234,6 @@ uv run scripts/generate-games-mapping.py
 | データ | 場所 |
 |---|---|
 | フォームデータ正本（ソース） | `../pokebros-tools/tools/summary-pages/src/data/special-forms.json` |
-| 配信ポケモンデータ正本 | `../pokemon-distribution-app/public/pokemon.json` |
+| 配信ポケモンデータ正本 | `distributions/*.json`（この repo。2026-07 に app から移管。旧 `../pokemon-distribution-app/public/pokemon.json` は P4 で build 成果物へ置換予定） |
 | ゲームタイトル定義（参照元） | `../pokemon-ribbon-tracker/src/lib/data/games.ts` |
 | 旧ポケモン名データ（廃止予定） | `../pokebros-content-hub/reference-data/pokemon-names.json`（削除済み） |

@@ -368,7 +368,7 @@ const buildDir = path.join(root, "build");
 fs.mkdirSync(buildDir, { recursive: true });
 
 const pokemonPath = path.join(buildDir, "pokemon.json");
-fs.writeFileSync(pokemonPath, JSON.stringify(records, null, 2) + "\n", "utf8");
+const metaPath = path.join(buildDir, "meta.json");
 
 // ---- generation別集計（byGeneration） ----
 const byGeneration = {};
@@ -379,6 +379,26 @@ for (const r of records) {
 
 counts.total = records.length;
 
+// ---- 件数単調増加ガード（sync-dist-data.mjs 思想） ----
+// 既存 build/meta.json より total が減る生成は、正本が縮んだ/壊れた事故の可能性が高い。
+// 既定で拒否し、既存 build/ を保持したまま exit 1（意図的な削減のみ ALLOW_BUILD_SHRINK=1）。
+if (fs.existsSync(metaPath)) {
+  let prevTotal = 0;
+  try {
+    prevTotal = JSON.parse(fs.readFileSync(metaPath, "utf8"))?.counts?.total ?? 0;
+  } catch {
+    prevTotal = 0;
+  }
+  if (counts.total < prevTotal && process.env.ALLOW_BUILD_SHRINK !== "1") {
+    console.error(
+      `❌ ビルド中止: 生成件数 ${counts.total} < 既存 build/meta.json の ${prevTotal}（件数が減少）。\n` +
+        `   正本 distributions/*.json が縮んでいないか確認してください。\n` +
+        `   意図的な削減なら ALLOW_BUILD_SHRINK=1 を付けて再実行。既存 build/ は保持しました。`
+    );
+    process.exit(1);
+  }
+}
+
 const meta = {
   schemaVersion: 1,
   source: "distributions/*.json",
@@ -386,7 +406,7 @@ const meta = {
   byGeneration,
 };
 
-const metaPath = path.join(buildDir, "meta.json");
+fs.writeFileSync(pokemonPath, JSON.stringify(records, null, 2) + "\n", "utf8");
 fs.writeFileSync(metaPath, JSON.stringify(meta, null, 2) + "\n", "utf8");
 
 console.log("build-distributions: 完了");

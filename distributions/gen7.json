@@ -2419,6 +2419,2924 @@
       },
       "notes": "PJCS2018チャンピオン・キムラヒロフミ選手の使用個体。PJCS2019会場でローカル配信。努力値はH12/B4/C252/S236。",
       "postUrl": "https://www.pokebros.net/hirofumikimurasnidoqueen/"
+    },
+    {
+      "id": "07097",
+      "dexNo": 517,
+      "pokemonName": "ムンナ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Fennel's Munna",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-11-25",
+      "endDate": "2020-02-24",
+      "level": 39,
+      "gender": "♀",
+      "nature": "おっとり",
+      "ability": "テレパシー",
+      "ball": "ドリームボール",
+      "metLocation": "PGL",
+      "ot": {
+        "ENG": "Fennel",
+        "SPA": "Prof. Oryza",
+        "FRE": "Oryse"
+      },
+      "trainerId": "100918",
+      "moves": [
+        "さいみんじゅつ",
+        "ゆめくい",
+        "ねむる",
+        "ねごと"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ]
+    },
+    {
+      "id": "07135",
+      "dexNo": 517,
+      "pokemonName": "ムンナ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Fennel's Munna",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-11-25",
+      "endDate": "2020-02-24",
+      "level": 39,
+      "gender": "♀",
+      "nature": "おっとり",
+      "ability": "テレパシー",
+      "ball": "ドリームボール",
+      "metLocation": "PGL",
+      "ot": {
+        "JPN": "주리"
+      },
+      "trainerId": "100918",
+      "moves": [
+        "さいみんじゅつ",
+        "ゆめくい",
+        "ねむる",
+        "ねごと"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ]
+    },
+    {
+      "id": "07132",
+      "dexNo": 791,
+      "pokemonName": "ソルガレオ",
+      "games": [
+        "moon",
+        "ultra_moon"
+      ],
+      "eventName": "Shiny Solgaleo",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-11-15",
+      "endDate": "2019-12-31",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "メタルプロテクト",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "이클립스"
+      },
+      "trainerId": "191115",
+      "moves": [
+        "メテオドライブ",
+        "しねんのずつき",
+        "おたけび",
+        "あさのひざし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07133",
+      "dexNo": 792,
+      "pokemonName": "ルナアーラ",
+      "games": [
+        "sun",
+        "ultra_sun"
+      ],
+      "eventName": "Shiny Lunala",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-11-15",
+      "endDate": "2019-12-31",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "ファントムガード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "이클립스"
+      },
+      "trainerId": "191115",
+      "moves": [
+        "シャドーレイ",
+        "サイコショック",
+        "ムーンフォース",
+        "つきのひかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07134",
+      "dexNo": 800,
+      "pokemonName": "ネクロズマ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Shiny Necrozma",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-11-15",
+      "endDate": "2019-12-31",
+      "level": 75,
+      "nature": "ランダム",
+      "ability": "プリズムアーマー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "이클립스"
+      },
+      "trainerId": "191115",
+      "moves": [
+        "ステルスロック",
+        "てっぺき",
+        "しぼりとる",
+        "プリズムレーザー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07094",
+      "dexNo": 791,
+      "pokemonName": "ソルガレオ",
+      "games": [
+        "moon",
+        "ultra_moon"
+      ],
+      "eventName": "Shiny Solgaleo",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-10-21",
+      "endDate": "2020-01-15",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "メタルプロテクト",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Eclipse"
+      },
+      "trainerId": "100419",
+      "moves": [
+        "メテオドライブ",
+        "しねんのずつき",
+        "おたけび",
+        "あさのひざし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07095",
+      "dexNo": 792,
+      "pokemonName": "ルナアーラ",
+      "games": [
+        "sun",
+        "ultra_sun"
+      ],
+      "eventName": "Shiny Lunala",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-10-21",
+      "endDate": "2020-01-15",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "ファントムガード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Eclipse"
+      },
+      "trainerId": "100419",
+      "moves": [
+        "シャドーレイ",
+        "サイコショック",
+        "ムーンフォース",
+        "つきのひかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07096",
+      "dexNo": 785,
+      "pokemonName": "カプ・コケコ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Melemele Island Shiny Tapu Koko",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-10-18",
+      "endDate": "2019-11-30",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "エレキメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "エレキシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Melemele"
+      },
+      "trainerId": "191004",
+      "moves": [
+        "１０まんボルト",
+        "マジカルシャイン",
+        "ボルトチェンジ",
+        "Nature's Madness"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07131",
+      "dexNo": 785,
+      "pokemonName": "カプ・コケコ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Melemele Island Shiny Tapu Koko",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-10-18",
+      "endDate": "2019-11-30",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "エレキメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "エレキシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "멜레멜레"
+      },
+      "trainerId": "191004",
+      "moves": [
+        "１０まんボルト",
+        "マジカルシャイン",
+        "ボルトチェンジ",
+        "Nature's Madness"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07093",
+      "dexNo": 788,
+      "pokemonName": "カプ・レヒレ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Poni Island Shiny Tapu Fini",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-06-11",
+      "endDate": "2019-07-30",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "ミストメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ミストシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Poni"
+      },
+      "trainerId": "190524",
+      "moves": [
+        "Nature's Madness",
+        "だくりゅう",
+        "アクアリング",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07130",
+      "dexNo": 788,
+      "pokemonName": "カプ・レヒレ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Poni Island Shiny Tapu Fini",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-06-11",
+      "endDate": "2019-07-30",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "ミストメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ミストシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "포니"
+      },
+      "trainerId": "180524",
+      "moves": [
+        "Nature's Madness",
+        "だくりゅう",
+        "アクアリング",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07092",
+      "dexNo": 787,
+      "pokemonName": "カプ・ブルル",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Ula'ula Island Shiny Tapu Bulu",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-03-19",
+      "endDate": "2019-04-29",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "グラスメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "グラスシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Ula'ula",
+        "ENG": "Ula'ula",
+        "SPA": "Ula-Ula",
+        "FRE": "Ula-Ula",
+        "GER": "Ula'ula",
+        "ITA": "Ula'ula",
+        "KOR": "Ula'ula",
+        "CHS": "Ula'ula",
+        "CHT": "Ula'ula"
+      },
+      "trainerId": "190222",
+      "moves": [
+        "Nature's Madness",
+        "しねんのずつき",
+        "メガホーン",
+        "ロケットずつき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07129",
+      "dexNo": 787,
+      "pokemonName": "カプ・ブルル",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Ula'ula Island Shiny Tapu Bulu",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2019-03-19",
+      "endDate": "2019-04-30",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "グラスメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "グラスシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "울라울라"
+      },
+      "trainerId": "190222",
+      "moves": [
+        "Nature's Madness",
+        "しねんのずつき",
+        "メガホーン",
+        "ロケットずつき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07126",
+      "dexNo": 249,
+      "pokemonName": "ルギア",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Fula City Lugia",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-12-19",
+      "endDate": "2019-02-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "マルチスケイル",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "None",
+      "ot": {
+        "JPN": "후우라시티"
+      },
+      "trainerId": "181219",
+      "moves": [
+        "エアロブラスト",
+        "ぼうふう",
+        "きりばらい",
+        "おいかぜ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07127",
+      "dexNo": 807,
+      "pokemonName": "ゼラオラ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Fula City Zeraora",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-12-19",
+      "endDate": "2019-02-28",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ちくでん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "ふうせん",
+      "ot": {
+        "JPN": "후우라시티"
+      },
+      "trainerId": "181219",
+      "moves": [
+        "プラズマフィスト",
+        "かみなりパンチ",
+        "インファイト",
+        "かみなり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07091",
+      "dexNo": 786,
+      "pokemonName": "カプ・テテフ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Akala Island Shiny Tapu Lele",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-12-18",
+      "endDate": "2019-01-31",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "サイコメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "サイコシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Akala"
+      },
+      "trainerId": "181130",
+      "moves": [
+        "Nature's Madness",
+        "じんつうりき",
+        "おだてる",
+        "ムーンフォース"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07128",
+      "dexNo": 786,
+      "pokemonName": "カプ・テテフ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Akala Island Shiny Tapu Lele",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-12-18",
+      "endDate": "2019-01-31",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "サイコメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "PGL",
+      "heldItem": "サイコシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "아칼라"
+      },
+      "trainerId": "181130",
+      "moves": [
+        "Nature's Madness",
+        "じんつうりき",
+        "おだてる",
+        "ムーンフォース"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07090",
+      "dexNo": 807,
+      "pokemonName": "ゼラオラ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Asian Fula City Zeraora",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-12-01",
+      "endDate": "2019-03-31",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ちくでん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画2018",
+      "heldItem": "ふうせん",
+      "ot": {
+        "JPN": "フウラシティ"
+      },
+      "trainerId": "180713",
+      "moves": [
+        "プラズマフィスト",
+        "かみなりパンチ",
+        "インファイト",
+        "かみなり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07089",
+      "dexNo": 778,
+      "pokemonName": "ミミッキュ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Ultra Spooky Cup Shiny Mimikyu",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-13",
+      "endDate": "2018-12-30",
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ばけのかわ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ふしぎなアメ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "PGL"
+      },
+      "trainerId": "102618",
+      "moves": [
+        "ものまね",
+        "よこどり",
+        "トリック",
+        "みちづれ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07058",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Alola Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-09",
+      "endDate": "2018-11-30",
+      "level": 19,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ash",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "Ash",
+        "CHS": "Ash",
+        "CHT": "Ash"
+      },
+      "trainerId": "120516",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07059",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Kalos Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-09",
+      "endDate": "2018-11-30",
+      "level": 17,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ash",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "Ash",
+        "CHS": "Ash",
+        "CHT": "Ash"
+      },
+      "trainerId": "11814",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07060",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Unova Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-09",
+      "endDate": "2018-11-30",
+      "level": 13,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ash",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "Ash",
+        "CHS": "Ash",
+        "CHT": "Ash"
+      },
+      "trainerId": "21211",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "ボルテッカー"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07061",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Sinnoh Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-09",
+      "endDate": "2018-11-30",
+      "level": 9,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ash",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "Ash",
+        "CHS": "Ash",
+        "CHT": "Ash"
+      },
+      "trainerId": "60407",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "ボルテッカー"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07062",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Hoenn Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-09",
+      "endDate": "2018-11-30",
+      "level": 6,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ash",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "Ash",
+        "CHS": "Ash",
+        "CHT": "Ash"
+      },
+      "trainerId": "91303",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "かみなり",
+        "アイアンテール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07085",
+      "dexNo": 250,
+      "pokemonName": "ホウオウ",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "Ho-Oh",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-02",
+      "endDate": "2019-02-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "110218",
+      "moves": [
+        "せいなるほのお",
+        "ブレイブバード",
+        "じしん",
+        "おいかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07086",
+      "dexNo": 249,
+      "pokemonName": "ルギア",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "Lugia",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-11-02",
+      "endDate": "2019-02-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "110218",
+      "moves": [
+        "エアロブラスト",
+        "だいちのちから",
+        "サイコキネシス",
+        "おいかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07088",
+      "dexNo": 807,
+      "pokemonName": "ゼラオラ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Fula City Zeraora",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-10-19",
+      "endDate": "2019-01-24",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ちくでん",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ふうせん",
+      "ot": {
+        "ENG": "Fula City",
+        "SPA": "Mistral",
+        "FRE": "Fula"
+      },
+      "trainerId": "100118",
+      "moves": [
+        "プラズマフィスト",
+        "かみなりパンチ",
+        "インファイト",
+        "かみなり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07083",
+      "dexNo": 643,
+      "pokemonName": "レシラム",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "Reshiram",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-10-12",
+      "endDate": "2019-01-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ターボブレイズ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "100518",
+      "moves": [
+        "クロスフレイム",
+        "あおいほのお",
+        "りゅうせいぐん",
+        "だいちのちから"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07084",
+      "dexNo": 644,
+      "pokemonName": "ゼクロム",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "Zekrom",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-10-12",
+      "endDate": "2019-01-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "テラボルテージ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "100518",
+      "moves": [
+        "クロスサンダー",
+        "らいげき",
+        "げきりん",
+        "ストーンエッジ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07087",
+      "dexNo": 803,
+      "pokemonName": "ベベノム",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Ultra Poipole",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-09-17",
+      "endDate": "2018-12-20",
+      "level": 40,
+      "nature": "ひかえめ",
+      "ability": "ビーストブースト",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Ultra"
+      },
+      "trainerId": "91718",
+      "moves": [
+        "ベノムトラップ",
+        "わるだくみ",
+        "どくづき",
+        "りゅうのはどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07081",
+      "dexNo": 381,
+      "pokemonName": "ラティオス",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "Latios",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-09-02",
+      "endDate": "2018-12-21",
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "90118",
+      "moves": [
+        "ラスターパージ",
+        "サイコキネシス",
+        "りゅうせいぐん",
+        "おいかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07082",
+      "dexNo": 380,
+      "pokemonName": "ラティアス",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "Latias",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-09-02",
+      "endDate": "2018-12-21",
+      "level": 100,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "90118",
+      "moves": [
+        "ミストボール",
+        "サイコキネシス",
+        "りゅうせいぐん",
+        "おいかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07079",
+      "dexNo": 383,
+      "pokemonName": "グラードン",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "Groudon",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-08-03",
+      "endDate": "2018-11-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ひでり",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "80318",
+      "moves": [
+        "だんがいのつるぎ",
+        "だいちのちから",
+        "ほのおのパンチ",
+        "つるぎのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07080",
+      "dexNo": 382,
+      "pokemonName": "カイオーガ",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "Kyogre",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-08-03",
+      "endDate": "2018-11-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "あめふらし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "80318",
+      "moves": [
+        "こんげんのはどう",
+        "れいとうビーム",
+        "しおふき",
+        "めいそう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07077",
+      "dexNo": 641,
+      "pokemonName": "トルネロス",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "Tornadus",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-07-01",
+      "endDate": "2018-10-29",
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "70618",
+      "moves": [
+        "ぼうふう",
+        "ねっぷう",
+        "くさむすび",
+        "おいかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07078",
+      "dexNo": 642,
+      "pokemonName": "ボルトロス",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "Thundurus",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-07-01",
+      "endDate": "2018-10-29",
+      "level": 100,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "70618",
+      "moves": [
+        "１０まんボルト",
+        "きあいだま",
+        "くさむすび",
+        "わるだくみ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07125",
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Pokémon Generations Zygarde",
+      "distributionMethod": "あいことば",
+      "startDate": "2018-06-20",
+      "endDate": "2018-08-31",
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "オーラブレイク",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "제너레이션즈"
+      },
+      "trainerId": "180620",
+      "moves": [
+        "かみくだく",
+        "じしん",
+        "ほごしょく",
+        "りゅうのはどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "KKEUTUIDONGGUL"
+    },
+    {
+      "id": "07122",
+      "dexNo": 491,
+      "pokemonName": "ダークライ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Darkrai",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-06-06",
+      "endDate": "2018-08-31",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ナイトメア",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "아라모스"
+      },
+      "trainerId": "180606",
+      "moves": [
+        "ダークホール",
+        "だましうち",
+        "あくむ",
+        "あやしいかぜ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07123",
+      "dexNo": 484,
+      "pokemonName": "パルキア",
+      "games": [
+        "sun",
+        "ultra_sun"
+      ],
+      "eventName": "Palkia",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-06-06",
+      "endDate": "2018-08-31",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "아라모스"
+      },
+      "trainerId": "180606",
+      "moves": [
+        "ハイドロポンプ",
+        "りゅうせいぐん",
+        "あくうせつだん",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07124",
+      "dexNo": 483,
+      "pokemonName": "ディアルガ",
+      "games": [
+        "moon",
+        "ultra_moon"
+      ],
+      "eventName": "Dialga",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-06-06",
+      "endDate": "2018-08-31",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "아라모스"
+      },
+      "trainerId": "180606",
+      "moves": [
+        "ラスターカノン",
+        "りゅうせいぐん",
+        "ときのほうこう",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07076",
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Shiny Zygarde",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-06-01",
+      "endDate": "2018-09-27",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "オーラブレイク",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "60218",
+      "moves": [
+        "サウザンアロー",
+        "げきりん",
+        "しんそく",
+        "りゅうのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07074",
+      "dexNo": 716,
+      "pokemonName": "ゼルネアス",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "Xerneas",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-05-04",
+      "endDate": "2018-08-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "フェアリーオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "50418",
+      "moves": [
+        "ジオコントロール",
+        "きあいだま",
+        "くさむすび",
+        "ムーンフォース"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07075",
+      "dexNo": 717,
+      "pokemonName": "イベルタル",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "Yveltal",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-05-04",
+      "endDate": "2018-08-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ダークオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "50418",
+      "moves": [
+        "デスウイング",
+        "あくのはどう",
+        "ねっぷう",
+        "おいかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07121",
+      "dexNo": 492,
+      "pokemonName": "シェイミ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Heart Shaymin",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-05-02",
+      "endDate": "2018-07-31",
+      "level": 30,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "마음"
+      },
+      "trainerId": "180501",
+      "moves": [
+        "おいわい",
+        "おんがえし",
+        "こうごうせい",
+        "シードフレア"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07120",
+      "dexNo": 803,
+      "pokemonName": "ベベノム",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Ultra Shiny Poipole",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-04-13",
+      "endDate": "2018-04-30",
+      "level": 40,
+      "nature": "ひかえめ",
+      "ability": "ビーストブースト",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "울트라"
+      },
+      "trainerId": "180331",
+      "moves": [
+        "ベノムトラップ",
+        "わるだくみ",
+        "どくづき",
+        "りゅうのはどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07072",
+      "dexNo": 243,
+      "pokemonName": "ライコウ",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "Raikou",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-04-02",
+      "endDate": "2018-07-23",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "42218",
+      "moves": [
+        "１０まんボルト",
+        "ボルトチェンジ",
+        "じんつうりき",
+        "めいそう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07073",
+      "dexNo": 244,
+      "pokemonName": "エンテイ",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "Entei",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-04-02",
+      "endDate": "2018-07-23",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "42218",
+      "moves": [
+        "せいなるほのお",
+        "ストーンエッジ",
+        "アイアンヘッド",
+        "ニトロチャージ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07070",
+      "dexNo": 485,
+      "pokemonName": "ヒードラン",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "Heatran",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-03-16",
+      "endDate": "2018-06-28",
+      "level": 100,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "もらいび",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "30118",
+      "moves": [
+        "マグマストーム",
+        "ねっぷう",
+        "だいちのちから",
+        "ラスターカノン"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07071",
+      "dexNo": 486,
+      "pokemonName": "レジギガス",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "Regigigas",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-03-16",
+      "endDate": "2018-06-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "スロースタート",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "30118",
+      "moves": [
+        "にぎりつぶす",
+        "ドレインパンチ",
+        "しねんのずつき",
+        "ヘビーボンバー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07118",
+      "dexNo": 383,
+      "pokemonName": "グラードン",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "Groudon",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-02-14",
+      "endDate": "2018-03-14",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "ひでり",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "울트라"
+      },
+      "trainerId": "180127",
+      "moves": [
+        "じしん",
+        "だんがいのつるぎ",
+        "ビルドアップ",
+        "ソーラービーム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07119",
+      "dexNo": 382,
+      "pokemonName": "カイオーガ",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "Kyogre",
+      "distributionMethod": "あいことば",
+      "startDate": "2018-02-14",
+      "endDate": "2018-03-14",
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "あめふらし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "울트라"
+      },
+      "trainerId": "180127",
+      "moves": [
+        "れいとうビーム",
+        "こんげんのはどう",
+        "めいそう",
+        "だくりゅう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "RAYQUAZAGOTCHA"
+    },
+    {
+      "id": "07068",
+      "dexNo": 483,
+      "pokemonName": "ディアルガ",
+      "games": [
+        "ultra_moon"
+      ],
+      "eventName": "Dialga",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-02-02",
+      "endDate": "2018-05-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "20218",
+      "moves": [
+        "ときのほうこう",
+        "はどうだん",
+        "りゅうせいぐん",
+        "ラスターカノン"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07069",
+      "dexNo": 484,
+      "pokemonName": "パルキア",
+      "games": [
+        "ultra_sun"
+      ],
+      "eventName": "Palkia",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-02-02",
+      "endDate": "2018-05-28",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "20218",
+      "moves": [
+        "あくうせつだん",
+        "はどうだん",
+        "りゅうせいぐん",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07110",
+      "dexNo": 250,
+      "pokemonName": "ホウオウ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Mount Tensei Ho-Oh",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-21",
+      "endDate": "2018-01-31",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "せいなるはい",
+      "ot": {
+        "JPN": "천청산"
+      },
+      "trainerId": "171221",
+      "moves": [
+        "せいなるほのお",
+        "ブレイブバード",
+        "じこさいせい",
+        "しんぴのまもり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07111",
+      "dexNo": 802,
+      "pokemonName": "マーシャドー",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Mount Tensei Marshadow",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-21",
+      "endDate": "2018-02-28",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "천청산"
+      },
+      "trainerId": "171221",
+      "moves": [
+        "シャドースチール",
+        "インファイト",
+        "はっけい",
+        "シャドーボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07112",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Alola Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-21",
+      "endDate": "2018-02-28",
+      "level": 20,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "지우"
+      },
+      "trainerId": "171221",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07113",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Kalos Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-21",
+      "endDate": "2018-02-28",
+      "level": 20,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "지우"
+      },
+      "trainerId": "171221",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07114",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Unova Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-21",
+      "endDate": "2018-02-28",
+      "level": 20,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "지우"
+      },
+      "trainerId": "171221",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "ボルテッカー"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07115",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Sinnoh Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-21",
+      "endDate": "2018-02-28",
+      "level": 20,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "지우"
+      },
+      "trainerId": "171221",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "ボルテッカー"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07116",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Hoenn Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-21",
+      "endDate": "2018-02-28",
+      "level": 20,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "지우"
+      },
+      "trainerId": "171221",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "かみなり",
+        "アイアンテール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07117",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Original Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-12-21",
+      "endDate": "2018-02-28",
+      "level": 20,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "지우"
+      },
+      "trainerId": "171221",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "かみなり",
+        "こうそくいどう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07109",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Sorrel's Lucario",
+      "distributionMethod": "あいことば",
+      "startDate": "2017-12-09",
+      "endDate": "2018-01-31",
+      "level": 40,
+      "gender": "♂",
+      "nature": "まじめ",
+      "ability": "ふくつのこころ",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "민준"
+      },
+      "trainerId": "171209",
+      "moves": [
+        "はどうだん",
+        "とびひざげり",
+        "りゅうのはどう",
+        "しんそく"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "password": "ICHOOSEYOU448"
+    },
+    {
+      "id": "07067",
+      "dexNo": 773,
+      "pokemonName": "シルヴァディ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Aether Silvally",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-10-23",
+      "endDate": "2018-02-13",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ARシステム",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Aether",
+        "ENG": "Aether",
+        "SPA": "Æther",
+        "FRE": "Æther",
+        "GER": "Aether",
+        "ITA": "Aether",
+        "KOR": "Aether",
+        "CHS": "Aether",
+        "CHT": "Aether"
+      },
+      "trainerId": "102317",
+      "moves": [
+        "マルチアタック",
+        "すてゼリフ",
+        "おしおき",
+        "こわいかお"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07108",
+      "dexNo": 773,
+      "pokemonName": "シルヴァディ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Aether Silvally",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-10-14",
+      "endDate": "2017-11-30",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ARシステム",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "에테르"
+      },
+      "trainerId": "171014",
+      "moves": [
+        "マルチアタック",
+        "すてゼリフ",
+        "おしおき",
+        "こわいかお"
+      ]
+    },
+    {
+      "id": "07066",
+      "dexNo": 802,
+      "pokemonName": "マーシャドー",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Mount Tensei Marshadow",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-10-09",
+      "endDate": "2018-02-23",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "MT. Tensei",
+        "ENG": "MT. Tensei",
+        "SPA": "Mt. Tensei",
+        "FRE": "Mt Tensei",
+        "GER": "MT. Tensei",
+        "ITA": "MT. Tensei",
+        "KOR": "MT. Tensei",
+        "CHS": "MT. Tensei",
+        "CHT": "MT. Tensei"
+      },
+      "trainerId": "100917",
+      "moves": [
+        "シャドースチール",
+        "インファイト",
+        "はっけい",
+        "シャドーボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07065",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Bullseye Charizard",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-10-01",
+      "endDate": "2018-02-04",
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "レッドカード",
+      "ot": {
+        "JPN": "Bullseye"
+      },
+      "trainerId": "100117",
+      "moves": [
+        "りゅうのまい",
+        "フレアドライブ",
+        "そらをとぶ",
+        "じしん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07064",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Ilex Forest Celebi",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-09-22",
+      "endDate": "2018-10-31",
+      "level": 30,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ジョウトちほう",
+      "ot": {
+        "JPN": "Ilex"
+      },
+      "trainerId": "101500",
+      "moves": [
+        "いやしのすず",
+        "しんぴのまもり",
+        "げんしのちから",
+        "みらいよち"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ]
+    },
+    {
+      "id": "07099",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Ilex Forest Celebi",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-09-22",
+      "endDate": "2018-10-31",
+      "level": 30,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ジョウトちほう",
+      "ot": {
+        "JPN": "Ilex"
+      },
+      "trainerId": "40601",
+      "moves": [
+        "いやしのすず",
+        "しんぴのまもり",
+        "げんしのちから",
+        "みらいよち"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ]
+    },
+    {
+      "id": "07107",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Ilex Forest Celebi",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-09-22",
+      "endDate": "2018-10-31",
+      "level": 30,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ジョウトちほう",
+      "ot": {
+        "JPN": "너도밤나무"
+      },
+      "trainerId": "42402",
+      "moves": [
+        "いやしのすず",
+        "しんぴのまもり",
+        "げんしのちから",
+        "みらいよち"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ]
+    },
+    {
+      "id": "07137",
+      "dexNo": 773,
+      "pokemonName": "シルヴァディ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Aether Silvally",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-09-22",
+      "endDate": "2017-12-16",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ARシステム",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "エーテル"
+      },
+      "trainerId": "170922",
+      "moves": [
+        "マルチアタック",
+        "すてゼリフ",
+        "おしおき",
+        "こわいかお"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07063",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Original Cap",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-09-19",
+      "endDate": "2017-09-25",
+      "level": 1,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Ash",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "Ash",
+        "CHS": "Ash",
+        "CHT": "Ash"
+      },
+      "trainerId": "90898",
+      "moves": [
+        "１０まんボルト",
+        "でんこうせっか",
+        "かみなり",
+        "こうそくいどう"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ]
+    },
+    {
+      "id": "07106",
+      "dexNo": 762,
+      "pokemonName": "アママイコ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Mallow's Steenee",
+      "distributionMethod": "あいことば",
+      "startDate": "2017-09-19",
+      "endDate": "2017-10-31",
+      "level": 20,
+      "gender": "♀",
+      "nature": "むじゃき",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "heldItem": "やまぶきのミツ",
+      "ot": {
+        "JPN": "마오"
+      },
+      "trainerId": "170919",
+      "moves": [
+        "マジカルリーフ",
+        "おうふくビンタ",
+        "あまいかおり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "ALOLASTEW762"
+    },
+    {
+      "id": "07105",
+      "dexNo": 37,
+      "pokemonName": "ロコン",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Lillie's Alolan Vulpix",
+      "distributionMethod": "あいことば",
+      "startDate": "2017-08-24",
+      "endDate": "2017-10-31",
+      "level": 10,
+      "gender": "♀",
+      "nature": "ひかえめ",
+      "ability": "ゆきがくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "heldItem": "シルクのスカーフ",
+      "ot": {
+        "JPN": "릴리에"
+      },
+      "trainerId": "170822",
+      "moves": [
+        "こなゆき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "JAMES"
+    },
+    {
+      "id": "07057",
+      "dexNo": 758,
+      "pokemonName": "エンニュート",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Clovis Salazzle",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-08-14",
+      "endDate": "2017-12-04",
+      "level": 50,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "ふしょく",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "Clovis"
+      },
+      "trainerId": "80817",
+      "moves": [
+        "ねこだまし",
+        "どくどく",
+        "ヘドロばくだん",
+        "かえんほうしゃ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07104",
+      "dexNo": 776,
+      "pokemonName": "バクガメス",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Kiawe's Turtonator",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-08-12",
+      "endDate": "2017-09-30",
+      "level": 30,
+      "gender": "♂",
+      "nature": "ゆうかん",
+      "ability": "シェルアーマー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "heldItem": "モーモーミルク",
+      "ot": {
+        "JPN": "키아웨"
+      },
+      "trainerId": "170812",
+      "moves": [
+        "かえんほうしゃ",
+        "トラップシェル",
+        "ドラゴンテール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07055",
+      "dexNo": 785,
+      "pokemonName": "カプ・コケコ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Melemele Island Shiny Tapu Koko",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2017-07-14",
+      "endDate": "2017-08-14",
+      "level": 60,
+      "nature": "おくびょう",
+      "ability": "エレキメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "エレキシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Melemele"
+      },
+      "trainerId": "170714",
+      "moves": [
+        "Nature's Madness",
+        "ほうでん",
+        "こうそくいどう",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07056",
+      "dexNo": 745,
+      "pokemonName": "ルガルガン",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Rocky Lycanroc",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-05-15",
+      "endDate": "2017-08-04",
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ノーガード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "Rocky"
+      },
+      "trainerId": "51517",
+      "moves": [
+        "ストーンエッジ",
+        "ほのおのキバ",
+        "ふいうち",
+        "つるぎのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07103",
+      "dexNo": 27,
+      "pokemonName": "サンド",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Alolan Sandshrew",
+      "distributionMethod": "あいことば",
+      "startDate": "2017-05-09",
+      "endDate": "2017-06-30",
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ゆきがくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "썬문"
+      },
+      "trainerId": "170502",
+      "moves": [
+        "こうそくスピン",
+        "アイスボール",
+        "こなゆき",
+        "がまん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "2ALOLAFORM7"
+    },
+    {
+      "id": "07101",
+      "dexNo": 50,
+      "pokemonName": "ディグダ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Alolan Diglett",
+      "distributionMethod": "あいことば",
+      "startDate": "2017-05-02",
+      "endDate": "2017-06-30",
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "カーリーヘアー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "썬문"
+      },
+      "trainerId": "170502",
+      "moves": [
+        "どろかけ",
+        "おどろかす",
+        "なきごえ",
+        "メタルクロー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "NOTHAIR"
+    },
+    {
+      "id": "07102",
+      "dexNo": 88,
+      "pokemonName": "ベトベター",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Alolan Grimer",
+      "distributionMethod": "あいことば",
+      "startDate": "2017-05-02",
+      "endDate": "2017-06-30",
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "どくしゅ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "썬문"
+      },
+      "trainerId": "170502",
+      "moves": [
+        "かみつく",
+        "かたくなる",
+        "どくガス",
+        "はたく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "RAIN8BOW8"
+    },
+    {
+      "id": "07098",
+      "dexNo": 785,
+      "pokemonName": "カプ・コケコ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Melemele Island Shiny Tapu Koko",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-04-28",
+      "endDate": "2017-06-30",
+      "level": 60,
+      "nature": "おくびょう",
+      "ability": "エレキメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "エレキシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Melemele"
+      },
+      "trainerId": "170428",
+      "moves": [
+        "Nature's Madness",
+        "ほうでん",
+        "こうそくいどう",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07136",
+      "dexNo": 785,
+      "pokemonName": "カプ・コケコ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Melemele Island Tapu Koko",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2017-04-28",
+      "endDate": "2017-06-30",
+      "level": 60,
+      "nature": "おくびょう",
+      "ability": "エレキメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "エレキシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Melemele"
+      },
+      "trainerId": "170428",
+      "moves": [
+        "Nature's Madness",
+        "ほうでん",
+        "こうそくいどう",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
+    },
+    {
+      "id": "07100",
+      "dexNo": 37,
+      "pokemonName": "ロコン",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Alolan Vulpix",
+      "distributionMethod": "ALOLA",
+      "startDate": "2017-04-04",
+      "endDate": "2017-06-30",
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ゆきがくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "썬문"
+      },
+      "trainerId": "170404",
+      "moves": [
+        "こおりのつぶて",
+        "つぶらなひとみ",
+        "ほえる",
+        "しっぽをふる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ]
     }
   ]
 }

@@ -1,8 +1,11 @@
-// 配信ポケモン正本 P2a: Gen8/9 変換（app由来）
+// 配信ポケモン正本 P2a/P2b: Gen7-9 変換（app由来）
 //
 // 変換元: pokemon-distribution-app/public/pokemon.json (674件、.generation で0/5-9混在、変換後スキーマ)
-// 対象: generation===8 と generation===9 のみ
-// 出力先: distributions/gen8.json / gen9.json
+//
+// P2a: generation===8/9 は全件をappから変換し、distributions/gen8.json・gen9.json を毎回フル再生成する（冪等）。
+// P2b: generation===7 は distributions/gen7.json（bulbapediaスクレイプ由来69件）に対し、
+//      appにしか無いid（app-only）だけを変換して末尾に追記マージする。既存69件・envelopeは維持。
+//      再実行時は追記済みidが既存扱いになるため新規追記0件＝冪等。
 //
 // migrate-gen5-7.mjs を下敷きにしつつ、app固有スキーマの差分（game文字列→games配列、ot/ivsの
 // オブジェクト直値許容、shiny/gigantamax/alpha等のapp側表記）を吸収する。
@@ -23,6 +26,10 @@ const titleIds = new Set(titles.map((t) => t.id));
 
 // ---- game 変換マップ（app の JP/英表記 → games/titles.json の id） ----
 const GAME_MAP = {
+  サン: "sun",
+  ムーン: "moon",
+  ウルトラサン: "ultra_sun",
+  ウルトラムーン: "ultra_moon",
   ソード: "sword",
   シールド: "shield",
   ブリリアントダイヤモンド: "brilliant_diamond",
@@ -330,15 +337,19 @@ function convertEntry(entry) {
   return orderEntry(out);
 }
 
-const GEN_CONFIG = [
+// P2a: フル再生成（毎回appのgeneration===N全件を変換して書き出す。冪等）
+const FULL_REGEN_CONFIG = [
   { generation: 8, dataset: "gen8" },
   { generation: 9, dataset: "gen9" },
 ];
 
+// P2b: マージ（既存distributions/{dataset}.jsonを読み、app-only分だけ変換して末尾に追記。envelope維持。冪等）
+const MERGE_CONFIG = [{ generation: 7, dataset: "gen7" }];
+
 const formIds = [];
 const summary = [];
 
-for (const { generation, dataset } of GEN_CONFIG) {
+for (const { generation, dataset } of FULL_REGEN_CONFIG) {
   const genEntries = source.filter((e) => e.generation === generation);
   const converted = genEntries.map((e) => {
     const out = convertEntry(e);
@@ -356,12 +367,63 @@ for (const { generation, dataset } of GEN_CONFIG) {
 
   const outPath = path.join(root, "distributions", `${dataset}.json`);
   fs.writeFileSync(outPath, JSON.stringify(payload, null, 2) + "\n", "utf8");
-  summary.push({ dataset, count: converted.length, outPath });
+  summary.push({ dataset, count: converted.length, outPath, mode: "full-regen" });
+}
+
+for (const { generation, dataset } of MERGE_CONFIG) {
+  const outPath = path.join(root, "distributions", `${dataset}.json`);
+  const existingPayload = JSON.parse(fs.readFileSync(outPath, "utf8"));
+  if (existingPayload.dataset !== dataset || existingPayload.generation !== generation) {
+    throw new Error(
+      `${dataset}.json のenvelopeが想定と異なります (dataset=${existingPayload.dataset}, generation=${existingPayload.generation})`
+    );
+  }
+
+  const existingIds = new Set(existingPayload.entries.map((e) => e.id));
+  const appOnlyEntries = source.filter((e) => e.generation === generation && !existingIds.has(e.managementId));
+  const converted = appOnlyEntries.map((e) => {
+    const out = convertEntry(e);
+    if (out.form) formIds.push(out.id);
+    return out;
+  });
+
+  const mergedEntries = [...existingPayload.entries, ...converted];
+
+  // マージ後のid一意性を防御的に検査（既存69件とapp-only分の衝突が万一あれば止める）
+  const idSet = new Set();
+  for (const e of mergedEntries) {
+    if (idSet.has(e.id)) {
+      throw new Error(`${dataset}.json: マージ後にid "${e.id}" が重複しています`);
+    }
+    idSet.add(e.id);
+  }
+
+  const payload = {
+    schemaVersion: existingPayload.schemaVersion,
+    dataset: existingPayload.dataset,
+    generation: existingPayload.generation,
+    provenance: existingPayload.provenance,
+    entries: mergedEntries,
+  };
+
+  fs.writeFileSync(outPath, JSON.stringify(payload, null, 2) + "\n", "utf8");
+  summary.push({
+    dataset,
+    count: mergedEntries.length,
+    outPath,
+    mode: "merge",
+    existing: existingPayload.entries.length,
+    appended: converted.length,
+  });
 }
 
 console.log("migrate-from-app: 完了");
 for (const s of summary) {
-  console.log(`  ${s.dataset}: ${s.count}件 -> ${path.relative(root, s.outPath)}`);
+  if (s.mode === "merge") {
+    console.log(`  ${s.dataset}: ${s.count}件 (既存${s.existing}件 + app-only追記${s.appended}件) -> ${path.relative(root, s.outPath)}`);
+  } else {
+    console.log(`  ${s.dataset}: ${s.count}件 -> ${path.relative(root, s.outPath)}`);
+  }
 }
 console.log(`  合計: ${summary.reduce((a, s) => a + s.count, 0)}件`);
 console.log(`  フォルム抽出: ${formIds.length}件 [${formIds.join(", ")}]`);

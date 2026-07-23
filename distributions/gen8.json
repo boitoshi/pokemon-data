@@ -1,0 +1,4136 @@
+{
+  "schemaVersion": 1,
+  "dataset": "gen8",
+  "generation": 8,
+  "provenance": "spreadsheet-migration",
+  "entries": [
+    {
+      "id": "08076",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトシのポケモンたちといっしょに『ポケットモンスター ソード・シールド』でバトル！",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "アニメ「ポケットモンスター」放送中に公開",
+      "startDate": "2022-09-16",
+      "endDate": "2022-09-29",
+      "region": [
+        "全世界"
+      ],
+      "level": 80,
+      "gender": "♂",
+      "nature": "まじめ",
+      "ability": "せいしんりょく",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "200412",
+      "moves": [
+        "はどうだん",
+        "バレットパンチ",
+        "きしかいせい",
+        "てっていこうせん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 30,
+        "spa": 31,
+        "spd": 30,
+        "spe": 31
+      },
+      "password": "HAD0UW0CATCH",
+      "notes": "日本での企画。アニメ「ポケットモンスター」でサトシがチャンピオンになったこと記念して配布。ピカチュウは映画記念での配布。IDはアニポケでサトシの手持ちになった放送日による。劇中ではメガシンカするが剣盾でメガシンカ要素はないので普通のルカリオ。"
+    },
+    {
+      "id": "08083",
+      "dexNo": 890,
+      "pokemonName": "ムゲンダイナ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "色違いムゲンダイナ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ゲームショップ店舗",
+      "startDate": "2022-09-16",
+      "endDate": "2022-11-17",
+      "region": [
+        "全世界"
+      ],
+      "level": 100,
+      "gender": "なし",
+      "nature": "おくびょう",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ガラル",
+        "ENG": "Galar",
+        "SPA": "Galar",
+        "FRE": "Galar",
+        "GER": "Galar",
+        "ITA": "Galar",
+        "KOR": "가라르",
+        "CHS": "伽勒尔",
+        "CHT": "伽勒爾"
+      },
+      "trainerId": "221118",
+      "moves": [
+        "ムゲンダイビーム",
+        "ダイマックスほう",
+        "ヘドロばくだん",
+        "かえんほうしゃ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "notes": "世界各国のゲームショップでシリアルコードを配布。有効期間Aから始まるコード2022/9/16-11/17、EとUから始まるコード2022/9/18-2023/1/1、Kから始まるコード2022/9/30-12/31、Jから始まるコード2022/10/21-11/24"
+    },
+    {
+      "id": "08075",
+      "dexNo": 865,
+      "pokemonName": "ネギガナイト",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトシのポケモンたちといっしょに『ポケットモンスター ソード・シールド』でバトル！",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "アニメ「ポケットモンスター」放送中に公開",
+      "startDate": "2022-09-09",
+      "endDate": "2022-09-22",
+      "region": [
+        "全世界"
+      ],
+      "level": 80,
+      "gender": "♂",
+      "nature": "ゆうかん",
+      "ability": "ふくつのこころ",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "200705",
+      "moves": [
+        "スターアサルト",
+        "ぶんまわす",
+        "れんぞくぎり",
+        "みきり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 31,
+        "def": 31,
+        "spa": 30,
+        "spd": 30,
+        "spe": 31
+      },
+      "password": "H1SSATSUNEG1",
+      "notes": "日本での企画。アニメ「ポケットモンスター」でサトシがチャンピオンになったこと記念して配布。ピカチュウは映画記念での配布。IDはアニポケでサトシの手持ちになった放送日による。劇中ではメガシンカするが剣盾でメガシンカ要素はないので普通のルカリオ。"
+    },
+    {
+      "id": "08080",
+      "dexNo": 649,
+      "pokemonName": "ゲノセクト",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "Mythical 2022 Pokémon",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ゲームショップ店舗",
+      "startDate": "2022-09-09",
+      "endDate": "2023-01-01",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "ダウンロード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Mythical22"
+      },
+      "trainerId": "220909",
+      "moves": [
+        "テクノバスター",
+        "シザークロス",
+        "メタルクロー",
+        "とどめばり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "ポケカ「ロストオリジン」の販促として欧米ゲームショップ店舗で配布。欧州（Eから始まるコード）は2022/9/9-12/31、アメリカとオセアニア（Uから始まるコード）は2022/8/16-2023/1/1が有効期限"
+    },
+    {
+      "id": "08081",
+      "dexNo": 721,
+      "pokemonName": "ボルケニオン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "Mythical 2022 Pokémon",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ゲームショップ店舗",
+      "startDate": "2022-09-09",
+      "endDate": "2023-01-01",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "ちょすい",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Mythical22"
+      },
+      "trainerId": "220909",
+      "moves": [
+        "スチームバースト",
+        "フレアドライブ",
+        "やきつくす",
+        "くろいきり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "ポケカ「ロストオリジン」の販促として欧米ゲームショップ店舗で配布。欧州（Eから始まるコード）は2022/9/9-12/31、アメリカとオセアニア（Uから始まるコード）は2022/8/16-2023/1/1が有効期限"
+    },
+    {
+      "id": "08082",
+      "dexNo": 802,
+      "pokemonName": "マーシャドー",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "Mythical 2022 Pokémon",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ゲームショップ店舗",
+      "startDate": "2022-09-09",
+      "endDate": "2023-01-01",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Mythical22"
+      },
+      "trainerId": "220909",
+      "moves": [
+        "シャドースチール",
+        "ドレインパンチ",
+        "はっけい",
+        "かげうち"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "ポケカ「ロストオリジン」の販促として欧米ゲームショップ店舗で配布。欧州（Eから始まるコード）は2022/9/9-12/31、アメリカとオセアニア（Uから始まるコード）は2022/8/16-2023/1/1が有効期限"
+    },
+    {
+      "id": "08079",
+      "dexNo": 35,
+      "pokemonName": "ピッピ",
+      "games": [
+        "sword",
+        "shield",
+        "brilliant_diamond",
+        "shining_pearl",
+        "legends_arceus"
+      ],
+      "eventName": "おつきみピッピ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2022-09-03",
+      "endDate": "2022-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "メロメロボディ",
+      "ball": "ムーンボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "つきのいし",
+      "ot": {
+        "JPN": "おつきみ２２"
+      },
+      "trainerId": "220910",
+      "moves": [
+        "ゆびをふる",
+        "ムーンフォース",
+        "しねんのずつき",
+        "つきのひかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンタースタッフといっしょに「ピッピッピッピ」と言いながらゆびをふるとシリアルコードがもらえる。IDは中秋の名月が由来。"
+    },
+    {
+      "id": "08089",
+      "dexNo": 35,
+      "pokemonName": "ピッピ",
+      "games": [
+        "brilliant_diamond",
+        "shining_pearl"
+      ],
+      "eventName": "おつきみピッピ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2022-09-03",
+      "endDate": "2022-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "メロメロボディ",
+      "ball": "ムーンボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "つきのいし",
+      "ot": {
+        "JPN": "おつきみ２２"
+      },
+      "trainerId": "220910",
+      "moves": [
+        "ゆびをふる",
+        "ムーンフォース",
+        "しねんのずつき",
+        "つきのひかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンタースタッフといっしょに「ピッピッピッピ」と言いながらゆびをふるとシリアルコードがもらえる。IDは中秋の名月が由来。"
+    },
+    {
+      "id": "08096",
+      "dexNo": 35,
+      "pokemonName": "ピッピ",
+      "games": [
+        "legends_arceus"
+      ],
+      "eventName": "おつきみピッピ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2022-09-03",
+      "endDate": "2022-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "メロメロボディ",
+      "ball": "モンスターボール（ヒスイ）",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "つきのいし",
+      "ot": {
+        "JPN": "おつきみ２２"
+      },
+      "trainerId": "220910",
+      "moves": [
+        "ゆびをふる",
+        "ムーンフォース",
+        "しねんのずつき",
+        "つきのひかり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンセンタースタッフといっしょに「ピッピッピッピ」と言いながらゆびをふるとシリアルコードがもらえる。IDは中秋の名月が由来。"
+    },
+    {
+      "id": "08074",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトシのポケモンたちといっしょに『ポケットモンスター ソード・シールド』でバトル！",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "アニメ「ポケットモンスター」放送中に公開",
+      "startDate": "2022-09-02",
+      "endDate": "2022-09-15",
+      "region": [
+        "全世界"
+      ],
+      "level": 80,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "のろわれボディ",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "200308",
+      "moves": [
+        "シャドーボール",
+        "ヘドロばくだん",
+        "マジカルシャイン",
+        "おにび"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 30,
+        "def": 30,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gigantamax": true,
+      "password": "GENNGER0GE94",
+      "notes": "日本での企画。アニメ「ポケットモンスター」でサトシがチャンピオンになったこと記念して配布。ピカチュウは映画記念での配布。IDはアニポケでサトシの手持ちになった放送日による。劇中ではメガシンカするが剣盾でメガシンカ要素はないので普通のルカリオ。"
+    },
+    {
+      "id": "08070",
+      "dexNo": 483,
+      "pokemonName": "ディアルガ",
+      "games": [
+        "shield"
+      ],
+      "eventName": "夏の思い出、ゲットだぜ！25周年ポケモン映画祭",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "上映劇場",
+      "startDate": "2022-08-26",
+      "endDate": "2022-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "gender": "なし",
+      "nature": "ずぶとい",
+      "ability": "テレパシー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画2022",
+      "heldItem": "こんごうだま",
+      "ot": {
+        "JPN": "アラモス"
+      },
+      "trainerId": "070714",
+      "moves": [
+        "ときのほうこう",
+        "ラスターカノン",
+        "メタルバースト",
+        "オーバーヒート"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "ポケモン映画25周年記念のリバイバル上映に関連したポケモンの配信。1枚あたり2つのシリアルコードが記載されており、ソードではパルキア、シールドではディアルガが受け取れる。"
+    },
+    {
+      "id": "08071",
+      "dexNo": 484,
+      "pokemonName": "パルキア",
+      "games": [
+        "sword"
+      ],
+      "eventName": "夏の思い出、ゲットだぜ！25周年ポケモン映画祭",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "上映劇場",
+      "startDate": "2022-08-26",
+      "endDate": "2022-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "gender": "なし",
+      "nature": "せっかち",
+      "ability": "テレパシー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画2022",
+      "heldItem": "はっきんだま",
+      "ot": {
+        "JPN": "アラモス"
+      },
+      "trainerId": "070714",
+      "moves": [
+        "あくうせつだん",
+        "ハイドロポンプ",
+        "はどうだん",
+        "だいちのちから"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "ポケモン映画25周年記念のリバイバル上映に関連したポケモンの配信。1枚あたり2つのシリアルコードが記載されており、ソードではパルキア、シールドではディアルガが受け取れる。"
+    },
+    {
+      "id": "08073",
+      "dexNo": 149,
+      "pokemonName": "カイリュー",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトシのポケモンたちといっしょに『ポケットモンスター ソード・シールド』でバトル！",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "アニメ「ポケットモンスター」放送中に公開",
+      "startDate": "2022-08-26",
+      "endDate": "2022-09-08",
+      "region": [
+        "全世界"
+      ],
+      "level": 80,
+      "gender": "♀",
+      "nature": "ようき",
+      "ability": "せいしんりょく",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "200126",
+      "moves": [
+        "ドラゴンクロー",
+        "りゅうせいぐん",
+        "ぼうふう",
+        "りゅうのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 31,
+        "def": 30,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "password": "UM1N0KESH1N",
+      "notes": "日本での企画。アニメ「ポケットモンスター」でサトシがチャンピオンになったこと記念して配布。ピカチュウは映画記念での配布。IDはアニポケでサトシの手持ちになった放送日による。劇中ではメガシンカするが剣盾でメガシンカ要素はないので普通のルカリオ。"
+    },
+    {
+      "id": "08069",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "夏の思い出、ゲットだぜ！25周年ポケモン映画祭",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "上映劇場",
+      "startDate": "2022-08-19",
+      "endDate": "2022-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "gender": "なし",
+      "nature": "ひかえめ",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画2022",
+      "heldItem": "すいせいのかけら",
+      "ot": {
+        "JPN": "ネガイボシ"
+      },
+      "trainerId": "030719",
+      "moves": [
+        "コメットパンチ",
+        "サイコキネシス",
+        "ねむる",
+        "ねがいごと"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "ポケモン映画25周年記念のリバイバル上映に関連したポケモンの配信。"
+    },
+    {
+      "id": "08077",
+      "dexNo": 854,
+      "pokemonName": "ヤバチャ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "2022 Pokémon World Championships開催記念",
+      "distributionMethod": "ローカル通信",
+      "distributionLocation": "大会会場",
+      "startDate": "2022-08-18",
+      "endDate": "2022-08-21",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "のろわれボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "WCS 2022",
+      "heldItem": "モーモーミルク",
+      "ot": {
+        "JPN": "WCS2022,ＷＣＳ２２"
+      },
+      "trainerId": "220818",
+      "moves": [
+        "おきみやげ",
+        "ゆびをふる",
+        "アロマセラピー",
+        "おいわい"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "大会会場限定第八世代最初で最後のローカル通信でのポケモン配布。真作フォルム。おいわいは特別な技。"
+    },
+    {
+      "id": "08078",
+      "dexNo": 494,
+      "pokemonName": "ビクティニ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "2022 Pokémon World Championships開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2022-08-18",
+      "endDate": "2022-08-22",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "ゆうかん",
+      "ability": "しょうりのほし",
+      "ball": "プレシャスボール",
+      "metLocation": "WCS 2022",
+      "heldItem": "スターのみ",
+      "ot": {
+        "JPN": "ビクトリー",
+        "ENG": "Victory",
+        "SPA": "Victory",
+        "FRE": "Victory",
+        "GER": "Victory",
+        "ITA": "Victory",
+        "KOR": "빅토리",
+        "CHS": "胜利",
+        "CHT": "勝利"
+      },
+      "trainerId": "220818",
+      "moves": [
+        "Vジェネレート",
+        "しねんのずつき",
+        "ふるいたてる",
+        "ニトロチャージ"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "すべてに80ずつ",
+      "notes": "ゲーム内言語によって親名が異なる。"
+    },
+    {
+      "id": "08095",
+      "dexNo": 58,
+      "pokemonName": "ガーディ",
+      "form": "ヒスイのすがた",
+      "games": [
+        "legends_arceus"
+      ],
+      "eventName": "ヒスイのガーディ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "韓国オンラインストア",
+      "startDate": "2022-08-18",
+      "endDate": "2022-10-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 30,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "いかく",
+      "ball": "モンスターボール（ヒスイ）",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "ヒスイ"
+      },
+      "trainerId": "220721",
+      "moves": [
+        "ほのおのきば",
+        "いわなだれ",
+        "いわくだき",
+        "かみくだく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "韓国で「ポケットモンスター 神とよばれし アルセウス」のVOD配信記念。購入特典でシリアルコードを受信。"
+    },
+    {
+      "id": "08072",
+      "dexNo": 882,
+      "pokemonName": "ウオノラゴン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトシのポケモンたちといっしょに『ポケットモンスター ソード・シールド』でバトル！",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "アニメ「ポケットモンスター」放送中に公開",
+      "startDate": "2022-08-12",
+      "endDate": "2022-08-25",
+      "region": [
+        "全世界"
+      ],
+      "level": 80,
+      "gender": "なし",
+      "nature": "むじゃき",
+      "ability": "がんじょうあご",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "210108",
+      "moves": [
+        "エラがみ",
+        "ドラゴンダイブ",
+        "こおりのきば",
+        "みずでっぽう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 31,
+        "def": 31,
+        "spa": 30,
+        "spd": 30,
+        "spe": 31
+      },
+      "password": "GANJ0UAG0882",
+      "notes": "日本での企画。アニメ「ポケットモンスター」でサトシがチャンピオンになったこと記念して配布。ピカチュウは映画記念での配布。IDはアニポケでサトシの手持ちになった放送日による。劇中ではメガシンカするが剣盾でメガシンカ要素はないので普通のルカリオ。"
+    },
+    {
+      "id": "08067",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "form": "ワールドキャップ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "夏の思い出、ゲットだぜ！25周年ポケモン映画祭",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "上映劇場",
+      "startDate": "2022-08-11",
+      "endDate": "2022-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 80,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモン映画2022",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "970401",
+      "moves": [
+        "10まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "でんじは"
+      ],
+      "ribbons": [
+        "アローラチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 30,
+        "spa": 31,
+        "spd": 30,
+        "spe": 31
+      },
+      "notes": "IDはアニメ初回放送日（1997年4月1日）にちなんだもの。"
+    },
+    {
+      "id": "08068",
+      "dexNo": 380,
+      "pokemonName": "ラティアス",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "夏の思い出、ゲットだぜ！25周年ポケモン映画祭",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "上映劇場",
+      "startDate": "2022-08-11",
+      "endDate": "2022-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 70,
+      "gender": "♀",
+      "nature": "てれや",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画2022",
+      "heldItem": "こころのしずく",
+      "ot": {
+        "JPN": "アルトマーレ"
+      },
+      "trainerId": "020713",
+      "moves": [
+        "ミストボール",
+        "りゅうのはどう",
+        "ダイビング",
+        "てんしのキッス"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "ポケモン映画25周年記念のリバイバル上映に関連したポケモンの配信。"
+    },
+    {
+      "id": "08066",
+      "dexNo": 423,
+      "pokemonName": "トリトドン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "2022 Pokémon North America International Championships開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2022-06-24",
+      "endDate": "2022-06-27",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "なまいき",
+      "ability": "よびみず",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "たべのこし",
+      "ot": {
+        "JPN": "Eric"
+      },
+      "trainerId": "220624",
+      "moves": [
+        "だいちのちから",
+        "れいとうビーム",
+        "あくび",
+        "まもる"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": "H180/B140/D188",
+      "password": "ER1CSGASTR0D0N",
+      "notes": "欧州大会2022チャンピオン使用個体。"
+    },
+    {
+      "id": "08065",
+      "dexNo": 35,
+      "pokemonName": "ピッピ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "PokémonChampionships2021−2022シンガポール開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2022-06-18",
+      "endDate": "2022-06-19",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "ずぶとい",
+      "ability": "フレンドガード",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "しんかのきせき",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Jirawiwat"
+      },
+      "trainerId": "220618",
+      "moves": [
+        "このゆびとまれ",
+        "こごえるかぜ",
+        "てだすけ",
+        "まもる"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H252/B252/D4",
+      "password": "APC2021CHAMP",
+      "notes": "Pokémon Asia Players Cup 2021チャンピオン使用個体。"
+    },
+    {
+      "id": "08063",
+      "dexNo": 861,
+      "pokemonName": "オーロンゲ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【韓国】Pokémon Trainers Cup2022開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2022-06-11",
+      "endDate": "2022-06-12",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "しんちょう",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "だっしゅつボタン",
+      "ot": {
+        "JPN": "정원석"
+      },
+      "trainerId": "220611",
+      "moves": [
+        "ソウルクラッシュ",
+        "こわいかお",
+        "トリック",
+        "ちょうはつ"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H228/A4/B140/D116/S20",
+      "password": "K0REACHAMP10N21",
+      "notes": "Pokémon Trainers Cup2021チャンピオン使用個体。"
+    },
+    {
+      "id": "08064",
+      "dexNo": 302,
+      "pokemonName": "ヤミラミ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ジャパンチャンピオンシップス2022開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2022-06-11",
+      "endDate": "2022-06-12",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "しんちょう",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "だっしゅつボタン",
+      "ot": {
+        "JPN": "コウ"
+      },
+      "trainerId": "220611",
+      "moves": [
+        "ねこだまし",
+        "さきおくり",
+        "イカサマ",
+        "トリック"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 2,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": "H252/B6/D252",
+      "password": "21JAPANCHAMP10N",
+      "notes": "ポケモンジャパンチャンピオンシップス2021チャンピオン使用個体。"
+    },
+    {
+      "id": "08087",
+      "dexNo": 486,
+      "pokemonName": "レジギガス",
+      "games": [
+        "brilliant_diamond",
+        "shining_pearl"
+      ],
+      "eventName": "テンイむらのレジギガス",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "上映劇場",
+      "startDate": "2022-06-01",
+      "endDate": "2022-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "スロースタート",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "イバンのみ",
+      "ot": {
+        "JPN": "전이마을"
+      },
+      "trainerId": "220601",
+      "moves": [
+        "アイアンヘッド",
+        "いわなだれ",
+        "こごえるかぜ",
+        "にぎりつぶす"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "韓国で「劇場版ポケットモンスター ダイヤモンド＆パール ギラティナと氷空の花束シェイミ」公開記念。"
+    },
+    {
+      "id": "08088",
+      "dexNo": 393,
+      "pokemonName": "ポッチャマ",
+      "games": [
+        "brilliant_diamond",
+        "shining_pearl"
+      ],
+      "eventName": "ヒカリのポッチャマ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "韓国ポケモンストア通信販売",
+      "startDate": "2022-06-01",
+      "endDate": "2022-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "げきりゅう",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "かわらずのいし",
+      "ot": {
+        "JPN": "빛나"
+      },
+      "trainerId": "220601",
+      "moves": [
+        "ハイドロポンプ",
+        "バブルこうせん",
+        "うずしお",
+        "ついばむ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "オンラインストアで35,000ウォン分の商品を購入した場合にはシリアルコード1つと映画『ギラティナと氷空の花束 シェイミ』の鑑賞チケット1枚を、60,000ウォン分購入した場合にはシリアルコード2つと映画鑑賞チケット2枚を受け取ることができた。"
+    },
+    {
+      "id": "08093",
+      "dexNo": 486,
+      "pokemonName": "レジギガス",
+      "games": [
+        "legends_arceus"
+      ],
+      "eventName": "テンイむらのレジギガス",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "上映劇場",
+      "startDate": "2022-06-01",
+      "endDate": "2022-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "スロースタート",
+      "ball": "モンスターボール（ヒスイ）",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "イバンのみ",
+      "ot": {
+        "JPN": "전이마을"
+      },
+      "trainerId": "220601",
+      "moves": [
+        "アイアンヘッド",
+        "いわなだれ",
+        "こごえるかぜ",
+        "にぎりつぶす"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "韓国で「劇場版ポケットモンスター ダイヤモンド＆パール ギラティナと氷空の花束シェイミ」公開記念。"
+    },
+    {
+      "id": "08094",
+      "dexNo": 393,
+      "pokemonName": "ポッチャマ",
+      "games": [
+        "legends_arceus"
+      ],
+      "eventName": "ヒカリのポッチャマ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "韓国ポケモンストア通信販売",
+      "startDate": "2022-06-01",
+      "endDate": "2022-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "げきりゅう",
+      "ball": "モンスターボール（ヒスイ）",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "빛나"
+      },
+      "trainerId": "220601",
+      "moves": [
+        "アクアブレイク",
+        "あわ",
+        "みずのはどう",
+        "つばめがえし"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "オンラインストアで35,000ウォン分の商品を購入した場合にはシリアルコード1つと映画『ギラティナと氷空の花束 シェイミ』の鑑賞チケット1枚を、60,000ウォン分購入した場合にはシリアルコード2つと映画鑑賞チケット2枚を受け取ることができた。"
+    },
+    {
+      "id": "08062",
+      "dexNo": 882,
+      "pokemonName": "ウオノラゴン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "2022 Pokémon Europe International Championships開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2022-04-22",
+      "endDate": "2022-04-25",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "いじっぱり",
+      "ability": "がんじょうあご",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "こだわりスカーフ",
+      "ot": {
+        "JPN": "Marco"
+      },
+      "trainerId": "220422",
+      "moves": [
+        "エラがみ",
+        "いわなだれ",
+        "かみくだく",
+        "ドラゴンダイブ"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H4/A252/D252",
+      "password": "EU1C2022G1FT",
+      "notes": "2020 Oceania International Championshipsチャンピオン使用個体として配布。努力値はAD252H4で配布されているが、実際に大会で使用されていた努力値振りはAS252H4。"
+    },
+    {
+      "id": "08061",
+      "dexNo": 146,
+      "pokemonName": "ファイヤー",
+      "form": "ガラルのすがた",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "2022 International Challenge",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "2022 International Challenge April大会参加賞",
+      "startDate": "2022-04-18",
+      "region": [
+        "全世界"
+      ],
+      "level": 70,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "ぎゃくじょう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ヨロイ",
+        "ENG": "Armor",
+        "SPA": "Armadura",
+        "FRE": "Isolarmure",
+        "GER": "Rüstung",
+        "ITA": "I. Armatura",
+        "KOR": "갑옷섬",
+        "CHS": "铠甲",
+        "CHT": "鎧甲"
+      },
+      "trainerId": "220415",
+      "moves": [
+        "もえあがるいかり",
+        "ぼうふう",
+        "ふいうち",
+        "わるだくみ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "大会参加賞。受取データの言語で親名が異なる。鎧の孤島が由来。"
+    },
+    {
+      "id": "08060",
+      "dexNo": 145,
+      "pokemonName": "サンダー",
+      "form": "ガラルのすがた",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "2022 International Challenge",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "2022 International Challenge March大会参加賞",
+      "startDate": "2022-03-14",
+      "region": [
+        "全世界"
+      ],
+      "level": 70,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "まけんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ワイルド",
+        "ENG": "Wild",
+        "SPA": "Silvestre",
+        "FRE": "Sauvage",
+        "GER": "Natur",
+        "ITA": "T.Selcagg",
+        "KOR": "와일드에리어",
+        "CHS": "旷野",
+        "CHT": "曠野"
+      },
+      "trainerId": "220311",
+      "moves": [
+        "らいめいげり",
+        "ドリルくちばし",
+        "きしかいせい",
+        "きあいだめ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "大会参加賞。受取データの言語で親名が異なる。ワイルドエリアが由来。"
+    },
+    {
+      "id": "08092",
+      "dexNo": 58,
+      "pokemonName": "ガーディ",
+      "form": "ヒスイのすがた",
+      "games": [
+        "legends_arceus"
+      ],
+      "eventName": "Teresa Rocaのヒスイガーディ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "海外ゲームショップおよびオンラインストア",
+      "startDate": "2022-02-25",
+      "endDate": "2022-06-01",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 26,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいぎのこころ",
+      "ball": "モンスターボール（ヒスイ）",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Teresa Roca"
+      },
+      "trainerId": "270222",
+      "moves": [
+        "じゃれつく",
+        "かみつく",
+        "ほのおのきば",
+        "いわなだれ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケカ「スターバース」発売記念。フェザーボール20個が受け取れるシリアルコードもついていた。"
+    },
+    {
+      "id": "08059",
+      "dexNo": 144,
+      "pokemonName": "フリーザー",
+      "form": "ガラルのすがた",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "2022 International Challenge",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "2022 International Challenge February大会参加賞",
+      "startDate": "2022-02-21",
+      "region": [
+        "全世界"
+      ],
+      "level": 70,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "かちき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "カンムリ",
+        "ENG": "Crown",
+        "SPA": "Corona",
+        "FRE": "Couronneige",
+        "GER": "Krone",
+        "ITA": "L. Corona",
+        "KOR": "왕관설원",
+        "CHS": "王冠",
+        "CHT": "王冠"
+      },
+      "trainerId": "220218",
+      "moves": [
+        "いてつくしせん",
+        "ぼうふう",
+        "サイコカッター",
+        "サイコシフト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "大会参加賞。受取データの言語で親名が異なる。冠の雪原が由来。"
+    },
+    {
+      "id": "08086",
+      "dexNo": 393,
+      "pokemonName": "ポッチャマ",
+      "games": [
+        "brilliant_diamond",
+        "shining_pearl"
+      ],
+      "eventName": "プロジェクトポッチャマポッチャマルシェ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2022-02-05",
+      "endDate": "2022-02-28",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "まけんき",
+      "ball": "モンスターボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "プロポチャ"
+      },
+      "trainerId": "220205",
+      "moves": [
+        "ハイドロポンプ",
+        "ついばむ",
+        "ふるいたてる",
+        "メロメロ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 28,
+        "spe": 20
+      },
+      "notes": "プロジェクトポッチャマでの記念配布"
+    },
+    {
+      "id": "08091",
+      "dexNo": 393,
+      "pokemonName": "ポッチャマ",
+      "games": [
+        "legends_arceus"
+      ],
+      "eventName": "プロジェクトポッチャマポッチャマルシェ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2022-02-05",
+      "endDate": "2022-02-28",
+      "region": [
+        "日本"
+      ],
+      "level": 15,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "まけんき",
+      "ball": "モンスターボール（ヒスイ）",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "プロポチャ"
+      },
+      "trainerId": "220205",
+      "moves": [
+        "あわ",
+        "つぶらなひとみ",
+        "はねやすめ",
+        "すてみタックル"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 28,
+        "spe": 20
+      },
+      "notes": "プロジェクトポッチャマでの記念配布"
+    },
+    {
+      "id": "08017",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【台湾】ポケモン映画2020鑑賞者特典",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "映画チケット（前売り券・当日問わず）",
+      "startDate": "2021-12-10",
+      "endDate": "2022-03-31",
+      "region": [
+        "台湾"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "きまぐれ",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "しあわせたまご",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "200807",
+      "moves": [
+        "マジカルリーフ",
+        "みらいよち",
+        "いのちのしずく",
+        "いやしのすず"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "2021年12月10日から台湾での劇場公開記念。前売り券もしくは劇場で観覧チケット購入でシリアルコードが受け取れる。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08018",
+      "dexNo": 893,
+      "pokemonName": "ザルード",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【台湾】ポケモン映画2020鑑賞者特典",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "映画チケット（前売り券・当日問わず）",
+      "startDate": "2021-12-10",
+      "endDate": "2022-03-31",
+      "region": [
+        "台湾"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "なまいき",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "たべのこし",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "200807",
+      "moves": [
+        "インファイト",
+        "パワーウィップ",
+        "いばる",
+        "バークアウト"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "2021年12月10日から台湾での劇場公開記念。前売り券もしくは劇場で観覧チケット購入でシリアルコードが受け取れる。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08019",
+      "dexNo": 893,
+      "pokemonName": "ザルード",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【台湾】ポケモン映画2020鑑賞者特典",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "映画チケット（前売り券・当日問わず）",
+      "startDate": "2021-12-10",
+      "endDate": "2022-03-31",
+      "region": [
+        "台湾"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "いじっぱり",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "こだわりスカーフ",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "201225",
+      "moves": [
+        "ジャングルヒール",
+        "アームハンマー",
+        "パワーウィップ",
+        "エナジーボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "通常のザルードとは異なり、劇中で登場したとうちゃんザルードと同じスカーフを巻いた姿。また劇中にあわせて本来レベル90で覚えるジャングルヒールを覚えている。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08084",
+      "dexNo": 490,
+      "pokemonName": "マナフィ",
+      "games": [
+        "brilliant_diamond",
+        "shining_pearl"
+      ],
+      "eventName": "早期購入特典",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2021-11-19",
+      "endDate": "2022-02-21",
+      "region": [
+        "全世界"
+      ],
+      "level": 1,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "うるおいボディ",
+      "ball": "モンスターボール",
+      "metLocation": "すてきなばしょ",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ほたるび",
+        "みずでっぽう"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "BDSP早期購入特典。マナフィが産まれるタマゴが配布。"
+    },
+    {
+      "id": "08085",
+      "dexNo": 440,
+      "pokemonName": "ピンプク",
+      "games": [
+        "brilliant_diamond",
+        "shining_pearl"
+      ],
+      "eventName": "ポケモンセンターわくわくおたんじょうび",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2021-11-19",
+      "endDate": "2023-01-31",
+      "region": [
+        "日本",
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "♀",
+      "nature": "がんばりや",
+      "ability": "フレンドガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン、Poké Center"
+      },
+      "trainerId": "211101",
+      "moves": [
+        "プレゼント",
+        "てんしのキッス",
+        "チャームボイス",
+        "あまえる"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "日本、シンガポールのポケモンセンターで受取可能。BDSPとPLAでも同個体が受け取り可能とする関係か、恒例の特別な技「おいわい」は覚えていない。"
+    },
+    {
+      "id": "08090",
+      "dexNo": 440,
+      "pokemonName": "ピンプク",
+      "games": [
+        "legends_arceus"
+      ],
+      "eventName": "ポケモンセンターわくわくおたんじょうび",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2021-11-19",
+      "endDate": "2023-01-31",
+      "region": [
+        "日本",
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "♀",
+      "nature": "がんばりや",
+      "ability": "フレンドガード",
+      "ball": "モンスターボール（ヒスイ）",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン、Poké Center"
+      },
+      "trainerId": "211101",
+      "moves": [
+        "つぶらなひとみ",
+        "てんしのキッス",
+        "たまごうみ",
+        "ねむる"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "日本、シンガポールのポケモンセンターで受取可能。BDSPとPLAでも同個体が受け取り可能とする関係か、恒例の特別な技「おいわい」は覚えていない。"
+    },
+    {
+      "id": "08058",
+      "dexNo": 440,
+      "pokemonName": "ピンプク",
+      "games": [
+        "sword",
+        "shield",
+        "brilliant_diamond",
+        "shining_pearl",
+        "legends_arceus"
+      ],
+      "eventName": "ポケモンセンターわくわくおたんじょうび",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2021-11-01",
+      "endDate": "2023-01-31",
+      "region": [
+        "日本",
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "♀",
+      "nature": "がんばりや",
+      "ability": "フレンドガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン、Poké Center"
+      },
+      "trainerId": "211101",
+      "moves": [
+        "プレゼント",
+        "てんしのキッス",
+        "チャームボイス",
+        "あまえる"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "日本、シンガポールのポケモンセンターで受取可能。BDSPとPLAでも同個体が受け取り可能とする関係か、恒例の特別な技「おいわい」は覚えていない。"
+    },
+    {
+      "id": "08057",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモングローバルエキシビション開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2021-10-31",
+      "endDate": "2021-11-03",
+      "region": [
+        "全世界"
+      ],
+      "level": 100,
+      "gender": "♂",
+      "nature": "おくびょう",
+      "ability": "サンパワー",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "Leonardo"
+      },
+      "trainerId": "211031",
+      "moves": [
+        "ねっぷう",
+        "ブラストバーン",
+        "ぼうふう",
+        "まもる"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "B6/C252/S252",
+      "gigantamax": true,
+      "password": "GL0BALCHAMP2021",
+      "notes": "本大会優勝者が使っていたポケモンが配布。"
+    },
+    {
+      "id": "08055",
+      "dexNo": 889,
+      "pokemonName": "ザマゼンタ",
+      "form": "たてのおう",
+      "games": [
+        "sword"
+      ],
+      "eventName": "全国のテレビゲーム取り扱い店で、色違いのザシアン・ザマゼンタをプレゼント！",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "全国のテレビゲーム取り扱い店（コンビニエンスストアや、一部店舗を除く）",
+      "startDate": "2021-10-22",
+      "endDate": "2021-11-25",
+      "region": [
+        "全世界"
+      ],
+      "level": 100,
+      "gender": "なし",
+      "nature": "いじっぱり",
+      "ability": "ふくつのたて",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "heldItem": "くちたたて",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ガラル",
+        "ENG": "Arthur",
+        "SPA": "Arthur",
+        "FRE": "Arthur",
+        "GER": "Arthur",
+        "ITA": "Arthur",
+        "KOR": "가라르",
+        "CHS": "伽勒尔",
+        "CHT": "伽勒爾"
+      },
+      "trainerId": "211022",
+      "moves": [
+        "アイアンヘッド",
+        "インファイト",
+        "てっぺき",
+        "ワイドガード"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "notes": "BDSP、PLA発売記念に全世界のゲームショップ・オンラインストアでシリアルコードが配布。ショップによりシリアルコードの配布条件・期間が異なる場合があり、シリアルコードの頭文字アルファベットにより受取期間が異なる。また、受取データの言語に親名が異なる。"
+    },
+    {
+      "id": "08056",
+      "dexNo": 888,
+      "pokemonName": "ザシアン",
+      "form": "けんのおう",
+      "games": [
+        "shield"
+      ],
+      "eventName": "全国のテレビゲーム取り扱い店で、色違いのザシアン・ザマゼンタをプレゼント！",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "全国のテレビゲーム取り扱い店（コンビニエンスストアや、一部店舗を除く）",
+      "startDate": "2021-10-22",
+      "endDate": "2021-11-25",
+      "region": [
+        "全世界"
+      ],
+      "level": 100,
+      "gender": "なし",
+      "nature": "いじっぱり",
+      "ability": "ふとうのけん",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "heldItem": "くちたけん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ガラル",
+        "ENG": "Lancer",
+        "SPA": "Lancer",
+        "FRE": "Lancer",
+        "GER": "Lancer",
+        "ITA": "Lancer",
+        "KOR": "가라르",
+        "CHS": "伽勒尔",
+        "CHT": "伽勒爾"
+      },
+      "trainerId": "211022",
+      "moves": [
+        "アイアンヘッド",
+        "じゃれつく",
+        "つるぎのまい",
+        "せいなるつるぎ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "notes": "BDSP、PLA発売記念に全世界のゲームショップ・オンラインストアでシリアルコードが配布。ショップによりシリアルコードの配布条件・期間が異なる場合があり、シリアルコードの頭文字アルファベットにより受取期間が異なる。また、受取データの言語に親名が異なる。"
+    },
+    {
+      "id": "08053",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモン映画2020公開記念",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "PokémonTrainerClubニュースレター",
+      "startDate": "2021-10-07",
+      "endDate": "2021-12-31",
+      "region": [
+        "アメリカ"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "きまぐれ",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "しあわせたまご",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "211006",
+      "moves": [
+        "マジカルリーフ",
+        "みらいよち",
+        "いのちのしずく",
+        "いやしのすず"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "2021年Netflixでの公開記念。10月7日のPokémonTrainerClubニュースレターでシリアルコードが受け取れる。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08054",
+      "dexNo": 893,
+      "pokemonName": "ザルード",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモン映画2020公開記念",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "PokémonTrainerClubニュースレター",
+      "startDate": "2021-10-07",
+      "endDate": "2021-12-31",
+      "region": [
+        "アメリカ"
+      ],
+      "level": 70,
+      "gender": "なし",
+      "nature": "いじっぱり",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "こだわりスカーフ",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "211006",
+      "moves": [
+        "ジャングルヒール",
+        "アームハンマー",
+        "パワーウィップ",
+        "エナジーボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "2021年Netflixでの公開記念。通常のザルードとは異なり、劇中で登場したとうちゃんザルードと同じスカーフを巻いた姿。また劇中にあわせて本来レベル90で覚えるジャングルヒールを覚えている。10月7日のPokémonTrainerClubニュースレターでシリアルコードが受け取れる。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08050",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【韓国】ポケモン映画2020鑑賞者特典",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "映画チケット（前売り券）",
+      "startDate": "2021-09-15",
+      "endDate": "2021-11-30",
+      "region": [
+        "韓国"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "きまぐれ",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "しあわせたまご",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "210915",
+      "moves": [
+        "マジカルリーフ",
+        "みらいよち",
+        "いのちのしずく",
+        "いやしのすず"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "2021年9月15日から韓国での劇場公開記念。前売り券で観覧チケット購入でシリアルコードが受け取れる。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08051",
+      "dexNo": 893,
+      "pokemonName": "ザルード",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【韓国】ポケモン映画2020鑑賞者特典",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "映画チケット（前売り券）",
+      "startDate": "2021-09-15",
+      "endDate": "2021-11-30",
+      "region": [
+        "韓国"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "なまいき",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "たべのこし",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "210915",
+      "moves": [
+        "インファイト",
+        "パワーウィップ",
+        "いばる",
+        "バークアウト"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "2021年9月15日から韓国での劇場公開記念。前売り券で観覧チケット購入でシリアルコードが受け取れる。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08052",
+      "dexNo": 893,
+      "pokemonName": "ザルード",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【韓国】ポケモン映画2020鑑賞者特典",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "映画チケット（前売り券）",
+      "startDate": "2021-09-15",
+      "endDate": "2021-11-30",
+      "region": [
+        "韓国"
+      ],
+      "level": 70,
+      "gender": "なし",
+      "nature": "いじっぱり",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "こだわりスカーフ",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "210915",
+      "moves": [
+        "ジャングルヒール",
+        "アームハンマー",
+        "パワーウィップ",
+        "エナジーボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "通常のザルードとは異なり、劇中で登場したとうちゃんザルードと同じスカーフを巻いた姿。また劇中にあわせて本来レベル90で覚えるジャングルヒールを覚えている。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08049",
+      "dexNo": 474,
+      "pokemonName": "ポリゴンＺ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【韓国】PokémonTrainersCup2021開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2021-08-21",
+      "endDate": "2021-08-22",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "ひかえめ",
+      "ability": "てきおうりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "シルクのスカーフ",
+      "ot": {
+        "JPN": "정상윤"
+      },
+      "trainerId": "210807",
+      "moves": [
+        "はかいこうせん",
+        "10まんボルト",
+        "あくのはどう",
+        "わるだくみ"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H6/C252/S252",
+      "password": "1STPTCCHAMP",
+      "notes": "2020年同大会チャンピオン使用個体。"
+    },
+    {
+      "id": "08048",
+      "dexNo": 839,
+      "pokemonName": "セキタンザン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【特別大会】Pokémon Players Cup開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2021-08-14",
+      "endDate": "2021-08-16",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "ひかえめ",
+      "ability": "ひでり",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "じゃくてんほけん",
+      "ot": {
+        "JPN": "Wolfe"
+      },
+      "trainerId": "210813",
+      "moves": [
+        "まもる",
+        "メテオビーム",
+        "ねっぷう",
+        "ソーラービーム"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H68/B4/C252/S180",
+      "gigantamax": true,
+      "password": "V1CT0RYENG1NE25",
+      "notes": "Pokémon Players CupIIチャンピオン使用個体。"
+    },
+    {
+      "id": "08047",
+      "dexNo": 324,
+      "pokemonName": "コータス",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモンジャパンチャンピオンシップス2021開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2021-07-18",
+      "endDate": "2021-07-19",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ずぶとい",
+      "ability": "ひでり",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "オボンのみ",
+      "ot": {
+        "JPN": "クララ"
+      },
+      "trainerId": "210718",
+      "moves": [
+        "しっとのほのお",
+        "ボディプレス",
+        "あくび",
+        "まもる"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 12,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": "H236/B20/D252",
+      "password": "PJCS2020CHAMP",
+      "notes": "コロナ禍でPJCS2020の代替として全編オンラインで開催された「ポケモン日本一決定戦2020」マスターカテゴリ優勝・サクライコウヘイ選手の使用個体。PJCS2021開催記念として配信。",
+      "postUrl": "https://www.pokebros.net/ss-pjcs2021-torkoal/"
+    },
+    {
+      "id": "08045",
+      "dexNo": 1,
+      "pokemonName": "フシギダネ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "『Pokémon HOME』『ポケモン ソード・シールド』でポケモンを受け取ろう！",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2021-06-17",
+      "endDate": "2021-06-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 14,
+      "gender": "♂",
+      "nature": "ずぶとい",
+      "ability": "しんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "HOME"
+      },
+      "trainerId": "210601",
+      "moves": [
+        "つるのむち",
+        "せいちょう",
+        "やどりぎのタネ",
+        "はっぱカッター"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 30,
+        "def": 30,
+        "spa": 30,
+        "spd": 30,
+        "spe": 30
+      },
+      "gigantamax": true,
+      "notes": "フシギバナに進化させるとキョダイマックスできる。スマホ版PokémonHOMEでも同じ個体が配信された。"
+    },
+    {
+      "id": "08046",
+      "dexNo": 7,
+      "pokemonName": "ゼニガメ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "『Pokémon HOME』『ポケモン ソード・シールド』でポケモンを受け取ろう！",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2021-06-17",
+      "endDate": "2021-06-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 14,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "HOME"
+      },
+      "trainerId": "210601",
+      "moves": [
+        "みずでっぽう",
+        "からにこもる",
+        "こうそくスピン",
+        "かみつく"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 30,
+        "def": 30,
+        "spa": 30,
+        "spd": 30,
+        "spe": 30
+      },
+      "gigantamax": true,
+      "notes": "カメックスに進化させるとキョダイマックスできる。スマホアプリ版PokémonHOMEでも同じ個体が配信された。"
+    },
+    {
+      "id": "08042",
+      "dexNo": 649,
+      "pokemonName": "ゲノセクト",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "포켓몬 어드벤처, 환상의 포켓몬을 잡아라（韓国版幻のポケモンゲットチャレンジ）",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "特設サイト",
+      "startDate": "2021-04-26",
+      "endDate": "2021-10-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "ダウンロード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "어드벤처"
+      },
+      "trainerId": "201120",
+      "moves": [
+        "テクノバスター",
+        "シザークロス",
+        "メタルクロー",
+        "とどめばり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "韓国版幻のポケモンゲットチャレンジで、いわゆるスクラップイベント。獲得ポイントに応じてポケモン・アイテムのシリアルコードが入手できる。"
+    },
+    {
+      "id": "08043",
+      "dexNo": 721,
+      "pokemonName": "ボルケニオン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "포켓몬 어드벤처, 환상의 포켓몬을 잡아라（韓国版幻のポケモンゲットチャレンジ）",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "特設サイト",
+      "startDate": "2021-04-26",
+      "endDate": "2021-10-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "ちょすい",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "어드벤처"
+      },
+      "trainerId": "201120",
+      "moves": [
+        "スチームバースト",
+        "フレアドライブ",
+        "やきつくす",
+        "くろいきり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "韓国版幻のポケモンゲットチャレンジで、いわゆるスクラップイベント。獲得ポイントに応じてポケモン・アイテムのシリアルコードが入手できる。"
+    },
+    {
+      "id": "08044",
+      "dexNo": 802,
+      "pokemonName": "マーシャドー",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "포켓몬 어드벤처, 환상의 포켓몬을 잡아라（韓国版幻のポケモンゲットチャレンジ）",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "特設サイト",
+      "startDate": "2021-04-26",
+      "endDate": "2021-10-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "어드벤처"
+      },
+      "trainerId": "201120",
+      "moves": [
+        "シャドースチール",
+        "ドレインパンチ",
+        "はっけい",
+        "かげうち"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "韓国版幻のポケモンゲットチャレンジで、いわゆるスクラップイベント。獲得ポイントに応じてポケモン・アイテムのシリアルコードが入手できる。"
+    },
+    {
+      "id": "08041",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ゲームフリークのうたうピカチュウ",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2021-02-25",
+      "endDate": "2021-03-25",
+      "region": [
+        "全世界"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ひらいしん",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "210227",
+      "moves": [
+        "うたう",
+        "アンコール",
+        "おいわい",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "notes": "ポケモン25周年。2021年ポケモンデイ記念。うたう、おいわいは特別な技。"
+    },
+    {
+      "id": "08040",
+      "dexNo": 849,
+      "pokemonName": "ストリンダー",
+      "form": "ハイなすがた",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ロックスターストリンダー",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "海外ゲームショップ",
+      "startDate": "2021-02-19",
+      "endDate": "2021-06-30",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "うっかりや",
+      "ability": "パンクロック",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "のどスプレー",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Rock Star"
+      },
+      "trainerId": "210219",
+      "moves": [
+        "オーバードライブ",
+        "ヘドロウェーブ",
+        "ばくおんぱ",
+        "ライジングボルト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "アメリカでPokémonPassアプリでGameStop店舗で受け取る。他の国ではゲームショップオンラインストアでシリアルコード配布。"
+    },
+    {
+      "id": "08039",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "KIBOのピカチュウ",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2020-12-31",
+      "endDate": "2021-01-15",
+      "region": [
+        "全世界"
+      ],
+      "level": 21,
+      "gender": "♂",
+      "nature": "ゆうかん",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "すいせいのかけら",
+      "ot": {
+        "JPN": "KIBO"
+      },
+      "trainerId": "210101",
+      "moves": [
+        "10まんボルト",
+        "スピードスター",
+        "ねがいごと",
+        "おいわい"
+      ],
+      "ribbons": [
+        "スペシャルリボン"
+      ],
+      "notes": "国際宇宙ステーション(ISS)とポケモンのコラボレーション企画の一環として行われた生放送中に配信された。ねがいごと、おいわいは特別な技。※ねがいごとは第9世代でタマゴ技となった。"
+    },
+    {
+      "id": "08016",
+      "dexNo": 893,
+      "pokemonName": "ザルード",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモン映画2020入場者特典",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "映画上映劇場",
+      "startDate": "2020-12-25",
+      "endDate": "2021-03-31",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "いじっぱり",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "こだわりスカーフ",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "201225",
+      "moves": [
+        "ジャングルヒール",
+        "アームハンマー",
+        "パワーウィップ",
+        "エナジーボール"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "通常のザルードとは異なり、劇中で登場したとうちゃんザルードと同じスカーフを巻いた姿。また劇中にあわせて本来レベル90で覚えるジャングルヒールを覚えている。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08038",
+      "dexNo": 113,
+      "pokemonName": "ラッキー",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ミスド×ポケモン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ミスタードーナツテンポ",
+      "startDate": "2020-12-04",
+      "endDate": "2021-02-05",
+      "region": [
+        "日本"
+      ],
+      "level": 7,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "ランダム",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "しあわせタマゴ",
+      "ot": {
+        "JPN": "ミスド"
+      },
+      "trainerId": "201204",
+      "moves": [
+        "プレゼント",
+        "てんしのキッス",
+        "あまえる",
+        "タマゴうみ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ミスタードーナツで1000円以上の購入でシリアルコードをもらうことができた。"
+    },
+    {
+      "id": "08035",
+      "dexNo": 649,
+      "pokemonName": "ゲノセクト",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "幻のポケモンゲットチャレンジ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "特設サイト",
+      "startDate": "2020-11-20",
+      "endDate": "2021-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "ダウンロード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "ゲッチャレ"
+      },
+      "trainerId": "201120",
+      "moves": [
+        "テクノバスター",
+        "シザークロス",
+        "メタルクロー",
+        "とどめばり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "いわゆるスクラップイベント。獲得ポイントに応じてポケモン・アイテムのシリアルコードが入手できる。"
+    },
+    {
+      "id": "08036",
+      "dexNo": 721,
+      "pokemonName": "ボルケニオン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "幻のポケモンゲットチャレンジ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "特設サイト",
+      "startDate": "2020-11-20",
+      "endDate": "2021-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "ちょすい",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "ゲッチャレ"
+      },
+      "trainerId": "201120",
+      "moves": [
+        "スチームバースト",
+        "フレアドライブ",
+        "やきつくす",
+        "くろいきり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "いわゆるスクラップイベント。獲得ポイントに応じてポケモン・アイテムのシリアルコードが入手できる。"
+    },
+    {
+      "id": "08037",
+      "dexNo": 802,
+      "pokemonName": "マーシャドー",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "幻のポケモンゲットチャレンジ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "特設サイト",
+      "startDate": "2020-11-20",
+      "endDate": "2021-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "テクニシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "ゲッチャレ"
+      },
+      "trainerId": "201120",
+      "moves": [
+        "シャドースチール",
+        "ドレインパンチ",
+        "はっけい",
+        "かげうち"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "いわゆるスクラップイベント。獲得ポイントに応じてポケモン・アイテムのシリアルコードが入手できる。"
+    },
+    {
+      "id": "08034",
+      "dexNo": 893,
+      "pokemonName": "ザルード",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "幻のポケモンザルード",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "【海外】PokémonTrainerClub newsletter or 各国ゲームショップオンライン",
+      "startDate": "2020-11-13",
+      "endDate": "2021-03-31",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "なまいき",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "たべのこし",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "201113",
+      "moves": [
+        "インファイト",
+        "パワーウィップ",
+        "いばる",
+        "バークアウト"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "PokémonTrainerClubや各国ゲームショップのメールマガジン設定をしているとニュースレターとしてシリアルコードが届いた。親名はゲーム設定言語による。"
+    },
+    {
+      "id": "08033",
+      "dexNo": 868,
+      "pokemonName": "マホミル",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモンセンターわくわくおたんじょうび",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "【シンガポール】ポケモンセンター",
+      "startDate": "2020-11-06",
+      "endDate": "2022-01-31",
+      "region": [
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "♀",
+      "nature": "がんばりや",
+      "ability": "スイートベール",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "リボンアメざいくorスターアメざいく",
+      "ot": {
+        "JPN": "PCSG"
+      },
+      "trainerId": "201101",
+      "moves": [
+        "おいわい",
+        "とっておき",
+        "なかまづくり",
+        "メロメロ"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "おいわいは特別な技。"
+    },
+    {
+      "id": "08032",
+      "dexNo": 868,
+      "pokemonName": "マホミル",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモンセンターわくわくおたんじょうび",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター、ポケモンセンターオンライン",
+      "startDate": "2020-11-01",
+      "endDate": "2022-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "♀",
+      "nature": "がんばりや",
+      "ability": "スイートベール",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "リボンアメざいくorスターアメざいく",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "201101",
+      "moves": [
+        "おいわい",
+        "とっておき",
+        "なかまづくり",
+        "メロメロ"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "おいわいは特別な技。"
+    },
+    {
+      "id": "08023",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【韓国】ミュウツーの逆襲Evolution公開記念",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "劇場入場者特典",
+      "startDate": "2020-10-30",
+      "endDate": "2020-11-30",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "もうか",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "なし",
+      "ot": {
+        "JPN": "지우"
+      },
+      "trainerId": "200930",
+      "moves": [
+        "かえんほうしゃ",
+        "ドラゴンテール",
+        "きりさく",
+        "ちきゅうなげ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "アニポケのサトシのリザードンが元ネタになっており、第七世代で配布があった韓国のサトシのリザードンと似ている。りゅうのいかりがドラゴンテールに変更されている。ちきゅうなげは通常プレイでは覚えることができない特別な技。"
+    },
+    {
+      "id": "08031",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "form": "ワールドキャップ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトピカゲットキャンペーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "テレビアニメ「ポケットモンスター」番組内",
+      "startDate": "2020-10-30",
+      "endDate": "2020-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンばんぐみ",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "サトシ",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "지우",
+        "CHS": "小智",
+        "CHT": "小智"
+      },
+      "trainerId": "201023",
+      "moves": [
+        "10まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキネット"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "K1NP1KA1855",
+      "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。"
+    },
+    {
+      "id": "08024",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "form": "オリジナルキャップ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトピカゲットキャンペーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "ポケットモンスターソード・シールド　エキスパンションパス映像内",
+      "startDate": "2020-10-29",
+      "endDate": "2020-12-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンばんぐみ",
+      "heldItem": "なし",
+      "ot": {
+        "JPN": "サトシ",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "지우",
+        "CHS": "小智",
+        "CHT": "小智"
+      },
+      "trainerId": "201023",
+      "moves": [
+        "10まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキネット"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "P1KACHUGET",
+      "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。"
+    },
+    {
+      "id": "08025",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "form": "キミに決めたキャップ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトピカゲットキャンペーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "特設サイト内",
+      "startDate": "2020-10-29",
+      "endDate": "2020-12-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンばんぐみ",
+      "heldItem": "なし",
+      "ot": {
+        "JPN": "サトシ",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "지우",
+        "CHS": "小智",
+        "CHT": "小智"
+      },
+      "trainerId": "201023",
+      "moves": [
+        "10まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキネット"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "1CH00SEY0U",
+      "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。"
+    },
+    {
+      "id": "08030",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "form": "アローラキャップ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトピカゲットキャンペーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "テレビアニメ「ポケットモンスター」番組内",
+      "startDate": "2020-10-23",
+      "endDate": "2020-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンばんぐみ",
+      "heldItem": "なし",
+      "ot": {
+        "JPN": "サトシ",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "지우",
+        "CHS": "小智",
+        "CHT": "小智"
+      },
+      "trainerId": "201023",
+      "moves": [
+        "10まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキネット"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "ULTRAP1KA",
+      "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。"
+    },
+    {
+      "id": "08029",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "form": "カロスキャップ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトピカゲットキャンペーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "「ポケモンの家（うち）あつまる？」公式サイト",
+      "startDate": "2020-10-18",
+      "endDate": "2020-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンばんぐみ",
+      "heldItem": "なし",
+      "ot": {
+        "JPN": "サトシ",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "지우",
+        "CHS": "小智",
+        "CHT": "小智"
+      },
+      "trainerId": "201023",
+      "moves": [
+        "10まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキネット"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "KAL0SP1KA",
+      "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。"
+    },
+    {
+      "id": "08028",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "form": "イッシュキャップ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトピカゲットキャンペーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "テレビアニメ「ポケットモンスター」番組内",
+      "startDate": "2020-10-16",
+      "endDate": "2020-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンばんぐみ",
+      "heldItem": "なし",
+      "ot": {
+        "JPN": "サトシ",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "지우",
+        "CHS": "小智",
+        "CHT": "小智"
+      },
+      "trainerId": "201023",
+      "moves": [
+        "10まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキネット"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "P1KABESTW1SH",
+      "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。"
+    },
+    {
+      "id": "08027",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "form": "シンオウキャップ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトピカゲットキャンペーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "テレビアニメ「ポケットモンスター」番組内",
+      "startDate": "2020-10-09",
+      "endDate": "2020-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンばんぐみ",
+      "heldItem": "なし",
+      "ot": {
+        "JPN": "サトシ",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "지우",
+        "CHS": "小智",
+        "CHT": "小智"
+      },
+      "trainerId": "201023",
+      "moves": [
+        "10まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキネット"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "V0LTTACKLEP1KA",
+      "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。"
+    },
+    {
+      "id": "08026",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "form": "ホウエンキャップ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "サトピカゲットキャンペーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "TVアニメ「ポケットモンスター」お引っ越し記念４週連続金ピカオンライントークライブ！",
+      "startDate": "2020-10-02",
+      "endDate": "2020-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンばんぐみ",
+      "heldItem": "なし",
+      "ot": {
+        "JPN": "サトシ",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "지우",
+        "CHS": "小智",
+        "CHT": "小智"
+      },
+      "trainerId": "201023",
+      "moves": [
+        "10まんボルト",
+        "でんこうせっか",
+        "アイアンテール",
+        "エレキネット"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "password": "P1KAADVANCE",
+      "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。"
+    },
+    {
+      "id": "08021",
+      "dexNo": 423,
+      "pokemonName": "トリトドン",
+      "form": "ひがしのうみ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ジャパンチャンピオンシップ2020開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2020-08-22",
+      "endDate": "2020-08-23",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "れいせい",
+      "ability": "よびみず",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "たつじんのおび",
+      "ot": {
+        "JPN": "カ・エール"
+      },
+      "trainerId": "200822",
+      "moves": [
+        "まもる",
+        "なみのり",
+        "れいとうビーム",
+        "だいちのちから"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 2,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": "H152/B94/C252/D12",
+      "password": "PJCS2019CHAMP",
+      "notes": "2019年PJCSマスターカテゴリチャンピオン使用個体。"
+    },
+    {
+      "id": "08022",
+      "dexNo": 233,
+      "pokemonName": "ポリゴン２",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "【特別大会】Pokémon Players Cup開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2020-08-22",
+      "endDate": "2020-08-31",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "なまいき",
+      "ability": "ダウンロード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "しんかのきせき",
+      "ot": {
+        "JPN": "VGC20"
+      },
+      "trainerId": "200822",
+      "moves": [
+        "じこさいせい",
+        "トリックルーム",
+        "れいとうビーム",
+        "10まんボルト"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "spe": 0
+      },
+      "evs": "H252/B252/D4",
+      "notes": "Battle-Ready Porygon2として配布。PokémonPlayersCupは新型コロナウイルスの世界的なパンデミックのため特別に開催された招待制のオンライン大会。"
+    },
+    {
+      "id": "08020",
+      "dexNo": 591,
+      "pokemonName": "モロバレル",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "韓国PokémonTrainersCup2020開催記念",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2020-08-09",
+      "endDate": "2020-08-10",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "なまいき",
+      "ability": "さいせいりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "きあいのタスキ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "백종윤"
+      },
+      "trainerId": "200809",
+      "moves": [
+        "クリアスモッグ",
+        "キノコのほうし",
+        "まもる",
+        "いかりのこな"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": "H236/B116/D156",
+      "password": "TRA1NERSCUP",
+      "notes": "2019年WCSシニアカテゴリTOP4となったプレイヤーの使用個体。"
+    },
+    {
+      "id": "08014",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモン映画2020特別前売券特典",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "特別前売券",
+      "startDate": "2020-08-07",
+      "endDate": "2021-03-31",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "きまぐれ",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "しあわせたまご",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "200807",
+      "moves": [
+        "マジカルリーフ",
+        "みらいよち",
+        "いのちのしずく",
+        "いやしのすず"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "当初2020年4月17日から配布開始予定だったが、映画の公開が延期に伴い配信開始も8月7日からとなった。複数のシリアルコードを持っていれば、1つのゲームで複数回引き換える可能。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08015",
+      "dexNo": 893,
+      "pokemonName": "ザルード",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモン映画2020特別前売券特典",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "特別前売券",
+      "startDate": "2020-08-07",
+      "endDate": "2021-03-31",
+      "region": [
+        "日本"
+      ],
+      "level": 60,
+      "gender": "なし",
+      "nature": "なまいき",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが2020",
+      "heldItem": "たべのこし",
+      "ot": {
+        "JPN": "オコヤのもり",
+        "ENG": "Jungle",
+        "SPA": "Selva",
+        "FRE": "Jungle",
+        "GER": "Dschungel",
+        "ITA": "Giungla",
+        "KOR": "정글",
+        "CHS": "丛林",
+        "CHT": "叢林"
+      },
+      "trainerId": "200807",
+      "moves": [
+        "インファイト",
+        "パワーウィップ",
+        "いばる",
+        "バークアウト"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "当初2020年6月15日から配布開始予定だったが、映画の公開が延期に伴い配信開始も8月7日からとなった。複数のシリアルコードを持っていれば、1つのゲームで複数回引き換える可能。親名はゲーム内言語によって異なる。"
+    },
+    {
+      "id": "08013",
+      "dexNo": 52,
+      "pokemonName": "ニャース",
+      "form": "ガラルのすがた",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "さあ！冒険の準備だ！ガラルの仲間にけいけんアメやきんのたまもとにかくいっぱいもらえるキャンペーン！",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2020-06-12",
+      "endDate": "2020-06-16",
+      "region": [
+        "全世界"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "きんちょうかん",
+      "ball": "プレシャスボール",
+      "metLocation": "オンラインプレゼント",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ねこだまし",
+        "なきごえ",
+        "つめとぎ",
+        "ネコにこばん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "隠れ特性で配布。同時にでかいきんのたま50個、けいけんあめL100個を受け取ることができた。"
+    },
+    {
+      "id": "08012",
+      "dexNo": 222,
+      "pokemonName": "サニーゴ",
+      "form": "ガラルのすがた",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "さあ！冒険の準備だ！ガラルの仲間にけいけんアメやきんのたまもとにかくいっぱいもらえるキャンペーン！",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2020-06-05",
+      "endDate": "2020-06-11",
+      "region": [
+        "全世界"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "のろわれボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "オンラインプレゼント",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "たいあたり",
+        "おどろかす",
+        "かなしばり",
+        "うらみ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "隠れ特性で配布。同時にあまいかじつ、すっぱいかじつ、かけたポット、われたポット、においぶくろ、ホイップポップを受け取ることができた。"
+    },
+    {
+      "id": "08011",
+      "dexNo": 77,
+      "pokemonName": "ポニータ",
+      "form": "ガラルのすがた",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "さあ！冒険の準備だ！ガラルの仲間にけいけんアメやきんのたまもとにかくいっぱいもらえるキャンペーン！",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2020-05-29",
+      "endDate": "2020-06-04",
+      "region": [
+        "全世界"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "きけんよち",
+      "ball": "プレシャスボール",
+      "metLocation": "オンラインプレゼント",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "たいあたり",
+        "なきごえ",
+        "ねんりき",
+        "ようせいのかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "隠れ特性で配布。同時にレベルボール、スピードボール、ラブラブボール、フレンドボール、ウルトラボールを受け取ることができた。"
+    },
+    {
+      "id": "08010",
+      "dexNo": 122,
+      "pokemonName": "バリヤード",
+      "form": "ガラルのすがた",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "さあ！冒険の準備だ！ガラルの仲間にけいけんアメやきんのたまもとにかくいっぱいもらえるキャンペーン！",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2020-05-22",
+      "endDate": "2020-05-28",
+      "region": [
+        "全世界"
+      ],
+      "level": 15,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "アイスボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "オンラインプレゼント",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ものまね",
+        "アンコール",
+        "こおりのつぶて",
+        "ねんりき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "隠れ特性で配布。同時にルアーボール、ムーンボールヘビーボール、ドリームボールを受け取ることができた。"
+    },
+    {
+      "id": "08008",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモンセンターわくわくおたんじょうび",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "【シンガポール】ポケモンセンター",
+      "startDate": "2020-03-07",
+      "endDate": "2021-01-31",
+      "region": [
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "まじめ",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "PCSG"
+      },
+      "trainerId": "200301",
+      "moves": [
+        "おいわい",
+        "なかよくする",
+        "でんきショック",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "おいわいは特別な技。1つのセーブデータにつき、ピカチュウかイーブイのどちらか一方しか受け取ることができない。"
+    },
+    {
+      "id": "08009",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモンセンターわくわくおたんじょうび",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "【シンガポール】ポケモンセンター",
+      "startDate": "2020-03-07",
+      "endDate": "2021-01-31",
+      "region": [
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "すなおな",
+      "ability": "にげあし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "PCSG"
+      },
+      "trainerId": "200301",
+      "moves": [
+        "おいわい",
+        "ほしがる",
+        "てだすけ",
+        "たいあたり"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "おいわいは特別な技。1つのセーブデータにつき、ピカチュウかイーブイのどちらか一方しか受け取ることができない。"
+    },
+    {
+      "id": "08006",
+      "dexNo": 839,
+      "pokemonName": "セキタンザン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "次世代ワールドホビーフェア '20 Winter",
+      "distributionMethod": "配布会場",
+      "distributionLocation": "イベント会場",
+      "startDate": "2020-01-19",
+      "endDate": "2020-02-29",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ランダム",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "げんしのちから",
+        "かえんほうしゃ",
+        "いわなだれ",
+        "おにび"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31
+      },
+      "gigantamax": true,
+      "notes": "会場で開催されるマックスレイドバトルに参加し、捕獲する。開催日程2020/1/19ナゴヤドーム、1/25-26幕張メッセ、2/2福岡ヤフオク！ドーム、2/9京セラドーム"
+    },
+    {
+      "id": "08007",
+      "dexNo": 131,
+      "pokemonName": "ラプラス",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "次世代ワールドホビーフェア '20 Winter",
+      "distributionMethod": "配布会場",
+      "distributionLocation": "イベント会場",
+      "startDate": "2020-01-19",
+      "endDate": "2020-02-29",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ランダム",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "なみのり",
+        "れいとうビーム",
+        "ひみつのちから",
+        "じならし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31
+      },
+      "gigantamax": true,
+      "notes": "会場で開催されるマックスレイドバトルに参加し、捕獲する。開催日程2020/1/19ナゴヤドーム、1/25-26幕張メッセ、2/2福岡ヤフオク！ドーム、2/9京セラドーム"
+    },
+    {
+      "id": "08005",
+      "dexNo": 143,
+      "pokemonName": "カビゴン",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ジャンプフェスタ2020",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "イベント会場",
+      "startDate": "2019-12-21",
+      "endDate": "2019-12-22",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "なまいき",
+      "ability": "ランダム",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "のしかかり",
+        "10まんばりき",
+        "かわらわり",
+        "じならし"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spd": 31
+      },
+      "gigantamax": true,
+      "notes": "ジャンプフェスタ2020の開催日程2019/12/21-22。"
+    },
+    {
+      "id": "08001",
+      "dexNo": 52,
+      "pokemonName": "ニャース",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "早期購入特典",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2019-11-15",
+      "endDate": "2020-01-15",
+      "region": [
+        "全世界"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ものひろい",
+      "ball": "プレシャスボール",
+      "metLocation": "オンラインプレゼント",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ねこだまし",
+        "なきごえ",
+        "きりさく",
+        "ネコにこばん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "gigantamax": true
+    },
+    {
+      "id": "08002",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "モンスターボール Plus",
+      "distributionMethod": "モンスターボール Plus",
+      "distributionLocation": "モンスターボール Plus",
+      "startDate": "2019-11-15",
+      "region": [
+        "全世界"
+      ],
+      "level": 1,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "モンスターボール",
+      "metLocation": "モンスターボール Plus",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "はたく"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "新品のモンスターボールplusにミュウが入っており、ゲーム内に移動することができる。ピカブイにも移動できるが、ボールに入っているミュウは一匹のみ。"
+    },
+    {
+      "id": "08003",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモンセンターわくわくおたんじょうび",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2019-11-15",
+      "endDate": "2021-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "まじめ",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "191115",
+      "moves": [
+        "おいわい",
+        "なかよくする",
+        "でんきショック",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "おいわいは特別な技。1つのセーブデータにつき、ピカチュウかイーブイのどちらか一方しか受け取ることができない。"
+    },
+    {
+      "id": "08004",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "sword",
+        "shield"
+      ],
+      "eventName": "ポケモンセンターわくわくおたんじょうび",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2019-11-15",
+      "endDate": "2021-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "すなおな",
+      "ability": "にげあし",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "191115",
+      "moves": [
+        "おいわい",
+        "ほしがる",
+        "てだすけ",
+        "たいあたり"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "おいわいは特別な技。1つのセーブデータにつき、ピカチュウかイーブイのどちらか一方しか受け取ることができない。"
+    }
+  ]
+}

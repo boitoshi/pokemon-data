@@ -1,0 +1,3796 @@
+{
+  "schemaVersion": 1,
+  "dataset": "gen9",
+  "generation": 9,
+  "provenance": "spreadsheet-migration",
+  "entries": [
+    {
+      "id": "09100",
+      "dexNo": 157,
+      "pokemonName": "バクフーン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "キヌガワのヒスイバクフーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2026-02-13",
+      "endDate": "2026-02-21",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "おくびょう",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "こだわりメガネ",
+      "teraType": "ほのお",
+      "ot": {
+        "JPN": "キヌガワ"
+      },
+      "trainerId": "260213",
+      "moves": [
+        "ふんか",
+        "シャドーボール",
+        "ねっぷう",
+        "オーバーヒート"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 11,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H36/B4/C214/D28/S228",
+      "password": "EU1C26HEATWAVE",
+      "notes": "2026年欧州大会の開催記念での配布。2026南米チャンピオンが使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-kinugawa-hisuian-typhlosion/"
+    },
+    {
+      "id": "09104",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "legends_za"
+      ],
+      "eventName": "おおきいリザードン",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "DLC「M次元ラッシュ」リリース記念",
+      "startDate": "2025-12-09",
+      "endDate": "2026-01-21",
+      "region": [
+        "全世界"
+      ],
+      "level": 36,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ソーラービーム",
+        "ドラゴンクロー",
+        "かえんほうしゃ",
+        "エアスラッシュ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "alpha": true,
+      "password": "B1G0006",
+      "notes": "配信期限は2026年1月19日までとされていたが、実際は1月21日まで受け取ることができた。",
+      "postUrl": "https://www.pokebros.net/za-big-charizard/"
+    },
+    {
+      "id": "09099",
+      "dexNo": 547,
+      "pokemonName": "エルフーン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Federico Camporesiのエルフーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2025-11-21",
+      "endDate": "2025-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "おだやか",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "おんみつマント",
+      "teraType": "みず",
+      "ot": {
+        "JPN": "Federico"
+      },
+      "trainerId": "251121",
+      "moves": [
+        "ムーンフォース",
+        "おいかぜ",
+        "ひかりのかべ",
+        "アンコール"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 3,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H252/B52/D206",
+      "password": "LA1C26TA1LW1ND",
+      "notes": "南米大会2025開催記念での配布。北米2025マスターチャンピオンの個体。",
+      "postUrl": "https://www.pokebros.net/gen9-federico-whimsicott/"
+    },
+    {
+      "id": "09098",
+      "dexNo": 926,
+      "pokemonName": "パピモッチ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "わくわくおたんじょうびのパピモッチ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター,ポケモンセンターオンライン",
+      "startDate": "2025-11-01",
+      "endDate": "2027-01-31",
+      "region": [
+        "日本",
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "マイペース",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "teraType": "フェアリー",
+      "ot": {
+        "JPN": "ポケセン",
+        "ENG": "PokéCenter",
+        "SPA": "ポケセン",
+        "FRE": "ポケセン",
+        "GER": "ポケセン",
+        "ITA": "ポケセン",
+        "KOR": "ポケセン",
+        "CHS": "ポケセン",
+        "CHT": "寶可夢中心"
+      },
+      "trainerId": "251101",
+      "moves": [
+        "おいわい",
+        "つぶらなひとみ",
+        "じゃれつく",
+        "あまえる"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。おいわいは特別な技。",
+      "postUrl": "https://www.pokebros.net/gen9-birthday-fidough/"
+    },
+    {
+      "id": "09102",
+      "dexNo": 531,
+      "pokemonName": "タブンネ",
+      "games": [
+        "legends_za"
+      ],
+      "eventName": "わくわくおたんじょうびのタブンネ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター,ポケモンセンターオンライン",
+      "startDate": "2025-11-01",
+      "endDate": "2027-01-31",
+      "region": [
+        "日本",
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン",
+        "ENG": "PokéCenter",
+        "SPA": "ポケセン",
+        "FRE": "ポケセン",
+        "GER": "ポケセン",
+        "ITA": "ポケセン",
+        "KOR": "ポケセン",
+        "CHS": "ポケセン",
+        "CHT": "寶可夢中心"
+      },
+      "trainerId": "251101",
+      "moves": [
+        "なきごえ",
+        "ねがいごと",
+        "チャームボイス",
+        "しんぴのまもり"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。",
+      "postUrl": "https://www.pokebros.net/gen9-birthday-audino/"
+    },
+    {
+      "id": "09103",
+      "dexNo": 79,
+      "pokemonName": "ヤドン",
+      "games": [
+        "legends_za"
+      ],
+      "eventName": "ポケモンセンターカガワオープン記念のヤドン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2025-10-23",
+      "endDate": "2026-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "251024",
+      "moves": [
+        "めいそう",
+        "なきごえ",
+        "みずのはどう",
+        "しんぴのまもり"
+      ],
+      "ribbons": [
+        "スペシャルリボン"
+      ],
+      "notes": "ポケモンセンタースタッフに「やあん」とヤドンの鳴き真似をするとシリアルコードがもらえる。ポケセンカガワのプレオープンでもらうシリアルコードは10/23から有効、それ以外は10/24から有効。",
+      "postUrl": "https://www.pokebros.net/gen9-pokecen-kakgawa-slowpoke/"
+    },
+    {
+      "id": "09101",
+      "dexNo": 280,
+      "pokemonName": "ラルトス",
+      "games": [
+        "legends_za"
+      ],
+      "eventName": "サーナイトナイトを持ったラルトス",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "早期購入特典",
+      "startDate": "2025-10-16",
+      "endDate": "2026-02-28",
+      "region": [
+        "全世界"
+      ],
+      "level": 6,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ball": "モンスターボール",
+      "metLocation": "すてきな場所",
+      "heldItem": "サーナイトナイト",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "チャームボイス",
+        "ねんりき",
+        "なきごえ",
+        "スピードスター"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "Pokémon LEGENDS Z-A早期購入特典",
+      "postUrl": "https://www.pokebros.net/za-megaevolution-ralts/"
+    },
+    {
+      "id": "09096",
+      "dexNo": 1007,
+      "pokemonName": "コライドン",
+      "games": [
+        "violet"
+      ],
+      "eventName": "色違いのコライドン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ゲーム取り扱い店舗",
+      "startDate": "2025-09-26",
+      "endDate": "2025-10-24",
+      "region": [
+        "全世界"
+      ],
+      "level": 100,
+      "gender": "なし",
+      "nature": "いじっぱり",
+      "ability": "ひひいろのこどう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "かくとう",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "パルデア",
+        "ENG": "Paldea",
+        "SPA": "Paldea",
+        "FRE": "Paldea",
+        "GER": "Paldea",
+        "ITA": "Paldea",
+        "KOR": "팔데아",
+        "CHS": "帕底亚",
+        "CHT": "帕底亞"
+      },
+      "trainerId": "250926",
+      "moves": [
+        "アクセルブレイク",
+        "インファイト",
+        "フレアドライブ",
+        "ギガインパクト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 20,
+        "spd": 31,
+        "spe": 31
+      },
+      "notes": "Pokémon LEGENDS Z-A発売記念。",
+      "postUrl": "https://www.pokebros.net/gen9-shiny-koraidon/"
+    },
+    {
+      "id": "09097",
+      "dexNo": 1008,
+      "pokemonName": "ミライドン",
+      "games": [
+        "scarlet"
+      ],
+      "eventName": "色違いのミライドン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ゲーム取り扱い店舗",
+      "startDate": "2025-09-26",
+      "endDate": "2025-10-24",
+      "region": [
+        "全世界"
+      ],
+      "level": 100,
+      "gender": "なし",
+      "nature": "ひかえめ",
+      "ability": "ハドロンエンジン",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "でんき",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "パルデア",
+        "ENG": "Paldea",
+        "SPA": "Paldea",
+        "FRE": "Paldea",
+        "GER": "Paldea",
+        "ITA": "Paldea",
+        "KOR": "팔데아",
+        "CHS": "帕底亚",
+        "CHT": "帕底亞"
+      },
+      "trainerId": "250926",
+      "moves": [
+        "イナズマドライブ",
+        "かみなり",
+        "オーバーヒート",
+        "はかいこうせん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 20,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "notes": "Pokémon LEGENDS Z-A発売記念。",
+      "postUrl": "https://www.pokebros.net/gen9-shiny-miraidon/"
+    },
+    {
+      "id": "09095",
+      "dexNo": 981,
+      "pokemonName": "リキキリン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Lucaのリキキリン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2025-08-15",
+      "endDate": "2025-08-22",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "ずぶとい",
+      "ability": "テイルアーマー",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "エレキシード",
+      "teraType": "みず",
+      "ot": {
+        "JPN": "Luca"
+      },
+      "trainerId": "250815",
+      "moves": [
+        "サイコノイズ",
+        "イカサマ",
+        "てだすけ",
+        "トリックルーム"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 7,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H204/B164/C4/D110/S28",
+      "password": "W0RLDSARM0RTA1L",
+      "notes": "WCS2025開催記念での配布。WCS2024マスターチャンピオンの個体。",
+      "postUrl": "https://www.pokebros.net/sv-wcs2024-masterchamp-farigiraf/"
+    },
+    {
+      "id": "09094",
+      "dexNo": 948,
+      "pokemonName": "ノノクラゲ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "WCS2025のノノクラゲ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "大会会場",
+      "startDate": "2025-08-14",
+      "endDate": "2025-08-29",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "きんしのちから",
+      "ball": "プレシャスボール",
+      "metLocation": "WCS 2025",
+      "heldItem": "くろいメガネ",
+      "teraType": "じめん",
+      "ot": {
+        "JPN": "WCS25",
+        "ENG": "Worlds25",
+        "SPA": "Worlds25",
+        "FRE": "Worlds25",
+        "GER": "Worlds25",
+        "ITA": "Worlds25",
+        "KOR": "WCS25",
+        "CHS": "WCS25",
+        "CHT": "WCS25"
+      },
+      "trainerId": "250815",
+      "moves": [
+        "おいわい",
+        "ギガドレイン",
+        "マジカルリーフ",
+        "まきびし"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "WCS2025会場限定でシリアルコードが配布された。おいわいは特別な技。",
+      "postUrl": "https://www.pokebros.net/sv-wcs2025-toedscool/"
+    },
+    {
+      "id": "09090",
+      "dexNo": 1001,
+      "pokemonName": "チオンジェン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "色違いのさいやくポケモン",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2025-08-08",
+      "endDate": "2025-09-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "おだやか",
+      "ability": "わざわいのおふだ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "くさ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "パルデア",
+        "ENG": "Paldea",
+        "SPA": "Paldea",
+        "FRE": "Paldea",
+        "GER": "Paldea",
+        "ITA": "Paldea",
+        "KOR": "팔데아",
+        "CHS": "帕底亚",
+        "CHT": "帕底亞"
+      },
+      "trainerId": "250808",
+      "moves": [
+        "ギガドレイン",
+        "あくのはどう",
+        "バークアウト",
+        "かふんだんご"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 20,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "notes": "色違いレイドを期間中に100万回倒すと配布。テラスピースセットも同時に配布",
+      "postUrl": "https://www.pokebros.net/gen9-shiny-wo-chien/"
+    },
+    {
+      "id": "09091",
+      "dexNo": 1002,
+      "pokemonName": "パオジアン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "色違いのさいやくポケモン",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2025-08-08",
+      "endDate": "2025-09-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "いじっぱり",
+      "ability": "わざわいのつるぎ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "こおり",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "パルデア",
+        "ENG": "Paldea",
+        "SPA": "Paldea",
+        "FRE": "Paldea",
+        "GER": "Paldea",
+        "ITA": "Paldea",
+        "KOR": "팔데아",
+        "CHS": "帕底亚",
+        "CHT": "帕底亞"
+      },
+      "trainerId": "250822",
+      "moves": [
+        "つららおとし",
+        "かみくだく",
+        "せいなるつるぎ",
+        "こおりのつぶて"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 20,
+        "spd": 31,
+        "spe": 31
+      },
+      "notes": "色違いレイドを期間中に100万回倒すと配布。テラスピースセットも同時に配布",
+      "postUrl": "https://www.pokebros.net/gen9-shiny-chien-pao/"
+    },
+    {
+      "id": "09092",
+      "dexNo": 1003,
+      "pokemonName": "ディンルー",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "色違いのさいやくポケモン",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2025-08-08",
+      "endDate": "2025-09-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "わんぱく",
+      "ability": "わざわいのうつわ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "じめん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "パルデア",
+        "ENG": "Paldea",
+        "SPA": "Paldea",
+        "FRE": "Paldea",
+        "GER": "Paldea",
+        "ITA": "Paldea",
+        "KOR": "팔데아",
+        "CHS": "帕底亚",
+        "CHT": "帕底亞"
+      },
+      "trainerId": "250905",
+      "moves": [
+        "じだんだ",
+        "ストーンエッジ",
+        "バークアウト",
+        "ヘビーボンバー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 20,
+        "spd": 31,
+        "spe": 31
+      },
+      "notes": "色違いレイドを期間中に100万回倒すと配布。テラスピースセットも同時に配布",
+      "postUrl": "https://www.pokebros.net/gen9-shiny-ting-lu/"
+    },
+    {
+      "id": "09093",
+      "dexNo": 1004,
+      "pokemonName": "イーユイ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "色違いのさいやくポケモン",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2025-08-08",
+      "endDate": "2025-09-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "ひかえめ",
+      "ability": "わざわいのたま",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "ほのお",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "パルデア",
+        "ENG": "Paldea",
+        "SPA": "Paldea",
+        "FRE": "Paldea",
+        "GER": "Paldea",
+        "ITA": "Paldea",
+        "KOR": "팔데아",
+        "CHS": "帕底亚",
+        "CHT": "帕底亞"
+      },
+      "trainerId": "250919",
+      "moves": [
+        "ねっぷう",
+        "あくのはどう",
+        "バークアウト",
+        "かえんほうしゃ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 20,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "notes": "色違いレイドを期間中に100万回倒すと配布。テラスピースセットも同時に配布",
+      "postUrl": "https://www.pokebros.net/gen9-shiny-chi-yu/"
+    },
+    {
+      "id": "09088",
+      "dexNo": 987,
+      "pokemonName": "ハバタクカミ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ヒュウマのハバタクカミ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2025-06-21",
+      "endDate": "2025-06-22",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "おくびょう",
+      "ability": "こだいかっせい",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "ブーストエナジー",
+      "teraType": "フェアリー",
+      "ot": {
+        "JPN": "ヒュウマ"
+      },
+      "trainerId": "250621",
+      "moves": [
+        "ムーンフォース",
+        "こごえるかぜ",
+        "トリックルーム",
+        "ちょうはつ"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 22,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H150/B236/C116/D4/S4",
+      "password": "24MHABATAKUKAM1",
+      "notes": "PJCS2025開催記念での配布。PJCS2024チャンピオンが使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-pjcs2024champ-fluttermane/"
+    },
+    {
+      "id": "09089",
+      "dexNo": 591,
+      "pokemonName": "モロバレル",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "レイのモロバレル",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "大会会場",
+      "startDate": "2025-06-21",
+      "endDate": "2025-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "のんき",
+      "ability": "さいせいりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "ゴツゴツメット",
+      "teraType": "フェアリー",
+      "ot": {
+        "JPN": "レイ"
+      },
+      "trainerId": "250621",
+      "moves": [
+        "キノコのほうし",
+        "ヘドロばくだん",
+        "いかりのこな",
+        "まもる"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31
+      },
+      "evs": "H236/B156/D118",
+      "notes": "PJCS2025開催記念での配布。WCS2024シニアチャンピオンが使用していた個体。シリアルコードはポケモンHOMEで受け取る。",
+      "postUrl": "https://www.pokebros.net/sv-wcs2024champ-amoonguss/"
+    },
+    {
+      "id": "09087",
+      "dexNo": 727,
+      "pokemonName": "ガオガエン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Wolfe Glickのガオガエン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2025-06-13",
+      "endDate": "2025-06-20",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "しんちょう",
+      "ability": "いかく",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "ぼうじんゴーグル",
+      "teraType": "むし",
+      "ot": {
+        "JPN": "Wolfe"
+      },
+      "trainerId": "250613",
+      "moves": [
+        "まもる",
+        "すてゼリフ",
+        "フレアドライブ",
+        "ねこだまし"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 15,
+        "spd": 31,
+        "spe": 29
+      },
+      "evs": "H252/B124/D132",
+      "password": "NA1C25C0NPER1SH",
+      "notes": "2025シーズン北米大会の開催記念での配布。2025年欧州チャンピオンが使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-wolfe-Incineroar/"
+    },
+    {
+      "id": "09086",
+      "dexNo": 233,
+      "pokemonName": "ポリゴン２",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Juyoung Hongのポリゴン2",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2025-06-07",
+      "endDate": "2025-06-09",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "れいせい",
+      "ability": "ダウンロード",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "しんかのきせき",
+      "teraType": "フェアリー",
+      "ot": {
+        "JPN": "홍주영"
+      },
+      "trainerId": "250607",
+      "moves": [
+        "テラバースト",
+        "れいとうビーム",
+        "じこさいせい",
+        "トリックルーム"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31
+      },
+      "evs": "H246/B132/D132",
+      "password": "N01SUPP0RTPTC24",
+      "notes": "韓国トレーナーズカップ2025の開催記念での配布。2024年同大会チャンピオンが使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-juyounghong-porygon2/"
+    },
+    {
+      "id": "09085",
+      "dexNo": 132,
+      "pokemonName": "メタモン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ポケモンタウン2025のメタモン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "イベント会場",
+      "startDate": "2025-04-25",
+      "endDate": "2025-06-30",
+      "region": [
+        "韓国"
+      ],
+      "level": 30,
+      "gender": "なし",
+      "nature": "てれや",
+      "ability": "じゅうなん",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "ノーマル",
+      "ot": {
+        "JPN": "포켓몬타운"
+      },
+      "trainerId": "250425",
+      "moves": [
+        "へんしん"
+      ],
+      "ribbons": [
+        "クラシックリボン",
+        "きたいのあかし"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "韓国でのポケモンタウン2025開催記念。イベント会場で配布。",
+      "postUrl": "https://www.pokebros.net/gen9-korea-pokemontown-ditto/"
+    },
+    {
+      "id": "09084",
+      "dexNo": 812,
+      "pokemonName": "ゴリランダー",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Wei Chyrのゴリランダー",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2025-04-19",
+      "endDate": "2025-07-31",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "グラスメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "こだわりハチマキ",
+      "teraType": "くさ",
+      "ot": {
+        "JPN": "Wei Chyr"
+      },
+      "trainerId": "250419",
+      "moves": [
+        "グラススライダー",
+        "ウッドハンマー",
+        "とんぼがえり",
+        "１０まんばりき"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H110/A252/S148",
+      "password": "R1LLAB00M2024TW",
+      "notes": "2025年アジア大会の開催記念での配布。2024年WCS台湾代表が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-chyrwei-rillaboom/"
+    },
+    {
+      "id": "09083",
+      "dexNo": 189,
+      "pokemonName": "ワタッコ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Marco Silvaのワタッコ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2025-02-21",
+      "endDate": "2025-02-28",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "おくびょう",
+      "ability": "ようりょくそ",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "おんみつマント",
+      "teraType": "みず",
+      "ot": {
+        "JPN": "Marco"
+      },
+      "trainerId": "250221",
+      "moves": [
+        "ねむりごな",
+        "にほんばれ",
+        "おいかぜ",
+        "いかりのこな"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 25,
+        "def": 31,
+        "spa": 28,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H164/B150/S196",
+      "password": "EU1C25SUNNYDAY",
+      "notes": "2025年の2025シーズン欧州大会の開催記念での配布。2024年南米大会優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-marco-jumpluff/"
+    },
+    {
+      "id": "09082",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "PokémonDay2025のイーブイ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ゲームショップ店舗",
+      "startDate": "2025-02-07",
+      "endDate": "2025-07-01",
+      "region": [
+        "北米"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "てきおうりょく",
+      "ball": "モンスターボール",
+      "metLocation": "すてきな場所",
+      "teraType": "ひこう",
+      "ot": {
+        "JPN": "POKEMONDAY25"
+      },
+      "trainerId": "250227",
+      "moves": [
+        "ハイパーボイス",
+        "スピードスター",
+        "にほんばれ",
+        "テラバースト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "PokémonDay2025を記念して配布。",
+      "postUrl": "https://www.pokebros.net/gen9-pokemonday2025-eevee/"
+    },
+    {
+      "id": "09081",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "アーロンのルカリオ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "上映劇場",
+      "startDate": "2025-01-22",
+      "endDate": "2025-03-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "まじめ",
+      "ability": "ふくつのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画",
+      "teraType": "かくとう",
+      "ot": {
+        "JPN": "아론"
+      },
+      "trainerId": "250122",
+      "moves": [
+        "はどうだん",
+        "しんそく",
+        "いやしのはどう",
+        "みきり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン",
+        "カリスマのあかし"
+      ],
+      "notes": "韓国において2025年1月22日に【劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ】が劇場上映されることを記念して、映画入場者特典として配布",
+      "postUrl": "https://www.pokebros.net/gen9-korea-movie2025-lucario/"
+    },
+    {
+      "id": "09075",
+      "dexNo": 386,
+      "pokemonName": "デオキシス",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "幻のポケモンゲット大作戦",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "キャンペーンサイト",
+      "startDate": "2024-11-22",
+      "endDate": "2025-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "まじめ",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "エスパー",
+      "ot": {
+        "JPN": "だいさくせん"
+      },
+      "trainerId": "241122",
+      "moves": [
+        "サイコキネシス",
+        "じゅうりょく",
+        "スキルスワップ",
+        "しねんのずつき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "スクラップイベント",
+      "postUrl": "https://www.pokebros.net/gen9-get-daisakusen-deoxys/"
+    },
+    {
+      "id": "09076",
+      "dexNo": 893,
+      "pokemonName": "ザルード",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "幻のポケモンゲット大作戦",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "キャンペーンサイト",
+      "startDate": "2024-11-22",
+      "endDate": "2025-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "きまぐれ",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "あく",
+      "ot": {
+        "JPN": "だいさくせん"
+      },
+      "trainerId": "241122",
+      "moves": [
+        "こわいかお",
+        "くさむすび",
+        "かみつく",
+        "とんぼがえり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "スクラップイベント",
+      "postUrl": "https://www.pokebros.net/gen9-get-daisakusen-zarude/"
+    },
+    {
+      "id": "09077",
+      "dexNo": 647,
+      "pokemonName": "ケルディオ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "幻のポケモンゲット大作戦",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "キャンペーンサイト",
+      "startDate": "2024-11-22",
+      "endDate": "2025-05-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "すなおな",
+      "ability": "せいぎのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "かくとう",
+      "ot": {
+        "JPN": "だいさくせん"
+      },
+      "trainerId": "241122",
+      "moves": [
+        "かたきうち",
+        "アクアテール",
+        "とっしん",
+        "せいなるつるぎ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "スクラップイベント",
+      "postUrl": "https://www.pokebros.net/gen9-get-daisakusen-keldeo/"
+    },
+    {
+      "id": "09078",
+      "dexNo": 386,
+      "pokemonName": "デオキシス",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "【韓国】幻のポケモンゲット大作戦",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "キャンペーンサイト",
+      "startDate": "2024-11-22",
+      "endDate": "2025-05-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "まじめ",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "エスパー",
+      "ot": {
+        "JPN": "대작전"
+      },
+      "trainerId": "241122",
+      "moves": [
+        "サイコキネシス",
+        "じゅうりょく",
+        "スキルスワップ",
+        "しねんのずつき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "スクラップイベント",
+      "postUrl": "https://www.pokebros.net/gen9-korea-get-daisakusen-deoxys/"
+    },
+    {
+      "id": "09079",
+      "dexNo": 893,
+      "pokemonName": "ザルード",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "【韓国】幻のポケモンゲット大作戦",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "キャンペーンサイト",
+      "startDate": "2024-11-22",
+      "endDate": "2025-05-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "きまぐれ",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "あく",
+      "ot": {
+        "JPN": "대작전"
+      },
+      "trainerId": "241122",
+      "moves": [
+        "こわいかお",
+        "くさむすび",
+        "かみつく",
+        "とんぼがえり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "スクラップイベント",
+      "postUrl": "https://www.pokebros.net/gen9-korea-get-daisakusen-zarude/"
+    },
+    {
+      "id": "09080",
+      "dexNo": 647,
+      "pokemonName": "ケルディオ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "【韓国】幻のポケモンゲット大作戦",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "キャンペーンサイト",
+      "startDate": "2024-11-22",
+      "endDate": "2025-05-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "すなおな",
+      "ability": "せいぎのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "かくとう",
+      "ot": {
+        "JPN": "대작전"
+      },
+      "trainerId": "241122",
+      "moves": [
+        "かたきうち",
+        "アクアテール",
+        "とっしん",
+        "せいなるつるぎ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "スクラップイベント",
+      "postUrl": "https://www.pokebros.net/gen9-korea-get-daisakusen-keldeo/"
+    },
+    {
+      "id": "09074",
+      "dexNo": 279,
+      "pokemonName": "ペリッパー",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Patrick Connorの色違いペリッパー",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2024-11-15",
+      "endDate": "2024-11-22",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "あめふらし",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "きあいのタスキ",
+      "teraType": "ゴースト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Patrick&ZeroWidthSpace;"
+      },
+      "trainerId": "241115",
+      "moves": [
+        "まもる",
+        "ウェザーボール",
+        "ぼうふう",
+        "ワイドガード"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 8,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H12/B4/C238/D4/S252",
+      "password": "W1DEGUARDLA1C25",
+      "notes": "2024年の2025シーズン南米大会の開催記念での配布。2024年北米大会優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-patrickconnor-Pelipper/"
+    },
+    {
+      "id": "09073",
+      "dexNo": 924,
+      "pokemonName": "ワッカネズミ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "わくわくおたんじょうびのワッカネズミ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター,ポケモンセンターオンライン",
+      "startDate": "2024-11-01",
+      "endDate": "2026-01-31",
+      "region": [
+        "日本",
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "マイペース",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "teraType": "ノーマル",
+      "ot": {
+        "JPN": "ポケセン",
+        "ENG": "PokéCenter",
+        "SPA": "ポケセン",
+        "FRE": "ポケセン",
+        "GER": "ポケセン",
+        "ITA": "ポケセン",
+        "KOR": "ポケセン",
+        "CHS": "ポケセン",
+        "CHT": "寶可夢中心"
+      },
+      "trainerId": "241101",
+      "moves": [
+        "おいわい",
+        "テラバースト",
+        "つぶらなひとみ",
+        "エコーボイス"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "進化先はランダム。おいわいは特別な技。",
+      "postUrl": "https://www.pokebros.net/gen9-birthday-Tandemaus/"
+    },
+    {
+      "id": "09072",
+      "dexNo": 700,
+      "pokemonName": "ニンフィア",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "トモヤのニンフィア",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2024-08-16",
+      "endDate": "2024-08-19",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "フェアリースキン",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "こだわりメガネ",
+      "teraType": "ほのお",
+      "ot": {
+        "JPN": "トモヤ"
+      },
+      "trainerId": "240816",
+      "moves": [
+        "ハイパーボイス",
+        "テラバースト",
+        "はかいこうせん",
+        "ねごと"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H126/B180/C172/D4/S28",
+      "password": "SLEEPTALKW0RLDS",
+      "notes": "WCS2024の開催記念での配布。WCS2023シニアカテゴリ優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-wcs2023-seniorchamp-sylveon/"
+    },
+    {
+      "id": "09071",
+      "dexNo": 762,
+      "pokemonName": "アママイコ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "WCS2024のアママイコ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "大会会場",
+      "startDate": "2024-08-15",
+      "endDate": "2024-08-30",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "リーフガード",
+      "ball": "プレシャスボール",
+      "metLocation": "WCS 2024",
+      "heldItem": "ぼうじんゴーグル",
+      "teraType": "みず",
+      "ot": {
+        "JPN": "WCS24",
+        "ENG": "Worlds24",
+        "SPA": "Worlds24",
+        "FRE": "Worlds24",
+        "GER": "Worlds24",
+        "ITA": "Worlds24",
+        "KOR": "WCS24",
+        "CHS": "WCS24",
+        "CHT": "WCS24"
+      },
+      "trainerId": "240816",
+      "moves": [
+        "おいわい",
+        "にほんばれ",
+        "はねる",
+        "マジカルシャイン"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "WCS2024の開催記念での配布。",
+      "postUrl": "https://www.pokebros.net/gen9-wcs2024-steenee/"
+    },
+    {
+      "id": "09070",
+      "dexNo": 909,
+      "pokemonName": "ホゲータ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ロイのホゲータ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "アニポケ放送中",
+      "startDate": "2024-07-24",
+      "endDate": "2025-01-31",
+      "region": [
+        "全世界"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "もうか",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンアニメ",
+      "teraType": "ほのお",
+      "ot": {
+        "JPN": "ロイ",
+        "ENG": "Roy",
+        "SPA": "Rod",
+        "FRE": "Rhod",
+        "GER": "Rory",
+        "ITA": "Roy",
+        "KOR": "로드",
+        "CHS": "罗伊",
+        "CHT": "羅伊"
+      },
+      "trainerId": "230512",
+      "moves": [
+        "たいあたり",
+        "ひのこ"
+      ],
+      "ribbons": [
+        "クラシックリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "password": "909TEAMUP06",
+      "notes": "ポケモン番組連動企画で、パルデア御三家が配布。アニポケであいことばが公開。",
+      "postUrl": "https://www.pokebros.net/gen9-Roy-Fuecoco/"
+    },
+    {
+      "id": "09069",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "PokéDoko Eevee",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "イベント会場",
+      "startDate": "2024-07-14",
+      "endDate": "2024-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 10,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "にげあし",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンイベント",
+      "teraType": "ノーマル",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "てだすけ",
+        "ほしがる",
+        "すなかけ",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "げんきのあかし"
+      ],
+      "notes": "ポケモンとどこいく！？連動企画。イベント会場限定で進化石セットのコードのセットになったチラシが配布された。",
+      "postUrl": "https://www.pokebros.net/gen9-genki-eevee/"
+    },
+    {
+      "id": "09068",
+      "dexNo": 233,
+      "pokemonName": "ポリゴン２",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Nils Dunlopのポリゴン2",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2024-06-07",
+      "endDate": "2024-06-10",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "れいせい",
+      "ability": "ダウンロード",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "しんかのきせき",
+      "teraType": "ひこう",
+      "ot": {
+        "JPN": "Nils"
+      },
+      "trainerId": "240607",
+      "moves": [
+        "テラバースト",
+        "れいとうビーム",
+        "じこさいせい",
+        "トリックルーム"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31
+      },
+      "evs": "H252/A4/B126/C92/D36",
+      "password": "NA1CTR1CKR00M",
+      "notes": "2024年北米大会の開催記念での配布。2024年ヨーロッパ大会優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-nils-polygon2/"
+    },
+    {
+      "id": "09067",
+      "dexNo": 663,
+      "pokemonName": "ファイアロー",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ナークのファイアロー",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2024-06-01",
+      "endDate": "2024-06-02",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "はやてのつばさ",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "teraType": "ゴースト",
+      "ot": {
+        "JPN": "ナーク"
+      },
+      "trainerId": "240601",
+      "moves": [
+        "アクロバット",
+        "おいかぜ",
+        "まもる",
+        "ファストガード"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H158/A252/B4/D4/S92",
+      "password": "F1ARR0W23MASTER",
+      "notes": "2024年PJCS大会の開催記念での配布。2023年PJCS優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-pjcs2023champ-talonflame/"
+    },
+    {
+      "id": "09066",
+      "dexNo": 912,
+      "pokemonName": "クワッス",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ドットのクワッス",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "ポケどこ放送中",
+      "startDate": "2024-05-19",
+      "endDate": "2024-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "まじめ",
+      "ability": "げきりゅう",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンアニメ",
+      "teraType": "みず",
+      "ot": {
+        "JPN": "ドット",
+        "ENG": "Dot",
+        "SPA": "Doti",
+        "FRE": "Dot",
+        "GER": "Dot",
+        "ITA": "Dot",
+        "KOR": "도트",
+        "CHS": "点点",
+        "CHT": "小點"
+      },
+      "trainerId": "230804",
+      "moves": [
+        "はたく",
+        "みずでっぽう"
+      ],
+      "ribbons": [
+        "クラシックリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 29,
+        "spd": 20,
+        "spe": 20
+      },
+      "password": "D0T1STPARTNER",
+      "notes": "ポケモン番組連動企画で、パルデア御三家が配布。ポケどこであいことばが公開。",
+      "postUrl": "https://www.pokebros.net/gen9-dot-quaxly/"
+    },
+    {
+      "id": "09065",
+      "dexNo": 130,
+      "pokemonName": "ギャラドス",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Melvin Kehのギャラドス",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2024-05-12",
+      "endDate": "2024-06-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "しんちょう",
+      "ability": "いかく",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "バンジのみ",
+      "teraType": "はがね",
+      "ot": {
+        "JPN": "Sophia"
+      },
+      "trainerId": "240512",
+      "moves": [
+        "たきのぼり",
+        "でんじは",
+        "ちょうはつ",
+        "まもる"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H252/A20/B30/D156/S52",
+      "password": "GYARAD0S2023SG",
+      "notes": "2024年アジア圏の大会の開催記念での配布。2023年WCSにシンガポール代表が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-melvinkeh-gyarados/"
+    },
+    {
+      "id": "09064",
+      "dexNo": 987,
+      "pokemonName": "ハバタクカミ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Shin Yeo-myeongのハバタクカミ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2024-05-05",
+      "endDate": "2024-05-07",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "おくびょう",
+      "ability": "こだいかっせい",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "こだわりメガネ",
+      "teraType": "フェアリー",
+      "ot": {
+        "JPN": "신여명"
+      },
+      "trainerId": "240505",
+      "moves": [
+        "シャドーボール",
+        "マジカルシャイン",
+        "ムーンフォース",
+        "１０まんボルト"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H20/B36/C196/D4/S252",
+      "password": "987W1THSPECS",
+      "notes": "2024年韓国大会の開催記念での配布。2023年韓国大会シニアカテゴリ優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-shinyeomyeong-fluttermane/"
+    },
+    {
+      "id": "09063",
+      "dexNo": 992,
+      "pokemonName": "テツノカイナ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Marco Silvaのテツノカイナ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2024-04-05",
+      "endDate": "2024-04-08",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "いじっぱり",
+      "ability": "クォークチャージ",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "とつげきチョッキ",
+      "teraType": "みず",
+      "ot": {
+        "JPN": "Marco"
+      },
+      "trainerId": "240405",
+      "moves": [
+        "ドレインパンチ",
+        "ボルトチェンジ",
+        "ワイルドボルト",
+        "ねこだまし"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H124/A76/B4/D252/S52",
+      "password": "FAKE0UTEU1C",
+      "notes": "2024年ヨーロッパ大会の開催記念での配布。2023年南米大会優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-marco-ironhands/"
+    },
+    {
+      "id": "09062",
+      "dexNo": 906,
+      "pokemonName": "ニャオハ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "リコのニャオハ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "アニポケ放送中",
+      "startDate": "2024-03-15",
+      "endDate": "2024-09-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 5,
+      "gender": "♀",
+      "nature": "きまぐれ",
+      "ability": "しんりょく",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンアニメ",
+      "teraType": "くさ",
+      "ot": {
+        "JPN": "リコ",
+        "ENG": "Liko",
+        "SPA": "Liko",
+        "FRE": "Liko",
+        "GER": "Liko",
+        "ITA": "Liko",
+        "KOR": "리코",
+        "CHS": "莉可",
+        "CHT": "莉可"
+      },
+      "trainerId": "230414",
+      "moves": [
+        "ひっかく",
+        "このは"
+      ],
+      "ribbons": [
+        "クラシックリボン",
+        "パートナーリボン"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 29,
+        "spe": 20
+      },
+      "password": "L1K0W1TH906",
+      "notes": "ポケモン番組連動企画で、パルデア御三家が配布。アニポケであいことばが公開。",
+      "postUrl": "https://www.pokebros.net/gen9-anipoke-202403/"
+    },
+    {
+      "id": "09061",
+      "dexNo": 923,
+      "pokemonName": "パーモット",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "YOASOBIのパーモット",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "インターネット",
+      "startDate": "2024-03-13",
+      "endDate": "2025-02-28",
+      "region": [
+        "全世界"
+      ],
+      "level": 20,
+      "gender": "♀",
+      "nature": "ようき",
+      "ability": "ちくでん",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "でんき",
+      "ot": {
+        "JPN": "ヨアソビ",
+        "ENG": "YOASOBI",
+        "SPA": "YOASOBI",
+        "FRE": "YOASOBI",
+        "GER": "YOASOBI",
+        "ITA": "YOASOBI",
+        "KOR": "요아소비",
+        "CHS": "夜游",
+        "CHT": "夜遊"
+      },
+      "trainerId": "231118",
+      "moves": [
+        "でんこうそうげき",
+        "ほうでん",
+        "でんこうせっか",
+        "ほっぺすりすり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 31
+      },
+      "password": "Y0AS0B1B1R1B1R1",
+      "notes": "YOASOBIの楽曲「Biri-Biri」のCD＆LP発売記念",
+      "postUrl": "https://www.pokebros.net/gen9-yoasobi-pawmot/"
+    },
+    {
+      "id": "09060",
+      "dexNo": 143,
+      "pokemonName": "カビゴン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "プロジェクトカビゴンのカビゴン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター,ポケモンセンター出張所inニッケパークタウン",
+      "startDate": "2024-02-23",
+      "endDate": "2024-03-31",
+      "region": [
+        "日本"
+      ],
+      "level": 20,
+      "gender": "♂",
+      "nature": "のうてんき",
+      "ability": "くいしんぼう",
+      "ball": "ドリームボール",
+      "metLocation": "すてきな場所",
+      "teraType": "ノーマル",
+      "ot": {
+        "JPN": "プロカビ"
+      },
+      "trainerId": "240223",
+      "moves": [
+        "ねむる",
+        "とおせんぼう",
+        "あくび",
+        "のしかかり"
+      ],
+      "ribbons": [
+        "ときどきみるあかし"
+      ],
+      "ivs": {
+        "hp": 22,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "notes": "プロジェクトカビゴンキャンペーン",
+      "postUrl": "https://www.pokebros.net/gen9-project-kabigon-snorlax/"
+    },
+    {
+      "id": "09054",
+      "dexNo": 995,
+      "pokemonName": "テツノイバラ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "友情のパラドックスポケモン 第2弾 ハバタクカミ/テツノコウベ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "月刊コロコロコミック 2月号",
+      "startDate": "2024-01-15",
+      "endDate": "2024-03-14",
+      "region": [
+        "日本"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "クォークチャージ",
+      "ball": "フレンドボール",
+      "metLocation": "すてきな場所",
+      "teraType": "いわ",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "5656",
+      "moves": [
+        "すなあらし",
+        "ワイルドボルト",
+        "ミサイルばり",
+        "じしん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "「友情のパラドックスポケモンスペシャルプレートC」",
+      "postUrl": "https://www.pokebros.net/corocoro-yujo-paradox-pokemon/"
+    },
+    {
+      "id": "09055",
+      "dexNo": 993,
+      "pokemonName": "テツノコウベ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "友情のパラドックスポケモン 第2弾 アラブルタケ/テツノイバラ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "月刊コロコロコミック 2月号",
+      "startDate": "2024-01-15",
+      "endDate": "2024-03-14",
+      "region": [
+        "日本"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "クォークチャージ",
+      "ball": "フレンドボール",
+      "metLocation": "すてきな場所",
+      "teraType": "あく",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "5656",
+      "moves": [
+        "ハイパーボイス",
+        "エアスラッシュ",
+        "はたきおとす",
+        "あくのはどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "「友情のパラドックスポケモンスペシャルプレートA」",
+      "postUrl": "https://www.pokebros.net/corocoro-yujo-paradox-pokemon/"
+    },
+    {
+      "id": "09056",
+      "dexNo": 992,
+      "pokemonName": "テツノカイナ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "友情のパラドックスポケモン 第2弾 サケブシッポ/テツノカイナ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "月刊コロコロコミック 2月号",
+      "startDate": "2024-01-15",
+      "endDate": "2024-03-14",
+      "region": [
+        "日本"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "クォークチャージ",
+      "ball": "フレンドボール",
+      "metLocation": "すてきな場所",
+      "teraType": "かくとう",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "5656",
+      "moves": [
+        "じゅうでん",
+        "ワイルドボルト",
+        "インファイト",
+        "みきり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "「友情のパラドックスポケモンスペシャルプレートB」",
+      "postUrl": "https://www.pokebros.net/corocoro-yujo-paradox-pokemon/"
+    },
+    {
+      "id": "09057",
+      "dexNo": 987,
+      "pokemonName": "ハバタクカミ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "友情のパラドックスポケモン 第2弾 ハバタクカミ/テツノコウベ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "月刊コロコロコミック 2月号",
+      "startDate": "2024-01-15",
+      "endDate": "2024-03-14",
+      "region": [
+        "日本"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "こだいかっせい",
+      "ball": "フレンドボール",
+      "metLocation": "すてきな場所",
+      "teraType": "ゴースト",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "5656",
+      "moves": [
+        "マジカルフレイム",
+        "パワージェム",
+        "サイコショック",
+        "ゴーストダイブ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "「友情のパラドックスポケモンスペシャルプレートA」",
+      "postUrl": "https://www.pokebros.net/corocoro-yujo-paradox-pokemon/"
+    },
+    {
+      "id": "09058",
+      "dexNo": 986,
+      "pokemonName": "アラブルタケ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "友情のパラドックスポケモン 第2弾 アラブルタケ/テツノイバラ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "月刊コロコロコミック 2月号",
+      "startDate": "2024-01-15",
+      "endDate": "2024-03-14",
+      "region": [
+        "日本"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "こだいかっせい",
+      "ball": "フレンドボール",
+      "metLocation": "すてきな場所",
+      "teraType": "くさ",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "5656",
+      "moves": [
+        "ギガドレイン",
+        "ふいうち",
+        "キノコのほうし",
+        "ねをはる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "「友情のパラドックスポケモンスペシャルプレートC」",
+      "postUrl": "https://www.pokebros.net/corocoro-yujo-paradox-pokemon/"
+    },
+    {
+      "id": "09059",
+      "dexNo": 985,
+      "pokemonName": "サケブシッポ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "友情のパラドックスポケモン 第2弾 サケブシッポ/テツノカイナ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "月刊コロコロコミック 2月号",
+      "startDate": "2024-01-15",
+      "endDate": "2024-03-14",
+      "region": [
+        "日本"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "こだいかっせい",
+      "ball": "フレンドボール",
+      "metLocation": "すてきな場所",
+      "teraType": "フェアリー",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "5656",
+      "moves": [
+        "ハイパーボイス",
+        "サイコファング",
+        "かみくだく",
+        "ねがいごと"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "「友情のパラドックスポケモンスペシャルプレートB」",
+      "postUrl": "https://www.pokebros.net/corocoro-yujo-paradox-pokemon/"
+    },
+    {
+      "id": "09053",
+      "dexNo": 998,
+      "pokemonName": "セグレイブ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "WinterFesta2023のセグレイブ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "イベント会場",
+      "startDate": "2023-12-30",
+      "endDate": "2024-02-10",
+      "region": [
+        "韓国"
+      ],
+      "level": 54,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ねつこうかん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "teraType": "こおり",
+      "ot": {
+        "JPN": "윈터페스타"
+      },
+      "trainerId": "240101",
+      "moves": [
+        "きょけんとつげき",
+        "スケイルショット",
+        "つららばり",
+        "こおりのつぶて"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "韓国における「PokémonWinterfestaTournament」という大会のサブイベントとして配布",
+      "postUrl": "https://www.pokebros.net/gen9-korea-winterfesta2023-baxcalibur/"
+    },
+    {
+      "id": "09051",
+      "dexNo": 1006,
+      "pokemonName": "テツノブジン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "友情のパラドックスポケモン 第1弾 トドロクツキ/テツノブジン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "月刊コロコロコミック 1月号",
+      "startDate": "2023-12-15",
+      "endDate": "2024-02-14",
+      "region": [
+        "日本"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "クォークチャージ",
+      "ball": "フレンドボール",
+      "metLocation": "すてきな場所",
+      "teraType": "フェアリー",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "5656",
+      "moves": [
+        "リーフブレード",
+        "ムーンフォース",
+        "インファイト",
+        "はたきおとす"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "「友情のパラドックスポケモンスペシャルプレート」",
+      "postUrl": "https://www.pokebros.net/gen9-corocoro202312-roaringmoon/"
+    },
+    {
+      "id": "09052",
+      "dexNo": 1005,
+      "pokemonName": "トドロクツキ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "友情のパラドックスポケモン 第1弾 トドロクツキ/テツノブジン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "月刊コロコロコミック 1月号",
+      "startDate": "2023-12-15",
+      "endDate": "2024-02-14",
+      "region": [
+        "日本"
+      ],
+      "level": 75,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "こだいかっせい",
+      "ball": "フレンドボール",
+      "metLocation": "すてきな場所",
+      "teraType": "ドラゴン",
+      "ot": {
+        "JPN": "コロコロ"
+      },
+      "trainerId": "5656",
+      "moves": [
+        "つじぎり",
+        "りゅうのまい",
+        "ドラゴンダイブ",
+        "そらをとぶ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "「友情のパラドックスポケモンスペシャルプレート」",
+      "postUrl": "https://www.pokebros.net/gen9-corocoro202312-ironvaliant/"
+    },
+    {
+      "id": "09050",
+      "dexNo": 999,
+      "pokemonName": "コレクレー",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "パルデアのコレクレー",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "オリジナルアニメ中",
+      "startDate": "2023-12-13",
+      "endDate": "2024-11-30",
+      "region": [
+        "全世界"
+      ],
+      "level": 20,
+      "gender": "なし",
+      "nature": "おくびょう",
+      "ability": "びびり",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "teraType": "ゴースト",
+      "ot": {
+        "JPN": "パルデア",
+        "ENG": "Paldea",
+        "SPA": "Paldea",
+        "FRE": "Paldea",
+        "GER": "Paldea",
+        "ITA": "Paldea",
+        "KOR": "팔데아",
+        "CHS": "帕底亚",
+        "CHT": "帕底亞"
+      },
+      "trainerId": "231213",
+      "moves": [
+        "おどろかす",
+        "たいあたり"
+      ],
+      "ribbons": [
+        "かいちょうのあかし"
+      ],
+      "ivs": {
+        "spe": 31
+      },
+      "password": "SEEY0U1NPALDEA",
+      "notes": "パルデア地方が舞台のオリジナルアニメ「放課後のブレス」第四話公開記念",
+      "postUrl": "https://www.pokebros.net/gen9-paldea-gimmighoul/"
+    },
+    {
+      "id": "09048",
+      "dexNo": 491,
+      "pokemonName": "ダークライ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "幻のポケモン ダークライ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "ポケポータルニュース",
+      "startDate": "2023-12-07",
+      "endDate": "2023-12-21",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "ナイトメア",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "あく",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "あくのはどう",
+        "シャドーボール",
+        "さいみんじゅつ",
+        "ゆめくい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "password": "NEWM00N1SC0M1NG",
+      "notes": "「降臨！ディアルガ＆パルキア〜新月を告げるダークライ〜」キャンペーン",
+      "postUrl": "https://www.pokebros.net/gen9-shiny-lucario/"
+    },
+    {
+      "id": "09049",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "色違いのルカリオ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "ポケポータルニュース",
+      "startDate": "2023-12-07",
+      "endDate": "2024-01-03",
+      "region": [
+        "全世界"
+      ],
+      "level": 75,
+      "gender": "♂",
+      "nature": "むじゃき",
+      "ability": "せいしんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "はがね",
+      "shiny": "fixed",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ラスターカノン",
+        "はどうだん",
+        "バレットパンチ",
+        "れいとうパンチ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 20,
+        "spa": 31,
+        "spd": 20,
+        "spe": 31
+      },
+      "password": "SH1NYBUDDY",
+      "notes": "「かがやくルカリオが助っ人にやってきた！マスターボールも手に入れて伝説のポケモンをゲットしよう！」キャンペーン",
+      "postUrl": "https://www.pokebros.net/gen9-darkrai-last-newmoon-2023/"
+    },
+    {
+      "id": "09047",
+      "dexNo": 966,
+      "pokemonName": "ブロロローム",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "スター団のブロロローム",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "オリジナルアニメ中",
+      "startDate": "2023-11-22",
+      "endDate": "2024-10-31",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "やんちゃ",
+      "ability": "ぼうじん",
+      "ball": "ヒールボール",
+      "metLocation": "ポケモンアニメ",
+      "teraType": "かくとう",
+      "ot": {
+        "JPN": "スターだん",
+        "ENG": "Team Star",
+        "SPA": "Team Star",
+        "FRE": "Team Star",
+        "GER": "Team Star",
+        "ITA": "Team Star",
+        "KOR": "스타단",
+        "CHS": "天星队的",
+        "CHT": "天星隊的"
+      },
+      "trainerId": "231122",
+      "moves": [
+        "アイアンヘッド",
+        "いばる",
+        "どくづき",
+        "テラバースト"
+      ],
+      "ribbons": [
+        "ふんぬのあかし"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": "A252",
+      "password": "TEAMSTAR",
+      "notes": "パルデア地方が舞台のオリジナルアニメ「放課後のブレス」第三話公開記念",
+      "postUrl": "https://www.pokebros.net/gen9-teamstar-revavroom/"
+    },
+    {
+      "id": "09046",
+      "dexNo": 887,
+      "pokemonName": "ドラパルト",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Alex Gomezのドラパルト",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2023-11-17",
+      "endDate": "2023-11-20",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "こだわりハチマキ",
+      "teraType": "ゴースト",
+      "ot": {
+        "JPN": "Alex"
+      },
+      "trainerId": "231117",
+      "moves": [
+        "テラバースト",
+        "ドラゴンアロー",
+        "ゴーストダイブ",
+        "とんぼがえり"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H12/A252/B4/D28/S212",
+      "password": "LA1CPHANT0M4CE",
+      "notes": "2023年南米大会の開催記念での配布。2023年北米大会優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-alexs-dragapult/"
+    },
+    {
+      "id": "09045",
+      "dexNo": 926,
+      "pokemonName": "パピモッチ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ポケモンストアのパピモッチ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "韓国ポケモンストア",
+      "startDate": "2023-11-03",
+      "endDate": "2023-12-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "マイペース",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "フェアリー",
+      "ot": {
+        "JPN": "포켓몬스토어"
+      },
+      "trainerId": "231103",
+      "moves": [
+        "じゃれつく",
+        "あまえる",
+        "したでなめる",
+        "しっぽをふる"
+      ],
+      "ribbons": [
+        "クラシックリボン",
+        "ときどきみるあかし"
+      ],
+      "notes": "SV本編とDLC「ゼロの秘宝」のセット販売記念。初のリボンとあかし両方とももっている配信。",
+      "postUrl": "https://www.pokebros.net/gen9-korea-pokemonstore-fidough/"
+    },
+    {
+      "id": "09043",
+      "dexNo": 935,
+      "pokemonName": "カルボウ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "わくわくおたんじょうびのカルボウ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター,ポケモンセンターオンライン",
+      "startDate": "2023-11-01",
+      "endDate": "2025-01-31",
+      "region": [
+        "日本",
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "もらいび",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "teraType": "ほのお",
+      "ot": {
+        "JPN": "ポケセン",
+        "ENG": "PokéCenter",
+        "SPA": "ポケセン",
+        "FRE": "ポケセン",
+        "GER": "ポケセン",
+        "ITA": "ポケセン",
+        "KOR": "ポケセン",
+        "CHS": "ポケセン",
+        "CHT": "寶可夢中心"
+      },
+      "trainerId": "231101",
+      "moves": [
+        "ひのこ",
+        "おどろかす",
+        "テラバースト",
+        "おいわい"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "ポケモンセンター店舗はいずれかを選んでもらうことができ、ポケモンセンターオンラインではランダム。おいわいは特別な技。",
+      "postUrl": "https://www.pokebros.net/gen9-birthday-charcadet/"
+    },
+    {
+      "id": "09044",
+      "dexNo": 921,
+      "pokemonName": "パモ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "わくわくおたんじょうびのパモ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター,ポケモンセンターオンライン",
+      "startDate": "2023-11-01",
+      "endDate": "2025-01-31",
+      "region": [
+        "日本",
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "teraType": "でんき",
+      "ot": {
+        "JPN": "ポケセン",
+        "ENG": "PokéCenter",
+        "SPA": "ポケセン",
+        "FRE": "ポケセン",
+        "GER": "ポケセン",
+        "ITA": "ポケセン",
+        "KOR": "ポケセン",
+        "CHS": "ポケセン",
+        "CHT": "寶可夢中心"
+      },
+      "trainerId": "231101",
+      "moves": [
+        "でんきショック",
+        "なきごえ",
+        "テラバースト",
+        "おいわい"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "ポケモンセンター店舗はいずれかを選んでもらうことができ、ポケモンセンターオンラインではランダム。おいわいは特別な技。",
+      "postUrl": "https://www.pokebros.net/gen9-birthday-pawmi/"
+    },
+    {
+      "id": "09042",
+      "dexNo": 778,
+      "pokemonName": "ミミッキュ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "でんきテラスタイプのミミッキュ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "Gamestop店舗,BGS2023",
+      "startDate": "2023-10-11",
+      "endDate": "2024-01-01",
+      "region": [
+        "北米",
+        "ブラジル"
+      ],
+      "level": 25,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ばけのかわ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "heldItem": "いのちのたま",
+      "teraType": "でんき",
+      "ot": {
+        "JPN": "Trixie"
+      },
+      "trainerId": "231006",
+      "moves": [
+        "１０まんボルト",
+        "みちづれ",
+        "ゴーストダイブ",
+        "のろい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "アメリカ・カナダではGameStop店舗でハロウィン記念。ブラジルのサンパウロで開催されたBGS2023（ブラジルゲームショー）のNintendoブースでも配布。",
+      "postUrl": "https://www.pokebros.net/gen9-electric-terastal-mimikyu/"
+    },
+    {
+      "id": "09041",
+      "dexNo": 975,
+      "pokemonName": "ハルクジラ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ナッペ山のハルクジラ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "オリジナルアニメ中",
+      "startDate": "2023-09-06",
+      "endDate": "2024-08-31",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "あついしぼう",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンアニメ",
+      "teraType": "こおり",
+      "ot": {
+        "JPN": "ナッペやま",
+        "ENG": "Glaseado",
+        "SPA": "SierraNapada",
+        "FRE": "Mont Nappé",
+        "GER": "Montanata",
+        "ITA": "S. Napada",
+        "KOR": "나페산",
+        "CHS": "霜抹山",
+        "CHT": "霜抹山"
+      },
+      "trainerId": "230906",
+      "moves": [
+        "のしかかり",
+        "ドわすれ",
+        "アイススピナー",
+        "すてみタックル"
+      ],
+      "ribbons": [
+        "ほんのうのあかし"
+      ],
+      "password": "L1KEAFLUTE",
+      "notes": "公式YouTubeチャンネルでパルデア地方を舞台にしたオリジナルアニメ「放課後のブレス」の第一話の公開記念。",
+      "postUrl": "https://www.pokebros.net/gen9-glaseado-mountain-cetitan/"
+    },
+    {
+      "id": "09040",
+      "dexNo": 423,
+      "pokemonName": "トリトドン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Eduardo Cunhaのトリトドン（ひがしのうみ）",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2023-08-10",
+      "endDate": "2023-08-14",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "おだやか",
+      "ability": "よびみず",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "たべのこし",
+      "teraType": "みず",
+      "ot": {
+        "JPN": "Eduardo"
+      },
+      "trainerId": "230811",
+      "moves": [
+        "だいちのちから",
+        "こごえるかぜ",
+        "あくび",
+        "まもる"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 8
+      },
+      "evs": "H180/B92/C92/D144",
+      "password": "23WCSGASTR0D0N",
+      "notes": "2023年PWCSの開催記念での配布。2022年PWCSマスターカテゴリ優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-wcs2022-masterchamp-gastrodon/"
+    },
+    {
+      "id": "09022",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Get Mew & Mewtwo !! キミだけのミュウ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "ポケモンプレゼンツ",
+      "startDate": "2023-08-08",
+      "endDate": "2023-09-18",
+      "region": [
+        "全世界"
+      ],
+      "level": 5,
+      "gender": "なし",
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "モンスターボール",
+      "metLocation": "すてきな場所",
+      "teraType": "ランダム",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "マジカルシャイン",
+        "スピードスター",
+        "ひかりのかべ",
+        "いのちのしずく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivsGuaranteed": 3,
+      "password": "GETY0URMEW",
+      "notes": "2023年8月8日のPokémon Presentsで発表された「ミュウとミュウツーをゲット！」イベントの一環。テラスタイプは18種類ランダムでテラスタイプに合わせた技を覚えている。最強ミュウツーレイドに勝利すると「さいきょうのあかし」がつく。",
+      "postUrl": "https://www.pokebros.net/gen9-get-your-mew/"
+    },
+    {
+      "id": "09021",
+      "dexNo": 978,
+      "pokemonName": "シャリタツ",
+      "form": "のびたすがた",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "WCS2023のシャリタツ（のびたすがた）",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "大会会場付近,FantasyTeam登録者",
+      "startDate": "2023-08-07",
+      "endDate": "2023-08-31",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "しれいとう",
+      "ball": "プレシャスボール",
+      "metLocation": "WCS 2023",
+      "heldItem": "でかいきんのたま",
+      "teraType": "ドラゴン",
+      "ot": {
+        "JPN": "WCS23",
+        "ENG": "Worlds23",
+        "SPA": "Worlds23",
+        "FRE": "Worlds23",
+        "GER": "Worlds23",
+        "ITA": "Worlds23",
+        "KOR": "WCS23",
+        "CHS": "WCS23",
+        "CHT": "WCS23"
+      },
+      "trainerId": "230811",
+      "moves": [
+        "りゅうせいぐん",
+        "だくりゅう",
+        "てだすけ",
+        "おいわい"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "2023PWCSの開催記念での配布。おいわいは特別な技",
+      "postUrl": "https://www.pokebros.net/gen9-wcs2023-tatsugiri//"
+    },
+    {
+      "id": "09020",
+      "dexNo": 861,
+      "pokemonName": "オーロンゲ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Chaiyawat Traiwichchaのオーロンゲ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2023-07-27",
+      "endDate": "2023-08-18",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "おだやか",
+      "ability": "いたずらごころ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "heldItem": "ひかりのねんど",
+      "teraType": "あく",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Nontaro"
+      },
+      "trainerId": "230728",
+      "moves": [
+        "でんじは",
+        "ソウルクラッシュ",
+        "リフレクター",
+        "ひかりのかべ"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H252/B212/C4/D36/S4",
+      "password": "THA12022CHAMP",
+      "notes": "2023PWCSの開催記念での配布。2022年タイ大会優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-pcsthai2022-champ-grimmsnarl/"
+    },
+    {
+      "id": "09019",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "あくテラスタイプのリザードン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "アニメ放送中",
+      "startDate": "2023-07-21",
+      "endDate": "2023-08-31",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "いじっぱり",
+      "ability": "もうか",
+      "ball": "モンスターボール",
+      "metLocation": "すてきな場所",
+      "teraType": "あく",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "かみくだく",
+        "フレアドライブ",
+        "アクロバット",
+        "はらだいこ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 31
+      },
+      "password": "DARKTERA0006",
+      "notes": "日本ではアニポケ連動として、欧米ではポケカ拡張パック「黒炎の支配者」のプロモーションとして配布。",
+      "postUrl": "https://www.pokebros.net/gen9-anipoke-teratype-dark-charizard/"
+    },
+    {
+      "id": "09018",
+      "dexNo": 59,
+      "pokemonName": "ウインディ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Paul Chuaのウインディ",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2023-06-30",
+      "endDate": "2023-07-03",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "いじっぱり",
+      "ability": "いかく",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "ぼうじんゴーグル",
+      "teraType": "くさ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Paul"
+      },
+      "trainerId": "230630",
+      "moves": [
+        "フレアドライブ",
+        "おにび",
+        "まもる",
+        "しんそく"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 8,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H236/A76/B116/C6/D16/S56",
+      "password": "PAULEU1CW1N",
+      "notes": "2023北米大会の開催記念での配布。2023年ヨーロッパ大会優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-paulchuas-shiny-arcanine/"
+    },
+    {
+      "id": "09017",
+      "dexNo": 423,
+      "pokemonName": "トリトドン",
+      "form": "ひがしのうみ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Wonseok Jungのトリトドン（ひがしのうみ）",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2023-06-17",
+      "endDate": "2023-06-19",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "ずぶとい",
+      "ability": "よびみず",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "たべのこし",
+      "teraType": "みず",
+      "ot": {
+        "JPN": "정원석"
+      },
+      "trainerId": "230603",
+      "moves": [
+        "だいちのちから",
+        "れいとうビーム",
+        "あくび",
+        "まもる"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 8
+      },
+      "evs": "H180/B204/D124",
+      "password": "PTCCHAMP10N2122",
+      "notes": "2023年韓国大会の開催記念での配布。2022年同大会優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-wonseokjung-gastrodon/"
+    },
+    {
+      "id": "09016",
+      "dexNo": 437,
+      "pokemonName": "ドータクン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "そらみつのドータクン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2023-06-10",
+      "endDate": "2023-06-11",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "のんき",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "たべのこし",
+      "teraType": "はがね",
+      "ot": {
+        "JPN": "そらみつ"
+      },
+      "trainerId": "230610",
+      "moves": [
+        "ボディプレス",
+        "てっぺき",
+        "まもる",
+        "トリックルーム"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 22,
+        "spd": 31
+      },
+      "evs": "H252/B252/D4",
+      "password": "22SEN10RCHAMP",
+      "notes": "2023PJCSの開催記念での配布。2022年世界大会ジュニアカテゴリ優勝者が使用していた個体。",
+      "postUrl": "https://www.pokebros.net/gen9-wcs2022-seniorchamp-bronzong/"
+    },
+    {
+      "id": "09014",
+      "dexNo": 172,
+      "pokemonName": "ピチュー",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ミチーナのピチュー",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "上映劇場",
+      "startDate": "2023-05-31",
+      "endDate": "2023-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 30,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画",
+      "heldItem": "かわらずのいし",
+      "teraType": "でんき",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "미케나"
+      },
+      "trainerId": "230531",
+      "moves": [
+        "じゅうでん",
+        "こらえる",
+        "ボルテッカー",
+        "てだすけ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "韓国で【劇場版ポケットモンスター ダイヤモンド&パール アルセウス 超克の時空へ】の劇場上映記念",
+      "postUrl": "https://www.pokebros.net/gen9-korea-movie2023-shiny-pichu/"
+    },
+    {
+      "id": "09015",
+      "dexNo": 437,
+      "pokemonName": "ドータクン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ギシンのドータクン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "韓国ポケモンストア通信販売",
+      "startDate": "2023-05-31",
+      "endDate": "2023-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "gender": "なし",
+      "nature": "ひかえめ",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモン映画",
+      "teraType": "エスパー",
+      "ot": {
+        "JPN": "기신"
+      },
+      "trainerId": "230531",
+      "moves": [
+        "ラスターカノン",
+        "ジャイロボール",
+        "サイコキネシス",
+        "さいみんじゅつ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "韓国で【劇場版ポケットモンスター ダイヤモンド&パール アルセウス 超克の時空へ】の劇場上映記念",
+      "postUrl": "https://www.pokebros.net/gen9-korea-movie2023-bronzong/"
+    },
+    {
+      "id": "09012",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ピカッとピカピカピカチュウキャンペーンのピカチュウ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター",
+      "startDate": "2023-04-22",
+      "endDate": "2023-07-31",
+      "region": [
+        "日本"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "わざマシン025(からげんき)",
+      "teraType": "でんき",
+      "ot": {
+        "JPN": "ポケセン"
+      },
+      "trainerId": "230422",
+      "moves": [
+        "おいわい",
+        "なかよくする",
+        "プレゼント",
+        "１０まんボルト"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": "H25/A25/B25/C25/D25/S25",
+      "notes": "ポケモンセンター25周年記念。おおきなあかし/ちっちゃなあかしいずれかが必ずつく。おいわいは特別な技。",
+      "postUrl": "https://www.pokebros.net/gen9-pikatto-cpn-pikachu/"
+    },
+    {
+      "id": "09011",
+      "dexNo": 964,
+      "pokemonName": "イルカマン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Gavin Michaelsのイルカマン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2023-04-14",
+      "endDate": "2023-04-17",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "いじっぱり",
+      "ability": "マイティチェンジ",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "しんぴのしずく",
+      "teraType": "みず",
+      "ot": {
+        "JPN": "Gavin"
+      },
+      "trainerId": "230414",
+      "moves": [
+        "ジェットパンチ",
+        "ウェーブタックル",
+        "くろいきり",
+        "まもる"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 17,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H252/A252/B4",
+      "password": "0C1CV1CT0RGAV1N",
+      "postUrl": "https://www.pokebros.net/gen9-gavinmichaels-palafin/"
+    },
+    {
+      "id": "09010",
+      "dexNo": 915,
+      "pokemonName": "グルトン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ひこうテラスタルのグルトン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ゲームショップ各店舗",
+      "startDate": "2023-03-31",
+      "endDate": "2023-07-01",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 15,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "あついしぼう",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "ひこう",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "テラバースト",
+        "マッドショット",
+        "ほしがる",
+        "あなをほる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "postUrl": "https://www.pokebros.net/gen9-flying-terastal-lechonk"
+    },
+    {
+      "id": "09009",
+      "dexNo": 571,
+      "pokemonName": "ゾロアーク",
+      "form": "ヒスイのすがた",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ゼロの秘宝購入特典のゾロアーク(ヒスイのすがた)",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "DLC購入後のメール",
+      "startDate": "2023-02-28",
+      "endDate": "2024-02-29",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "イリュージョン",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "teraType": "あく",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ハッピータイム",
+        "うらみつらみ",
+        "わるだくみ",
+        "テラバースト"
+      ],
+      "ribbons": [
+        "カリスマのあかし"
+      ],
+      "ivsGuaranteed": 3,
+      "notes": "配信ではじめてのあかし持ち。ハッピータイムは特別な技。",
+      "postUrl": "https://www.pokebros.net/gen9-hisuian-zoroark/"
+    },
+    {
+      "id": "09008",
+      "dexNo": 934,
+      "pokemonName": "キョジオーン",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Jiseok Leeのキョジオーン",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "大会ストリーミング",
+      "startDate": "2023-02-16",
+      "endDate": "2023-02-20",
+      "region": [
+        "全世界"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "しんちょう",
+      "ability": "きよめのしお",
+      "ball": "プレシャスボール",
+      "metLocation": "バトル大会",
+      "heldItem": "たべのこし",
+      "teraType": "どく",
+      "ot": {
+        "JPN": "Jiseok"
+      },
+      "trainerId": "230217",
+      "moves": [
+        "しおづけ",
+        "じこさいせい",
+        "ワイドガード",
+        "まもる"
+      ],
+      "ribbons": [
+        "バトルチャンプリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 22,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": "H252/B60/D198",
+      "password": "1STCHAMPSV",
+      "postUrl": "https://www.pokebros.net/gen9-jiseoklee-garganacl/"
+    },
+    {
+      "id": "09007",
+      "dexNo": 130,
+      "pokemonName": "ギャラドス",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ジャンプフェスタ2023のギャラドス",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "イベント会場",
+      "startDate": "2022-12-17",
+      "endDate": "2023-01-31",
+      "region": [
+        "日本"
+      ],
+      "level": 20,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "いかく",
+      "ball": "モンスターボール",
+      "metLocation": "結晶洞くつ",
+      "teraType": "じめん",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "たつまき",
+        "こおりのキバ",
+        "うずしお",
+        "かみつく"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 31,
+        "spa": 20,
+        "spd": 31,
+        "spe": 20
+      },
+      "postUrl": "https://www.pokebros.net/gen9-junpfest2023-gyarados/"
+    },
+    {
+      "id": "09001",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "ひこうテラスタルのピカチュウ",
+      "distributionMethod": "インターネット",
+      "distributionLocation": "インターネット",
+      "startDate": "2022-11-18",
+      "endDate": "2023-02-28",
+      "region": [
+        "全世界"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "すてきな場所",
+      "teraType": "ひこう",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "そらをとぶ",
+        "しっぽをふる",
+        "でんきショック",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "postUrl": "https://www.pokebros.net/gen9-flyingterastal-pikachu/"
+    },
+    {
+      "id": "09002",
+      "dexNo": 669,
+      "pokemonName": "フラベベ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "わくわくおたんじょうびのフラベベ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "ポケモンセンター,ポケモンセンターオンライン",
+      "startDate": "2022-11-18",
+      "endDate": "2024-01-31",
+      "region": [
+        "日本",
+        "シンガポール"
+      ],
+      "level": 5,
+      "gender": "♀",
+      "nature": "ランダム",
+      "ability": "フラワーベール",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "teraType": "フェアリー",
+      "ot": {
+        "JPN": "ポケセン",
+        "ENG": "PokéCenter",
+        "SPA": "ポケセン",
+        "FRE": "ポケセン",
+        "GER": "ポケセン",
+        "ITA": "ポケセン",
+        "KOR": "ポケセン",
+        "CHS": "ポケセン",
+        "CHT": "ポケセン"
+      },
+      "trainerId": "221118",
+      "moves": [
+        "つるのムチ",
+        "ようせいのかぜ",
+        "ねがいごと",
+        "おいわい"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "色はランダム。おいわいは特別な技",
+      "postUrl": "https://www.pokebros.net/gen9-birthday-flabebe/"
+    }
+  ]
+}

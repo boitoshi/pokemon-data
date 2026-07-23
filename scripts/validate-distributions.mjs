@@ -24,9 +24,10 @@ const methodsMap = readJson("mappings/distribution-methods.json");
 const ballsMap = readJson("mappings/balls.json");
 const schema = readJson("distributions/schema.json");
 
-// nature の値集合照合における許容センチネル。
-// "ランダム" ＝ 固定ネイチャー無しと判明した場合の明示値（省略＝不明とは区別）。
+// nature / ability の値集合照合における許容センチネル。
+// "ランダム" ＝ 固定ネイチャー/特性無しと判明した場合の明示値（省略＝不明とは区別）。
 const NATURE_SENTINEL_VALUES = new Set(["ランダム"]);
+const ABILITY_SENTINEL_VALUES = new Set(["ランダム"]);
 
 const entryPropertyNames = new Set(Object.keys(schema.$defs.entry.properties));
 const IV_KEYS = new Set(["hp", "atk", "def", "spa", "spd", "spe"]);
@@ -46,7 +47,10 @@ function isRealDate(dateStr) {
 const titleIds = new Set(titles.map((t) => t.id));
 const abilityNames = new Set(abilities.map((a) => a.name_ja));
 const natureNames = new Set(natures.map((n) => n.name_ja));
-const ribbonValues = new Set(Object.values(ribbonsMap.ribbons ?? ribbonsMap));
+const ribbonValues = new Set([
+  ...Object.values(ribbonsMap.ribbons ?? ribbonsMap),
+  ...Object.values(ribbonsMap.marks ?? {}),
+]);
 const regionValues = new Set(Object.values(regionsMap));
 const methodValues = new Set(Object.values(methodsMap));
 const ballValues = new Set(Object.values(ballsMap));
@@ -287,8 +291,8 @@ for (const fileName of files) {
       }
     }
 
-    // ability
-    if ("ability" in entry && !abilityNames.has(entry.ability)) {
+    // ability（"ランダム" は特性未確定と判明した場合の許容センチネルなので対象外）
+    if ("ability" in entry && !ABILITY_SENTINEL_VALUES.has(entry.ability) && !abilityNames.has(entry.ability)) {
       warn("ability-not-in-master", `${where}: ability "${entry.ability}" が abilities/all.json の name_ja にありません`);
     }
   }

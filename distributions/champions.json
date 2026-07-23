@@ -1,0 +1,597 @@
+{
+  "schemaVersion": 1,
+  "dataset": "champions",
+  "generation": null,
+  "provenance": "spreadsheet",
+  "entries": [
+    {
+      "id": "CH01",
+      "dexNo": 149,
+      "pokemonName": "カイリュー",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "早期ダウンロード特典",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-04-08〜2026-08-31"
+      },
+      "distributionMethod": "メールボックス",
+      "distributionLocation": "メールボックス",
+      "startDate": "2026-04-08",
+      "endDate": "2026-08-31",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "マルチスケイル",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "moves": [
+        "りゅうせいぐん",
+        "だいもんじ",
+        "れいとうビーム",
+        "しんそく"
+      ],
+      "ivsGuaranteed": 6,
+      "notes": "早期ダウンロード特典。HOME転送不可。"
+    },
+    {
+      "id": "CH02",
+      "dexNo": 68,
+      "pokemonName": "カイリキー",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "Switch版配信記念キャンペーン",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-04-08〜2026-08-31"
+      },
+      "distributionMethod": "あいことば",
+      "distributionLocation": "ふしぎなおくりもの",
+      "startDate": "2026-04-08",
+      "endDate": "2026-08-31",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "ノーガード",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "moves": [
+        "ばくれつパンチ",
+        "ストーンエッジ",
+        "れいとうパンチ",
+        "バレットパンチ"
+      ],
+      "ivsGuaranteed": 6,
+      "password": "CHAMP10N",
+      "notes": "あいことば「CHAMP10N」で入手。HOME転送不可。"
+    },
+    {
+      "id": "CH03",
+      "dexNo": 282,
+      "pokemonName": "サーナイト",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "サーナイト大会 参加賞",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-04-10〜2026-04-13"
+      },
+      "distributionMethod": "大会参加賞",
+      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "startDate": "2026-04-10",
+      "endDate": "2026-04-13",
+      "region": [
+        "全世界"
+      ],
+      "ivsGuaranteed": 6,
+      "notes": "2026/4/10 11:00〜4/13 10:59。勝敗のつく対戦3戦以上で参加賞としてサーナイト＋ファストクーポン100枚。個体詳細は未判明。HOME転送不可。"
+    },
+    {
+      "id": "CH-BP-M1-01",
+      "dexNo": 500,
+      "pokemonName": "エンブオー",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-1 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-04-08〜2026-05-13"
+      },
+      "distributionMethod": "プレミアムバトルパス Lv.2",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-04-08",
+      "endDate": "2026-05-13",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "moves": [
+        "フレアドライブ",
+        "インファイト",
+        "じしん",
+        "ふいうち"
+      ],
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.2到達時に獲得。HOME転送不可。"
+    },
+    {
+      "id": "CH-BP-M1-02",
+      "dexNo": 160,
+      "pokemonName": "オーダイル",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-1 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-04-08〜2026-05-13"
+      },
+      "distributionMethod": "プレミアムバトルパス Lv.10",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-04-08",
+      "endDate": "2026-05-13",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "げきりゅう",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "moves": [
+        "れいとうパンチ",
+        "アクアブレイク",
+        "りゅうのまい",
+        "すてみタックル"
+      ],
+      "ivsGuaranteed": 6,
+      "evs": "HP2/攻撃32/素早さ32",
+      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.10到達時に獲得。HOME転送不可。"
+    },
+    {
+      "id": "CH-BP-M1-03",
+      "dexNo": 154,
+      "pokemonName": "メガニウム",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-1 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-04-08〜2026-05-13"
+      },
+      "distributionMethod": "バトルパス Lv.25",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-04-08",
+      "endDate": "2026-05-13",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "しんりょく",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "moves": [
+        "ソーラービーム",
+        "マジカルシャイン",
+        "こうごうせい",
+        "だいちのちから"
+      ],
+      "ivsGuaranteed": 6,
+      "evs": "HP32/特攻32/素早さ2",
+      "notes": "通常バトルパス(無料)で獲得可能。Lv.25到達時に獲得。HOME転送不可。"
+    },
+    {
+      "id": "CH04",
+      "dexNo": 3,
+      "pokemonName": "フシギバナ",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "Global Challenge 2026 I 参加賞",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-05-01〜2026-05-04"
+      },
+      "distributionMethod": "大会参加賞",
+      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-04",
+      "region": [
+        "全世界"
+      ],
+      "gender": "♂",
+      "ball": "プレシャスボール",
+      "ivsGuaranteed": 6,
+      "notes": "2026/5/1〜5/4開催。勝敗のつく対戦3戦以上で参加賞としてフシギバナを獲得。個体詳細は未判明。HOME転送不可。"
+    },
+    {
+      "id": "CH-BP-M2-01",
+      "dexNo": 227,
+      "pokemonName": "エアームド",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-2 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-05-13〜2026-06-17"
+      },
+      "distributionMethod": "プレミアムバトルパス Lv.2",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-05-13",
+      "endDate": "2026-06-17",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.2到達時に獲得。メガストーン「エアームドナイト」も同パスで入手。個体詳細は未判明。HOME転送不可。プレシャスボール入りエアームドの配布は2002年以来。"
+    },
+    {
+      "id": "CH-BP-M2-02",
+      "dexNo": 115,
+      "pokemonName": "ガルーラ",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-2 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-05-13〜2026-06-17"
+      },
+      "distributionMethod": "プレミアムバトルパス Lv.10",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-05-13",
+      "endDate": "2026-06-17",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.10到達時に獲得。メガストーン「ガルーラナイト」も同パスで入手。個体詳細は未判明。HOME転送不可。"
+    },
+    {
+      "id": "CH-BP-M2-03",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-2 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-05-13〜2026-06-17"
+      },
+      "distributionMethod": "バトルパス(無料) Lv.25",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-05-13",
+      "endDate": "2026-06-17",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "ivsGuaranteed": 6,
+      "notes": "通常バトルパス(無料)で獲得可能。Lv.25到達時に獲得。メガストーン「ゲンガナイト」も無料枠で入手。個体詳細は未判明。HOME転送不可。"
+    },
+    {
+      "id": "CH-BP-M3-01",
+      "dexNo": 604,
+      "pokemonName": "シビルドン",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-3 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-06-17〜2026-07-08"
+      },
+      "distributionMethod": "プレミアムバトルパス Lv.2",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-06-17",
+      "endDate": "2026-07-08",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.2到達時に獲得。メガストーン「シビルドナイト」も同パスで入手。個体詳細は未判明。HOME転送不可。メガシビルドンはチャンピオンズ新規のメガシンカ。"
+    },
+    {
+      "id": "CH-BP-M3-02",
+      "dexNo": 376,
+      "pokemonName": "メタグロス",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-3 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-06-17〜2026-07-08"
+      },
+      "distributionMethod": "プレミアムバトルパス Lv.10",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-06-17",
+      "endDate": "2026-07-08",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.10到達時に獲得。メガストーン「メタグロスナイト」も同パスで入手。個体詳細は未判明。HOME転送不可。メタグロスはv1.1（スマホ版同時リリース）で参戦。"
+    },
+    {
+      "id": "CH-BP-M3-03",
+      "dexNo": 121,
+      "pokemonName": "スターミー",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-3 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-06-17〜2026-07-08"
+      },
+      "distributionMethod": "バトルパス(無料) Lv.25",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-06-17",
+      "endDate": "2026-07-08",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "ivsGuaranteed": 6,
+      "notes": "通常バトルパス(無料)で獲得可能。Lv.25到達時に獲得。メガストーン「スターミナイト」も無料枠で入手。個体詳細は未判明。HOME転送不可。"
+    },
+    {
+      "id": "CH-BP-M4-01",
+      "dexNo": 257,
+      "pokemonName": "バシャーモ",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-4 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-07-08〜2026-08-05"
+      },
+      "distributionMethod": "プレミアムバトルパス Lv.2",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-07-08",
+      "endDate": "2026-08-05",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.2到達時に獲得。メガストーン「バシャーモナイト」も同パスで入手。個体詳細は未判明。HOME転送不可。開催中。"
+    },
+    {
+      "id": "CH-BP-M4-02",
+      "dexNo": 260,
+      "pokemonName": "ラグラージ",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-4 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-07-08〜2026-08-05"
+      },
+      "distributionMethod": "プレミアムバトルパス Lv.10",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-07-08",
+      "endDate": "2026-08-05",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.10到達時に獲得。メガストーン「ラグラージナイト」も同パスで入手。個体詳細は未判明。HOME転送不可。開催中。"
+    },
+    {
+      "id": "CH-BP-M4-03",
+      "dexNo": 254,
+      "pokemonName": "ジュカイン",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-4 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-07-08〜2026-08-05"
+      },
+      "distributionMethod": "バトルパス(無料) Lv.25",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-07-08",
+      "endDate": "2026-08-05",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ball": "プレシャスボール",
+      "otFromPlayer": true,
+      "ivsGuaranteed": 6,
+      "notes": "通常バトルパス(無料)で獲得可能。Lv.25到達時に獲得。メガストーン「ジュカインナイト」も無料枠で入手。個体詳細は未判明。HOME転送不可。開催中。"
+    },
+    {
+      "id": "CH05",
+      "dexNo": 475,
+      "pokemonName": "エルレイド",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "マンスリーチャレンジシリーズ 2026.05 参加賞",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-05-29〜2026-06-01"
+      },
+      "distributionMethod": "大会参加賞",
+      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "startDate": "2026-05-29",
+      "endDate": "2026-06-01",
+      "region": [
+        "全世界"
+      ],
+      "ball": "プレシャスボール",
+      "ivsGuaranteed": 6,
+      "notes": "公式オンライン大会（シングルバトル）で勝敗のつく対戦3戦以上で参加賞として獲得。ファストクーポン100枚・称号も付与。個体詳細は未判明。HOME転送不可。レギュレーションM-A。"
+    },
+    {
+      "id": "CH08",
+      "dexNo": 248,
+      "pokemonName": "バンギラス",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "マンスリーチャレンジシリーズ 2026.06 参加賞",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-06-26〜2026-06-29"
+      },
+      "distributionMethod": "大会参加賞",
+      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-29",
+      "region": [
+        "全世界"
+      ],
+      "ball": "プレシャスボール",
+      "ivsGuaranteed": 6,
+      "notes": "公式オンライン大会（シングルバトル）で勝敗のつく対戦3戦以上で参加賞として獲得。ファストクーポン100枚・称号も付与。個体詳細は未判明。HOME転送不可。"
+    },
+    {
+      "id": "CH09",
+      "dexNo": 303,
+      "pokemonName": "クチート",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "マンスリーチャレンジシリーズ 2026.07 参加賞",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-07-24〜2026-07-27"
+      },
+      "distributionMethod": "大会参加賞",
+      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "startDate": "2026-07-24",
+      "endDate": "2026-07-27",
+      "region": [
+        "全世界"
+      ],
+      "ball": "プレシャスボール",
+      "ivsGuaranteed": 6,
+      "notes": "公式オンライン大会（シングルバトル）で勝敗のつく対戦3戦以上で参加賞として獲得。ファストクーポン100枚・称号も付与。個体詳細は未判明。HOME転送不可。レギュレーションM-B。2026-07-24開催予定。"
+    },
+    {
+      "id": "CH06",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "PJCS日本一決定戦2026記念",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-06-06〜2026-06-14"
+      },
+      "distributionMethod": "あいことば",
+      "distributionLocation": "ふしぎなおくりもの",
+      "startDate": "2026-06-06",
+      "endDate": "2026-06-14",
+      "region": [
+        "日本"
+      ],
+      "nature": "いじっぱり",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "moves": [
+        "フレアドライブ",
+        "ドラゴンクロー",
+        "かみなりパンチ",
+        "りゅうのまい"
+      ],
+      "ivsGuaranteed": 6,
+      "password": "L12ARD0NPJCS26",
+      "notes": "PJCS日本一決定戦(6/6-6/7)記念。あいことば「L12ARD0NPJCS26」で入手、500VPも同時付与。受取期限は6/14 23:59。性格・技はファンサイトの受け取り報告に基づく（レベル・親名等は未判明）。海外での入力可否は未確認。HOME転送不可。"
+    },
+    {
+      "id": "CH07",
+      "dexNo": 26,
+      "pokemonName": "ライチュウ",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "スマートフォン版配信記念",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-06-17〜2026-09-02"
+      },
+      "distributionMethod": "プレイ特典",
+      "distributionLocation": "メールボックス",
+      "startDate": "2026-06-17",
+      "endDate": "2026-09-02",
+      "region": [
+        "全世界"
+      ],
+      "ball": "プレシャスボール",
+      "ivsGuaranteed": 6,
+      "notes": "期間中にプレイするとメールボックスで受け取り（Switch版・スマホ版どちらでも可、あいことば不要）。メガストーン「ライチュウナイトX」「ライチュウナイトY」も同時配布（メガライチュウX/Yはチャンピオンズ新規）。受取期限は2026-09-02 10:59。個体詳細は未判明。HOME転送不可。"
+    }
+  ]
+}

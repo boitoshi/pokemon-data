@@ -115,6 +115,11 @@ for (const fileName of files) {
         `${fileName}: generation (got: ${payload.generation}) が dataset "${dataset}" / ファイル名から期待される ${fileGen} と一致しません`
       );
     }
+  } else if (dataset === "champions") {
+    // ---- 封筒整合: dataset champions は generation===null 固定（genNチェックの対象外） ----
+    if (payload.generation !== null) {
+      throw new Error(`${fileName}: dataset "champions" の generation は null である必要があります (got: ${payload.generation})`);
+    }
   }
 
   const idsInFile = new Set();

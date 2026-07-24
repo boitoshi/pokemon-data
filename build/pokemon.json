@@ -10761,6 +10761,240 @@
     "ivs": "ランダム"
   },
   {
+    "managementId": "06236",
+    "pokemonName": "ディアンシー",
+    "dexNo": 719,
+    "generation": 6,
+    "game": "X, Y",
+    "eventName": "ディアンシー（北米配信・2014年）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2014-10-16",
+    "endDate": "2015-02-28",
+    "ot": {
+      "JPN": "OCT2014",
+      "ENG": "OCT2014",
+      "SPA": "OCTUBRE 2014",
+      "FRE": "OCT2014",
+      "GER": "OCT2014",
+      "ITA": "OCT2014",
+      "KOR": "OCT2014"
+    },
+    "trainerId": "10274",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "クリアボディ",
+    "nature": "ランダム",
+    "heldItem": "ノーマルジュエル",
+    "moves": [
+      "ダイヤストーム",
+      "リフレクター",
+      "おんがえし",
+      "ムーンフォース"
+    ],
+    "ribbons": [
+      "ウィッシュリボン"
+    ],
+    "notes": "2014年10月〜2015年2月に北米でシリアルコード配信されたディアンシー（北米初のディアンシー配信）。親名(OT)=OCT2014。日本国内では未配信。",
+    "region": "北米",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06237",
+    "pokemonName": "ミュウツー",
+    "dexNo": 150,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "色違いミュウツー（海外配信・2016年 Play! Pokémon）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2016-07-26",
+    "endDate": "2016-08-21",
+    "ot": "Play! 2016",
+    "trainerId": "07266",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "きんちょうかん",
+    "nature": "ランダム",
+    "heldItem": "ミュウツナイトＹ",
+    "moves": [
+      "サイコブレイク",
+      "サイコキネシス",
+      "じこさいせい",
+      "はどうだん"
+    ],
+    "ribbons": [
+      "イベントリボン"
+    ],
+    "notes": "2016年に Play! Pokémon（公式大会・VGC）参加者へ北米・欧州で配信された色違いミュウツー。親名(OT)=Play! 2016。日本国内では未配信。",
+    "region": "北米,欧州",
+    "shiny": "あり",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06238",
+    "pokemonName": "フーパ（いましめられし）",
+    "dexNo": 720,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "フーパ（北米配信・2016年）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2016-10-03",
+    "endDate": "2016-10-09",
+    "ot": "Alexander",
+    "trainerId": "10036",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "マジシャン",
+    "nature": "ランダム",
+    "heldItem": "けむりだま",
+    "moves": [
+      "いじげんホール",
+      "サイコキネシス",
+      "おどろかす",
+      "わるだくみ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "2016年10月に北米でシリアルコード（共通コード）配信されたフーパ（いましめられし）。親名(OT)=Alexander。日本国内では未配信。",
+    "region": "北米",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06239",
+    "pokemonName": "ディアンシー",
+    "dexNo": 719,
+    "generation": 6,
+    "game": "X, Y",
+    "eventName": "ディアンシー（欧州配信・2014年11月）",
+    "distributionMethod": "ニンテンドーゾーン",
+    "startDate": "2014-11-06",
+    "endDate": "2014-11-28",
+    "ot": {
+      "JPN": "NOV2014",
+      "ENG": "NOV2014",
+      "SPA": "NOV2014",
+      "FRE": "NOV2014",
+      "GER": "NOV. 2014",
+      "ITA": "NOVEMBRE14",
+      "KOR": "NOV2014"
+    },
+    "trainerId": "11064",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "クリアボディ",
+    "nature": "ランダム",
+    "heldItem": "ノーマルジュエル",
+    "moves": [
+      "ダイヤストーム",
+      "リフレクター",
+      "おんがえし",
+      "ムーンフォース"
+    ],
+    "ribbons": [
+      "ウィッシュリボン"
+    ],
+    "notes": "2014年11月に欧州（スペイン等）で Nintendo Zone 配信されたディアンシー。親名(OT)=NOV2014。日本国内では未配信。",
+    "region": "欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06240",
+    "pokemonName": "ダークライ",
+    "dexNo": 491,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ダークライ（欧州配信・2015年）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2015-02-13",
+    "endDate": "2015-05-05",
+    "ot": "FEB2015",
+    "trainerId": "02135",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "ナイトメア",
+    "nature": "ランダム",
+    "heldItem": "ナゾのみ",
+    "moves": [
+      "ダークホール",
+      "ゆめくい",
+      "あくのはどう",
+      "ゴーストダイブ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "2015年2〜5月に欧州（英 GAME 等）でシリアルコード配信されたダークライ。親名(OT)=FEB2015。日本国内では未配信。",
+    "region": "欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06241",
+    "pokemonName": "フーパ（いましめられし）",
+    "dexNo": 720,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "フーパ（欧州・豪州配信・2016年）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2016-04-06",
+    "endDate": "2016-04-30",
+    "ot": "Harry",
+    "trainerId": "10235",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "マジシャン",
+    "nature": "ランダム",
+    "heldItem": "きあいのタスキ",
+    "moves": [
+      "いじげんホール",
+      "サイコキネシス",
+      "おどろかす",
+      "わるだくみ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "2016年4月に欧州・豪州でシリアルコード配信されたフーパ（いましめられし）。親名(OT)=Harry。日本国内では未配信。",
+    "region": "欧州,豪州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06242",
+    "pokemonName": "ディアンシー",
+    "dexNo": 719,
+    "generation": 6,
+    "game": "X, Y",
+    "eventName": "ディアンシー（台湾配信・2014年）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2014-08-29",
+    "endDate": "2014-10-15",
+    "ot": "MovieTheater",
+    "trainerId": "08274",
+    "metLocation": "ポケモン映画14",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "クリアボディ",
+    "nature": "ランダム",
+    "heldItem": "ノーマルジュエル",
+    "moves": [
+      "ダイヤストーム",
+      "リフレクター",
+      "おんがえし",
+      "ムーンフォース"
+    ],
+    "ribbons": [
+      "ウィッシュリボン"
+    ],
+    "notes": "2014年8〜10月に台湾で映画館配信されたディアンシー。親名(OT)=MovieTheater。日本国内では未配信。",
+    "region": "台湾",
+    "ivs": "ランダム"
+  },
+  {
     "managementId": "07001",
     "pokemonName": "ゴンベ",
     "dexNo": 446,

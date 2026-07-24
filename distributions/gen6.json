@@ -8951,6 +8951,530 @@
         "kind": "bulbapedia",
         "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Taiwanese_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
       }
+    },
+    {
+      "id": "06243",
+      "dexNo": 647,
+      "pokemonName": "ケルディオ",
+      "form": "いつものすがた",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ケルディオ（韓国配信）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-02-25",
+      "endDate": "2016-01-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "せいぎのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "속성클리어"
+      },
+      "trainerId": "02055",
+      "moves": [
+        "アクアジェット",
+        "にらみつける",
+        "にどげり",
+        "ハイドロポンプ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2015〜2016年に韓国でシリアルコード配信されたケルディオ（いつものすがた）。親名(OT)=속성클리어。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06244",
+      "dexNo": 492,
+      "pokemonName": "シェイミ",
+      "form": "ランドフォルム",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "シェイミ（韓国配信）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-07-17",
+      "endDate": "2016-01-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "완전스토리"
+      },
+      "trainerId": "04155",
+      "moves": [
+        "せいちょう",
+        "マジカルリーフ",
+        "シードフレア",
+        "エアスラッシュ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2015〜2016年に韓国でシリアルコード配信されたシェイミ（ランドフォルム）。親名(OT)=완전스토리。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06245",
+      "dexNo": 490,
+      "pokemonName": "マナフィ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "マナフィ（韓国配信）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-07-18",
+      "endDate": "2015-08-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 1,
+      "nature": "ランダム",
+      "ability": "うるおいボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "ot": {
+        "JPN": "물의일족"
+      },
+      "trainerId": "07235",
+      "moves": [
+        "ほたるび",
+        "あわ",
+        "みずあそび",
+        "ハートスワップ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "2015年に韓国でシリアルコード配信されたマナフィ（Lv.1・タマゴ産）。親名(OT)=물의일족。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06246",
+      "dexNo": 487,
+      "pokemonName": "ギラティナ",
+      "form": "オリジンフォルム",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ギラティナ（韓国配信・デセルシティ）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-11-26",
+      "endDate": "2016-01-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "ゆうかん",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "はっきんだま",
+      "ot": {
+        "JPN": "데세르시티"
+      },
+      "trainerId": "11265",
+      "moves": [
+        "はどうだん",
+        "りゅうせいぐん",
+        "シャドーダイブ",
+        "アイアンヘッド"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "2015〜2016年に韓国で配信された映画「光輪の超魔神 フーパ」(デセルシティ)記念のギラティナ（オリジンフォルム）。親名(OT)=데세르시티(Dahara City)。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06247",
+      "dexNo": 720,
+      "pokemonName": "フーパ",
+      "form": "いましめられし",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "フーパ（韓国配信・映画館）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-12-15",
+      "endDate": "2016-02-29",
+      "region": [
+        "韓国"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "マジシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "영화관"
+      },
+      "trainerId": "12235",
+      "moves": [
+        "いじげんホール",
+        "サイコキネシス",
+        "おどろかす",
+        "わるだくみ"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "2015〜2016年に韓国で映画館配信されたフーパ（いましめられし）。親名(OT)=영화관(映画館)。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06248",
+      "dexNo": 716,
+      "pokemonName": "ゼルネアス",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "色違いゼルネアス（韓国配信・アニメXY&Z）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-03-22",
+      "endDate": "2016-06-30",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "フェアリーオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "XY&Z"
+      },
+      "trainerId": "03226",
+      "moves": [
+        "ジオコントロール",
+        "ムーンフォース",
+        "アロマセラピー",
+        "きあいだま"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2016年に韓国でアニメ「XY&Z」記念で配信された色違いゼルネアス。親名(OT)=XY&Z。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06249",
+      "dexNo": 717,
+      "pokemonName": "イベルタル",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "色違いイベルタル（韓国配信・アニメXY&Z）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-04-20",
+      "endDate": "2016-06-30",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ダークオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "XY&Z"
+      },
+      "trainerId": "04206",
+      "moves": [
+        "デスウイング",
+        "ふいうち",
+        "あくのはどう",
+        "イカサマ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2016年に韓国でアニメ「XY&Z」記念で配信された色違いイベルタル。親名(OT)=XY&Z。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06250",
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ジガルデ（韓国配信・アニメXY&Z）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-04-20",
+      "endDate": "2016-06-30",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "オーラブレイク",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "ot": {
+        "JPN": "XY&Z"
+      },
+      "trainerId": "03196",
+      "moves": [
+        "グランドフォース",
+        "しんそく",
+        "へびにらみ",
+        "げきりん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2016年に韓国でアニメ「XY&Z」記念でシリアルコード配信されたジガルデ。親名(OT)=XY&Z。日本国内では未配信（日本版06189とは別配信）。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06251",
+      "dexNo": 146,
+      "pokemonName": "ファイヤー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ファイヤー（韓国配信・映画記念）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-05-02",
+      "endDate": "2016-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "ほのおのからだ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "포켓몬영화"
+      },
+      "trainerId": "04296",
+      "moves": [
+        "ゴッドバード",
+        "ねっぷう",
+        "にほんばれ",
+        "しんぴのまもり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2016年に韓国で映画記念で配信されたファイヤー。親名(OT)=포켓몬영화(ポケモン映画)。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06252",
+      "dexNo": 145,
+      "pokemonName": "サンダー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "サンダー（韓国配信・映画記念）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-05-02",
+      "endDate": "2016-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "포켓몬영화"
+      },
+      "trainerId": "04296",
+      "moves": [
+        "ほうでん",
+        "でんきショック",
+        "あまごい",
+        "こうそくいどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2016年に韓国で映画記念で配信されたサンダー。親名(OT)=포켓몬영화(ポケモン映画)。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06253",
+      "dexNo": 144,
+      "pokemonName": "フリーザー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "フリーザー（韓国配信・映画記念）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-05-02",
+      "endDate": "2016-07-31",
+      "region": [
+        "韓国"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "ゆきがくれ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "포켓몬영화"
+      },
+      "trainerId": "04296",
+      "moves": [
+        "フリーズドライ",
+        "れいとうビーム",
+        "あられ",
+        "リフレクター"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2016年に韓国で映画記念で配信されたフリーザー。親名(OT)=포켓몬영화(ポケモン映画)。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06254",
+      "dexNo": 494,
+      "pokemonName": "ビクティニ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ビクティニ（韓国配信）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-10-01",
+      "endDate": "2016-11-30",
+      "region": [
+        "韓国"
+      ],
+      "level": 15,
+      "nature": "ランダム",
+      "ability": "しょうりのほし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ナゾのみ",
+      "ot": {
+        "JPN": "새로운모험자"
+      },
+      "trainerId": "10016",
+      "moves": [
+        "でんこうせっか",
+        "いばる",
+        "Ｖジェネレート"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "notes": "2016年に韓国でシリアルコード配信されたビクティニ。親名(OT)=새로운모험자(新しい冒険者)。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06255",
+      "dexNo": 493,
+      "pokemonName": "アルセウス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "アルセウス（韓国配信・デセルシティ）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-12-15",
+      "endDate": "2016-02-29",
+      "region": [
+        "韓国"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "マルチタイプ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが",
+      "heldItem": "シルクのスカーフ",
+      "ot": {
+        "JPN": "데세르시티"
+      },
+      "trainerId": "12235",
+      "moves": [
+        "さばきのつぶて",
+        "ブラストバーン",
+        "ハイドロカノン",
+        "だいちのちから"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "2015〜2016年に韓国で配信された映画「光輪の超魔神 フーパ」(デセルシティ)記念のアルセウス。親名(OT)=데세르시티(Dahara City)。既存のシンガポール「Manesh Arceus」(06061)とは別配信。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
     }
   ]
 }

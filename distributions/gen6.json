@@ -8255,6 +8255,397 @@
         "kind": "bulbapedia",
         "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
       }
+    },
+    {
+      "id": "06227",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン ミュウ（海外配信）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-06-10",
+      "endDate": "2016-08-31",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "02016",
+      "moves": [
+        "はたく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Mew」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06228",
+      "dexNo": 492,
+      "pokemonName": "シェイミ",
+      "form": "ランドフォルム",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン シェイミ（海外配信）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2016-07-01",
+      "endDate": "2016-07-24",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ミクルのみ",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "07016",
+      "moves": [
+        "シードフレア",
+        "アロマセラピー",
+        "みがわり",
+        "エナジーボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Shaymin」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06229",
+      "dexNo": 494,
+      "pokemonName": "ビクティニ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン ビクティニ（海外配信）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2016-09-01",
+      "endDate": "2016-09-24",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "しょうりのほし",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "09016",
+      "moves": [
+        "やきつくす",
+        "でんこうせっか",
+        "こらえる",
+        "ねんりき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Victini」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06230",
+      "dexNo": 647,
+      "pokemonName": "ケルディオ",
+      "form": "いつものすがた",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン ケルディオ（海外配信）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2016-10-01",
+      "endDate": "2016-10-24",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "せいぎのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ポイントマックス",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "10016",
+      "moves": [
+        "アクアジェット",
+        "にらみつける",
+        "にどげり",
+        "バブルこうせん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Keldeo」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06231",
+      "dexNo": 719,
+      "pokemonName": "ディアンシー",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ディアンシー（海外配信・2015年7月）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2015-07-24",
+      "endDate": "2015-07-27",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "Hope"
+      },
+      "trainerId": "07245",
+      "moves": [
+        "ダイヤストーム",
+        "ムーンフォース",
+        "マジカルシャイン",
+        "まもる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2015年7月24〜27日に北米・欧州でNintendo Networkにより配信されたディアンシー（英名イベント「Get a Dazzling Diancie」／Bulbapedia表記「Hope Diancie」）。親名(OT)=Hope。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06232",
+      "dexNo": 720,
+      "pokemonName": "フーパ",
+      "form": "いましめられし",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "フーパ（北米配信・マクドナルド 2015年）",
+      "distributionMethod": "ニンテンドーゾーン",
+      "startDate": "2015-11-27",
+      "endDate": "2015-12-23",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "マジシャン",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "Mac"
+      },
+      "trainerId": "11275",
+      "moves": [
+        "いじげんホール",
+        "サイコキネシス",
+        "おどろかす",
+        "わるだくみ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2015年11月27日〜12月23日に米国のマクドナルド店舗の Nintendo Zone で配信されたフーパ（いましめられし）。ORAS ハッピーセット連動プロモ（英名「Mac Hoopa」）。親名(OT)=Mac。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06233",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "色違いレックウザ（北米配信・2015年）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2015-08-12",
+      "endDate": "2015-09-14",
+      "region": [
+        "北米"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "りゅうのキバ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Galileo",
+        "ENG": "Galileo",
+        "SPA": "Galileo",
+        "FRE": "Galilée",
+        "GER": "Galileo",
+        "ITA": "Galileo",
+        "KOR": "Galileo"
+      },
+      "trainerId": "08055",
+      "moves": [
+        "ガリョウテンセイ",
+        "ドラゴンクロー",
+        "しんそく",
+        "りゅうのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2015年8月12日〜9月14日に北米でNintendo Networkにより配信された色違いレックウザ。トレーディングカードゲーム「Ancient Origins（エメラルドブレイク）」拡張プロモ（英名「Galileo Rayquaza」）。親名(OT)=Galileo。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06234",
+      "dexNo": 721,
+      "pokemonName": "ボルケニオン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ボルケニオン（海外配信・2016年）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-10-09",
+      "endDate": "2017-01-31",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "ちょすい",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "とつげきチョッキ",
+      "ot": {
+        "JPN": "Helen"
+      },
+      "trainerId": "10016",
+      "moves": [
+        "スチームバースト",
+        "かえんほうしゃ",
+        "ハイドロポンプ",
+        "だいばくはつ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2016年10月〜2017年1月に北米・欧州・豪州でシリアルコード配信されたボルケニオン（英名「Helen Volcanion」／豪NZ EB Games・仏Micromania 等）。親名(OT)=Helen。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06235",
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "色違いレックウザ（欧州・豪州配信・2015年）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2015-08-10",
+      "endDate": "2016-01-27",
+      "region": [
+        "欧州",
+        "豪州"
+      ],
+      "level": 70,
+      "nature": "ランダム",
+      "ability": "エアロック",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "りゅうのキバ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Galileo",
+        "ENG": "Galileo",
+        "SPA": "Galileo",
+        "FRE": "Galilée",
+        "GER": "Galileo",
+        "ITA": "Galileo",
+        "KOR": "Galileo"
+      },
+      "trainerId": "08055",
+      "moves": [
+        "ガリョウテンセイ",
+        "ドラゴンクロー",
+        "しんそく",
+        "りゅうのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "2015年8月〜2016年1月に欧州・豪州でシリアルコード配信された色違いレックウザ（豪NZ EB Games／英Smyths／独Müller／仏Paris Games Week）。TCG「Ancient Origins」プロモ（英名「Galileo Rayquaza」）。親名(OT)=Galileo（仏版Galilée）。日本国内では未配信。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
     }
   ]
 }

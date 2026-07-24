@@ -3,17 +3,17 @@
   "source": "distributions/*.json",
   "counts": {
     "gen5": 118,
-    "gen6": 226,
+    "gen6": 235,
     "gen7": 152,
     "gen8": 96,
     "gen9": 82,
     "champions": 21,
-    "total": 695
+    "total": 704
   },
   "byGeneration": {
     "0": 21,
     "5": 118,
-    "6": 226,
+    "6": 235,
     "7": 152,
     "8": 96,
     "9": 82

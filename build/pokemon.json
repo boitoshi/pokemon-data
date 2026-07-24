@@ -10470,6 +10470,297 @@
     "ivs": "ランダム"
   },
   {
+    "managementId": "06227",
+    "pokemonName": "ミュウ",
+    "dexNo": 151,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン ミュウ（海外配信）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2016-06-10",
+    "endDate": "2016-08-31",
+    "ot": "GF",
+    "trainerId": "02016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "シンクロ",
+    "nature": "ランダム",
+    "moves": [
+      "はたく"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Mew」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06228",
+    "pokemonName": "シェイミ（ランドフォルム）",
+    "dexNo": 492,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン シェイミ（海外配信）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2016-07-01",
+    "endDate": "2016-07-24",
+    "ot": "GF",
+    "trainerId": "07016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "しぜんかいふく",
+    "nature": "ランダム",
+    "heldItem": "ミクルのみ",
+    "moves": [
+      "シードフレア",
+      "アロマセラピー",
+      "みがわり",
+      "エナジーボール"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Shaymin」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06229",
+    "pokemonName": "ビクティニ",
+    "dexNo": 494,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン ビクティニ（海外配信）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2016-09-01",
+    "endDate": "2016-09-24",
+    "ot": "GF",
+    "trainerId": "09016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "しょうりのほし",
+    "nature": "ランダム",
+    "moves": [
+      "やきつくす",
+      "でんこうせっか",
+      "こらえる",
+      "ねんりき"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Victini」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06230",
+    "pokemonName": "ケルディオ（いつものすがた）",
+    "dexNo": 647,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン ケルディオ（海外配信）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2016-10-01",
+    "endDate": "2016-10-24",
+    "ot": "GF",
+    "trainerId": "10016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "せいぎのこころ",
+    "nature": "ランダム",
+    "heldItem": "ポイントマックス",
+    "moves": [
+      "アクアジェット",
+      "にらみつける",
+      "にどげり",
+      "バブルこうせん"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Keldeo」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06231",
+    "pokemonName": "ディアンシー",
+    "dexNo": 719,
+    "generation": 6,
+    "game": "オメガルビー, アルファサファイア",
+    "eventName": "ディアンシー（海外配信・2015年7月）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2015-07-24",
+    "endDate": "2015-07-27",
+    "ot": "Hope",
+    "trainerId": "07245",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "クリアボディ",
+    "nature": "ランダム",
+    "moves": [
+      "ダイヤストーム",
+      "ムーンフォース",
+      "マジカルシャイン",
+      "まもる"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "2015年7月24〜27日に北米・欧州でNintendo Networkにより配信されたディアンシー（英名イベント「Get a Dazzling Diancie」／Bulbapedia表記「Hope Diancie」）。親名(OT)=Hope。日本国内では未配信。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06232",
+    "pokemonName": "フーパ（いましめられし）",
+    "dexNo": 720,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "フーパ（北米配信・マクドナルド 2015年）",
+    "distributionMethod": "ニンテンドーゾーン",
+    "startDate": "2015-11-27",
+    "endDate": "2015-12-23",
+    "ot": "Mac",
+    "trainerId": "11275",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "マジシャン",
+    "nature": "ランダム",
+    "heldItem": "きあいのタスキ",
+    "moves": [
+      "いじげんホール",
+      "サイコキネシス",
+      "おどろかす",
+      "わるだくみ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "2015年11月27日〜12月23日に米国のマクドナルド店舗の Nintendo Zone で配信されたフーパ（いましめられし）。ORAS ハッピーセット連動プロモ（英名「Mac Hoopa」）。親名(OT)=Mac。日本国内では未配信。",
+    "region": "北米",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06233",
+    "pokemonName": "レックウザ",
+    "dexNo": 384,
+    "generation": 6,
+    "game": "オメガルビー, アルファサファイア",
+    "eventName": "色違いレックウザ（北米配信・2015年）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2015-08-12",
+    "endDate": "2015-09-14",
+    "ot": {
+      "JPN": "Galileo",
+      "ENG": "Galileo",
+      "SPA": "Galileo",
+      "FRE": "Galilée",
+      "GER": "Galileo",
+      "ITA": "Galileo",
+      "KOR": "Galileo"
+    },
+    "trainerId": "08055",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 70,
+    "ability": "エアロック",
+    "nature": "ランダム",
+    "heldItem": "りゅうのキバ",
+    "moves": [
+      "ガリョウテンセイ",
+      "ドラゴンクロー",
+      "しんそく",
+      "りゅうのまい"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "2015年8月12日〜9月14日に北米でNintendo Networkにより配信された色違いレックウザ。トレーディングカードゲーム「Ancient Origins（エメラルドブレイク）」拡張プロモ（英名「Galileo Rayquaza」）。親名(OT)=Galileo。日本国内では未配信。",
+    "region": "北米",
+    "shiny": "あり",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06234",
+    "pokemonName": "ボルケニオン",
+    "dexNo": 721,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ボルケニオン（海外配信・2016年）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2016-10-09",
+    "endDate": "2017-01-31",
+    "ot": "Helen",
+    "trainerId": "10016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 70,
+    "ability": "ちょすい",
+    "nature": "ランダム",
+    "heldItem": "とつげきチョッキ",
+    "moves": [
+      "スチームバースト",
+      "かえんほうしゃ",
+      "ハイドロポンプ",
+      "だいばくはつ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "2016年10月〜2017年1月に北米・欧州・豪州でシリアルコード配信されたボルケニオン（英名「Helen Volcanion」／豪NZ EB Games・仏Micromania 等）。親名(OT)=Helen。日本国内では未配信。",
+    "region": "北米,欧州,豪州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06235",
+    "pokemonName": "レックウザ",
+    "dexNo": 384,
+    "generation": 6,
+    "game": "オメガルビー, アルファサファイア",
+    "eventName": "色違いレックウザ（欧州・豪州配信・2015年）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2015-08-10",
+    "endDate": "2016-01-27",
+    "ot": {
+      "JPN": "Galileo",
+      "ENG": "Galileo",
+      "SPA": "Galileo",
+      "FRE": "Galilée",
+      "GER": "Galileo",
+      "ITA": "Galileo",
+      "KOR": "Galileo"
+    },
+    "trainerId": "08055",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 70,
+    "ability": "エアロック",
+    "nature": "ランダム",
+    "heldItem": "りゅうのキバ",
+    "moves": [
+      "ガリョウテンセイ",
+      "ドラゴンクロー",
+      "しんそく",
+      "りゅうのまい"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "2015年8月〜2016年1月に欧州・豪州でシリアルコード配信された色違いレックウザ（豪NZ EB Games／英Smyths／独Müller／仏Paris Games Week）。TCG「Ancient Origins」プロモ（英名「Galileo Rayquaza」）。親名(OT)=Galileo（仏版Galilée）。日本国内では未配信。",
+    "region": "欧州,豪州",
+    "shiny": "あり",
+    "ivs": "ランダム"
+  },
+  {
     "managementId": "07001",
     "pokemonName": "ゴンベ",
     "dexNo": 446,

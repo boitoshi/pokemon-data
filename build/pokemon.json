@@ -10259,6 +10259,217 @@
     "ivs": "ランダム"
   },
   {
+    "managementId": "06220",
+    "pokemonName": "セレビィ",
+    "dexNo": 251,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン セレビィ（海外配信）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2016-03-01",
+    "endDate": "2016-03-24",
+    "ot": "GF",
+    "trainerId": "03016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "しぜんかいふく",
+    "nature": "ランダム",
+    "moves": [
+      "ねんりき",
+      "じこさいせい",
+      "いやしのすず",
+      "しんぴのまもり"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Celebi」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06221",
+    "pokemonName": "ジラーチ",
+    "dexNo": 385,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン ジラーチ（海外配信）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2016-04-01",
+    "endDate": "2016-04-24",
+    "ot": "GF",
+    "trainerId": "04016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "てんのめぐみ",
+    "nature": "ランダム",
+    "heldItem": "カムラのみ",
+    "moves": [
+      "ねがいごと",
+      "ねんりき",
+      "ねむる"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Jirachi」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06222",
+    "pokemonName": "マナフィ",
+    "dexNo": 490,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン マナフィ（海外配信）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2016-06-01",
+    "endDate": "2016-06-24",
+    "ot": "GF",
+    "trainerId": "06016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "うるおいボディ",
+    "nature": "ランダム",
+    "heldItem": "おうじゃのしるし",
+    "moves": [
+      "ほたるび",
+      "あわ",
+      "みずあそび"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Manaphy」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06223",
+    "pokemonName": "メロエッタ",
+    "dexNo": 648,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン メロエッタ（海外配信）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2016-12-01",
+    "endDate": "2016-12-24",
+    "ot": "GF",
+    "trainerId": "12016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "てんのめぐみ",
+    "nature": "ランダム",
+    "heldItem": "ポイントマックス",
+    "moves": [
+      "でんこうせっか",
+      "ねんりき",
+      "りんしょう"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Meloetta」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06224",
+    "pokemonName": "ダークライ",
+    "dexNo": 491,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン ダークライ（海外配信）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2016-09-27",
+    "endDate": "2016-10-31",
+    "ot": "GF",
+    "trainerId": "05016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "ナイトメア",
+    "nature": "ランダム",
+    "heldItem": "ナゾのみ",
+    "moves": [
+      "ダークホール",
+      "あやしいかぜ",
+      "あくむ",
+      "だましうち"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Darkrai」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06225",
+    "pokemonName": "アルセウス",
+    "dexNo": 493,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン アルセウス（海外配信）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2016-12-01",
+    "endDate": "2016-12-31",
+    "ot": "GF",
+    "trainerId": "08016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "マルチタイプ",
+    "nature": "ランダム",
+    "moves": [
+      "さばきのつぶて",
+      "じこさいせい",
+      "はかいこうせん",
+      "ほろびのうた"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Arceus」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "06226",
+    "pokemonName": "ゲノセクト",
+    "dexNo": 649,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "eventName": "ポケモン20周年記念 まぼろしのポケモン ゲノセクト（海外配信）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2016-11-01",
+    "endDate": "2017-02-28",
+    "ot": "GF",
+    "trainerId": "11016",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "ダウンロード",
+    "nature": "ランダム",
+    "moves": [
+      "テクノバスター",
+      "マグネットボム",
+      "ソーラービーム",
+      "シグナルビーム"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Genesect」。",
+    "region": "北米,欧州",
+    "ivs": "ランダム"
+  },
+  {
     "managementId": "07001",
     "pokemonName": "ゴンベ",
     "dexNo": 446,

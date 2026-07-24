@@ -7960,6 +7960,301 @@
       "ribbons": [
         "クラシックリボン"
       ]
+    },
+    {
+      "id": "06220",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン セレビィ（海外配信）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2016-03-01",
+      "endDate": "2016-03-24",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "03016",
+      "moves": [
+        "ねんりき",
+        "じこさいせい",
+        "いやしのすず",
+        "しんぴのまもり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Celebi」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06221",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン ジラーチ（海外配信）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2016-04-01",
+      "endDate": "2016-04-24",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "カムラのみ",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "04016",
+      "moves": [
+        "ねがいごと",
+        "ねんりき",
+        "ねむる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Jirachi」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06222",
+      "dexNo": 490,
+      "pokemonName": "マナフィ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン マナフィ（海外配信）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2016-06-01",
+      "endDate": "2016-06-24",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "うるおいボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "おうじゃのしるし",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "06016",
+      "moves": [
+        "ほたるび",
+        "あわ",
+        "みずあそび"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Manaphy」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06223",
+      "dexNo": 648,
+      "pokemonName": "メロエッタ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン メロエッタ（海外配信）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2016-12-01",
+      "endDate": "2016-12-24",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ポイントマックス",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "12016",
+      "moves": [
+        "でんこうせっか",
+        "ねんりき",
+        "りんしょう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Meloetta」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06224",
+      "dexNo": 491,
+      "pokemonName": "ダークライ",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン ダークライ（海外配信）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-09-27",
+      "endDate": "2016-10-31",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ナイトメア",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "ナゾのみ",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "05016",
+      "moves": [
+        "ダークホール",
+        "あやしいかぜ",
+        "あくむ",
+        "だましうち"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Darkrai」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06225",
+      "dexNo": 493,
+      "pokemonName": "アルセウス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン アルセウス（海外配信）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-12-01",
+      "endDate": "2016-12-31",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "マルチタイプ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "08016",
+      "moves": [
+        "さばきのつぶて",
+        "じこさいせい",
+        "はかいこうせん",
+        "ほろびのうた"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Arceus」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
+    },
+    {
+      "id": "06226",
+      "dexNo": 649,
+      "pokemonName": "ゲノセクト",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "ポケモン20周年記念 まぼろしのポケモン ゲノセクト（海外配信）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-11-01",
+      "endDate": "2017-02-28",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ダウンロード",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "ot": {
+        "JPN": "GF"
+      },
+      "trainerId": "11016",
+      "moves": [
+        "テクノバスター",
+        "マグネットボム",
+        "ソーラービーム",
+        "シグナルビーム"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモン20周年（2016年）記念で北米・欧州にて配信された幻のポケモン。日本国内では未配信。親名(OT)は全言語共通で「GF」。英語版ワンダーカードのタイトルは「The Mythical Pokémon Genesect」。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_serial_code_event_Pokémon_distributions_in_Generation_VI"
+      }
     }
   ]
 }

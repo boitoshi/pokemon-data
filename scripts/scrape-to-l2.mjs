@@ -1,8 +1,7 @@
-// 配信正本化 P5フォローアップ「scraper の L2 直接出力化」Phase A2。
+// 配信正本化 P5フォローアップ「scraper の L2 直接出力化」Phase A / Phase B (B2)。
 //
 // distribution-scraper が --json で吐くフラット行（scripts/json_writer.py、Converter.convert_all()
-// の出力・49キー・全値str）を読み、L2 疎ネストentry配列（distributions/schema.json 準拠）へ変換して
-// staging ファイルへ出力する。実 distributions/*.json は一切読み書きしない。
+// の出力・49キー・全値str）を読み、L2 疎ネストentry配列（distributions/schema.json 準拠）へ変換する。
 //
 // 写像ロジックは scripts/migrate-gen5-7.mjs の flat→L2 変換を汎用化して流用している（DRY）。
 // migrate-gen5-7.mjs はアプリ由来ソース（pokebros-tools/.../pokemon-all.json、gen5-7専用）が前提で、
@@ -17,22 +16,56 @@
 // という違いがあるため、各関数を汎用化した点をコメントで明示している（検索: "汎用化ポイント"）。
 //
 // Phase A のスコープ: shape変換のみ。id採番・upsert・provenance付与・
-// distributions/*.jsonへの書き込みは一切行わない（Phase B）。
-// id は scraper の managementId をそのまま暫定値として carry する
-// （provisional: Phase B が anchor 一致による凍結idに置換する想定）。
+// distributions/*.jsonへの書き込みは一切行わなかった。
+// id は scraper の managementId をそのまま暫定値として carry する（B2 では捨て値。下記参照）。
 //
-// 実行: node scripts/scrape-to-l2.mjs <flat.json> <out.json>
+// Phase B (B2) のスコープ: provenance-aware upsert。
+//   - scraped entries を anchor.mjs の anchorKey で distributions/genN.json の既存entryとグループ化し、
+//     MATCHED（anchor一致）は書かない、NEW（anchor不一致）は near-dup ガードを通した上でのみ
+//     append-only で新規id採番・追加する。
+//   - scraped の id（managementId）は matching にも採番にも使わない捨て値（前段Phase Aの暫定値）。
+//   - 既存entriesは as-parsed のまま保持（byte往復同一）。書き込みは新規追加が1件以上あるときだけ。
+//
+// 実行: node scripts/scrape-to-l2.mjs <flat.json> [--dry-run] [--dist-dir <dir>] [--report <path>]
 // （distribution-scraper 側は `uv run python -m scripts.main --gen 9 --json <flat.json>` で生成）
+// 旧 Phase A の第2引数 out.json（staging出力）は廃止。
 
 import fs from "node:fs";
 import path from "node:path";
+import { anchorKey, buildAnchorIndex } from "./anchor.mjs";
 
 const root = process.cwd();
 const readJson = (relativePath) => JSON.parse(fs.readFileSync(path.join(root, relativePath), "utf8"));
 
-const [, , inPathArg, outPathArg] = process.argv;
-if (!inPathArg || !outPathArg) {
-  console.error("使い方: node scripts/scrape-to-l2.mjs <in.json> <out.json>");
+// ---- CLI引数パース ----
+// 位置引数は <flat.json> のみ。--dist-dir/--report はオプション値を伴うフラグ。
+function parseArgs(argv) {
+  let flatPathArg = null;
+  let dryRun = false;
+  let distDirArg = "distributions";
+  let reportPathArg = null;
+  for (let i = 0; i < argv.length; i++) {
+    const a = argv[i];
+    if (a === "--dry-run") {
+      dryRun = true;
+    } else if (a === "--dist-dir") {
+      distDirArg = argv[++i];
+      if (distDirArg === undefined) throw new Error("--dist-dir には値が必要です");
+    } else if (a === "--report") {
+      reportPathArg = argv[++i];
+      if (reportPathArg === undefined) throw new Error("--report には値が必要です");
+    } else if (flatPathArg === null) {
+      flatPathArg = a;
+    } else {
+      throw new Error(`未知の引数: "${a}"`);
+    }
+  }
+  return { flatPathArg, dryRun, distDirArg, reportPathArg };
+}
+
+const { flatPathArg, dryRun, distDirArg, reportPathArg } = parseArgs(process.argv.slice(2));
+if (!flatPathArg) {
+  console.error("使い方: node scripts/scrape-to-l2.mjs <flat.json> [--dry-run] [--dist-dir <dir>] [--report <path>]");
   process.exit(1);
 }
 
@@ -585,15 +618,118 @@ function validateEntries(entries, dataset) {
 }
 
 // ==================================================================
-// メイン処理
+// Phase B (B2): provenance-aware upsert のための補助関数
 // ==================================================================
 
-const flatRows = JSON.parse(fs.readFileSync(path.resolve(inPathArg), "utf8"));
+// 世代→idプレフィックス（validate-distributions.mjs の GEN_PREFIX を参照元とし、
+// このスクリプトが対象とする gen1〜gen9 分のみをここに複製する。champions はB2の対象外）。
+const GEN_PREFIX = {
+  gen1: "01",
+  gen2: "02",
+  gen3: "03",
+  gen4: "04",
+  gen5: "05",
+  gen6: "06",
+  gen7: "07",
+  gen8: "08",
+  gen9: "09",
+};
+
+// "YYYY-MM-DD" 文字列同士の日数差（絶対値）。validate-distributions.mjs の isRealDate と同様、
+// UTC固定の Date.UTC で計算する（タイムゾーン依存の揺れを避ける）。
+function dateDiffDays(dateA, dateB) {
+  const parse = (s) => {
+    const [y, m, d] = s.split("-").map(Number);
+    return Date.UTC(y, m - 1, d);
+  };
+  return Math.abs(parse(dateA) - parse(dateB)) / 86400000;
+}
+
+// near-dup ガード: scraped S に対する既存 E が「同一配信の可能性が高い」かどうか。
+// auto-add の安全化が目的（relaxed監査を置換）。form は意図的に match条件へ含めない
+// （フォルム表記の粒度差だけで別配信と誤判定しないため。相違は diffFields 側で報告する）。
+function isNearDup(existing, scraped) {
+  if (existing.dexNo !== scraped.dexNo) return false;
+  if ("endDate" in existing && "endDate" in scraped && existing.endDate === scraped.endDate) return true;
+  return dateDiffDays(existing.startDate, scraped.startDate) <= 7;
+}
+
+// diffFields: 両側の値を比較して conflict / info に分類する。
+// conflict候補（両側presentで値相違＝要確認）と info候補（scraper側が弱い/欠落＝削除ではない）で
+// 対象フィールドを分けている（後者はconflict扱いしない）。
+const CONFLICT_FIELDS = [
+  "games",
+  "level",
+  "shiny",
+  "ability",
+  "nature",
+  "ball",
+  "teraType",
+  "gigantamax",
+  "alpha",
+  "ivsGuaranteed",
+  "moves",
+];
+const INFO_FIELDS = ["eventName", "region", "form", "metLocation"];
+const ARRAY_COMPARE_FIELDS = new Set(["games", "moves", "region"]);
+
+function normalizeForCompare(field, value) {
+  if (value === undefined) return undefined;
+  if (ARRAY_COMPARE_FIELDS.has(field)) {
+    return JSON.stringify(Array.isArray(value) ? [...value].sort() : value);
+  }
+  return value;
+}
+
+function fieldsDiffer(field, a, b) {
+  return normalizeForCompare(field, a) !== normalizeForCompare(field, b);
+}
+
+function diffFields(scraped, existing) {
+  const conflicts = [];
+  for (const field of CONFLICT_FIELDS) {
+    if (field in scraped && field in existing && fieldsDiffer(field, scraped[field], existing[field])) {
+      conflicts.push({ field, ledger: existing[field], scraper: scraped[field] });
+    }
+  }
+  const info = [];
+  for (const field of INFO_FIELDS) {
+    if ((field in scraped || field in existing) && fieldsDiffer(field, scraped[field], existing[field])) {
+      info.push({ field, ledger: existing[field], scraper: scraped[field] });
+    }
+  }
+  return { conflicts, info };
+}
+
+function describeAnchor(entry) {
+  const games = Array.isArray(entry.games) ? entry.games.join("+") : "";
+  return `dexNo=${entry.dexNo} startDate=${entry.startDate} games=${games} method=${entry.distributionMethod}`;
+}
+
+function labelEntry(entry) {
+  return entry.form ? `${entry.pokemonName}（${entry.form}）` : entry.pokemonName;
+}
+
+function formatVal(v) {
+  if (v === undefined) return "(欠落)";
+  if (Array.isArray(v)) return v.join("+");
+  return String(v);
+}
+
+function formatDiffParts(diffs) {
+  return diffs.map((d) => `${d.field} 台帳=${formatVal(d.ledger)} scraper=${formatVal(d.scraper)}`);
+}
+
+// ==================================================================
+// メイン処理（Phase B: provenance-aware upsert）
+// ==================================================================
+
+const flatRows = JSON.parse(fs.readFileSync(path.resolve(flatPathArg), "utf8"));
 if (!Array.isArray(flatRows)) {
-  throw new Error(`入力が配列ではありません: ${inPathArg}`);
+  throw new Error(`入力が配列ではありません: ${flatPathArg}`);
 }
 if (flatRows.length === 0) {
-  throw new Error(`入力が空です: ${inPathArg}`);
+  throw new Error(`入力が空です: ${flatPathArg}`);
 }
 
 const generations = new Set(flatRows.map((r) => r.generation));
@@ -607,45 +743,301 @@ if (!Number.isInteger(generation)) {
 }
 const dataset = `gen${generation}`;
 
-const entries = flatRows.map((row) => convertEntry(row));
+// finding7: 封筒 dataset は gen1〜gen9 のみ対象（範囲外はthrow。champions等は非対応）
+if (!/^gen[1-9]$/.test(dataset)) {
+  throw new Error(`dataset "${dataset}" が対象範囲外です（scrape-to-l2.mjs は gen1〜gen9 のみ対応。finding7: 封筒検査）`);
+}
 
-const { warnings } = validateEntries(entries, dataset);
+const scrapedEntries = flatRows.map((row) => convertEntry(row));
+const { warnings } = validateEntries(scrapedEntries, dataset);
 
-const payload = {
-  schemaVersion: 1,
-  dataset,
-  generation,
-  provenance: "scraper:bulbapedia",
-  entries,
-};
-
-const outPath = path.resolve(outPathArg);
-fs.mkdirSync(path.dirname(outPath), { recursive: true });
-fs.writeFileSync(outPath, JSON.stringify(payload, null, 2) + "\n", "utf8");
-
-console.log(`scrape-to-l2: ${entries.length}件を変換 -> ${outPath}`);
-console.log(`  dataset: ${dataset} / generation: ${generation}`);
-
-console.log("\n=== schema検証 ===");
-console.log("  ハード違反: なし（あれば上記でthrowされ、ここには到達しない）");
+console.log("=== scrape-to-l2: 変換 ===");
+console.log(`  dataset: ${dataset} / generation: ${generation} / scraped: ${scrapedEntries.length}件`);
 if (warnings.length === 0) {
-  console.log("  warningなし");
+  console.log("  schema警告: なし");
 } else {
   const byType = new Map();
   for (const w of warnings) {
     if (!byType.has(w.type)) byType.set(w.type, []);
     byType.get(w.type).push(w.detail);
   }
+  console.log("  schema警告:");
   for (const [type, details] of byType.entries()) {
-    console.log(`  ${type}: ${details.length}件`);
-  }
-  console.log("\n=== warning詳細 ===");
-  for (const [type, details] of byType.entries()) {
-    console.log(`\n[${type}] (${details.length}件)`);
-    for (const d of details) {
-      console.log(`  - ${d}`);
-    }
+    console.log(`    ${type}: ${details.length}件`);
   }
 }
 
-console.log("\nscrape-to-l2: 完了（distributions/ は未変更）");
+// ---- target 解決 ----
+const distDir = path.resolve(root, distDirArg);
+const targetFileName = `${dataset}.json`;
+const targetPath = path.join(distDir, targetFileName);
+if (!fs.existsSync(targetPath)) {
+  throw new Error(`target が存在しません: ${targetPath}（新規ファイル作成はB2の対象外）`);
+}
+const existingRaw = fs.readFileSync(targetPath, "utf8");
+const existingPayload = JSON.parse(existingRaw);
+const existingEntries = existingPayload.entries; // as-parsed のまま保持（再order/正規化しない＝byte往復同一のため）
+
+// ---- anchor index（既存entries） ----
+const anchorIndex = buildAnchorIndex(existingEntries);
+
+// ---- scraped を anchorKey でグループ化（Map。scraped配列の初出順を保持＝id採番の決定性） ----
+const scrapedGroups = new Map();
+for (const m of scrapedEntries) {
+  const key = anchorKey(m);
+  if (!scrapedGroups.has(key)) scrapedGroups.set(key, []);
+  scrapedGroups.get(key).push(m);
+}
+
+// ---- 分類 ----
+const addCandidates = []; // ADD予定のscraped entry（idはこの後で採番。scraped初出順）
+const buckets = {
+  nearDup: [], // 要確認・既存に酷似
+  multiVariant: [], // 新規・多バリアント
+  protectedSkip: [], // 保護スキップ
+  updateCandidate: [], // 更新候補(report-only)
+};
+
+for (const [key, members] of scrapedGroups.entries()) {
+  const existingGroup = anchorIndex.get(key);
+
+  if (existingGroup) {
+    // MATCHED: 書かない
+    const anyProtected = existingGroup.some((e) => !e.source || e.source.kind === "self" || e.source.kind === "official");
+    const repScraped = members[0];
+    const repExisting = existingGroup[0];
+    const { conflicts, info } = diffFields(repScraped, repExisting);
+    const item = {
+      anchor: describeAnchor(repExisting),
+      existingIds: existingGroup.map((e) => e.id),
+      scrapedCount: members.length,
+      // Fable finding5: 多対一マッチ（フラベベ5色等）は member を列挙し、将来の手動集約判断の材料を残す。
+      members: members.length > 1 ? members.map((m) => ({ label: labelEntry(m), eventName: m.eventName })) : null,
+      conflicts,
+      info,
+    };
+    if (anyProtected) {
+      buckets.protectedSkip.push(item);
+    } else {
+      buckets.updateCandidate.push(item);
+    }
+    continue;
+  }
+
+  // NEW: near-dup ガードを全メンバーに適用
+  const withNearDup = [];
+  const withoutNearDup = [];
+  for (const m of members) {
+    const nearDups = existingEntries.filter((e) => isNearDup(e, m));
+    if (nearDups.length > 0) {
+      withNearDup.push({ member: m, nearDups });
+    } else {
+      withoutNearDup.push(m);
+    }
+  }
+
+  for (const { member, nearDups } of withNearDup) {
+    const repNearDup = nearDups[0];
+    const { conflicts, info } = diffFields(member, repNearDup);
+    buckets.nearDup.push({
+      scraped: labelEntry(member),
+      eventName: member.eventName,
+      existingIds: nearDups.map((e) => e.id),
+      startDateDiff:
+        member.startDate !== repNearDup.startDate
+          ? { field: "startDate", ledger: repNearDup.startDate, scraper: member.startDate }
+          : null,
+      conflicts,
+      info,
+    });
+  }
+
+  if (withoutNearDup.length === 1) {
+    addCandidates.push(withoutNearDup[0]);
+  } else if (withoutNearDup.length > 1) {
+    buckets.multiVariant.push({
+      anchor: describeAnchor(withoutNearDup[0]),
+      members: withoutNearDup.map((m) => ({ label: labelEntry(m), eventName: m.eventName })),
+    });
+  }
+  // withoutNearDup.length === 0 → 全員near-dup。ADDなし。
+}
+
+// ---- バッチ内 near-dup ガード（Fable finding1） ----
+// isNearDup は scraped×既存しか見ないため、同一バッチ内で「同dexNo・日付近接・別anchor・既存対応なし」の
+// 2行が両方 auto-add されうる（Bulbapediaが同一配信を地域別行/日付訂正で複数行化した場合等）。
+// クラスタを成す候補は全て自動追加せず「要確認・既存に酷似」へ降格する（安全側・約束4のバッチ内漏れ塞ぎ）。
+const survivingAdds = [];
+for (let i = 0; i < addCandidates.length; i++) {
+  const cand = addCandidates[i];
+  const siblings = addCandidates.filter((other, j) => j !== i && isNearDup(other, cand));
+  if (siblings.length === 0) {
+    survivingAdds.push(cand);
+    continue;
+  }
+  const { conflicts, info } = diffFields(cand, siblings[0]);
+  buckets.nearDup.push({
+    scraped: labelEntry(cand),
+    eventName: cand.eventName,
+    existingIds: [],
+    siblingLabels: siblings.map((s) => labelEntry(s)),
+    startDateDiff:
+      cand.startDate !== siblings[0].startDate
+        ? { field: "startDate", ledger: siblings[0].startDate, scraper: cand.startDate }
+        : null,
+    conflicts,
+    info,
+  });
+}
+
+// ---- id採番（ADDのみ・append-only。scraped初出順） ----
+const prefix = GEN_PREFIX[dataset];
+if (!prefix) {
+  throw new Error(`GEN_PREFIX に "${dataset}" が定義されていません`);
+}
+const prefixedIds = existingEntries.map((e) => String(e.id)).filter((id) => id.startsWith(prefix));
+let suffixWidth = null;
+let maxSuffix = 0;
+if (prefixedIds.length > 0) {
+  suffixWidth = prefixedIds[0].length - prefix.length;
+  for (const id of prefixedIds) {
+    const n = Number(id.slice(prefix.length));
+    if (Number.isInteger(n) && n > maxSuffix) maxSuffix = n;
+  }
+} else if (survivingAdds.length > 0) {
+  throw new Error(`既存entriesに prefix "${prefix}" で始まる id がなく、桁数(suffixWidth)を決定できません`);
+}
+
+const additions = [];
+let nextSuffix = maxSuffix + 1;
+for (const member of survivingAdds) {
+  if (nextSuffix >= 10 ** suffixWidth) {
+    throw new Error(`id採番: suffixWidth=${suffixWidth}桁の上限に達しました（次値 ${nextSuffix}）。桁拡張が必要です`);
+  }
+  const newId = prefix + String(nextSuffix).padStart(suffixWidth, "0");
+  nextSuffix += 1;
+  additions.push(orderEntry({ ...member, id: newId, source: { kind: "bulbapedia" } }));
+}
+
+// ---- 書き込み（!dry-run && additions.length>0 のときだけ。既存entriesはbyte不変で末尾追加） ----
+let writeStatus;
+if (dryRun) {
+  writeStatus = "dry-run";
+} else if (additions.length === 0) {
+  writeStatus = "skip";
+} else {
+  // Fable finding2: byte往復同一の前提（既存ファイルが正準JSON=2スペース+末尾改行）を write 前に検査する。
+  // 不一致（手編集でのフォーマットずれ等）なら黙って全面正規化せず throw して中断する（保証を無条件化）。
+  const canonicalExisting = JSON.stringify(existingPayload, null, 2) + "\n";
+  if (existingRaw !== canonicalExisting) {
+    throw new Error(
+      `既存ファイルが正準JSON形式（2スペースインデント + 末尾改行）でないため安全に追記できません: ${targetPath}\n` +
+        `  手編集等でフォーマットがずれています。正準化してから再実行してください（byte往復同一の保証が崩れるため中断）。`
+    );
+  }
+  // Fable finding3: 封筒は spread で組み、既知5キー以外（将来の手編集キー）やキー順を保持する
+  // （固定キー再構築だと未知キーが黙って脱落するため）。entries は既存位置のまま中身だけ差し替わる。
+  const newPayload = { ...existingPayload, entries: [...existingEntries, ...additions] };
+  // Fable finding6: temp+rename でアトミックに書く（中断時の部分書き込みを避ける）。
+  const tmpPath = targetPath + ".tmp";
+  fs.writeFileSync(tmpPath, JSON.stringify(newPayload, null, 2) + "\n", "utf8");
+  fs.renameSync(tmpPath, targetPath);
+  writeStatus = "applied";
+}
+
+// ---- レポート（stdout・日本語） ----
+const mode = dryRun ? "dry-run" : "apply";
+console.log(`\n=== upsert 計画（target: ${path.relative(root, targetPath)} / mode: ${mode}）===`);
+console.log(`scraped:${scrapedEntries.length}件 / 既存:${existingEntries.length}件`);
+
+// Fable finding4: 追加entryは英語eventName・かな metLocation 等の raw 値をそのまま持つため取り込み後の手レビュー前提。
+const addCaveat = additions.length > 0 ? "（英語eventName・かな metLocation 等 raw 値のまま。取り込み後の手レビュー前提）" : "";
+console.log(`\n[新規追加] ${additions.length}件${addCaveat}`);
+for (const a of additions) {
+  console.log(`  - ${a.id} dexNo=${a.dexNo} ${labelEntry(a)} ev="${a.eventName}"`);
+}
+
+console.log(`\n[要確認・既存に酷似] ${buckets.nearDup.length}件`);
+for (const n of buckets.nearDup) {
+  const diffParts = [];
+  if (n.startDateDiff) {
+    diffParts.push(`startDate 台帳=${n.startDateDiff.ledger} scraper=${n.startDateDiff.scraper}`);
+  }
+  diffParts.push(...formatDiffParts(n.conflicts));
+  diffParts.push(...formatDiffParts(n.info));
+  // 既存マッチは 既存[ids]、バッチ内 near-dup（finding1降格）は バッチ内候補[labels] を参照先に出す。
+  const ref = n.existingIds.length > 0 ? `既存[${n.existingIds.join(",")}]` : `バッチ内候補[${(n.siblingLabels ?? []).join(", ")}]`;
+  console.log(`  - scraped ${n.scraped} ev="${n.eventName}" ~ ${ref}：相違 ${diffParts.join(" / ")}`);
+}
+
+console.log(`\n[新規・多バリアント] ${buckets.multiVariant.length}グループ`);
+for (const g of buckets.multiVariant) {
+  console.log(`  - A=${g.anchor} scraped ${g.members.length}件`);
+  for (const m of g.members) {
+    console.log(`      ${m.label} ev="${m.eventName}"`);
+  }
+}
+
+console.log(`\n[保護スキップ] ${buckets.protectedSkip.length}件`);
+for (const p of buckets.protectedSkip) {
+  const diffParts = [...formatDiffParts(p.conflicts), ...formatDiffParts(p.info)];
+  const diffStr = diffParts.length > 0 ? `；${diffParts.join(" / ")}` : "";
+  console.log(`  - A=${p.anchor} 既存[${p.existingIds.join(",")}] ⇔ scraped ${p.scrapedCount}件${diffStr}`);
+  if (p.members) {
+    // finding5: 多対一マッチの各バリアントを列挙（手動集約判断の材料）
+    for (const m of p.members) console.log(`      ${m.label} ev="${m.eventName}"`);
+  }
+}
+
+console.log(`\n[更新候補(report-only)] ${buckets.updateCandidate.length}件`);
+for (const u of buckets.updateCandidate) {
+  const diffParts = [...formatDiffParts(u.conflicts), ...formatDiffParts(u.info)];
+  const diffStr = diffParts.length > 0 ? `；${diffParts.join(" / ")}` : "";
+  console.log(`  - A=${u.anchor} 既存[${u.existingIds.join(",")}] ⇔ scraped ${u.scrapedCount}件${diffStr}`);
+  if (u.members) {
+    for (const m of u.members) console.log(`      ${m.label} ev="${m.eventName}"`);
+  }
+}
+
+console.log(
+  `\nサマリ: 追加${additions.length} / 酷似${buckets.nearDup.length} / 多バリアント${buckets.multiVariant.length} / 保護${buckets.protectedSkip.length} / 更新${buckets.updateCandidate.length}`
+);
+
+const writeStatusLabel =
+  writeStatus === "applied" ? `実施(${targetFileName})` : writeStatus === "skip" ? "スキップ(追加0)" : "dry-run";
+console.log(`書き込み: ${writeStatusLabel}`);
+
+// ---- --report（機械可読・任意） ----
+if (reportPathArg) {
+  const reportPayload = {
+    target: path.relative(root, targetPath),
+    mode,
+    scrapedCount: scrapedEntries.length,
+    existingCount: existingEntries.length,
+    summary: {
+      added: additions.length,
+      nearDup: buckets.nearDup.length,
+      multiVariant: buckets.multiVariant.length,
+      protectedSkip: buckets.protectedSkip.length,
+      updateCandidate: buckets.updateCandidate.length,
+    },
+    added: additions.map((a) => ({
+      id: a.id,
+      dexNo: a.dexNo,
+      pokemonName: a.pokemonName,
+      form: a.form,
+      eventName: a.eventName,
+    })),
+    nearDup: buckets.nearDup,
+    multiVariant: buckets.multiVariant,
+    protectedSkip: buckets.protectedSkip,
+    updateCandidate: buckets.updateCandidate,
+    writeStatus,
+  };
+  const reportPath = path.resolve(reportPathArg);
+  fs.mkdirSync(path.dirname(reportPath), { recursive: true });
+  fs.writeFileSync(reportPath, JSON.stringify(reportPayload, null, 2) + "\n", "utf8");
+  console.log(`\nレポート出力: ${reportPath}`);
+}
+
+console.log("\nscrape-to-l2: 完了");

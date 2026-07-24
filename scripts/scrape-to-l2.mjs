@@ -748,11 +748,23 @@ if (!/^gen[1-9]$/.test(dataset)) {
   throw new Error(`dataset "${dataset}" が対象範囲外です（scrape-to-l2.mjs は gen1〜gen9 のみ対応。finding7: 封筒検査）`);
 }
 
-const scrapedEntries = flatRows.map((row) => convertEntry(row));
+// 取り込み可否: startDate が有効な ISO 日付でない行（gen5の年のみ日付 "2012"・"2013 and 2014" 等）は
+// 必須フィールド(startDate)を満たせず正本エントリにできない。throw せず「取り込み不可」へ退避して続行する
+// （承認済み方針・行レベルの fail-loud＝バッチ全体は止めず該当行だけレポートする。日付は捏造しない）。
+// 他の必須フィールド不備（未知gameコード等）は依然 convertEntry が throw する＝真のデータ不具合は fail-loud のまま。
+const ISO_DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
+const ingestableRows = [];
+const skippedRows = [];
+for (const row of flatRows) {
+  if (ISO_DATE_RE.test(row.startDate ?? "")) ingestableRows.push(row);
+  else skippedRows.push(row);
+}
+
+const scrapedEntries = ingestableRows.map((row) => convertEntry(row));
 const { warnings } = validateEntries(scrapedEntries, dataset);
 
 console.log("=== scrape-to-l2: 変換 ===");
-console.log(`  dataset: ${dataset} / generation: ${generation} / scraped: ${scrapedEntries.length}件`);
+console.log(`  dataset: ${dataset} / generation: ${generation} / scraped: ${scrapedEntries.length}件` + (skippedRows.length > 0 ? ` / 取り込み不可: ${skippedRows.length}件` : ""));
 if (warnings.length === 0) {
   console.log("  schema警告: なし");
 } else {
@@ -999,8 +1011,15 @@ for (const u of buckets.updateCandidate) {
   }
 }
 
+// 取り込み不可（非ISO startDate＝日付未確定。gen5の年のみ日付等）。書かない・退避のみ。
+console.log(`\n[取り込み不可(startDate未確定)] ${skippedRows.length}件`);
+for (const r of skippedRows) {
+  const name = r.pokemonName ?? "?";
+  console.log(`  - ${r.managementId ?? "?"} ${name} startDate="${r.startDate ?? ""}" ev="${r.eventName ?? ""}"`);
+}
+
 console.log(
-  `\nサマリ: 追加${additions.length} / 酷似${buckets.nearDup.length} / 多バリアント${buckets.multiVariant.length} / 保護${buckets.protectedSkip.length} / 更新${buckets.updateCandidate.length}`
+  `\nサマリ: 追加${additions.length} / 酷似${buckets.nearDup.length} / 多バリアント${buckets.multiVariant.length} / 保護${buckets.protectedSkip.length} / 更新${buckets.updateCandidate.length} / 取込不可${skippedRows.length}`
 );
 
 const writeStatusLabel =
@@ -1020,6 +1039,7 @@ if (reportPathArg) {
       multiVariant: buckets.multiVariant.length,
       protectedSkip: buckets.protectedSkip.length,
       updateCandidate: buckets.updateCandidate.length,
+      skipped: skippedRows.length,
     },
     added: additions.map((a) => ({
       id: a.id,
@@ -1032,6 +1052,13 @@ if (reportPathArg) {
     multiVariant: buckets.multiVariant,
     protectedSkip: buckets.protectedSkip,
     updateCandidate: buckets.updateCandidate,
+    skipped: skippedRows.map((r) => ({
+      managementId: r.managementId,
+      dexNo: r.dexNo,
+      pokemonName: r.pokemonName,
+      startDate: r.startDate,
+      eventName: r.eventName,
+    })),
     writeStatus,
   };
   const reportPath = path.resolve(reportPathArg);

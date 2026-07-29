@@ -10,6 +10,7 @@
 - `games/` — ゲームタイトル・グループ・世代定義の正本
 - `abilities/` — 特性データの正本
 - `mappings/` — リボン・あかし・ボール・性格等の英日マッピング正本
+- `ribbons/catalog.json` — リボン・あかし完全カタログの正本（`mappings/ribbons.json` は EN→JA 対訳（配布データ用）で catalog のサブセット。消費者: ribbon-tracker `scripts/generate-ribbons.mjs`）
 - `distributions/*.json` — 配信ポケモンデータの正本（L2）
 - `build/pokemon.json` — 上記を join した成果物（L3・コミット方式）
 

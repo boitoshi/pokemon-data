@@ -1,0 +1,3716 @@
+[
+  {
+    "key": "champion",
+    "name_ja": "チャンプリボン",
+    "name_en": "Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "champion-hoenn",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald",
+          "firered",
+          "leafgreen"
+        ],
+        "category": "チャンピオン",
+        "description": "ホウエン/カントー地方のポケモンリーグを制覇した証",
+        "requirements": "殿堂入りメンバーに入っている"
+      },
+      {
+        "id": "champion-lets-go",
+        "generation": 7,
+        "games": [
+          "lets_go_pikachu",
+          "lets_go_eevee"
+        ],
+        "category": "チャンピオン",
+        "description": "カントー地方のポケモンリーグを制覇した証（Gen3のチャンプリボンと同一）",
+        "requirements": "殿堂入りメンバーに入っている"
+      }
+    ]
+  },
+  {
+    "key": "cool-g3",
+    "name_ja": "クールリボン",
+    "name_en": "Cool Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "cool-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かっこよさ部門ノーマルランク優勝",
+        "requirements": "かっこよさ部門ノーマルランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cool-super",
+    "name_ja": "クールリボンスーパー",
+    "name_en": "Cool Ribbon Super",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "cool-ribbon-super",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かっこよさ部門スーパーランク優勝",
+        "requirements": "かっこよさ部門スーパーランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cool-hyper",
+    "name_ja": "クールリボンハイパー",
+    "name_en": "Cool Ribbon Hyper",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "cool-ribbon-hyper",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かっこよさ部門ハイパーランク優勝",
+        "requirements": "かっこよさ部門ハイパーランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cool-master-g3",
+    "name_ja": "クールリボンマスター",
+    "name_en": "Cool Ribbon Master",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "cool-ribbon-master",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かっこよさ部門マスターランク優勝",
+        "requirements": "かっこよさ部門マスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "beauty-g3",
+    "name_ja": "ビューティリボン",
+    "name_en": "Beauty Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "beauty-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・うつくしさ部門ノーマルランク優勝",
+        "requirements": "うつくしさ部門ノーマルランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "beauty-super",
+    "name_ja": "ビューティリボンスーパー",
+    "name_en": "Beauty Ribbon Super",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "beauty-ribbon-super",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・うつくしさ部門スーパーランク優勝",
+        "requirements": "うつくしさ部門スーパーランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "beauty-hyper",
+    "name_ja": "ビューティリボンハイパー",
+    "name_en": "Beauty Ribbon Hyper",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "beauty-ribbon-hyper",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・うつくしさ部門ハイパーランク優勝",
+        "requirements": "うつくしさ部門ハイパーランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "beauty-master-g3",
+    "name_ja": "ビューティリボンマスター",
+    "name_en": "Beauty Ribbon Master",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "beauty-ribbon-master",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・うつくしさ部門マスターランク優勝",
+        "requirements": "うつくしさ部門マスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cute-g3",
+    "name_ja": "キュートリボン",
+    "name_en": "Cute Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "cute-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かわいさ部門ノーマルランク優勝",
+        "requirements": "かわいさ部門ノーマルランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cute-super",
+    "name_ja": "キュートリボンスーパー",
+    "name_en": "Cute Ribbon Super",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "cute-ribbon-super",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かわいさ部門スーパーランク優勝",
+        "requirements": "かわいさ部門スーパーランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cute-hyper",
+    "name_ja": "キュートリボンハイパー",
+    "name_en": "Cute Ribbon Hyper",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "cute-ribbon-hyper",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かわいさ部門ハイパーランク優勝",
+        "requirements": "かわいさ部門ハイパーランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cute-master-g3",
+    "name_ja": "キュートリボンマスター",
+    "name_en": "Cute Ribbon Master",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "cute-ribbon-master",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かわいさ部門マスターランク優勝",
+        "requirements": "かわいさ部門マスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "smart-g3",
+    "name_ja": "ジーニアスリボン",
+    "name_en": "Smart Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "smart-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かしこさ部門ノーマルランク優勝",
+        "requirements": "かしこさ部門ノーマルランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "smart-super",
+    "name_ja": "ジーニアスリボンスーパー",
+    "name_en": "Smart Ribbon Super",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "smart-ribbon-super",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かしこさ部門スーパーランク優勝",
+        "requirements": "かしこさ部門スーパーランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "smart-hyper",
+    "name_ja": "ジーニアスリボンハイパー",
+    "name_en": "Smart Ribbon Hyper",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "smart-ribbon-hyper",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かしこさ部門ハイパーランク優勝",
+        "requirements": "かしこさ部門ハイパーランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "smart-master-g3",
+    "name_ja": "ジーニアスリボンマスター",
+    "name_en": "Smart Ribbon Master",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "smart-ribbon-master",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かしこさ部門マスターランク優勝",
+        "requirements": "かしこさ部門マスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "tough-g3",
+    "name_ja": "パワフルリボン",
+    "name_en": "Tough Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "tough-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・たくましさ部門ノーマルランク優勝",
+        "requirements": "たくましさ部門ノーマルランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "tough-super",
+    "name_ja": "パワフルリボンスーパー",
+    "name_en": "Tough Ribbon Super",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "tough-ribbon-super",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・たくましさ部門スーパーランク優勝",
+        "requirements": "たくましさ部門スーパーランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "tough-hyper",
+    "name_ja": "パワフルリボンハイパー",
+    "name_en": "Tough Ribbon Hyper",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "tough-ribbon-hyper",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・たくましさ部門ハイパーランク優勝",
+        "requirements": "たくましさ部門ハイパーランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "tough-master-g3",
+    "name_ja": "パワフルリボンマスター",
+    "name_en": "Tough Ribbon Master",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "tough-ribbon-master",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・たくましさ部門マスターランク優勝",
+        "requirements": "たくましさ部門マスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "winning",
+    "name_ja": "ウイニングリボン",
+    "name_en": "Winning Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "winning-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "バトル施設",
+        "description": "バトルタワー Lv.50チャレンジを制覇した証",
+        "requirements": "バトルタワーのLv.50チャレンジで勝ち抜く",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "victory",
+    "name_ja": "ビクトリーリボン",
+    "name_en": "Victory Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "victory-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "バトル施設",
+        "description": "バトルタワー オープンレベルチャレンジを制覇した証",
+        "requirements": "バトルタワーのオープンレベルチャレンジで勝ち抜く"
+      }
+    ]
+  },
+  {
+    "key": "artist",
+    "name_ja": "ブロマイドリボン",
+    "name_en": "Artist Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "artist-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald"
+        ],
+        "category": "コンテスト",
+        "description": "コンテストのマスターランクで優勝し、美術館に絵が飾られた証",
+        "requirements": "マスターランクで最高スコアを獲得し、リルシティ美術館に絵が飾られる"
+      }
+    ]
+  },
+  {
+    "key": "effort",
+    "name_ja": "がんばリボン",
+    "name_en": "Effort Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "effort-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald",
+          "firered",
+          "leafgreen"
+        ],
+        "category": "思い出",
+        "description": "努力値を最大まで上げた証",
+        "requirements": "努力値の合計が510に達した状態で特定のNPCに話しかける"
+      },
+      {
+        "id": "effort-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "思い出",
+        "description": "努力値を最大まで上げた証",
+        "requirements": "努力値を最大まで貯めたポケモンをナギサシティの女性に見せる"
+      }
+    ]
+  },
+  {
+    "key": "country",
+    "name_ja": "カントリーリボン",
+    "name_en": "Country Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "country-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald",
+          "firered",
+          "leafgreen"
+        ],
+        "category": "イベント",
+        "description": "過去のイベント配布・大会で贈られたリボン（現在は入手不可）",
+        "requirements": "過去のイベント配布・大会で受け取る（現在は入手不可）"
+      }
+    ]
+  },
+  {
+    "key": "world",
+    "name_ja": "ワールドリボン",
+    "name_en": "World Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "world-ribbon",
+        "generation": 3,
+        "games": [
+          "ruby",
+          "sapphire",
+          "emerald",
+          "firered",
+          "leafgreen"
+        ],
+        "category": "イベント",
+        "description": "過去のイベント配布・大会で贈られたリボン（現在は入手不可）",
+        "requirements": "過去のイベント配布・大会で受け取る（現在は入手不可）"
+      }
+    ]
+  },
+  {
+    "key": "national",
+    "name_ja": "ナショナルリボン",
+    "name_en": "National Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "national-ribbon",
+        "generation": 3,
+        "games": [
+          "colosseum",
+          "xd"
+        ],
+        "category": "特殊",
+        "description": "シャドウポケモンを浄化した証",
+        "requirements": "シャドウポケモンをリライブ（浄化）する",
+        "eligibility": {
+          "type": "shadow_only",
+          "shadowGames": [
+            "colosseum",
+            "xd"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "key": "earth",
+    "name_ja": "アースリボン",
+    "name_en": "Earth Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 3,
+    "routes": [
+      {
+        "id": "earth-ribbon",
+        "generation": 3,
+        "games": [
+          "colosseum",
+          "xd"
+        ],
+        "category": "バトル施設",
+        "description": "Mt.Battleを100連勝した証",
+        "requirements": "Mt.Battleの100人抜きをメンバーチェンジなしで達成する"
+      }
+    ]
+  },
+  {
+    "key": "sinnoh-champion",
+    "name_ja": "シンオウチャンプリボン",
+    "name_en": "Sinnoh Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "champion-sinnoh",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "チャンピオン",
+        "description": "シンオウ/ジョウト地方のポケモンリーグを制覇した証（HGSSの殿堂入りでも入手可能）",
+        "requirements": "殿堂入りメンバーに入っている"
+      },
+      {
+        "id": "champion-sinnoh-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "チャンピオン",
+        "description": "シンオウ地方のポケモンリーグを制覇した証（BDSP）",
+        "requirements": "殿堂入りメンバーに入っている"
+      }
+    ]
+  },
+  {
+    "key": "cool-g4",
+    "name_ja": "クールリボン",
+    "name_en": "Cool Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "cool-ribbon-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かっこよさのノーマルランクで優勝した証",
+        "requirements": "スーパーコンテスト・かっこよさ ノーマルランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cool-great",
+    "name_ja": "クールリボングレート",
+    "name_en": "Cool Ribbon Great",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "cool-ribbon-great-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かっこよさのグレートランクで優勝した証",
+        "requirements": "スーパーコンテスト・かっこよさ グレートランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cool-ultra",
+    "name_ja": "クールリボンウルトラ",
+    "name_en": "Cool Ribbon Ultra",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "cool-ribbon-ultra-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かっこよさのウルトラランクで優勝した証",
+        "requirements": "スーパーコンテスト・かっこよさ ウルトラランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cool-master-g4",
+    "name_ja": "クールリボンマスター",
+    "name_en": "Cool Ribbon Master",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "cool-ribbon-master-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かっこよさのマスターランクで優勝した証",
+        "requirements": "スーパーコンテスト・かっこよさ マスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "beauty-g4",
+    "name_ja": "ビューティリボン",
+    "name_en": "Beauty Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "notes": "ビューティ/ビューティーの表記ゆれはゲーム内文字列（PKHeX text_Ribbons_ja.txt）準拠",
+    "routes": [
+      {
+        "id": "beauty-ribbon-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・うつくしさのノーマルランクで優勝した証",
+        "requirements": "スーパーコンテスト・うつくしさ ノーマルランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "beauty-great",
+    "name_ja": "ビューティーリボングレート",
+    "name_en": "Beauty Ribbon Great",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "notes": "ビューティ/ビューティーの表記ゆれはゲーム内文字列（PKHeX text_Ribbons_ja.txt）準拠",
+    "routes": [
+      {
+        "id": "beauty-ribbon-great-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・うつくしさのグレートランクで優勝した証",
+        "requirements": "スーパーコンテスト・うつくしさ グレートランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "beauty-ultra",
+    "name_ja": "ビューティーリボンウルトラ",
+    "name_en": "Beauty Ribbon Ultra",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "notes": "ビューティ/ビューティーの表記ゆれはゲーム内文字列（PKHeX text_Ribbons_ja.txt）準拠",
+    "routes": [
+      {
+        "id": "beauty-ribbon-ultra-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・うつくしさのウルトラランクで優勝した証",
+        "requirements": "スーパーコンテスト・うつくしさ ウルトラランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "beauty-master-g4",
+    "name_ja": "ビューティーリボンマスター",
+    "name_en": "Beauty Ribbon Master",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "notes": "ビューティ/ビューティーの表記ゆれはゲーム内文字列（PKHeX text_Ribbons_ja.txt）準拠",
+    "routes": [
+      {
+        "id": "beauty-ribbon-master-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・うつくしさのマスターランクで優勝した証",
+        "requirements": "スーパーコンテスト・うつくしさ マスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cute-g4",
+    "name_ja": "キュートリボン",
+    "name_en": "Cute Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "cute-ribbon-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かわいさのノーマルランクで優勝した証",
+        "requirements": "スーパーコンテスト・かわいさ ノーマルランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cute-great",
+    "name_ja": "キュートリボングレート",
+    "name_en": "Cute Ribbon Great",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "cute-ribbon-great-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かわいさのグレートランクで優勝した証",
+        "requirements": "スーパーコンテスト・かわいさ グレートランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cute-ultra",
+    "name_ja": "キュートリボンウルトラ",
+    "name_en": "Cute Ribbon Ultra",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "cute-ribbon-ultra-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かわいさのウルトラランクで優勝した証",
+        "requirements": "スーパーコンテスト・かわいさ ウルトラランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cute-master-g4",
+    "name_ja": "キュートリボンマスター",
+    "name_en": "Cute Ribbon Master",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "cute-ribbon-master-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かわいさのマスターランクで優勝した証",
+        "requirements": "スーパーコンテスト・かわいさ マスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "smart-g4",
+    "name_ja": "ジーニアスリボン",
+    "name_en": "Smart Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "clever-ribbon-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かしこさのノーマルランクで優勝した証",
+        "requirements": "スーパーコンテスト・かしこさ ノーマルランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "smart-great",
+    "name_ja": "ジーニアスリボングレート",
+    "name_en": "Smart Ribbon Great",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "clever-ribbon-great-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かしこさのグレートランクで優勝した証",
+        "requirements": "スーパーコンテスト・かしこさ グレートランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "smart-ultra",
+    "name_ja": "ジーニアスリボンウルトラ",
+    "name_en": "Smart Ribbon Ultra",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "clever-ribbon-ultra-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かしこさのウルトラランクで優勝した証",
+        "requirements": "スーパーコンテスト・かしこさ ウルトラランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "smart-master-g4",
+    "name_ja": "ジーニアスリボンマスター",
+    "name_en": "Smart Ribbon Master",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "clever-ribbon-master-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・かしこさのマスターランクで優勝した証",
+        "requirements": "スーパーコンテスト・かしこさ マスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "tough-g4",
+    "name_ja": "パワフルリボン",
+    "name_en": "Tough Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "tough-ribbon-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・たくましさのノーマルランクで優勝した証",
+        "requirements": "スーパーコンテスト・たくましさ ノーマルランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "tough-great",
+    "name_ja": "パワフルリボングレート",
+    "name_en": "Tough Ribbon Great",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "tough-ribbon-great-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・たくましさのグレートランクで優勝した証",
+        "requirements": "スーパーコンテスト・たくましさ グレートランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "tough-ultra",
+    "name_ja": "パワフルリボンウルトラ",
+    "name_en": "Tough Ribbon Ultra",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "tough-ribbon-ultra-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・たくましさのウルトラランクで優勝した証",
+        "requirements": "スーパーコンテスト・たくましさ ウルトラランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "tough-master-g4",
+    "name_ja": "パワフルリボンマスター",
+    "name_en": "Tough Ribbon Master",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "tough-ribbon-master-g4",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテスト・たくましさのマスターランクで優勝した証",
+        "requirements": "スーパーコンテスト・たくましさ マスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "ability",
+    "name_ja": "アビリティリボン",
+    "name_en": "Ability Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "ability-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "バトル施設",
+        "description": "バトルタワーのLv.50チャレンジで21連勝した証",
+        "requirements": "バトルタワーのLv.50チャレンジで21連勝する",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "great-ability",
+    "name_ja": "グレートアビリティリボン",
+    "name_en": "Great Ability Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "great-ability-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "バトル施設",
+        "description": "バトルタワーのLv.50チャレンジで49連勝した証",
+        "requirements": "バトルタワーのLv.50チャレンジで49連勝する",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "double-ability",
+    "name_ja": "ダブルアビリティリボン",
+    "name_en": "Double Ability Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "double-ability-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "バトル施設",
+        "description": "バトルタワーのダブルバトルで21連勝した証",
+        "requirements": "バトルタワーのダブルバトルで21連勝する",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "multi-ability",
+    "name_ja": "マルチアビリティリボン",
+    "name_en": "Multi Ability Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "multi-ability-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "バトル施設",
+        "description": "バトルタワーのマルチバトルで21連勝した証",
+        "requirements": "バトルタワーのマルチバトルで21連勝する",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "pair-ability",
+    "name_ja": "ペアアビリティリボン",
+    "name_en": "Pair Ability Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "pair-ability-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "バトル施設",
+        "description": "バトルタワーのWiFiマルチバトルで21連勝した証",
+        "requirements": "バトルタワーのWiFiマルチバトルで21連勝する",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "world-ability",
+    "name_ja": "ワールドアビリティリボン",
+    "name_en": "World Ability Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "world-ability-ribbon",
+        "generation": 4,
+        "games": [
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "バトル施設",
+        "description": "バトルファクトリーで21連勝した証",
+        "requirements": "バトルファクトリーで21連勝する",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "footprint",
+    "name_ja": "あしあとリボン",
+    "name_en": "Footprint Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "footprint-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum"
+        ],
+        "category": "思い出",
+        "description": "あしあと博士になつき度を認めてもらった証",
+        "requirements": "Lv.30以上で十分成長しており、かつ友好度がMAXである"
+      },
+      {
+        "id": "footprint-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "思い出",
+        "description": "あしあと博士になつき度を認めてもらった証",
+        "requirements": "なついたポケモンを213番道路のあしあと博士に見せる"
+      }
+    ]
+  },
+  {
+    "key": "gorgeous",
+    "name_ja": "ゴージャスリボン",
+    "name_en": "Gorgeous Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "gorgeous-ribbon",
+        "generation": 4,
+        "games": [
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "リゾートエリアでお金で手に入れた豪華なリボン",
+        "requirements": "リゾートエリアのショップで10,000円で購入する"
+      },
+      {
+        "id": "gorgeous-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "特殊",
+        "description": "リゾートエリアでお金で手に入れた豪華なリボン",
+        "requirements": "リゾートエリアのリボンシンジケートで購入する"
+      }
+    ]
+  },
+  {
+    "key": "royal",
+    "name_ja": "ロイヤルリボン",
+    "name_en": "Royal Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "royal-ribbon",
+        "generation": 4,
+        "games": [
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "リゾートエリアで高額のお金で手に入れた王家のリボン",
+        "requirements": "リゾートエリアのショップで100,000円で購入する"
+      },
+      {
+        "id": "royal-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "特殊",
+        "description": "リゾートエリアで高額のお金で手に入れた王家のリボン",
+        "requirements": "リゾートエリアのリボンシンジケートで購入する"
+      }
+    ]
+  },
+  {
+    "key": "gorgeous-royal",
+    "name_ja": "ゴージャスロイヤルリボン",
+    "name_en": "Gorgeous Royal Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "gorgeous-royal-ribbon",
+        "generation": 4,
+        "games": [
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "リゾートエリアで超高額のお金で手に入れた究極のリボン",
+        "requirements": "リゾートエリアのショップで999,999円で購入する"
+      },
+      {
+        "id": "gorgeous-royal-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "特殊",
+        "description": "リゾートエリアで超高額のお金で手に入れた究極のリボン",
+        "requirements": "リゾートエリアのリボンシンジケートで購入する"
+      }
+    ]
+  },
+  {
+    "key": "alert",
+    "name_ja": "しゃっきリボン",
+    "name_en": "Alert Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "alert-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "何かに気づいているポケモンに贈られる記念のリボン",
+        "requirements": "ゲーム内の特定のイベントで贈られる"
+      },
+      {
+        "id": "alert-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "特殊",
+        "description": "何かに気づいているポケモンに贈られる記念のリボン",
+        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+      }
+    ]
+  },
+  {
+    "key": "shock",
+    "name_ja": "どっきリボン",
+    "name_en": "Shock Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "shock-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "いつも驚いているポケモンに贈られる記念のリボン",
+        "requirements": "ゲーム内の特定のイベントで贈られる"
+      },
+      {
+        "id": "shock-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "特殊",
+        "description": "いつも驚いているポケモンに贈られる記念のリボン",
+        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+      }
+    ]
+  },
+  {
+    "key": "downcast",
+    "name_ja": "しょんぼリボン",
+    "name_en": "Downcast Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "downcast-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "いつも悲しそうなポケモンに贈られる記念のリボン",
+        "requirements": "ゲーム内の特定のイベントで贈られる"
+      },
+      {
+        "id": "downcast-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "特殊",
+        "description": "いつも悲しそうなポケモンに贈られる記念のリボン",
+        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+      }
+    ]
+  },
+  {
+    "key": "careless",
+    "name_ja": "うっかリボン",
+    "name_en": "Careless Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "careless-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "いつもそそっかしいポケモンに贈られる記念のリボン",
+        "requirements": "ゲーム内の特定のイベントで贈られる"
+      },
+      {
+        "id": "careless-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "特殊",
+        "description": "いつもそそっかしいポケモンに贈られる記念のリボン",
+        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+      }
+    ]
+  },
+  {
+    "key": "relax",
+    "name_ja": "すっきリボン",
+    "name_en": "Relax Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "relax-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "いつものんびりしているポケモンに贈られる記念のリボン",
+        "requirements": "ゲーム内の特定のイベントで贈られる"
+      },
+      {
+        "id": "relax-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "特殊",
+        "description": "いつものんびりしているポケモンに贈られる記念のリボン",
+        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+      }
+    ]
+  },
+  {
+    "key": "snooze",
+    "name_ja": "ぐっすリボン",
+    "name_en": "Snooze Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "snooze-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "いつも眠そうなポケモンに贈られる記念のリボン",
+        "requirements": "ゲーム内の特定のイベントで贈られる"
+      },
+      {
+        "id": "snooze-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "特殊",
+        "description": "いつも眠そうなポケモンに贈られる記念のリボン",
+        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+      }
+    ]
+  },
+  {
+    "key": "smile",
+    "name_ja": "にっこリボン",
+    "name_en": "Smile Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "smile-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "いつもニコニコしているポケモンに贈られる記念のリボン",
+        "requirements": "ゲーム内の特定のイベントで贈られる"
+      },
+      {
+        "id": "smile-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "特殊",
+        "description": "いつもニコニコしているポケモンに贈られる記念のリボン",
+        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+      }
+    ]
+  },
+  {
+    "key": "record",
+    "name_ja": "レコードリボン",
+    "name_en": "Record Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "record-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "特殊",
+        "description": "バトルタワーで記録を打ち立てた証",
+        "requirements": "バトルタワーで最高記録を更新する"
+      }
+    ]
+  },
+  {
+    "key": "legend",
+    "name_ja": "レジェンドリボン",
+    "name_en": "Legend Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "legend-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl"
+        ],
+        "category": "特殊",
+        "description": "ポケモン牧場に999匹送り込んだ証",
+        "requirements": "My Pokémon Ranch（ポケモン牧場）に999匹のポケモンを送る"
+      }
+    ]
+  },
+  {
+    "key": "battle-champion",
+    "name_ja": "バトルチャンプリボン",
+    "name_en": "Battle Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "battle-champion-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "イベント",
+        "description": "ポケモン公式大会の入賞記念に配布されたリボン",
+        "requirements": "ポケモン公式大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）"
+      }
+    ]
+  },
+  {
+    "key": "regional-champion",
+    "name_ja": "エリアチャンプリボン",
+    "name_en": "Regional Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "regional-champion-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "イベント",
+        "description": "ポケモン地方大会の入賞記念に配布されたリボン",
+        "requirements": "ポケモン地方大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）"
+      }
+    ]
+  },
+  {
+    "key": "national-champion",
+    "name_ja": "ナショナルチャンプリボン",
+    "name_en": "National Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "national-champion-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "イベント",
+        "description": "ポケモン全国大会の入賞記念に配布されたリボン",
+        "requirements": "ポケモン全国大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）"
+      }
+    ]
+  },
+  {
+    "key": "world-champion",
+    "name_ja": "ワールドチャンプリボン",
+    "name_en": "World Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 4,
+    "routes": [
+      {
+        "id": "world-champion-ribbon",
+        "generation": 4,
+        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver"
+        ],
+        "category": "イベント",
+        "description": "ポケモン世界大会の入賞記念に配布されたリボン",
+        "requirements": "ポケモン世界大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）"
+      }
+    ]
+  },
+  {
+    "key": "classic",
+    "name_ja": "クラシックリボン",
+    "name_en": "Classic Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 5,
+    "routes": [
+      {
+        "id": "classic-ribbon",
+        "generation": 5,
+        "games": [
+          "black",
+          "white",
+          "black2",
+          "white2"
+        ],
+        "category": "イベント",
+        "description": "イベントで配布された特別なポケモンに付いているリボン",
+        "requirements": "イベント配布ポケモンを受け取る"
+      }
+    ]
+  },
+  {
+    "key": "wishing",
+    "name_ja": "ウィッシュリボン",
+    "name_en": "Wishing Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 5,
+    "routes": [
+      {
+        "id": "wishing-ribbon",
+        "generation": 5,
+        "games": [
+          "black",
+          "white",
+          "black2",
+          "white2"
+        ],
+        "category": "イベント",
+        "description": "願いをかなえてくれる不思議なリボン",
+        "requirements": "イベント配布ポケモンを受け取る"
+      }
+    ]
+  },
+  {
+    "key": "premier",
+    "name_ja": "プレミアリボン",
+    "name_en": "Premier Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 5,
+    "routes": [
+      {
+        "id": "premier-ribbon",
+        "generation": 5,
+        "games": [
+          "black",
+          "white",
+          "black2",
+          "white2"
+        ],
+        "category": "イベント",
+        "description": "記念すべき特別なリボン",
+        "requirements": "イベント配布ポケモンを受け取る"
+      },
+      {
+        "id": "premier-ribbon-g7",
+        "generation": 7,
+        "games": [
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon"
+        ],
+        "category": "イベント",
+        "description": "記念すべき特別なリボン",
+        "requirements": "イベント配布ポケモンを受け取る"
+      }
+    ]
+  },
+  {
+    "key": "event",
+    "name_ja": "イベントリボン",
+    "name_en": "Event Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 5,
+    "routes": [
+      {
+        "id": "event-ribbon",
+        "generation": 5,
+        "games": [
+          "black",
+          "white",
+          "black2",
+          "white2"
+        ],
+        "category": "イベント",
+        "description": "イベントに参加した証として贈られるリボン",
+        "requirements": "イベント参加または配布ポケモンを受け取る"
+      }
+    ]
+  },
+  {
+    "key": "birthday",
+    "name_ja": "バースデーリボン",
+    "name_en": "Birthday Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 5,
+    "routes": [
+      {
+        "id": "birthday-ribbon",
+        "generation": 5,
+        "games": [
+          "black",
+          "white",
+          "black2",
+          "white2"
+        ],
+        "category": "イベント",
+        "description": "誕生日を祝って贈られる特別なリボン",
+        "requirements": "イベント配布ポケモンを受け取る"
+      }
+    ]
+  },
+  {
+    "key": "special",
+    "name_ja": "スペシャルリボン",
+    "name_en": "Special Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 5,
+    "routes": [
+      {
+        "id": "special-ribbon",
+        "generation": 5,
+        "games": [
+          "black",
+          "white",
+          "black2",
+          "white2"
+        ],
+        "category": "イベント",
+        "description": "特別な証として贈られるリボン",
+        "requirements": "イベント配布ポケモンを受け取る"
+      }
+    ]
+  },
+  {
+    "key": "souvenir",
+    "name_ja": "メモリアルリボン",
+    "name_en": "Souvenir Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 5,
+    "routes": [
+      {
+        "id": "souvenir-ribbon",
+        "generation": 5,
+        "games": [
+          "black",
+          "white",
+          "black2",
+          "white2"
+        ],
+        "category": "イベント",
+        "description": "旅の記念として贈られるリボン",
+        "requirements": "イベント配布ポケモンを受け取る"
+      }
+    ]
+  },
+  {
+    "key": "kalos-champion",
+    "name_ja": "カロスチャンプリボン",
+    "name_en": "Kalos Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "champion-kalos",
+        "generation": 6,
+        "games": [
+          "x",
+          "y"
+        ],
+        "category": "チャンピオン",
+        "description": "カロス地方のポケモンリーグを制覇した証",
+        "requirements": "殿堂入りメンバーに入っている"
+      }
+    ]
+  },
+  {
+    "key": "hoenn-champion",
+    "name_ja": "ホウエンチャンプリボン",
+    "name_en": "Hoenn Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "champion-hoenn-remake",
+        "generation": 6,
+        "games": [
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "チャンピオン",
+        "description": "ホウエン地方のポケモンリーグを制覇した証",
+        "requirements": "殿堂入りメンバーに入っている"
+      }
+    ]
+  },
+  {
+    "key": "coolness-master",
+    "name_ja": "かっこよさマスターリボン",
+    "name_en": "Coolness Master Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "coolness-ribbon",
+        "generation": 6,
+        "games": [
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かっこよさ部門のマスターランクで優勝した証",
+        "requirements": "ポケモンコンテスト・かっこよさ部門 マスターランクで優勝する"
+      },
+      {
+        "id": "coolness-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かっこよさ部門のマスターランクで優勝した証",
+        "requirements": "ヨスガシティのスーパーコンテストショー・かっこよさ部門のマスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "beauty-master",
+    "name_ja": "うつくしさマスターリボン",
+    "name_en": "Beauty Master Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "beauty-ribbon-oras",
+        "generation": 6,
+        "games": [
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・うつくしさ部門のマスターランクで優勝した証",
+        "requirements": "ポケモンコンテスト・うつくしさ部門 マスターランクで優勝する"
+      },
+      {
+        "id": "beauty-ribbon-oras-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・うつくしさ部門のマスターランクで優勝した証",
+        "requirements": "ヨスガシティのスーパーコンテストショー・うつくしさ部門のマスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cuteness-master",
+    "name_ja": "かわいさマスターリボン",
+    "name_en": "Cuteness Master Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "cuteness-ribbon",
+        "generation": 6,
+        "games": [
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かわいさ部門のマスターランクで優勝した証",
+        "requirements": "ポケモンコンテスト・かわいさ部門 マスターランクで優勝する"
+      },
+      {
+        "id": "cuteness-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かわいさ部門のマスターランクで優勝した証",
+        "requirements": "ヨスガシティのスーパーコンテストショー・かわいさ部門のマスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "cleverness-master",
+    "name_ja": "かしこさマスターリボン",
+    "name_en": "Cleverness Master Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "cleverness-ribbon",
+        "generation": 6,
+        "games": [
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かしこさ部門のマスターランクで優勝した証",
+        "requirements": "ポケモンコンテスト・かしこさ部門 マスターランクで優勝する"
+      },
+      {
+        "id": "cleverness-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・かしこさ部門のマスターランクで優勝した証",
+        "requirements": "ヨスガシティのスーパーコンテストショー・かしこさ部門のマスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "toughness-master",
+    "name_ja": "たくましさマスターリボン",
+    "name_en": "Toughness Master Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "toughness-ribbon",
+        "generation": 6,
+        "games": [
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・たくましさ部門のマスターランクで優勝した証",
+        "requirements": "ポケモンコンテスト・たくましさ部門 マスターランクで優勝する"
+      },
+      {
+        "id": "toughness-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "コンテスト",
+        "description": "コンテスト・たくましさ部門のマスターランクで優勝した証",
+        "requirements": "ヨスガシティのスーパーコンテストショー・たくましさ部門のマスターランクで優勝する"
+      }
+    ]
+  },
+  {
+    "key": "training",
+    "name_ja": "しゅぎょうリボン",
+    "name_en": "Training Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "training-ribbon",
+        "generation": 6,
+        "games": [
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "バトル施設",
+        "description": "スーパートレーニングを完全クリアした証",
+        "requirements": "同一個体でスーパートレーニングの全30トレーニングを「すごい記録」でクリアし、XYは自宅の母、ORASはムロタウンの男性に話しかける"
+      }
+    ]
+  },
+  {
+    "key": "skillful-battler",
+    "name_ja": "グレートバトルリボン",
+    "name_en": "Skillful Battler Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "skillful-battler-ribbon",
+        "generation": 6,
+        "games": [
+          "x",
+          "y"
+        ],
+        "category": "バトル施設",
+        "description": "高度なバトルで実力を示した証",
+        "requirements": "スカイバトルで所定の条件を達成する"
+      }
+    ]
+  },
+  {
+    "key": "expert-battler",
+    "name_ja": "マスターバトルリボン",
+    "name_en": "Expert Battler Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "expert-battler-ribbon",
+        "generation": 6,
+        "games": [
+          "x",
+          "y"
+        ],
+        "category": "バトル施設",
+        "description": "エキスパートとして認められたバトルの実力の証",
+        "requirements": "バトルシャトーで所定のランクに到達する"
+      }
+    ]
+  },
+  {
+    "key": "best-friends",
+    "name_ja": "なかよしリボン",
+    "name_en": "Best Friends Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "best-friends-ribbon-g6",
+        "generation": 6,
+        "games": [
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "思い出",
+        "description": "トレーナーと最高の友情を育んだ証",
+        "requirements": "友好度がMAXの状態でポケモンに話しかける"
+      },
+      {
+        "id": "best-friends-ribbon-g7",
+        "generation": 7,
+        "games": [
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon"
+        ],
+        "category": "思い出",
+        "description": "トレーナーと最高の友情を育んだ証",
+        "requirements": "友好度がMAXの状態でポケモンに話しかける"
+      },
+      {
+        "id": "best-friends-ribbon-g8",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "思い出",
+        "description": "トレーナーと最高の友情を育んだ証",
+        "requirements": "友好度がMAXの状態でポケモンに話しかける。BDSPではヨスガシティのポケモンだいすきクラブでなかよし度最大のポケモンを判定してもらう"
+      }
+    ]
+  },
+  {
+    "key": "contest-memory",
+    "name_ja": "おもいでコンテストリボン",
+    "name_en": "Contest Memory Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "contest-memory-ribbon",
+        "generation": 6,
+        "games": [
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "思い出",
+        "description": "過去作で取得したコンテスト系リボンの思い出をまとめたリボン",
+        "requirements": "Gen3/4のコンテスト系リボンを持つポケモンをポケムーバー/ポケモンバンク経由でGen6に転送すると変換付与される"
+      }
+    ]
+  },
+  {
+    "key": "battle-memory",
+    "name_ja": "おもいでバトルリボン",
+    "name_en": "Battle Memory Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "battle-memory-ribbon",
+        "generation": 6,
+        "games": [
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "思い出",
+        "description": "過去作で取得したバトル施設系リボンの思い出をまとめたリボン",
+        "requirements": "Gen3/4のバトル施設系リボンを持つポケモンをポケムーバー/ポケモンバンク経由でGen6に転送すると変換付与される"
+      }
+    ]
+  },
+  {
+    "key": "contest-star",
+    "name_ja": "コンテストスターリボン",
+    "name_en": "Contest Star Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 6,
+    "routes": [
+      {
+        "id": "contest-star-ribbon",
+        "generation": 6,
+        "games": [
+          "omegaruby",
+          "alphasapphire"
+        ],
+        "category": "コンテスト",
+        "description": "コンテストライブ！の5部門すべてでマスターランク優勝した証",
+        "requirements": "コンテストライブ！の5部門すべてでマスターランク優勝する"
+      },
+      {
+        "id": "contest-star-ribbon-bdsp",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテストショーの5部門すべてでマスターランク優勝した証",
+        "requirements": "スーパーコンテストショーの5部門すべてでマスターランク優勝する"
+      }
+    ]
+  },
+  {
+    "key": "alola-champion",
+    "name_ja": "アローラチャンプリボン",
+    "name_en": "Alola Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 7,
+    "routes": [
+      {
+        "id": "champion-alola",
+        "generation": 7,
+        "games": [
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon"
+        ],
+        "category": "チャンピオン",
+        "description": "アローラ地方のポケモンリーグを制覇した証",
+        "requirements": "殿堂入りメンバーに入っている"
+      }
+    ]
+  },
+  {
+    "key": "battle-tree-great",
+    "name_ja": "グレートツリーリボン",
+    "name_en": "Battle Tree Great Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 7,
+    "routes": [
+      {
+        "id": "battle-tree-great-ribbon",
+        "generation": 7,
+        "games": [
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon"
+        ],
+        "category": "バトル施設",
+        "description": "バトルツリー（通常）を制覇した証",
+        "requirements": "バトルツリー（通常）を制覇する",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "battle-tree-master",
+    "name_ja": "マスターツリーリボン",
+    "name_en": "Battle Tree Master Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 7,
+    "routes": [
+      {
+        "id": "battle-tree-master-ribbon",
+        "generation": 7,
+        "games": [
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon"
+        ],
+        "category": "バトル施設",
+        "description": "スーパーバトルツリーを制覇した証",
+        "requirements": "スーパーバトルツリーを制覇する",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "battle-royal-master",
+    "name_ja": "ロイヤルマスターリボン",
+    "name_en": "Battle Royal Master Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 7,
+    "routes": [
+      {
+        "id": "battle-royal-ribbon",
+        "generation": 7,
+        "games": [
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon"
+        ],
+        "category": "バトル施設",
+        "description": "バトルロイヤルのマスターランクを制覇した証",
+        "requirements": "バトルロイヤルドームでマスターランクを制覇する",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "galar-champion",
+    "name_ja": "ガラルチャンプリボン",
+    "name_en": "Galar Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "champion-galar",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield"
+        ],
+        "category": "チャンピオン",
+        "description": "ガラル地方のポケモンリーグを制覇した証",
+        "requirements": "殿堂入りメンバーに入っている"
+      }
+    ]
+  },
+  {
+    "key": "twinkling-star",
+    "name_ja": "トゥインクルスターリボン",
+    "name_en": "Twinkling Star Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "twinkling-star-ribbon",
+        "generation": 8,
+        "games": [
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "コンテスト",
+        "description": "スーパーコンテストショーのマスターランクでベストパフォーマーに輝いた証",
+        "requirements": "スーパーコンテストショー マスターランクでベストパフォーマーになる（5部門のマスターランク制覇後に挑戦可能）"
+      }
+    ]
+  },
+  {
+    "key": "tower-master",
+    "name_ja": "マスタータワーリボン",
+    "name_en": "Tower Master Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "tower-master-ribbon",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "brilliant_diamond",
+          "shining_pearl"
+        ],
+        "category": "バトル施設",
+        "description": "バトルタワーでマスターランクに到達した証",
+        "requirements": "バトルタワーでマスターランクに到達する（BDSPのバトルタワー制覇でも入手可能）",
+        "eligibility": {
+          "type": "level_max",
+          "maxLevel": 50
+        }
+      }
+    ]
+  },
+  {
+    "key": "master-rank",
+    "name_ja": "マスターランクリボン",
+    "name_en": "Master Rank Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "master-rank-ribbon",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "バトル施設",
+        "description": "バトルスタジアムのランクバトルでマスターランクに到達した証",
+        "requirements": "バトルスタジアムのランクバトルでマスターランクに到達する（SVのランクバトル マスターボール級到達でも入手可能）"
+      }
+    ]
+  },
+  {
+    "key": "hisui",
+    "name_ja": "ヒスイリボン",
+    "name_en": "Hisui Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "hisui-ribbon",
+        "generation": 8,
+        "games": [
+          "legends_arceus"
+        ],
+        "category": "思い出",
+        "description": "ヒスイ地方で記念写真を撮った思い出の証",
+        "requirements": "コトブキムラの写真屋でポケモンと記念写真を撮る"
+      }
+    ]
+  },
+  {
+    "key": "once-in-a-lifetime",
+    "name_ja": "せんざいいちぐうリボン",
+    "name_en": "Once-in-a-Lifetime Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 8,
+    "notes": "LEGENDS アルセウス由来。入手手段に実装上の疑義があるため取得ルートなし（ribbon-tracker 側では SKIP_CANONICAL_RIBBON_NAMES で管理）",
+    "routes": []
+  },
+  {
+    "key": "paldea-champion",
+    "name_ja": "パルデアチャンプリボン",
+    "name_en": "Paldea Champion Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 9,
+    "routes": [
+      {
+        "id": "champion-paldea",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "チャンピオン",
+        "description": "パルデア地方で最強のトレーナーとして認められた証",
+        "requirements": "四天王とチャンピオンを倒して殿堂入りする"
+      }
+    ]
+  },
+  {
+    "key": "partner",
+    "name_ja": "パートナーリボン",
+    "name_en": "Partner Ribbon",
+    "kind": "ribbon",
+    "introduced_gen": 9,
+    "routes": [
+      {
+        "id": "partner-ribbon-sv",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "思い出",
+        "description": "特別な絆で結ばれたポケモンに贈られるリボン",
+        "requirements": "藍の円盤DLC — ブルーベリー学園の特別講師とポケモンを交換する。ニャオハ（リコ）など一部の配布ポケモンにも付いている"
+      }
+    ]
+  },
+  {
+    "key": "lunchtime-mark",
+    "name_ja": "しょうごのあかし",
+    "name_en": "Lunchtime Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "lunchtime-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "昼（正午ごろ）に出会ったポケモンに付くあかし",
+        "requirements": "昼にフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "sleepy-time-mark",
+    "name_ja": "しょうしのあかし",
+    "name_en": "Sleepy-Time Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "sleepy-time-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "深夜に出会ったポケモンに付くあかし",
+        "requirements": "深夜にフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "dusk-mark",
+    "name_ja": "たそがれのあかし",
+    "name_en": "Dusk Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "dusk-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "夕方に出会ったポケモンに付くあかし",
+        "requirements": "夕方にフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "dawn-mark",
+    "name_ja": "あかつきのあかし",
+    "name_en": "Dawn Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "dawn-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "明け方に出会ったポケモンに付くあかし",
+        "requirements": "明け方にフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "cloudy-mark",
+    "name_ja": "どんてんのあかし",
+    "name_en": "Cloudy Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "cloudy-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "くもりの日に出会ったポケモンに付くあかし",
+        "requirements": "くもりの天気のときにフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "rainy-mark",
+    "name_ja": "あめふりのあかし",
+    "name_en": "Rainy Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "rainy-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "雨の日に出会ったポケモンに付くあかし",
+        "requirements": "雨の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "stormy-mark",
+    "name_ja": "いかづちのあかし",
+    "name_en": "Stormy Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "stormy-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "雷雨の日に出会ったポケモンに付くあかし",
+        "requirements": "雷雨の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "snowy-mark",
+    "name_ja": "こうせつのあかし",
+    "name_en": "Snowy Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "snowy-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "雪の日に出会ったポケモンに付くあかし",
+        "requirements": "雪の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "blizzard-mark",
+    "name_ja": "ごうせつのあかし",
+    "name_en": "Blizzard Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "blizzard-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "吹雪の日に出会ったポケモンに付くあかし",
+        "requirements": "吹雪の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "dry-mark",
+    "name_ja": "かんそうのあかし",
+    "name_en": "Dry Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "dry-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "日照りの日に出会ったポケモンに付くあかし",
+        "requirements": "日照りの天気のときにフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "sandstorm-mark",
+    "name_ja": "さじんのあかし",
+    "name_en": "Sandstorm Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "sandstorm-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "砂嵐の日に出会ったポケモンに付くあかし",
+        "requirements": "砂嵐の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "misty-mark",
+    "name_ja": "のうむのあかし",
+    "name_en": "Misty Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "misty-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "霧の日に出会ったポケモンに付くあかし",
+        "requirements": "霧の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "destiny-mark",
+    "name_ja": "うんめいのあかし",
+    "name_en": "Destiny Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "destiny-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "出会いの運命を感じさせる非常にレアなあかし",
+        "requirements": "フィールドで出会ったポケモンに非常に低い確率で付く"
+      }
+    ]
+  },
+  {
+    "key": "fishing-mark",
+    "name_ja": "つりあげられたあかし",
+    "name_en": "Fishing Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "fishing-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "釣り上げられたポケモンに付くあかし",
+        "requirements": "釣りで捕まえたポケモンをランダムで入手する"
+      }
+    ]
+  },
+  {
+    "key": "curry-mark",
+    "name_ja": "カレーのあかし",
+    "name_en": "Curry Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "curry-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield"
+        ],
+        "category": "あかし",
+        "description": "キャンプでカレーを一緒に食べたポケモンに付くあかし",
+        "requirements": "キャンプでカレーを作った後、一緒に食べたポケモン等に低確率で付く"
+      }
+    ]
+  },
+  {
+    "key": "rare-mark",
+    "name_ja": "みたことないあかし",
+    "name_en": "Rare Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "rare-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "めったに会えない珍しいポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンに低い確率で付く"
+      }
+    ]
+  },
+  {
+    "key": "uncommon-mark",
+    "name_ja": "ときどきみるあかし",
+    "name_en": "Uncommon Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "uncommon-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "ときどきしか会えないポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "rowdy-mark",
+    "name_ja": "わんぱくなあかし",
+    "name_en": "Rowdy Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "rowdy-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "元気いっぱいで騒がしいポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "absent-minded-mark",
+    "name_ja": "のうてんきなあかし",
+    "name_en": "Absent-Minded Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "absent-minded-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "のうてんきなポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "jittery-mark",
+    "name_ja": "きんちょうのあかし",
+    "name_en": "Jittery Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "jittery-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "緊張しているポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "excited-mark",
+    "name_ja": "きたいのあかし",
+    "name_en": "Excited Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "excited-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "期待に胸をふくらませたポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "charismatic-mark",
+    "name_ja": "カリスマのあかし",
+    "name_en": "Charismatic Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "charismatic-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "カリスマ的な魅力を持つポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "calmness-mark",
+    "name_ja": "れいせいのあかし",
+    "name_en": "Calmness Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "calmness-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "冷静なポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "intense-mark",
+    "name_ja": "じょうねつのあかし",
+    "name_en": "Intense Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "intense-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "情熱的なポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "zoned-out-mark",
+    "name_ja": "ゆだんのあかし",
+    "name_en": "Zoned-Out Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "zoned-out-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "油断しているポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "joyful-mark",
+    "name_ja": "たこうのあかし",
+    "name_en": "Joyful Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "joyful-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "幸せいっぱいのポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "angry-mark",
+    "name_ja": "ふんぬのあかし",
+    "name_en": "Angry Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "angry-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "怒っているポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "smiley-mark",
+    "name_ja": "びしょうのあかし",
+    "name_en": "Smiley Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "smiley-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "微笑んでいるポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "teary-mark",
+    "name_ja": "ひそうのあかし",
+    "name_en": "Teary Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "teary-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "悲しげなポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "upbeat-mark",
+    "name_ja": "かいちょうのあかし",
+    "name_en": "Upbeat Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "upbeat-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "快調なポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "peeved-mark",
+    "name_ja": "げきはつのあかし",
+    "name_en": "Peeved Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "peeved-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "いらだちを爆発させそうなポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "intellectual-mark",
+    "name_ja": "りせいのあかし",
+    "name_en": "Intellectual Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "intellectual-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "理性的なポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "ferocious-mark",
+    "name_ja": "ほんのうのあかし",
+    "name_en": "Ferocious Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "ferocious-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "本能のままに生きるポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "crafty-mark",
+    "name_ja": "こうかつのあかし",
+    "name_en": "Crafty Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "crafty-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "ずる賢いポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "scowling-mark",
+    "name_ja": "こわもてのあかし",
+    "name_en": "Scowling Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "scowling-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "強面のポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "kindly-mark",
+    "name_ja": "やさがたのあかし",
+    "name_en": "Kindly Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "kindly-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "優しい性格のポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "flustered-mark",
+    "name_ja": "どうようのあかし",
+    "name_en": "Flustered Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "flustered-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "動揺しているポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "pumped-up-mark",
+    "name_ja": "こうようのあかし",
+    "name_en": "Pumped-Up Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "pumped-up-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "気分が高揚しているポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "zero-energy-mark",
+    "name_ja": "けんたいのあかし",
+    "name_en": "Zero Energy Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "zero-energy-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "けだるげなポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "prideful-mark",
+    "name_ja": "じしんのあかし",
+    "name_en": "Prideful Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "prideful-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "自信に満ちたポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "unsure-mark",
+    "name_ja": "ふしんのあかし",
+    "name_en": "Unsure Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "unsure-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "自信なさそうなポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "humble-mark",
+    "name_ja": "ぼくとつのあかし",
+    "name_en": "Humble Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "humble-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "朴訥なポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "thorny-mark",
+    "name_ja": "ふじゅんのあかし",
+    "name_en": "Thorny Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "thorny-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "心に不純なところがあるポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "vigor-mark",
+    "name_ja": "げんきのあかし",
+    "name_en": "Vigor Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "vigor-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "活力あふれるポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "slump-mark",
+    "name_ja": "ふちょうのあかし",
+    "name_en": "Slump Mark",
+    "kind": "mark",
+    "introduced_gen": 8,
+    "routes": [
+      {
+        "id": "slump-mark",
+        "generation": 8,
+        "games": [
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "不調気味のポケモンに付くあかし",
+        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+      }
+    ]
+  },
+  {
+    "key": "jumbo-mark",
+    "name_ja": "でっかいあかし",
+    "name_en": "Jumbo Mark",
+    "kind": "mark",
+    "introduced_gen": 9,
+    "routes": [
+      {
+        "id": "jumbo-mark",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "特別に大きいポケモンに付くあかし",
+        "requirements": "テーブルシティ西の「やまガール」に、サイズ値255（最大）の個体を見せる"
+      }
+    ]
+  },
+  {
+    "key": "mini-mark",
+    "name_ja": "ちっちゃいあかし",
+    "name_en": "Mini Mark",
+    "kind": "mark",
+    "introduced_gen": 9,
+    "routes": [
+      {
+        "id": "mini-mark",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "特別に小さいポケモンに付くあかし",
+        "requirements": "テーブルシティ西の「やまガール」に、サイズ値0（最小）の個体を見せる"
+      }
+    ]
+  },
+  {
+    "key": "partner-mark",
+    "name_ja": "あいぼうのあかし",
+    "name_en": "Partner Mark",
+    "kind": "mark",
+    "introduced_gen": 9,
+    "routes": [
+      {
+        "id": "companion-mark",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "長い時間を共に歩んだポケモンに付くあかし",
+        "requirements": "なかよし度200以上の手持ちポケモンに対し、プレイヤーが10000歩歩くたびに判定。ボールの外に出す必要はなし"
+      }
+    ]
+  },
+  {
+    "key": "itemfinder-mark",
+    "name_ja": "ものひろいのあかし",
+    "name_en": "Itemfinder Mark",
+    "kind": "mark",
+    "introduced_gen": 9,
+    "routes": [
+      {
+        "id": "collector-mark",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "レッツゴーで道具を拾ったポケモンに付くあかし",
+        "requirements": "レッツゴーで道具を拾う（Ver.2.0.1以降）"
+      }
+    ]
+  },
+  {
+    "key": "gourmand-mark",
+    "name_ja": "グルメなあかし",
+    "name_en": "Gourmand Mark",
+    "kind": "mark",
+    "introduced_gen": 9,
+    "routes": [
+      {
+        "id": "gourmand-mark",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "グルメなポケモンに付くあかし",
+        "requirements": "サンドウィッチを作るか買った後、パーティの各ポケモンごとにランダムで判定を受ける"
+      }
+    ]
+  },
+  {
+    "key": "mightiest-mark",
+    "name_ja": "さいきょうのあかし",
+    "name_en": "Mightiest Mark",
+    "kind": "mark",
+    "introduced_gen": 9,
+    "routes": [
+      {
+        "id": "mightiest-mark",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "最強のレイドバトルで捕まえたポケモンに付くあかし",
+        "requirements": "最強のレイドバトルで捕まえる"
+      }
+    ]
+  },
+  {
+    "key": "titan-mark",
+    "name_ja": "ヌシのあかし",
+    "name_en": "Titan Mark",
+    "kind": "mark",
+    "introduced_gen": 9,
+    "routes": [
+      {
+        "id": "titan-mark",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "あかし",
+        "description": "ヌシポケモンとして出会ったポケモンに付くあかし",
+        "requirements": "ヌシポケモンを倒した後に捕まえる"
+      }
+    ]
+  },
+  {
+    "key": "alpha-mark",
+    "name_ja": "オヤブンのあかし",
+    "name_en": "Alpha Mark",
+    "kind": "mark",
+    "introduced_gen": 9,
+    "routes": [
+      {
+        "id": "alpha-mark",
+        "generation": 9,
+        "games": [
+          "legends_arceus"
+        ],
+        "category": "あかし",
+        "description": "LEGENDS アルセウスでオヤブンとして生きていたポケモンに付くあかし",
+        "requirements": "LEGENDS アルセウスでオヤブンポケモンを捕まえ、HOME経由でSVに送ると表示される"
+      }
+    ]
+  }
+]

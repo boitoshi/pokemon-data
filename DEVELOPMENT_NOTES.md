@@ -22,7 +22,7 @@ pokemon-data/
 │   └── all.json              # 特性 310件（name_en 補完済み）
 ├── mappings/
 │   ├── pokemon_names.json    # ポケモン名 英日マッピング 1025件（generate_pokemon_names.py で生成）
-│   ├── ribbons.json          # リボン・あかし 英日マッピング（ribbon 49件 + mark 53件）
+│   ├── ribbons.json          # リボン・あかし 英日マッピング（ribbon 49件 + mark 53件）。ribbons/catalog.json のサブセット
 │   ├── distribution-methods.json
 │   ├── regions.json
 │   ├── met-locations.json
@@ -30,6 +30,8 @@ pokemon-data/
 │   ├── types.json            # 全18タイプ 英日
 │   ├── natures.json          # 全25せいかく（上昇/下降ステータス付き）
 │   └── balls.json            # ボール 28種
+├── ribbons/
+│   └── catalog.json          # リボン・あかし完全カタログ（取得ルート付き）の正本
 └── scripts/
     ├── fetch-pokemon.py           # PokeAPIからマスターデータ取得
     ├── fetch-forms.py             # special-forms.jsonからフォームデータ取得
@@ -122,6 +124,20 @@ pokemon-data/
 - Gen1〜Gen7 3DSタイトル: 直接HOME接続なし（Pokémon Bank経由のみ）→ `send/receive: false`
 - レジェンズアルセウス: HOMEへ出せるが、HOMEから受け取れない → `send: true, receive: false`
 - Let's Go系以降のSwitchタイトル: 基本的に `send/receive: true`
+
+---
+
+## ribbons/catalog.json（リボン・あかしカタログ正本）
+
+リボン・あかしの完全カタログ。1要素 = 1リボン（フラグとしての正体）で、`routes` に取得ルート
+（ribbon-tracker の1エントリに対応）を持つ。要素キーは `key / name_ja / name_en / kind
+("ribbon"|"mark") / introduced_gen / notes(任意) / routes`。
+
+- **正本はこのカタログ**。`mappings/ribbons.json` は EN→JA 対訳（配布データ用）で catalog のサブセット
+- `routes[].games` は `games/titles.json` の id のみ使用（tracker 合成id `oras`/`usum`/`lets_go` や
+  `firered_switch`/`leafgreen_switch` は消費側の生成時に変換・復元する）
+- 消費者: ribbon-tracker `scripts/generate-ribbons.mjs`（ribbons-gen3..9.ts / marks.ts を全自動生成）
+- 検証: `npm run validate:ribbons`（key/route.id ユニーク・games 実在・mappings/ribbons.json との整合）
 
 ---
 

@@ -22,7 +22,7 @@ pokemon-data/
 │   └── all.json              # 特性 310件（name_en 補完済み）
 ├── mappings/
 │   ├── pokemon_names.json    # ポケモン名 英日マッピング 1025件（generate_pokemon_names.py で生成）
-│   ├── ribbons.json          # リボン・あかし 英日マッピング（ribbon 53件 + mark 55件）
+│   ├── ribbons.json          # リボン・あかし 英日マッピング（ribbon 49件 + mark 53件）
 │   ├── distribution-methods.json
 │   ├── regions.json
 │   ├── met-locations.json
@@ -235,5 +235,5 @@ L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・�
 |---|---|
 | フォームデータ正本（ソース） | `../pokebros-tools/tools/summary-pages/src/data/special-forms.json` |
 | 配信ポケモンデータ正本 | `distributions/*.json`（この repo。2026-07 に app から移管。旧 `../pokemon-distribution-app/public/pokemon.json` は P4 で build 成果物へ置換予定） |
-| ゲームタイトル定義（参照元） | `../pokemon-ribbon-tracker/src/lib/data/games.ts` |
+| ゲームタイトル定義（参照先） | `../pokemon-ribbon-tracker/src/lib/data/games.ts`（`games/titles.json` + `groups.json` から自動生成。games.ts 冒頭に「直接編集禁止」の注記あり） |
 | 旧ポケモン名データ（廃止予定） | `../pokebros-content-hub/reference-data/pokemon-names.json`（削除済み） |

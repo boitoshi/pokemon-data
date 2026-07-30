@@ -1,6 +1,6 @@
 # pokemon-data 開発ノート
 
-> 最終更新: 2026-03-21（games.json正本化・zmove/bondフォームデータ追加）
+> 最終更新: 2026-07-29（ribbons/catalog.json 新設・配信L2直接出力化・国際配信取り込み）
 
 ## このリポジトリの役割
 
@@ -8,18 +8,18 @@
 
 ---
 
-## 現在の構成（2026-03-19時点）
+## 現在の構成（2026-07-29時点）
 
 ```
 pokemon-data/
 ├── pokemon/
-│   └── all.json              # ポケモンマスターデータ 1025件 + フォームデータ 202件
+│   └── all.json              # ポケモンマスターデータ 1025件 + フォームデータ 199件
 ├── games/
 │   ├── titles.json           # ゲームタイトル 43件（Gen1〜Gen10/ZA + ぽこ あ ポケモン）。groupフィールド付き
 │   ├── groups.json           # グループ定義 26件（"SwSh", "SV"等のペア単位キー）
 │   └── generations.json      # 世代定義 10件
 ├── abilities/
-│   └── all.json              # 特性 310件（name_en 補完済み）
+│   └── all.json              # 特性 316件（name_en 補完済み）
 ├── mappings/
 │   ├── pokemon_names.json    # ポケモン名 英日マッピング 1025件（generate_pokemon_names.py で生成）
 │   ├── ribbons.json          # リボン・あかし 英日マッピング（ribbon 49件 + mark 53件）。ribbons/catalog.json のサブセット
@@ -29,15 +29,38 @@ pokemon-data/
 │   ├── forms.json
 │   ├── types.json            # 全18タイプ 英日
 │   ├── natures.json          # 全25せいかく（上昇/下降ステータス付き）
-│   └── balls.json            # ボール 28種
+│   └── balls.json            # ボール 29種
 ├── ribbons/
 │   └── catalog.json          # リボン・あかし完全カタログ（取得ルート付き）の正本
+├── distributions/
+│   ├── gen5.json〜gen9.json   # 配信ポケモン L2 正本（世代別）
+│   ├── champions.json        # 大会・チャンピオン系配信の L2 正本
+│   └── schema.json           # distributions/*.json のスキーマ定義
+├── build/
+│   ├── pokemon.json          # L3 成果物（app-runtime schema・両アプリ共通・コミット方式）
+│   └── meta.json             # build/pokemon.json のサイドカー（件数等のメタ情報）
+├── schemas/
+│   └── data-contracts.json   # データ契約定義
+├── poco-a-pokemon/
+│   └── events.json           # 「ぽこ あ ポケモン」イベントデータ
 └── scripts/
-    ├── fetch-pokemon.py           # PokeAPIからマスターデータ取得
-    ├── fetch-forms.py             # special-forms.jsonからフォームデータ取得
-    ├── fetch-form-names-en.py     # PokeAPIからフォーム英語名を取得
-    ├── fetch-ability-names.py     # PokeAPIからabilities/all.jsonのname_en補完
-    └── generate_pokemon_names.py  # all.json → mappings/pokemon_names.json 生成
+    ├── fetch-pokemon.py            # PokeAPIからマスターデータ取得
+    ├── fetch-forms.py              # special-forms.jsonからフォームデータ取得
+    ├── fetch-form-names-en.py      # PokeAPIからフォーム英語名を取得
+    ├── fetch-ability-names.py      # PokeAPIからabilities/all.jsonのname_en補完
+    ├── generate_pokemon_names.py   # all.json → mappings/pokemon_names.json 生成
+    ├── generate-games-mapping.py   # titles.json → mappings/games.json 生成
+    ├── build-distributions.mjs     # L2正本＋L1マスターを join し build/pokemon.json を生成
+    ├── test-build-compat.mjs       # build/pokemon.json と distribution-app 側成果物の互換性検証
+    ├── validate-data.mjs           # マスターデータの検証
+    ├── validate-distributions.mjs  # 配信正本（distributions/*.json）の検証
+    ├── validate-ribbons.mjs        # リボン・あかしデータの検証
+    ├── scrape-to-l2.mjs            # distribution-scraper の出力を L2 正本へ取り込み（provenance-aware upsert）
+    ├── anchor.mjs                  # L2 取り込み時のアンカー処理
+    ├── verify-anchor.mjs           # アンカーの検証
+    ├── migrate-gen5-7.mjs          # 旧データからのGen5〜7移行（一度きりの seed）
+    ├── migrate-from-app.mjs        # distribution-app からの移行（一度きりの seed）
+    └── migrate-champions.mjs       # champions.json の移行（一度きりの seed）
 ```
 
 ---
@@ -75,7 +98,7 @@ pokemon-data/
 | category | 件数 | 内容 |
 |---|---|---|
 | mega | 89 | ZA新規25件含む |
-| regional | 58 | アローラ・ガラル・ヒスイ・パルデア |
+| regional | 55 | アローラ・ガラル・ヒスイ・パルデア |
 | gigantamax | 33 | gmax_moveフィールド付き |
 | primal | 2 | グラードン・カイオーガ |
 | zmove | 19 | z_crystal・z_moveフィールド付き（SM/USUM専用Zワザ持ち） |
@@ -164,7 +187,7 @@ uv run scripts/generate-games-mapping.py
 配信ポケモンデータの正本をこの repo に集約（旧: app→tools→app の循環同期）。3レイヤー構成:
 
 ```
-L2 正本      distributions/gen5..gen9.json + champions.json（688件）
+L2 正本      distributions/gen5..gen9.json + champions.json（724件。内訳は build/meta.json の counts が正）
              └ distributions/schema.json 準拠。マスター(pokemon/games/mappings)を参照
 L1 マスター  pokemon/all.json, games/titles.json, mappings/* ほか
 L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・コミット方式）
@@ -182,7 +205,7 @@ L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・�
 
 - 成果物は `build/*` を `.gitignore` 除外（`!build/pokemon.json` `!build/meta.json`）＝**コミット方式**。
 - 既存 CI が兄弟 repo を checkout しない前提のため、consumer は生成物をそのまま参照できる。
-- P4 で両アプリを `build/pokemon.json` に向け替え（distribution-app の public/pokemon.json を生成物化・summary-pages の3ファイル統合・旧 sync 2本撤去・GAS 切り離し）。
+- P4（両アプリを `build/pokemon.json` に向け替え。distribution-app の public/pokemon.json を生成物化・summary-pages の3ファイル統合・旧 sync 2本撤去・GAS 切り離し）は完了済み（2026-07）。現行フローは pokemon-data → 両アプリ pull only（distribution-app は `scripts/sync-from-pokemon-data.mjs`、summary-pages は `sync-from-pokemon-data.mjs` → `distributions.json`）。
 
 ### 移行スクリプト（一度きりの seed・逆写像の対）
 
@@ -197,20 +220,20 @@ L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・�
 
 | # | タスク | 詳細 |
 |---|---|---|
-| 9 | `mappings/games.json` の正本化 | `generate-games-mapping.py` を実装。`titles.json` から自動生成（61エントリ）。distribution-scraper の `games.json` をシンボリックリンクに移行 |
-| 10 | フォームデータに zmove/bond 追加 | `fetch-forms.py` を更新。zmove 19件（z_crystal・z_moveフィールド付き）+ bond 1件（サトシゲッコウガ）を収録。total 202件 |
+| 9 | `mappings/games.json` の正本化 | `generate-games-mapping.py` を実装。`titles.json` から自動生成（games 65エントリ + full_names 42エントリ）。distribution-scraper の `games.json` をシンボリックリンクに移行 |
+| 10 | フォームデータに zmove/bond 追加 | `fetch-forms.py` を更新。zmove 19件（z_crystal・z_moveフィールド付き）+ bond 1件（サトシゲッコウガ）を収録。total 199件 |
 
 ### 2026-03-19
 
 | # | タスク | 詳細 |
 |---|---|---|
-| 1 | `abilities/all.json` の `name_en` 補完 | `fetch-ability-names.py` で310件全て補完 |
+| 1 | `abilities/all.json` の `name_en` 補完 | `fetch-ability-names.py` で310件全て補完（当時310件／現在316件） |
 | 2 | `game-data/` ディレクトリの削除 | `ability_list.json` を `abilities/all.json` に移行し削除完了 |
 | 3 | `regional` フォームの `form_name_ja` 修正 | "コラッタ（アローラのすがた）" 形式で統一 |
-| 4 | `form_name_en` の追加 | `fetch-form-names-en.py` で178件完全カバー |
+| 4 | `form_name_en` の追加 | `fetch-form-names-en.py` で178件完全カバー（当時178件／現在199件） |
 | 5 | form_id重複問題の解決 | ケンタロス・ウーラオスのform_id修正 |
 | 6 | `games/titles.json` の補完 | ZA発売日・DLC・HOME連携・groupフィールド追加（全43タイトル） |
-| 7 | `mappings/` の distribution-scraper への正本化 | symlink移行完了（10ファイル）、build_mappings.pyにsymlink guard追加 |
+| 7 | `mappings/` の distribution-scraper への正本化 | symlink移行完了（11ファイル）、build_mappings.pyにsymlink guard追加 |
 | 8 | `mappings/pokemon_names.json` 生成 | `generate_pokemon_names.py` 実装、all.json → 1025件の英日lookup生成 |
 
 ---
@@ -220,8 +243,7 @@ L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・�
 ### 優先度中
 
 #### 1. `ribbon-tracker` の ZA（legends_za）対応
-- 現状: `distribution-scraper` の EXCLUDED_IDS に登録されており取得スキップ中
-- **ZAリボン・あかし内容は2026年春のHOME連携まで確認不可**
+- **ZAのリボン・あかし実データ未確認（HOME連携待ち）**
 - HOME連携後に確認してから ribbon-tracker と distribution-scraper を更新する
 
 ### 優先度低（YAGNI: 複数リポジトリから需要が出たら対応）
@@ -250,6 +272,27 @@ L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・�
 | データ | 場所 |
 |---|---|
 | フォームデータ正本（ソース） | `../pokebros-tools/tools/summary-pages/src/data/special-forms.json` |
-| 配信ポケモンデータ正本 | `distributions/*.json`（この repo。2026-07 に app から移管。旧 `../pokemon-distribution-app/public/pokemon.json` は P4 で build 成果物へ置換予定） |
+| 配信ポケモンデータ正本 | `distributions/*.json`（この repo。2026-07 に app から移管。P4完了。`../pokemon-distribution-app/public/pokemon.json` は `build/pokemon.json` のコピー（`sync-from-pokemon-data.mjs` で同期）） |
 | ゲームタイトル定義（参照先） | `../pokemon-ribbon-tracker/src/lib/data/games.ts`（`games/titles.json` + `groups.json` から自動生成。games.ts 冒頭に「直接編集禁止」の注記あり） |
 | 旧ポケモン名データ（廃止予定） | `../pokebros-content-hub/reference-data/pokemon-names.json`（削除済み） |
+
+---
+
+## 大会情報の編集手順
+
+`distributions/*.json` の `event`（`kind`/`year`/`schedule`/`location`/`winner`/`winnerX`。`schema.json` に定義済み）を直接編集する。スプレッドシート＋GAS は2026-07-29に引退済み。現在 `champions.json` の21件が `event` 入力済み。
+
+## L2直接取り込みパイプライン
+
+distribution-scraper の `--json` 出力を `scripts/scrape-to-l2.mjs`（provenance-aware upsert）で取り込み、`anchor.mjs` / `verify-anchor.mjs` で検証する。詳細な挙動はコードが正本。
+
+## CI
+
+`.github/workflows/ci.yml` は `validate` → `build` → `git diff --exit-code build/`（build 鮮度チェック）の順で実行する。**正本を直したら `npm run build` して `build/` もコミットする義務がある**。
+
+## 下流の消費者
+
+- pokemon-ribbon-tracker（`scripts/generate-ribbons.mjs` 等。https://www.pokebros.net/ribbon-tracker/ で公開中）
+- pokemon-distribution-app（`sync-from-pokemon-data.mjs`）
+- pokebros-tools summary-pages（`sync-from-pokemon-data.mjs`）
+- content-hub `scripts/generate_distribution_html.py`（配信個別記事HTML）

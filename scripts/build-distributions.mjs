@@ -90,6 +90,7 @@ const OUTPUT_KEY_ORDER = [
   "nature",
   "heldItem",
   "moves",
+  "specialMoves",
   "ribbons",
   "password",
   "notes",
@@ -264,17 +265,9 @@ function checkKnownKeys(entry, managementId) {
   }
 }
 
-// specialMoves は正本に存在しない前提（app"あり"19件は文書化deviationとしてドロップ済み）。
-// もし正本entryにspecialMovesが実在したら、握りつぶさず気づけるよう集計する。
-const specialMovesFound = [];
-
 function convertEntry(entry, generation, isChampions) {
   const managementId = entry.id;
   checkKnownKeys(entry, managementId);
-
-  if (Array.isArray(entry.specialMoves) && entry.specialMoves.length > 0) {
-    specialMovesFound.push({ id: managementId, value: entry.specialMoves });
-  }
 
   const out = {};
 
@@ -310,6 +303,9 @@ function convertEntry(entry, generation, isChampions) {
   if (entry.heldItem !== undefined) out.heldItem = entry.heldItem;
 
   if (Array.isArray(entry.moves) && entry.moves.length > 0) out.moves = entry.moves;
+  // specialMoves = 通常プレイでは覚えられない特別な技（技名の配列）。
+  // 旧app由来の"あり"フラグ19件は 2026-08-03 に技名配列として正本へ復元済み。
+  if (Array.isArray(entry.specialMoves) && entry.specialMoves.length > 0) out.specialMoves = entry.specialMoves;
   if (Array.isArray(entry.ribbons) && entry.ribbons.length > 0) out.ribbons = entry.ribbons;
 
   if (entry.password !== undefined) out.password = entry.password;
@@ -416,10 +412,3 @@ for (const { dataset } of DATASETS) {
 }
 console.log(`  byGeneration: ${JSON.stringify(byGeneration)}`);
 console.log(`  ${path.relative(root, metaPath)} を出力しました`);
-
-if (specialMovesFound.length > 0) {
-  console.log(`\n[想定外] specialMoves が正本entryに存在します（${specialMovesFound.length}件・出力からはドロップ）:`);
-  for (const s of specialMovesFound) {
-    console.log(`  - id=${s.id}: ${JSON.stringify(s.value)}`);
-  }
-}

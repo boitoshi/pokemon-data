@@ -952,5 +952,24 @@
       "send": false,
       "receive": false
     }
+  },
+  {
+    "id": "home",
+    "name": "Pokémon HOME",
+    "name_en": "Pokémon HOME",
+    "shortName": "HOME",
+    "abbrev": "HOME",
+    "generation": null,
+    "releaseDate_jp": "2020-02-12",
+    "releaseDate_us": "2020-02-12",
+    "platform": "Switch / スマートフォン",
+    "category": "spinoff",
+    "group": "HOME",
+    "paired_with": [],
+    "region": null,
+    "home": {
+      "send": false,
+      "receive": false
+    }
   }
 ]

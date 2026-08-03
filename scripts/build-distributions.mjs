@@ -42,6 +42,7 @@ const REVERSE_GAME_MAP = {
   scarlet: "スカーレット",
   violet: "バイオレット",
   pokemon_champions: "Pokémon Champions",
+  home: "HOME",
 };
 
 // 起動時に一度、マップの全ソースID（= distributions/*.json の games[] に現れうるid）が

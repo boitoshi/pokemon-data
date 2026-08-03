@@ -148,6 +148,7 @@ const GAME_MAP = {
   // DLCは既存 distributions/gen9.json（id=09104）の先例に倣い本体タイトルへ畳む
   "M次元ラッシュ（ZA DLC）": ["legends_za"],
   ぽこポケ: ["poco_a_pokemon"],
+  HOME: ["home"],
 };
 
 // 起動時に一度、マップの全ターゲットIDが titles.json に存在することを検証する（migrate-gen5-7.mjs と同様）

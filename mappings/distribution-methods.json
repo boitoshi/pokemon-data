@@ -9,7 +9,7 @@
   "Infrared": "赤外線通信",
   "In-Life": "配布会場",
   "Password": "あいことば",
-  "Pokémon HOME": "Pokémon HOME",
+  "Pokémon HOME": "HOME",
   "Mystery Gift": "ふしぎなおくりもの",
   "Download": "ダウンロード",
   "Member Card": "メンバーズカード",
@@ -20,5 +20,9 @@
   "Nintendo Zone": "ニンテンドーゾーン",
   "Local Trade": "ローカル交換",
   "Pokémon Link": "ポケモンリンク",
-  "Poké Ball Plus": "モンスターボール Plus"
+  "Poké Ball Plus": "モンスターボール Plus",
+  "Gift Box": "プレゼントボックス",
+  "NFC Tag": "NFCよみとり",
+  "Pokémon Bank": "バンク",
+  "Pokémon Sun and Pokémon Moon Special Demo Version": "SM体験版"
 }

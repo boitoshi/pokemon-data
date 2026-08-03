@@ -23,6 +23,7 @@
     },
     "datasetNotes": {
       "type": "array",
+      "minItems": 1,
       "items": { "type": "string" },
       "description": "データセット全体の前提知識（例: champions の個体値仕様・HOME転送不可）。表示用の正本。消費側（summary-pages / distribution-app）はここから描画し、べた書きの二重管理をしない"
     },

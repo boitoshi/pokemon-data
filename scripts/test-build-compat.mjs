@@ -204,7 +204,9 @@ function fieldAllowed(field, appNorm, buildNorm, isChampion) {
     case "ivs":
       return appNorm === undefined && buildNorm !== undefined;
     case "specialMoves":
-      return appNorm !== undefined && buildNorm === undefined;
+      // 2026-08-03 正本復元後: build側は技名配列を出力する。app側が未同期(undefined)や
+      // 旧"あり"フラグ表現でも文書化差分として許容（app同期後は完全一致となり差分自体が出ない）。
+      return buildNorm !== undefined && (appNorm === undefined || appNorm === "あり");
     case "trainerId":
       return appNorm === "(プレイヤーのもの)" && buildNorm === undefined;
     case "metLocation":

@@ -290,6 +290,12 @@ distribution-scraper の `--json` 出力を `scripts/scrape-to-l2.mjs`（provena
 
 `.github/workflows/ci.yml` は `validate` → `build` → `git diff --exit-code build/`（build 鮮度チェック）の順で実行する。**正本を直したら `npm run build` して `build/` もコミットする義務がある**。
 
+## 既知のデータ品質課題
+
+- `champions.json` の `distributionMethod` に `バトルパス Lv.25` と `バトルパス(無料) Lv.25` の2種類があるが、`notes` / `datasetNotes` を読む限りどちらも同じ仕組み（無料枠で Lv.25 到達時の報酬）を指しているように見える。表記ゆれの可能性が高い（2026-08-04 時点で未確認）。揃える場合は `mappings/method-glossary.json` の該当 note も一緒に整理すること
+- `gen7.json` の `07100` の `distributionMethod` が `ALOLA` になっており、`validate-distributions.mjs` が warning を出し続けている。意味不明値のため `mappings/method-glossary.json` でも意図的に扱っていない
+- 配信レコードのうち13件が `eventName` を英語のまま保持している（`07153`〜`07158` / `08097`〜`08099` / `08100`〜`08103`）。Bulbapedia 側に日本語のふしぎなおくりものカード名が存在しないため自動取得できない分で、手動補完が必要（経緯は distribution-scraper の TODO.md）
+
 ## 下流の消費者
 
 - pokemon-ribbon-tracker（`scripts/generate-ribbons.mjs` 等。https://www.pokebros.net/ribbon-tracker/ で公開中）

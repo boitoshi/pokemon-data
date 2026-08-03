@@ -333,11 +333,16 @@ function convertEntry(entry, generation, isChampions) {
 // ---- ビルド本体 ----
 const records = [];
 const counts = {};
+// データセット単位の前提知識（正本: 各 distributions/*.json の datasetNotes）。meta.json 経由で消費側へ渡す
+const datasetNotes = {};
 
 for (const { dataset, file } of DATASETS) {
   const payload = readJson(path.join("distributions", file));
   if (payload.dataset !== dataset) {
     throw new Error(`${file}: dataset フィールドが想定と異なります (${payload.dataset} !== ${dataset})`);
+  }
+  if (Array.isArray(payload.datasetNotes) && payload.datasetNotes.length > 0) {
+    datasetNotes[dataset] = payload.datasetNotes;
   }
 
   const isChampions = dataset === "champions";
@@ -400,6 +405,7 @@ const meta = {
   source: "distributions/*.json",
   counts,
   byGeneration,
+  datasetNotes,
 };
 
 fs.writeFileSync(pokemonPath, JSON.stringify(records, null, 2) + "\n", "utf8");

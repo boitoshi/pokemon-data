@@ -5358,6 +5358,263 @@
       "ribbons": [
         "クラシックリボン"
       ]
+    },
+    {
+      "id": "07153",
+      "dexNo": 658,
+      "pokemonName": "ゲッコウガ",
+      "form": "Battle Bond Greninja",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Ash's Greninja",
+      "distributionMethod": "SM体験版",
+      "startDate": "2016-11-18",
+      "level": 36,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "きずなへんげ",
+      "ball": "モンスターボール",
+      "metLocation": "カロスちほう",
+      "ot": {
+        "JPN": "サトシ",
+        "ENG": "Ash",
+        "SPA": "Ash",
+        "FRE": "Sacha",
+        "GER": "Ash",
+        "ITA": "Ash",
+        "KOR": "지우"
+      },
+      "trainerId": "131017",
+      "moves": [
+        "みずしゅりけん",
+        "つばめがえし",
+        "かげぶんしん",
+        "つじぎり"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "07154",
+      "dexNo": 730,
+      "pokemonName": "アシレーヌ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Primarina",
+      "distributionMethod": "バンク",
+      "startDate": "2018-03-08",
+      "endDate": "2018-10-31",
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "うるおいボイス",
+      "ball": "モンスターボール",
+      "metLocation": "バンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ハイパーボイス",
+        "ムーンフォース",
+        "こごえるかぜ",
+        "ほろびのうた"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "07155",
+      "dexNo": 727,
+      "pokemonName": "ガオガエン",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Incineroar",
+      "distributionMethod": "バンク",
+      "startDate": "2018-03-08",
+      "endDate": "2018-10-31",
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "いかく",
+      "ball": "モンスターボール",
+      "metLocation": "バンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ねこだまし",
+        "とんぼがえり",
+        "ＤＤラリアット",
+        "フレアドライブ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "07156",
+      "dexNo": 724,
+      "pokemonName": "ジュナイパー",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Decidueye",
+      "distributionMethod": "バンク",
+      "startDate": "2018-03-08",
+      "endDate": "2018-10-31",
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "えんかく",
+      "ball": "モンスターボール",
+      "metLocation": "バンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "リーフブレード",
+        "ゴーストダイブ",
+        "かげうち",
+        "ブレイブバード"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "07157",
+      "dexNo": 766,
+      "pokemonName": "ナゲツケサル",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Passimian",
+      "distributionMethod": "バンク",
+      "startDate": "2019-03-28",
+      "endDate": "2019-10-31",
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "まけんき",
+      "ball": "モンスターボール",
+      "metLocation": "バンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "インファイト",
+        "とんぼがえり",
+        "はたきおとす",
+        "ダストシュート"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "07158",
+      "dexNo": 765,
+      "pokemonName": "ヤレユータン",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Oranguru",
+      "distributionMethod": "バンク",
+      "startDate": "2019-03-28",
+      "endDate": "2019-10-31",
+      "level": 50,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "きょうせい",
+      "ball": "モンスターボール",
+      "metLocation": "バンク",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "さいはい",
+        "イカサマ",
+        "トリックルーム",
+        "サイドチェンジ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "07159",
+      "dexNo": 808,
+      "pokemonName": "メルタン",
+      "games": [
+        "home"
+      ],
+      "eventName": "Shiny Meltan",
+      "distributionMethod": "プレゼントボックス",
+      "startDate": "2025-02-12",
+      "level": 50,
+      "nature": "いじっぱり",
+      "ability": "じりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "とおいばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "HOME"
+      },
+      "trainerId": "250212",
+      "moves": [
+        "ずつき",
+        "でんじは",
+        "とける",
+        "ラスターカノン"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "source": {
+        "kind": "bulbapedia"
+      }
     }
   ]
 }

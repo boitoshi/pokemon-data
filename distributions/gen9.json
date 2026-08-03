@@ -192,7 +192,7 @@
       "ribbons": [
         "バースデーリボン"
       ],
-      "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。おいわいは特別な技。",
+      "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。おいわいは特別な技。同一個体がNFCよみとりでも配布された（id: 09115）。",
       "postUrl": "https://www.pokebros.net/gen9-birthday-fidough/"
     },
     {
@@ -1506,7 +1506,7 @@
       "ribbons": [
         "バースデーリボン"
       ],
-      "notes": "進化先はランダム。おいわいは特別な技。",
+      "notes": "進化先はランダム。おいわいは特別な技。同一個体がNFCよみとりでも配布された（id: 09114）。",
       "postUrl": "https://www.pokebros.net/gen9-birthday-Tandemaus/"
     },
     {
@@ -3819,6 +3819,416 @@
       ],
       "notes": "色はランダム。おいわいは特別な技",
       "postUrl": "https://www.pokebros.net/gen9-birthday-flabebe/"
+    },
+    {
+      "id": "09105",
+      "dexNo": 912,
+      "pokemonName": "クワッス",
+      "games": [
+        "home"
+      ],
+      "eventName": "Hidden Ability Paldea first partner Pokémon - Quaxly",
+      "distributionMethod": "プレゼントボックス",
+      "startDate": "2023-05-30",
+      "level": 5,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "じしんかじょう",
+      "ball": "モンスターボール",
+      "metLocation": "HOME",
+      "teraType": "みず",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "はたく",
+        "なきごえ",
+        "みずでっぽう"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 31
+      },
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "09106",
+      "dexNo": 909,
+      "pokemonName": "ホゲータ",
+      "games": [
+        "home"
+      ],
+      "eventName": "Hidden Ability Paldea first partner Pokémon - Fuecoco",
+      "distributionMethod": "プレゼントボックス",
+      "startDate": "2023-05-30",
+      "level": 5,
+      "gender": "♂",
+      "nature": "ずぶとい",
+      "ability": "てんねん",
+      "ball": "モンスターボール",
+      "metLocation": "HOME",
+      "teraType": "ほのお",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "たいあたり",
+        "にらみつける",
+        "ひのこ"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 20,
+        "def": 31,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "09107",
+      "dexNo": 906,
+      "pokemonName": "ニャオハ",
+      "games": [
+        "home"
+      ],
+      "eventName": "Hidden Ability Paldea first partner Pokémon - Sprigatito",
+      "distributionMethod": "プレゼントボックス",
+      "startDate": "2023-05-30",
+      "level": 5,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "へんげんじざい",
+      "ball": "モンスターボール",
+      "metLocation": "HOME",
+      "teraType": "くさ",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "ひっかく",
+        "しっぽをふる",
+        "このは"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 31
+      },
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "09108",
+      "dexNo": 648,
+      "pokemonName": "メロエッタ",
+      "games": [
+        "home"
+      ],
+      "eventName": "Shiny Meloetta",
+      "distributionMethod": "プレゼントボックス",
+      "startDate": "2024-10-16",
+      "level": 50,
+      "nature": "ひかえめ",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "パルデアちほう",
+      "teraType": "ノーマル",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "HOME"
+      },
+      "trainerId": "241016",
+      "moves": [
+        "いにしえのうた",
+        "エコーボイス",
+        "サイケこうせん",
+        "うたう"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "09109",
+      "dexNo": 158,
+      "pokemonName": "ワニノコ",
+      "games": [
+        "home"
+      ],
+      "eventName": "Alpha Lumiose first partner Pokémon - Totodile",
+      "distributionMethod": "プレゼントボックス",
+      "startDate": "2026-04-02",
+      "level": 5,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "ちからずく",
+      "ball": "モンスターボール",
+      "metLocation": "HOME",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "たいあたり",
+        "にらみつける",
+        "ドラゴンクロー"
+      ],
+      "ivsGuaranteed": 3,
+      "alpha": true,
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "09110",
+      "dexNo": 498,
+      "pokemonName": "ポカブ",
+      "games": [
+        "home"
+      ],
+      "eventName": "Alpha Lumiose first partner Pokémon - Tepig",
+      "distributionMethod": "プレゼントボックス",
+      "startDate": "2026-04-02",
+      "level": 5,
+      "gender": "♂",
+      "nature": "ゆうかん",
+      "ability": "あついしぼう",
+      "ball": "モンスターボール",
+      "metLocation": "HOME",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "たいあたり",
+        "しっぽをふる",
+        "ワイルドボルト"
+      ],
+      "ivsGuaranteed": 3,
+      "alpha": true,
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "09111",
+      "dexNo": 152,
+      "pokemonName": "チコリータ",
+      "games": [
+        "home"
+      ],
+      "eventName": "Alpha Lumiose first partner Pokémon - Chikorita",
+      "distributionMethod": "プレゼントボックス",
+      "startDate": "2026-04-02",
+      "level": 5,
+      "gender": "♂",
+      "nature": "れいせい",
+      "ability": "リーフガード",
+      "ball": "モンスターボール",
+      "metLocation": "HOME",
+      "otFromPlayer": true,
+      "trainerId": "(プレイヤーのもの)",
+      "moves": [
+        "たいあたり",
+        "しっぽをふる",
+        "マジカルシャイン"
+      ],
+      "ivsGuaranteed": 3,
+      "alpha": true,
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "09112",
+      "dexNo": 721,
+      "pokemonName": "ボルケニオン",
+      "games": [
+        "home"
+      ],
+      "eventName": "Shiny Volcanion",
+      "distributionMethod": "プレゼントボックス",
+      "startDate": "2026-04-27",
+      "level": 50,
+      "nature": "ひかえめ",
+      "ability": "ちょすい",
+      "ball": "プレシャスボール",
+      "metLocation": "HOME",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "HOME"
+      },
+      "trainerId": "260427",
+      "moves": [
+        "スチームバースト",
+        "フレアドライブ",
+        "ハイドロポンプ",
+        "ヘビーボンバー"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 20,
+        "spa": 31,
+        "spd": 20,
+        "spe": 31
+      },
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "09113",
+      "dexNo": 445,
+      "pokemonName": "ガブリアス",
+      "games": [
+        "home"
+      ],
+      "eventName": "2026 Pokémon Japan Championships Garchomp",
+      "distributionMethod": "NFCよみとり",
+      "startDate": "2026-06-06",
+      "endDate": "2026-06-07",
+      "level": 50,
+      "gender": "♀",
+      "nature": "いじっぱり",
+      "ability": "さめはだ",
+      "ball": "プレシャスボール",
+      "metLocation": "HOME",
+      "teraType": "ドラゴン",
+      "ot": {
+        "JPN": "PJCS26"
+      },
+      "trainerId": "260606",
+      "moves": [
+        "じしん",
+        "ドラゴンクロー",
+        "いわなだれ",
+        "まもる"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 20,
+        "spa": 31,
+        "spd": 20,
+        "spe": 31
+      },
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "09114",
+      "dexNo": 924,
+      "pokemonName": "ワッカネズミ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Pokémon Center Birthday Tandemaus",
+      "distributionMethod": "NFCよみとり",
+      "startDate": "2024-11-01",
+      "endDate": "2025-10-31",
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "マイペース",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "teraType": "ノーマル",
+      "ot": {
+        "JPN": "ポケセン",
+        "ENG": "PokéCenter",
+        "SPA": "ポケセン",
+        "FRE": "ポケセン",
+        "GER": "ポケセン",
+        "ITA": "ポケセン",
+        "KOR": "ポケセン",
+        "CHS": "ポケセン",
+        "CHT": "寶可夢中心"
+      },
+      "trainerId": "241101",
+      "moves": [
+        "おいわい",
+        "テラバースト",
+        "つぶらなひとみ",
+        "エコーボイス"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "同一個体がシリアルコード配信でも配布された（id: 09073）。",
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "09115",
+      "dexNo": 926,
+      "pokemonName": "パピモッチ",
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "eventName": "Pokémon Center Birthday Fidough",
+      "distributionMethod": "NFCよみとり",
+      "startDate": "2025-11-01",
+      "endDate": "2026-10-31",
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "マイペース",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "teraType": "フェアリー",
+      "ot": {
+        "JPN": "ポケセン",
+        "ENG": "PokéCenter",
+        "SPA": "ポケセン",
+        "FRE": "ポケセン",
+        "GER": "ポケセン",
+        "ITA": "ポケセン",
+        "KOR": "ポケセン",
+        "CHS": "ポケセン",
+        "CHT": "寶可夢中心"
+      },
+      "trainerId": "251101",
+      "moves": [
+        "おいわい",
+        "つぶらなひとみ",
+        "じゃれつく",
+        "あまえる"
+      ],
+      "ribbons": [
+        "バースデーリボン"
+      ],
+      "notes": "同一個体がシリアルコード配信でも配布された（id: 09098）。",
+      "source": {
+        "kind": "bulbapedia"
+      }
     }
   ]
 }

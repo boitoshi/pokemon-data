@@ -26,7 +26,7 @@
 //   - scraped の id（managementId）は matching にも採番にも使わない捨て値（前段Phase Aの暫定値）。
 //   - 既存entriesは as-parsed のまま保持（byte往復同一）。書き込みは新規追加が1件以上あるときだけ。
 //
-// 実行: node scripts/scrape-to-l2.mjs <flat.json> [--dry-run] [--dist-dir <dir>] [--report <path>]
+// 実行: node scripts/scrape-to-l2.mjs <flat.json> [--dry-run] [--dist-dir <dir>] [--report <path>] [--accept-near-dup]
 // （distribution-scraper 側は `uv run python -m scripts.main --gen 9 --json <flat.json>` で生成）
 // 旧 Phase A の第2引数 out.json（staging出力）は廃止。
 
@@ -39,11 +39,13 @@ const readJson = (relativePath) => JSON.parse(fs.readFileSync(path.join(root, re
 
 // ---- CLI引数パース ----
 // 位置引数は <flat.json> のみ。--dist-dir/--report はオプション値を伴うフラグ。
+// --accept-near-dup は値を伴わないフラグ（--dry-run と同様）。
 function parseArgs(argv) {
   let flatPathArg = null;
   let dryRun = false;
   let distDirArg = "distributions";
   let reportPathArg = null;
+  let acceptNearDup = false;
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === "--dry-run") {
@@ -54,18 +56,22 @@ function parseArgs(argv) {
     } else if (a === "--report") {
       reportPathArg = argv[++i];
       if (reportPathArg === undefined) throw new Error("--report には値が必要です");
+    } else if (a === "--accept-near-dup") {
+      acceptNearDup = true;
     } else if (flatPathArg === null) {
       flatPathArg = a;
     } else {
       throw new Error(`未知の引数: "${a}"`);
     }
   }
-  return { flatPathArg, dryRun, distDirArg, reportPathArg };
+  return { flatPathArg, dryRun, distDirArg, reportPathArg, acceptNearDup };
 }
 
-const { flatPathArg, dryRun, distDirArg, reportPathArg } = parseArgs(process.argv.slice(2));
+const { flatPathArg, dryRun, distDirArg, reportPathArg, acceptNearDup } = parseArgs(process.argv.slice(2));
 if (!flatPathArg) {
-  console.error("使い方: node scripts/scrape-to-l2.mjs <flat.json> [--dry-run] [--dist-dir <dir>] [--report <path>]");
+  console.error(
+    "使い方: node scripts/scrape-to-l2.mjs <flat.json> [--dry-run] [--dist-dir <dir>] [--report <path>] [--accept-near-dup]"
+  );
   process.exit(1);
 }
 
@@ -649,6 +655,15 @@ function dateDiffDays(dateA, dateB) {
 // near-dup ガード: scraped S に対する既存 E が「同一配信の可能性が高い」かどうか。
 // auto-add の安全化が目的（relaxed監査を置換）。form は意図的に match条件へ含めない
 // （フォルム表記の粒度差だけで別配信と誤判定しないため。相違は diffFields 側で報告する）。
+//
+// --accept-near-dup: near-dup 判定はデフォルトで「要確認」に降格し追加しない（安全側）。
+// ただし同一個体が複数チャネル（例: インターネット配信とプレゼントボックス配信、
+// シリアルコードとNFCよみとり）で別々に配信されるケースが実在し、その場合は
+// 意図的に別レコードとして残す運用判断がある（前例: distribution-scraper側TODO.mdの
+// Alva's Gengar＝シリアルコード/ニンテンドーゾーンの両チャネル配信）。
+// このフラグは、そうした「ユーザーが個別に判断して取り込むと決めた」near-dup行を
+// 通常の新規追加経路に合流させるための明示的なオプトインである。
+// デフォルト（フラグ無し）の挙動は変えない＝安全側の現状維持を維持する。
 function isNearDup(existing, scraped) {
   if (existing.dexNo !== scraped.dexNo) return false;
   if ("endDate" in existing && "endDate" in scraped && existing.endDate === scraped.endDate) return true;
@@ -805,11 +820,15 @@ for (const m of scrapedEntries) {
 // ---- 分類 ----
 const addCandidates = []; // ADD予定のscraped entry（idはこの後で採番。scraped初出順）
 const buckets = {
-  nearDup: [], // 要確認・既存に酷似
+  nearDup: [], // 要確認・既存に酷似（--accept-near-dup 未指定時のnear-dup行はここ）
+  nearDupAccepted: [], // --accept-near-dup 指定時、near-dup判定されたが承認して追加した行
   multiVariant: [], // 新規・多バリアント
   protectedSkip: [], // 保護スキップ
   updateCandidate: [], // 更新候補(report-only)
 };
+// --accept-near-dup 時、near-dup判定を経て追加経路に合流した scraped member を識別するための集合。
+// additions 生成時（オブジェクトはspreadでコピーされ参照が変わる）より前の段階で参照を保持しておく。
+const nearDupAcceptedMembers = new Set();
 
 for (const [key, members] of scrapedGroups.entries()) {
   const existingGroup = anchorIndex.get(key);
@@ -838,12 +857,29 @@ for (const [key, members] of scrapedGroups.entries()) {
   }
 
   // NEW: near-dup ガードを全メンバーに適用
+  // --accept-near-dup 指定時は near-dup 判定されたメンバーも withoutNearDup（＝追加経路）へ合流させる
+  // （承認済みオプトイン。判定結果自体は buckets.nearDupAccepted に残し、ログ/レポートで可視化する）。
   const withNearDup = [];
   const withoutNearDup = [];
   for (const m of members) {
     const nearDups = existingEntries.filter((e) => isNearDup(e, m));
     if (nearDups.length > 0) {
-      withNearDup.push({ member: m, nearDups });
+      if (acceptNearDup) {
+        nearDupAcceptedMembers.add(m);
+        withoutNearDup.push(m);
+        buckets.nearDupAccepted.push({
+          scraped: labelEntry(m),
+          eventName: m.eventName,
+          existingIds: nearDups.map((e) => e.id),
+          startDateDiff:
+            m.startDate !== nearDups[0].startDate
+              ? { field: "startDate", ledger: nearDups[0].startDate, scraper: m.startDate }
+              : null,
+          ...diffFields(m, nearDups[0]),
+        });
+      } else {
+        withNearDup.push({ member: m, nearDups });
+      }
     } else {
       withoutNearDup.push(m);
     }
@@ -922,6 +958,7 @@ if (prefixedIds.length > 0) {
 }
 
 const additions = [];
+const nearDupAcceptedIds = []; // --accept-near-dup 経由で追加されたentryのid（ログ/レポート用）
 let nextSuffix = maxSuffix + 1;
 for (const member of survivingAdds) {
   if (nextSuffix >= 10 ** suffixWidth) {
@@ -929,6 +966,7 @@ for (const member of survivingAdds) {
   }
   const newId = prefix + String(nextSuffix).padStart(suffixWidth, "0");
   nextSuffix += 1;
+  if (nearDupAcceptedMembers.has(member)) nearDupAcceptedIds.push(newId);
   additions.push(orderEntry({ ...member, id: newId, source: { kind: "bulbapedia" } }));
 }
 
@@ -967,7 +1005,11 @@ console.log(`scraped:${scrapedEntries.length}件 / 既存:${existingEntries.leng
 const addCaveat = additions.length > 0 ? "（英語eventName・かな metLocation 等 raw 値のまま。取り込み後の手レビュー前提）" : "";
 console.log(`\n[新規追加] ${additions.length}件${addCaveat}`);
 for (const a of additions) {
-  console.log(`  - ${a.id} dexNo=${a.dexNo} ${labelEntry(a)} ev="${a.eventName}"`);
+  const nearDupTag = nearDupAcceptedIds.includes(a.id) ? " [near-dup承認]" : "";
+  console.log(`  - ${a.id} dexNo=${a.dexNo} ${labelEntry(a)} ev="${a.eventName}"${nearDupTag}`);
+}
+if (acceptNearDup) {
+  console.log(`  うちnear-dupを承認して追加: ${nearDupAcceptedIds.length}件 (${nearDupAcceptedIds.join(", ") || "-"})`);
 }
 
 console.log(`\n[要確認・既存に酷似] ${buckets.nearDup.length}件`);
@@ -981,6 +1023,18 @@ for (const n of buckets.nearDup) {
   // 既存マッチは 既存[ids]、バッチ内 near-dup（finding1降格）は バッチ内候補[labels] を参照先に出す。
   const ref = n.existingIds.length > 0 ? `既存[${n.existingIds.join(",")}]` : `バッチ内候補[${(n.siblingLabels ?? []).join(", ")}]`;
   console.log(`  - scraped ${n.scraped} ev="${n.eventName}" ~ ${ref}：相違 ${diffParts.join(" / ")}`);
+}
+
+console.log(`\n[near-dup承認により追加] ${buckets.nearDupAccepted.length}件`);
+for (const n of buckets.nearDupAccepted) {
+  const diffParts = [];
+  if (n.startDateDiff) {
+    diffParts.push(`startDate 台帳=${n.startDateDiff.ledger} scraper=${n.startDateDiff.scraper}`);
+  }
+  diffParts.push(...formatDiffParts(n.conflicts));
+  diffParts.push(...formatDiffParts(n.info));
+  const diffStr = diffParts.length > 0 ? `：相違 ${diffParts.join(" / ")}` : "";
+  console.log(`  - scraped ${n.scraped} ev="${n.eventName}" ~ 既存[${n.existingIds.join(",")}]${diffStr}`);
 }
 
 console.log(`\n[新規・多バリアント] ${buckets.multiVariant.length}グループ`);
@@ -1019,8 +1073,9 @@ for (const r of skippedRows) {
   console.log(`  - ${r.managementId ?? "?"} ${name} startDate="${r.startDate ?? ""}" ev="${r.eventName ?? ""}"`);
 }
 
+const nearDupAcceptedSummary = acceptNearDup ? ` (うちnear-dup承認${nearDupAcceptedIds.length})` : "";
 console.log(
-  `\nサマリ: 追加${additions.length} / 酷似${buckets.nearDup.length} / 多バリアント${buckets.multiVariant.length} / 保護${buckets.protectedSkip.length} / 更新${buckets.updateCandidate.length} / 取込不可${skippedRows.length}`
+  `\nサマリ: 追加${additions.length}${nearDupAcceptedSummary} / 酷似${buckets.nearDup.length} / 多バリアント${buckets.multiVariant.length} / 保護${buckets.protectedSkip.length} / 更新${buckets.updateCandidate.length} / 取込不可${skippedRows.length}`
 );
 
 const writeStatusLabel =
@@ -1034,8 +1089,10 @@ if (reportPathArg) {
     mode,
     scrapedCount: scrapedEntries.length,
     existingCount: existingEntries.length,
+    acceptNearDup,
     summary: {
       added: additions.length,
+      nearDupAccepted: nearDupAcceptedIds.length,
       nearDup: buckets.nearDup.length,
       multiVariant: buckets.multiVariant.length,
       protectedSkip: buckets.protectedSkip.length,
@@ -1048,8 +1105,10 @@ if (reportPathArg) {
       pokemonName: a.pokemonName,
       form: a.form,
       eventName: a.eventName,
+      nearDupAccepted: nearDupAcceptedIds.includes(a.id),
     })),
     nearDup: buckets.nearDup,
+    nearDupAccepted: buckets.nearDupAccepted,
     multiVariant: buckets.multiVariant,
     protectedSkip: buckets.protectedSkip,
     updateCandidate: buckets.updateCandidate,

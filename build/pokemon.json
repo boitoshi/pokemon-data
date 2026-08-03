@@ -16291,6 +16291,222 @@
     "ivs": "ランダム"
   },
   {
+    "managementId": "07153",
+    "pokemonName": "ゲッコウガ（Battle Bond Greninja）",
+    "dexNo": 658,
+    "generation": 7,
+    "game": "サン, ムーン",
+    "eventName": "Ash's Greninja",
+    "distributionMethod": "SM体験版",
+    "startDate": "2016-11-18",
+    "ot": {
+      "JPN": "サトシ",
+      "ENG": "Ash",
+      "SPA": "Ash",
+      "FRE": "Sacha",
+      "GER": "Ash",
+      "ITA": "Ash",
+      "KOR": "지우"
+    },
+    "trainerId": "131017",
+    "metLocation": "カロスちほう",
+    "ball": "モンスターボール",
+    "level": 36,
+    "gender": "♂",
+    "ability": "きずなへんげ",
+    "nature": "ランダム",
+    "moves": [
+      "みずしゅりけん",
+      "つばめがえし",
+      "かげぶんしん",
+      "つじぎり"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "07154",
+    "pokemonName": "アシレーヌ",
+    "dexNo": 730,
+    "generation": 7,
+    "game": "サン, ムーン, ウルトラサン, ウルトラムーン",
+    "eventName": "Primarina",
+    "distributionMethod": "バンク",
+    "startDate": "2018-03-08",
+    "endDate": "2018-10-31",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "バンク",
+    "ball": "モンスターボール",
+    "level": 50,
+    "gender": "ランダム",
+    "ability": "うるおいボイス",
+    "nature": "ランダム",
+    "moves": [
+      "ハイパーボイス",
+      "ムーンフォース",
+      "こごえるかぜ",
+      "ほろびのうた"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "07155",
+    "pokemonName": "ガオガエン",
+    "dexNo": 727,
+    "generation": 7,
+    "game": "サン, ムーン, ウルトラサン, ウルトラムーン",
+    "eventName": "Incineroar",
+    "distributionMethod": "バンク",
+    "startDate": "2018-03-08",
+    "endDate": "2018-10-31",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "バンク",
+    "ball": "モンスターボール",
+    "level": 50,
+    "gender": "ランダム",
+    "ability": "いかく",
+    "nature": "ランダム",
+    "moves": [
+      "ねこだまし",
+      "とんぼがえり",
+      "ＤＤラリアット",
+      "フレアドライブ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "07156",
+    "pokemonName": "ジュナイパー",
+    "dexNo": 724,
+    "generation": 7,
+    "game": "サン, ムーン, ウルトラサン, ウルトラムーン",
+    "eventName": "Decidueye",
+    "distributionMethod": "バンク",
+    "startDate": "2018-03-08",
+    "endDate": "2018-10-31",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "バンク",
+    "ball": "モンスターボール",
+    "level": 50,
+    "gender": "ランダム",
+    "ability": "えんかく",
+    "nature": "ランダム",
+    "moves": [
+      "リーフブレード",
+      "ゴーストダイブ",
+      "かげうち",
+      "ブレイブバード"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "07157",
+    "pokemonName": "ナゲツケサル",
+    "dexNo": 766,
+    "generation": 7,
+    "game": "サン, ムーン, ウルトラサン, ウルトラムーン",
+    "eventName": "Passimian",
+    "distributionMethod": "バンク",
+    "startDate": "2019-03-28",
+    "endDate": "2019-10-31",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "バンク",
+    "ball": "モンスターボール",
+    "level": 50,
+    "gender": "ランダム",
+    "ability": "まけんき",
+    "nature": "ランダム",
+    "moves": [
+      "インファイト",
+      "とんぼがえり",
+      "はたきおとす",
+      "ダストシュート"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "07158",
+    "pokemonName": "ヤレユータン",
+    "dexNo": 765,
+    "generation": 7,
+    "game": "サン, ムーン, ウルトラサン, ウルトラムーン",
+    "eventName": "Oranguru",
+    "distributionMethod": "バンク",
+    "startDate": "2019-03-28",
+    "endDate": "2019-10-31",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "バンク",
+    "ball": "モンスターボール",
+    "level": 50,
+    "gender": "ランダム",
+    "ability": "きょうせい",
+    "nature": "ランダム",
+    "moves": [
+      "さいはい",
+      "イカサマ",
+      "トリックルーム",
+      "サイドチェンジ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "07159",
+    "pokemonName": "メルタン",
+    "dexNo": 808,
+    "generation": 7,
+    "game": "HOME",
+    "eventName": "Shiny Meltan",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2025-02-12",
+    "ot": "HOME",
+    "trainerId": "250212",
+    "metLocation": "とおいばしょ",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "じりょく",
+    "nature": "いじっぱり",
+    "moves": [
+      "ずつき",
+      "でんじは",
+      "とける",
+      "ラスターカノン"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "shiny": "あり",
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
     "managementId": "08076",
     "pokemonName": "ルカリオ",
     "dexNo": 448,
@@ -18376,7 +18592,7 @@
     "ribbons": [
       "プレミアリボン"
     ],
-    "notes": "フシギバナに進化させるとキョダイマックスできる。スマホ版PokémonHOMEでも同じ個体が配信された。",
+    "notes": "フシギバナに進化させるとキョダイマックスできる。スマホ版PokémonHOMEでも同じ個体が配信された（id: 08123）。",
     "region": "全世界",
     "ivs": {
       "hp": 30,
@@ -18416,7 +18632,7 @@
     "ribbons": [
       "プレミアリボン"
     ],
-    "notes": "カメックスに進化させるとキョダイマックスできる。スマホアプリ版PokémonHOMEでも同じ個体が配信された。",
+    "notes": "カメックスに進化させるとキョダイマックスできる。スマホアプリ版PokémonHOMEでも同じ個体が配信された（id: 08122）。",
     "region": "全世界",
     "ivs": {
       "hp": 30,
@@ -19957,6 +20173,931 @@
     "ivs": "ランダム"
   },
   {
+    "managementId": "08097",
+    "pokemonName": "ザシアン（れきせんのゆうしゃ）",
+    "dexNo": 888,
+    "generation": 8,
+    "game": "ソード, シールド",
+    "eventName": "Lancer's Shiny Zacian",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2021-11-19",
+    "endDate": "2021-12-31",
+    "ot": {
+      "JPN": "ガラル",
+      "ENG": "Lancer",
+      "SPA": "Lancer",
+      "FRE": "Lancer",
+      "GER": "Lancer",
+      "ITA": "Lancer",
+      "KOR": "가라르",
+      "CHS": "伽勒尔",
+      "CHT": "伽勒爾"
+    },
+    "trainerId": "211022",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "ふとうのけん",
+    "nature": "いじっぱり",
+    "heldItem": "くちたけん",
+    "moves": [
+      "アイアンヘッド",
+      "じゃれつく",
+      "つるぎのまい",
+      "せいなるつるぎ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "shiny": "あり",
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 30,
+      "spd": 31,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08098",
+    "pokemonName": "ザマゼンタ（れきせんのゆうしゃ）",
+    "dexNo": 889,
+    "generation": 8,
+    "game": "ソード, シールド",
+    "eventName": "Arthur's Shiny Zamazenta",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2021-11-19",
+    "endDate": "2021-12-31",
+    "ot": {
+      "JPN": "ガラル",
+      "ENG": "Arthur",
+      "SPA": "Arthur",
+      "FRE": "Arthur",
+      "GER": "Arthur",
+      "ITA": "Arthur",
+      "KOR": "가라르",
+      "CHS": "伽勒尔",
+      "CHT": "伽勒爾"
+    },
+    "trainerId": "211022",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "ふくつのたて",
+    "nature": "いじっぱり",
+    "heldItem": "くちたたて",
+    "moves": [
+      "アイアンヘッド",
+      "インファイト",
+      "てっぺき",
+      "ワイドガード"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "shiny": "あり",
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 30,
+      "spd": 31,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08099",
+    "pokemonName": "ムゲンダイナ",
+    "dexNo": 890,
+    "generation": 8,
+    "game": "ソード, シールド",
+    "eventName": "Galar's Shiny Eternatus",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2022-10-21",
+    "endDate": "2022-11-24",
+    "ot": {
+      "JPN": "ガラル",
+      "ENG": "Galar",
+      "SPA": "Galar",
+      "FRE": "Galar",
+      "GER": "Galar",
+      "ITA": "Galar",
+      "KOR": "가라르",
+      "CHS": "伽勒尔",
+      "CHT": "伽勒爾"
+    },
+    "trainerId": "221118",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "プレッシャー",
+    "nature": "おくびょう",
+    "moves": [
+      "ムゲンダイビーム",
+      "ダイマックスほう",
+      "ヘドロばくだん",
+      "かえんほうしゃ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "shiny": "あり",
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08100",
+    "pokemonName": "ゼニガメ",
+    "dexNo": 7,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Squirtle",
+    "distributionMethod": "HOME",
+    "startDate": "2020-02-12",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "あめうけざら",
+    "nature": "れいせい",
+    "moves": [
+      "たいあたり",
+      "しっぽをふる",
+      "みずでっぽう"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 20,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08101",
+    "pokemonName": "ヒトカゲ",
+    "dexNo": 4,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Charmander",
+    "distributionMethod": "HOME",
+    "startDate": "2020-02-12",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "サンパワー",
+    "nature": "おくびょう",
+    "moves": [
+      "ひっかく",
+      "なきごえ",
+      "ひのこ"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 20,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08102",
+    "pokemonName": "フシギダネ",
+    "dexNo": 1,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Bulbasaur",
+    "distributionMethod": "HOME",
+    "startDate": "2020-02-12",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "ようりょくそ",
+    "nature": "ひかえめ",
+    "moves": [
+      "たいあたり",
+      "なきごえ",
+      "つるのムチ"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 20,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08103",
+    "pokemonName": "ピカチュウ",
+    "dexNo": 25,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "HOME Pikachu",
+    "distributionMethod": "HOME",
+    "startDate": "2020-02-12",
+    "ot": "HOME",
+    "trainerId": "200212",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "せいでんき",
+    "nature": "がんばりや",
+    "moves": [
+      "でんきショック",
+      "しっぽをふる",
+      "なきごえ",
+      "でんこうせっか"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 20,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08104",
+    "pokemonName": "ピチュー",
+    "dexNo": 172,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Pichu",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2020-02-12",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "せいでんき",
+    "nature": "がんばりや",
+    "moves": [
+      "でんきショック",
+      "しっぽをふる"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 20,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08105",
+    "pokemonName": "ロトム",
+    "dexNo": 479,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Rotom",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2020-02-12",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "ability": "ふゆう",
+    "nature": "おくびょう",
+    "moves": [
+      "でんきショック",
+      "おどろかす",
+      "かげぶんしん"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 20,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08106",
+    "pokemonName": "イーブイ",
+    "dexNo": 133,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Eevee",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2020-02-12",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♀",
+    "ability": "てきおうりょく",
+    "nature": "まじめ",
+    "moves": [
+      "てだすけ",
+      "たいあたり",
+      "なきごえ",
+      "しっぽをふる"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 20,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08107",
+    "pokemonName": "マギアナ（Original Color）",
+    "dexNo": 801,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Original Color Magearna",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2020-02-12",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "ソウルハート",
+    "nature": "おっとり",
+    "moves": [
+      "フルールカノン",
+      "ラスターカノン",
+      "まるくなる",
+      "ねむる"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 30,
+      "def": 30,
+      "spa": 31,
+      "spd": 31
+    }
+  },
+  {
+    "managementId": "08108",
+    "pokemonName": "メッソン",
+    "dexNo": 816,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Sobble",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2020-06-02",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "スナイパー",
+    "nature": "ひかえめ",
+    "moves": [
+      "はたく",
+      "なきごえ"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 20,
+      "def": 20,
+      "spa": 31,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08109",
+    "pokemonName": "ヒバニー",
+    "dexNo": 813,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Scorbunny",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2020-06-02",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "リベロ",
+    "nature": "ようき",
+    "moves": [
+      "たいあたり",
+      "なきごえ"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 31,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08110",
+    "pokemonName": "サルノリ",
+    "dexNo": 810,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Grookey",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2020-06-02",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "グラスメイカー",
+    "nature": "いじっぱり",
+    "moves": [
+      "ひっかく",
+      "なきごえ"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08111",
+    "pokemonName": "ゼラオラ",
+    "dexNo": 807,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "One million victories Shiny Zeraora",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2020-06-29",
+    "ot": "HOME",
+    "trainerId": "200630",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "ちくでん",
+    "nature": "せっかち",
+    "moves": [
+      "プラズマフィスト",
+      "インファイト",
+      "ブレイズキック",
+      "げきりん"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "shiny": "あり",
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 30,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08112",
+    "pokemonName": "メルメタル",
+    "dexNo": 809,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Pokémon GO Melmetal",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2020-11-10",
+    "ot": "HOME",
+    "trainerId": "808809",
+    "metLocation": "HOME",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "てつのこぶし",
+    "nature": "ゆうかん",
+    "moves": [
+      "ダブルパンツァー",
+      "はかいこうせん",
+      "ばくれつパンチ",
+      "かみなりパンチ"
+    ],
+    "ribbons": [
+      "プレミアリボン"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31
+    },
+    "gigantamax": "キョダイマックス"
+  },
+  {
+    "managementId": "08113",
+    "pokemonName": "ポッチャマ",
+    "dexNo": 393,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Piplup",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2022-05-18",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "まけんき",
+    "nature": "ひかえめ",
+    "moves": [
+      "はたく",
+      "なきごえ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 20,
+      "def": 20,
+      "spa": 31,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08114",
+    "pokemonName": "ヒコザル",
+    "dexNo": 390,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Chimchar",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2022-05-18",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "てつのこぶし",
+    "nature": "せっかち",
+    "moves": [
+      "ひっかく",
+      "にらみつける"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 31,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08115",
+    "pokemonName": "ナエトル",
+    "dexNo": 387,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Turtwig",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2022-05-18",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "シェルアーマー",
+    "nature": "いじっぱり",
+    "moves": [
+      "たいあたり",
+      "からにこもる"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08116",
+    "pokemonName": "ミジュマル",
+    "dexNo": 501,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Oshawott",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2022-05-18",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "シェルアーマー",
+    "nature": "うっかりや",
+    "moves": [
+      "たいあたり"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 31,
+      "def": 20,
+      "spa": 31,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08117",
+    "pokemonName": "ヒノアラシ",
+    "dexNo": 155,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Cyndaquil",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2022-05-18",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "もらいび",
+    "nature": "ひかえめ",
+    "moves": [
+      "でんこうせっか"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 20,
+      "def": 20,
+      "spa": 31,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08118",
+    "pokemonName": "モクロー",
+    "dexNo": 722,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Rowlet",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2022-05-18",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "えんかく",
+    "nature": "ようき",
+    "moves": [
+      "かぜおこし"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "ivs": {
+      "hp": 20,
+      "atk": 31,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08119",
+    "pokemonName": "マナフィ",
+    "dexNo": 490,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Shiny Manaphy",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2025-01-28",
+    "ot": "HOME",
+    "trainerId": "250128",
+    "metLocation": "シンオウちほう",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "うるおいボディ",
+    "nature": "おだやか",
+    "moves": [
+      "バブルこうせん",
+      "とける",
+      "うずしお",
+      "みずのはどう"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "shiny": "あり",
+    "ivs": {
+      "hp": 31,
+      "atk": 20,
+      "def": 31,
+      "spa": 20,
+      "spd": 31,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "08120",
+    "pokemonName": "ラブトロス",
+    "dexNo": 905,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Shiny Enamorus",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2025-01-28",
+    "ot": "HOME",
+    "trainerId": "250128",
+    "metLocation": "ヒスイちほう",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "メロメロボディ",
+    "nature": "むじゃき",
+    "moves": [
+      "ドレインキッス",
+      "じんつうりき",
+      "かみくだく",
+      "ムーンフォース"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "shiny": "あり",
+    "ivs": {
+      "hp": 20,
+      "atk": 31,
+      "def": 20,
+      "spa": 31,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08121",
+    "pokemonName": "ケルディオ",
+    "dexNo": 647,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Shiny Keldeo",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2025-02-12",
+    "ot": "HOME",
+    "trainerId": "250212",
+    "metLocation": "ガラルちほう",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "せいぎのこころ",
+    "nature": "ひかえめ",
+    "moves": [
+      "ファストガード",
+      "にどげり",
+      "アクアテール",
+      "せいなるつるぎ"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "shiny": "あり",
+    "ivs": {
+      "hp": 31,
+      "atk": 20,
+      "def": 20,
+      "spa": 31,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "08122",
+    "pokemonName": "ゼニガメ",
+    "dexNo": 7,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Squirtle",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2021-06-17",
+    "endDate": "2021-06-30",
+    "ot": "HOME",
+    "trainerId": "210601",
+    "metLocation": "HOME",
+    "ball": "プレシャスボール",
+    "level": 14,
+    "gender": "♂",
+    "ability": "げきりゅう",
+    "nature": "ひかえめ",
+    "moves": [
+      "みずでっぽう",
+      "からにこもる",
+      "こうそくスピン",
+      "かみつく"
+    ],
+    "ribbons": [
+      "プレミアリボン"
+    ],
+    "notes": "同一個体が『ポケモン ソード・シールド』本体でのインターネット配信でも配布された（id: 08046）。",
+    "ivs": {
+      "hp": 30,
+      "atk": 30,
+      "def": 30,
+      "spa": 30,
+      "spd": 30,
+      "spe": 30
+    },
+    "gigantamax": "キョダイマックス"
+  },
+  {
+    "managementId": "08123",
+    "pokemonName": "フシギダネ",
+    "dexNo": 1,
+    "generation": 8,
+    "game": "HOME",
+    "eventName": "Bulbasaur",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2021-06-17",
+    "endDate": "2021-06-30",
+    "ot": "HOME",
+    "trainerId": "210601",
+    "metLocation": "HOME",
+    "ball": "プレシャスボール",
+    "level": 14,
+    "gender": "♂",
+    "ability": "しんりょく",
+    "nature": "ずぶとい",
+    "moves": [
+      "つるのムチ",
+      "せいちょう",
+      "やどりぎのタネ",
+      "はっぱカッター"
+    ],
+    "ribbons": [
+      "プレミアリボン"
+    ],
+    "notes": "同一個体が『ポケモン ソード・シールド』本体でのインターネット配信でも配布された（id: 08045）。",
+    "ivs": {
+      "hp": 30,
+      "atk": 30,
+      "def": 30,
+      "spa": 30,
+      "spd": 30,
+      "spe": 30
+    },
+    "gigantamax": "キョダイマックス"
+  },
+  {
     "managementId": "09100",
     "pokemonName": "バクフーン（ヒスイのすがた）",
     "dexNo": 157,
@@ -20121,7 +21262,7 @@
     "ribbons": [
       "バースデーリボン"
     ],
-    "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。おいわいは特別な技。",
+    "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。おいわいは特別な技。同一個体がNFCよみとりでも配布された（id: 09115）。",
     "postUrl": "https://www.pokebros.net/gen9-birthday-fidough/",
     "region": "日本,シンガポール",
     "teraType": "フェアリー",
@@ -21297,7 +22438,7 @@
     "ribbons": [
       "バースデーリボン"
     ],
-    "notes": "進化先はランダム。おいわいは特別な技。",
+    "notes": "進化先はランダム。おいわいは特別な技。同一個体がNFCよみとりでも配布された（id: 09114）。",
     "postUrl": "https://www.pokebros.net/gen9-birthday-Tandemaus/",
     "region": "日本,シンガポール",
     "teraType": "ノーマル",
@@ -23359,6 +24500,366 @@
     "notes": "色はランダム。おいわいは特別な技",
     "postUrl": "https://www.pokebros.net/gen9-birthday-flabebe/",
     "region": "日本,シンガポール",
+    "teraType": "フェアリー",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "09105",
+    "pokemonName": "クワッス",
+    "dexNo": 912,
+    "generation": 9,
+    "game": "HOME",
+    "eventName": "Hidden Ability Paldea first partner Pokémon - Quaxly",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2023-05-30",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "じしんかじょう",
+    "nature": "ようき",
+    "moves": [
+      "はたく",
+      "なきごえ",
+      "みずでっぽう"
+    ],
+    "teraType": "みず",
+    "ivs": {
+      "hp": 20,
+      "atk": 31,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "09106",
+    "pokemonName": "ホゲータ",
+    "dexNo": 909,
+    "generation": 9,
+    "game": "HOME",
+    "eventName": "Hidden Ability Paldea first partner Pokémon - Fuecoco",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2023-05-30",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "てんねん",
+    "nature": "ずぶとい",
+    "moves": [
+      "たいあたり",
+      "にらみつける",
+      "ひのこ"
+    ],
+    "teraType": "ほのお",
+    "ivs": {
+      "hp": 31,
+      "atk": 20,
+      "def": 31,
+      "spa": 20,
+      "spd": 20,
+      "spe": 20
+    }
+  },
+  {
+    "managementId": "09107",
+    "pokemonName": "ニャオハ",
+    "dexNo": 906,
+    "generation": 9,
+    "game": "HOME",
+    "eventName": "Hidden Ability Paldea first partner Pokémon - Sprigatito",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2023-05-30",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "へんげんじざい",
+    "nature": "ようき",
+    "moves": [
+      "ひっかく",
+      "しっぽをふる",
+      "このは"
+    ],
+    "teraType": "くさ",
+    "ivs": {
+      "hp": 20,
+      "atk": 31,
+      "def": 20,
+      "spa": 20,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "09108",
+    "pokemonName": "メロエッタ",
+    "dexNo": 648,
+    "generation": 9,
+    "game": "HOME",
+    "eventName": "Shiny Meloetta",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2024-10-16",
+    "ot": "HOME",
+    "trainerId": "241016",
+    "metLocation": "パルデアちほう",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "てんのめぐみ",
+    "nature": "ひかえめ",
+    "moves": [
+      "いにしえのうた",
+      "エコーボイス",
+      "サイケこうせん",
+      "うたう"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "shiny": "あり",
+    "teraType": "ノーマル",
+    "ivs": {
+      "hp": 20,
+      "atk": 20,
+      "def": 20,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "09109",
+    "pokemonName": "ワニノコ",
+    "dexNo": 158,
+    "generation": 9,
+    "game": "HOME",
+    "eventName": "Alpha Lumiose first partner Pokémon - Totodile",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2026-04-02",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "ちからずく",
+    "nature": "やんちゃ",
+    "moves": [
+      "たいあたり",
+      "にらみつける",
+      "ドラゴンクロー"
+    ],
+    "ivs": "3V",
+    "alpha": "オヤブン"
+  },
+  {
+    "managementId": "09110",
+    "pokemonName": "ポカブ",
+    "dexNo": 498,
+    "generation": 9,
+    "game": "HOME",
+    "eventName": "Alpha Lumiose first partner Pokémon - Tepig",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2026-04-02",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "あついしぼう",
+    "nature": "ゆうかん",
+    "moves": [
+      "たいあたり",
+      "しっぽをふる",
+      "ワイルドボルト"
+    ],
+    "ivs": "3V",
+    "alpha": "オヤブン"
+  },
+  {
+    "managementId": "09111",
+    "pokemonName": "チコリータ",
+    "dexNo": 152,
+    "generation": 9,
+    "game": "HOME",
+    "eventName": "Alpha Lumiose first partner Pokémon - Chikorita",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2026-04-02",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "HOME",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "♂",
+    "ability": "リーフガード",
+    "nature": "れいせい",
+    "moves": [
+      "たいあたり",
+      "しっぽをふる",
+      "マジカルシャイン"
+    ],
+    "ivs": "3V",
+    "alpha": "オヤブン"
+  },
+  {
+    "managementId": "09112",
+    "pokemonName": "ボルケニオン",
+    "dexNo": 721,
+    "generation": 9,
+    "game": "HOME",
+    "eventName": "Shiny Volcanion",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2026-04-27",
+    "ot": "HOME",
+    "trainerId": "260427",
+    "metLocation": "HOME",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "ちょすい",
+    "nature": "ひかえめ",
+    "moves": [
+      "スチームバースト",
+      "フレアドライブ",
+      "ハイドロポンプ",
+      "ヘビーボンバー"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "shiny": "あり",
+    "ivs": {
+      "hp": 20,
+      "atk": 31,
+      "def": 20,
+      "spa": 31,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "09113",
+    "pokemonName": "ガブリアス",
+    "dexNo": 445,
+    "generation": 9,
+    "game": "HOME",
+    "eventName": "2026 Pokémon Japan Championships Garchomp",
+    "distributionMethod": "NFCよみとり",
+    "startDate": "2026-06-06",
+    "endDate": "2026-06-07",
+    "ot": "PJCS26",
+    "trainerId": "260606",
+    "metLocation": "HOME",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "gender": "♀",
+    "ability": "さめはだ",
+    "nature": "いじっぱり",
+    "moves": [
+      "じしん",
+      "ドラゴンクロー",
+      "いわなだれ",
+      "まもる"
+    ],
+    "ribbons": [
+      "イベントリボン"
+    ],
+    "teraType": "ドラゴン",
+    "ivs": {
+      "hp": 20,
+      "atk": 31,
+      "def": 20,
+      "spa": 31,
+      "spd": 20,
+      "spe": 31
+    }
+  },
+  {
+    "managementId": "09114",
+    "pokemonName": "ワッカネズミ",
+    "dexNo": 924,
+    "generation": 9,
+    "game": "スカーレット, バイオレット",
+    "eventName": "Pokémon Center Birthday Tandemaus",
+    "distributionMethod": "NFCよみとり",
+    "startDate": "2024-11-01",
+    "endDate": "2025-10-31",
+    "ot": {
+      "JPN": "ポケセン",
+      "ENG": "PokéCenter",
+      "SPA": "ポケセン",
+      "FRE": "ポケセン",
+      "GER": "ポケセン",
+      "ITA": "ポケセン",
+      "KOR": "ポケセン",
+      "CHS": "ポケセン",
+      "CHT": "寶可夢中心"
+    },
+    "trainerId": "241101",
+    "metLocation": "ポケモンセンター",
+    "ball": "プレシャスボール",
+    "level": 5,
+    "ability": "マイペース",
+    "nature": "ランダム",
+    "moves": [
+      "おいわい",
+      "テラバースト",
+      "つぶらなひとみ",
+      "エコーボイス"
+    ],
+    "ribbons": [
+      "バースデーリボン"
+    ],
+    "notes": "同一個体がシリアルコード配信でも配布された（id: 09073）。",
+    "teraType": "ノーマル",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "09115",
+    "pokemonName": "パピモッチ",
+    "dexNo": 926,
+    "generation": 9,
+    "game": "スカーレット, バイオレット",
+    "eventName": "Pokémon Center Birthday Fidough",
+    "distributionMethod": "NFCよみとり",
+    "startDate": "2025-11-01",
+    "endDate": "2026-10-31",
+    "ot": {
+      "JPN": "ポケセン",
+      "ENG": "PokéCenter",
+      "SPA": "ポケセン",
+      "FRE": "ポケセン",
+      "GER": "ポケセン",
+      "ITA": "ポケセン",
+      "KOR": "ポケセン",
+      "CHS": "ポケセン",
+      "CHT": "寶可夢中心"
+    },
+    "trainerId": "251101",
+    "metLocation": "ポケモンセンター",
+    "ball": "プレシャスボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "マイペース",
+    "nature": "ランダム",
+    "moves": [
+      "おいわい",
+      "つぶらなひとみ",
+      "じゃれつく",
+      "あまえる"
+    ],
+    "ribbons": [
+      "バースデーリボン"
+    ],
+    "notes": "同一個体がシリアルコード配信でも配布された（id: 09098）。",
     "teraType": "フェアリー",
     "ivs": "ランダム"
   },

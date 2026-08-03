@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 1,
+  "source": "games/titles.json + mappings/distribution-methods.json + mappings/method-glossary.json",
+  "counts": {
+    "games": 44,
+    "methods": 24
+  },
+  "games": [
+    {
+      "id": "red",
+      "shortName": "赤",
+      "name": "ポケットモンスター 赤",
+      "name_en": "Pokémon Red"
+    },
+    {
+      "id": "green",
+      "shortName": "緑",
+      "name": "ポケットモンスター 緑",
+      "name_en": "Pokémon Green"
+    },
+    {
+      "id": "blue",
+      "shortName": "青",
+      "name": "ポケットモンスター 青",
+      "name_en": "Pokémon Blue"
+    },
+    {
+      "id": "yellow",
+      "shortName": "ピカチュウ",
+      "name": "ポケットモンスター ピカチュウ",
+      "name_en": "Pokémon Yellow"
+    },
+    {
+      "id": "gold",
+      "shortName": "金",
+      "name": "ポケットモンスター 金",
+      "name_en": "Pokémon Gold"
+    },
+    {
+      "id": "silver",
+      "shortName": "銀",
+      "name": "ポケットモンスター 銀",
+      "name_en": "Pokémon Silver"
+    },
+    {
+      "id": "crystal",
+      "shortName": "クリスタル",
+      "name": "ポケットモンスター クリスタル",
+      "name_en": "Pokémon Crystal"
+    },
+    {
+      "id": "ruby",
+      "shortName": "ルビー",
+      "name": "ポケットモンスター ルビー",
+      "name_en": "Pokémon Ruby"
+    },
+    {
+      "id": "sapphire",
+      "shortName": "サファイア",
+      "name": "ポケットモンスター サファイア",
+      "name_en": "Pokémon Sapphire"
+    },
+    {
+      "id": "colosseum",
+      "shortName": "コロシアム",
+      "name": "ポケモンコロシアム",
+      "name_en": "Pokémon Colosseum"
+    },
+    {
+      "id": "firered",
+      "shortName": "FR",
+      "name": "ポケモン ファイアレッド",
+      "name_en": "Pokémon FireRed"
+    },
+    {
+      "id": "leafgreen",
+      "shortName": "LG",
+      "name": "ポケモン リーフグリーン",
+      "name_en": "Pokémon LeafGreen"
+    },
+    {
+      "id": "emerald",
+      "shortName": "エメラルド",
+      "name": "ポケットモンスター エメラルド",
+      "name_en": "Pokémon Emerald"
+    },
+    {
+      "id": "xd",
+      "shortName": "XD",
+      "name": "ポケモンXD 闇の旋風ダークルギア",
+      "name_en": "Pokémon XD: Gale of Darkness"
+    },
+    {
+      "id": "diamond",
+      "shortName": "ダイヤモンド",
+      "name": "ポケットモンスター ダイヤモンド",
+      "name_en": "Pokémon Diamond"
+    },
+    {
+      "id": "pearl",
+      "shortName": "パール",
+      "name": "ポケットモンスター パール",
+      "name_en": "Pokémon Pearl"
+    },
+    {
+      "id": "platinum",
+      "shortName": "プラチナ",
+      "name": "ポケットモンスター プラチナ",
+      "name_en": "Pokémon Platinum"
+    },
+    {
+      "id": "heartgold",
+      "shortName": "ハートゴールド",
+      "name": "ポケットモンスター ハートゴールド",
+      "name_en": "Pokémon HeartGold"
+    },
+    {
+      "id": "soulsilver",
+      "shortName": "ソウルシルバー",
+      "name": "ポケットモンスター ソウルシルバー",
+      "name_en": "Pokémon SoulSilver"
+    },
+    {
+      "id": "black",
+      "shortName": "ブラック",
+      "name": "ポケットモンスター ブラック",
+      "name_en": "Pokémon Black"
+    },
+    {
+      "id": "white",
+      "shortName": "ホワイト",
+      "name": "ポケットモンスター ホワイト",
+      "name_en": "Pokémon White"
+    },
+    {
+      "id": "black2",
+      "shortName": "ブラック2",
+      "name": "ポケットモンスター ブラック2",
+      "name_en": "Pokémon Black 2"
+    },
+    {
+      "id": "white2",
+      "shortName": "ホワイト2",
+      "name": "ポケットモンスター ホワイト2",
+      "name_en": "Pokémon White 2"
+    },
+    {
+      "id": "x",
+      "shortName": "X",
+      "name": "ポケットモンスター X",
+      "name_en": "Pokémon X"
+    },
+    {
+      "id": "y",
+      "shortName": "Y",
+      "name": "ポケットモンスター Y",
+      "name_en": "Pokémon Y"
+    },
+    {
+      "id": "omegaruby",
+      "shortName": "オメガルビー",
+      "name": "ポケットモンスター オメガルビー",
+      "name_en": "Pokémon Omega Ruby"
+    },
+    {
+      "id": "alphasapphire",
+      "shortName": "アルファサファイア",
+      "name": "ポケットモンスター アルファサファイア",
+      "name_en": "Pokémon Alpha Sapphire"
+    },
+    {
+      "id": "sun",
+      "shortName": "サン",
+      "name": "ポケットモンスター サン",
+      "name_en": "Pokémon Sun"
+    },
+    {
+      "id": "moon",
+      "shortName": "ムーン",
+      "name": "ポケットモンスター ムーン",
+      "name_en": "Pokémon Moon"
+    },
+    {
+      "id": "ultra_sun",
+      "shortName": "ウルトラサン",
+      "name": "ポケットモンスター ウルトラサン",
+      "name_en": "Pokémon Ultra Sun"
+    },
+    {
+      "id": "ultra_moon",
+      "shortName": "ウルトラムーン",
+      "name": "ポケットモンスター ウルトラムーン",
+      "name_en": "Pokémon Ultra Moon"
+    },
+    {
+      "id": "lets_go_pikachu",
+      "shortName": "LGPP",
+      "name": "ポケットモンスター Let's Go! ピカチュウ",
+      "name_en": "Pokémon Let's Go, Pikachu!"
+    },
+    {
+      "id": "lets_go_eevee",
+      "shortName": "LGPE",
+      "name": "ポケットモンスター Let's Go! イーブイ",
+      "name_en": "Pokémon Let's Go, Eevee!"
+    },
+    {
+      "id": "sword",
+      "shortName": "ソード",
+      "name": "ポケットモンスター ソード",
+      "name_en": "Pokémon Sword"
+    },
+    {
+      "id": "shield",
+      "shortName": "シールド",
+      "name": "ポケットモンスター シールド",
+      "name_en": "Pokémon Shield"
+    },
+    {
+      "id": "brilliant_diamond",
+      "shortName": "BDSP",
+      "name": "ポケットモンスター ブリリアントダイヤモンド",
+      "name_en": "Pokémon Brilliant Diamond"
+    },
+    {
+      "id": "shining_pearl",
+      "shortName": "シャイニングパール",
+      "name": "ポケットモンスター シャイニングパール",
+      "name_en": "Pokémon Shining Pearl"
+    },
+    {
+      "id": "legends_arceus",
+      "shortName": "LA",
+      "name": "Pokémon LEGENDS アルセウス",
+      "name_en": "Pokémon Legends: Arceus"
+    },
+    {
+      "id": "scarlet",
+      "shortName": "スカーレット",
+      "name": "ポケットモンスター スカーレット",
+      "name_en": "Pokémon Scarlet"
+    },
+    {
+      "id": "violet",
+      "shortName": "バイオレット",
+      "name": "ポケットモンスター バイオレット",
+      "name_en": "Pokémon Violet"
+    },
+    {
+      "id": "legends_za",
+      "shortName": "ZA",
+      "name": "Pokémon LEGENDS Z-A",
+      "name_en": "Pokémon Legends: Z-A"
+    },
+    {
+      "id": "poco_a_pokemon",
+      "shortName": "ぽこポケ",
+      "name": "ぽこ あ ポケモン",
+      "name_en": "Pokémon Pokopia"
+    },
+    {
+      "id": "pokemon_champions",
+      "shortName": "チャンピオンズ",
+      "name": "Pokémon Champions",
+      "name_en": "Pokémon Champions"
+    },
+    {
+      "id": "home",
+      "shortName": "HOME",
+      "name": "Pokémon HOME",
+      "name_en": "Pokémon HOME"
+    }
+  ],
+  "methods": {
+    "HOME": {
+      "sourceKeys": [
+        "Pokémon HOME"
+      ]
+    },
+    "NFCよみとり": {
+      "sourceKeys": [
+        "NFC Tag"
+      ],
+      "note": "Pokémon HOMEアプリ内の機能名（略称ではなくアプリ内表記そのまま）。NFC対応カード等をスマートフォンにかざして受け取る方式。"
+    },
+    "SM体験版": {
+      "sourceKeys": [
+        "Pokémon Sun and Pokémon Moon Special Demo Version"
+      ]
+    },
+    "Wi-Fi": {
+      "sourceKeys": [
+        "Wi-Fi"
+      ]
+    },
+    "あいことば": {
+      "sourceKeys": [
+        "Password"
+      ],
+      "note": "「ふしぎなおくりもの」で入力する合言葉（パスワード）による受け取り方式。英語キー「Password」だけでは配布の仕組みが伝わらないため補足。"
+    },
+    "インターネット": {
+      "sourceKeys": [
+        "Internet"
+      ]
+    },
+    "シリアルコード": {
+      "sourceKeys": [
+        "Serial Code",
+        "Serial code"
+      ]
+    },
+    "ニンテンドーゾーン": {
+      "sourceKeys": [
+        "Nintendo Zone"
+      ],
+      "note": "任天堂が2009-06-19〜2020-02-28に提供していた街頭サービス。対象店舗（マクドナルド等）やFREESPOT設置エリアでニンテンドー3DS等が専用機器と無線通信し、コンテンツを受信できた。サービスは終了済み。"
+    },
+    "ニンテンドーネットワーク": {
+      "sourceKeys": [
+        "Nintendo Network"
+      ],
+      "note": "ニンテンドー3DS/Wii U向けのオンラインサービス（Nintendo Wi-Fi Connectionの後継）。2024-04-09にオンラインサービスを終了。"
+    },
+    "バトルパス Lv.25": {
+      "sourceKeys": [],
+      "note": "Pokémon Champions のシーズン制無料報酬。ランクバトル等でSBS（シーズンバトルスコア）を貯めてLv.25に到達すると獲得（ポケモン1体＋メガストーン1個など）。"
+    },
+    "バトルパス(無料) Lv.25": {
+      "sourceKeys": [],
+      "note": "Pokémon Champions のシーズン制無料報酬。ランクバトル等でSBS（シーズンバトルスコア）を貯めてLv.25に到達すると獲得（ポケモン1体＋メガストーン1個など）。"
+    },
+    "バンク": {
+      "sourceKeys": [
+        "Pokémon Bank"
+      ]
+    },
+    "プレイ特典": {
+      "sourceKeys": []
+    },
+    "プレゼントボックス": {
+      "sourceKeys": [
+        "Gift Box"
+      ],
+      "note": "Pokémon HOMEアプリ内の機能名（略称ではなくアプリ内表記そのまま）。配布ポケモンを受け取るための領域。"
+    },
+    "プレミアムバトルパス Lv.10": {
+      "sourceKeys": [],
+      "note": "Pokémon Champions の有料プレミアムバトルパス（¥1,400/シーズン）を購入すると解放される追加報酬。Lv.10到達時に獲得。"
+    },
+    "プレミアムバトルパス Lv.2": {
+      "sourceKeys": [],
+      "note": "Pokémon Champions の有料プレミアムバトルパス（¥1,400/シーズン）を購入すると解放される追加報酬。Lv.2到達時に獲得。"
+    },
+    "ポケモンリンク": {
+      "sourceKeys": [
+        "Pokémon Link"
+      ],
+      "note": "『ポケットモンスター X・Y』などのタイトル画面から選べるメニュー。ポケモンバンク利用特典や体験版連動特典を、コード入力なしでゲーム内に直接受け取れる。"
+    },
+    "メールボックス": {
+      "sourceKeys": [],
+      "note": "Pokémon Champions内のメール受信機能。配布ポケモンの受け取り先になる。"
+    },
+    "モンスターボール Plus": {
+      "sourceKeys": [
+        "Poké Ball Plus"
+      ]
+    },
+    "ローカル交換": {
+      "sourceKeys": [
+        "Local Trade"
+      ]
+    },
+    "ローカル通信": {
+      "sourceKeys": [
+        "Local Wireless",
+        "Local Communication"
+      ]
+    },
+    "大会参加賞": {
+      "sourceKeys": []
+    },
+    "赤外線通信": {
+      "sourceKeys": [
+        "Infrared"
+      ]
+    },
+    "配布会場": {
+      "sourceKeys": [
+        "In-Life"
+      ]
+    }
+  }
+}

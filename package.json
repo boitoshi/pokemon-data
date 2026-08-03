@@ -4,7 +4,8 @@
     "validate:master": "node scripts/validate-data.mjs",
     "validate:distributions": "node scripts/validate-distributions.mjs",
     "validate:ribbons": "node scripts/validate-ribbons.mjs",
-    "build": "node scripts/build-distributions.mjs",
+    "build": "node scripts/build-distributions.mjs && node scripts/build-abbreviations.mjs",
+    "build:abbreviations": "node scripts/build-abbreviations.mjs",
     "test:build-compat": "node scripts/test-build-compat.mjs"
   },
   "devDependencies": {

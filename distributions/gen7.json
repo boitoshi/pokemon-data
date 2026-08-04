@@ -2436,7 +2436,13 @@
         "spe": 31
       },
       "notes": "PJCS2018チャンピオン・キムラヒロフミ選手の使用個体。PJCS2019会場でローカル配信。努力値はH12/B4/C252/S236。",
-      "postUrl": "https://www.pokebros.net/hirofumikimurasnidoqueen/"
+      "postUrl": "https://www.pokebros.net/hirofumikimurasnidoqueen/",
+      "event": {
+        "kind": "pjcs",
+        "year": 2019,
+        "schedule": "2019年6月8日・9日",
+        "location": "幕張メッセ 国際展示場 10-11ホール（千葉県千葉市）"
+      }
     },
     {
       "id": "07097",

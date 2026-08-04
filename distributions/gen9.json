@@ -796,7 +796,13 @@
       "evs": "H150/B236/C116/D4/S4",
       "password": "24MHABATAKUKAM1",
       "notes": "PJCS2025開催記念での配布。PJCS2024チャンピオンが使用していた個体。",
-      "postUrl": "https://www.pokebros.net/gen9-pjcs2024champ-fluttermane/"
+      "postUrl": "https://www.pokebros.net/gen9-pjcs2024champ-fluttermane/",
+      "event": {
+        "kind": "pjcs",
+        "year": 2025,
+        "schedule": "2025年6月21日・22日",
+        "location": "パシフィコ横浜 展示ホールB・C・D"
+      }
     },
     {
       "id": "09089",
@@ -844,7 +850,13 @@
       },
       "evs": "H236/B156/D118",
       "notes": "PJCS2025開催記念での配布。WCS2024シニアチャンピオンが使用していた個体。シリアルコードはポケモンHOMEで受け取る。",
-      "postUrl": "https://www.pokebros.net/sv-wcs2024champ-amoonguss/"
+      "postUrl": "https://www.pokebros.net/sv-wcs2024champ-amoonguss/",
+      "event": {
+        "kind": "pjcs",
+        "year": 2025,
+        "schedule": "2025年6月21日・22日",
+        "location": "パシフィコ横浜 展示ホールB・C・D"
+      }
     },
     {
       "id": "09087",
@@ -1798,7 +1810,13 @@
       "evs": "H158/A252/B4/D4/S92",
       "password": "F1ARR0W23MASTER",
       "notes": "2024年PJCS大会の開催記念での配布。2023年PJCS優勝者が使用していた個体。",
-      "postUrl": "https://www.pokebros.net/gen9-pjcs2023champ-talonflame/"
+      "postUrl": "https://www.pokebros.net/gen9-pjcs2023champ-talonflame/",
+      "event": {
+        "kind": "pjcs",
+        "year": 2024,
+        "schedule": "2024年6月1日・2日",
+        "location": "パシフィコ横浜 展示ホールB・C・D"
+      }
     },
     {
       "id": "09066",
@@ -3381,7 +3399,13 @@
       "evs": "H252/B252/D4",
       "password": "22SEN10RCHAMP",
       "notes": "2023PJCSの開催記念での配布。2022年世界大会シニアカテゴリ優勝者が使用していた個体。",
-      "postUrl": "https://www.pokebros.net/gen9-wcs2022-seniorchamp-bronzong/"
+      "postUrl": "https://www.pokebros.net/gen9-wcs2022-seniorchamp-bronzong/",
+      "event": {
+        "kind": "pjcs",
+        "year": 2023,
+        "schedule": "2023年6月10日・11日",
+        "location": "幕張メッセ 国際展示場 2・3ホール"
+      }
     },
     {
       "id": "09014",
@@ -4139,6 +4163,12 @@
       },
       "source": {
         "kind": "bulbapedia"
+      },
+      "event": {
+        "kind": "pjcs",
+        "year": 2026,
+        "schedule": "2026年6月6日・7日",
+        "location": "パシフィコ横浜 展示ホールA・B・C・D（神奈川県横浜市）"
       }
     },
     {

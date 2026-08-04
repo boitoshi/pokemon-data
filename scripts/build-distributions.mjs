@@ -202,12 +202,19 @@ function convertRegion(entry) {
   return entry.region.join(",");
 }
 
-// ---- tournament系: champions(gen0)のみ、entry.event から展開 ----
+// entry.event の kind → 表示用ラベル。未知の kind はそのまま通す
+const TOURNAMENT_TYPE_LABEL = {
+  champions: "Champions",
+  pjcs: "PJCS",
+  wcs: "WCS",
+};
+
+// ---- tournament系: entry.event から展開（champions に限らず全データセット） ----
 function convertTournamentFields(entry, managementId) {
   const event = entry.event;
   if (!event) return {};
   const out = {};
-  out.tournamentType = event.kind === "champions" ? "Champions" : event.kind;
+  out.tournamentType = TOURNAMENT_TYPE_LABEL[event.kind] ?? event.kind;
   if (event.year !== undefined) out.tournamentYear = event.year;
   if (event.schedule !== undefined) out.tournamentSchedule = event.schedule;
   if (event.location !== undefined) out.tournamentLocation = event.location;
@@ -266,7 +273,7 @@ function checkKnownKeys(entry, managementId) {
   }
 }
 
-function convertEntry(entry, generation, isChampions) {
+function convertEntry(entry, generation) {
   const managementId = entry.id;
   checkKnownKeys(entry, managementId);
 
@@ -279,11 +286,8 @@ function convertEntry(entry, generation, isChampions) {
   out.game = convertGames(entry.games, managementId);
   out.eventName = entry.eventName;
 
-  if (isChampions) {
-    Object.assign(out, convertTournamentFields(entry, managementId));
-  } else if (entry.event !== undefined) {
-    throw new Error(`champions以外のentryにeventフィールドがあります (managementId=${managementId})`);
-  }
+  // 大会情報は champions 専用ではない（PJCS/WCS の配信個体は gen5〜9 側にある）
+  Object.assign(out, convertTournamentFields(entry, managementId));
 
   out.distributionMethod = entry.distributionMethod;
   if (entry.distributionLocation !== undefined) out.distributionLocation = entry.distributionLocation;
@@ -361,7 +365,7 @@ for (const { dataset, file } of DATASETS) {
     idSet.add(entry.id);
   }
 
-  const converted = payload.entries.map((entry) => convertEntry(entry, generation, isChampions));
+  const converted = payload.entries.map((entry) => convertEntry(entry, generation));
   records.push(...converted);
   counts[dataset] = converted.length;
 }

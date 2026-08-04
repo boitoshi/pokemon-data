@@ -54,7 +54,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       },
       {
         "form_id": "gmax",
@@ -70,6 +71,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイベンタツ"
       }
     ]
@@ -127,7 +129,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       },
       {
         "form_id": "mega-y",
@@ -148,7 +151,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       },
       {
         "form_id": "gmax",
@@ -164,6 +168,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイゴクエン"
       }
     ]
@@ -219,7 +224,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       },
       {
         "form_id": "gmax",
@@ -234,6 +240,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイホウゲキ"
       }
     ]
@@ -286,6 +293,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイコワク"
       }
     ]
@@ -344,7 +352,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -402,7 +411,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -430,7 +440,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -458,7 +469,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -533,6 +545,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "ピカチュウZ",
         "z_move": "ひっさつのピカチュート"
       },
@@ -549,6 +562,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイバンライ"
       }
     ]
@@ -577,7 +591,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       },
       {
         "form_id": "mega-x",
@@ -591,7 +606,8 @@
         "required_item": "ライチュウナイトX",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       },
       {
         "form_id": "mega-y",
@@ -605,7 +621,8 @@
         "required_item": "ライチュウナイトY",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       },
       {
         "form_id": "zmove",
@@ -622,6 +639,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "アロライZ",
         "z_move": "ライトニングサーフライド"
       }
@@ -651,7 +669,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -679,7 +698,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -787,7 +807,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -814,7 +835,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -842,7 +864,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -1002,7 +1025,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -1030,7 +1054,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -1057,7 +1082,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       },
       {
         "form_id": "galar",
@@ -1071,7 +1097,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       },
       {
         "form_id": "gmax",
@@ -1086,6 +1113,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイコバン"
       }
     ]
@@ -1113,7 +1141,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -1185,7 +1214,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -1213,7 +1243,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -1302,7 +1333,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -1352,6 +1384,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイシンゲキ"
       }
     ]
@@ -1406,7 +1439,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -1459,7 +1493,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -1488,7 +1523,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -1517,7 +1553,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -1544,7 +1581,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -1572,7 +1610,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -1600,7 +1639,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -1629,7 +1669,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       },
       {
         "form_id": "mega",
@@ -1649,7 +1690,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -1701,7 +1743,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -1776,7 +1819,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -1804,7 +1848,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -1886,7 +1931,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       },
       {
         "form_id": "gmax",
@@ -1902,6 +1948,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイゲンエイ"
       }
     ]
@@ -1975,6 +2022,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイホウマツ"
       }
     ]
@@ -2003,7 +2051,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -2031,7 +2080,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -2072,7 +2122,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -2111,7 +2162,8 @@
         "required_item": "",
         "available_in": [
           "SM"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -2183,7 +2235,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -2262,7 +2315,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -2347,7 +2401,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -2376,7 +2431,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -2456,7 +2512,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -2483,7 +2540,8 @@
         "required_item": "",
         "available_in": [
           "SV"
-        ]
+        ],
+        "debut_game": "SV"
       },
       {
         "form_id": "paldea-blaze-breed",
@@ -2498,7 +2556,8 @@
         "required_item": "",
         "available_in": [
           "SV"
-        ]
+        ],
+        "debut_game": "SV"
       },
       {
         "form_id": "paldea-aqua-breed",
@@ -2513,7 +2572,8 @@
         "required_item": "",
         "available_in": [
           "SV"
-        ]
+        ],
+        "debut_game": "SV"
       }
     ]
   },
@@ -2559,7 +2619,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -2589,6 +2650,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイセンリツ"
       }
     ]
@@ -2629,6 +2691,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "イーブイZ",
         "z_move": "ナインエボルブースト"
       },
@@ -2645,6 +2708,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイホーヨー"
       }
     ]
@@ -2772,7 +2836,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -2801,6 +2866,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "カビゴンZ",
         "z_move": "ほんきをだすこうげき"
       },
@@ -2817,6 +2883,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイサイセイ"
       }
     ]
@@ -2846,7 +2913,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -2875,7 +2943,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -2904,7 +2973,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -2956,7 +3026,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -2990,7 +3061,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       },
       {
         "form_id": "mega-y",
@@ -3010,7 +3082,8 @@
           "LPLE",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -3039,6 +3112,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "ミュウZ",
         "z_move": "オリジンズスーパーノヴァ"
       }
@@ -3091,7 +3165,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -3141,7 +3216,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -3192,7 +3268,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -3458,7 +3535,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -3625,7 +3703,8 @@
         "required_item": "",
         "available_in": [
           "SV"
-        ]
+        ],
+        "debut_game": "SV"
       }
     ]
   },
@@ -3700,7 +3779,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -3824,7 +3904,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -3875,7 +3956,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -3909,7 +3991,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -3955,7 +4038,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -3984,7 +4068,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -4081,7 +4166,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -4157,7 +4243,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -4203,7 +4290,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -4439,7 +4527,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -4529,7 +4618,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -4586,7 +4676,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -4642,7 +4733,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -4691,7 +4783,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -4718,7 +4811,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -4952,7 +5046,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -5201,7 +5296,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -5235,7 +5331,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -5292,7 +5389,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -5338,7 +5436,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -5381,7 +5480,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -5504,7 +5604,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -5571,7 +5672,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -5718,7 +5820,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -5970,7 +6073,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -6032,7 +6136,8 @@
         "required_item": "チリーンナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -6064,7 +6169,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       },
       {
         "form_id": "mega-z",
@@ -6078,7 +6184,8 @@
         "required_item": "アブソルナイトZ",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -6131,7 +6238,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -6278,7 +6386,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -6335,7 +6444,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -6402,7 +6512,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -6436,7 +6547,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -6466,7 +6578,8 @@
           "SM",
           "USUM",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -6497,7 +6610,8 @@
           "SM",
           "USUM",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -6530,7 +6644,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -6709,7 +6824,8 @@
         "required_item": "M次元",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -7073,7 +7189,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -7293,7 +7410,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -7349,7 +7467,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       },
       {
         "form_id": "mega-z",
@@ -7364,7 +7483,8 @@
         "required_item": "ルカリオナイトZ",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -7525,7 +7645,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "XY"
       }
     ]
   },
@@ -7719,7 +7840,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -7772,7 +7894,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -7870,7 +7993,8 @@
         "required_item": "ヒードラナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -8057,7 +8181,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -8107,7 +8232,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -8428,7 +8554,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -8460,7 +8587,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -8639,7 +8767,8 @@
         "required_item": "ペンドラナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -8702,7 +8831,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -8776,7 +8906,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -8803,7 +8934,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       },
       {
         "form_id": "galar-zen",
@@ -8818,7 +8950,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -8895,7 +9028,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -8935,7 +9069,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -9033,6 +9168,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイシュウキ"
       }
     ]
@@ -9061,7 +9197,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -9089,7 +9226,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -9483,7 +9621,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -9559,7 +9698,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -9676,7 +9816,8 @@
         "required_item": "",
         "available_in": [
           "SwSh"
-        ]
+        ],
+        "debut_game": "SwSh"
       }
     ]
   },
@@ -9750,7 +9891,8 @@
         "required_item": "ゴルーグナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -9826,7 +9968,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -10128,7 +10271,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -10180,7 +10324,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -10232,7 +10377,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       },
       {
         "form_id": "bond",
@@ -10249,7 +10395,8 @@
           "SM",
           "USUM",
           "SV"
-        ]
+        ],
+        "debut_game": "SM"
       }
     ]
   },
@@ -10384,7 +10531,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -10422,7 +10570,8 @@
         "required_item": "フラエッテナイト",
         "available_in": [
           "ZA"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -10527,7 +10676,8 @@
         "required_item": "ニャオニクスナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -10649,7 +10799,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -10691,7 +10842,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -10733,7 +10885,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -10868,7 +11021,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -10931,7 +11085,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -10959,7 +11114,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -11058,7 +11214,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       }
     ]
   },
@@ -11135,7 +11292,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -11168,7 +11326,8 @@
           "USUM",
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -11245,7 +11404,8 @@
         "required_item": "",
         "available_in": [
           "LA"
-        ]
+        ],
+        "debut_game": "LA"
       },
       {
         "form_id": "zmove",
@@ -11261,6 +11421,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "ジュナイパーZ",
         "z_move": "シャドーアローズストライク"
       }
@@ -11314,6 +11475,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "ガオガエンZ",
         "z_move": "ハイパーダーククラッシャー"
       }
@@ -11367,6 +11529,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "アシレーヌZ",
         "z_move": "わだつみのシンフォニア"
       }
@@ -11501,7 +11664,8 @@
         "required_item": "ケケンカニナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -11577,6 +11741,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "ルガルガンZ",
         "z_move": "ラジアルエッジストーム"
       }
@@ -11861,7 +12026,8 @@
         "required_item": "グソクムシャナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -11995,6 +12161,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "ミミッキュZ",
         "z_move": "ぽかぼかフレンドタイム"
       }
@@ -12038,7 +12205,8 @@
         "available_in": [
           "ZA",
           "M-dimension"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -12102,6 +12270,7 @@
         "available_in": [
           "USUM"
         ],
+        "debut_game": "USUM",
         "z_crystal": "ジャラランガZ",
         "z_move": "ブレイジングソウルビート"
       }
@@ -12133,6 +12302,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "カプZ",
         "z_move": "ガーディアン・デ・アローラ"
       }
@@ -12164,6 +12334,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "カプZ",
         "z_move": "ガーディアン・デ・アローラ"
       }
@@ -12195,6 +12366,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "カプZ",
         "z_move": "ガーディアン・デ・アローラ"
       }
@@ -12226,6 +12398,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "カプZ",
         "z_move": "ガーディアン・デ・アローラ"
       }
@@ -12279,6 +12452,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "ソルガレオZ",
         "z_move": "サンシャインスマッシャー"
       }
@@ -12310,6 +12484,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "ルナアーラZ",
         "z_move": "ムーンライトブラスター"
       }
@@ -12422,6 +12597,7 @@
         "available_in": [
           "USUM"
         ],
+        "debut_game": "USUM",
         "z_crystal": "ウルトラネクロZ",
         "z_move": "てんこがすめつぼうのひかり"
       }
@@ -12452,7 +12628,8 @@
         "required_item": "マギアナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -12482,6 +12659,7 @@
           "SM",
           "USUM"
         ],
+        "debut_game": "SM",
         "z_crystal": "マーシャドーZ",
         "z_move": "しちせいだっこんたい"
       }
@@ -12557,7 +12735,8 @@
         "required_item": "ゼラオラナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -12596,6 +12775,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイユウゲキ"
       }
     ]
@@ -12646,6 +12826,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイコランダ"
       }
     ]
@@ -12696,6 +12877,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイカキュウ"
       }
     ]
@@ -12746,6 +12928,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイソゲキ"
       }
     ]
@@ -12820,6 +13003,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイフウゲキ"
       }
     ]
@@ -12873,6 +13057,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイテンドウ"
       }
     ]
@@ -12980,6 +13165,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイガンジン"
       }
     ]
@@ -13055,6 +13241,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイフンセキ"
       }
     ]
@@ -13097,6 +13284,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイサンゲキ"
       }
     ]
@@ -13127,6 +13315,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイカンロ"
       }
     ]
@@ -13166,6 +13355,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイサジン"
       }
     ]
@@ -13242,6 +13432,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイカンデン"
       }
     ]
@@ -13284,6 +13475,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイヒャッカ"
       }
     ]
@@ -13379,6 +13571,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイテンバツ"
       }
     ]
@@ -13433,6 +13626,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイスイマ"
       }
     ]
@@ -13541,6 +13735,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイダンエン"
       }
     ]
@@ -13568,7 +13763,8 @@
         "required_item": "",
         "available_in": [
           "ZA"
-        ]
+        ],
+        "debut_game": "ZA"
       }
     ]
   },
@@ -13688,6 +13884,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイコウジン"
       }
     ]
@@ -13766,6 +13963,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイゲンスイ"
       }
     ]
@@ -13877,6 +14075,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイイチゲキ"
       },
       {
@@ -13893,6 +14092,7 @@
         "available_in": [
           "SwSh"
         ],
+        "debut_game": "SwSh",
         "gmax_move": "キョダイレンゲキ"
       }
     ]
@@ -14600,7 +14800,8 @@
         "required_item": "スコヴィランナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },
@@ -15155,7 +15356,8 @@
         "required_item": "セグレイブナイト",
         "available_in": [
           "M-dimension"
-        ]
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },

@@ -3017,7 +3017,7 @@
         "form_name_ja": "メガカイリュー",
         "form_name_en": "",
         "types": [
-          "ノーマル",
+          "ドラゴン",
           "ひこう"
         ],
         "category": "mega",
@@ -6177,7 +6177,8 @@
         "form_name_ja": "メガアブソルZ",
         "form_name_en": "",
         "types": [
-          "あく"
+          "あく",
+          "ゴースト"
         ],
         "category": "mega",
         "ability": "",

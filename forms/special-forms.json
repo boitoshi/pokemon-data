@@ -1778,7 +1778,7 @@
           "formName": "メガカイリュー",
           "debutGame": "ZA",
           "formTypes": [
-            "ノーマル",
+            "ドラゴン",
             "ひこう"
           ],
           "formAbility": "マルチスケイル",
@@ -2850,7 +2850,8 @@
           "formName": "メガアブソルZ",
           "debutGame": "M-dimension",
           "formTypes": [
-            "あく"
+            "あく",
+            "ゴースト"
           ],
           "formAbility": "",
           "requiredItem": "アブソルナイトZ",

@@ -55,14 +55,14 @@
         "event": {
           "type": "object",
           "additionalProperties": false,
-          "description": "大会・映画等のイベント属性。tournament系フィールドをここに畳む",
+          "description": "この配信が行われた（記念する）大会・映画等の属性。⚠ 個体の出自大会ではない。例: 09016 ドータクンは WCS2022シニア王者の個体だが PJCS2023 で配信されたので event は PJCS2023 を指す。tournament系フィールドをここに畳む",
           "properties": {
             "kind": { "enum": ["movie", "wcs", "pjcs", "regional", "champions", "collab", "other"] },
-            "year": { "type": "integer" },
+            "year": { "type": "integer", "description": "その大会の開催年。⚠ 実体の名称と一致しないことがある（08021 は kind:pjcs/year:2020 だが実体は「日本一決定戦2020」。PJCS2020 はコロナ禍で中止）。'{kind}{year}' を大会名として描画しないこと" },
             "schedule": { "type": "string" },
             "location": { "type": "string" },
-            "winner": { "type": "string" },
-            "winnerX": { "type": "string" }
+            "winner": { "type": "string", "description": "⚠ **その大会の優勝者**であって、配信個体の持ち主ではない。PJCS配信は 2019〜2025 について「前年の王者の個体を配る」形だったため両者はズレる（2026 は王者個体の配布自体が無い）。個体の持ち主を出したいときは winner を流用せず、別フィールドを立てること" },
+            "winnerX": { "type": "string", "description": "winner の X アカウント（@ 抜き）" }
           }
         },
         "distributionMethod": { "type": "string", "description": "mappings/distribution-methods.json の値集合に存在すること" },

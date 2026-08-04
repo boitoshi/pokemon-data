@@ -203,10 +203,16 @@ function convertRegion(entry) {
 }
 
 // entry.event の kind → 表示用ラベル。未知の kind はそのまま通す
+// 消費側がラベル一致で絞り込むため（summary-pages の /regional/ は 'Regional' で比較する）、
+// schema の kind enum は全部ここに載せる。載せ漏れると素通しになり、ページから静かに消える
 const TOURNAMENT_TYPE_LABEL = {
   champions: "Champions",
   pjcs: "PJCS",
   wcs: "WCS",
+  regional: "Regional",
+  movie: "Movie",
+  collab: "Collab",
+  other: "Other",
 };
 
 // ---- tournament系: entry.event から展開（champions に限らず全データセット） ----

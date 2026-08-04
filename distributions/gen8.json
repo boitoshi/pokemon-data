@@ -4191,7 +4191,7 @@
         "sword",
         "shield"
       ],
-      "eventName": "Lancer's Shiny Zacian",
+      "eventName": "色違いザシアン",
       "distributionMethod": "シリアルコード",
       "startDate": "2021-11-19",
       "endDate": "2021-12-31",
@@ -4244,7 +4244,7 @@
         "sword",
         "shield"
       ],
-      "eventName": "Arthur's Shiny Zamazenta",
+      "eventName": "色違いザマゼンタ",
       "distributionMethod": "シリアルコード",
       "startDate": "2021-11-19",
       "endDate": "2021-12-31",
@@ -4296,7 +4296,7 @@
         "sword",
         "shield"
       ],
-      "eventName": "Galar's Shiny Eternatus",
+      "eventName": "色違いムゲンダイナ（日本国内コード）",
       "distributionMethod": "シリアルコード",
       "startDate": "2022-10-21",
       "endDate": "2022-11-24",
@@ -4346,7 +4346,7 @@
       "games": [
         "home"
       ],
-      "eventName": "Squirtle",
+      "eventName": "Pokémon HOME スマホ版 初回起動特典（カントー御三家）",
       "distributionMethod": "HOME",
       "startDate": "2020-02-12",
       "level": 5,
@@ -4381,7 +4381,7 @@
       "games": [
         "home"
       ],
-      "eventName": "Charmander",
+      "eventName": "Pokémon HOME スマホ版 初回起動特典（カントー御三家）",
       "distributionMethod": "HOME",
       "startDate": "2020-02-12",
       "level": 5,
@@ -4416,7 +4416,7 @@
       "games": [
         "home"
       ],
-      "eventName": "Bulbasaur",
+      "eventName": "Pokémon HOME スマホ版 初回起動特典（カントー御三家）",
       "distributionMethod": "HOME",
       "startDate": "2020-02-12",
       "level": 5,
@@ -4451,7 +4451,7 @@
       "games": [
         "home"
       ],
-      "eventName": "HOME Pikachu",
+      "eventName": "Pokémon HOME 初回起動特典",
       "distributionMethod": "HOME",
       "startDate": "2020-02-12",
       "level": 5,

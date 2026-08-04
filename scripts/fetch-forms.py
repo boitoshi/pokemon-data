@@ -3,34 +3,31 @@
 # dependencies = []
 # ///
 """
-special-forms.json をソースにして pokemon/all.json の各エントリに
-forms 配列を追加・更新するスクリプト。
+special-forms.json（正本: pokemon-data/forms/special-forms.json）をソースにして
+pokemon/all.json の各エントリに forms 配列を追加・更新するスクリプト。
 
 収録カテゴリ: mega / regional / primal / gigantamax / zmove / bond
 スキップ:     なし
+
+同一 dexNo が special-forms.json に複数エントリで存在する場合（例: ヒヒダルマの
+通常/ダルマモード、ニャオニクスの性別違い、ジュナイパーのヒスイのすがた/専用Zワザ）は
+forms を累積マージする。マージ後に form_id が重複し、かつ内容も完全一致するものだけ
+1件に畳む（先に出たものを残す）。
 
 実行方法:
   uv run scripts/fetch-forms.py
 
 オプション:
   --force    既存のformsデータも再処理する
-  --dry-run  保存せずに先頭10件の結果を表示
+  --dry-run  保存せずに先頭10dexNo分の結果を表示
 """
 
 import argparse
 import json
-from collections import defaultdict
+from collections import OrderedDict, defaultdict
 from pathlib import Path
 
-SPECIAL_FORMS_PATH = (
-    Path(__file__).parent.parent.parent
-    / "pokebros-tools"
-    / "tools"
-    / "summary-pages"
-    / "src"
-    / "data"
-    / "special-forms.json"
-)
+SPECIAL_FORMS_PATH = Path(__file__).parent.parent / "forms" / "special-forms.json"
 OUTPUT_PATH = Path(__file__).parent.parent / "pokemon" / "all.json"
 
 INCLUDE_CATEGORIES = {"mega", "regional", "primal", "gigantamax", "zmove", "bond"}
@@ -141,12 +138,72 @@ def _save(result: dict) -> None:
         json.dump(sorted_result, f, ensure_ascii=False, indent=2)
 
 
+def merge_forms_for_dex(
+    dex_no: int,
+    source_entries: list[dict],
+    category_counts: dict[str, int],
+) -> tuple[list[dict], int]:
+    """同一 dexNo を持つ複数ソースエントリの forms を累積マージする。
+
+    form_id が重複し、かつ内容も完全一致するものだけ1件に畳む（先に出たものを残す）。
+    form_id は重複するが内容が異なる場合（正当な別フォーム）は両方残し、[WARN] を出す。
+
+    Returns: (マージ後の forms 配列, 畳んだ件数)
+    """
+    raw_entries: list[dict] = []
+    for pokemon in source_entries:
+        pokemon_name_ja: str = pokemon["pokemonName"]
+        for form in pokemon.get("forms", []):
+            category: str = form.get("category", "")
+            if category in SKIP_CATEGORIES:
+                continue
+            if category not in INCLUDE_CATEGORIES:
+                print(f"[WARN] No.{dex_no} 未知カテゴリ '{category}' をスキップ。")
+                continue
+            raw_entries.append(build_form_entry(form, pokemon_name_ja))
+
+    # form_id ごとにグルーピング（出現順を維持）
+    groups: "OrderedDict[str, list[dict]]" = OrderedDict()
+    for entry in raw_entries:
+        groups.setdefault(entry["form_id"], []).append(entry)
+
+    forms_out: list[dict] = []
+    collapsed = 0
+    for form_id, entries in groups.items():
+        first = entries[0]
+        forms_out.append(first)
+        if len(entries) > 1:
+            dup_count = 0
+            distinct_extra: list[dict] = []
+            for e in entries[1:]:
+                if e == first:
+                    dup_count += 1
+                else:
+                    distinct_extra.append(e)
+            if dup_count:
+                collapsed += dup_count
+                print(
+                    f"[INFO] No.{dex_no} form_id='{form_id}' の完全重複 {dup_count} 件を畳みました。"
+                )
+            if distinct_extra:
+                print(
+                    f"[WARN] No.{dex_no} form_id='{form_id}' が{len(distinct_extra)}件"
+                    "内容差分ありで衝突しています。データ欠落を避けるため両方残します。"
+                )
+                forms_out.extend(distinct_extra)
+
+    for entry in forms_out:
+        category_counts[entry["category"]] += 1
+
+    return forms_out, collapsed
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="special-forms.json をソースにして all.json に forms 配列を追加・更新する"
     )
     parser.add_argument("--force", action="store_true", help="既存のformsデータも再処理する")
-    parser.add_argument("--dry-run", action="store_true", help="保存せずに先頭10件の結果を表示")
+    parser.add_argument("--dry-run", action="store_true", help="保存せずに先頭10dexNo分の結果を表示")
     args = parser.parse_args()
 
     # --- ソース読み込み ---
@@ -167,65 +224,71 @@ def main() -> None:
         result: dict[str, dict] = json.load(f)
     print(f"all.json: {len(result)} 件")
 
-    # --- 処理対象の決定 ---
+    # --- dexNo 単位へ集約（同一 dexNo の複数ソースエントリをまとめる） ---
+    grouped_by_dex: "OrderedDict[int, list[dict]]" = OrderedDict()
+    for p in source_pokemon:
+        grouped_by_dex.setdefault(p["dexNo"], []).append(p)
+    print(f"special-forms.json: dexNo単位で {len(grouped_by_dex)} 件（重複dexNo統合後）")
+
+    # --- 処理対象の決定（判定単位は dexNo） ---
     if args.force:
-        targets = source_pokemon
+        target_dex_nos = list(grouped_by_dex.keys())
     else:
-        targets = [
-            p for p in source_pokemon
-            if "forms" not in result.get(str(p["dexNo"]), {})
+        target_dex_nos = [
+            dex_no for dex_no in grouped_by_dex
+            if "forms" not in result.get(str(dex_no), {})
         ]
-    print(f"処理対象: {len(targets)} ポケモン（--force: {args.force}）")
+    print(f"処理対象: {len(target_dex_nos)} dexNo（--force: {args.force}）")
 
     if args.dry_run:
-        targets = targets[:10]
-        print(f"[DRY-RUN] 先頭 {len(targets)} 件のみ処理します（保存なし）")
+        target_dex_nos = target_dex_nos[:10]
+        print(f"[DRY-RUN] 先頭 {len(target_dex_nos)} dexNo のみ処理します（保存なし）")
 
     # --- カテゴリ別カウンタ ---
     category_counts: dict[str, int] = defaultdict(int)
-    total_added = 0
+    total_forms_written = 0
+    total_collapsed = 0
+    processed_dex_count = 0
 
-    for pokemon in targets:
-        dex_no: int = pokemon["dexNo"]
-        pokemon_name_ja: str = pokemon["pokemonName"]
+    for dex_no in target_dex_nos:
         dex_key = str(dex_no)
+        source_entries = grouped_by_dex[dex_no]
 
         if dex_key not in result:
-            print(f"[WARN] No.{dex_no} ({pokemon_name_ja}) が all.json に存在しません。スキップ。")
+            names = "".join(f"「{p['pokemonName']}」" for p in source_entries)
+            print(f"[WARN] No.{dex_no} ({names}) が all.json に存在しません。スキップ。")
             continue
 
-        forms_out: list[dict] = []
-        for form in pokemon.get("forms", []):
-            category: str = form.get("category", "")
-            if category in SKIP_CATEGORIES:
-                continue
-            if category not in INCLUDE_CATEGORIES:
-                print(f"[WARN] No.{dex_no} 未知カテゴリ '{category}' をスキップ。")
-                continue
-
-            form_entry = build_form_entry(form, pokemon_name_ja)
-            forms_out.append(form_entry)
-            category_counts[category] += 1
+        forms_out, collapsed = merge_forms_for_dex(dex_no, source_entries, category_counts)
 
         result[dex_key]["forms"] = forms_out
-        total_added += len(forms_out)
+        total_forms_written += len(forms_out)
+        total_collapsed += collapsed
+        processed_dex_count += 1
 
         if args.dry_run:
-            print(f"\n  No.{dex_no} {pokemon_name_ja}: {len(forms_out)} フォーム")
+            print(f"\n  No.{dex_no}: {len(forms_out)} フォーム")
             for fe in forms_out:
                 print(f"    - {fe}")
 
     # --- 保存 ---
     if not args.dry_run:
         _save(result)
-        print(f"\n完了: 追加フォーム数 {total_added} 件 → {OUTPUT_PATH}")
+        print(f"\n完了: 書き込みフォーム数 {total_forms_written} 件 → {OUTPUT_PATH}")
     else:
-        print(f"\n[DRY-RUN] 完了: 追加フォーム数（表示のみ） {total_added} 件")
+        print(f"\n[DRY-RUN] 完了: 書き込みフォーム数（表示のみ） {total_forms_written} 件")
 
     # カテゴリ別サマリー
     print("\nカテゴリ別追加件数:")
     for cat in sorted(category_counts):
         print(f"  {cat}: {category_counts[cat]} 件")
+
+    # 全体サマリー
+    print(
+        f"\nサマリー: 処理した dexNo 数 {processed_dex_count} 件 / "
+        f"書き込んだ forms 総数 {total_forms_written} 件 / "
+        f"畳んだ件数 {total_collapsed} 件"
+    )
 
 
 if __name__ == "__main__":

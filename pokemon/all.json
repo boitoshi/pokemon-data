@@ -587,7 +587,7 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "エレキメイカー",
+        "ability": "",
         "required_item": "ライチュウナイトX",
         "available_in": [
           "M-dimension"
@@ -601,7 +601,7 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "ノーガード",
+        "ability": "",
         "required_item": "ライチュウナイトY",
         "available_in": [
           "M-dimension"
@@ -6704,7 +6704,7 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "あまのじゃく",
+        "ability": "",
         "required_item": "M次元",
         "available_in": [
           "M-dimension"
@@ -8628,11 +8628,11 @@
         "form_id": "mega",
         "form_name_ja": "メガペンドラー",
         "form_name_en": "",
-        "category": "mega",
         "types": [
           "むし",
           "どく"
         ],
+        "category": "mega",
         "ability": "シェルアーマー",
         "required_item": "ペンドラナイト",
         "available_in": [
@@ -8764,11 +8764,10 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "ヒヒダルマ ダルマモード（ガラルのすがた）",
+        "form_name_ja": "ダルマッカ（ガラルのすがた）",
         "form_name_en": "",
         "types": [
-          "こおり",
-          "ほのお"
+          "こおり"
         ],
         "category": "regional",
         "ability": "",
@@ -8788,6 +8787,37 @@
     "is_mythical": false,
     "types": [
       "ほのお"
+    ],
+    "forms": [
+      {
+        "form_id": "galar",
+        "form_name_ja": "ヒヒダルマ（ガラルのすがた）",
+        "form_name_en": "",
+        "types": [
+          "こおり"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      },
+      {
+        "form_id": "galar-zen",
+        "form_name_ja": "ヒヒダルマ ダルマモード（ガラルのすがた）",
+        "form_name_en": "",
+        "types": [
+          "こおり",
+          "ほのお"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SwSh"
+        ]
+      }
     ]
   },
   "556": {
@@ -8858,7 +8888,7 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "いかく",
+        "ability": "",
         "required_item": "ズルズキナイト",
         "available_in": [
           "ZA",
@@ -9446,7 +9476,7 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "うなぎのぼり",
+        "ability": "",
         "required_item": "シビルドナイト",
         "available_in": [
           "ZA",
@@ -10347,7 +10377,7 @@
           "ノーマル"
         ],
         "category": "mega",
-        "ability": "ほのおのたてがみ",
+        "ability": "",
         "required_item": "カエンジシナイト",
         "available_in": [
           "ZA",
@@ -10612,7 +10642,7 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "あまのじゃく",
+        "ability": "",
         "required_item": "カラマネロナイト",
         "available_in": [
           "ZA",
@@ -10654,7 +10684,7 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "かたいツメ",
+        "ability": "",
         "required_item": "ガメノデスナイト",
         "available_in": [
           "ZA",
@@ -10696,7 +10726,7 @@
           "ドラゴン"
         ],
         "category": "mega",
-        "ability": "さいせいりょく",
+        "ability": "",
         "required_item": "ドラミドナイト",
         "available_in": [
           "ZA",
@@ -11015,11 +11045,11 @@
     "forms": [
       {
         "form_id": "hisui",
-        "form_name_ja": "ジュナイパー（ヒスイのすがた）",
+        "form_name_ja": "クレベース（ヒスイのすがた）",
         "form_name_en": "",
         "types": [
-          "くさ",
-          "かくとう"
+          "こおり",
+          "いわ"
         ],
         "category": "regional",
         "ability": "",
@@ -11200,6 +11230,21 @@
       "ゴースト"
     ],
     "forms": [
+      {
+        "form_id": "hisui",
+        "form_name_ja": "ジュナイパー（ヒスイのすがた）",
+        "form_name_en": "",
+        "types": [
+          "くさ",
+          "かくとう"
+        ],
+        "category": "regional",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "LA"
+        ]
+      },
       {
         "form_id": "zmove",
         "form_name_ja": "ジュナイパー（専用Zワザ）",
@@ -13517,7 +13562,7 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "まけんき",
+        "ability": "",
         "required_item": "",
         "available_in": [
           "ZA"

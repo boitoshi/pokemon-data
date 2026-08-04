@@ -1,0 +1,5519 @@
+{
+  "lastUpdated": "2026-08-04",
+  "pokemon": [
+    {
+      "dexNo": 3,
+      "pokemonName": "フシギバナ",
+      "originalTypes": [
+        "くさ",
+        "どく"
+      ],
+      "originalAbilities": [
+        "しんりょく",
+        "ようりょくそ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガフシギバナ",
+          "debutGame": "XY",
+          "formTypes": [
+            "くさ",
+            "どく"
+          ],
+          "formAbility": "あついしぼう",
+          "requiredItem": "フシギバナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスフシギバナ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "くさ",
+            "どく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイベンタツ"
+        }
+      ]
+    },
+    {
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "originalTypes": [
+        "ほのお",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "もうか",
+        "サンパワー"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガリザードンX",
+          "debutGame": "XY",
+          "formTypes": [
+            "ほのお",
+            "ドラゴン"
+          ],
+          "formAbility": "かたいツメ",
+          "requiredItem": "リザードナイトX",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "mega",
+          "formName": "メガリザードンY",
+          "debutGame": "XY",
+          "formTypes": [
+            "ほのお",
+            "ひこう"
+          ],
+          "formAbility": "ひでり",
+          "requiredItem": "リザードナイトY",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスリザードン",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "ほのお",
+            "ひこう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイゴクエン"
+        }
+      ]
+    },
+    {
+      "dexNo": 9,
+      "pokemonName": "カメックス",
+      "originalTypes": [
+        "みず"
+      ],
+      "originalAbilities": [
+        "げきりゅう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガカメックス",
+          "debutGame": "XY",
+          "formTypes": [
+            "みず"
+          ],
+          "formAbility": "メガランチャー",
+          "requiredItem": "カメックスナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスカメックス",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "みず"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイホウゲキ"
+        }
+      ]
+    },
+    {
+      "dexNo": 12,
+      "pokemonName": "バタフリー",
+      "originalTypes": [
+        "むし",
+        "ひこう"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスバタフリー",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "むし",
+            "ひこう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイコワク"
+        }
+      ]
+    },
+    {
+      "dexNo": 15,
+      "pokemonName": "スピアー",
+      "originalTypes": [
+        "むし",
+        "どく"
+      ],
+      "originalAbilities": [
+        "むしのしらせ",
+        "スナイパー"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガスピアー",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "むし",
+            "どく"
+          ],
+          "formAbility": "てきおうりょく",
+          "requiredItem": "スピアナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 18,
+      "pokemonName": "ピジョット",
+      "originalTypes": [
+        "ノーマル",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "するどいめ",
+        "ちどりあし",
+        "はとむね"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガピジョット",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "ノーマル",
+            "ひこう"
+          ],
+          "formAbility": "ノーガード",
+          "requiredItem": "ピジョットナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 19,
+      "pokemonName": "コラッタ",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "コラッタ",
+          "debutGame": "SM",
+          "formTypes": [
+            "あく",
+            "ノーマル"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 20,
+      "pokemonName": "ラッタ",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ラッタ",
+          "debutGame": "SM",
+          "formTypes": [
+            "あく",
+            "ノーマル"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "originalTypes": [
+        "でんき"
+      ],
+      "originalAbilities": [
+        "せいでんき",
+        "ひらいしん"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "ピカチュウ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "でんき"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "ピカチュウZ",
+          "zMoveName": "ひっさつのピカチュート"
+        },
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスピカチュウ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "でんき"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイバンライ"
+        }
+      ]
+    },
+    {
+      "dexNo": 26,
+      "pokemonName": "ライチュウ",
+      "originalTypes": [
+        "でんき"
+      ],
+      "originalAbilities": [
+        "せいでんき",
+        "ひらいしん"
+      ],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ライチュウ",
+          "debutGame": "SM",
+          "formTypes": [
+            "でんき",
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        },
+        {
+          "category": "mega",
+          "formName": "メガライチュウX",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "でんき"
+          ],
+          "formAbility": "",
+          "requiredItem": "ライチュウナイトX",
+          "availableIn": [
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "mega",
+          "formName": "メガライチュウY",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "でんき"
+          ],
+          "formAbility": "",
+          "requiredItem": "ライチュウナイトY",
+          "availableIn": [
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "zmove",
+          "formName": "アローラライチュウ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "でんき",
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "アロライZ",
+          "zMoveName": "ライトニングサーフライド"
+        }
+      ]
+    },
+    {
+      "dexNo": 27,
+      "pokemonName": "サンド",
+      "originalTypes": [
+        "じめん"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "サンド",
+          "debutGame": "SM",
+          "formTypes": [
+            "こおり",
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 28,
+      "pokemonName": "サンドパン",
+      "originalTypes": [
+        "じめん"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "サンドパン",
+          "debutGame": "SM",
+          "formTypes": [
+            "こおり",
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 36,
+      "pokemonName": "ピクシー",
+      "originalTypes": [
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "メロメロボディ",
+        "マジックガード",
+        "てんねん"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガピクシー",
+          "debutGame": "ZA",
+          "formTypes": [
+            "フェアリー",
+            "ひこう"
+          ],
+          "formAbility": "マジックミラー",
+          "requiredItem": "ピクシナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 37,
+      "pokemonName": "ロコン",
+      "originalTypes": [
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ロコン",
+          "debutGame": "SM",
+          "formTypes": [
+            "こおり"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 38,
+      "pokemonName": "キュウコン",
+      "originalTypes": [
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "キュウコン",
+          "debutGame": "SM",
+          "formTypes": [
+            "こおり",
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 50,
+      "pokemonName": "ディグダ",
+      "originalTypes": [
+        "じめん"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ディグダ",
+          "debutGame": "SM",
+          "formTypes": [
+            "じめん",
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 51,
+      "pokemonName": "ダグトリオ",
+      "originalTypes": [
+        "じめん"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ダグトリオ",
+          "debutGame": "SM",
+          "formTypes": [
+            "じめん",
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 52,
+      "pokemonName": "ニャース",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ニャース",
+          "debutGame": "SM",
+          "formTypes": [
+            "あく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        },
+        {
+          "category": "regional",
+          "formName": "ニャース",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": "ニャイキング"
+        },
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスニャース",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイコバン",
+          "notes": "ガラルのすがた（はがねタイプ）"
+        }
+      ]
+    },
+    {
+      "dexNo": 53,
+      "pokemonName": "ペルシアン",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ペルシアン",
+          "debutGame": "SM",
+          "formTypes": [
+            "あく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 58,
+      "pokemonName": "ガーディ",
+      "originalTypes": [
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ガーディ",
+          "debutGame": "LA",
+          "formTypes": [
+            "ほのお",
+            "いわ"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 59,
+      "pokemonName": "ウインディ",
+      "originalTypes": [
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ウインディ",
+          "debutGame": "LA",
+          "formTypes": [
+            "ほのお",
+            "いわ"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 65,
+      "pokemonName": "フーディン",
+      "originalTypes": [
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "シンクロ",
+        "せいしんりょく",
+        "マジックガード"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガフーディン",
+          "debutGame": "XY",
+          "formTypes": [
+            "エスパー"
+          ],
+          "formAbility": "トレース",
+          "requiredItem": "フーディナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 68,
+      "pokemonName": "カイリキー",
+      "originalTypes": [
+        "かくとう"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスカイリキー",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "かくとう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイシンゲキ"
+        }
+      ]
+    },
+    {
+      "dexNo": 71,
+      "pokemonName": "ウツボット",
+      "originalTypes": [
+        "くさ",
+        "どく"
+      ],
+      "originalAbilities": [
+        "ようりょくそ",
+        "くいしんぼう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガウツボット",
+          "debutGame": "ZA",
+          "formTypes": [
+            "くさ",
+            "どく"
+          ],
+          "formAbility": "とびだすなかみ",
+          "requiredItem": "ウツボットナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 74,
+      "pokemonName": "イシツブテ",
+      "originalTypes": [
+        "いわ",
+        "じめん"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "イシツブテ",
+          "debutGame": "SM",
+          "formTypes": [
+            "いわ",
+            "でんき"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 75,
+      "pokemonName": "ゴローン",
+      "originalTypes": [
+        "いわ",
+        "じめん"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ゴローン",
+          "debutGame": "SM",
+          "formTypes": [
+            "いわ",
+            "でんき"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 76,
+      "pokemonName": "ゴローニャ",
+      "originalTypes": [
+        "いわ",
+        "じめん"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ゴローニャ",
+          "debutGame": "SM",
+          "formTypes": [
+            "いわ",
+            "でんき"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 77,
+      "pokemonName": "ポニータ",
+      "originalTypes": [
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ポニータ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 78,
+      "pokemonName": "ギャロップ",
+      "originalTypes": [
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ギャロップ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "エスパー",
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 79,
+      "pokemonName": "ヤドン",
+      "originalTypes": [
+        "みず",
+        "エスパー"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ヤドン",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 80,
+      "pokemonName": "ヤドラン",
+      "originalTypes": [
+        "みず",
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "どんかん",
+        "マイペース",
+        "さいせいりょく"
+      ],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ヤドラン",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "どく",
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        },
+        {
+          "category": "mega",
+          "formName": "メガヤドラン",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "みず",
+            "エスパー"
+          ],
+          "formAbility": "シェルアーマー",
+          "requiredItem": "ヤドランナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 83,
+      "pokemonName": "カモネギ",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "カモネギ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "かくとう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": "ネギガナイト"
+        }
+      ]
+    },
+    {
+      "dexNo": 88,
+      "pokemonName": "ベトベター",
+      "originalTypes": [
+        "どく"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ベトベター",
+          "debutGame": "SM",
+          "formTypes": [
+            "どく",
+            "あく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 89,
+      "pokemonName": "ベトベトン",
+      "originalTypes": [
+        "どく"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ベトベトン",
+          "debutGame": "SM",
+          "formTypes": [
+            "どく",
+            "あく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "originalTypes": [
+        "ゴースト",
+        "どく"
+      ],
+      "originalAbilities": [
+        "のろわれボディ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガゲンガー",
+          "debutGame": "XY",
+          "formTypes": [
+            "ゴースト",
+            "どく"
+          ],
+          "formAbility": "かげふみ",
+          "requiredItem": "ゲンガナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスゲンガー",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "ゴースト",
+            "どく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイゲンエイ"
+        }
+      ]
+    },
+    {
+      "dexNo": 99,
+      "pokemonName": "キングラー",
+      "originalTypes": [
+        "みず"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスキングラー",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "みず"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイホウマツ"
+        }
+      ]
+    },
+    {
+      "dexNo": 100,
+      "pokemonName": "ビリリダマ",
+      "originalTypes": [
+        "でんき"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ビリリダマ",
+          "debutGame": "LA",
+          "formTypes": [
+            "でんき",
+            "くさ"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 101,
+      "pokemonName": "マルマイン",
+      "originalTypes": [
+        "でんき"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "マルマイン",
+          "debutGame": "LA",
+          "formTypes": [
+            "でんき",
+            "くさ"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 103,
+      "pokemonName": "ナッシー",
+      "originalTypes": [
+        "くさ",
+        "エスパー"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ナッシー",
+          "debutGame": "SM",
+          "formTypes": [
+            "くさ",
+            "ドラゴン"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 105,
+      "pokemonName": "ガラガラ",
+      "originalTypes": [
+        "じめん"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ガラガラ",
+          "debutGame": "SM",
+          "formTypes": [
+            "ほのお",
+            "ゴースト"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM"
+          ],
+          "regionName": "アローラのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 110,
+      "pokemonName": "マタドガス",
+      "originalTypes": [
+        "どく"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "マタドガス",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "どく",
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 115,
+      "pokemonName": "ガルーラ",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [
+        "はやおき",
+        "きもったま",
+        "せいしんりょく"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガガルーラ",
+          "debutGame": "XY",
+          "formTypes": [
+            "ノーマル"
+          ],
+          "formAbility": "おやこあい",
+          "requiredItem": "ガルーラナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 121,
+      "pokemonName": "スターミー",
+      "originalTypes": [
+        "みず",
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "はっこう",
+        "しぜんかいふく",
+        "アナライズ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガスターミー",
+          "debutGame": "ZA",
+          "formTypes": [
+            "みず",
+            "エスパー"
+          ],
+          "formAbility": "ちからもち",
+          "requiredItem": "スターミナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 122,
+      "pokemonName": "バリヤード",
+      "originalTypes": [
+        "エスパー",
+        "フェアリー"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "バリヤード",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "こおり",
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": "バリコオル"
+        }
+      ]
+    },
+    {
+      "dexNo": 127,
+      "pokemonName": "カイロス",
+      "originalTypes": [
+        "むし"
+      ],
+      "originalAbilities": [
+        "かいりきバサミ",
+        "かたやぶり",
+        "じしんかじょう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガカイロス",
+          "debutGame": "XY",
+          "formTypes": [
+            "むし",
+            "ひこう"
+          ],
+          "formAbility": "スカイスキン",
+          "requiredItem": "カイロスナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 128,
+      "pokemonName": "ケンタロス",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formId": "paldea-combat-breed",
+          "formName": "ケンタロス コンバット種",
+          "debutGame": "SV",
+          "formTypes": [
+            "かくとう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SV"
+          ],
+          "regionName": "パルデアのすがた",
+          "regionalEvolution": null
+        },
+        {
+          "category": "regional",
+          "formId": "paldea-blaze-breed",
+          "formName": "ケンタロス ブレイズ種",
+          "debutGame": "SV",
+          "formTypes": [
+            "かくとう",
+            "ほのお"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SV"
+          ],
+          "regionName": "パルデアのすがた",
+          "regionalEvolution": null
+        },
+        {
+          "category": "regional",
+          "formId": "paldea-aqua-breed",
+          "formName": "ケンタロス ウォーター種",
+          "debutGame": "SV",
+          "formTypes": [
+            "かくとう",
+            "みず"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SV"
+          ],
+          "regionName": "パルデアのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 130,
+      "pokemonName": "ギャラドス",
+      "originalTypes": [
+        "みず",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "いかく",
+        "じしんかじょう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガギャラドス",
+          "debutGame": "XY",
+          "formTypes": [
+            "みず",
+            "あく"
+          ],
+          "formAbility": "かたやぶり",
+          "requiredItem": "ギャラドスナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 131,
+      "pokemonName": "ラプラス",
+      "originalTypes": [
+        "みず",
+        "こおり"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスラプラス",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "みず",
+            "こおり"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイセンリツ"
+        }
+      ]
+    },
+    {
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [
+        "にげあし",
+        "てきおうりょく"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "イーブイ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "ノーマル"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "イーブイZ",
+          "zMoveName": "ナインエボルブースト"
+        },
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスイーブイ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "ノーマル"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイホーヨー"
+        }
+      ]
+    },
+    {
+      "dexNo": 142,
+      "pokemonName": "プテラ",
+      "originalTypes": [
+        "いわ",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "かたやぶり",
+        "プレッシャー",
+        "きんちょうかん"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガプテラ",
+          "debutGame": "XY",
+          "formTypes": [
+            "いわ",
+            "ひこう"
+          ],
+          "formAbility": "かたいツメ",
+          "requiredItem": "プテラナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 143,
+      "pokemonName": "カビゴン",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [
+        "めんえき",
+        "あついしぼう",
+        "くいしんぼう"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "カビゴン（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "ノーマル"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "カビゴンZ",
+          "zMoveName": "ほんきをだすこうげき"
+        },
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスカビゴン",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "ノーマル"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイサイセイ"
+        }
+      ]
+    },
+    {
+      "dexNo": 144,
+      "pokemonName": "フリーザー",
+      "originalTypes": [
+        "こおり",
+        "ひこう"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "フリーザー",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "エスパー",
+            "ひこう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 145,
+      "pokemonName": "サンダー",
+      "originalTypes": [
+        "でんき",
+        "ひこう"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "サンダー",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "かくとう",
+            "ひこう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 146,
+      "pokemonName": "ファイヤー",
+      "originalTypes": [
+        "ほのお",
+        "ひこう"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ファイヤー",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "あく",
+            "ひこう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 149,
+      "pokemonName": "カイリュー",
+      "originalTypes": [
+        "ドラゴン",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "せいしんりょく",
+        "マルチスケイル"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガカイリュー",
+          "debutGame": "ZA",
+          "formTypes": [
+            "ノーマル",
+            "ひこう"
+          ],
+          "formAbility": "マルチスケイル",
+          "requiredItem": "カイリュナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 150,
+      "pokemonName": "ミュウツー",
+      "originalTypes": [
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "プレッシャー",
+        "きんちょうかん"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガミュウツーX",
+          "debutGame": "XY",
+          "formTypes": [
+            "エスパー",
+            "かくとう"
+          ],
+          "formAbility": "ふくつのこころ",
+          "requiredItem": "ミュウツナイトX",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "mega",
+          "formName": "メガミュウツーY",
+          "debutGame": "XY",
+          "formTypes": [
+            "エスパー"
+          ],
+          "formAbility": "ふみん",
+          "requiredItem": "ミュウツナイトY",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "LPLE",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "originalTypes": [
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "シンクロ"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "ミュウ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "ミュウZ",
+          "zMoveName": "オリジンズスーパーノヴァ"
+        }
+      ]
+    },
+    {
+      "dexNo": 154,
+      "pokemonName": "メガニウム",
+      "originalTypes": [
+        "くさ"
+      ],
+      "originalAbilities": [
+        "しんりょく",
+        "リーフガード"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガメガニウム",
+          "debutGame": "ZA",
+          "formTypes": [
+            "くさ",
+            "フェアリー"
+          ],
+          "formAbility": "メガソーラー",
+          "requiredItem": "メガニウムナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 157,
+      "pokemonName": "バクフーン",
+      "originalTypes": [
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "バクフーン",
+          "debutGame": "LA",
+          "formTypes": [
+            "ほのお",
+            "ゴースト"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 160,
+      "pokemonName": "オーダイル",
+      "originalTypes": [
+        "みず"
+      ],
+      "originalAbilities": [
+        "げきりゅう",
+        "ちからずく"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガオーダイル",
+          "debutGame": "ZA",
+          "formTypes": [
+            "みず",
+            "ドラゴン"
+          ],
+          "formAbility": "ドラゴンスキン",
+          "requiredItem": "オーダイルナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 181,
+      "pokemonName": "デンリュウ",
+      "originalTypes": [
+        "でんき"
+      ],
+      "originalAbilities": [
+        "せいでんき",
+        "プラス"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガデンリュウ",
+          "debutGame": "XY",
+          "formTypes": [
+            "でんき"
+          ],
+          "formAbility": "かたやぶり",
+          "requiredItem": "デンリュウナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 194,
+      "pokemonName": "ウパー",
+      "originalTypes": [
+        "みず",
+        "じめん"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ウパー",
+          "debutGame": "SV",
+          "formTypes": [
+            "どく",
+            "じめん"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SV"
+          ],
+          "regionName": "パルデアのすがた",
+          "regionalEvolution": "ドオー"
+        }
+      ]
+    },
+    {
+      "dexNo": 199,
+      "pokemonName": "ヤドキング",
+      "originalTypes": [
+        "みず",
+        "エスパー"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ヤドキング",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "どく",
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 208,
+      "pokemonName": "ハガネール",
+      "originalTypes": [
+        "はがね",
+        "じめん"
+      ],
+      "originalAbilities": [
+        "いしあたま",
+        "がんじょう",
+        "ちからずく"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガハガネール",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "はがね",
+            "じめん"
+          ],
+          "formAbility": "すなのちから",
+          "requiredItem": "ハガネールナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 211,
+      "pokemonName": "ハリーセン",
+      "originalTypes": [
+        "みず",
+        "どく"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ハリーセン",
+          "debutGame": "LA",
+          "formTypes": [
+            "あく",
+            "どく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": "ハリーマン"
+        }
+      ]
+    },
+    {
+      "dexNo": 212,
+      "pokemonName": "ハッサム",
+      "originalTypes": [
+        "むし",
+        "はがね"
+      ],
+      "originalAbilities": [
+        "むしのしらせ",
+        "テクニシャン",
+        "ライトメタル"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガハッサム",
+          "debutGame": "XY",
+          "formTypes": [
+            "むし",
+            "はがね"
+          ],
+          "formAbility": "テクニシャン",
+          "requiredItem": "ハッサムナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 214,
+      "pokemonName": "ヘラクロス",
+      "originalTypes": [
+        "むし",
+        "かくとう"
+      ],
+      "originalAbilities": [
+        "むしのしらせ",
+        "こんじょう",
+        "じしんかじょう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガヘラクロス",
+          "debutGame": "XY",
+          "formTypes": [
+            "むし",
+            "かくとう"
+          ],
+          "formAbility": "スキルリンク",
+          "requiredItem": "ヘラクロスナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 215,
+      "pokemonName": "ニューラ",
+      "originalTypes": [
+        "あく",
+        "こおり"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ニューラ",
+          "debutGame": "LA",
+          "formTypes": [
+            "かくとう",
+            "どく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": "オオニューラ"
+        }
+      ]
+    },
+    {
+      "dexNo": 222,
+      "pokemonName": "サニーゴ",
+      "originalTypes": [
+        "みず"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "サニーゴ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "ゴースト"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": "サニゴーン"
+        }
+      ]
+    },
+    {
+      "dexNo": 227,
+      "pokemonName": "エアームド",
+      "originalTypes": [
+        "はがね",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "するどいめ",
+        "がんじょう",
+        "くだけるよろい"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガエアームド",
+          "debutGame": "ZA",
+          "formTypes": [
+            "はがね",
+            "ひこう"
+          ],
+          "formAbility": "すじがねいり",
+          "requiredItem": "エアームドナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 229,
+      "pokemonName": "ヘルガー",
+      "originalTypes": [
+        "あく",
+        "ほのお"
+      ],
+      "originalAbilities": [
+        "はやおき",
+        "もらいび",
+        "きんちょうかん"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガヘルガー",
+          "debutGame": "XY",
+          "formTypes": [
+            "あく",
+            "ほのお"
+          ],
+          "formAbility": "サンパワー",
+          "requiredItem": "ヘルガナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 248,
+      "pokemonName": "バンギラス",
+      "originalTypes": [
+        "いわ",
+        "あく"
+      ],
+      "originalAbilities": [
+        "すなあらし",
+        "きんちょうかん"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガバンギラス",
+          "debutGame": "XY",
+          "formTypes": [
+            "いわ",
+            "あく"
+          ],
+          "formAbility": "すなあらし",
+          "requiredItem": "バンギラスナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 254,
+      "pokemonName": "ジュカイン",
+      "originalTypes": [
+        "くさ"
+      ],
+      "originalAbilities": [
+        "しんりょく",
+        "かるわざ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガジュカイン",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "くさ",
+            "ドラゴン"
+          ],
+          "formAbility": "ひらいしん",
+          "requiredItem": "ジュカインナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 257,
+      "pokemonName": "バシャーモ",
+      "originalTypes": [
+        "ほのお",
+        "かくとう"
+      ],
+      "originalAbilities": [
+        "もうか",
+        "かそく"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガバシャーモ",
+          "debutGame": "XY",
+          "formTypes": [
+            "ほのお",
+            "かくとう"
+          ],
+          "formAbility": "かそく",
+          "requiredItem": "バシャーモナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 260,
+      "pokemonName": "ラグラージ",
+      "originalTypes": [
+        "みず",
+        "じめん"
+      ],
+      "originalAbilities": [
+        "げきりゅう",
+        "しめりけ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガラグラージ",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "みず",
+            "じめん"
+          ],
+          "formAbility": "すいすい",
+          "requiredItem": "ラグラージナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 263,
+      "pokemonName": "ジグザグマ",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ジグザグマ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "あく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 264,
+      "pokemonName": "マッスグマ",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "マッスグマ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "あく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": "タチフサグマ"
+        }
+      ]
+    },
+    {
+      "dexNo": 282,
+      "pokemonName": "サーナイト",
+      "originalTypes": [
+        "エスパー",
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "シンクロ",
+        "トレース",
+        "テレパシー"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガサーナイト",
+          "debutGame": "XY",
+          "formTypes": [
+            "エスパー",
+            "フェアリー"
+          ],
+          "formAbility": "フェアリースキン",
+          "requiredItem": "サーナイトナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 302,
+      "pokemonName": "ヤミラミ",
+      "originalTypes": [
+        "あく",
+        "ゴースト"
+      ],
+      "originalAbilities": [
+        "するどいめ",
+        "あとだし",
+        "いたずらごころ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガヤミラミ",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "あく",
+            "ゴースト"
+          ],
+          "formAbility": "マジックミラー",
+          "requiredItem": "ヤミラミナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 303,
+      "pokemonName": "クチート",
+      "originalTypes": [
+        "はがね",
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "かいりきバサミ",
+        "いかく",
+        "ちからずく"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガクチート",
+          "debutGame": "XY",
+          "formTypes": [
+            "はがね",
+            "フェアリー"
+          ],
+          "formAbility": "ちからずく",
+          "requiredItem": "クチートナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 306,
+      "pokemonName": "ボスゴドラ",
+      "originalTypes": [
+        "はがね",
+        "いわ"
+      ],
+      "originalAbilities": [
+        "がんじょう",
+        "いしあたま",
+        "ヘヴィメタル"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガボスゴドラ",
+          "debutGame": "XY",
+          "formTypes": [
+            "はがね"
+          ],
+          "formAbility": "フィルター",
+          "requiredItem": "ボスゴドラナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 308,
+      "pokemonName": "チャーレム",
+      "originalTypes": [
+        "かくとう",
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "ヨガパワー",
+        "テレパシー"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガチャーレム",
+          "debutGame": "XY",
+          "formTypes": [
+            "かくとう",
+            "エスパー"
+          ],
+          "formAbility": "ヨガパワー",
+          "requiredItem": "チャーレムナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 310,
+      "pokemonName": "ライボルト",
+      "originalTypes": [
+        "でんき"
+      ],
+      "originalAbilities": [
+        "せいでんき",
+        "ひらいしん",
+        "マイナス"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガライボルト",
+          "debutGame": "XY",
+          "formTypes": [
+            "でんき"
+          ],
+          "formAbility": "いかく",
+          "requiredItem": "ライボルトナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 319,
+      "pokemonName": "サメハダー",
+      "originalTypes": [
+        "みず",
+        "あく"
+      ],
+      "originalAbilities": [
+        "さめはだ",
+        "かそく"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガサメハダー",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "みず",
+            "あく"
+          ],
+          "formAbility": "がんじょあご",
+          "requiredItem": "サメハダナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 323,
+      "pokemonName": "バクーダ",
+      "originalTypes": [
+        "ほのお",
+        "じめん"
+      ],
+      "originalAbilities": [
+        "マグマのよろい",
+        "ハードロック",
+        "いかりのつぼ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガバクーダ",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "ほのお",
+            "じめん"
+          ],
+          "formAbility": "ちからずく",
+          "requiredItem": "バクーダナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 334,
+      "pokemonName": "チルタリス",
+      "originalTypes": [
+        "ドラゴン",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "しぜんかいふく",
+        "ノーてんき"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガチルタリス",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "ドラゴン",
+            "ひこう"
+          ],
+          "formAbility": "フェアリースキン",
+          "requiredItem": "チルタリスナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 354,
+      "pokemonName": "ジュペッタ",
+      "originalTypes": [
+        "ゴースト"
+      ],
+      "originalAbilities": [
+        "ふみん",
+        "おみとおし",
+        "のろわれボディ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガジュペッタ",
+          "debutGame": "XY",
+          "formTypes": [
+            "ゴースト"
+          ],
+          "formAbility": "いたずらごころ",
+          "requiredItem": "ジュペッタナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 358,
+      "pokemonName": "チリーン",
+      "originalTypes": [
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "ふゆう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガチリーン",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "エスパー",
+            "はがね"
+          ],
+          "formAbility": "ふゆう",
+          "requiredItem": "チリーンナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 359,
+      "pokemonName": "アブソル",
+      "originalTypes": [
+        "あく"
+      ],
+      "originalAbilities": [
+        "プレッシャー",
+        "きょううん",
+        "せいぎのこころ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガアブソル",
+          "debutGame": "XY",
+          "formTypes": [
+            "あく"
+          ],
+          "formAbility": "マジックミラー",
+          "requiredItem": "アブソルナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "mega",
+          "formName": "メガアブソルZ",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "あく"
+          ],
+          "formAbility": "",
+          "requiredItem": "アブソルナイトZ",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 362,
+      "pokemonName": "オニゴーリ",
+      "originalTypes": [
+        "こおり"
+      ],
+      "originalAbilities": [
+        "せいしんりょく",
+        "アイスボディ",
+        "ムラっけ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガオニゴーリ",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "こおり"
+          ],
+          "formAbility": "フリーズスキン",
+          "requiredItem": "オニゴーリナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 373,
+      "pokemonName": "ボーマンダ",
+      "originalTypes": [
+        "ドラゴン",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "いかく",
+        "じしんかじょう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガボーマンダ",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "ドラゴン",
+            "ひこう"
+          ],
+          "formAbility": "スカイスキン",
+          "requiredItem": "ボーマンダナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 376,
+      "pokemonName": "メタグロス",
+      "originalTypes": [
+        "はがね",
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "クリアボディ",
+        "ライトメタル"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガメタグロス",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "はがね",
+            "エスパー"
+          ],
+          "formAbility": "かたいツメ",
+          "requiredItem": "メタグロスナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 380,
+      "pokemonName": "ラティアス",
+      "originalTypes": [
+        "ドラゴン",
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "ふゆう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガラティアス",
+          "debutGame": "XY",
+          "formTypes": [
+            "ドラゴン",
+            "エスパー"
+          ],
+          "formAbility": "ふゆう",
+          "requiredItem": "ラティアスナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 381,
+      "pokemonName": "ラティオス",
+      "originalTypes": [
+        "ドラゴン",
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "ふゆう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガラティオス",
+          "debutGame": "XY",
+          "formTypes": [
+            "ドラゴン",
+            "エスパー"
+          ],
+          "formAbility": "ふゆう",
+          "requiredItem": "ラティオスナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 382,
+      "pokemonName": "カイオーガ",
+      "originalTypes": [
+        "みず"
+      ],
+      "originalAbilities": [
+        "あめふらし"
+      ],
+      "forms": [
+        {
+          "category": "primal",
+          "formName": "ゲンシカイオーガ",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "みず"
+          ],
+          "formAbility": "はじまりのうみ",
+          "requiredItem": "あいいろのたま",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 383,
+      "pokemonName": "グラードン",
+      "originalTypes": [
+        "じめん"
+      ],
+      "originalAbilities": [
+        "ひでり"
+      ],
+      "forms": [
+        {
+          "category": "primal",
+          "formName": "ゲンシグラードン",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "じめん",
+            "ほのお"
+          ],
+          "formAbility": "おわりのだいち",
+          "requiredItem": "べにいろのたま",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 384,
+      "pokemonName": "レックウザ",
+      "originalTypes": [
+        "ドラゴン",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "エアーロック"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガレックウザ",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "ドラゴン",
+            "ひこう"
+          ],
+          "formAbility": "デルタストリーム",
+          "requiredItem": "(わざ)ガリョウテンセイ",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 398,
+      "pokemonName": "ムクホーク",
+      "originalTypes": [
+        "ノーマル",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "いかく",
+        "すてみ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガムクホーク",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "かくとう",
+            "ひこう"
+          ],
+          "formAbility": "",
+          "requiredItem": "M次元",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 428,
+      "pokemonName": "ミミロップ",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [
+        "メロメロボディ",
+        "ぶきよう",
+        "じゅうなん"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガミミロップ",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "ノーマル",
+            "かくとう"
+          ],
+          "formAbility": "きもったま",
+          "requiredItem": "ミミロップナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 445,
+      "pokemonName": "ガブリアス",
+      "originalTypes": [
+        "ドラゴン",
+        "じめん"
+      ],
+      "originalAbilities": [
+        "すながくれ",
+        "さめはだ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガガブリアス",
+          "debutGame": "XY",
+          "formTypes": [
+            "ドラゴン",
+            "じめん"
+          ],
+          "formAbility": "すなのちから",
+          "requiredItem": "ガブリアスナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "originalTypes": [
+        "かくとう",
+        "はがね"
+      ],
+      "originalAbilities": [
+        "ふくつのこころ",
+        "せいしんりょく",
+        "せいぎのこころ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガルカリオ",
+          "debutGame": "XY",
+          "formTypes": [
+            "かくとう",
+            "はがね"
+          ],
+          "formAbility": "てきおうりょく",
+          "requiredItem": "ルカリオナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "mega",
+          "formName": "メガルカリオZ",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "かくとう",
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "ルカリオナイトZ",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 460,
+      "pokemonName": "ユキノオー",
+      "originalTypes": [
+        "くさ",
+        "こおり"
+      ],
+      "originalAbilities": [
+        "ゆきふらし",
+        "ぼうおん"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガユキノオー",
+          "debutGame": "XY",
+          "formTypes": [
+            "くさ",
+            "こおり"
+          ],
+          "formAbility": "ゆきふらし",
+          "requiredItem": "ユキノオナイト",
+          "availableIn": [
+            "XY",
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 475,
+      "pokemonName": "エルレイド",
+      "originalTypes": [
+        "エスパー",
+        "かくとう"
+      ],
+      "originalAbilities": [
+        "ふくつのこころ",
+        "せいぎのこころ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガエルレイド",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "エスパー",
+            "かくとう"
+          ],
+          "formAbility": "せいしんりょく",
+          "requiredItem": "エルレイドナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 478,
+      "pokemonName": "ユキメノコ",
+      "originalTypes": [
+        "こおり",
+        "ゴースト"
+      ],
+      "originalAbilities": [
+        "ゆきがくれ",
+        "のろわれボディ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガユキメノコ",
+          "debutGame": "ZA",
+          "formTypes": [
+            "こおり",
+            "ゴースト"
+          ],
+          "formAbility": "ゆきふらし",
+          "requiredItem": "ユキメノコナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 485,
+      "pokemonName": "ヒードラン",
+      "originalTypes": [
+        "ほのお",
+        "はがね"
+      ],
+      "originalAbilities": [
+        "もらいび",
+        "ほのおのからだ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガヒードラン",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "ほのお",
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "ヒードラナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 500,
+      "pokemonName": "エンブオー",
+      "originalTypes": [
+        "ほのお",
+        "かくとう"
+      ],
+      "originalAbilities": [
+        "もうか",
+        "すてみ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガエンブオー",
+          "debutGame": "ZA",
+          "formTypes": [
+            "ほのお",
+            "かくとう"
+          ],
+          "formAbility": "かたやぶり",
+          "requiredItem": "エンブオナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 503,
+      "pokemonName": "ダイケンキ",
+      "originalTypes": [
+        "みず"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ダイケンキ",
+          "debutGame": "LA",
+          "formTypes": [
+            "みず",
+            "あく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 530,
+      "pokemonName": "ドリュウズ",
+      "originalTypes": [
+        "じめん",
+        "はがね"
+      ],
+      "originalAbilities": [
+        "すなかき",
+        "すなのちから",
+        "かたやぶり"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガドリュウズ",
+          "debutGame": "ZA",
+          "formTypes": [
+            "じめん",
+            "はがね"
+          ],
+          "formAbility": "かんつうドリル",
+          "requiredItem": "ドリュウズナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 531,
+      "pokemonName": "タブンネ",
+      "originalTypes": [
+        "ノーマル"
+      ],
+      "originalAbilities": [
+        "いやしのこころ",
+        "さいせいりょく",
+        "ぶきよう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガタブンネ",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "ノーマル"
+          ],
+          "formAbility": "いやしのこころ",
+          "requiredItem": "タブンネナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 545,
+      "pokemonName": "ペンドラー",
+      "originalTypes": [
+        "むし",
+        "どく"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガペンドラー",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "むし",
+            "どく"
+          ],
+          "formAbility": "シェルアーマー",
+          "requiredItem": "ペンドラナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 549,
+      "pokemonName": "ドレディア",
+      "originalTypes": [
+        "くさ"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ドレディア",
+          "debutGame": "LA",
+          "formTypes": [
+            "くさ",
+            "かくとう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 554,
+      "pokemonName": "ダルマッカ",
+      "originalTypes": [
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ダルマッカ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "こおり"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 555,
+      "pokemonName": "ヒヒダルマ",
+      "originalTypes": [
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ヒヒダルマ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "こおり"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null,
+          "formId": "galar"
+        }
+      ]
+    },
+    {
+      "dexNo": 555,
+      "pokemonName": "ヒヒダルマ ダルマモード",
+      "originalTypes": [
+        "ほのお",
+        "エスパー"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ヒヒダルマ ダルマモード",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "こおり",
+            "ほのお"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null,
+          "formId": "galar-zen"
+        }
+      ]
+    },
+    {
+      "dexNo": 560,
+      "pokemonName": "ズルズキン",
+      "originalTypes": [
+        "あく",
+        "かくとう"
+      ],
+      "originalAbilities": [
+        "だっぴ",
+        "じしんかじょう",
+        "いかく"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガズルズキン",
+          "debutGame": "ZA",
+          "formTypes": [
+            "あく",
+            "かくとう"
+          ],
+          "formAbility": "",
+          "requiredItem": "ズルズキナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 562,
+      "pokemonName": "デスカーン",
+      "originalTypes": [
+        "ゴースト"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "デスカーン",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "じめん",
+            "ゴースト"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": "デスバーン"
+        }
+      ]
+    },
+    {
+      "dexNo": 569,
+      "pokemonName": "ダストダス",
+      "originalTypes": [
+        "どく"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスダストダス",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "どく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイシュウキ"
+        }
+      ]
+    },
+    {
+      "dexNo": 570,
+      "pokemonName": "ゾロア",
+      "originalTypes": [
+        "あく"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ゾロアーク",
+          "debutGame": "LA",
+          "formTypes": [
+            "ノーマル",
+            "ゴースト"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 571,
+      "pokemonName": "ゾロアーク",
+      "originalTypes": [
+        "あく"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ゾロアーク",
+          "debutGame": "LA",
+          "formTypes": [
+            "ノーマル",
+            "ゴースト"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 604,
+      "pokemonName": "シビルドン",
+      "originalTypes": [
+        "でんき"
+      ],
+      "originalAbilities": [
+        "ふゆう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガシビルドン",
+          "debutGame": "ZA",
+          "formTypes": [
+            "でんき"
+          ],
+          "formAbility": "",
+          "requiredItem": "シビルドナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 609,
+      "pokemonName": "シャンデラ",
+      "originalTypes": [
+        "ゴースト",
+        "ほのお"
+      ],
+      "originalAbilities": [
+        "もらいび",
+        "ほのおのからだ",
+        "すりぬ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガシャンデラ",
+          "debutGame": "ZA",
+          "formTypes": [
+            "ゴースト",
+            "ほのお"
+          ],
+          "formAbility": "すりぬけ",
+          "requiredItem": "シャンデラナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 618,
+      "pokemonName": "マッギョ",
+      "originalTypes": [
+        "じめん",
+        "でんき"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "マッギョ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "じめん",
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "regionName": "ガラルのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 623,
+      "pokemonName": "ゴルーグ",
+      "originalTypes": [
+        "じめん",
+        "ゴースト"
+      ],
+      "originalAbilities": [
+        "てつのこぶし",
+        "ぶきよう",
+        "ノーガード"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガゴルーグ",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "じめん",
+            "ゴースト"
+          ],
+          "formAbility": "ふかしのこぶし",
+          "requiredItem": "ゴルーグナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 628,
+      "pokemonName": "ウォーグル",
+      "originalTypes": [
+        "ノーマル",
+        "ひこう"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ウォーグル",
+          "debutGame": "LA",
+          "formTypes": [
+            "エスパー",
+            "ひこう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 652,
+      "pokemonName": "ブリガロン",
+      "originalTypes": [
+        "くさ",
+        "かくとう"
+      ],
+      "originalAbilities": [
+        "しんりょく",
+        "ぼうだん"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガブリガロン",
+          "debutGame": "ZA",
+          "formTypes": [
+            "くさ",
+            "かくとう"
+          ],
+          "formAbility": "ぼうだん",
+          "requiredItem": "ブリガロナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 655,
+      "pokemonName": "マフォクシー",
+      "originalTypes": [
+        "ほのお",
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "もうか",
+        "マジシャン"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガマフォクシー",
+          "debutGame": "ZA",
+          "formTypes": [
+            "ほのお",
+            "エスパー"
+          ],
+          "formAbility": "ふゆう",
+          "requiredItem": "マフォクシナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 658,
+      "pokemonName": "ゲッコウガ",
+      "originalTypes": [
+        "みず",
+        "あく"
+      ],
+      "originalAbilities": [
+        "げきりゅう",
+        "へんげんじざい",
+        "きずなへんげ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガゲッコウガ",
+          "debutGame": "ZA",
+          "formTypes": [
+            "みず",
+            "あく"
+          ],
+          "formAbility": "へんげんじざい",
+          "requiredItem": "ゲッコウガナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        },
+        {
+          "category": "bond",
+          "formName": "サトシゲッコウガ",
+          "debutGame": "SM",
+          "formTypes": [
+            "みず",
+            "あく"
+          ],
+          "formAbility": "きずなへんげ",
+          "requiredItem": "(とくせい)きずなへんげ",
+          "availableIn": [
+            "SM",
+            "USUM",
+            "SV"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 668,
+      "pokemonName": "カエンジシ",
+      "originalTypes": [
+        "ほのお",
+        "ノーマル"
+      ],
+      "originalAbilities": [
+        "とうそうしん",
+        "きんちょうかん",
+        "じしんかじょう"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガカエンジシ",
+          "debutGame": "ZA",
+          "formTypes": [
+            "ほのお",
+            "ノーマル"
+          ],
+          "formAbility": "",
+          "requiredItem": "カエンジシナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 670,
+      "pokemonName": "フラエッテ（えいえんのはな）",
+      "originalTypes": [
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "フラワーベール",
+        "きょうせい"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガフラエッテ",
+          "debutGame": "ZA",
+          "formTypes": [
+            "フェアリー"
+          ],
+          "formAbility": "フェアリーオーラ",
+          "requiredItem": "フラエッテナイト",
+          "availableIn": [
+            "ZA"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 678,
+      "pokemonName": "ニャオニクス（♀）",
+      "originalTypes": [
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "するどいめ",
+        "すりぬけ",
+        "かちき"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガニャオニクス",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "エスパー"
+          ],
+          "formAbility": "トレース",
+          "requiredItem": "ニャオニクスナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 678,
+      "pokemonName": "ニャオニクス（♂）",
+      "originalTypes": [
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "するどいめ",
+        "すりぬけ",
+        "いたずらごころ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガニャオニクス",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "エスパー"
+          ],
+          "formAbility": "トレース",
+          "requiredItem": "ニャオニクスナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 687,
+      "pokemonName": "カラマネロ",
+      "originalTypes": [
+        "あく",
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "あまのじゃく",
+        "きゅうばん"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガカラマネロ",
+          "debutGame": "ZA",
+          "formTypes": [
+            "あく",
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "カラマネロナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 689,
+      "pokemonName": "ガメノデス",
+      "originalTypes": [
+        "いわ",
+        "みず"
+      ],
+      "originalAbilities": [
+        "かたいつめ",
+        "スナイパー",
+        "わるいてぐせ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガガメノデス",
+          "debutGame": "ZA",
+          "formTypes": [
+            "いわ",
+            "かくとう"
+          ],
+          "formAbility": "",
+          "requiredItem": "ガメノデスナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 691,
+      "pokemonName": "ドラミドロ",
+      "originalTypes": [
+        "どく",
+        "ドラゴン"
+      ],
+      "originalAbilities": [
+        "どくのとげ",
+        "どくしゅ",
+        "てきおうりょく"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガドラミドロ",
+          "debutGame": "ZA",
+          "formTypes": [
+            "どく",
+            "ドラゴン"
+          ],
+          "formAbility": "",
+          "requiredItem": "ドラミドナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 701,
+      "pokemonName": "ルチャブル",
+      "originalTypes": [
+        "かくとう",
+        "ひこう"
+      ],
+      "originalAbilities": [
+        "じゅうなん",
+        "かるわざ",
+        "かたやぶり"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガルチャブル",
+          "debutGame": "ZA",
+          "formTypes": [
+            "かくとう",
+            "ひこう"
+          ],
+          "formAbility": "ノーガード",
+          "requiredItem": "ルチャブルナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 705,
+      "pokemonName": "ヌメイル",
+      "originalTypes": [
+        "ドラゴン"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ヌメイル",
+          "debutGame": "LA",
+          "formTypes": [
+            "はがね",
+            "ドラゴン"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 706,
+      "pokemonName": "ヌメルゴン",
+      "originalTypes": [
+        "ドラゴン"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ヌメルゴン",
+          "debutGame": "LA",
+          "formTypes": [
+            "はがね",
+            "ドラゴン"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 713,
+      "pokemonName": "クレベース",
+      "originalTypes": [
+        "こおり"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "クレベース",
+          "debutGame": "LA",
+          "formTypes": [
+            "こおり",
+            "いわ"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 718,
+      "pokemonName": "ジガルデ（パーフェクト）",
+      "originalTypes": [
+        "ドラゴン",
+        "じめん"
+      ],
+      "originalAbilities": [
+        "スワームチェンジ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガジガルデ",
+          "debutGame": "ZA",
+          "formTypes": [
+            "ドラゴン",
+            "じめん"
+          ],
+          "formAbility": "",
+          "requiredItem": "ジガルデナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 719,
+      "pokemonName": "ディアンシー",
+      "originalTypes": [
+        "いわ",
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "クリアボディ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガディアンシー",
+          "debutGame": "ORAS",
+          "formTypes": [
+            "いわ",
+            "フェアリー"
+          ],
+          "formAbility": "マジックミラー",
+          "requiredItem": "ディアンシナイト",
+          "availableIn": [
+            "ORAS",
+            "SM",
+            "USUM",
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 724,
+      "pokemonName": "ジュナイパー",
+      "originalTypes": [
+        "くさ",
+        "ゴースト"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "regional",
+          "formName": "ジュナイパー",
+          "debutGame": "LA",
+          "formTypes": [
+            "くさ",
+            "かくとう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "LA"
+          ],
+          "regionName": "ヒスイのすがた",
+          "regionalEvolution": null
+        }
+      ]
+    },
+    {
+      "dexNo": 724,
+      "pokemonName": "ジュナイパー",
+      "originalTypes": [
+        "くさ",
+        "ゴースト"
+      ],
+      "originalAbilities": [
+        "しめりけ",
+        "ちょうりゅう",
+        "はやてのつばさ"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "ジュナイパー（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "ゴースト"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "ジュナイパーZ",
+          "zMoveName": "シャドーアローズストライク"
+        }
+      ]
+    },
+    {
+      "dexNo": 727,
+      "pokemonName": "ガオガエン",
+      "originalTypes": [
+        "ほのお",
+        "あく"
+      ],
+      "originalAbilities": [
+        "もうか",
+        "とうそうしん"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "ガオガエン（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "あく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "ガオガエンZ",
+          "zMoveName": "ハイパーダーククラッシャー"
+        }
+      ]
+    },
+    {
+      "dexNo": 730,
+      "pokemonName": "アシレーヌ",
+      "originalTypes": [
+        "みず",
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "げきりゅう",
+        "うるおいボイス"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "アシレーヌ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "みず"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "アシレーヌZ",
+          "zMoveName": "わだつみのシンフォニア"
+        }
+      ]
+    },
+    {
+      "dexNo": 740,
+      "pokemonName": "ケケンカニ",
+      "originalTypes": [
+        "かくとう",
+        "こおり"
+      ],
+      "originalAbilities": [
+        "かいりきバサミ",
+        "てつのこぶし",
+        "いかりのこうら"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガケケンカニ",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "かくとう",
+            "こおり"
+          ],
+          "formAbility": "てつのこぶし",
+          "requiredItem": "ケケンカニナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 745,
+      "pokemonName": "ルガルガン",
+      "originalTypes": [
+        "いわ"
+      ],
+      "originalAbilities": [
+        "かたいツメ",
+        "すなかき",
+        "がんじょう"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "ルガルガン（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "いわ"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "ルガルガンZ",
+          "zMoveName": "ラジアルエッジストーム"
+        }
+      ]
+    },
+    {
+      "dexNo": 768,
+      "pokemonName": "グソクムシャ",
+      "originalTypes": [
+        "むし",
+        "みず"
+      ],
+      "originalAbilities": [
+        "ききかいひ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガグソクムシャ",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "むし",
+            "みず"
+          ],
+          "formAbility": "",
+          "requiredItem": "グソクムシャナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 778,
+      "pokemonName": "ミミッキュ",
+      "originalTypes": [
+        "ゴースト",
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "ばけのかわ"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "ミミッキュ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "ゴースト"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "ミミッキュZ",
+          "zMoveName": "ぽかぼかフレンドタイム"
+        }
+      ]
+    },
+    {
+      "dexNo": 780,
+      "pokemonName": "ジジーロン",
+      "originalTypes": [
+        "ノーマル",
+        "ドラゴン"
+      ],
+      "originalAbilities": [
+        "ぎゃくじょう",
+        "そうしょく",
+        "のうてんき"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガジジーロン",
+          "debutGame": "ZA",
+          "formTypes": [
+            "ノーマル",
+            "ドラゴン"
+          ],
+          "formAbility": "ぎゃくじょう",
+          "requiredItem": "ジジーロナイト",
+          "availableIn": [
+            "ZA",
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 784,
+      "pokemonName": "ジャラランガ",
+      "originalTypes": [
+        "ドラゴン",
+        "かくとう"
+      ],
+      "originalAbilities": [
+        "ぼうおん",
+        "ぼうじん",
+        "スケイルアーマー"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "ジャラランガ（専用Zワザ）",
+          "debutGame": "USUM",
+          "formTypes": [
+            "ドラゴン"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "USUM"
+          ],
+          "zCrystalName": "ジャラランガZ",
+          "zMoveName": "ブレイジングソウルビート"
+        }
+      ]
+    },
+    {
+      "dexNo": 785,
+      "pokemonName": "カプ・コケコ",
+      "originalTypes": [
+        "でんき",
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "エレキメイカー",
+        "テレパシー"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "カプ・コケコ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "カプZ",
+          "zMoveName": "ガーディアン・デ・アローラ"
+        }
+      ]
+    },
+    {
+      "dexNo": 786,
+      "pokemonName": "カプ・テテフ",
+      "originalTypes": [
+        "エスパー",
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "サイコメイカー",
+        "テレパシー"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "カプ・テテフ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "カプZ",
+          "zMoveName": "ガーディアン・デ・アローラ"
+        }
+      ]
+    },
+    {
+      "dexNo": 787,
+      "pokemonName": "カプ・ブルル",
+      "originalTypes": [
+        "くさ",
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "グラスメイカー",
+        "テレパシー"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "カプ・ブルル（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "カプZ",
+          "zMoveName": "ガーディアン・デ・アローラ"
+        }
+      ]
+    },
+    {
+      "dexNo": 788,
+      "pokemonName": "カプ・レヒレ",
+      "originalTypes": [
+        "みず",
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "ミストメイカー",
+        "テレパシー"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "カプ・レヒレ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "カプZ",
+          "zMoveName": "ガーディアン・デ・アローラ"
+        }
+      ]
+    },
+    {
+      "dexNo": 791,
+      "pokemonName": "ソルガレオ",
+      "originalTypes": [
+        "エスパー",
+        "はがね"
+      ],
+      "originalAbilities": [
+        "メタルプロテクト"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "ソルガレオ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "ソルガレオZ",
+          "zMoveName": "サンシャインスマッシャー"
+        }
+      ]
+    },
+    {
+      "dexNo": 792,
+      "pokemonName": "ルナアーラ",
+      "originalTypes": [
+        "エスパー",
+        "ゴースト"
+      ],
+      "originalAbilities": [
+        "シャドーシールド"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "ルナアーラ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "ゴースト"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "ルナアーラZ",
+          "zMoveName": "ムーンライトブラスター"
+        }
+      ]
+    },
+    {
+      "dexNo": 800,
+      "pokemonName": "ネクロズマ",
+      "originalTypes": [
+        "エスパー"
+      ],
+      "originalAbilities": [
+        "プリズムアーマー"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "ウルトラネクロズマ（専用Zワザ）",
+          "debutGame": "USUM",
+          "formTypes": [
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "USUM"
+          ],
+          "zCrystalName": "ウルトラネクロZ",
+          "zMoveName": "てんこがすめつぼうのひかり"
+        }
+      ]
+    },
+    {
+      "dexNo": 801,
+      "pokemonName": "マギアナ",
+      "originalTypes": [
+        "はがね",
+        "フェアリー"
+      ],
+      "originalAbilities": [
+        "ソウルハート"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガマギアナ",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "はがね",
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "マギアナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 802,
+      "pokemonName": "マーシャドー",
+      "originalTypes": [
+        "かくとう",
+        "ゴースト"
+      ],
+      "originalAbilities": [
+        "テクニシャン"
+      ],
+      "forms": [
+        {
+          "category": "zmove",
+          "formName": "マーシャドー（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "かくとう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "マーシャドーZ",
+          "zMoveName": "しちせいだっこんたい"
+        }
+      ]
+    },
+    {
+      "dexNo": 807,
+      "pokemonName": "ゼラオラ",
+      "originalTypes": [
+        "でんき"
+      ],
+      "originalAbilities": [
+        "ちくでん"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガゼラオラ",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "でんき"
+          ],
+          "formAbility": "",
+          "requiredItem": "ゼラオラナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 809,
+      "pokemonName": "メルメタル",
+      "originalTypes": [
+        "はがね"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスメルメタル",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイユウゲキ"
+        }
+      ]
+    },
+    {
+      "dexNo": 812,
+      "pokemonName": "ゴリランダー",
+      "originalTypes": [
+        "くさ"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスゴリランダー",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "くさ"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイコランダ"
+        }
+      ]
+    },
+    {
+      "dexNo": 815,
+      "pokemonName": "エースバーン",
+      "originalTypes": [
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスエースバーン",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "ほのお"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイカキュウ"
+        }
+      ]
+    },
+    {
+      "dexNo": 818,
+      "pokemonName": "インテレオン",
+      "originalTypes": [
+        "みず"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスインテレオン",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "みず"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイソゲキ"
+        }
+      ]
+    },
+    {
+      "dexNo": 823,
+      "pokemonName": "アーマーガア",
+      "originalTypes": [
+        "ひこう",
+        "はがね"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスアーマーガア",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "ひこう",
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイフウゲキ"
+        }
+      ]
+    },
+    {
+      "dexNo": 826,
+      "pokemonName": "イオルブ",
+      "originalTypes": [
+        "むし",
+        "エスパー"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスイオルブ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "むし",
+            "エスパー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイテンドウ"
+        }
+      ]
+    },
+    {
+      "dexNo": 834,
+      "pokemonName": "カジリガメ",
+      "originalTypes": [
+        "みず",
+        "いわ"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスカジリガメ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "みず",
+            "いわ"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイガンジン"
+        }
+      ]
+    },
+    {
+      "dexNo": 839,
+      "pokemonName": "セキタンザン",
+      "originalTypes": [
+        "いわ",
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスセキタンザン",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "いわ",
+            "ほのお"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイフンセキ"
+        }
+      ]
+    },
+    {
+      "dexNo": 841,
+      "pokemonName": "アップリュー",
+      "originalTypes": [
+        "くさ",
+        "ドラゴン"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスアップリュー",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "くさ",
+            "ドラゴン"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイサンゲキ"
+        }
+      ]
+    },
+    {
+      "dexNo": 842,
+      "pokemonName": "タルップル",
+      "originalTypes": [
+        "くさ",
+        "ドラゴン"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスタルップル",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "くさ",
+            "ドラゴン"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイカンロ"
+        }
+      ]
+    },
+    {
+      "dexNo": 844,
+      "pokemonName": "サダイジャ",
+      "originalTypes": [
+        "みず"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスサダイジャ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "みず"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイサジン"
+        }
+      ]
+    },
+    {
+      "dexNo": 849,
+      "pokemonName": "ストリンダー",
+      "originalTypes": [
+        "でんき",
+        "どく"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスストリンダー",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "でんき",
+            "どく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイカンデン"
+        }
+      ]
+    },
+    {
+      "dexNo": 851,
+      "pokemonName": "マルヤクデ",
+      "originalTypes": [
+        "むし",
+        "ほのお"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスマルヤクデ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "むし",
+            "ほのお"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイヒャッカ"
+        }
+      ]
+    },
+    {
+      "dexNo": 858,
+      "pokemonName": "ブリムオン",
+      "originalTypes": [
+        "フェアリー"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスブリムオン",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイテンバツ"
+        }
+      ]
+    },
+    {
+      "dexNo": 861,
+      "pokemonName": "オーロンゲ",
+      "originalTypes": [
+        "あく",
+        "フェアリー"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスオーロンゲ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "あく",
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイスイマ"
+        }
+      ]
+    },
+    {
+      "dexNo": 869,
+      "pokemonName": "マホイップ",
+      "originalTypes": [
+        "フェアリー"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスマホイップ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "フェアリー"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイダンエン"
+        }
+      ]
+    },
+    {
+      "dexNo": 870,
+      "pokemonName": "タイレーツ",
+      "originalTypes": [
+        "かくとう"
+      ],
+      "originalAbilities": [
+        "カブトアーマー",
+        "まけんき"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガタイレーツ",
+          "debutGame": "ZA",
+          "formTypes": [
+            "かくとう"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "ZA"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 879,
+      "pokemonName": "ダイオウドウ",
+      "originalTypes": [
+        "はがね"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスダイオウドウ",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイコウジン"
+        }
+      ]
+    },
+    {
+      "dexNo": 884,
+      "pokemonName": "ジュラルドン",
+      "originalTypes": [
+        "はがね",
+        "ドラゴン"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formName": "キョダイマックスジュラルドン",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "はがね",
+            "ドラゴン"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイゲンスイ"
+        }
+      ]
+    },
+    {
+      "dexNo": 892,
+      "pokemonName": "ウーラオス",
+      "originalTypes": [
+        "かくとう",
+        "あく"
+      ],
+      "originalAbilities": [],
+      "forms": [
+        {
+          "category": "gigantamax",
+          "formId": "gmax-single-strike",
+          "formName": "キョダイマックスウーラオス（いちげきのかた）",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "かくとう",
+            "あく"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイイチゲキ"
+        },
+        {
+          "category": "gigantamax",
+          "formId": "gmax-rapid-strike",
+          "formName": "キョダイマックスウーラオス（れんげきのかた）",
+          "debutGame": "SwSh",
+          "formTypes": [
+            "かくとう",
+            "みず"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SwSh"
+          ],
+          "gmaxMoveName": "キョダイレンゲキ"
+        }
+      ]
+    },
+    {
+      "dexNo": 952,
+      "pokemonName": "スコヴィラン",
+      "originalTypes": [
+        "くさ",
+        "ほのお"
+      ],
+      "originalAbilities": [
+        "ようりょくそ",
+        "ふみん",
+        "ムラっけ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガスコヴィラン",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "くさ",
+            "ほのお"
+          ],
+          "formAbility": "とびだすハバネロ",
+          "requiredItem": "スコヴィランナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 998,
+      "pokemonName": "セグレイブ",
+      "originalTypes": [
+        "ドラゴン",
+        "こおり"
+      ],
+      "originalAbilities": [
+        "ねつこうかん",
+        "アイスボディ"
+      ],
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガセグレイブ",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "ドラゴン",
+            "こおり"
+          ],
+          "formAbility": "",
+          "requiredItem": "セグレイブナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    }
+  ],
+  "_note": "特殊フォーム定義の正本（L2）。summary-pages の src/data/special-forms.json は sync-from-pokemon-data.mjs が生成する pull-only コピーなので直接編集しない。all.json の forms は fetch-forms.py がここから生成する。"
+}

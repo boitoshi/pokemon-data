@@ -73,8 +73,8 @@
         },
         "distributionMethod": { "type": "string", "description": "mappings/distribution-methods.json の値集合に存在すること" },
         "distributionLocation": { "type": "string" },
-        "startDate": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
-        "endDate": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "省略＝無期限または未定" },
+        "startDate": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "「プレイヤーがそのポケモンを受け取れた期間」の開始日。配布・イベントの開始日（シリアルコードなら配布開始日）を入れる。⚠ 日本での配信は日本公式（pokemon.co.jp 等）の日付を正とする。Bulbapedia の日付は UTC 基準などで1日ズレることがあり、そのまま入れない" },
+        "endDate": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "「プレイヤーがそのポケモンを受け取れた期間」の最終日。⚠ 店頭でのコード配布終了日ではなく、**受け取りの期限**（シリアルコードなら有効期限）を入れる。例: 色違いムゲンダイナは実施2022/10/21-11/17・コード有効期限11/24 → endDate は 2022-11-24。地域ごとに期限が違う配信は日本の期間を採用し、他地域は notes に書く。省略＝無期限または未定" },
         "region": {
           "type": "array",
           "items": { "type": "string" },

@@ -61,8 +61,8 @@
       "eventName": "色違いムゲンダイナ",
       "distributionMethod": "シリアルコード",
       "distributionLocation": "ゲームショップ店舗",
-      "startDate": "2022-09-16",
-      "endDate": "2022-11-17",
+      "startDate": "2022-10-21",
+      "endDate": "2022-11-24",
       "region": [
         "全世界"
       ],
@@ -102,7 +102,7 @@
         "spd": 31,
         "spe": 31
       },
-      "notes": "世界各国のゲームショップでシリアルコードを配布。有効期間Aから始まるコード2022/9/16-11/17、EとUから始まるコード2022/9/18-2023/1/1、Kから始まるコード2022/9/30-12/31、Jから始まるコード2022/10/21-11/24"
+      "notes": "世界各国のゲームショップでシリアルコードを配布。有効期間Aから始まるコード2022/9/16-11/17、EとUから始まるコード2022/9/18-2023/1/1、Kから始まるコード2022/9/30-12/31、Jから始まるコード2022/10/21-11/24。日付は日本国内のJから始まるコードの受け取り期間を採用（公式: 実施日時2022/10/21-11/17、シリアルコード有効期限2022/11/24）"
     },
     {
       "id": "08075",
@@ -4181,163 +4181,6 @@
         "バースデーリボン"
       ],
       "notes": "おいわいは特別な技。1つのセーブデータにつき、ピカチュウかイーブイのどちらか一方しか受け取ることができない。"
-    },
-    {
-      "id": "08097",
-      "dexNo": 888,
-      "pokemonName": "ザシアン",
-      "form": "れきせんのゆうしゃ",
-      "games": [
-        "sword",
-        "shield"
-      ],
-      "eventName": "色違いザシアン",
-      "distributionMethod": "シリアルコード",
-      "startDate": "2021-11-19",
-      "endDate": "2021-12-31",
-      "level": 100,
-      "nature": "いじっぱり",
-      "ability": "ふとうのけん",
-      "ball": "プレシャスボール",
-      "metLocation": "すてきなばしょ",
-      "heldItem": "くちたけん",
-      "shiny": "fixed",
-      "ot": {
-        "JPN": "ガラル",
-        "ENG": "Lancer",
-        "SPA": "Lancer",
-        "FRE": "Lancer",
-        "GER": "Lancer",
-        "ITA": "Lancer",
-        "KOR": "가라르",
-        "CHS": "伽勒尔",
-        "CHT": "伽勒爾"
-      },
-      "trainerId": "211022",
-      "moves": [
-        "アイアンヘッド",
-        "じゃれつく",
-        "つるぎのまい",
-        "せいなるつるぎ"
-      ],
-      "ribbons": [
-        "クラシックリボン"
-      ],
-      "ivs": {
-        "hp": 31,
-        "atk": 31,
-        "def": 31,
-        "spa": 30,
-        "spd": 31,
-        "spe": 31
-      },
-      "source": {
-        "kind": "bulbapedia"
-      }
-    },
-    {
-      "id": "08098",
-      "dexNo": 889,
-      "pokemonName": "ザマゼンタ",
-      "form": "れきせんのゆうしゃ",
-      "games": [
-        "sword",
-        "shield"
-      ],
-      "eventName": "色違いザマゼンタ",
-      "distributionMethod": "シリアルコード",
-      "startDate": "2021-11-19",
-      "endDate": "2021-12-31",
-      "level": 100,
-      "nature": "いじっぱり",
-      "ability": "ふくつのたて",
-      "ball": "プレシャスボール",
-      "metLocation": "すてきなばしょ",
-      "heldItem": "くちたたて",
-      "shiny": "fixed",
-      "ot": {
-        "JPN": "ガラル",
-        "ENG": "Arthur",
-        "SPA": "Arthur",
-        "FRE": "Arthur",
-        "GER": "Arthur",
-        "ITA": "Arthur",
-        "KOR": "가라르",
-        "CHS": "伽勒尔",
-        "CHT": "伽勒爾"
-      },
-      "trainerId": "211022",
-      "moves": [
-        "アイアンヘッド",
-        "インファイト",
-        "てっぺき",
-        "ワイドガード"
-      ],
-      "ribbons": [
-        "クラシックリボン"
-      ],
-      "ivs": {
-        "hp": 31,
-        "atk": 31,
-        "def": 31,
-        "spa": 30,
-        "spd": 31,
-        "spe": 31
-      },
-      "source": {
-        "kind": "bulbapedia"
-      }
-    },
-    {
-      "id": "08099",
-      "dexNo": 890,
-      "pokemonName": "ムゲンダイナ",
-      "games": [
-        "sword",
-        "shield"
-      ],
-      "eventName": "色違いムゲンダイナ（日本国内コード）",
-      "distributionMethod": "シリアルコード",
-      "startDate": "2022-10-21",
-      "endDate": "2022-11-24",
-      "level": 100,
-      "nature": "おくびょう",
-      "ability": "プレッシャー",
-      "ball": "プレシャスボール",
-      "metLocation": "すてきなばしょ",
-      "shiny": "fixed",
-      "ot": {
-        "JPN": "ガラル",
-        "ENG": "Galar",
-        "SPA": "Galar",
-        "FRE": "Galar",
-        "GER": "Galar",
-        "ITA": "Galar",
-        "KOR": "가라르",
-        "CHS": "伽勒尔",
-        "CHT": "伽勒爾"
-      },
-      "trainerId": "221118",
-      "moves": [
-        "ムゲンダイビーム",
-        "ダイマックスほう",
-        "ヘドロばくだん",
-        "かえんほうしゃ"
-      ],
-      "ribbons": [
-        "クラシックリボン"
-      ],
-      "ivs": {
-        "hp": 31,
-        "atk": 31,
-        "def": 31,
-        "spa": 31,
-        "spd": 31,
-        "spe": 31
-      },
-      "source": {
-        "kind": "bulbapedia"
-      }
     },
     {
       "id": "08100",

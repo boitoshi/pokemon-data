@@ -120,6 +120,9 @@ def build_form_entry(form: dict, pokemon_name_ja: str) -> dict:
         "ability": form.get("formAbility", ""),
         "required_item": form.get("requiredItem", ""),
         "available_in": form.get("availableIn", []),
+        # そのフォームが初登場したソフト。消費側が登場世代を判定するのに使う
+        # （メガシンカは XY/ORAS=第6世代、ZA/M-dimension=第9世代に分かれる）
+        "debut_game": form.get("debutGame", ""),
     }
 
     if category == "gigantamax":

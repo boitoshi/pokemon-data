@@ -1047,7 +1047,13 @@
       },
       "evs": "H252/B6/D252",
       "password": "21JAPANCHAMP10N",
-      "notes": "ポケモンジャパンチャンピオンシップス2021チャンピオン使用個体。"
+      "notes": "ポケモンジャパンチャンピオンシップス2021チャンピオン使用個体。",
+      "event": {
+        "kind": "pjcs",
+        "year": 2022,
+        "schedule": "2022年6月11日・12日",
+        "location": "幕張メッセ 国際展示場 2・3ホール（千葉県千葉市）"
+      }
     },
     {
       "id": "08087",
@@ -2345,7 +2351,13 @@
       "evs": "H236/B20/D252",
       "password": "PJCS2020CHAMP",
       "notes": "コロナ禍でPJCS2020の代替として全編オンラインで開催された「ポケモン日本一決定戦2020」マスターカテゴリ優勝・サクライコウヘイ選手の使用個体。PJCS2021開催記念として配信。",
-      "postUrl": "https://www.pokebros.net/ss-pjcs2021-torkoal/"
+      "postUrl": "https://www.pokebros.net/ss-pjcs2021-torkoal/",
+      "event": {
+        "kind": "pjcs",
+        "year": 2021,
+        "schedule": "2021年7月17日・18日",
+        "location": "Aichi Sky Expo"
+      }
     },
     {
       "id": "08045",
@@ -3148,7 +3160,7 @@
       "id": "08025",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
-      "form": "キミに決めたキャップ",
+      "form": "キミにきめたキャップ",
       "games": [
         "sword",
         "shield"
@@ -3479,7 +3491,13 @@
       },
       "evs": "H152/B94/C252/D12",
       "password": "PJCS2019CHAMP",
-      "notes": "2019年PJCSマスターカテゴリチャンピオン使用個体。"
+      "notes": "2019年PJCSマスターカテゴリチャンピオン使用個体。",
+      "event": {
+        "kind": "pjcs",
+        "year": 2020,
+        "schedule": "2020年8月22日（配信）",
+        "location": "オンライン（YouTube／ニコニコ生放送）"
+      }
     },
     {
       "id": "08022",
@@ -5015,6 +5033,10 @@
       "games": [
         "home"
       ],
+      "originGame": [
+        "brilliant_diamond",
+        "shining_pearl"
+      ],
       "eventName": "ソフト図鑑完成記念！②",
       "distributionMethod": "プレゼントボックス",
       "startDate": "2025-01-28",
@@ -5056,6 +5078,9 @@
       "games": [
         "home"
       ],
+      "originGame": [
+        "legends_arceus"
+      ],
       "eventName": "ソフト図鑑完成記念！③",
       "distributionMethod": "プレゼントボックス",
       "startDate": "2025-01-28",
@@ -5096,6 +5121,10 @@
       "pokemonName": "ケルディオ",
       "games": [
         "home"
+      ],
+      "originGame": [
+        "sword",
+        "shield"
       ],
       "eventName": "ソフト図鑑完成記念！⑤",
       "distributionMethod": "プレゼントボックス",

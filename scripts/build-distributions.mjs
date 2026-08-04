@@ -70,6 +70,7 @@ const OUTPUT_KEY_ORDER = [
   "dexNo",
   "generation",
   "game",
+  "originGame",
   "eventName",
   "tournamentType",
   "tournamentYear",
@@ -202,12 +203,25 @@ function convertRegion(entry) {
   return entry.region.join(",");
 }
 
-// ---- tournament系: champions(gen0)のみ、entry.event から展開 ----
+// entry.event の kind → 表示用ラベル。未知の kind はそのまま通す
+// 消費側がラベル一致で絞り込むため（summary-pages の /regional/ は 'Regional' で比較する）、
+// schema の kind enum は全部ここに載せる。載せ漏れると素通しになり、ページから静かに消える
+const TOURNAMENT_TYPE_LABEL = {
+  champions: "Champions",
+  pjcs: "PJCS",
+  wcs: "WCS",
+  regional: "Regional",
+  movie: "Movie",
+  collab: "Collab",
+  other: "Other",
+};
+
+// ---- tournament系: entry.event から展開（champions に限らず全データセット） ----
 function convertTournamentFields(entry, managementId) {
   const event = entry.event;
   if (!event) return {};
   const out = {};
-  out.tournamentType = event.kind === "champions" ? "Champions" : event.kind;
+  out.tournamentType = TOURNAMENT_TYPE_LABEL[event.kind] ?? event.kind;
   if (event.year !== undefined) out.tournamentYear = event.year;
   if (event.schedule !== undefined) out.tournamentSchedule = event.schedule;
   if (event.location !== undefined) out.tournamentLocation = event.location;
@@ -223,6 +237,7 @@ const KNOWN_ENTRY_KEYS = new Set([
   "pokemonName",
   "form",
   "games",
+  "originGame",
   "eventName",
   "event",
   "distributionMethod",
@@ -266,7 +281,7 @@ function checkKnownKeys(entry, managementId) {
   }
 }
 
-function convertEntry(entry, generation, isChampions) {
+function convertEntry(entry, generation) {
   const managementId = entry.id;
   checkKnownKeys(entry, managementId);
 
@@ -279,11 +294,8 @@ function convertEntry(entry, generation, isChampions) {
   out.game = convertGames(entry.games, managementId);
   out.eventName = entry.eventName;
 
-  if (isChampions) {
-    Object.assign(out, convertTournamentFields(entry, managementId));
-  } else if (entry.event !== undefined) {
-    throw new Error(`champions以外のentryにeventフィールドがあります (managementId=${managementId})`);
-  }
+  // 大会情報は champions 専用ではない（PJCS/WCS の配信個体は gen5〜9 側にある）
+  Object.assign(out, convertTournamentFields(entry, managementId));
 
   out.distributionMethod = entry.distributionMethod;
   if (entry.distributionLocation !== undefined) out.distributionLocation = entry.distributionLocation;
@@ -294,6 +306,8 @@ function convertEntry(entry, generation, isChampions) {
   Object.assign(out, convertOt(entry, managementId));
   if (entry.trainerId !== undefined) out.trainerId = entry.trainerId;
   if (entry.metLocation !== undefined) out.metLocation = entry.metLocation;
+  // HOME が個体ごとに表示するソフト。受け取り先(game)とは別物なので上書きしない
+  if (entry.originGame !== undefined) out.originGame = convertGames(entry.originGame, managementId);
   if (entry.ball !== undefined) out.ball = entry.ball;
 
   Object.assign(out, convertLevel(entry));
@@ -361,7 +375,7 @@ for (const { dataset, file } of DATASETS) {
     idSet.add(entry.id);
   }
 
-  const converted = payload.entries.map((entry) => convertEntry(entry, generation, isChampions));
+  const converted = payload.entries.map((entry) => convertEntry(entry, generation));
   records.push(...converted);
   counts[dataset] = converted.length;
 }

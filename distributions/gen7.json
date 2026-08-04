@@ -5588,6 +5588,10 @@
       "games": [
         "home"
       ],
+      "originGame": [
+        "lets_go_pikachu",
+        "lets_go_eevee"
+      ],
       "eventName": "ソフト図鑑完成記念！④",
       "distributionMethod": "プレゼントボックス",
       "startDate": "2025-02-12",

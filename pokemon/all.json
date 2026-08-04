@@ -3445,7 +3445,8 @@
         "form_name_ja": "メガデンリュウ",
         "form_name_en": "",
         "types": [
-          "でんき"
+          "でんき",
+          "ドラゴン"
         ],
         "category": "mega",
         "ability": "かたやぶり",
@@ -5706,7 +5707,7 @@
         "form_name_en": "",
         "types": [
           "ドラゴン",
-          "ひこう"
+          "フェアリー"
         ],
         "category": "mega",
         "ability": "フェアリースキン",
@@ -8447,7 +8448,8 @@
         "form_name_ja": "メガタブンネ",
         "form_name_en": "",
         "types": [
-          "ノーマル"
+          "ノーマル",
+          "フェアリー"
         ],
         "category": "mega",
         "ability": "いやしのこころ",

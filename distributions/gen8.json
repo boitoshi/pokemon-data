@@ -5033,6 +5033,10 @@
       "games": [
         "home"
       ],
+      "originGame": [
+        "brilliant_diamond",
+        "shining_pearl"
+      ],
       "eventName": "ソフト図鑑完成記念！②",
       "distributionMethod": "プレゼントボックス",
       "startDate": "2025-01-28",
@@ -5074,6 +5078,9 @@
       "games": [
         "home"
       ],
+      "originGame": [
+        "legends_arceus"
+      ],
       "eventName": "ソフト図鑑完成記念！③",
       "distributionMethod": "プレゼントボックス",
       "startDate": "2025-01-28",
@@ -5114,6 +5121,10 @@
       "pokemonName": "ケルディオ",
       "games": [
         "home"
+      ],
+      "originGame": [
+        "sword",
+        "shield"
       ],
       "eventName": "ソフト図鑑完成記念！⑤",
       "distributionMethod": "プレゼントボックス",

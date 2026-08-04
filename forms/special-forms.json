@@ -1968,7 +1968,8 @@
           "formName": "メガデンリュウ",
           "debutGame": "XY",
           "formTypes": [
-            "でんき"
+            "でんき",
+            "ドラゴン"
           ],
           "formAbility": "かたやぶり",
           "requiredItem": "デンリュウナイト",
@@ -2742,7 +2743,7 @@
           "debutGame": "ORAS",
           "formTypes": [
             "ドラゴン",
-            "ひこう"
+            "フェアリー"
           ],
           "formAbility": "フェアリースキン",
           "requiredItem": "チルタリスナイト",
@@ -3472,7 +3473,8 @@
           "formName": "メガタブンネ",
           "debutGame": "ORAS",
           "formTypes": [
-            "ノーマル"
+            "ノーマル",
+            "フェアリー"
           ],
           "formAbility": "いやしのこころ",
           "requiredItem": "タブンネナイト",

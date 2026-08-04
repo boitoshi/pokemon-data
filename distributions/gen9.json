@@ -3959,6 +3959,10 @@
       "games": [
         "home"
       ],
+      "originGame": [
+        "scarlet",
+        "violet"
+      ],
       "eventName": "ソフト図鑑完成記念！①",
       "distributionMethod": "プレゼントボックス",
       "startDate": "2024-10-16",
@@ -4087,6 +4091,9 @@
       "pokemonName": "ボルケニオン",
       "games": [
         "home"
+      ],
+      "originGame": [
+        "legends_za"
       ],
       "eventName": "ソフト図鑑完成記念！⑥",
       "distributionMethod": "プレゼントボックス",

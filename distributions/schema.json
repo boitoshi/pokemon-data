@@ -49,7 +49,13 @@
           "type": "array",
           "minItems": 1,
           "items": { "type": "string" },
-          "description": "games/titles.json の id 配列（例 [\"sun\",\"moon\"]、champions は [\"pokemon_champions\"]）"
+          "description": "games/titles.json の id 配列（例 [\"sun\",\"moon\"]、champions は [\"pokemon_champions\"]）。**受け取り先**のソフトを表す。HOME受取配信は [\"home\"]"
+        },
+        "originGame": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string" },
+          "description": "games/titles.json の id 配列。**Pokémon HOME が個体ごとに表示するソフト**（＝その個体が属するソフト）。受け取り先である games とは別物で、HOME受取配信でのみ両者が食い違う。例: 色違いボルケニオンは games:[\"home\"]（HOMEで受け取る）だが originGame:[\"legends_za\"]（HOMEでの表示はZA）。**個体が正規かどうかの判定に使える**ため、分かっているものは入れる。版が特定できないときはペア両方を入れる（SV = [\"scarlet\",\"violet\"]）。省略＝未調査であって「HOME内完結」の意味ではない"
         },
         "eventName": { "type": "string" },
         "event": {

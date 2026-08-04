@@ -70,6 +70,7 @@ const OUTPUT_KEY_ORDER = [
   "dexNo",
   "generation",
   "game",
+  "originGame",
   "eventName",
   "tournamentType",
   "tournamentYear",
@@ -236,6 +237,7 @@ const KNOWN_ENTRY_KEYS = new Set([
   "pokemonName",
   "form",
   "games",
+  "originGame",
   "eventName",
   "event",
   "distributionMethod",
@@ -304,6 +306,8 @@ function convertEntry(entry, generation) {
   Object.assign(out, convertOt(entry, managementId));
   if (entry.trainerId !== undefined) out.trainerId = entry.trainerId;
   if (entry.metLocation !== undefined) out.metLocation = entry.metLocation;
+  // HOME が個体ごとに表示するソフト。受け取り先(game)とは別物なので上書きしない
+  if (entry.originGame !== undefined) out.originGame = convertGames(entry.originGame, managementId);
   if (entry.ball !== undefined) out.ball = entry.ball;
 
   Object.assign(out, convertLevel(entry));

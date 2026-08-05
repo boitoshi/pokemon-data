@@ -248,5 +248,24 @@
     "games": [
       "poco_a_pokemon"
     ]
+  },
+  {
+    "id": "Champions",
+    "name_ja": "Pokémon Champions",
+    "name_en": "Pokémon Champions",
+    "generation": null,
+    "games": [
+      "pokemon_champions"
+    ]
+  },
+  {
+    "id": "FRLG_Switch",
+    "name_ja": "ファイアレッド・リーフグリーン（Switch版）",
+    "name_en": "FireRed & LeafGreen (Nintendo Switch)",
+    "generation": 3,
+    "games": [
+      "switch_firered",
+      "switch_leafgreen"
+    ]
   }
 ]

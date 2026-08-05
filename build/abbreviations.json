@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "games/titles.json + mappings/distribution-methods.json + mappings/method-glossary.json",
   "counts": {
-    "games": 44,
+    "games": 46,
     "methods": 24
   },
   "games": [
@@ -269,6 +269,18 @@
       "shortName": "HOME",
       "name": "Pokémon HOME",
       "name_en": "Pokémon HOME"
+    },
+    {
+      "id": "switch_firered",
+      "shortName": "SwFR",
+      "name": "ポケットモンスター ファイアレッド（Switch版）",
+      "name_en": "Pokémon FireRed (Nintendo Switch)"
+    },
+    {
+      "id": "switch_leafgreen",
+      "shortName": "SwLG",
+      "name": "ポケットモンスター リーフグリーン（Switch版）",
+      "name_en": "Pokémon LeafGreen (Nintendo Switch)"
     }
   ],
   "methods": {

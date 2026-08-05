@@ -949,8 +949,9 @@
     "paired_with": [],
     "region": null,
     "home": {
-      "send": false,
-      "receive": false
+      "send": true,
+      "receive": true,
+      "note": "「遠征」という形の双方向連携。HOMEの一部ポケモンを遠征させ、HOMEへ帰せる。一度に30匹・累計1,000匹まで。遠征できるのはChampionsに登場するポケモンのみ。⚠ Champions内でスカウトした個体・ふしぎなおくりもので受け取った個体はHOMEへ預けられない"
     }
   },
   {
@@ -971,5 +972,51 @@
       "send": false,
       "receive": false
     }
+  },
+  {
+    "id": "switch_firered",
+    "name": "ポケットモンスター ファイアレッド（Switch版）",
+    "name_en": "Pokémon FireRed (Nintendo Switch)",
+    "shortName": "SwFR",
+    "abbrev": "SwFR",
+    "paired_with": [
+      "switch_leafgreen"
+    ],
+    "generation": 3,
+    "releaseDate_jp": "2026-02-27",
+    "releaseDate_us": "2026-02-27",
+    "platform": "Switch / Switch 2",
+    "category": "port",
+    "group": "FRLG_Switch",
+    "region": "カントー",
+    "home": {
+      "send": false,
+      "receive": false,
+      "note": "公式サイトで「『Pokémon HOME』と連携予定」と告知（2026-08-05 時点で未対応・HOMEの連携ソフト一覧にも未掲載）"
+    },
+    "note": "GBA版『ファイアレッド・リーフグリーン』のNintendo Switch移植。ダウンロード専売（各2,000円税込）。番号入りダウンロードカードは2026-02-28以降順次、特別版（当時のパッケージ再現＋ガラス製モンスターボールオブジェ・各19,800円税込）はポケモンセンターオンライン。GBA版とは一部仕様が異なると公式が注記"
+  },
+  {
+    "id": "switch_leafgreen",
+    "name": "ポケットモンスター リーフグリーン（Switch版）",
+    "name_en": "Pokémon LeafGreen (Nintendo Switch)",
+    "shortName": "SwLG",
+    "abbrev": "SwLG",
+    "paired_with": [
+      "switch_firered"
+    ],
+    "generation": 3,
+    "releaseDate_jp": "2026-02-27",
+    "releaseDate_us": "2026-02-27",
+    "platform": "Switch / Switch 2",
+    "category": "port",
+    "group": "FRLG_Switch",
+    "region": "カントー",
+    "home": {
+      "send": false,
+      "receive": false,
+      "note": "公式サイトで「『Pokémon HOME』と連携予定」と告知（2026-08-05 時点で未対応・HOMEの連携ソフト一覧にも未掲載）"
+    },
+    "note": "GBA版『ファイアレッド・リーフグリーン』のNintendo Switch移植。ダウンロード専売（各2,000円税込）。番号入りダウンロードカードは2026-02-28以降順次、特別版（当時のパッケージ再現＋ガラス製モンスターボールオブジェ・各19,800円税込）はポケモンセンターオンライン。GBA版とは一部仕様が異なると公式が注記"
   }
 ]

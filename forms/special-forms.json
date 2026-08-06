@@ -334,7 +334,8 @@
             "USUM"
           ],
           "zCrystalName": "ピカチュウZ",
-          "zMoveName": "ひっさつのピカチュート"
+          "zMoveName": "ひっさつのピカチュート",
+          "zMoveType": "でんき"
         },
         {
           "category": "zmove",
@@ -350,7 +351,8 @@
             "USUM"
           ],
           "zCrystalName": "サトピカZ",
-          "zMoveName": "1000まんボルト"
+          "zMoveName": "1000まんボルト",
+          "zMoveType": "でんき"
         },
         {
           "category": "gigantamax",
@@ -426,7 +428,8 @@
           "formName": "アローラライチュウ（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
-            "でんき"
+            "でんき",
+            "エスパー"
           ],
           "formAbility": "",
           "requiredItem": "",
@@ -435,7 +438,8 @@
             "USUM"
           ],
           "zCrystalName": "アロライZ",
-          "zMoveName": "ライトニングサーフライド"
+          "zMoveName": "ライトニングサーフライド",
+          "zMoveType": "でんき"
         }
       ]
     },
@@ -1598,7 +1602,8 @@
             "USUM"
           ],
           "zCrystalName": "イーブイZ",
-          "zMoveName": "ナインエボルブースト"
+          "zMoveName": "ナインエボルブースト",
+          "zMoveType": "ノーマル"
         },
         {
           "category": "gigantamax",
@@ -1677,7 +1682,8 @@
             "USUM"
           ],
           "zCrystalName": "カビゴンZ",
-          "zMoveName": "ほんきをだすこうげき"
+          "zMoveName": "ほんきをだすこうげき",
+          "zMoveType": "ノーマル"
         },
         {
           "category": "gigantamax",
@@ -1881,7 +1887,8 @@
             "USUM"
           ],
           "zCrystalName": "ミュウZ",
-          "zMoveName": "オリジンズスーパーノヴァ"
+          "zMoveName": "オリジンズスーパーノヴァ",
+          "zMoveType": "エスパー"
         }
       ]
     },
@@ -4420,6 +4427,7 @@
           "formName": "ジュナイパー（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
+            "くさ",
             "ゴースト"
           ],
           "formAbility": "",
@@ -4429,7 +4437,8 @@
             "USUM"
           ],
           "zCrystalName": "ジュナイパーZ",
-          "zMoveName": "シャドーアローズストライク"
+          "zMoveName": "シャドーアローズストライク",
+          "zMoveType": "ゴースト"
         }
       ]
     },
@@ -4450,6 +4459,7 @@
           "formName": "ガオガエン（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
+            "ほのお",
             "あく"
           ],
           "formAbility": "",
@@ -4459,7 +4469,8 @@
             "USUM"
           ],
           "zCrystalName": "ガオガエンZ",
-          "zMoveName": "ハイパーダーククラッシャー"
+          "zMoveName": "ハイパーダーククラッシャー",
+          "zMoveType": "あく"
         }
       ]
     },
@@ -4480,7 +4491,8 @@
           "formName": "アシレーヌ（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
-            "みず"
+            "みず",
+            "フェアリー"
           ],
           "formAbility": "",
           "requiredItem": "",
@@ -4489,7 +4501,8 @@
             "USUM"
           ],
           "zCrystalName": "アシレーヌZ",
-          "zMoveName": "わだつみのシンフォニア"
+          "zMoveName": "わだつみのシンフォニア",
+          "zMoveType": "みず"
         }
       ]
     },
@@ -4548,7 +4561,8 @@
             "USUM"
           ],
           "zCrystalName": "ルガルガンZ",
-          "zMoveName": "ラジアルエッジストーム"
+          "zMoveName": "ラジアルエッジストーム",
+          "zMoveType": "いわ"
         }
       ]
     },
@@ -4595,6 +4609,7 @@
           "formName": "ミミッキュ（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
+            "ゴースト",
             "フェアリー"
           ],
           "formAbility": "",
@@ -4604,7 +4619,8 @@
             "USUM"
           ],
           "zCrystalName": "ミミッキュZ",
-          "zMoveName": "ぽかぼかフレンドタイム"
+          "zMoveName": "ぽかぼかフレンドタイム",
+          "zMoveType": "フェアリー"
         }
       ]
     },
@@ -4656,7 +4672,8 @@
           "formName": "ジャラランガ（専用Zワザ）",
           "debutGame": "USUM",
           "formTypes": [
-            "ドラゴン"
+            "ドラゴン",
+            "かくとう"
           ],
           "formAbility": "",
           "requiredItem": "",
@@ -4664,7 +4681,8 @@
             "USUM"
           ],
           "zCrystalName": "ジャラランガZ",
-          "zMoveName": "ブレイジングソウルビート"
+          "zMoveName": "ブレイジングソウルビート",
+          "zMoveType": "ドラゴン"
         }
       ]
     },
@@ -4685,6 +4703,7 @@
           "formName": "カプ・コケコ（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
+            "でんき",
             "フェアリー"
           ],
           "formAbility": "",
@@ -4694,7 +4713,8 @@
             "USUM"
           ],
           "zCrystalName": "カプZ",
-          "zMoveName": "ガーディアン・デ・アローラ"
+          "zMoveName": "ガーディアン・デ・アローラ",
+          "zMoveType": "フェアリー"
         }
       ]
     },
@@ -4715,6 +4735,7 @@
           "formName": "カプ・テテフ（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
+            "エスパー",
             "フェアリー"
           ],
           "formAbility": "",
@@ -4724,7 +4745,8 @@
             "USUM"
           ],
           "zCrystalName": "カプZ",
-          "zMoveName": "ガーディアン・デ・アローラ"
+          "zMoveName": "ガーディアン・デ・アローラ",
+          "zMoveType": "フェアリー"
         }
       ]
     },
@@ -4745,6 +4767,7 @@
           "formName": "カプ・ブルル（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
+            "くさ",
             "フェアリー"
           ],
           "formAbility": "",
@@ -4754,7 +4777,8 @@
             "USUM"
           ],
           "zCrystalName": "カプZ",
-          "zMoveName": "ガーディアン・デ・アローラ"
+          "zMoveName": "ガーディアン・デ・アローラ",
+          "zMoveType": "フェアリー"
         }
       ]
     },
@@ -4775,6 +4799,7 @@
           "formName": "カプ・レヒレ（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
+            "みず",
             "フェアリー"
           ],
           "formAbility": "",
@@ -4784,7 +4809,8 @@
             "USUM"
           ],
           "zCrystalName": "カプZ",
-          "zMoveName": "ガーディアン・デ・アローラ"
+          "zMoveName": "ガーディアン・デ・アローラ",
+          "zMoveType": "フェアリー"
         }
       ]
     },
@@ -4804,6 +4830,7 @@
           "formName": "ソルガレオ（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
+            "エスパー",
             "はがね"
           ],
           "formAbility": "",
@@ -4813,7 +4840,8 @@
             "USUM"
           ],
           "zCrystalName": "ソルガレオZ",
-          "zMoveName": "サンシャインスマッシャー"
+          "zMoveName": "サンシャインスマッシャー",
+          "zMoveType": "はがね"
         }
       ]
     },
@@ -4833,6 +4861,7 @@
           "formName": "ルナアーラ（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
+            "エスパー",
             "ゴースト"
           ],
           "formAbility": "",
@@ -4842,7 +4871,8 @@
             "USUM"
           ],
           "zCrystalName": "ルナアーラZ",
-          "zMoveName": "ムーンライトブラスター"
+          "zMoveName": "ムーンライトブラスター",
+          "zMoveType": "ゴースト"
         }
       ]
     },
@@ -4861,6 +4891,7 @@
           "formName": "ネクロズマ（たそがれのたてがみ）（専用Zワザ）",
           "debutGame": "USUM",
           "formTypes": [
+            "エスパー",
             "はがね"
           ],
           "formAbility": "",
@@ -4869,13 +4900,15 @@
             "USUM"
           ],
           "zCrystalName": "ソルガレオZ",
-          "zMoveName": "サンシャインスマッシャー"
+          "zMoveName": "サンシャインスマッシャー",
+          "zMoveType": "はがね"
         },
         {
           "category": "zmove",
           "formName": "ネクロズマ（あかつきのつばさ）（専用Zワザ）",
           "debutGame": "USUM",
           "formTypes": [
+            "エスパー",
             "ゴースト"
           ],
           "formAbility": "",
@@ -4884,14 +4917,16 @@
             "USUM"
           ],
           "zCrystalName": "ルナアーラZ",
-          "zMoveName": "ムーンライトブラスター"
+          "zMoveName": "ムーンライトブラスター",
+          "zMoveType": "ゴースト"
         },
         {
           "category": "zmove",
           "formName": "ウルトラネクロズマ（専用Zワザ）",
           "debutGame": "USUM",
           "formTypes": [
-            "エスパー"
+            "エスパー",
+            "ドラゴン"
           ],
           "formAbility": "",
           "requiredItem": "",
@@ -4899,7 +4934,8 @@
             "USUM"
           ],
           "zCrystalName": "ウルトラネクロZ",
-          "zMoveName": "てんこがすめつぼうのひかり"
+          "zMoveName": "てんこがすめつぼうのひかり",
+          "zMoveType": "エスパー"
         }
       ]
     },
@@ -4946,6 +4982,7 @@
           "formName": "マーシャドー（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
+            "かくとう",
             "ゴースト"
           ],
           "formAbility": "",
@@ -4955,7 +4992,8 @@
             "USUM"
           ],
           "zCrystalName": "マーシャドーZ",
-          "zMoveName": "しちせいだっこんたい"
+          "zMoveName": "しちせいだっこんたい",
+          "zMoveType": "ゴースト"
         }
       ]
     },
@@ -5563,5 +5601,5 @@
       ]
     }
   ],
-  "_note": "特殊フォーム定義の正本（L2）。summary-pages の src/data/special-forms.json は sync-from-pokemon-data.mjs が生成する pull-only コピーなので直接編集しない。all.json の forms は fetch-forms.py がここから生成する。"
+  "_note": "特殊フォーム定義の正本（L2）。summary-pages の src/data/special-forms.json は sync-from-pokemon-data.mjs が生成する pull-only コピーなので直接編集しない。all.json の forms は fetch-forms.py がここから生成する。⚠ formTypes は常に「そのフォームのポケモンのタイプ」。Zワザのタイプは zMoveType に入れる（category:zmove のみ）。両者を混ぜない。"
 }

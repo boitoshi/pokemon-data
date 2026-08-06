@@ -547,7 +547,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "ピカチュウZ",
-        "z_move": "ひっさつのピカチュート"
+        "z_move": "ひっさつのピカチュート",
+        "z_move_type": "でんき"
       },
       {
         "form_id": "zmove",
@@ -565,7 +566,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "サトピカZ",
-        "z_move": "1000まんボルト"
+        "z_move": "1000まんボルト",
+        "z_move_type": "でんき"
       },
       {
         "form_id": "gmax",
@@ -647,7 +649,8 @@
         "form_name_ja": "アローラライチュウ（専用Zワザ）",
         "form_name_en": "",
         "types": [
-          "でんき"
+          "でんき",
+          "エスパー"
         ],
         "category": "zmove",
         "ability": "",
@@ -658,7 +661,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "アロライZ",
-        "z_move": "ライトニングサーフライド"
+        "z_move": "ライトニングサーフライド",
+        "z_move_type": "でんき"
       }
     ]
   },
@@ -2710,7 +2714,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "イーブイZ",
-        "z_move": "ナインエボルブースト"
+        "z_move": "ナインエボルブースト",
+        "z_move_type": "ノーマル"
       },
       {
         "form_id": "gmax",
@@ -2885,7 +2890,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "カビゴンZ",
-        "z_move": "ほんきをだすこうげき"
+        "z_move": "ほんきをだすこうげき",
+        "z_move_type": "ノーマル"
       },
       {
         "form_id": "gmax",
@@ -3131,7 +3137,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "ミュウZ",
-        "z_move": "オリジンズスーパーノヴァ"
+        "z_move": "オリジンズスーパーノヴァ",
+        "z_move_type": "エスパー"
       }
     ]
   },
@@ -11430,6 +11437,7 @@
         "form_name_ja": "ジュナイパー（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "くさ",
           "ゴースト"
         ],
         "category": "zmove",
@@ -11441,7 +11449,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "ジュナイパーZ",
-        "z_move": "シャドーアローズストライク"
+        "z_move": "シャドーアローズストライク",
+        "z_move_type": "ゴースト"
       }
     ]
   },
@@ -11484,6 +11493,7 @@
         "form_name_ja": "ガオガエン（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "ほのお",
           "あく"
         ],
         "category": "zmove",
@@ -11495,7 +11505,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "ガオガエンZ",
-        "z_move": "ハイパーダーククラッシャー"
+        "z_move": "ハイパーダーククラッシャー",
+        "z_move_type": "あく"
       }
     ]
   },
@@ -11538,7 +11549,8 @@
         "form_name_ja": "アシレーヌ（専用Zワザ）",
         "form_name_en": "",
         "types": [
-          "みず"
+          "みず",
+          "フェアリー"
         ],
         "category": "zmove",
         "ability": "",
@@ -11549,7 +11561,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "アシレーヌZ",
-        "z_move": "わだつみのシンフォニア"
+        "z_move": "わだつみのシンフォニア",
+        "z_move_type": "みず"
       }
     ]
   },
@@ -11761,7 +11774,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "ルガルガンZ",
-        "z_move": "ラジアルエッジストーム"
+        "z_move": "ラジアルエッジストーム",
+        "z_move_type": "いわ"
       }
     ]
   },
@@ -12170,6 +12184,7 @@
         "form_name_ja": "ミミッキュ（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "ゴースト",
           "フェアリー"
         ],
         "category": "zmove",
@@ -12181,7 +12196,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "ミミッキュZ",
-        "z_move": "ぽかぼかフレンドタイム"
+        "z_move": "ぽかぼかフレンドタイム",
+        "z_move_type": "フェアリー"
       }
     ]
   },
@@ -12280,7 +12296,8 @@
         "form_name_ja": "ジャラランガ（専用Zワザ）",
         "form_name_en": "",
         "types": [
-          "ドラゴン"
+          "ドラゴン",
+          "かくとう"
         ],
         "category": "zmove",
         "ability": "",
@@ -12290,7 +12307,8 @@
         ],
         "debut_game": "USUM",
         "z_crystal": "ジャラランガZ",
-        "z_move": "ブレイジングソウルビート"
+        "z_move": "ブレイジングソウルビート",
+        "z_move_type": "ドラゴン"
       }
     ]
   },
@@ -12311,6 +12329,7 @@
         "form_name_ja": "カプ・コケコ（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "でんき",
           "フェアリー"
         ],
         "category": "zmove",
@@ -12322,7 +12341,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "カプZ",
-        "z_move": "ガーディアン・デ・アローラ"
+        "z_move": "ガーディアン・デ・アローラ",
+        "z_move_type": "フェアリー"
       }
     ]
   },
@@ -12343,6 +12363,7 @@
         "form_name_ja": "カプ・テテフ（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "エスパー",
           "フェアリー"
         ],
         "category": "zmove",
@@ -12354,7 +12375,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "カプZ",
-        "z_move": "ガーディアン・デ・アローラ"
+        "z_move": "ガーディアン・デ・アローラ",
+        "z_move_type": "フェアリー"
       }
     ]
   },
@@ -12375,6 +12397,7 @@
         "form_name_ja": "カプ・ブルル（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "くさ",
           "フェアリー"
         ],
         "category": "zmove",
@@ -12386,7 +12409,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "カプZ",
-        "z_move": "ガーディアン・デ・アローラ"
+        "z_move": "ガーディアン・デ・アローラ",
+        "z_move_type": "フェアリー"
       }
     ]
   },
@@ -12407,6 +12431,7 @@
         "form_name_ja": "カプ・レヒレ（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "みず",
           "フェアリー"
         ],
         "category": "zmove",
@@ -12418,7 +12443,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "カプZ",
-        "z_move": "ガーディアン・デ・アローラ"
+        "z_move": "ガーディアン・デ・アローラ",
+        "z_move_type": "フェアリー"
       }
     ]
   },
@@ -12461,6 +12487,7 @@
         "form_name_ja": "ソルガレオ（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "エスパー",
           "はがね"
         ],
         "category": "zmove",
@@ -12472,7 +12499,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "ソルガレオZ",
-        "z_move": "サンシャインスマッシャー"
+        "z_move": "サンシャインスマッシャー",
+        "z_move_type": "はがね"
       }
     ]
   },
@@ -12493,6 +12521,7 @@
         "form_name_ja": "ルナアーラ（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "エスパー",
           "ゴースト"
         ],
         "category": "zmove",
@@ -12504,7 +12533,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "ルナアーラZ",
-        "z_move": "ムーンライトブラスター"
+        "z_move": "ムーンライトブラスター",
+        "z_move_type": "ゴースト"
       }
     ]
   },
@@ -12607,6 +12637,7 @@
         "form_name_ja": "ネクロズマ（たそがれのたてがみ）（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "エスパー",
           "はがね"
         ],
         "category": "zmove",
@@ -12617,13 +12648,15 @@
         ],
         "debut_game": "USUM",
         "z_crystal": "ソルガレオZ",
-        "z_move": "サンシャインスマッシャー"
+        "z_move": "サンシャインスマッシャー",
+        "z_move_type": "はがね"
       },
       {
         "form_id": "zmove",
         "form_name_ja": "ネクロズマ（あかつきのつばさ）（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "エスパー",
           "ゴースト"
         ],
         "category": "zmove",
@@ -12634,14 +12667,16 @@
         ],
         "debut_game": "USUM",
         "z_crystal": "ルナアーラZ",
-        "z_move": "ムーンライトブラスター"
+        "z_move": "ムーンライトブラスター",
+        "z_move_type": "ゴースト"
       },
       {
         "form_id": "zmove",
         "form_name_ja": "ウルトラネクロズマ（専用Zワザ）",
         "form_name_en": "",
         "types": [
-          "エスパー"
+          "エスパー",
+          "ドラゴン"
         ],
         "category": "zmove",
         "ability": "",
@@ -12651,7 +12686,8 @@
         ],
         "debut_game": "USUM",
         "z_crystal": "ウルトラネクロZ",
-        "z_move": "てんこがすめつぼうのひかり"
+        "z_move": "てんこがすめつぼうのひかり",
+        "z_move_type": "エスパー"
       }
     ]
   },
@@ -12702,6 +12738,7 @@
         "form_name_ja": "マーシャドー（専用Zワザ）",
         "form_name_en": "",
         "types": [
+          "かくとう",
           "ゴースト"
         ],
         "category": "zmove",
@@ -12713,7 +12750,8 @@
         ],
         "debut_game": "SM",
         "z_crystal": "マーシャドーZ",
-        "z_move": "しちせいだっこんたい"
+        "z_move": "しちせいだっこんたい",
+        "z_move_type": "ゴースト"
       }
     ]
   },

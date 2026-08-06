@@ -131,6 +131,10 @@ def build_form_entry(form: dict, pokemon_name_ja: str) -> dict:
     if category == "zmove":
         entry["z_crystal"] = form.get("zCrystalName", "")
         entry["z_move"] = form.get("zMoveName", "")
+        # Zワザのタイプは types（＝ポケモンのタイプ）と別物なので混ぜない。
+        # 以前は formTypes に技のタイプを入れていたため、全フォーム一覧が
+        # 「ミミッキュのタイプ＝フェアリー」のような誤表示になっていた
+        entry["z_move_type"] = form.get("zMoveType", "")
 
     return entry
 

@@ -9,9 +9,9 @@
         "どく"
       ],
       "originalAbilities": [
-        "しんりょく",
-        "ようりょくそ"
+        "しんりょく"
       ],
+      "originalHiddenAbility": "ようりょくそ",
       "forms": [
         {
           "category": "mega",
@@ -62,9 +62,9 @@
         "ひこう"
       ],
       "originalAbilities": [
-        "もうか",
-        "サンパワー"
+        "もうか"
       ],
+      "originalHiddenAbility": "サンパワー",
       "forms": [
         {
           "category": "mega",
@@ -139,6 +139,7 @@
       "originalAbilities": [
         "げきりゅう"
       ],
+      "originalHiddenAbility": "あめうけざら",
       "forms": [
         {
           "category": "mega",
@@ -186,7 +187,10 @@
         "むし",
         "ひこう"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ふくがん"
+      ],
+      "originalHiddenAbility": "いろめがね",
       "forms": [
         {
           "category": "gigantamax",
@@ -214,9 +218,9 @@
         "どく"
       ],
       "originalAbilities": [
-        "むしのしらせ",
-        "スナイパー"
+        "むしのしらせ"
       ],
+      "originalHiddenAbility": "スナイパー",
       "forms": [
         {
           "category": "mega",
@@ -251,9 +255,9 @@
       ],
       "originalAbilities": [
         "するどいめ",
-        "ちどりあし",
-        "はとむね"
+        "ちどりあし"
       ],
+      "originalHiddenAbility": "はとむね",
       "forms": [
         {
           "category": "mega",
@@ -285,7 +289,11 @@
       "originalTypes": [
         "ノーマル"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "にげあし",
+        "こんじょう"
+      ],
+      "originalHiddenAbility": "はりきり",
       "forms": [
         {
           "category": "regional",
@@ -315,7 +323,11 @@
       "originalTypes": [
         "ノーマル"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "にげあし",
+        "こんじょう"
+      ],
+      "originalHiddenAbility": "はりきり",
       "forms": [
         {
           "category": "regional",
@@ -346,9 +358,9 @@
         "でんき"
       ],
       "originalAbilities": [
-        "せいでんき",
-        "ひらいしん"
+        "せいでんき"
       ],
+      "originalHiddenAbility": "ひらいしん",
       "forms": [
         {
           "category": "zmove",
@@ -410,9 +422,9 @@
         "でんき"
       ],
       "originalAbilities": [
-        "せいでんき",
-        "ひらいしん"
+        "せいでんき"
       ],
+      "originalHiddenAbility": "ひらいしん",
       "forms": [
         {
           "category": "regional",
@@ -440,7 +452,9 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "エレキメイカー"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "ライチュウナイトX",
           "availableIn": [
@@ -454,7 +468,9 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "ノーガード"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "ライチュウナイトY",
           "availableIn": [
@@ -488,7 +504,10 @@
       "originalTypes": [
         "じめん"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "すながくれ"
+      ],
+      "originalHiddenAbility": "すなかき",
       "forms": [
         {
           "category": "regional",
@@ -517,7 +536,10 @@
       "originalTypes": [
         "じめん"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "すながくれ"
+      ],
+      "originalHiddenAbility": "すなかき",
       "forms": [
         {
           "category": "regional",
@@ -548,9 +570,9 @@
       ],
       "originalAbilities": [
         "メロメロボディ",
-        "マジックガード",
-        "てんねん"
+        "マジックガード"
       ],
+      "originalHiddenAbility": "てんねん",
       "forms": [
         {
           "category": "mega",
@@ -578,7 +600,10 @@
       "originalTypes": [
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "もらいび"
+      ],
+      "originalHiddenAbility": "ひでり",
       "forms": [
         {
           "category": "regional",
@@ -606,7 +631,10 @@
       "originalTypes": [
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "もらいび"
+      ],
+      "originalHiddenAbility": "ひでり",
       "forms": [
         {
           "category": "regional",
@@ -635,7 +663,11 @@
       "originalTypes": [
         "じめん"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "すながくれ",
+        "ありじごく"
+      ],
+      "originalHiddenAbility": "すなのちから",
       "forms": [
         {
           "category": "regional",
@@ -665,7 +697,11 @@
       "originalTypes": [
         "じめん"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "すながくれ",
+        "ありじごく"
+      ],
+      "originalHiddenAbility": "すなのちから",
       "forms": [
         {
           "category": "regional",
@@ -695,7 +731,11 @@
       "originalTypes": [
         "ノーマル"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ものひろい",
+        "テクニシャン"
+      ],
+      "originalHiddenAbility": "きんちょうかん",
       "forms": [
         {
           "category": "regional",
@@ -759,7 +799,11 @@
       "originalTypes": [
         "ノーマル"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "じゅうなん",
+        "テクニシャン"
+      ],
+      "originalHiddenAbility": "きんちょうかん",
       "forms": [
         {
           "category": "regional",
@@ -788,7 +832,11 @@
       "originalTypes": [
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "いかく",
+        "もらいび"
+      ],
+      "originalHiddenAbility": "せいぎのこころ",
       "forms": [
         {
           "category": "regional",
@@ -818,7 +866,11 @@
       "originalTypes": [
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "いかく",
+        "もらいび"
+      ],
+      "originalHiddenAbility": "せいぎのこころ",
       "forms": [
         {
           "category": "regional",
@@ -850,9 +902,9 @@
       ],
       "originalAbilities": [
         "シンクロ",
-        "せいしんりょく",
-        "マジックガード"
+        "せいしんりょく"
       ],
+      "originalHiddenAbility": "マジックガード",
       "forms": [
         {
           "category": "mega",
@@ -884,7 +936,11 @@
       "originalTypes": [
         "かくとう"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "こんじょう",
+        "ノーガード"
+      ],
+      "originalHiddenAbility": "ふくつのこころ",
       "forms": [
         {
           "category": "gigantamax",
@@ -911,9 +967,9 @@
         "どく"
       ],
       "originalAbilities": [
-        "ようりょくそ",
-        "くいしんぼう"
+        "ようりょくそ"
       ],
+      "originalHiddenAbility": "くいしんぼう",
       "forms": [
         {
           "category": "mega",
@@ -942,7 +998,11 @@
         "いわ",
         "じめん"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "いしあたま",
+        "がんじょう"
+      ],
+      "originalHiddenAbility": "すながくれ",
       "forms": [
         {
           "category": "regional",
@@ -973,7 +1033,11 @@
         "いわ",
         "じめん"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "いしあたま",
+        "がんじょう"
+      ],
+      "originalHiddenAbility": "すながくれ",
       "forms": [
         {
           "category": "regional",
@@ -1004,7 +1068,11 @@
         "いわ",
         "じめん"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "いしあたま",
+        "がんじょう"
+      ],
+      "originalHiddenAbility": "すながくれ",
       "forms": [
         {
           "category": "regional",
@@ -1034,7 +1102,11 @@
       "originalTypes": [
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "にげあし",
+        "もらいび"
+      ],
+      "originalHiddenAbility": "ほのおのからだ",
       "forms": [
         {
           "category": "regional",
@@ -1063,7 +1135,11 @@
       "originalTypes": [
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "にげあし",
+        "もらいび"
+      ],
+      "originalHiddenAbility": "ほのおのからだ",
       "forms": [
         {
           "category": "regional",
@@ -1094,7 +1170,11 @@
         "みず",
         "エスパー"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "どんかん",
+        "マイペース"
+      ],
+      "originalHiddenAbility": "さいせいりょく",
       "forms": [
         {
           "category": "regional",
@@ -1126,9 +1206,9 @@
       ],
       "originalAbilities": [
         "どんかん",
-        "マイペース",
-        "さいせいりょく"
+        "マイペース"
       ],
+      "originalHiddenAbility": "さいせいりょく",
       "forms": [
         {
           "category": "regional",
@@ -1180,7 +1260,11 @@
       "originalTypes": [
         "ノーマル"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "するどいめ",
+        "せいしんりょく"
+      ],
+      "originalHiddenAbility": "まけんき",
       "forms": [
         {
           "category": "regional",
@@ -1208,7 +1292,11 @@
       "originalTypes": [
         "どく"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "あくしゅう",
+        "ねんちゃく"
+      ],
+      "originalHiddenAbility": "どくしゅ",
       "forms": [
         {
           "category": "regional",
@@ -1238,7 +1326,11 @@
       "originalTypes": [
         "どく"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "あくしゅう",
+        "ねんちゃく"
+      ],
+      "originalHiddenAbility": "どくしゅ",
       "forms": [
         {
           "category": "regional",
@@ -1272,6 +1364,7 @@
       "originalAbilities": [
         "のろわれボディ"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -1320,7 +1413,11 @@
       "originalTypes": [
         "みず"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "かいりきバサミ",
+        "シェルアーマー"
+      ],
+      "originalHiddenAbility": "ちからずく",
       "forms": [
         {
           "category": "gigantamax",
@@ -1345,7 +1442,11 @@
       "originalTypes": [
         "でんき"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ぼうおん",
+        "せいでんき"
+      ],
+      "originalHiddenAbility": "ゆうばく",
       "forms": [
         {
           "category": "regional",
@@ -1375,7 +1476,11 @@
       "originalTypes": [
         "でんき"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ぼうおん",
+        "せいでんき"
+      ],
+      "originalHiddenAbility": "ゆうばく",
       "forms": [
         {
           "category": "regional",
@@ -1406,7 +1511,10 @@
         "くさ",
         "エスパー"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ようりょくそ"
+      ],
+      "originalHiddenAbility": "しゅうかく",
       "forms": [
         {
           "category": "regional",
@@ -1435,7 +1543,11 @@
       "originalTypes": [
         "じめん"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "いしあたま",
+        "ひらいしん"
+      ],
+      "originalHiddenAbility": "カブトアーマー",
       "forms": [
         {
           "category": "regional",
@@ -1465,7 +1577,11 @@
       "originalTypes": [
         "どく"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ふゆう",
+        "かがくへんかガス"
+      ],
+      "originalHiddenAbility": "あくしゅう",
       "forms": [
         {
           "category": "regional",
@@ -1497,9 +1613,9 @@
       ],
       "originalAbilities": [
         "はやおき",
-        "きもったま",
-        "せいしんりょく"
+        "きもったま"
       ],
+      "originalHiddenAbility": "せいしんりょく",
       "forms": [
         {
           "category": "mega",
@@ -1534,9 +1650,9 @@
       ],
       "originalAbilities": [
         "はっこう",
-        "しぜんかいふく",
-        "アナライズ"
+        "しぜんかいふく"
       ],
+      "originalHiddenAbility": "アナライズ",
       "forms": [
         {
           "category": "mega",
@@ -1565,7 +1681,11 @@
         "エスパー",
         "フェアリー"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ぼうおん",
+        "フィルター"
+      ],
+      "originalHiddenAbility": "テクニシャン",
       "forms": [
         {
           "category": "regional",
@@ -1597,9 +1717,9 @@
       ],
       "originalAbilities": [
         "かいりきバサミ",
-        "かたやぶり",
-        "じしんかじょう"
+        "かたやぶり"
       ],
+      "originalHiddenAbility": "じしんかじょう",
       "forms": [
         {
           "category": "mega",
@@ -1632,7 +1752,11 @@
       "originalTypes": [
         "ノーマル"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "いかく",
+        "いかりのつぼ"
+      ],
+      "originalHiddenAbility": "ちからずく",
       "forms": [
         {
           "category": "regional",
@@ -1706,9 +1830,9 @@
         "ひこう"
       ],
       "originalAbilities": [
-        "いかく",
-        "じしんかじょう"
+        "いかく"
       ],
+      "originalHiddenAbility": "じしんかじょう",
       "forms": [
         {
           "category": "mega",
@@ -1742,7 +1866,11 @@
         "みず",
         "こおり"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ちょすい",
+        "シェルアーマー"
+      ],
+      "originalHiddenAbility": "うるおいボディ",
       "forms": [
         {
           "category": "gigantamax",
@@ -1772,6 +1900,7 @@
         "にげあし",
         "てきおうりょく"
       ],
+      "originalHiddenAbility": "きけんよち",
       "forms": [
         {
           "category": "zmove",
@@ -1817,9 +1946,9 @@
       ],
       "originalAbilities": [
         "かたやぶり",
-        "プレッシャー",
-        "きんちょうかん"
+        "プレッシャー"
       ],
+      "originalHiddenAbility": "きんちょうかん",
       "forms": [
         {
           "category": "mega",
@@ -1854,9 +1983,9 @@
       ],
       "originalAbilities": [
         "めんえき",
-        "あついしぼう",
-        "くいしんぼう"
+        "あついしぼう"
       ],
+      "originalHiddenAbility": "くいしんぼう",
       "forms": [
         {
           "category": "zmove",
@@ -1900,7 +2029,10 @@
         "こおり",
         "ひこう"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "プレッシャー"
+      ],
+      "originalHiddenAbility": "ゆきがくれ",
       "forms": [
         {
           "category": "regional",
@@ -1930,7 +2062,10 @@
         "でんき",
         "ひこう"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "プレッシャー"
+      ],
+      "originalHiddenAbility": "せいでんき",
       "forms": [
         {
           "category": "regional",
@@ -1960,7 +2095,10 @@
         "ほのお",
         "ひこう"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "プレッシャー"
+      ],
+      "originalHiddenAbility": "ほのおのからだ",
       "forms": [
         {
           "category": "regional",
@@ -1991,9 +2129,9 @@
         "ひこう"
       ],
       "originalAbilities": [
-        "せいしんりょく",
-        "マルチスケイル"
+        "せいしんりょく"
       ],
+      "originalHiddenAbility": "マルチスケイル",
       "forms": [
         {
           "category": "mega",
@@ -2022,9 +2160,9 @@
         "エスパー"
       ],
       "originalAbilities": [
-        "プレッシャー",
-        "きんちょうかん"
+        "プレッシャー"
       ],
+      "originalHiddenAbility": "きんちょうかん",
       "forms": [
         {
           "category": "mega",
@@ -2082,6 +2220,7 @@
       "originalAbilities": [
         "シンクロ"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "zmove",
@@ -2110,9 +2249,9 @@
         "くさ"
       ],
       "originalAbilities": [
-        "しんりょく",
-        "リーフガード"
+        "しんりょく"
       ],
+      "originalHiddenAbility": "リーフガード",
       "forms": [
         {
           "category": "mega",
@@ -2140,7 +2279,10 @@
       "originalTypes": [
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "もうか"
+      ],
+      "originalHiddenAbility": "もらいび",
       "forms": [
         {
           "category": "regional",
@@ -2170,9 +2312,9 @@
         "みず"
       ],
       "originalAbilities": [
-        "げきりゅう",
-        "ちからずく"
+        "げきりゅう"
       ],
+      "originalHiddenAbility": "ちからずく",
       "forms": [
         {
           "category": "mega",
@@ -2201,9 +2343,9 @@
         "でんき"
       ],
       "originalAbilities": [
-        "せいでんき",
-        "プラス"
+        "せいでんき"
       ],
+      "originalHiddenAbility": "プラス",
       "forms": [
         {
           "category": "mega",
@@ -2236,7 +2378,11 @@
         "みず",
         "じめん"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "しめりけ",
+        "ちょすい"
+      ],
+      "originalHiddenAbility": "てんねん",
       "forms": [
         {
           "category": "regional",
@@ -2267,7 +2413,11 @@
         "みず",
         "エスパー"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "どんかん",
+        "マイペース"
+      ],
+      "originalHiddenAbility": "さいせいりょく",
       "forms": [
         {
           "category": "regional",
@@ -2300,9 +2450,9 @@
       ],
       "originalAbilities": [
         "いしあたま",
-        "がんじょう",
-        "ちからずく"
+        "がんじょう"
       ],
+      "originalHiddenAbility": "ちからずく",
       "forms": [
         {
           "category": "mega",
@@ -2334,7 +2484,11 @@
         "みず",
         "どく"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "どくのトゲ",
+        "すいすい"
+      ],
+      "originalHiddenAbility": "いかく",
       "forms": [
         {
           "category": "regional",
@@ -2367,9 +2521,9 @@
       ],
       "originalAbilities": [
         "むしのしらせ",
-        "テクニシャン",
-        "ライトメタル"
+        "テクニシャン"
       ],
+      "originalHiddenAbility": "ライトメタル",
       "forms": [
         {
           "category": "mega",
@@ -2404,9 +2558,9 @@
       ],
       "originalAbilities": [
         "むしのしらせ",
-        "こんじょう",
-        "じしんかじょう"
+        "こんじょう"
       ],
+      "originalHiddenAbility": "じしんかじょう",
       "forms": [
         {
           "category": "mega",
@@ -2439,7 +2593,11 @@
         "あく",
         "こおり"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "せいしんりょく",
+        "するどいめ"
+      ],
+      "originalHiddenAbility": "わるいてぐせ",
       "forms": [
         {
           "category": "regional",
@@ -2469,7 +2627,11 @@
       "originalTypes": [
         "みず"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "はりきり",
+        "しぜんかいふく"
+      ],
+      "originalHiddenAbility": "さいせいりょく",
       "forms": [
         {
           "category": "regional",
@@ -2500,9 +2662,9 @@
       ],
       "originalAbilities": [
         "するどいめ",
-        "がんじょう",
-        "くだけるよろい"
+        "がんじょう"
       ],
+      "originalHiddenAbility": "くだけるよろい",
       "forms": [
         {
           "category": "mega",
@@ -2533,9 +2695,9 @@
       ],
       "originalAbilities": [
         "はやおき",
-        "もらいび",
-        "きんちょうかん"
+        "もらいび"
       ],
+      "originalHiddenAbility": "きんちょうかん",
       "forms": [
         {
           "category": "mega",
@@ -2569,9 +2731,9 @@
         "あく"
       ],
       "originalAbilities": [
-        "すなあらし",
-        "きんちょうかん"
+        "すなあらし"
       ],
+      "originalHiddenAbility": "きんちょうかん",
       "forms": [
         {
           "category": "mega",
@@ -2604,9 +2766,9 @@
         "くさ"
       ],
       "originalAbilities": [
-        "しんりょく",
-        "かるわざ"
+        "しんりょく"
       ],
+      "originalHiddenAbility": "かるわざ",
       "forms": [
         {
           "category": "mega",
@@ -2639,9 +2801,9 @@
         "かくとう"
       ],
       "originalAbilities": [
-        "もうか",
-        "かそく"
+        "もうか"
       ],
+      "originalHiddenAbility": "かそく",
       "forms": [
         {
           "category": "mega",
@@ -2675,9 +2837,9 @@
         "じめん"
       ],
       "originalAbilities": [
-        "げきりゅう",
-        "しめりけ"
+        "げきりゅう"
       ],
+      "originalHiddenAbility": "しめりけ",
       "forms": [
         {
           "category": "mega",
@@ -2708,7 +2870,11 @@
       "originalTypes": [
         "ノーマル"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ものひろい",
+        "くいしんぼう"
+      ],
+      "originalHiddenAbility": "はやあし",
       "forms": [
         {
           "category": "regional",
@@ -2737,7 +2903,11 @@
       "originalTypes": [
         "ノーマル"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ものひろい",
+        "くいしんぼう"
+      ],
+      "originalHiddenAbility": "はやあし",
       "forms": [
         {
           "category": "regional",
@@ -2769,9 +2939,9 @@
       ],
       "originalAbilities": [
         "シンクロ",
-        "トレース",
-        "テレパシー"
+        "トレース"
       ],
+      "originalHiddenAbility": "テレパシー",
       "forms": [
         {
           "category": "mega",
@@ -2806,9 +2976,9 @@
       ],
       "originalAbilities": [
         "するどいめ",
-        "あとだし",
-        "いたずらごころ"
+        "あとだし"
       ],
+      "originalHiddenAbility": "いたずらごころ",
       "forms": [
         {
           "category": "mega",
@@ -2842,9 +3012,9 @@
       ],
       "originalAbilities": [
         "かいりきバサミ",
-        "いかく",
-        "ちからずく"
+        "いかく"
       ],
+      "originalHiddenAbility": "ちからずく",
       "forms": [
         {
           "category": "mega",
@@ -2879,9 +3049,9 @@
       ],
       "originalAbilities": [
         "がんじょう",
-        "いしあたま",
-        "ヘヴィメタル"
+        "いしあたま"
       ],
+      "originalHiddenAbility": "ヘヴィメタル",
       "forms": [
         {
           "category": "mega",
@@ -2914,9 +3084,9 @@
         "エスパー"
       ],
       "originalAbilities": [
-        "ヨガパワー",
-        "テレパシー"
+        "ヨガパワー"
       ],
+      "originalHiddenAbility": "テレパシー",
       "forms": [
         {
           "category": "mega",
@@ -2950,9 +3120,9 @@
       ],
       "originalAbilities": [
         "せいでんき",
-        "ひらいしん",
-        "マイナス"
+        "ひらいしん"
       ],
+      "originalHiddenAbility": "マイナス",
       "forms": [
         {
           "category": "mega",
@@ -2985,9 +3155,9 @@
         "あく"
       ],
       "originalAbilities": [
-        "さめはだ",
-        "かそく"
+        "さめはだ"
       ],
+      "originalHiddenAbility": "かそく",
       "forms": [
         {
           "category": "mega",
@@ -3021,9 +3191,9 @@
       ],
       "originalAbilities": [
         "マグマのよろい",
-        "ハードロック",
-        "いかりのつぼ"
+        "ハードロック"
       ],
+      "originalHiddenAbility": "いかりのつぼ",
       "forms": [
         {
           "category": "mega",
@@ -3056,9 +3226,9 @@
         "ひこう"
       ],
       "originalAbilities": [
-        "しぜんかいふく",
-        "ノーてんき"
+        "しぜんかいふく"
       ],
+      "originalHiddenAbility": "ノーてんき",
       "forms": [
         {
           "category": "mega",
@@ -3091,9 +3261,9 @@
       ],
       "originalAbilities": [
         "ふみん",
-        "おみとおし",
-        "のろわれボディ"
+        "おみとおし"
       ],
+      "originalHiddenAbility": "のろわれボディ",
       "forms": [
         {
           "category": "mega",
@@ -3127,6 +3297,7 @@
       "originalAbilities": [
         "ふゆう"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -3155,9 +3326,9 @@
       ],
       "originalAbilities": [
         "プレッシャー",
-        "きょううん",
-        "せいぎのこころ"
+        "きょううん"
       ],
+      "originalHiddenAbility": "せいぎのこころ",
       "forms": [
         {
           "category": "mega",
@@ -3205,9 +3376,9 @@
       ],
       "originalAbilities": [
         "せいしんりょく",
-        "アイスボディ",
-        "ムラっけ"
+        "アイスボディ"
       ],
+      "originalHiddenAbility": "ムラっけ",
       "forms": [
         {
           "category": "mega",
@@ -3239,9 +3410,9 @@
         "ひこう"
       ],
       "originalAbilities": [
-        "いかく",
-        "じしんかじょう"
+        "いかく"
       ],
+      "originalHiddenAbility": "じしんかじょう",
       "forms": [
         {
           "category": "mega",
@@ -3274,9 +3445,9 @@
         "エスパー"
       ],
       "originalAbilities": [
-        "クリアボディ",
-        "ライトメタル"
+        "クリアボディ"
       ],
+      "originalHiddenAbility": "ライトメタル",
       "forms": [
         {
           "category": "mega",
@@ -3311,6 +3482,7 @@
       "originalAbilities": [
         "ふゆう"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -3346,6 +3518,7 @@
       "originalAbilities": [
         "ふゆう"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -3380,6 +3553,7 @@
       "originalAbilities": [
         "あめふらし"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "primal",
@@ -3411,6 +3585,7 @@
       "originalAbilities": [
         "ひでり"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "primal",
@@ -3444,6 +3619,7 @@
       "originalAbilities": [
         "エアーロック"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -3476,9 +3652,9 @@
         "ひこう"
       ],
       "originalAbilities": [
-        "いかく",
-        "すてみ"
+        "いかく"
       ],
+      "originalHiddenAbility": "すてみ",
       "forms": [
         {
           "category": "mega",
@@ -3488,7 +3664,9 @@
             "かくとう",
             "ひこう"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "あまのじゃく"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "M次元",
           "availableIn": [
@@ -3505,9 +3683,9 @@
       ],
       "originalAbilities": [
         "メロメロボディ",
-        "ぶきよう",
-        "じゅうなん"
+        "ぶきよう"
       ],
+      "originalHiddenAbility": "じゅうなん",
       "forms": [
         {
           "category": "mega",
@@ -3541,9 +3719,9 @@
         "じめん"
       ],
       "originalAbilities": [
-        "すながくれ",
-        "さめはだ"
+        "すながくれ"
       ],
+      "originalHiddenAbility": "さめはだ",
       "forms": [
         {
           "category": "mega",
@@ -3578,9 +3756,9 @@
       ],
       "originalAbilities": [
         "ふくつのこころ",
-        "せいしんりょく",
-        "せいぎのこころ"
+        "せいしんりょく"
       ],
+      "originalHiddenAbility": "せいぎのこころ",
       "forms": [
         {
           "category": "mega",
@@ -3629,9 +3807,9 @@
         "こおり"
       ],
       "originalAbilities": [
-        "ゆきふらし",
-        "ぼうおん"
+        "ゆきふらし"
       ],
+      "originalHiddenAbility": "ぼうおん",
       "forms": [
         {
           "category": "mega",
@@ -3665,9 +3843,9 @@
         "かくとう"
       ],
       "originalAbilities": [
-        "ふくつのこころ",
-        "せいぎのこころ"
+        "ふくつのこころ"
       ],
+      "originalHiddenAbility": "せいぎのこころ",
       "forms": [
         {
           "category": "mega",
@@ -3700,9 +3878,9 @@
         "ゴースト"
       ],
       "originalAbilities": [
-        "ゆきがくれ",
-        "のろわれボディ"
+        "ゆきがくれ"
       ],
+      "originalHiddenAbility": "のろわれボディ",
       "forms": [
         {
           "category": "mega",
@@ -3732,9 +3910,9 @@
         "はがね"
       ],
       "originalAbilities": [
-        "もらいび",
-        "ほのおのからだ"
+        "もらいび"
       ],
+      "originalHiddenAbility": "ほのおのからだ",
       "forms": [
         {
           "category": "mega",
@@ -3761,9 +3939,9 @@
         "かくとう"
       ],
       "originalAbilities": [
-        "もうか",
-        "すてみ"
+        "もうか"
       ],
+      "originalHiddenAbility": "すてみ",
       "forms": [
         {
           "category": "mega",
@@ -3791,7 +3969,10 @@
       "originalTypes": [
         "みず"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "げきりゅう"
+      ],
+      "originalHiddenAbility": "シェルアーマー",
       "forms": [
         {
           "category": "regional",
@@ -3823,9 +4004,9 @@
       ],
       "originalAbilities": [
         "すなかき",
-        "すなのちから",
-        "かたやぶり"
+        "すなのちから"
       ],
+      "originalHiddenAbility": "かたやぶり",
       "forms": [
         {
           "category": "mega",
@@ -3855,9 +4036,9 @@
       ],
       "originalAbilities": [
         "いやしのこころ",
-        "さいせいりょく",
-        "ぶきよう"
+        "さいせいりょく"
       ],
+      "originalHiddenAbility": "ぶきよう",
       "forms": [
         {
           "category": "mega",
@@ -3889,7 +4070,11 @@
         "むし",
         "どく"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "どくのトゲ",
+        "むしのしらせ"
+      ],
+      "originalHiddenAbility": "かそく",
       "forms": [
         {
           "category": "mega",
@@ -3916,7 +4101,11 @@
       "originalTypes": [
         "くさ"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ようりょくそ",
+        "マイペース"
+      ],
+      "originalHiddenAbility": "リーフガード",
       "forms": [
         {
           "category": "regional",
@@ -3946,7 +4135,10 @@
       "originalTypes": [
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "はりきり"
+      ],
+      "originalHiddenAbility": "せいしんりょく",
       "forms": [
         {
           "category": "regional",
@@ -3974,7 +4166,10 @@
       "originalTypes": [
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ちからずく"
+      ],
+      "originalHiddenAbility": "ダルマモード",
       "forms": [
         {
           "category": "regional",
@@ -4004,7 +4199,10 @@
         "ほのお",
         "エスパー"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ちからずく"
+      ],
+      "originalHiddenAbility": "ダルマモード",
       "forms": [
         {
           "category": "regional",
@@ -4037,9 +4235,9 @@
       ],
       "originalAbilities": [
         "だっぴ",
-        "じしんかじょう",
-        "いかく"
+        "じしんかじょう"
       ],
+      "originalHiddenAbility": "いかく",
       "forms": [
         {
           "category": "mega",
@@ -4049,7 +4247,9 @@
             "あく",
             "かくとう"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "いかく"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "ズルズキナイト",
           "availableIn": [
@@ -4065,7 +4265,10 @@
       "originalTypes": [
         "ゴースト"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ミイラ"
+      ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "regional",
@@ -4094,7 +4297,11 @@
       "originalTypes": [
         "どく"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "あくしゅう",
+        "くだけるよろい"
+      ],
+      "originalHiddenAbility": "ゆうばく",
       "forms": [
         {
           "category": "gigantamax",
@@ -4119,7 +4326,10 @@
       "originalTypes": [
         "あく"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "イリュージョン"
+      ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "regional",
@@ -4148,7 +4358,10 @@
       "originalTypes": [
         "あく"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "イリュージョン"
+      ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "regional",
@@ -4180,6 +4393,7 @@
       "originalAbilities": [
         "ふゆう"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -4188,7 +4402,9 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "うなぎのぼり"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "シビルドナイト",
           "availableIn": [
@@ -4210,6 +4426,7 @@
         "ほのおのからだ",
         "すりぬ"
       ],
+      "originalHiddenAbility": "すりぬけ",
       "forms": [
         {
           "category": "mega",
@@ -4238,7 +4455,11 @@
         "じめん",
         "でんき"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "せいでんき",
+        "じゅうなん"
+      ],
+      "originalHiddenAbility": "すながくれ",
       "forms": [
         {
           "category": "regional",
@@ -4270,9 +4491,9 @@
       ],
       "originalAbilities": [
         "てつのこぶし",
-        "ぶきよう",
-        "ノーガード"
+        "ぶきよう"
       ],
+      "originalHiddenAbility": "ノーガード",
       "forms": [
         {
           "category": "mega",
@@ -4300,7 +4521,11 @@
         "ノーマル",
         "ひこう"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "するどいめ",
+        "ちからずく"
+      ],
+      "originalHiddenAbility": "まけんき",
       "forms": [
         {
           "category": "regional",
@@ -4332,9 +4557,9 @@
         "かくとう"
       ],
       "originalAbilities": [
-        "しんりょく",
-        "ぼうだん"
+        "しんりょく"
       ],
+      "originalHiddenAbility": "ぼうだん",
       "forms": [
         {
           "category": "mega",
@@ -4364,9 +4589,9 @@
         "エスパー"
       ],
       "originalAbilities": [
-        "もうか",
-        "マジシャン"
+        "もうか"
       ],
+      "originalHiddenAbility": "マジシャン",
       "forms": [
         {
           "category": "mega",
@@ -4397,9 +4622,9 @@
       ],
       "originalAbilities": [
         "げきりゅう",
-        "へんげんじざい",
         "きずなへんげ"
       ],
+      "originalHiddenAbility": "へんげんじざい",
       "forms": [
         {
           "category": "mega",
@@ -4452,6 +4677,7 @@
         "きんちょうかん",
         "じしんかじょう"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -4461,7 +4687,9 @@
             "ほのお",
             "ノーマル"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "ほのおのたてがみ"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "カエンジシナイト",
           "availableIn": [
@@ -4478,9 +4706,9 @@
         "フェアリー"
       ],
       "originalAbilities": [
-        "フラワーベール",
-        "きょうせい"
+        "フラワーベール"
       ],
+      "originalHiddenAbility": "きょうせい",
       "forms": [
         {
           "category": "mega",
@@ -4511,6 +4739,7 @@
         "すりぬけ",
         "かちき"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -4541,6 +4770,7 @@
         "すりぬけ",
         "いたずらごころ"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -4571,6 +4801,7 @@
         "あまのじゃく",
         "きゅうばん"
       ],
+      "originalHiddenAbility": "すりぬけ",
       "forms": [
         {
           "category": "mega",
@@ -4580,7 +4811,9 @@
             "あく",
             "エスパー"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "あまのじゃく"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "カラマネロナイト",
           "availableIn": [
@@ -4599,9 +4832,9 @@
       ],
       "originalAbilities": [
         "かたいつめ",
-        "スナイパー",
-        "わるいてぐせ"
+        "スナイパー"
       ],
+      "originalHiddenAbility": "わるいてぐせ",
       "forms": [
         {
           "category": "mega",
@@ -4611,7 +4844,9 @@
             "いわ",
             "かくとう"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "かたいツメ"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "ガメノデスナイト",
           "availableIn": [
@@ -4630,9 +4865,9 @@
       ],
       "originalAbilities": [
         "どくのとげ",
-        "どくしゅ",
-        "てきおうりょく"
+        "どくしゅ"
       ],
+      "originalHiddenAbility": "てきおうりょく",
       "forms": [
         {
           "category": "mega",
@@ -4642,7 +4877,9 @@
             "どく",
             "ドラゴン"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "さいせいりょく"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "ドラミドナイト",
           "availableIn": [
@@ -4661,9 +4898,9 @@
       ],
       "originalAbilities": [
         "じゅうなん",
-        "かるわざ",
-        "かたやぶり"
+        "かるわざ"
       ],
+      "originalHiddenAbility": "かたやぶり",
       "forms": [
         {
           "category": "mega",
@@ -4691,7 +4928,11 @@
       "originalTypes": [
         "ドラゴン"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "そうしょく",
+        "うるおいボディ"
+      ],
+      "originalHiddenAbility": "ぬめぬめ",
       "forms": [
         {
           "category": "regional",
@@ -4721,7 +4962,11 @@
       "originalTypes": [
         "ドラゴン"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "そうしょく",
+        "うるおいボディ"
+      ],
+      "originalHiddenAbility": "ぬめぬめ",
       "forms": [
         {
           "category": "regional",
@@ -4751,7 +4996,11 @@
       "originalTypes": [
         "こおり"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "マイペース",
+        "アイスボディ"
+      ],
+      "originalHiddenAbility": "がんじょう",
       "forms": [
         {
           "category": "regional",
@@ -4785,6 +5034,7 @@
       "originalAbilities": [
         "スワームチェンジ"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -4814,6 +5064,7 @@
       "originalAbilities": [
         "クリアボディ"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -4845,7 +5096,10 @@
         "くさ",
         "ゴースト"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "しんりょく"
+      ],
+      "originalHiddenAbility": "えんかく",
       "forms": [
         {
           "category": "regional",
@@ -4880,6 +5134,7 @@
         "ちょうりゅう",
         "はやてのつばさ"
       ],
+      "originalHiddenAbility": "えんかく",
       "forms": [
         {
           "category": "zmove",
@@ -4913,6 +5168,7 @@
         "もうか",
         "とうそうしん"
       ],
+      "originalHiddenAbility": "いかく",
       "forms": [
         {
           "category": "zmove",
@@ -4943,9 +5199,9 @@
         "フェアリー"
       ],
       "originalAbilities": [
-        "げきりゅう",
-        "うるおいボイス"
+        "げきりゅう"
       ],
+      "originalHiddenAbility": "うるおいボイス",
       "forms": [
         {
           "category": "zmove",
@@ -4980,6 +5236,7 @@
         "てつのこぶし",
         "いかりのこうら"
       ],
+      "originalHiddenAbility": "いかりのつぼ",
       "forms": [
         {
           "category": "mega",
@@ -5011,6 +5268,7 @@
         "すなかき",
         "がんじょう"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "zmove",
@@ -5042,6 +5300,7 @@
       "originalAbilities": [
         "ききかいひ"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -5070,6 +5329,7 @@
       "originalAbilities": [
         "ばけのかわ"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "zmove",
@@ -5104,6 +5364,7 @@
         "そうしょく",
         "のうてんき"
       ],
+      "originalHiddenAbility": "ノーてんき",
       "forms": [
         {
           "category": "mega",
@@ -5134,9 +5395,9 @@
       ],
       "originalAbilities": [
         "ぼうおん",
-        "ぼうじん",
         "スケイルアーマー"
       ],
+      "originalHiddenAbility": "ぼうじん",
       "forms": [
         {
           "category": "zmove",
@@ -5166,9 +5427,9 @@
         "フェアリー"
       ],
       "originalAbilities": [
-        "エレキメイカー",
-        "テレパシー"
+        "エレキメイカー"
       ],
+      "originalHiddenAbility": "テレパシー",
       "forms": [
         {
           "category": "zmove",
@@ -5199,9 +5460,9 @@
         "フェアリー"
       ],
       "originalAbilities": [
-        "サイコメイカー",
-        "テレパシー"
+        "サイコメイカー"
       ],
+      "originalHiddenAbility": "テレパシー",
       "forms": [
         {
           "category": "zmove",
@@ -5232,9 +5493,9 @@
         "フェアリー"
       ],
       "originalAbilities": [
-        "グラスメイカー",
-        "テレパシー"
+        "グラスメイカー"
       ],
+      "originalHiddenAbility": "テレパシー",
       "forms": [
         {
           "category": "zmove",
@@ -5265,9 +5526,9 @@
         "フェアリー"
       ],
       "originalAbilities": [
-        "ミストメイカー",
-        "テレパシー"
+        "ミストメイカー"
       ],
+      "originalHiddenAbility": "テレパシー",
       "forms": [
         {
           "category": "zmove",
@@ -5300,6 +5561,7 @@
       "originalAbilities": [
         "メタルプロテクト"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "zmove",
@@ -5332,6 +5594,7 @@
       "originalAbilities": [
         "シャドーシールド"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "zmove",
@@ -5363,6 +5626,7 @@
       "originalAbilities": [
         "プリズムアーマー"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "zmove",
@@ -5430,6 +5694,7 @@
       "originalAbilities": [
         "ソウルハート"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -5458,6 +5723,7 @@
       "originalAbilities": [
         "テクニシャン"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "zmove",
@@ -5489,6 +5755,7 @@
       "originalAbilities": [
         "ちくでん"
       ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "mega",
@@ -5512,7 +5779,10 @@
       "originalTypes": [
         "はがね"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "てつのこぶし"
+      ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "gigantamax",
@@ -5537,7 +5807,10 @@
       "originalTypes": [
         "くさ"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "しんりょく"
+      ],
+      "originalHiddenAbility": "グラスメイカー",
       "forms": [
         {
           "category": "gigantamax",
@@ -5562,7 +5835,10 @@
       "originalTypes": [
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "もうか"
+      ],
+      "originalHiddenAbility": "リベロ",
       "forms": [
         {
           "category": "gigantamax",
@@ -5587,7 +5863,10 @@
       "originalTypes": [
         "みず"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "げきりゅう"
+      ],
+      "originalHiddenAbility": "スナイパー",
       "forms": [
         {
           "category": "gigantamax",
@@ -5613,7 +5892,11 @@
         "ひこう",
         "はがね"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "プレッシャー",
+        "きんちょうかん"
+      ],
+      "originalHiddenAbility": "ミラーアーマー",
       "forms": [
         {
           "category": "gigantamax",
@@ -5640,7 +5923,11 @@
         "むし",
         "エスパー"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "むしのしらせ",
+        "おみとおし"
+      ],
+      "originalHiddenAbility": "テレパシー",
       "forms": [
         {
           "category": "gigantamax",
@@ -5667,7 +5954,11 @@
         "みず",
         "いわ"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "がんじょうあご",
+        "シェルアーマー"
+      ],
+      "originalHiddenAbility": "すいすい",
       "forms": [
         {
           "category": "gigantamax",
@@ -5694,7 +5985,11 @@
         "いわ",
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "じょうききかん",
+        "ほのおのからだ"
+      ],
+      "originalHiddenAbility": "もらいび",
       "forms": [
         {
           "category": "gigantamax",
@@ -5721,7 +6016,11 @@
         "くさ",
         "ドラゴン"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "じゅくせい",
+        "くいしんぼう"
+      ],
+      "originalHiddenAbility": "はりきり",
       "forms": [
         {
           "category": "gigantamax",
@@ -5748,7 +6047,11 @@
         "くさ",
         "ドラゴン"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "じゅくせい",
+        "くいしんぼう"
+      ],
+      "originalHiddenAbility": "あついしぼう",
       "forms": [
         {
           "category": "gigantamax",
@@ -5774,7 +6077,11 @@
       "originalTypes": [
         "みず"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "すなはき",
+        "だっぴ"
+      ],
+      "originalHiddenAbility": "すながくれ",
       "forms": [
         {
           "category": "gigantamax",
@@ -5800,7 +6107,11 @@
         "でんき",
         "どく"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "パンクロック",
+        "プラス"
+      ],
+      "originalHiddenAbility": "テクニシャン",
       "forms": [
         {
           "category": "gigantamax",
@@ -5827,7 +6138,11 @@
         "むし",
         "ほのお"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "もらいび",
+        "しろいけむり"
+      ],
+      "originalHiddenAbility": "ほのおのからだ",
       "forms": [
         {
           "category": "gigantamax",
@@ -5853,7 +6168,11 @@
       "originalTypes": [
         "フェアリー"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "いやしのこころ",
+        "きけんよち"
+      ],
+      "originalHiddenAbility": "マジックミラー",
       "forms": [
         {
           "category": "gigantamax",
@@ -5879,7 +6198,11 @@
         "あく",
         "フェアリー"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "いたずらごころ",
+        "おみとおし"
+      ],
+      "originalHiddenAbility": "わるいてぐせ",
       "forms": [
         {
           "category": "gigantamax",
@@ -5905,7 +6228,10 @@
       "originalTypes": [
         "フェアリー"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "スイートベール"
+      ],
+      "originalHiddenAbility": "アロマベール",
       "forms": [
         {
           "category": "gigantamax",
@@ -5931,9 +6257,9 @@
         "かくとう"
       ],
       "originalAbilities": [
-        "カブトアーマー",
-        "まけんき"
+        "カブトアーマー"
       ],
+      "originalHiddenAbility": "まけんき",
       "forms": [
         {
           "category": "mega",
@@ -5942,7 +6268,9 @@
           "formTypes": [
             "かくとう"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "まけんき"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
@@ -5957,7 +6285,10 @@
       "originalTypes": [
         "はがね"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ちからずく"
+      ],
+      "originalHiddenAbility": "ヘヴィメタル",
       "forms": [
         {
           "category": "gigantamax",
@@ -5983,7 +6314,11 @@
         "はがね",
         "ドラゴン"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ライトメタル",
+        "ヘヴィメタル"
+      ],
+      "originalHiddenAbility": "すじがねいり",
       "forms": [
         {
           "category": "gigantamax",
@@ -6010,7 +6345,10 @@
         "かくとう",
         "あく"
       ],
-      "originalAbilities": [],
+      "originalAbilities": [
+        "ふかしのこぶし"
+      ],
+      "originalHiddenAbility": "",
       "forms": [
         {
           "category": "gigantamax",
@@ -6057,9 +6395,9 @@
       ],
       "originalAbilities": [
         "ようりょくそ",
-        "ふみん",
-        "ムラっけ"
+        "ふみん"
       ],
+      "originalHiddenAbility": "ムラっけ",
       "forms": [
         {
           "category": "mega",
@@ -6088,9 +6426,9 @@
         "こおり"
       ],
       "originalAbilities": [
-        "ねつこうかん",
-        "アイスボディ"
+        "ねつこうかん"
       ],
+      "originalHiddenAbility": "アイスボディ",
       "forms": [
         {
           "category": "mega",
@@ -6110,5 +6448,5 @@
       ]
     }
   ],
-  "_note": "特殊フォーム定義の正本（L2）。summary-pages の src/data/special-forms.json は sync-from-pokemon-data.mjs が生成する pull-only コピーなので直接編集しない。all.json の forms は fetch-forms.py がここから生成する。 ⚠ formTypes は常に「そのフォームのポケモンのタイプ」。Zワザのタイプは zMoveType に入れる（category:zmove のみ）。特性は formAbilities（通常特性の配列）と formHiddenAbility（隠れ特性・単一）に分ける。1つのフィールドに複数の意味を混ぜない。"
+  "_note": "特殊フォーム定義の正本（L2）。summary-pages の src/data/special-forms.json は sync-from-pokemon-data.mjs が生成する pull-only コピーなので直接編集しない。all.json の forms は fetch-forms.py がここから生成する。 ⚠ formTypes は常に「そのフォームのポケモンのタイプ」。Zワザのタイプは zMoveType に入れる（category:zmove のみ）。特性は formAbilities（通常特性の配列）と formHiddenAbility（隠れ特性・単一）に分ける。原種の特性も同様に originalAbilities（通常）と originalHiddenAbility（隠れ）に分ける。1つのフィールドに複数の意味を混ぜない。"
 }

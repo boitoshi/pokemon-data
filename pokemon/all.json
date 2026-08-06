@@ -658,7 +658,9 @@
           "でんき"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "エレキメイカー"
+        ],
         "hidden_ability": "",
         "required_item": "ライチュウナイトX",
         "available_in": [
@@ -674,7 +676,9 @@
           "でんき"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "ノーガード"
+        ],
         "hidden_ability": "",
         "required_item": "ライチュウナイトY",
         "available_in": [
@@ -7183,7 +7187,9 @@
           "ひこう"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "あまのじゃく"
+        ],
         "hidden_ability": "",
         "required_item": "M次元",
         "available_in": [
@@ -9435,7 +9441,9 @@
           "かくとう"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "いかく"
+        ],
         "hidden_ability": "",
         "required_item": "ズルズキナイト",
         "available_in": [
@@ -10039,7 +10047,9 @@
           "でんき"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "うなぎのぼり"
+        ],
         "hidden_ability": "",
         "required_item": "シビルドナイト",
         "available_in": [
@@ -10975,7 +10985,9 @@
           "ノーマル"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "ほのおのたてがみ"
+        ],
         "hidden_ability": "",
         "required_item": "カエンジシナイト",
         "available_in": [
@@ -11250,7 +11262,9 @@
           "エスパー"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "あまのじゃく"
+        ],
         "hidden_ability": "",
         "required_item": "カラマネロナイト",
         "available_in": [
@@ -11294,7 +11308,9 @@
           "かくとう"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "かたいツメ"
+        ],
         "hidden_ability": "",
         "required_item": "ガメノデスナイト",
         "available_in": [
@@ -11338,7 +11354,9 @@
           "ドラゴン"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "さいせいりょく"
+        ],
         "hidden_ability": "",
         "required_item": "ドラミドナイト",
         "available_in": [
@@ -14346,7 +14364,9 @@
           "かくとう"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "まけんき"
+        ],
         "hidden_ability": "",
         "required_item": "",
         "available_in": [

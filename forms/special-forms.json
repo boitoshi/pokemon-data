@@ -21,7 +21,10 @@
             "くさ",
             "どく"
           ],
-          "formAbility": "あついしぼう",
+          "formAbilities": [
+            "あついしぼう"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "フシギバナイト",
           "availableIn": [
             "XY",
@@ -41,7 +44,8 @@
             "くさ",
             "どく"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -70,7 +74,10 @@
             "ほのお",
             "ドラゴン"
           ],
-          "formAbility": "かたいツメ",
+          "formAbilities": [
+            "かたいツメ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "リザードナイトX",
           "availableIn": [
             "XY",
@@ -90,7 +97,10 @@
             "ほのお",
             "ひこう"
           ],
-          "formAbility": "ひでり",
+          "formAbilities": [
+            "ひでり"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "リザードナイトY",
           "availableIn": [
             "XY",
@@ -110,7 +120,8 @@
             "ほのお",
             "ひこう"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -136,7 +147,10 @@
           "formTypes": [
             "みず"
           ],
-          "formAbility": "メガランチャー",
+          "formAbilities": [
+            "メガランチャー"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "カメックスナイト",
           "availableIn": [
             "XY",
@@ -155,7 +169,8 @@
           "formTypes": [
             "みず"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -181,7 +196,8 @@
             "むし",
             "ひこう"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -210,7 +226,10 @@
             "むし",
             "どく"
           ],
-          "formAbility": "てきおうりょく",
+          "formAbilities": [
+            "てきおうりょく"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "スピアナイト",
           "availableIn": [
             "ORAS",
@@ -244,7 +263,10 @@
             "ノーマル",
             "ひこう"
           ],
-          "formAbility": "ノーガード",
+          "formAbilities": [
+            "ノーガード"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ピジョットナイト",
           "availableIn": [
             "ORAS",
@@ -273,7 +295,11 @@
             "あく",
             "ノーマル"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "くいしんぼう",
+            "はりきり"
+          ],
+          "formHiddenAbility": "あついしぼう",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -299,7 +325,11 @@
             "あく",
             "ノーマル"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "くいしんぼう",
+            "はりきり"
+          ],
+          "formHiddenAbility": "あついしぼう",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -327,7 +357,8 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -344,7 +375,8 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -361,7 +393,8 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -389,7 +422,10 @@
             "でんき",
             "エスパー"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "サーフテール"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -404,7 +440,8 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "ライチュウナイトX",
           "availableIn": [
             "M-dimension"
@@ -417,7 +454,8 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "ライチュウナイトY",
           "availableIn": [
             "M-dimension"
@@ -431,7 +469,8 @@
             "でんき",
             "エスパー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -459,7 +498,10 @@
             "こおり",
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ゆきがくれ"
+          ],
+          "formHiddenAbility": "ゆきかき",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -485,7 +527,10 @@
             "こおり",
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ゆきがくれ"
+          ],
+          "formHiddenAbility": "ゆきかき",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -515,7 +560,10 @@
             "フェアリー",
             "ひこう"
           ],
-          "formAbility": "マジックミラー",
+          "formAbilities": [
+            "マジックミラー"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ピクシナイト",
           "availableIn": [
             "ZA",
@@ -539,7 +587,10 @@
           "formTypes": [
             "こおり"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ゆきがくれ"
+          ],
+          "formHiddenAbility": "ゆきふらし",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -565,7 +616,10 @@
             "こおり",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ゆきがくれ"
+          ],
+          "formHiddenAbility": "ゆきふらし",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -591,7 +645,11 @@
             "じめん",
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "すながくれ",
+            "カーリーヘアー"
+          ],
+          "formHiddenAbility": "すなのちから",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -617,7 +675,11 @@
             "じめん",
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "すながくれ",
+            "カーリーヘアー"
+          ],
+          "formHiddenAbility": "すなのちから",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -642,7 +704,11 @@
           "formTypes": [
             "あく"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ものひろい",
+            "テクニシャン"
+          ],
+          "formHiddenAbility": "びびり",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -657,7 +723,11 @@
           "formTypes": [
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ものひろい",
+            "かたいツメ"
+          ],
+          "formHiddenAbility": "きんちょうかん",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -672,7 +742,8 @@
           "formTypes": [
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -697,7 +768,11 @@
           "formTypes": [
             "あく"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ファーコート",
+            "テクニシャン"
+          ],
+          "formHiddenAbility": "びびり",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -723,7 +798,11 @@
             "ほのお",
             "いわ"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "いかく",
+            "もらいび"
+          ],
+          "formHiddenAbility": "いしあたま",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -749,7 +828,11 @@
             "ほのお",
             "いわ"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "いかく",
+            "もらいび"
+          ],
+          "formHiddenAbility": "いしあたま",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -778,7 +861,10 @@
           "formTypes": [
             "エスパー"
           ],
-          "formAbility": "トレース",
+          "formAbilities": [
+            "トレース"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "フーディナイト",
           "availableIn": [
             "XY",
@@ -807,7 +893,8 @@
           "formTypes": [
             "かくとう"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -836,7 +923,10 @@
             "くさ",
             "どく"
           ],
-          "formAbility": "とびだすなかみ",
+          "formAbilities": [
+            "とびだすなかみ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ウツボットナイト",
           "availableIn": [
             "ZA",
@@ -862,7 +952,11 @@
             "いわ",
             "でんき"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "じりょく",
+            "がんじょう"
+          ],
+          "formHiddenAbility": "エレキスキン",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -889,7 +983,11 @@
             "いわ",
             "でんき"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "じりょく",
+            "がんじょう"
+          ],
+          "formHiddenAbility": "エレキスキン",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -916,7 +1014,11 @@
             "いわ",
             "でんき"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "じりょく",
+            "がんじょう"
+          ],
+          "formHiddenAbility": "エレキスキン",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -941,7 +1043,11 @@
           "formTypes": [
             "エスパー"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "にげあし",
+            "パステルベール"
+          ],
+          "formHiddenAbility": "きけんよち",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -967,7 +1073,11 @@
             "エスパー",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "にげあし",
+            "パステルベール"
+          ],
+          "formHiddenAbility": "きけんよち",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -993,7 +1103,11 @@
           "formTypes": [
             "エスパー"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "くいしんぼう",
+            "マイペース"
+          ],
+          "formHiddenAbility": "さいせいりょく",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1024,7 +1138,11 @@
             "どく",
             "エスパー"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "クイックドロウ",
+            "マイペース"
+          ],
+          "formHiddenAbility": "さいせいりょく",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1040,7 +1158,10 @@
             "みず",
             "エスパー"
           ],
-          "formAbility": "シェルアーマー",
+          "formAbilities": [
+            "シェルアーマー"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ヤドランナイト",
           "availableIn": [
             "ORAS",
@@ -1068,7 +1189,10 @@
           "formTypes": [
             "かくとう"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ふくつのこころ"
+          ],
+          "formHiddenAbility": "きもったま",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1094,7 +1218,11 @@
             "どく",
             "あく"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "どくしゅ",
+            "くいしんぼう"
+          ],
+          "formHiddenAbility": "かがくのちから",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -1120,7 +1248,11 @@
             "どく",
             "あく"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "どくしゅ",
+            "くいしんぼう"
+          ],
+          "formHiddenAbility": "かがくのちから",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -1149,7 +1281,10 @@
             "ゴースト",
             "どく"
           ],
-          "formAbility": "かげふみ",
+          "formAbilities": [
+            "かげふみ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ゲンガナイト",
           "availableIn": [
             "XY",
@@ -1169,7 +1304,8 @@
             "ゴースト",
             "どく"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1193,7 +1329,8 @@
           "formTypes": [
             "みず"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1218,7 +1355,11 @@
             "でんき",
             "くさ"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ぼうおん",
+            "せいでんき"
+          ],
+          "formHiddenAbility": "ゆうばく",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -1244,7 +1385,11 @@
             "でんき",
             "くさ"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ぼうおん",
+            "せいでんき"
+          ],
+          "formHiddenAbility": "ゆうばく",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -1271,7 +1416,10 @@
             "くさ",
             "ドラゴン"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "おみとおし"
+          ],
+          "formHiddenAbility": "しゅうかく",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -1297,7 +1445,11 @@
             "ほのお",
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "のろわれボディ",
+            "ひらいしん"
+          ],
+          "formHiddenAbility": "いしあたま",
           "requiredItem": "",
           "availableIn": [
             "SM"
@@ -1323,7 +1475,11 @@
             "どく",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ふゆう",
+            "かがくへんかガス"
+          ],
+          "formHiddenAbility": "ミストメイカー",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1352,7 +1508,10 @@
           "formTypes": [
             "ノーマル"
           ],
-          "formAbility": "おやこあい",
+          "formAbilities": [
+            "おやこあい"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ガルーラナイト",
           "availableIn": [
             "XY",
@@ -1387,7 +1546,10 @@
             "みず",
             "エスパー"
           ],
-          "formAbility": "ちからもち",
+          "formAbilities": [
+            "ちからもち"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "スターミナイト",
           "availableIn": [
             "ZA",
@@ -1413,7 +1575,11 @@
             "こおり",
             "エスパー"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "やるき",
+            "バリアフリー"
+          ],
+          "formHiddenAbility": "アイスボディ",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1443,7 +1609,10 @@
             "むし",
             "ひこう"
           ],
-          "formAbility": "スカイスキン",
+          "formAbilities": [
+            "スカイスキン"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "カイロスナイト",
           "availableIn": [
             "XY",
@@ -1473,7 +1642,11 @@
           "formTypes": [
             "かくとう"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "いかく",
+            "いかりのつぼ"
+          ],
+          "formHiddenAbility": "はんすう",
           "requiredItem": "",
           "availableIn": [
             "SV"
@@ -1490,7 +1663,11 @@
             "かくとう",
             "ほのお"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "いかく",
+            "いかりのつぼ"
+          ],
+          "formHiddenAbility": "はんすう",
           "requiredItem": "",
           "availableIn": [
             "SV"
@@ -1507,7 +1684,11 @@
             "かくとう",
             "みず"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "いかく",
+            "いかりのつぼ"
+          ],
+          "formHiddenAbility": "はんすう",
           "requiredItem": "",
           "availableIn": [
             "SV"
@@ -1537,7 +1718,10 @@
             "みず",
             "あく"
           ],
-          "formAbility": "かたやぶり",
+          "formAbilities": [
+            "かたやぶり"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ギャラドスナイト",
           "availableIn": [
             "XY",
@@ -1568,7 +1752,8 @@
             "みず",
             "こおり"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1595,7 +1780,8 @@
           "formTypes": [
             "ノーマル"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -1612,7 +1798,8 @@
           "formTypes": [
             "ノーマル"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1642,7 +1829,10 @@
             "いわ",
             "ひこう"
           ],
-          "formAbility": "かたいツメ",
+          "formAbilities": [
+            "かたいツメ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "プテラナイト",
           "availableIn": [
             "XY",
@@ -1675,7 +1865,8 @@
           "formTypes": [
             "ノーマル"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -1692,7 +1883,8 @@
           "formTypes": [
             "ノーマル"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1718,7 +1910,10 @@
             "エスパー",
             "ひこう"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "かちき"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1745,7 +1940,10 @@
             "かくとう",
             "ひこう"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "まけんき"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1772,7 +1970,10 @@
             "あく",
             "ひこう"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ぎゃくじょう"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -1802,7 +2003,10 @@
             "ドラゴン",
             "ひこう"
           ],
-          "formAbility": "マルチスケイル",
+          "formAbilities": [
+            "マルチスケイル"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "カイリュナイト",
           "availableIn": [
             "ZA",
@@ -1830,7 +2034,10 @@
             "エスパー",
             "かくとう"
           ],
-          "formAbility": "ふくつのこころ",
+          "formAbilities": [
+            "ふくつのこころ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ミュウツナイトX",
           "availableIn": [
             "XY",
@@ -1849,7 +2056,10 @@
           "formTypes": [
             "エスパー"
           ],
-          "formAbility": "ふみん",
+          "formAbilities": [
+            "ふみん"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ミュウツナイトY",
           "availableIn": [
             "XY",
@@ -1880,7 +2090,8 @@
           "formTypes": [
             "エスパー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -1911,7 +2122,10 @@
             "くさ",
             "フェアリー"
           ],
-          "formAbility": "メガソーラー",
+          "formAbilities": [
+            "メガソーラー"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "メガニウムナイト",
           "availableIn": [
             "ZA",
@@ -1936,7 +2150,10 @@
             "ほのお",
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "もうか"
+          ],
+          "formHiddenAbility": "おみとおし",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -1965,7 +2182,10 @@
             "みず",
             "ドラゴン"
           ],
-          "formAbility": "ドラゴンスキン",
+          "formAbilities": [
+            "ドラゴンスキン"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "オーダイルナイト",
           "availableIn": [
             "ZA",
@@ -1993,7 +2213,10 @@
             "でんき",
             "ドラゴン"
           ],
-          "formAbility": "かたやぶり",
+          "formAbilities": [
+            "かたやぶり"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "デンリュウナイト",
           "availableIn": [
             "XY",
@@ -2023,7 +2246,11 @@
             "どく",
             "じめん"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "どくのトゲ",
+            "ちょすい"
+          ],
+          "formHiddenAbility": "てんねん",
           "requiredItem": "",
           "availableIn": [
             "SV"
@@ -2050,7 +2277,11 @@
             "どく",
             "エスパー"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "きみょうなくすり",
+            "マイペース"
+          ],
+          "formHiddenAbility": "さいせいりょく",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -2081,7 +2312,10 @@
             "はがね",
             "じめん"
           ],
-          "formAbility": "すなのちから",
+          "formAbilities": [
+            "すなのちから"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ハガネールナイト",
           "availableIn": [
             "ORAS",
@@ -2110,7 +2344,11 @@
             "あく",
             "どく"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "どくのトゲ",
+            "すいすい"
+          ],
+          "formHiddenAbility": "いかく",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -2141,7 +2379,10 @@
             "むし",
             "はがね"
           ],
-          "formAbility": "テクニシャン",
+          "formAbilities": [
+            "テクニシャン"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ハッサムナイト",
           "availableIn": [
             "XY",
@@ -2175,7 +2416,10 @@
             "むし",
             "かくとう"
           ],
-          "formAbility": "スキルリンク",
+          "formAbilities": [
+            "スキルリンク"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ヘラクロスナイト",
           "availableIn": [
             "XY",
@@ -2205,7 +2449,11 @@
             "かくとう",
             "どく"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "せいしんりょく",
+            "するどいめ"
+          ],
+          "formHiddenAbility": "わるいてぐせ",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -2230,7 +2478,10 @@
           "formTypes": [
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "くだけるよろい"
+          ],
+          "formHiddenAbility": "のろわれボディ",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -2261,7 +2512,10 @@
             "はがね",
             "ひこう"
           ],
-          "formAbility": "すじがねいり",
+          "formAbilities": [
+            "すじがねいり"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "エアームドナイト",
           "availableIn": [
             "ZA",
@@ -2291,7 +2545,10 @@
             "あく",
             "ほのお"
           ],
-          "formAbility": "サンパワー",
+          "formAbilities": [
+            "サンパワー"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ヘルガナイト",
           "availableIn": [
             "XY",
@@ -2324,7 +2581,10 @@
             "いわ",
             "あく"
           ],
-          "formAbility": "すなあらし",
+          "formAbilities": [
+            "すなあらし"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "バンギラスナイト",
           "availableIn": [
             "XY",
@@ -2356,7 +2616,10 @@
             "くさ",
             "ドラゴン"
           ],
-          "formAbility": "ひらいしん",
+          "formAbilities": [
+            "ひらいしん"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ジュカインナイト",
           "availableIn": [
             "ORAS",
@@ -2388,7 +2651,10 @@
             "ほのお",
             "かくとう"
           ],
-          "formAbility": "かそく",
+          "formAbilities": [
+            "かそく"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "バシャーモナイト",
           "availableIn": [
             "XY",
@@ -2421,7 +2687,10 @@
             "みず",
             "じめん"
           ],
-          "formAbility": "すいすい",
+          "formAbilities": [
+            "すいすい"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ラグラージナイト",
           "availableIn": [
             "ORAS",
@@ -2448,7 +2717,11 @@
           "formTypes": [
             "あく"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ものひろい",
+            "くいしんぼう"
+          ],
+          "formHiddenAbility": "はやあし",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -2473,7 +2746,11 @@
           "formTypes": [
             "あく"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ものひろい",
+            "くいしんぼう"
+          ],
+          "formHiddenAbility": "はやあし",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -2504,7 +2781,10 @@
             "エスパー",
             "フェアリー"
           ],
-          "formAbility": "フェアリースキン",
+          "formAbilities": [
+            "フェアリースキン"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "サーナイトナイト",
           "availableIn": [
             "XY",
@@ -2538,7 +2818,10 @@
             "あく",
             "ゴースト"
           ],
-          "formAbility": "マジックミラー",
+          "formAbilities": [
+            "マジックミラー"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ヤミラミナイト",
           "availableIn": [
             "ORAS",
@@ -2571,7 +2854,10 @@
             "はがね",
             "フェアリー"
           ],
-          "formAbility": "ちからずく",
+          "formAbilities": [
+            "ちからずく"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "クチートナイト",
           "availableIn": [
             "XY",
@@ -2604,7 +2890,10 @@
           "formTypes": [
             "はがね"
           ],
-          "formAbility": "フィルター",
+          "formAbilities": [
+            "フィルター"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ボスゴドラナイト",
           "availableIn": [
             "XY",
@@ -2637,7 +2926,10 @@
             "かくとう",
             "エスパー"
           ],
-          "formAbility": "ヨガパワー",
+          "formAbilities": [
+            "ヨガパワー"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "チャーレムナイト",
           "availableIn": [
             "XY",
@@ -2669,7 +2961,10 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbility": "いかく",
+          "formAbilities": [
+            "いかく"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ライボルトナイト",
           "availableIn": [
             "XY",
@@ -2702,7 +2997,10 @@
             "みず",
             "あく"
           ],
-          "formAbility": "がんじょあご",
+          "formAbilities": [
+            "がんじょあご"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "サメハダナイト",
           "availableIn": [
             "ORAS",
@@ -2735,7 +3033,10 @@
             "ほのお",
             "じめん"
           ],
-          "formAbility": "ちからずく",
+          "formAbilities": [
+            "ちからずく"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "バクーダナイト",
           "availableIn": [
             "ORAS",
@@ -2767,7 +3068,10 @@
             "ドラゴン",
             "フェアリー"
           ],
-          "formAbility": "フェアリースキン",
+          "formAbilities": [
+            "フェアリースキン"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "チルタリスナイト",
           "availableIn": [
             "ORAS",
@@ -2798,7 +3102,10 @@
           "formTypes": [
             "ゴースト"
           ],
-          "formAbility": "いたずらごころ",
+          "formAbilities": [
+            "いたずらごころ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ジュペッタナイト",
           "availableIn": [
             "XY",
@@ -2829,7 +3136,10 @@
             "エスパー",
             "はがね"
           ],
-          "formAbility": "ふゆう",
+          "formAbilities": [
+            "ふゆう"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "チリーンナイト",
           "availableIn": [
             "M-dimension"
@@ -2856,7 +3166,10 @@
           "formTypes": [
             "あく"
           ],
-          "formAbility": "マジックミラー",
+          "formAbilities": [
+            "マジックミラー"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "アブソルナイト",
           "availableIn": [
             "XY",
@@ -2875,7 +3188,8 @@
             "あく",
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "アブソルナイトZ",
           "availableIn": [
             "M-dimension"
@@ -2902,7 +3216,10 @@
           "formTypes": [
             "こおり"
           ],
-          "formAbility": "フリーズスキン",
+          "formAbilities": [
+            "フリーズスキン"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "オニゴーリナイト",
           "availableIn": [
             "ORAS",
@@ -2934,7 +3251,10 @@
             "ドラゴン",
             "ひこう"
           ],
-          "formAbility": "スカイスキン",
+          "formAbilities": [
+            "スカイスキン"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ボーマンダナイト",
           "availableIn": [
             "ORAS",
@@ -2966,7 +3286,10 @@
             "はがね",
             "エスパー"
           ],
-          "formAbility": "かたいツメ",
+          "formAbilities": [
+            "かたいツメ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "メタグロスナイト",
           "availableIn": [
             "ORAS",
@@ -2997,7 +3320,10 @@
             "ドラゴン",
             "エスパー"
           ],
-          "formAbility": "ふゆう",
+          "formAbilities": [
+            "ふゆう"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ラティアスナイト",
           "availableIn": [
             "XY",
@@ -3029,7 +3355,10 @@
             "ドラゴン",
             "エスパー"
           ],
-          "formAbility": "ふゆう",
+          "formAbilities": [
+            "ふゆう"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ラティオスナイト",
           "availableIn": [
             "XY",
@@ -3059,7 +3388,10 @@
           "formTypes": [
             "みず"
           ],
-          "formAbility": "はじまりのうみ",
+          "formAbilities": [
+            "はじまりのうみ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "あいいろのたま",
           "availableIn": [
             "ORAS",
@@ -3088,7 +3420,10 @@
             "じめん",
             "ほのお"
           ],
-          "formAbility": "おわりのだいち",
+          "formAbilities": [
+            "おわりのだいち"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "べにいろのたま",
           "availableIn": [
             "ORAS",
@@ -3118,7 +3453,10 @@
             "ドラゴン",
             "ひこう"
           ],
-          "formAbility": "デルタストリーム",
+          "formAbilities": [
+            "デルタストリーム"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "(わざ)ガリョウテンセイ",
           "availableIn": [
             "ORAS",
@@ -3150,7 +3488,8 @@
             "かくとう",
             "ひこう"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "M次元",
           "availableIn": [
             "M-dimension"
@@ -3178,7 +3517,10 @@
             "ノーマル",
             "かくとう"
           ],
-          "formAbility": "きもったま",
+          "formAbilities": [
+            "きもったま"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ミミロップナイト",
           "availableIn": [
             "XY",
@@ -3211,7 +3553,10 @@
             "ドラゴン",
             "じめん"
           ],
-          "formAbility": "すなのちから",
+          "formAbilities": [
+            "すなのちから"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ガブリアスナイト",
           "availableIn": [
             "XY",
@@ -3245,7 +3590,10 @@
             "かくとう",
             "はがね"
           ],
-          "formAbility": "てきおうりょく",
+          "formAbilities": [
+            "てきおうりょく"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ルカリオナイト",
           "availableIn": [
             "XY",
@@ -3264,7 +3612,8 @@
             "かくとう",
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "ルカリオナイトZ",
           "availableIn": [
             "M-dimension"
@@ -3292,7 +3641,10 @@
             "くさ",
             "こおり"
           ],
-          "formAbility": "ゆきふらし",
+          "formAbilities": [
+            "ゆきふらし"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ユキノオナイト",
           "availableIn": [
             "XY",
@@ -3325,7 +3677,10 @@
             "エスパー",
             "かくとう"
           ],
-          "formAbility": "せいしんりょく",
+          "formAbilities": [
+            "せいしんりょく"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "エルレイドナイト",
           "availableIn": [
             "ORAS",
@@ -3357,7 +3712,10 @@
             "こおり",
             "ゴースト"
           ],
-          "formAbility": "ゆきふらし",
+          "formAbilities": [
+            "ゆきふらし"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ユキメノコナイト",
           "availableIn": [
             "ZA",
@@ -3386,7 +3744,8 @@
             "ほのお",
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "ヒードラナイト",
           "availableIn": [
             "M-dimension"
@@ -3414,7 +3773,10 @@
             "ほのお",
             "かくとう"
           ],
-          "formAbility": "かたやぶり",
+          "formAbilities": [
+            "かたやぶり"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "エンブオナイト",
           "availableIn": [
             "ZA",
@@ -3439,7 +3801,10 @@
             "みず",
             "あく"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "げきりゅう"
+          ],
+          "formHiddenAbility": "きれあじ",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -3470,7 +3835,10 @@
             "じめん",
             "はがね"
           ],
-          "formAbility": "かんつうドリル",
+          "formAbilities": [
+            "かんつうドリル"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ドリュウズナイト",
           "availableIn": [
             "ZA",
@@ -3499,7 +3867,10 @@
             "ノーマル",
             "フェアリー"
           ],
-          "formAbility": "いやしのこころ",
+          "formAbilities": [
+            "いやしのこころ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "タブンネナイト",
           "availableIn": [
             "ORAS",
@@ -3528,7 +3899,10 @@
             "むし",
             "どく"
           ],
-          "formAbility": "シェルアーマー",
+          "formAbilities": [
+            "シェルアーマー"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ペンドラナイト",
           "availableIn": [
             "M-dimension"
@@ -3552,7 +3926,11 @@
             "くさ",
             "かくとう"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ようりょくそ",
+            "はりきり"
+          ],
+          "formHiddenAbility": "リーフガード",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -3577,7 +3955,10 @@
           "formTypes": [
             "こおり"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "はりきり"
+          ],
+          "formHiddenAbility": "せいしんりょく",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -3602,7 +3983,10 @@
           "formTypes": [
             "こおり"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ごりむちゅう"
+          ],
+          "formHiddenAbility": "ダルマモード",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -3630,7 +4014,10 @@
             "こおり",
             "ほのお"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ごりむちゅう"
+          ],
+          "formHiddenAbility": "ダルマモード",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -3662,7 +4049,8 @@
             "あく",
             "かくとう"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "ズルズキナイト",
           "availableIn": [
             "ZA",
@@ -3673,7 +4061,7 @@
     },
     {
       "dexNo": 562,
-      "pokemonName": "デスカーン",
+      "pokemonName": "デスマス",
       "originalTypes": [
         "ゴースト"
       ],
@@ -3681,13 +4069,16 @@
       "forms": [
         {
           "category": "regional",
-          "formName": "デスカーン",
+          "formName": "デスマス",
           "debutGame": "SwSh",
           "formTypes": [
             "じめん",
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "さまようたましい"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -3712,7 +4103,8 @@
           "formTypes": [
             "どく"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -3731,13 +4123,16 @@
       "forms": [
         {
           "category": "regional",
-          "formName": "ゾロアーク",
+          "formName": "ゾロア",
           "debutGame": "LA",
           "formTypes": [
             "ノーマル",
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "イリュージョン"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -3763,7 +4158,10 @@
             "ノーマル",
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "イリュージョン"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -3790,7 +4188,8 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "シビルドナイト",
           "availableIn": [
             "ZA",
@@ -3820,7 +4219,10 @@
             "ゴースト",
             "ほのお"
           ],
-          "formAbility": "すりぬけ",
+          "formAbilities": [
+            "すりぬけ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "シャンデラナイト",
           "availableIn": [
             "ZA",
@@ -3846,7 +4248,10 @@
             "じめん",
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "ぎたい"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -3877,7 +4282,10 @@
             "じめん",
             "ゴースト"
           ],
-          "formAbility": "ふかしのこぶし",
+          "formAbilities": [
+            "ふかしのこぶし"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ゴルーグナイト",
           "availableIn": [
             "M-dimension"
@@ -3902,7 +4310,11 @@
             "エスパー",
             "ひこう"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "するどいめ",
+            "ちからずく"
+          ],
+          "formHiddenAbility": "いろめがね",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -3932,7 +4344,10 @@
             "くさ",
             "かくとう"
           ],
-          "formAbility": "ぼうだん",
+          "formAbilities": [
+            "ぼうだん"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ブリガロナイト",
           "availableIn": [
             "ZA",
@@ -3961,7 +4376,10 @@
             "ほのお",
             "エスパー"
           ],
-          "formAbility": "ふゆう",
+          "formAbilities": [
+            "ふゆう"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "マフォクシナイト",
           "availableIn": [
             "ZA",
@@ -3991,7 +4409,10 @@
             "みず",
             "あく"
           ],
-          "formAbility": "へんげんじざい",
+          "formAbilities": [
+            "へんげんじざい"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ゲッコウガナイト",
           "availableIn": [
             "ZA",
@@ -4006,7 +4427,10 @@
             "みず",
             "あく"
           ],
-          "formAbility": "きずなへんげ",
+          "formAbilities": [
+            "きずなへんげ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "(とくせい)きずなへんげ",
           "availableIn": [
             "SM",
@@ -4037,7 +4461,8 @@
             "ほのお",
             "ノーマル"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "カエンジシナイト",
           "availableIn": [
             "ZA",
@@ -4064,7 +4489,10 @@
           "formTypes": [
             "フェアリー"
           ],
-          "formAbility": "フェアリーオーラ",
+          "formAbilities": [
+            "フェアリーオーラ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "フラエッテナイト",
           "availableIn": [
             "ZA"
@@ -4091,7 +4519,10 @@
           "formTypes": [
             "エスパー"
           ],
-          "formAbility": "トレース",
+          "formAbilities": [
+            "トレース"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ニャオニクスナイト",
           "availableIn": [
             "M-dimension"
@@ -4118,7 +4549,10 @@
           "formTypes": [
             "エスパー"
           ],
-          "formAbility": "トレース",
+          "formAbilities": [
+            "トレース"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ニャオニクスナイト",
           "availableIn": [
             "M-dimension"
@@ -4146,7 +4580,8 @@
             "あく",
             "エスパー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "カラマネロナイト",
           "availableIn": [
             "ZA",
@@ -4176,7 +4611,8 @@
             "いわ",
             "かくとう"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "ガメノデスナイト",
           "availableIn": [
             "ZA",
@@ -4206,7 +4642,8 @@
             "どく",
             "ドラゴン"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "ドラミドナイト",
           "availableIn": [
             "ZA",
@@ -4236,7 +4673,10 @@
             "かくとう",
             "ひこう"
           ],
-          "formAbility": "ノーガード",
+          "formAbilities": [
+            "ノーガード"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ルチャブルナイト",
           "availableIn": [
             "ZA",
@@ -4261,7 +4701,11 @@
             "はがね",
             "ドラゴン"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "そうしょく",
+            "シェルアーマー"
+          ],
+          "formHiddenAbility": "ぬめぬめ",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -4287,7 +4731,11 @@
             "はがね",
             "ドラゴン"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "そうしょく",
+            "シェルアーマー"
+          ],
+          "formHiddenAbility": "ぬめぬめ",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -4313,7 +4761,11 @@
             "こおり",
             "いわ"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "がんじょうあご",
+            "アイスボディ"
+          ],
+          "formHiddenAbility": "がんじょう",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -4342,7 +4794,8 @@
             "ドラゴン",
             "じめん"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "ジガルデナイト",
           "availableIn": [
             "ZA",
@@ -4370,7 +4823,10 @@
             "いわ",
             "フェアリー"
           ],
-          "formAbility": "マジックミラー",
+          "formAbilities": [
+            "マジックミラー"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ディアンシナイト",
           "availableIn": [
             "ORAS",
@@ -4399,7 +4855,10 @@
             "くさ",
             "かくとう"
           ],
-          "formAbility": "",
+          "formAbilities": [
+            "しんりょく"
+          ],
+          "formHiddenAbility": "きもったま",
           "requiredItem": "",
           "availableIn": [
             "LA"
@@ -4430,7 +4889,8 @@
             "くさ",
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4462,7 +4922,8 @@
             "ほのお",
             "あく"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4494,7 +4955,8 @@
             "みず",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4527,7 +4989,10 @@
             "かくとう",
             "こおり"
           ],
-          "formAbility": "てつのこぶし",
+          "formAbilities": [
+            "てつのこぶし"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ケケンカニナイト",
           "availableIn": [
             "M-dimension"
@@ -4554,7 +5019,8 @@
           "formTypes": [
             "いわ"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4585,7 +5051,8 @@
             "むし",
             "みず"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "グソクムシャナイト",
           "availableIn": [
             "M-dimension"
@@ -4612,7 +5079,8 @@
             "ゴースト",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4645,7 +5113,10 @@
             "ノーマル",
             "ドラゴン"
           ],
-          "formAbility": "ぎゃくじょう",
+          "formAbilities": [
+            "ぎゃくじょう"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "ジジーロナイト",
           "availableIn": [
             "ZA",
@@ -4675,7 +5146,8 @@
             "ドラゴン",
             "かくとう"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "USUM"
@@ -4706,7 +5178,8 @@
             "でんき",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4738,7 +5211,8 @@
             "エスパー",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4770,7 +5244,8 @@
             "くさ",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4802,7 +5277,8 @@
             "みず",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4833,7 +5309,8 @@
             "エスパー",
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4864,7 +5341,8 @@
             "エスパー",
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -4894,7 +5372,8 @@
             "エスパー",
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "USUM"
@@ -4911,7 +5390,8 @@
             "エスパー",
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "USUM"
@@ -4928,7 +5408,8 @@
             "エスパー",
             "ドラゴン"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "USUM"
@@ -4958,7 +5439,8 @@
             "はがね",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "マギアナイト",
           "availableIn": [
             "M-dimension"
@@ -4985,7 +5467,8 @@
             "かくとう",
             "ゴースト"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SM",
@@ -5014,7 +5497,8 @@
           "formTypes": [
             "でんき"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "ゼラオラナイト",
           "availableIn": [
             "M-dimension"
@@ -5037,7 +5521,8 @@
           "formTypes": [
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5061,7 +5546,8 @@
           "formTypes": [
             "くさ"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5085,7 +5571,8 @@
           "formTypes": [
             "ほのお"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5109,7 +5596,8 @@
           "formTypes": [
             "みず"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5135,7 +5623,8 @@
             "ひこう",
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5161,7 +5650,8 @@
             "むし",
             "エスパー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5187,7 +5677,8 @@
             "みず",
             "いわ"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5213,7 +5704,8 @@
             "いわ",
             "ほのお"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5239,7 +5731,8 @@
             "くさ",
             "ドラゴン"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5265,7 +5758,8 @@
             "くさ",
             "ドラゴン"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5289,7 +5783,8 @@
           "formTypes": [
             "みず"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5315,7 +5810,8 @@
             "でんき",
             "どく"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5341,7 +5837,8 @@
             "むし",
             "ほのお"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5365,7 +5862,8 @@
           "formTypes": [
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5391,7 +5889,8 @@
             "あく",
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5415,7 +5914,8 @@
           "formTypes": [
             "フェアリー"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5442,7 +5942,8 @@
           "formTypes": [
             "かくとう"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "ZA"
@@ -5465,7 +5966,8 @@
           "formTypes": [
             "はがね"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5491,7 +5993,8 @@
             "はがね",
             "ドラゴン"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5518,7 +6021,8 @@
             "かくとう",
             "あく"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5534,7 +6038,8 @@
             "かくとう",
             "みず"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
             "SwSh"
@@ -5564,7 +6069,10 @@
             "くさ",
             "ほのお"
           ],
-          "formAbility": "とびだすハバネロ",
+          "formAbilities": [
+            "とびだすハバネロ"
+          ],
+          "formHiddenAbility": "",
           "requiredItem": "スコヴィランナイト",
           "availableIn": [
             "M-dimension"
@@ -5592,7 +6100,8 @@
             "ドラゴン",
             "こおり"
           ],
-          "formAbility": "",
+          "formAbilities": [],
+          "formHiddenAbility": "",
           "requiredItem": "セグレイブナイト",
           "availableIn": [
             "M-dimension"
@@ -5601,5 +6110,5 @@
       ]
     }
   ],
-  "_note": "特殊フォーム定義の正本（L2）。summary-pages の src/data/special-forms.json は sync-from-pokemon-data.mjs が生成する pull-only コピーなので直接編集しない。all.json の forms は fetch-forms.py がここから生成する。⚠ formTypes は常に「そのフォームのポケモンのタイプ」。Zワザのタイプは zMoveType に入れる（category:zmove のみ）。両者を混ぜない。"
+  "_note": "特殊フォーム定義の正本（L2）。summary-pages の src/data/special-forms.json は sync-from-pokemon-data.mjs が生成する pull-only コピーなので直接編集しない。all.json の forms は fetch-forms.py がここから生成する。 ⚠ formTypes は常に「そのフォームのポケモンのタイプ」。Zワザのタイプは zMoveType に入れる（category:zmove のみ）。特性は formAbilities（通常特性の配列）と formHiddenAbility（隠れ特性・単一）に分ける。1つのフィールドに複数の意味を混ぜない。"
 }

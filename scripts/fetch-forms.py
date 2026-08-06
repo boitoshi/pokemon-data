@@ -117,7 +117,10 @@ def build_form_entry(form: dict, pokemon_name_ja: str) -> dict:
         "form_name_en": "",
         "types": form.get("formTypes", []),
         "category": category,
-        "ability": form.get("formAbility", ""),
+        # 特性は「通常特性の配列」と「隠れ特性」を分けて持つ。1フィールドに
+        # 複数の意味を混ぜない（正本: forms/special-forms.json の _note）
+        "abilities": form.get("formAbilities", []),
+        "hidden_ability": form.get("formHiddenAbility", ""),
         "required_item": form.get("requiredItem", ""),
         "available_in": form.get("availableIn", []),
         # そのフォームが初登場したソフト。消費側が登場世代を判定するのに使う

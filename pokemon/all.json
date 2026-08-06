@@ -44,7 +44,10 @@
           "どく"
         ],
         "category": "mega",
-        "ability": "あついしぼう",
+        "abilities": [
+          "あついしぼう"
+        ],
+        "hidden_ability": "",
         "required_item": "フシギバナイト",
         "available_in": [
           "XY",
@@ -66,7 +69,8 @@
           "どく"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -119,7 +123,10 @@
           "ドラゴン"
         ],
         "category": "mega",
-        "ability": "かたいツメ",
+        "abilities": [
+          "かたいツメ"
+        ],
+        "hidden_ability": "",
         "required_item": "リザードナイトX",
         "available_in": [
           "XY",
@@ -141,7 +148,10 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "ひでり",
+        "abilities": [
+          "ひでり"
+        ],
+        "hidden_ability": "",
         "required_item": "リザードナイトY",
         "available_in": [
           "XY",
@@ -163,7 +173,8 @@
           "ひこう"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -214,7 +225,10 @@
           "みず"
         ],
         "category": "mega",
-        "ability": "メガランチャー",
+        "abilities": [
+          "メガランチャー"
+        ],
+        "hidden_ability": "",
         "required_item": "カメックスナイト",
         "available_in": [
           "XY",
@@ -235,7 +249,8 @@
           "みず"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -288,7 +303,8 @@
           "ひこう"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -343,7 +359,10 @@
           "どく"
         ],
         "category": "mega",
-        "ability": "てきおうりょく",
+        "abilities": [
+          "てきおうりょく"
+        ],
+        "hidden_ability": "",
         "required_item": "スピアナイト",
         "available_in": [
           "ORAS",
@@ -402,7 +421,10 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "ノーガード",
+        "abilities": [
+          "ノーガード"
+        ],
+        "hidden_ability": "",
         "required_item": "ピジョットナイト",
         "available_in": [
           "ORAS",
@@ -436,7 +458,11 @@
           "ノーマル"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "くいしんぼう",
+          "はりきり"
+        ],
+        "hidden_ability": "あついしぼう",
         "required_item": "",
         "available_in": [
           "SM"
@@ -465,7 +491,11 @@
           "ノーマル"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "くいしんぼう",
+          "はりきり"
+        ],
+        "hidden_ability": "あついしぼう",
         "required_item": "",
         "available_in": [
           "SM"
@@ -539,7 +569,8 @@
           "でんき"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -558,7 +589,8 @@
           "でんき"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -577,7 +609,8 @@
           "でんき"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -607,7 +640,10 @@
           "エスパー"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "サーフテール"
+        ],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM"
@@ -622,7 +658,8 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "ライチュウナイトX",
         "available_in": [
           "M-dimension"
@@ -637,7 +674,8 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "ライチュウナイトY",
         "available_in": [
           "M-dimension"
@@ -653,7 +691,8 @@
           "エスパー"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -686,7 +725,10 @@
           "はがね"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ゆきがくれ"
+        ],
+        "hidden_ability": "ゆきかき",
         "required_item": "",
         "available_in": [
           "SM"
@@ -715,7 +757,10 @@
           "はがね"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ゆきがくれ"
+        ],
+        "hidden_ability": "ゆきかき",
         "required_item": "",
         "available_in": [
           "SM"
@@ -823,7 +868,10 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "マジックミラー",
+        "abilities": [
+          "マジックミラー"
+        ],
+        "hidden_ability": "",
         "required_item": "ピクシナイト",
         "available_in": [
           "ZA",
@@ -852,7 +900,10 @@
           "こおり"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ゆきがくれ"
+        ],
+        "hidden_ability": "ゆきふらし",
         "required_item": "",
         "available_in": [
           "SM"
@@ -881,7 +932,10 @@
           "フェアリー"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ゆきがくれ"
+        ],
+        "hidden_ability": "ゆきふらし",
         "required_item": "",
         "available_in": [
           "SM"
@@ -1042,7 +1096,11 @@
           "はがね"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "すながくれ",
+          "カーリーヘアー"
+        ],
+        "hidden_ability": "すなのちから",
         "required_item": "",
         "available_in": [
           "SM"
@@ -1071,7 +1129,11 @@
           "はがね"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "すながくれ",
+          "カーリーヘアー"
+        ],
+        "hidden_ability": "すなのちから",
         "required_item": "",
         "available_in": [
           "SM"
@@ -1099,7 +1161,11 @@
           "あく"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ものひろい",
+          "テクニシャン"
+        ],
+        "hidden_ability": "びびり",
         "required_item": "",
         "available_in": [
           "SM"
@@ -1114,7 +1180,11 @@
           "はがね"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ものひろい",
+          "かたいツメ"
+        ],
+        "hidden_ability": "きんちょうかん",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -1129,7 +1199,8 @@
           "はがね"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -1158,7 +1229,11 @@
           "あく"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ファーコート",
+          "テクニシャン"
+        ],
+        "hidden_ability": "びびり",
         "required_item": "",
         "available_in": [
           "SM"
@@ -1231,7 +1306,11 @@
           "いわ"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "いかく",
+          "もらいび"
+        ],
+        "hidden_ability": "いしあたま",
         "required_item": "",
         "available_in": [
           "LA"
@@ -1260,7 +1339,11 @@
           "いわ"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "いかく",
+          "もらいび"
+        ],
+        "hidden_ability": "いしあたま",
         "required_item": "",
         "available_in": [
           "LA"
@@ -1344,7 +1427,10 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "トレース",
+        "abilities": [
+          "トレース"
+        ],
+        "hidden_ability": "",
         "required_item": "フーディナイト",
         "available_in": [
           "XY",
@@ -1400,7 +1486,8 @@
           "かくとう"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -1455,7 +1542,10 @@
           "どく"
         ],
         "category": "mega",
-        "ability": "とびだすなかみ",
+        "abilities": [
+          "とびだすなかみ"
+        ],
+        "hidden_ability": "",
         "required_item": "ウツボットナイト",
         "available_in": [
           "ZA",
@@ -1510,7 +1600,11 @@
           "でんき"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "じりょく",
+          "がんじょう"
+        ],
+        "hidden_ability": "エレキスキン",
         "required_item": "",
         "available_in": [
           "SM"
@@ -1540,7 +1634,11 @@
           "でんき"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "じりょく",
+          "がんじょう"
+        ],
+        "hidden_ability": "エレキスキン",
         "required_item": "",
         "available_in": [
           "SM"
@@ -1570,7 +1668,11 @@
           "でんき"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "じりょく",
+          "がんじょう"
+        ],
+        "hidden_ability": "エレキスキン",
         "required_item": "",
         "available_in": [
           "SM"
@@ -1598,7 +1700,11 @@
           "エスパー"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "にげあし",
+          "パステルベール"
+        ],
+        "hidden_ability": "きけんよち",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -1627,7 +1733,11 @@
           "フェアリー"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "にげあし",
+          "パステルベール"
+        ],
+        "hidden_ability": "きけんよち",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -1656,7 +1766,11 @@
           "エスパー"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "くいしんぼう",
+          "マイペース"
+        ],
+        "hidden_ability": "さいせいりょく",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -1686,7 +1800,11 @@
           "エスパー"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "クイックドロウ",
+          "マイペース"
+        ],
+        "hidden_ability": "さいせいりょく",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -1702,7 +1820,10 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "シェルアーマー",
+        "abilities": [
+          "シェルアーマー"
+        ],
+        "hidden_ability": "",
         "required_item": "ヤドランナイト",
         "available_in": [
           "ORAS",
@@ -1760,7 +1881,10 @@
           "かくとう"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ふくつのこころ"
+        ],
+        "hidden_ability": "きもったま",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -1836,7 +1960,11 @@
           "あく"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "どくしゅ",
+          "くいしんぼう"
+        ],
+        "hidden_ability": "かがくのちから",
         "required_item": "",
         "available_in": [
           "SM"
@@ -1865,7 +1993,11 @@
           "あく"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "どくしゅ",
+          "くいしんぼう"
+        ],
+        "hidden_ability": "かがくのちから",
         "required_item": "",
         "available_in": [
           "SM"
@@ -1942,7 +2074,10 @@
           "どく"
         ],
         "category": "mega",
-        "ability": "かげふみ",
+        "abilities": [
+          "かげふみ"
+        ],
+        "hidden_ability": "",
         "required_item": "ゲンガナイト",
         "available_in": [
           "XY",
@@ -1964,7 +2099,8 @@
           "どく"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -2038,7 +2174,8 @@
           "みず"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -2068,7 +2205,11 @@
           "くさ"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ぼうおん",
+          "せいでんき"
+        ],
+        "hidden_ability": "ゆうばく",
         "required_item": "",
         "available_in": [
           "LA"
@@ -2097,7 +2238,11 @@
           "くさ"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ぼうおん",
+          "せいでんき"
+        ],
+        "hidden_ability": "ゆうばく",
         "required_item": "",
         "available_in": [
           "LA"
@@ -2139,7 +2284,10 @@
           "ドラゴン"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "おみとおし"
+        ],
+        "hidden_ability": "しゅうかく",
         "required_item": "",
         "available_in": [
           "SM"
@@ -2179,7 +2327,11 @@
           "ゴースト"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "のろわれボディ",
+          "ひらいしん"
+        ],
+        "hidden_ability": "いしあたま",
         "required_item": "",
         "available_in": [
           "SM"
@@ -2252,7 +2404,11 @@
           "フェアリー"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ふゆう",
+          "かがくへんかガス"
+        ],
+        "hidden_ability": "ミストメイカー",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -2326,7 +2482,10 @@
           "ノーマル"
         ],
         "category": "mega",
-        "ability": "おやこあい",
+        "abilities": [
+          "おやこあい"
+        ],
+        "hidden_ability": "",
         "required_item": "ガルーラナイト",
         "available_in": [
           "XY",
@@ -2417,7 +2576,10 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "ちからもち",
+        "abilities": [
+          "ちからもち"
+        ],
+        "hidden_ability": "",
         "required_item": "スターミナイト",
         "available_in": [
           "ZA",
@@ -2448,7 +2610,11 @@
           "エスパー"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "やるき",
+          "バリアフリー"
+        ],
+        "hidden_ability": "アイスボディ",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -2523,7 +2689,10 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "スカイスキン",
+        "abilities": [
+          "スカイスキン"
+        ],
+        "hidden_ability": "",
         "required_item": "カイロスナイト",
         "available_in": [
           "XY",
@@ -2557,7 +2726,11 @@
           "かくとう"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "いかく",
+          "いかりのつぼ"
+        ],
+        "hidden_ability": "はんすう",
         "required_item": "",
         "available_in": [
           "SV"
@@ -2573,7 +2746,11 @@
           "ほのお"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "いかく",
+          "いかりのつぼ"
+        ],
+        "hidden_ability": "はんすう",
         "required_item": "",
         "available_in": [
           "SV"
@@ -2589,7 +2766,11 @@
           "みず"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "いかく",
+          "いかりのつぼ"
+        ],
+        "hidden_ability": "はんすう",
         "required_item": "",
         "available_in": [
           "SV"
@@ -2630,7 +2811,10 @@
           "あく"
         ],
         "category": "mega",
-        "ability": "かたやぶり",
+        "abilities": [
+          "かたやぶり"
+        ],
+        "hidden_ability": "",
         "required_item": "ギャラドスナイト",
         "available_in": [
           "XY",
@@ -2666,7 +2850,8 @@
           "こおり"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -2706,7 +2891,8 @@
           "ノーマル"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -2725,7 +2911,8 @@
           "ノーマル"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -2848,7 +3035,10 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "かたいツメ",
+        "abilities": [
+          "かたいツメ"
+        ],
+        "hidden_ability": "",
         "required_item": "プテラナイト",
         "available_in": [
           "XY",
@@ -2882,7 +3072,8 @@
           "ノーマル"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -2901,7 +3092,8 @@
           "ノーマル"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -2932,7 +3124,10 @@
           "ひこう"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "かちき"
+        ],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -2962,7 +3157,10 @@
           "ひこう"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "まけんき"
+        ],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -2992,7 +3190,10 @@
           "ひこう"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ぎゃくじょう"
+        ],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -3044,7 +3245,10 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "マルチスケイル",
+        "abilities": [
+          "マルチスケイル"
+        ],
+        "hidden_ability": "",
         "required_item": "カイリュナイト",
         "available_in": [
           "ZA",
@@ -3074,7 +3278,10 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "ふくつのこころ",
+        "abilities": [
+          "ふくつのこころ"
+        ],
+        "hidden_ability": "",
         "required_item": "ミュウツナイトX",
         "available_in": [
           "XY",
@@ -3095,7 +3302,10 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "ふみん",
+        "abilities": [
+          "ふみん"
+        ],
+        "hidden_ability": "",
         "required_item": "ミュウツナイトY",
         "available_in": [
           "XY",
@@ -3129,7 +3339,8 @@
           "エスパー"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -3184,7 +3395,10 @@
           "フェアリー"
         ],
         "category": "mega",
-        "ability": "メガソーラー",
+        "abilities": [
+          "メガソーラー"
+        ],
+        "hidden_ability": "",
         "required_item": "メガニウムナイト",
         "available_in": [
           "ZA",
@@ -3236,7 +3450,10 @@
           "ゴースト"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "もうか"
+        ],
+        "hidden_ability": "おみとおし",
         "required_item": "",
         "available_in": [
           "LA"
@@ -3287,7 +3504,10 @@
           "ドラゴン"
         ],
         "category": "mega",
-        "ability": "ドラゴンスキン",
+        "abilities": [
+          "ドラゴンスキン"
+        ],
+        "hidden_ability": "",
         "required_item": "オーダイルナイト",
         "available_in": [
           "ZA",
@@ -3550,7 +3770,10 @@
           "ドラゴン"
         ],
         "category": "mega",
-        "ability": "かたやぶり",
+        "abilities": [
+          "かたやぶり"
+        ],
+        "hidden_ability": "",
         "required_item": "デンリュウナイト",
         "available_in": [
           "XY",
@@ -3723,7 +3946,11 @@
           "じめん"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "どくのトゲ",
+          "ちょすい"
+        ],
+        "hidden_ability": "てんねん",
         "required_item": "",
         "available_in": [
           "SV"
@@ -3799,7 +4026,11 @@
           "エスパー"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "きみょうなくすり",
+          "マイペース"
+        ],
+        "hidden_ability": "さいせいりょく",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -3920,7 +4151,10 @@
           "じめん"
         ],
         "category": "mega",
-        "ability": "すなのちから",
+        "abilities": [
+          "すなのちから"
+        ],
+        "hidden_ability": "",
         "required_item": "ハガネールナイト",
         "available_in": [
           "ORAS",
@@ -3976,7 +4210,11 @@
           "どく"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "どくのトゲ",
+          "すいすい"
+        ],
+        "hidden_ability": "いかく",
         "required_item": "",
         "available_in": [
           "LA"
@@ -4006,7 +4244,10 @@
           "はがね"
         ],
         "category": "mega",
-        "ability": "テクニシャン",
+        "abilities": [
+          "テクニシャン"
+        ],
+        "hidden_ability": "",
         "required_item": "ハッサムナイト",
         "available_in": [
           "XY",
@@ -4053,7 +4294,10 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "スキルリンク",
+        "abilities": [
+          "スキルリンク"
+        ],
+        "hidden_ability": "",
         "required_item": "ヘラクロスナイト",
         "available_in": [
           "XY",
@@ -4088,7 +4332,11 @@
           "どく"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "せいしんりょく",
+          "するどいめ"
+        ],
+        "hidden_ability": "わるいてぐせ",
         "required_item": "",
         "available_in": [
           "LA"
@@ -4186,7 +4434,10 @@
           "ゴースト"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "くだけるよろい"
+        ],
+        "hidden_ability": "のろわれボディ",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -4262,7 +4513,10 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "すじがねいり",
+        "abilities": [
+          "すじがねいり"
+        ],
+        "hidden_ability": "",
         "required_item": "エアームドナイト",
         "available_in": [
           "ZA",
@@ -4305,7 +4559,10 @@
           "ほのお"
         ],
         "category": "mega",
-        "ability": "サンパワー",
+        "abilities": [
+          "サンパワー"
+        ],
+        "hidden_ability": "",
         "required_item": "ヘルガナイト",
         "available_in": [
           "XY",
@@ -4542,7 +4799,10 @@
           "あく"
         ],
         "category": "mega",
-        "ability": "すなあらし",
+        "abilities": [
+          "すなあらし"
+        ],
+        "hidden_ability": "",
         "required_item": "バンギラスナイト",
         "available_in": [
           "XY",
@@ -4634,7 +4894,10 @@
           "ドラゴン"
         ],
         "category": "mega",
-        "ability": "ひらいしん",
+        "abilities": [
+          "ひらいしん"
+        ],
+        "hidden_ability": "",
         "required_item": "ジュカインナイト",
         "available_in": [
           "ORAS",
@@ -4691,7 +4954,10 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "かそく",
+        "abilities": [
+          "かそく"
+        ],
+        "hidden_ability": "",
         "required_item": "バシャーモナイト",
         "available_in": [
           "XY",
@@ -4749,7 +5015,10 @@
           "じめん"
         ],
         "category": "mega",
-        "ability": "すいすい",
+        "abilities": [
+          "すいすい"
+        ],
+        "hidden_ability": "",
         "required_item": "ラグラージナイト",
         "available_in": [
           "ORAS",
@@ -4803,7 +5072,11 @@
           "あく"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ものひろい",
+          "くいしんぼう"
+        ],
+        "hidden_ability": "はやあし",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -4831,7 +5104,11 @@
           "あく"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ものひろい",
+          "くいしんぼう"
+        ],
+        "hidden_ability": "はやあし",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -5061,7 +5338,10 @@
           "フェアリー"
         ],
         "category": "mega",
-        "ability": "フェアリースキン",
+        "abilities": [
+          "フェアリースキン"
+        ],
+        "hidden_ability": "",
         "required_item": "サーナイトナイト",
         "available_in": [
           "XY",
@@ -5312,7 +5592,10 @@
           "ゴースト"
         ],
         "category": "mega",
-        "ability": "マジックミラー",
+        "abilities": [
+          "マジックミラー"
+        ],
+        "hidden_ability": "",
         "required_item": "ヤミラミナイト",
         "available_in": [
           "ORAS",
@@ -5346,7 +5629,10 @@
           "フェアリー"
         ],
         "category": "mega",
-        "ability": "ちからずく",
+        "abilities": [
+          "ちからずく"
+        ],
+        "hidden_ability": "",
         "required_item": "クチートナイト",
         "available_in": [
           "XY",
@@ -5404,7 +5690,10 @@
           "はがね"
         ],
         "category": "mega",
-        "ability": "フィルター",
+        "abilities": [
+          "フィルター"
+        ],
+        "hidden_ability": "",
         "required_item": "ボスゴドラナイト",
         "available_in": [
           "XY",
@@ -5451,7 +5740,10 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "ヨガパワー",
+        "abilities": [
+          "ヨガパワー"
+        ],
+        "hidden_ability": "",
         "required_item": "チャーレムナイト",
         "available_in": [
           "XY",
@@ -5495,7 +5787,10 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "いかく",
+        "abilities": [
+          "いかく"
+        ],
+        "hidden_ability": "",
         "required_item": "ライボルトナイト",
         "available_in": [
           "XY",
@@ -5620,7 +5915,10 @@
           "あく"
         ],
         "category": "mega",
-        "ability": "がんじょあご",
+        "abilities": [
+          "がんじょあご"
+        ],
+        "hidden_ability": "",
         "required_item": "サメハダナイト",
         "available_in": [
           "ORAS",
@@ -5688,7 +5986,10 @@
           "じめん"
         ],
         "category": "mega",
-        "ability": "ちからずく",
+        "abilities": [
+          "ちからずく"
+        ],
+        "hidden_ability": "",
         "required_item": "バクーダナイト",
         "available_in": [
           "ORAS",
@@ -5836,7 +6137,10 @@
           "フェアリー"
         ],
         "category": "mega",
-        "ability": "フェアリースキン",
+        "abilities": [
+          "フェアリースキン"
+        ],
+        "hidden_ability": "",
         "required_item": "チルタリスナイト",
         "available_in": [
           "ORAS",
@@ -6088,7 +6392,10 @@
           "ゴースト"
         ],
         "category": "mega",
-        "ability": "いたずらごころ",
+        "abilities": [
+          "いたずらごころ"
+        ],
+        "hidden_ability": "",
         "required_item": "ジュペッタナイト",
         "available_in": [
           "XY",
@@ -6156,7 +6463,10 @@
           "はがね"
         ],
         "category": "mega",
-        "ability": "ふゆう",
+        "abilities": [
+          "ふゆう"
+        ],
+        "hidden_ability": "",
         "required_item": "チリーンナイト",
         "available_in": [
           "M-dimension"
@@ -6184,7 +6494,10 @@
           "あく"
         ],
         "category": "mega",
-        "ability": "マジックミラー",
+        "abilities": [
+          "マジックミラー"
+        ],
+        "hidden_ability": "",
         "required_item": "アブソルナイト",
         "available_in": [
           "XY",
@@ -6205,7 +6518,8 @@
           "ゴースト"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "アブソルナイトZ",
         "available_in": [
           "M-dimension"
@@ -6255,7 +6569,10 @@
           "こおり"
         ],
         "category": "mega",
-        "ability": "フリーズスキン",
+        "abilities": [
+          "フリーズスキン"
+        ],
+        "hidden_ability": "",
         "required_item": "オニゴーリナイト",
         "available_in": [
           "ORAS",
@@ -6403,7 +6720,10 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "スカイスキン",
+        "abilities": [
+          "スカイスキン"
+        ],
+        "hidden_ability": "",
         "required_item": "ボーマンダナイト",
         "available_in": [
           "ORAS",
@@ -6461,7 +6781,10 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "かたいツメ",
+        "abilities": [
+          "かたいツメ"
+        ],
+        "hidden_ability": "",
         "required_item": "メタグロスナイト",
         "available_in": [
           "ORAS",
@@ -6528,7 +6851,10 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "ふゆう",
+        "abilities": [
+          "ふゆう"
+        ],
+        "hidden_ability": "",
         "required_item": "ラティアスナイト",
         "available_in": [
           "XY",
@@ -6563,7 +6889,10 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "ふゆう",
+        "abilities": [
+          "ふゆう"
+        ],
+        "hidden_ability": "",
         "required_item": "ラティオスナイト",
         "available_in": [
           "XY",
@@ -6596,7 +6925,10 @@
           "みず"
         ],
         "category": "primal",
-        "ability": "はじまりのうみ",
+        "abilities": [
+          "はじまりのうみ"
+        ],
+        "hidden_ability": "",
         "required_item": "あいいろのたま",
         "available_in": [
           "ORAS",
@@ -6628,7 +6960,10 @@
           "ほのお"
         ],
         "category": "primal",
-        "ability": "おわりのだいち",
+        "abilities": [
+          "おわりのだいち"
+        ],
+        "hidden_ability": "",
         "required_item": "べにいろのたま",
         "available_in": [
           "ORAS",
@@ -6661,7 +6996,10 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "デルタストリーム",
+        "abilities": [
+          "デルタストリーム"
+        ],
+        "hidden_ability": "",
         "required_item": "(わざ)ガリョウテンセイ",
         "available_in": [
           "ORAS",
@@ -6845,7 +7183,8 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "M次元",
         "available_in": [
           "M-dimension"
@@ -7205,7 +7544,10 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "きもったま",
+        "abilities": [
+          "きもったま"
+        ],
+        "hidden_ability": "",
         "required_item": "ミミロップナイト",
         "available_in": [
           "XY",
@@ -7426,7 +7768,10 @@
           "じめん"
         ],
         "category": "mega",
-        "ability": "すなのちから",
+        "abilities": [
+          "すなのちから"
+        ],
+        "hidden_ability": "",
         "required_item": "ガブリアスナイト",
         "available_in": [
           "XY",
@@ -7483,7 +7828,10 @@
           "はがね"
         ],
         "category": "mega",
-        "ability": "てきおうりょく",
+        "abilities": [
+          "てきおうりょく"
+        ],
+        "hidden_ability": "",
         "required_item": "ルカリオナイト",
         "available_in": [
           "XY",
@@ -7504,7 +7852,8 @@
           "はがね"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "ルカリオナイトZ",
         "available_in": [
           "M-dimension"
@@ -7661,7 +8010,10 @@
           "こおり"
         ],
         "category": "mega",
-        "ability": "ゆきふらし",
+        "abilities": [
+          "ゆきふらし"
+        ],
+        "hidden_ability": "",
         "required_item": "ユキノオナイト",
         "available_in": [
           "XY",
@@ -7857,7 +8209,10 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "せいしんりょく",
+        "abilities": [
+          "せいしんりょく"
+        ],
+        "hidden_ability": "",
         "required_item": "エルレイドナイト",
         "available_in": [
           "ORAS",
@@ -7914,7 +8269,10 @@
           "ゴースト"
         ],
         "category": "mega",
-        "ability": "ゆきふらし",
+        "abilities": [
+          "ゆきふらし"
+        ],
+        "hidden_ability": "",
         "required_item": "ユキメノコナイト",
         "available_in": [
           "ZA",
@@ -8014,7 +8372,8 @@
           "はがね"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "ヒードラナイト",
         "available_in": [
           "M-dimension"
@@ -8201,7 +8560,10 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "かたやぶり",
+        "abilities": [
+          "かたやぶり"
+        ],
+        "hidden_ability": "",
         "required_item": "エンブオナイト",
         "available_in": [
           "ZA",
@@ -8253,7 +8615,10 @@
           "あく"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "げきりゅう"
+        ],
+        "hidden_ability": "きれあじ",
         "required_item": "",
         "available_in": [
           "LA"
@@ -8574,7 +8939,10 @@
           "はがね"
         ],
         "category": "mega",
-        "ability": "かんつうドリル",
+        "abilities": [
+          "かんつうドリル"
+        ],
+        "hidden_ability": "",
         "required_item": "ドリュウズナイト",
         "available_in": [
           "ZA",
@@ -8604,7 +8972,10 @@
           "フェアリー"
         ],
         "category": "mega",
-        "ability": "いやしのこころ",
+        "abilities": [
+          "いやしのこころ"
+        ],
+        "hidden_ability": "",
         "required_item": "タブンネナイト",
         "available_in": [
           "ORAS",
@@ -8788,7 +9159,10 @@
           "どく"
         ],
         "category": "mega",
-        "ability": "シェルアーマー",
+        "abilities": [
+          "シェルアーマー"
+        ],
+        "hidden_ability": "",
         "required_item": "ペンドラナイト",
         "available_in": [
           "M-dimension"
@@ -8852,7 +9226,11 @@
           "かくとう"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ようりょくそ",
+          "はりきり"
+        ],
+        "hidden_ability": "リーフガード",
         "required_item": "",
         "available_in": [
           "LA"
@@ -8927,7 +9305,10 @@
           "こおり"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "はりきり"
+        ],
+        "hidden_ability": "せいしんりょく",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -8955,7 +9336,10 @@
           "こおり"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ごりむちゅう"
+        ],
+        "hidden_ability": "ダルマモード",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -8971,7 +9355,10 @@
           "ほのお"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ごりむちゅう"
+        ],
+        "hidden_ability": "ダルマモード",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -9048,7 +9435,8 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "ズルズキナイト",
         "available_in": [
           "ZA",
@@ -9083,14 +9471,17 @@
     "forms": [
       {
         "form_id": "galar",
-        "form_name_ja": "デスカーン（ガラルのすがた）",
+        "form_name_ja": "デスマス（ガラルのすがた）",
         "form_name_en": "",
         "types": [
           "じめん",
           "ゴースト"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "さまようたましい"
+        ],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -9188,7 +9579,8 @@
           "どく"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -9218,7 +9610,10 @@
           "ゴースト"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "イリュージョン"
+        ],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "LA"
@@ -9247,7 +9642,10 @@
           "ゴースト"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "イリュージョン"
+        ],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "LA"
@@ -9641,7 +10039,8 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "シビルドナイト",
         "available_in": [
           "ZA",
@@ -9718,7 +10117,10 @@
           "ほのお"
         ],
         "category": "mega",
-        "ability": "すりぬけ",
+        "abilities": [
+          "すりぬけ"
+        ],
+        "hidden_ability": "",
         "required_item": "シャンデラナイト",
         "available_in": [
           "ZA",
@@ -9837,7 +10239,10 @@
           "はがね"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "ぎたい"
+        ],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -9912,7 +10317,10 @@
           "ゴースト"
         ],
         "category": "mega",
-        "ability": "ふかしのこぶし",
+        "abilities": [
+          "ふかしのこぶし"
+        ],
+        "hidden_ability": "",
         "required_item": "ゴルーグナイト",
         "available_in": [
           "M-dimension"
@@ -9989,7 +10397,11 @@
           "ひこう"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "するどいめ",
+          "ちからずく"
+        ],
+        "hidden_ability": "いろめがね",
         "required_item": "",
         "available_in": [
           "LA"
@@ -10291,7 +10703,10 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "ぼうだん",
+        "abilities": [
+          "ぼうだん"
+        ],
+        "hidden_ability": "",
         "required_item": "ブリガロナイト",
         "available_in": [
           "ZA",
@@ -10344,7 +10759,10 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "ふゆう",
+        "abilities": [
+          "ふゆう"
+        ],
+        "hidden_ability": "",
         "required_item": "マフォクシナイト",
         "available_in": [
           "ZA",
@@ -10397,7 +10815,10 @@
           "あく"
         ],
         "category": "mega",
-        "ability": "へんげんじざい",
+        "abilities": [
+          "へんげんじざい"
+        ],
+        "hidden_ability": "",
         "required_item": "ゲッコウガナイト",
         "available_in": [
           "ZA",
@@ -10414,7 +10835,10 @@
           "あく"
         ],
         "category": "bond",
-        "ability": "きずなへんげ",
+        "abilities": [
+          "きずなへんげ"
+        ],
+        "hidden_ability": "",
         "required_item": "(とくせい)きずなへんげ",
         "available_in": [
           "SM",
@@ -10551,7 +10975,8 @@
           "ノーマル"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "カエンジシナイト",
         "available_in": [
           "ZA",
@@ -10591,7 +11016,10 @@
           "フェアリー"
         ],
         "category": "mega",
-        "ability": "フェアリーオーラ",
+        "abilities": [
+          "フェアリーオーラ"
+        ],
+        "hidden_ability": "",
         "required_item": "フラエッテナイト",
         "available_in": [
           "ZA"
@@ -10697,7 +11125,10 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "トレース",
+        "abilities": [
+          "トレース"
+        ],
+        "hidden_ability": "",
         "required_item": "ニャオニクスナイト",
         "available_in": [
           "M-dimension"
@@ -10819,7 +11250,8 @@
           "エスパー"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "カラマネロナイト",
         "available_in": [
           "ZA",
@@ -10862,7 +11294,8 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "ガメノデスナイト",
         "available_in": [
           "ZA",
@@ -10905,7 +11338,8 @@
           "ドラゴン"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "ドラミドナイト",
         "available_in": [
           "ZA",
@@ -11041,7 +11475,10 @@
           "ひこう"
         ],
         "category": "mega",
-        "ability": "ノーガード",
+        "abilities": [
+          "ノーガード"
+        ],
+        "hidden_ability": "",
         "required_item": "ルチャブルナイト",
         "available_in": [
           "ZA",
@@ -11106,7 +11543,11 @@
           "ドラゴン"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "そうしょく",
+          "シェルアーマー"
+        ],
+        "hidden_ability": "ぬめぬめ",
         "required_item": "",
         "available_in": [
           "LA"
@@ -11135,7 +11576,11 @@
           "ドラゴン"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "そうしょく",
+          "シェルアーマー"
+        ],
+        "hidden_ability": "ぬめぬめ",
         "required_item": "",
         "available_in": [
           "LA"
@@ -11235,7 +11680,11 @@
           "いわ"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "がんじょうあご",
+          "アイスボディ"
+        ],
+        "hidden_ability": "がんじょう",
         "required_item": "",
         "available_in": [
           "LA"
@@ -11312,7 +11761,8 @@
           "じめん"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "ジガルデナイト",
         "available_in": [
           "ZA",
@@ -11343,7 +11793,10 @@
           "フェアリー"
         ],
         "category": "mega",
-        "ability": "マジックミラー",
+        "abilities": [
+          "マジックミラー"
+        ],
+        "hidden_ability": "",
         "required_item": "ディアンシナイト",
         "available_in": [
           "ORAS",
@@ -11425,7 +11878,10 @@
           "かくとう"
         ],
         "category": "regional",
-        "ability": "",
+        "abilities": [
+          "しんりょく"
+        ],
+        "hidden_ability": "きもったま",
         "required_item": "",
         "available_in": [
           "LA"
@@ -11441,7 +11897,8 @@
           "ゴースト"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -11497,7 +11954,8 @@
           "あく"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -11553,7 +12011,8 @@
           "フェアリー"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -11691,7 +12150,10 @@
           "こおり"
         ],
         "category": "mega",
-        "ability": "てつのこぶし",
+        "abilities": [
+          "てつのこぶし"
+        ],
+        "hidden_ability": "",
         "required_item": "ケケンカニナイト",
         "available_in": [
           "M-dimension"
@@ -11766,7 +12228,8 @@
           "いわ"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -12054,7 +12517,8 @@
           "みず"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "グソクムシャナイト",
         "available_in": [
           "M-dimension"
@@ -12188,7 +12652,8 @@
           "フェアリー"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -12234,7 +12699,10 @@
           "ドラゴン"
         ],
         "category": "mega",
-        "ability": "ぎゃくじょう",
+        "abilities": [
+          "ぎゃくじょう"
+        ],
+        "hidden_ability": "",
         "required_item": "ジジーロナイト",
         "available_in": [
           "ZA",
@@ -12300,7 +12768,8 @@
           "かくとう"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "USUM"
@@ -12333,7 +12802,8 @@
           "フェアリー"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -12367,7 +12837,8 @@
           "フェアリー"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -12401,7 +12872,8 @@
           "フェアリー"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -12435,7 +12907,8 @@
           "フェアリー"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -12491,7 +12964,8 @@
           "はがね"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -12525,7 +12999,8 @@
           "ゴースト"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -12641,7 +13116,8 @@
           "はがね"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "USUM"
@@ -12660,7 +13136,8 @@
           "ゴースト"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "USUM"
@@ -12679,7 +13156,8 @@
           "ドラゴン"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "USUM"
@@ -12712,7 +13190,8 @@
           "フェアリー"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "マギアナイト",
         "available_in": [
           "M-dimension"
@@ -12742,7 +13221,8 @@
           "ゴースト"
         ],
         "category": "zmove",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SM",
@@ -12821,7 +13301,8 @@
           "でんき"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "ゼラオラナイト",
         "available_in": [
           "M-dimension"
@@ -12860,7 +13341,8 @@
           "はがね"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -12911,7 +13393,8 @@
           "くさ"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -12962,7 +13445,8 @@
           "ほのお"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13013,7 +13497,8 @@
           "みず"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13088,7 +13573,8 @@
           "はがね"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13142,7 +13628,8 @@
           "エスパー"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13250,7 +13737,8 @@
           "いわ"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13326,7 +13814,8 @@
           "ほのお"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13369,7 +13858,8 @@
           "ドラゴン"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13400,7 +13890,8 @@
           "ドラゴン"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13440,7 +13931,8 @@
           "みず"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13517,7 +14009,8 @@
           "どく"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13560,7 +14053,8 @@
           "ほのお"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13656,7 +14150,8 @@
           "フェアリー"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13711,7 +14206,8 @@
           "フェアリー"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13820,7 +14316,8 @@
           "フェアリー"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -13849,7 +14346,8 @@
           "かくとう"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "ZA"
@@ -13969,7 +14467,8 @@
           "はがね"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -14048,7 +14547,8 @@
           "ドラゴン"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -14160,7 +14660,8 @@
           "あく"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -14177,7 +14678,8 @@
           "みず"
         ],
         "category": "gigantamax",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "",
         "available_in": [
           "SwSh"
@@ -14886,7 +15388,10 @@
           "ほのお"
         ],
         "category": "mega",
-        "ability": "とびだすハバネロ",
+        "abilities": [
+          "とびだすハバネロ"
+        ],
+        "hidden_ability": "",
         "required_item": "スコヴィランナイト",
         "available_in": [
           "M-dimension"
@@ -15442,7 +15947,8 @@
           "こおり"
         ],
         "category": "mega",
-        "ability": "",
+        "abilities": [],
+        "hidden_ability": "",
         "required_item": "セグレイブナイト",
         "available_in": [
           "M-dimension"

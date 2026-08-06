@@ -5298,40 +5298,8 @@
       ],
       "ribbons": [
         "クラシックリボン"
-      ]
-    },
-    {
-      "id": "07136",
-      "dexNo": 785,
-      "pokemonName": "カプ・コケコ",
-      "games": [
-        "sun",
-        "moon"
       ],
-      "eventName": "Melemele Island Tapu Koko",
-      "distributionMethod": "シリアルコード",
-      "startDate": "2017-04-28",
-      "endDate": "2017-06-30",
-      "level": 60,
-      "nature": "おくびょう",
-      "ability": "エレキメイカー",
-      "ball": "プレシャスボール",
-      "metLocation": "すてきなばしょ",
-      "heldItem": "エレキシード",
-      "shiny": "fixed",
-      "ot": {
-        "JPN": "Melemele"
-      },
-      "trainerId": "170428",
-      "moves": [
-        "Nature's Madness",
-        "ほうでん",
-        "こうそくいどう",
-        "エレキボール"
-      ],
-      "ribbons": [
-        "クラシックリボン"
-      ]
+      "notes": "重複エントリ 07136（Melemele Island Tapu Koko）を統合（2026-08-06）。"
     },
     {
       "id": "07100",

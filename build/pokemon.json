@@ -16236,36 +16236,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
-    "shiny": "あり",
-    "ivs": "ランダム"
-  },
-  {
-    "managementId": "07136",
-    "pokemonName": "カプ・コケコ",
-    "dexNo": 785,
-    "generation": 7,
-    "game": "サン, ムーン",
-    "eventName": "Melemele Island Tapu Koko",
-    "distributionMethod": "シリアルコード",
-    "startDate": "2017-04-28",
-    "endDate": "2017-06-30",
-    "ot": "Melemele",
-    "trainerId": "170428",
-    "metLocation": "すてきなばしょ",
-    "ball": "プレシャスボール",
-    "level": 60,
-    "ability": "エレキメイカー",
-    "nature": "おくびょう",
-    "heldItem": "エレキシード",
-    "moves": [
-      "Nature's Madness",
-      "ほうでん",
-      "こうそくいどう",
-      "エレキボール"
-    ],
-    "ribbons": [
-      "クラシックリボン"
-    ],
+    "notes": "重複エントリ 07136（Melemele Island Tapu Koko）を統合（2026-08-06）。",
     "shiny": "あり",
     "ivs": "ランダム"
   },
@@ -21146,7 +21117,7 @@
     "ribbons": [
       "バースデーリボン"
     ],
-    "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。おいわいは特別な技。同一個体がNFCよみとりでも配布された（id: 09115）。",
+    "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。おいわいは特別な技。同一個体がNFCよみとりでも配布された（id: 09115）。 重複エントリ 09115（ポケモンセンターわくわくおたんじょうび2025-2026　「パピモッチ」）を統合（2026-08-06）。",
     "postUrl": "https://www.pokebros.net/gen9-birthday-fidough/",
     "region": "日本,シンガポール",
     "teraType": "フェアリー",
@@ -22330,7 +22301,7 @@
     "ribbons": [
       "バースデーリボン"
     ],
-    "notes": "進化先はランダム。おいわいは特別な技。同一個体がNFCよみとりでも配布された（id: 09114）。",
+    "notes": "進化先はランダム。おいわいは特別な技。同一個体がNFCよみとりでも配布された（id: 09114）。 重複エントリ 09114（ポケモンセンターわくわくおたんじょうび）を統合（2026-08-06）。",
     "postUrl": "https://www.pokebros.net/gen9-birthday-Tandemaus/",
     "region": "日本,シンガポール",
     "teraType": "ノーマル",
@@ -24687,87 +24658,6 @@
       "spd": 20,
       "spe": 31
     }
-  },
-  {
-    "managementId": "09114",
-    "pokemonName": "ワッカネズミ",
-    "dexNo": 924,
-    "generation": 9,
-    "game": "スカーレット, バイオレット",
-    "eventName": "ポケモンセンターわくわくおたんじょうび",
-    "distributionMethod": "NFCよみとり",
-    "startDate": "2024-11-01",
-    "endDate": "2025-10-31",
-    "ot": {
-      "JPN": "ポケセン",
-      "ENG": "PokéCenter",
-      "SPA": "ポケセン",
-      "FRE": "ポケセン",
-      "GER": "ポケセン",
-      "ITA": "ポケセン",
-      "KOR": "ポケセン",
-      "CHS": "ポケセン",
-      "CHT": "寶可夢中心"
-    },
-    "trainerId": "241101",
-    "metLocation": "ポケモンセンター",
-    "ball": "プレシャスボール",
-    "level": 5,
-    "ability": "マイペース",
-    "nature": "ランダム",
-    "moves": [
-      "おいわい",
-      "テラバースト",
-      "つぶらなひとみ",
-      "エコーボイス"
-    ],
-    "ribbons": [
-      "バースデーリボン"
-    ],
-    "notes": "同一個体がシリアルコード配信でも配布された（id: 09073）。",
-    "teraType": "ノーマル",
-    "ivs": "ランダム"
-  },
-  {
-    "managementId": "09115",
-    "pokemonName": "パピモッチ",
-    "dexNo": 926,
-    "generation": 9,
-    "game": "スカーレット, バイオレット",
-    "eventName": "ポケモンセンターわくわくおたんじょうび2025-2026　「パピモッチ」",
-    "distributionMethod": "NFCよみとり",
-    "startDate": "2025-11-01",
-    "endDate": "2026-10-31",
-    "ot": {
-      "JPN": "ポケセン",
-      "ENG": "PokéCenter",
-      "SPA": "ポケセン",
-      "FRE": "ポケセン",
-      "GER": "ポケセン",
-      "ITA": "ポケセン",
-      "KOR": "ポケセン",
-      "CHS": "ポケセン",
-      "CHT": "寶可夢中心"
-    },
-    "trainerId": "251101",
-    "metLocation": "ポケモンセンター",
-    "ball": "プレシャスボール",
-    "level": 5,
-    "gender": "ランダム",
-    "ability": "マイペース",
-    "nature": "ランダム",
-    "moves": [
-      "おいわい",
-      "つぶらなひとみ",
-      "じゃれつく",
-      "あまえる"
-    ],
-    "ribbons": [
-      "バースデーリボン"
-    ],
-    "notes": "同一個体がシリアルコード配信でも配布された（id: 09098）。",
-    "teraType": "フェアリー",
-    "ivs": "ランダム"
   },
   {
     "managementId": "CH01",

@@ -426,8 +426,7 @@
           "formName": "アローラライチュウ（専用Zワザ）",
           "debutGame": "SM",
           "formTypes": [
-            "でんき",
-            "エスパー"
+            "でんき"
           ],
           "formAbility": "",
           "requiredItem": "",
@@ -4862,7 +4861,6 @@
           "formName": "ネクロズマ（たそがれのたてがみ）（専用Zワザ）",
           "debutGame": "USUM",
           "formTypes": [
-            "エスパー",
             "はがね"
           ],
           "formAbility": "",
@@ -4878,7 +4876,6 @@
           "formName": "ネクロズマ（あかつきのつばさ）（専用Zワザ）",
           "debutGame": "USUM",
           "formTypes": [
-            "エスパー",
             "ゴースト"
           ],
           "formAbility": "",

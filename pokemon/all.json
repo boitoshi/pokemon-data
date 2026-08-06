@@ -647,8 +647,7 @@
         "form_name_ja": "アローラライチュウ（専用Zワザ）",
         "form_name_en": "",
         "types": [
-          "でんき",
-          "エスパー"
+          "でんき"
         ],
         "category": "zmove",
         "ability": "",
@@ -12608,7 +12607,6 @@
         "form_name_ja": "ネクロズマ（たそがれのたてがみ）（専用Zワザ）",
         "form_name_en": "",
         "types": [
-          "エスパー",
           "はがね"
         ],
         "category": "zmove",
@@ -12626,7 +12624,6 @@
         "form_name_ja": "ネクロズマ（あかつきのつばさ）（専用Zワザ）",
         "form_name_en": "",
         "types": [
-          "エスパー",
           "ゴースト"
         ],
         "category": "zmove",

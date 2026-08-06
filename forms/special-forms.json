@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04",
+  "lastUpdated": "2026-08-06",
   "pokemon": [
     {
       "dexNo": 3,
@@ -335,6 +335,22 @@
           ],
           "zCrystalName": "ピカチュウZ",
           "zMoveName": "ひっさつのピカチュート"
+        },
+        {
+          "category": "zmove",
+          "formName": "サトシのピカチュウ（専用Zワザ）",
+          "debutGame": "SM",
+          "formTypes": [
+            "でんき"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "SM",
+            "USUM"
+          ],
+          "zCrystalName": "サトピカZ",
+          "zMoveName": "1000まんボルト"
         },
         {
           "category": "gigantamax",
@@ -4841,6 +4857,38 @@
         "プリズムアーマー"
       ],
       "forms": [
+        {
+          "category": "zmove",
+          "formName": "ネクロズマ（たそがれのたてがみ）（専用Zワザ）",
+          "debutGame": "USUM",
+          "formTypes": [
+            "エスパー",
+            "はがね"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "USUM"
+          ],
+          "zCrystalName": "ソルガレオZ",
+          "zMoveName": "サンシャインスマッシャー"
+        },
+        {
+          "category": "zmove",
+          "formName": "ネクロズマ（あかつきのつばさ）（専用Zワザ）",
+          "debutGame": "USUM",
+          "formTypes": [
+            "エスパー",
+            "ゴースト"
+          ],
+          "formAbility": "",
+          "requiredItem": "",
+          "availableIn": [
+            "USUM"
+          ],
+          "zCrystalName": "ルナアーラZ",
+          "zMoveName": "ムーンライトブラスター"
+        },
         {
           "category": "zmove",
           "formName": "ウルトラネクロズマ（専用Zワザ）",

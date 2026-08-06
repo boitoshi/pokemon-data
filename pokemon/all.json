@@ -550,6 +550,24 @@
         "z_move": "ひっさつのピカチュート"
       },
       {
+        "form_id": "zmove",
+        "form_name_ja": "サトシのピカチュウ（専用Zワザ）",
+        "form_name_en": "",
+        "types": [
+          "でんき"
+        ],
+        "category": "zmove",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "SM",
+          "USUM"
+        ],
+        "debut_game": "SM",
+        "z_crystal": "サトピカZ",
+        "z_move": "1000まんボルト"
+      },
+      {
         "form_id": "gmax",
         "form_name_ja": "キョダイマックスピカチュウ",
         "form_name_en": "",
@@ -12585,6 +12603,42 @@
       "エスパー"
     ],
     "forms": [
+      {
+        "form_id": "zmove",
+        "form_name_ja": "ネクロズマ（たそがれのたてがみ）（専用Zワザ）",
+        "form_name_en": "",
+        "types": [
+          "エスパー",
+          "はがね"
+        ],
+        "category": "zmove",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "USUM"
+        ],
+        "debut_game": "USUM",
+        "z_crystal": "ソルガレオZ",
+        "z_move": "サンシャインスマッシャー"
+      },
+      {
+        "form_id": "zmove",
+        "form_name_ja": "ネクロズマ（あかつきのつばさ）（専用Zワザ）",
+        "form_name_en": "",
+        "types": [
+          "エスパー",
+          "ゴースト"
+        ],
+        "category": "zmove",
+        "ability": "",
+        "required_item": "",
+        "available_in": [
+          "USUM"
+        ],
+        "debut_game": "USUM",
+        "z_crystal": "ルナアーラZ",
+        "z_move": "ムーンライトブラスター"
+      },
       {
         "form_id": "zmove",
         "form_name_ja": "ウルトラネクロズマ（専用Zワザ）",

@@ -2881,7 +2881,8 @@
           "formName": "ジグザグマ",
           "debutGame": "SwSh",
           "formTypes": [
-            "あく"
+            "あく",
+            "ノーマル"
           ],
           "formAbilities": [
             "ものひろい",
@@ -2914,7 +2915,8 @@
           "formName": "マッスグマ",
           "debutGame": "SwSh",
           "formTypes": [
-            "あく"
+            "あく",
+            "ノーマル"
           ],
           "formAbilities": [
             "ものひろい",
@@ -4120,7 +4122,7 @@
         {
           "category": "mega",
           "formName": "メガペンドラー",
-          "debutGame": "M-dimension",
+          "debutGame": "ZA",
           "formTypes": [
             "むし",
             "どく"
@@ -4131,6 +4133,7 @@
           "formHiddenAbility": "",
           "requiredItem": "ペンドラナイト",
           "availableIn": [
+            "ZA",
             "M-dimension"
           ]
         }

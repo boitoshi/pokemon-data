@@ -1,6 +1,7 @@
 {
   "$schema": "tera-raids-v1",
   "checkedUntil": "2026-09-04",
+  "checkedAt": "2026-08-09",
   "raids": [
     {
       "id": "sv-2026-08-glimmora",

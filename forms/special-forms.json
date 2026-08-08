@@ -2731,7 +2731,7 @@
         "あく"
       ],
       "originalAbilities": [
-        "すなあらし"
+        "すなおこし"
       ],
       "originalHiddenAbility": "きんちょうかん",
       "forms": [
@@ -2744,7 +2744,7 @@
             "あく"
           ],
           "formAbilities": [
-            "すなあらし"
+            "すなおこし"
           ],
           "formHiddenAbility": "",
           "requiredItem": "バンギラスナイト",
@@ -3168,7 +3168,7 @@
             "あく"
           ],
           "formAbilities": [
-            "がんじょあご"
+            "がんじょうあご"
           ],
           "formHiddenAbility": "",
           "requiredItem": "サメハダナイト",
@@ -3617,7 +3617,7 @@
         "ひこう"
       ],
       "originalAbilities": [
-        "エアーロック"
+        "エアロック"
       ],
       "originalHiddenAbility": "",
       "forms": [
@@ -3668,7 +3668,7 @@
             "あまのじゃく"
           ],
           "formHiddenAbility": "",
-          "requiredItem": "M次元",
+          "requiredItem": "ムクホークナイト",
           "availableIn": [
             "M-dimension"
           ]
@@ -4437,8 +4437,7 @@
       ],
       "originalAbilities": [
         "もらいび",
-        "ほのおのからだ",
-        "すりぬ"
+        "ほのおのからだ"
       ],
       "originalHiddenAbility": "すりぬけ",
       "forms": [
@@ -4845,7 +4844,7 @@
         "みず"
       ],
       "originalAbilities": [
-        "かたいつめ",
+        "かたいツメ",
         "スナイパー"
       ],
       "originalHiddenAbility": "わるいてぐせ",
@@ -4878,7 +4877,7 @@
         "ドラゴン"
       ],
       "originalAbilities": [
-        "どくのとげ",
+        "どくのトゲ",
         "どくしゅ"
       ],
       "originalHiddenAbility": "てきおうりょく",
@@ -5375,8 +5374,7 @@
       ],
       "originalAbilities": [
         "ぎゃくじょう",
-        "そうしょく",
-        "のうてんき"
+        "そうしょく"
       ],
       "originalHiddenAbility": "ノーてんき",
       "forms": [

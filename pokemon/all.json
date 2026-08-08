@@ -4804,7 +4804,7 @@
         ],
         "category": "mega",
         "abilities": [
-          "すなあらし"
+          "すなおこし"
         ],
         "hidden_ability": "",
         "required_item": "バンギラスナイト",
@@ -5920,7 +5920,7 @@
         ],
         "category": "mega",
         "abilities": [
-          "がんじょあご"
+          "がんじょうあご"
         ],
         "hidden_ability": "",
         "required_item": "サメハダナイト",
@@ -7191,7 +7191,7 @@
           "あまのじゃく"
         ],
         "hidden_ability": "",
-        "required_item": "M次元",
+        "required_item": "ムクホークナイト",
         "available_in": [
           "M-dimension"
         ],

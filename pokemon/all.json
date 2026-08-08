@@ -7788,6 +7788,22 @@
           "M-dimension"
         ],
         "debut_game": "XY"
+      },
+      {
+        "form_id": "mega-z",
+        "form_name_ja": "メガガブリアスZ",
+        "form_name_en": "",
+        "types": [
+          "ドラゴン"
+        ],
+        "category": "mega",
+        "abilities": [],
+        "hidden_ability": "",
+        "required_item": "ガブリアスナイトZ",
+        "available_in": [
+          "M-dimension"
+        ],
+        "debut_game": "M-dimension"
       }
     ]
   },

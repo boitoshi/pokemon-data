@@ -4765,7 +4765,8 @@
           "formHiddenAbility": "",
           "requiredItem": "フラエッテナイト",
           "availableIn": [
-            "ZA"
+            "ZA",
+            "M-dimension"
           ]
         }
       ]
@@ -6315,7 +6316,8 @@
           "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
-            "ZA"
+            "ZA",
+            "M-dimension"
           ]
         }
       ]

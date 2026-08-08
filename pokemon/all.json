@@ -8469,6 +8469,24 @@
     "is_mythical": true,
     "types": [
       "あく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガダークライ",
+        "form_name_en": "",
+        "types": [
+          "あく"
+        ],
+        "category": "mega",
+        "abilities": [],
+        "hidden_ability": "",
+        "required_item": "ダークライナイト",
+        "available_in": [
+          "M-dimension"
+        ],
+        "debut_game": "M-dimension"
+      }
     ]
   },
   "492": {
@@ -15642,6 +15660,27 @@
     "types": [
       "いわ",
       "どく"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガキラフロル",
+        "form_name_en": "",
+        "types": [
+          "いわ",
+          "どく"
+        ],
+        "category": "mega",
+        "abilities": [
+          "てきおうりょく"
+        ],
+        "hidden_ability": "",
+        "required_item": "キラフロルナイト",
+        "available_in": [
+          "M-dimension"
+        ],
+        "debut_game": "M-dimension"
+      }
     ]
   },
   "971": {
@@ -15733,6 +15772,25 @@
     "types": [
       "ドラゴン",
       "みず"
+    ],
+    "forms": [
+      {
+        "form_id": "mega",
+        "form_name_ja": "メガシャリタツ",
+        "form_name_en": "",
+        "types": [
+          "ドラゴン",
+          "みず"
+        ],
+        "category": "mega",
+        "abilities": [],
+        "hidden_ability": "",
+        "required_item": "シャリタツナイト",
+        "available_in": [
+          "M-dimension"
+        ],
+        "debut_game": "M-dimension"
+      }
     ]
   },
   "979": {

@@ -3946,6 +3946,33 @@
       ]
     },
     {
+      "dexNo": 491,
+      "pokemonName": "ダークライ",
+      "originalTypes": [
+        "あく"
+      ],
+      "originalAbilities": [
+        "ナイトメア"
+      ],
+      "originalHiddenAbility": "",
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガダークライ",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "あく"
+          ],
+          "formAbilities": [],
+          "formHiddenAbility": "",
+          "requiredItem": "ダークライナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
       "dexNo": 500,
       "pokemonName": "エンブオー",
       "originalTypes": [
@@ -6424,6 +6451,66 @@
           ],
           "formHiddenAbility": "",
           "requiredItem": "スコヴィランナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 970,
+      "pokemonName": "キラフロル",
+      "originalTypes": [
+        "いわ",
+        "どく"
+      ],
+      "originalAbilities": [
+        "どくげしょう"
+      ],
+      "originalHiddenAbility": "ふしょく",
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガキラフロル",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "いわ",
+            "どく"
+          ],
+          "formAbilities": [
+            "てきおうりょく"
+          ],
+          "formHiddenAbility": "",
+          "requiredItem": "キラフロルナイト",
+          "availableIn": [
+            "M-dimension"
+          ]
+        }
+      ]
+    },
+    {
+      "dexNo": 978,
+      "pokemonName": "シャリタツ",
+      "originalTypes": [
+        "ドラゴン",
+        "みず"
+      ],
+      "originalAbilities": [
+        "しれいとう"
+      ],
+      "originalHiddenAbility": "よびみず",
+      "forms": [
+        {
+          "category": "mega",
+          "formName": "メガシャリタツ",
+          "debutGame": "M-dimension",
+          "formTypes": [
+            "ドラゴン",
+            "みず"
+          ],
+          "formAbilities": [],
+          "formHiddenAbility": "",
+          "requiredItem": "シャリタツナイト",
           "availableIn": [
             "M-dimension"
           ]

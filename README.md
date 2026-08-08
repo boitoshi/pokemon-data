@@ -11,3 +11,4 @@
 - `ribbons/catalog.json` — リボン・あかし完全カタログ（取得ルート付き）の正本
 - `distributions/*.json` — 配信ポケモンデータの正本（L2）
 - `build/pokemon.json` — 上記を join した成果物（L3・コミット方式）
+- `poco-a-pokemon/events.json` / `raids/tera-raids.json` — イベント期限表（手書き）。更新時は `checkedUntil` も進める

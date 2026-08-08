@@ -3489,7 +3489,7 @@
         {
           "category": "mega",
           "formName": "メガラティアス",
-          "debutGame": "XY",
+          "debutGame": "ORAS",
           "formTypes": [
             "ドラゴン",
             "エスパー"
@@ -3525,7 +3525,7 @@
         {
           "category": "mega",
           "formName": "メガラティオス",
-          "debutGame": "XY",
+          "debutGame": "ORAS",
           "formTypes": [
             "ドラゴン",
             "エスパー"
@@ -3703,7 +3703,6 @@
           "formHiddenAbility": "",
           "requiredItem": "ミミロップナイト",
           "availableIn": [
-            "XY",
             "ORAS",
             "SM",
             "USUM",

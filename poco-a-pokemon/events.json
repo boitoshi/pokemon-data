@@ -1,6 +1,6 @@
 {
   "$schema": "poco-a-pokemon-events-v1",
-  "checkedUntil": "2026-04-09",
+  "checkedUntil": "2026-08-28",
   "events": [
     {
       "id": "2026-03-hoppip-watage",
@@ -44,14 +44,14 @@
         { "name": "タンポポとお昼ご飯", "pokemon": ["ワタッコ"] }
       ],
       "notes": "ゆめしまでわたげを集め、ポケセンのハネッコに渡すとイベント生息地が復活。全アイテム交換には合計75個必要。",
-      "postUrl": ""
+      "postUrl": "https://www.pokebros.net/pocopoke-event-list/#hoppip2026"
     },
     {
       "id": "2026-04-april-fool-manekko",
       "eventName": "今日だけのクイズに正解しよう（マネっこチャレンジ）",
       "eventType": "special-challenge",
       "startDate": "2026-04-01",
-      "endDate": "2026-04-01",
+      "endDate": "2026-04-02",
       "startTime": "05:00",
       "endTime": "04:59",
       "participationCondition": "",
@@ -66,7 +66,148 @@
       "eventPokemon": [],
       "eventHabitats": [],
       "notes": "エイプリルフール限定24時間イベント。ポケモンがほかのポケモンの話し方をマネしてクイズを出題。スペシャルチャレンジ形式（ゆめしまイベントとは異なる）。",
-      "postUrl": ""
+      "postUrl": "https://www.pokebros.net/pocopoke-event-list/#aprilfool2026"
+    },
+    {
+      "id": "2026-04-oonawatobi",
+      "eventName": "おおなわとび大会",
+      "eventType": "tournament",
+      "startDate": "2026-04-19",
+      "endDate": "2026-04-27",
+      "startTime": "05:00",
+      "endTime": "04:59",
+      "participationCondition": "大事なお願いごと「あくびで雨をふらせよう」クリア後（発生しない場合はフシギダネのおねがいごとも進める）",
+      "specialItem": null,
+      "exchangeNpc": null,
+      "exchangeItems": [],
+      "exchangeTotalNeeded": 0,
+      "hostPokemon": { "pokemon": "フシギダネ", "dexNo": 1, "location": "ポケモンセンター付近" },
+      "rewardItems": [],
+      "recordRewards": [
+        { "record": 5, "name": "ヒメリのみ", "count": 3 },
+        { "record": 10, "name": "あまいミツ", "count": 3 },
+        { "record": 11, "name": "ほしのかけら", "count": 1 },
+        { "record": 21, "name": "おおきなおとしもの", "count": 3 },
+        { "record": 31, "name": "にじいろのはね", "count": 3 },
+        { "record": 41, "name": "ぎんいろのはね", "count": 3 },
+        { "record": 51, "name": "おおなわとびトロフィー", "count": 1 },
+        { "record": 76, "name": "ポケメタル", "count": 30 },
+        { "record": 101, "name": "レアポケメタル", "count": 10 },
+        { "record": 111, "name": "レアポケメタル", "count": 10 },
+        { "record": 121, "name": "レアポケメタル", "count": 10 },
+        { "record": 131, "name": "レアポケメタル", "count": 10 },
+        { "record": 141, "name": "レアポケメタル", "count": 10 }
+      ],
+      "rewardCondition": "最高記録の更新で段階報酬。51回以上でトロフィー、141回以上で全報酬コンプ",
+      "eventPokemon": [],
+      "eventHabitats": [],
+      "notes": "フシギダネが回す縄にタイミングよくジャンプするミニゲーム大会。「！」で加速・「汗」で減速し、タイミングは完全固定（減速は49/64/75/92/110/126/136回）。マルチプレイでは他プレイヤーの街はホストのみ、クラウド島は最高記録を出した本人のみに報酬。",
+      "postUrl": "https://www.pokebros.net/pocopoke-event-list/#oonawatobi2026"
+    },
+    {
+      "id": "2026-04-sableye-jewel",
+      "eventName": "ヤミラミの宝石あつめ",
+      "eventType": "dream-island",
+      "startDate": "2026-04-29",
+      "endDate": "2026-05-14",
+      "startTime": "05:00",
+      "endTime": "04:59",
+      "participationCondition": "ポケモンセンターを建て直した街（クラウド島では開催されない）",
+      "specialItem": {
+        "name": "あかいクリスタルのカケラ",
+        "source": "ゆめしま"
+      },
+      "exchangeNpc": null,
+      "exchangeItems": [
+        { "give": "あかいクリスタルのカケラ", "giveCount": 2, "receive": "オイルランタン", "receiveCount": 1 },
+        { "give": "あかいクリスタルのカケラ", "giveCount": 2, "receive": "ほうせきのカベかざり", "receiveCount": 1 },
+        { "give": "あかいクリスタルのカケラ", "giveCount": 5, "receive": "デジタルカメラ", "receiveCount": 1 },
+        { "give": "あかいクリスタルのカケラ", "giveCount": 5, "receive": "ちずとコンパス", "receiveCount": 1 },
+        { "give": "あかいクリスタルのカケラ", "giveCount": 5, "receive": "ざいほう", "receiveCount": 1 },
+        { "give": "あかいクリスタルのカケラ", "giveCount": 5, "receive": "キャンプイス", "receiveCount": 1 },
+        { "give": "あかいクリスタルのカケラ", "giveCount": 10, "receive": "キャンプなべ", "receiveCount": 1 },
+        { "give": "あかいクリスタルのカケラ", "giveCount": 10, "receive": "ぼうけんセット", "receiveCount": 1 },
+        { "give": "あかいクリスタルのカケラ", "giveCount": 10, "receive": "テントキット", "receiveCount": 1 },
+        { "give": "あかいクリスタルのカケラ", "giveCount": 10, "receive": "ねぶくろ", "receiveCount": 1 }
+      ],
+      "exchangeTotalNeeded": 64,
+      "eventPokemon": [
+        { "name": "ヤミラミ", "dexNo": 302, "rarity": "" }
+      ],
+      "eventHabitats": [
+        { "name": "宝さがしセット", "pokemon": ["ヤミラミ"] }
+      ],
+      "notes": "ゆめしまであかいクリスタルのカケラを集めて交換。ヤミラミはイベント開催と同時に現れるため、生息地を作って出現させる必要はない。全アイテム交換には合計64個必要。",
+      "postUrl": "https://www.pokebros.net/pocopoke-event-list/#yamirami2026"
+    },
+    {
+      "id": "2026-06-jirachi-tanzaku",
+      "eventName": "ジラーチのキラキラたんざくあつめ",
+      "eventType": "craft-collection",
+      "startDate": "2026-06-23",
+      "endDate": "2026-07-08",
+      "startTime": "05:00",
+      "endTime": "04:59",
+      "participationCondition": "ソフト更新Ver.1.1.0 ＋ ポケモンセンターを建て直した街 ＋ インターネット接続（クラウド島では開催されない）",
+      "specialItem": {
+        "name": "キラキラたんざく",
+        "source": "クラフトで「たんざく」を作り、ポケモンの願いごとを叶えると変化"
+      },
+      "exchangeNpc": null,
+      "exchangeItems": [],
+      "exchangeTotalNeeded": 0,
+      "eventPokemon": [
+        { "name": "ジラーチ", "dexNo": 385, "rarity": "" }
+      ],
+      "eventHabitats": [],
+      "notes": "ポケセン付近のジラーチに話しかけてともだちになり「たんざく」のレシピを入手。クラフトだいで作った「たんざく」でポケモンの願いごとを叶えると「キラキラたんざく」に変化し、星空モチーフの家具と交換できる。ジラーチはイベント終了後も街に残る。交換アイテムの内訳は記事側も未確定。",
+      "postUrl": "https://www.pokebros.net/pocopoke-event-list/#jirachi2026"
+    },
+    {
+      "id": "2026-07-kakureoni",
+      "eventName": "かくれおに大会",
+      "eventType": "tournament",
+      "startDate": "2026-07-19",
+      "endDate": "2026-07-27",
+      "startTime": "05:00",
+      "endTime": "04:59",
+      "participationCondition": "ソフト更新Ver.1.1.1 ＋「ドンヨリうみべの街」のゾロアのおねがいごとをクリアして「かくれおに」を解放 ＋ 本体の日時を現実の日時に合わせる ＋ インターネット接続",
+      "specialItem": null,
+      "exchangeNpc": null,
+      "exchangeItems": [],
+      "exchangeTotalNeeded": 0,
+      "hostPokemon": { "pokemon": "ゾロア", "dexNo": 570, "location": "ポケモンセンター前" },
+      "rewardItems": [],
+      "recordRewards": [],
+      "rewardCondition": "クリアタイムの自己ベスト更新に応じた段階報酬（内訳は公式未公開）",
+      "eventPokemon": [],
+      "eventHabitats": [],
+      "notes": "隠れているポケモンを探してポケセン前のパソコンにタッチするミニゲーム。記録は回数ではなくクリアタイムで、複数人なら最速の記録が採用される。おおなわとび大会と違いクラウド島でも発生する。見学モードでは参加不可、ミニゲーム中は「かっくう」「でんじふゆう」を使えない。",
+      "postUrl": "https://www.pokebros.net/pocopoke-event-list/#kakureoni2026"
+    },
+    {
+      "id": "2026-08-feebas-uroko",
+      "eventName": "ヒンバスのきれいなウロコあつめ",
+      "eventType": "collection",
+      "startDate": "2026-08-13",
+      "endDate": "2026-08-28",
+      "startTime": "05:00",
+      "endTime": "04:59",
+      "participationCondition": "無料アップデートVer.2.0.0 ＋ 街の「大事なおねがいごと」をクリアしてポケモンセンターを建て直す ＋ 本体の日時を現実の日時に合わせる ＋ インターネット接続（Nintendo Switch Onlineへの加入は不要）",
+      "specialItem": {
+        "name": "きれいなウロコ",
+        "source": ""
+      },
+      "exchangeNpc": null,
+      "exchangeItems": [],
+      "exchangeTotalNeeded": 0,
+      "eventPokemon": [
+        { "name": "ヒンバス", "dexNo": 349, "rarity": "" },
+        { "name": "ミロカロス", "dexNo": 350, "rarity": "" }
+      ],
+      "eventHabitats": [],
+      "notes": "うきわ・ビーチボールなど夏をテーマにした家具等と交換（内訳は記事側も未確定）。ヒンバスはイベント開始時から、ミロカロスはイベントを進めると出現。「ブクブクうみぞこの街」とクラウド島では発生しない。開催期間はゲーム内時間で判定されるため、本体の日時を手動で変えているとズレることがある。",
+      "postUrl": "https://www.pokebros.net/pocopoke-event-list/#feebas2026"
     }
   ]
 }

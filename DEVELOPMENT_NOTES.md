@@ -42,7 +42,9 @@ pokemon-data/
 ├── schemas/
 │   └── data-contracts.json   # データ契約定義
 ├── poco-a-pokemon/
-│   └── events.json           # 「ぽこ あ ポケモン」イベントデータ
+│   └── events.json           # 「ぽこ あ ポケモン」イベントデータ（期限表・手書き）
+├── raids/
+│   └── tera-raids.json       # SV のテラレイド（最強レイド等）の期限表・手書き
 └── scripts/
     ├── fetch-pokemon.py            # PokeAPIからマスターデータ取得
     ├── fetch-forms.py              # special-forms.jsonからフォームデータ取得
@@ -211,6 +213,60 @@ L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・�
 
 `scripts/migrate-gen5-7.mjs` / `migrate-from-app.mjs` / `migrate-champions.mjs`。
 `build-distributions.mjs` はこの3本の逆写像で、`test-build-compat.mjs` の allowlist は各 FIX_MAP を共有する。
+
+---
+
+## 期限表（イベント期限データ・2026-08-08）
+
+「開催期間があるイベント」を手書きで持つ表。現在2本。
+
+| ファイル | 中身 | 配列キー |
+|---|---|---|
+| `poco-a-pokemon/events.json` | ぽこ あ ポケモンのイベント（ゆめしま・期間限定チャレンジ等） | `events` |
+| `raids/tera-raids.json` | SV のテラレイド（最強レイド・イベントレイド） | `raids` |
+
+`distributions/*.json` とは別物。あちらは**ふしぎなおくりもの由来の配信**で、
+個体（ivs / moves / ot / ball）を持つ。レイドは自分で捕まえるのでトレーナー情報が無く、
+スキーマを共有できない。混ぜないこと。
+
+### 共通ルール: `checkedUntil` を必ず持つ
+
+```json
+{
+  "$schema": "tera-raids-v1",
+  "checkedUntil": "2026-09-30",
+  "raids": []
+}
+```
+
+`checkedUntil` は「**この日まで予定を確認済み**」を表す。イベント0件が正常な状態でありうるため、
+これが無いと「予定が無い」と「誰も更新していない」が区別できない。`null` は未確認（初回記入待ち）。
+
+morning-status がこの値を読み、`checkedUntil` が過去日または `null` なら morning brief の
+`needs_attention` に「表が期限切れ」として上げる（`reason=event_table_expired`）。
+表を更新したら `checkedUntil` も必ず先へ進めること。**進めないと毎朝鳴り続ける。**
+
+### エントリのフィールド（`raids/tera-raids.json`）
+
+必須は `id` / `eventName` / `startDate` / `endDate` の4つだけ。残りは分かる範囲で埋める。
+
+| フィールド | 例 | 備考 |
+|---|---|---|
+| `id` | `"sv-2026-08-mewtwo"` | `<ソフト>-<年月>-<英名>`。重複しなければ形式は自由 |
+| `raidType` | `"mightiest"` / `"event"` | 最強レイドか、通常のイベントレイドか |
+| `eventName` | `"最強のミュウツー"` | 表示名 |
+| `pokemonName` | `"ミュウツー"` | 日本語名（`mappings/pokemon_names.json` に合わせる） |
+| `dexNo` | `150` | |
+| `games` | `["scarlet", "violet"]` | `games/titles.json` のキー |
+| `teraType` | `"かくとう"` | |
+| `startDate` / `endDate` | `"2026-08-15"` | ISO日付。開催が分割されるなら期間ごとに1エントリ |
+| `reward` | `"さいきょうのあかし"` | |
+| `sourceUrl` | 公式告知URL | 出典。**推測で書かない** |
+
+### 更新の入口
+
+自動収集は無い（意図的）。年数件のイベントに対してスクレイパーを持つと、イベントより先に
+スクレイパーが壊れるため。morning brief の `event_table_expired` 警告が更新の入口になる。
 
 ---
 

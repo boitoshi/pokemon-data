@@ -1,5 +1,6 @@
 {
   "$schema": "poco-a-pokemon-events-v1",
+  "checkedUntil": "2026-04-09",
   "events": [
     {
       "id": "2026-03-hoppip-watage",

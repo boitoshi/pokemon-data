@@ -225,9 +225,15 @@ L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・�
 | `poco-a-pokemon/events.json` | ぽこ あ ポケモンのイベント（ゆめしま・期間限定チャレンジ等） | `events` |
 | `raids/tera-raids.json` | SV のテラレイド（最強レイド・イベントレイド） | `raids` |
 
-`distributions/*.json` とは別物。あちらは**ふしぎなおくりもの由来の配信**で、
-個体（ivs / moves / ot / ball）を持つ。レイドは自分で捕まえるのでトレーナー情報が無く、
-スキーマを共有できない。混ぜないこと。
+`distributions/*.json` とは別物。あちらは**配信個体のカタログ**で、1エントリが公開URL
+`/pokemon/{id}` を持ち、`build/pokemon.json` 経由で distribution-app と summary-pages に出る。
+期限表が持つのは**開催枠**で、捕れる個体は固定されない（毎回 IV も性格も違い、固定なのは
+テラタイプ・レベル・あかしだけ）。カタログに載せる「その個体」が無いので混ぜない。
+
+⚠ レイドで捕る個体が `distributions/` に入っている例はある（`08006` セキタンザン /
+`08007` ラプラス＝次世代ワールドホビーフェア '20 Winter のマックスレイド、`otFromPlayer: true`）。
+あれは**現地イベントで配られた特定個体**として成立しているので正しい。境目は
+「レイドかどうか」ではなく「**カタログに載る個体があるかどうか**」。
 
 ### 共通ルール: `checkedUntil` を必ず持つ
 
@@ -249,19 +255,20 @@ morning-status がこの値を読み、`checkedUntil` が過去日または `nul
 ### エントリのフィールド（`raids/tera-raids.json`）
 
 必須は `id` / `eventName` / `startDate` / `endDate` の4つだけ。残りは分かる範囲で埋める。
+morning-status が brief に出すのは**太字の7つ**だけで、残りは記事を書くときの手控え。
 
 | フィールド | 例 | 備考 |
 |---|---|---|
-| `id` | `"sv-2026-08-mewtwo"` | `<ソフト>-<年月>-<英名>`。重複しなければ形式は自由 |
-| `raidType` | `"mightiest"` / `"event"` | 最強レイドか、通常のイベントレイドか |
-| `eventName` | `"最強のミュウツー"` | 表示名 |
-| `pokemonName` | `"ミュウツー"` | 日本語名（`mappings/pokemon_names.json` に合わせる） |
+| **`id`** | `"sv-2026-08-mewtwo"` | `<ソフト>-<年月>-<英名>`。重複しなければ形式は自由 |
+| **`raidType`** | `"mightiest"` / `"event"` | 最強レイドか、通常のイベントレイドか |
+| **`eventName`** | `"最強のミュウツー"` | 表示名 |
+| **`pokemonName`** | `"ミュウツー"` | 日本語名（`mappings/pokemon_names.json` に合わせる） |
 | `dexNo` | `150` | |
 | `games` | `["scarlet", "violet"]` | `games/titles.json` のキー |
 | `teraType` | `"かくとう"` | |
-| `startDate` / `endDate` | `"2026-08-15"` | ISO日付。開催が分割されるなら期間ごとに1エントリ |
+| **`startDate`** / **`endDate`** | `"2026-08-15"` | ISO日付。開催が分割されるなら期間ごとに1エントリ |
 | `reward` | `"さいきょうのあかし"` | |
-| `sourceUrl` | 公式告知URL | 出典。**推測で書かない** |
+| **`sourceUrl`** | 公式告知URL | 出典。**推測で書かない** |
 
 ### 更新の入口
 

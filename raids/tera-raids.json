@@ -3,12 +3,558 @@
   "checkedUntil": "2026-09-04",
   "raids": [
     {
+      "id": "sv-2025-12-walking-wake",
+      "raidType": "event",
+      "eventName": "ウネルミナモ再登場",
+      "pokemonName": "ウネルミナモ",
+      "dexNo": 1009,
+      "games": [
+        "scarlet"
+      ],
+      "teraType": "みず",
+      "startDate": "2025-12-19",
+      "endDate": "2026-01-05",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "notes": "★5の通常結晶。『スカーレット』のみ出現（『バイオレット』はテツノイサハ）。通常のプレイでは出会えない。1セーブデータにつき1匹。過去のイベントで捕獲済みなら再捕獲不可。",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/402.html"
+    },
+    {
+      "id": "sv-2025-12-iron-leaves",
+      "raidType": "event",
+      "eventName": "テツノイサハ再登場",
+      "pokemonName": "テツノイサハ",
+      "dexNo": 1010,
+      "games": [
+        "violet"
+      ],
+      "teraType": "エスパー",
+      "startDate": "2025-12-19",
+      "endDate": "2026-01-05",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "notes": "★5の通常結晶。『バイオレット』のみ出現（『スカーレット』はウネルミナモ）。通常のプレイでは出会えない。1セーブデータにつき1匹。過去のイベントで捕獲済みなら再捕獲不可。",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/402.html"
+    },
+    {
+      "id": "sv-2026-01-venusaur",
+      "raidType": "mightiest",
+      "eventName": "最強のフシギバナ",
+      "pokemonName": "フシギバナ",
+      "dexNo": 3,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "じめん",
+      "startDate": "2026-01-09",
+      "endDate": "2026-01-16",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "notes": "「さいきょうのあかし」をもった歴代パートナーポケモンたちの進化した姿が再登場するシリーズの第1回。ここから 07-17 のダイケンキ（ヒスイのすがた）まで、御三家の最終進化が週替わりで1匹ずつ登場した。",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/412.html"
+    },
+    {
+      "id": "sv-2026-01-charizard",
+      "raidType": "mightiest",
+      "eventName": "最強のリザードン",
+      "pokemonName": "リザードン",
+      "dexNo": 6,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "ドラゴン",
+      "startDate": "2026-01-16",
+      "endDate": "2026-01-23",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/414.html"
+    },
+    {
+      "id": "sv-2026-01-blastoise",
+      "raidType": "mightiest",
+      "eventName": "最強のカメックス",
+      "pokemonName": "カメックス",
+      "dexNo": 9,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "はがね",
+      "startDate": "2026-01-23",
+      "endDate": "2026-01-30",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/415.html"
+    },
+    {
+      "id": "sv-2026-01-meganium",
+      "raidType": "mightiest",
+      "eventName": "最強のメガニウム",
+      "pokemonName": "メガニウム",
+      "dexNo": 154,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "エスパー",
+      "startDate": "2026-01-30",
+      "endDate": "2026-02-06",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/416.html"
+    },
+    {
+      "id": "sv-2026-02-typhlosion",
+      "raidType": "mightiest",
+      "eventName": "最強のバクフーン",
+      "pokemonName": "バクフーン",
+      "dexNo": 157,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "ゴースト",
+      "startDate": "2026-02-06",
+      "endDate": "2026-02-13",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/442.html"
+    },
+    {
+      "id": "sv-2026-02-feraligatr",
+      "raidType": "mightiest",
+      "eventName": "最強のオーダイル",
+      "pokemonName": "オーダイル",
+      "dexNo": 160,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "あく",
+      "startDate": "2026-02-13",
+      "endDate": "2026-02-20",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/417.html"
+    },
+    {
+      "id": "sv-2026-02-sceptile",
+      "raidType": "mightiest",
+      "eventName": "最強のジュカイン",
+      "pokemonName": "ジュカイン",
+      "dexNo": 254,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "ドラゴン",
+      "startDate": "2026-02-20",
+      "endDate": "2026-02-27",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/418.html"
+    },
+    {
+      "id": "sv-2026-02-blaziken",
+      "raidType": "mightiest",
+      "eventName": "最強のバシャーモ",
+      "pokemonName": "バシャーモ",
+      "dexNo": 257,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "ひこう",
+      "startDate": "2026-02-27",
+      "endDate": "2026-03-06",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/419.html"
+    },
+    {
+      "id": "sv-2026-03-swampert",
+      "raidType": "mightiest",
+      "eventName": "最強のラグラージ",
+      "pokemonName": "ラグラージ",
+      "dexNo": 260,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "どく",
+      "startDate": "2026-03-06",
+      "endDate": "2026-03-13",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/420.html"
+    },
+    {
+      "id": "sv-2026-03-torterra",
+      "raidType": "mightiest",
+      "eventName": "最強のドダイトス",
+      "pokemonName": "ドダイトス",
+      "dexNo": 389,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "じめん",
+      "startDate": "2026-03-13",
+      "endDate": "2026-03-20",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/421.html"
+    },
+    {
+      "id": "sv-2026-03-infernape",
+      "raidType": "mightiest",
+      "eventName": "最強のゴウカザル",
+      "pokemonName": "ゴウカザル",
+      "dexNo": 392,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "いわ",
+      "startDate": "2026-03-20",
+      "endDate": "2026-03-27",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/422.html"
+    },
+    {
+      "id": "sv-2026-03-empoleon",
+      "raidType": "mightiest",
+      "eventName": "最強のエンペルト",
+      "pokemonName": "エンペルト",
+      "dexNo": 395,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "こおり",
+      "startDate": "2026-03-27",
+      "endDate": "2026-04-03",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/423.html"
+    },
+    {
+      "id": "sv-2026-04-serperior",
+      "raidType": "mightiest",
+      "eventName": "最強のジャローダ",
+      "pokemonName": "ジャローダ",
+      "dexNo": 497,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "くさ",
+      "startDate": "2026-04-03",
+      "endDate": "2026-04-10",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/424.html"
+    },
+    {
+      "id": "sv-2026-04-emboar",
+      "raidType": "mightiest",
+      "eventName": "最強のエンブオー",
+      "pokemonName": "エンブオー",
+      "dexNo": 500,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "でんき",
+      "startDate": "2026-04-10",
+      "endDate": "2026-04-17",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/425.html"
+    },
+    {
+      "id": "sv-2026-04-samurott",
+      "raidType": "mightiest",
+      "eventName": "最強のダイケンキ",
+      "pokemonName": "ダイケンキ",
+      "dexNo": 503,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "むし",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-24",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/426.html"
+    },
+    {
+      "id": "sv-2026-04-chesnaught",
+      "raidType": "mightiest",
+      "eventName": "最強のブリガロン",
+      "pokemonName": "ブリガロン",
+      "dexNo": 652,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "いわ",
+      "startDate": "2026-04-24",
+      "endDate": "2026-05-01",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/427.html"
+    },
+    {
+      "id": "sv-2026-05-delphox",
+      "raidType": "mightiest",
+      "eventName": "最強のマフォクシー",
+      "pokemonName": "マフォクシー",
+      "dexNo": 655,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "フェアリー",
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-08",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/428.html"
+    },
+    {
+      "id": "sv-2026-05-greninja",
+      "raidType": "mightiest",
+      "eventName": "最強のゲッコウガ",
+      "pokemonName": "ゲッコウガ",
+      "dexNo": 658,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "どく",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-15",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/429.html"
+    },
+    {
+      "id": "sv-2026-05-decidueye",
+      "raidType": "mightiest",
+      "eventName": "最強のジュナイパー",
+      "pokemonName": "ジュナイパー",
+      "dexNo": 724,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "ひこう",
+      "startDate": "2026-05-15",
+      "endDate": "2026-05-22",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/430.html"
+    },
+    {
+      "id": "sv-2026-05-incineroar",
+      "raidType": "mightiest",
+      "eventName": "最強のガオガエン",
+      "pokemonName": "ガオガエン",
+      "dexNo": 727,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "あく",
+      "startDate": "2026-05-22",
+      "endDate": "2026-05-29",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/431.html"
+    },
+    {
+      "id": "sv-2026-05-primarina",
+      "raidType": "mightiest",
+      "eventName": "最強のアシレーヌ",
+      "pokemonName": "アシレーヌ",
+      "dexNo": 730,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "フェアリー",
+      "startDate": "2026-05-29",
+      "endDate": "2026-06-05",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/432.html"
+    },
+    {
+      "id": "sv-2026-06-rillaboom",
+      "raidType": "mightiest",
+      "eventName": "最強のゴリランダー",
+      "pokemonName": "ゴリランダー",
+      "dexNo": 812,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "ノーマル",
+      "startDate": "2026-06-05",
+      "endDate": "2026-06-12",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/433.html"
+    },
+    {
+      "id": "sv-2026-06-cinderace",
+      "raidType": "mightiest",
+      "eventName": "最強のエースバーン",
+      "pokemonName": "エースバーン",
+      "dexNo": 815,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "かくとう",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-19",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/434.html"
+    },
+    {
+      "id": "sv-2026-06-inteleon",
+      "raidType": "mightiest",
+      "eventName": "最強のインテレオン",
+      "pokemonName": "インテレオン",
+      "dexNo": 818,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "こおり",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-26",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/435.html"
+    },
+    {
+      "id": "sv-2026-06-decidueye-hisui",
+      "raidType": "mightiest",
+      "eventName": "最強のジュナイパー（ヒスイのすがた）",
+      "pokemonName": "ジュナイパー（ヒスイのすがた）",
+      "dexNo": 724,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "くさ",
+      "startDate": "2026-06-26",
+      "endDate": "2026-07-03",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "notes": "ヒスイのすがたは通常のプレイでは出現しない。",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/436.html"
+    },
+    {
+      "id": "sv-2026-07-typhlosion-hisui",
+      "raidType": "mightiest",
+      "eventName": "最強のバクフーン（ヒスイのすがた）",
+      "pokemonName": "バクフーン（ヒスイのすがた）",
+      "dexNo": 157,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "ほのお",
+      "startDate": "2026-07-03",
+      "endDate": "2026-07-10",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "notes": "ヒスイのすがたは通常のプレイでは出現しない。",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/437.html"
+    },
+    {
+      "id": "sv-2026-07-samurott-hisui",
+      "raidType": "mightiest",
+      "eventName": "最強のダイケンキ（ヒスイのすがた）",
+      "pokemonName": "ダイケンキ（ヒスイのすがた）",
+      "dexNo": 503,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "みず",
+      "startDate": "2026-07-10",
+      "endDate": "2026-07-17",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "notes": "ヒスイのすがたは通常のプレイでは出現しない。シリーズ最終回。",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/438.html"
+    },
+    {
+      "id": "sv-2026-07-magikarp",
+      "raidType": "mightiest",
+      "eventName": "最強のコイキング",
+      "pokemonName": "コイキング",
+      "dexNo": 129,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "ドラゴン",
+      "startDate": "2026-07-17",
+      "endDate": "2026-08-07",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "notes": "「はねる！「さいきょう」？のコイキング！」。★7黒い結晶で3週間の長期開催。同時開催の「みずタイプのポケモンと夏を楽しもう！」ではオージャの湖でヘイラッシャ・シャリタツ3種・ミガルーサ、パルデア地方でコダック・ヤドン、キタカミの里でヒンバス・バスラオ、ブルーベリー学園でラプラスが大量発生し、それぞれ特定のあかし持ちが出やすい。",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/467.html"
+    },
+    {
       "id": "sv-2026-08-glimmora",
       "raidType": "mightiest",
       "eventName": "最強のキラフロル",
       "pokemonName": "キラフロル",
       "dexNo": 970,
-      "games": ["scarlet", "violet"],
+      "games": [
+        "scarlet",
+        "violet"
+      ],
       "teraType": "くさ",
       "startDate": "2026-08-07",
       "endDate": "2026-08-14",
@@ -24,7 +570,10 @@
       "eventName": "最強のコノヨザル",
       "pokemonName": "コノヨザル",
       "dexNo": 979,
-      "games": ["scarlet", "violet"],
+      "games": [
+        "scarlet",
+        "violet"
+      ],
       "teraType": "ゴースト",
       "startDate": "2026-08-14",
       "endDate": "2026-08-21",
@@ -40,7 +589,10 @@
       "eventName": "最強のリキキリン",
       "pokemonName": "リキキリン",
       "dexNo": 981,
-      "games": ["scarlet", "violet"],
+      "games": [
+        "scarlet",
+        "violet"
+      ],
       "teraType": "フェアリー",
       "startDate": "2026-08-21",
       "endDate": "2026-08-28",
@@ -56,7 +608,10 @@
       "eventName": "最強のドドゲザン",
       "pokemonName": "ドドゲザン",
       "dexNo": 983,
-      "games": ["scarlet", "violet"],
+      "games": [
+        "scarlet",
+        "violet"
+      ],
       "teraType": "あく",
       "startDate": "2026-08-28",
       "endDate": "2026-09-04",

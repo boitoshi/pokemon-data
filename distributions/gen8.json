@@ -4189,6 +4189,10 @@
       "games": [
         "home"
       ],
+      "originGame": [
+        "sword",
+        "shield"
+      ],
       "eventName": "Pokémon HOME スマホ版 初回起動特典（カントー御三家）",
       "distributionMethod": "HOME",
       "startDate": "2020-02-12",
@@ -4223,6 +4227,10 @@
       "pokemonName": "ヒトカゲ",
       "games": [
         "home"
+      ],
+      "originGame": [
+        "sword",
+        "shield"
       ],
       "eventName": "Pokémon HOME スマホ版 初回起動特典（カントー御三家）",
       "distributionMethod": "HOME",
@@ -4259,6 +4267,10 @@
       "games": [
         "home"
       ],
+      "originGame": [
+        "sword",
+        "shield"
+      ],
       "eventName": "Pokémon HOME スマホ版 初回起動特典（カントー御三家）",
       "distributionMethod": "HOME",
       "startDate": "2020-02-12",
@@ -4293,6 +4305,10 @@
       "pokemonName": "ピカチュウ",
       "games": [
         "home"
+      ],
+      "originGame": [
+        "sword",
+        "shield"
       ],
       "eventName": "Pokémon HOME 初回起動特典",
       "distributionMethod": "HOME",

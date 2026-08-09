@@ -4578,7 +4578,8 @@
       ],
       "eventName": "ゼラオラ勝利記念！①",
       "distributionMethod": "プレゼントボックス",
-      "startDate": "2020-06-29",
+      "startDate": "2020-06-30",
+      "endDate": "2020-07-07",
       "level": 100,
       "nature": "せっかち",
       "ability": "ちくでん",
@@ -4607,7 +4608,9 @@
         "spe": 31
       },
       "source": {
-        "kind": "bulbapedia"
+        "kind": "official",
+        "url": "https://www.pokemon.co.jp/info/2020/06/200630_gm01.html",
+        "note": "受け取り期間は6月30日9時〜7月7日8時59分。6月18日0時〜7月7日8時59分は「HOMEとソード・シールドの間でポケモンを預ける/引き出す」という条件の期間で、受け取り期間とは別物。Bulbapedia の PST 表記（June 29, 5:00 PM）を換算せずに入れていたため1日ズレていた"
       }
     },
     {

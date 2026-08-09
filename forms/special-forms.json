@@ -2881,7 +2881,8 @@
           "formName": "ジグザグマ",
           "debutGame": "SwSh",
           "formTypes": [
-            "あく"
+            "あく",
+            "ノーマル"
           ],
           "formAbilities": [
             "ものひろい",
@@ -2914,7 +2915,8 @@
           "formName": "マッスグマ",
           "debutGame": "SwSh",
           "formTypes": [
-            "あく"
+            "あく",
+            "ノーマル"
           ],
           "formAbilities": [
             "ものひろい",
@@ -3487,7 +3489,7 @@
         {
           "category": "mega",
           "formName": "メガラティアス",
-          "debutGame": "XY",
+          "debutGame": "ORAS",
           "formTypes": [
             "ドラゴン",
             "エスパー"
@@ -3523,7 +3525,7 @@
         {
           "category": "mega",
           "formName": "メガラティオス",
-          "debutGame": "XY",
+          "debutGame": "ORAS",
           "formTypes": [
             "ドラゴン",
             "エスパー"
@@ -3701,7 +3703,6 @@
           "formHiddenAbility": "",
           "requiredItem": "ミミロップナイト",
           "availableIn": [
-            "XY",
             "ORAS",
             "SM",
             "USUM",
@@ -4120,7 +4121,7 @@
         {
           "category": "mega",
           "formName": "メガペンドラー",
-          "debutGame": "M-dimension",
+          "debutGame": "ZA",
           "formTypes": [
             "むし",
             "どく"
@@ -4131,6 +4132,7 @@
           "formHiddenAbility": "",
           "requiredItem": "ペンドラナイト",
           "availableIn": [
+            "ZA",
             "M-dimension"
           ]
         }
@@ -4763,7 +4765,8 @@
           "formHiddenAbility": "",
           "requiredItem": "フラエッテナイト",
           "availableIn": [
-            "ZA"
+            "ZA",
+            "M-dimension"
           ]
         }
       ]
@@ -6313,7 +6316,8 @@
           "formHiddenAbility": "",
           "requiredItem": "",
           "availableIn": [
-            "ZA"
+            "ZA",
+            "M-dimension"
           ]
         }
       ]

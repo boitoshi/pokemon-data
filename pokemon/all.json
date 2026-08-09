@@ -5073,7 +5073,8 @@
         "form_name_ja": "ジグザグマ（ガラルのすがた）",
         "form_name_en": "",
         "types": [
-          "あく"
+          "あく",
+          "ノーマル"
         ],
         "category": "regional",
         "abilities": [
@@ -5105,7 +5106,8 @@
         "form_name_ja": "マッスグマ（ガラルのすがた）",
         "form_name_en": "",
         "types": [
-          "あく"
+          "あく",
+          "ノーマル"
         ],
         "category": "regional",
         "abilities": [
@@ -6868,7 +6870,7 @@
           "ZA",
           "M-dimension"
         ],
-        "debut_game": "XY"
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -6906,7 +6908,7 @@
           "ZA",
           "M-dimension"
         ],
-        "debut_game": "XY"
+        "debut_game": "ORAS"
       }
     ]
   },
@@ -9205,9 +9207,10 @@
         "hidden_ability": "",
         "required_item": "ペンドラナイト",
         "available_in": [
+          "ZA",
           "M-dimension"
         ],
-        "debut_game": "M-dimension"
+        "debut_game": "ZA"
       }
     ]
   },

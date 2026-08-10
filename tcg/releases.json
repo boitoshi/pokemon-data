@@ -1,5 +1,5 @@
 {
-  "_note": "ポケモンカードゲームの発売スケジュール正本（L2）。出典と検証の経緯は pokebros-content-hub/research-notes/20260809-pokeca-release-cycle.md。⚠ 曜日と前回からの間隔は releaseDate から導出できるので保存しない（消費側が計算する）。⚠ productCode は公式の商品特設ページ https://www.pokemon-card.com/ex/{コード}/ のコード。空文字は「未記録」であって「存在しない」ではない（強化拡張パックには特設ページ自体が無い）。⚠ source が secondary-verified のものは公式に特設ページが無く、ja.wikipedia『ポケモンカードゲームの発売タイトル一覧』と Bulbapedia の各セットページ（infobox の jarelease）の独立2ソースで日付が一致したもの。一次ではないので記事では扱いを分ける。⚠ 同日発売の構築デッキ・BOX 等は sameDayProducts に置き、発売リズムの集計からは外す（本弾と混ぜると年間本数がぶれる）。",
+  "_note": "ポケモンカードゲームの発売スケジュール正本（L2）。出典と検証の経緯は pokebros-content-hub/research-notes/20260809-pokeca-release-cycle.md。⚠ 曜日と前回からの間隔は releaseDate から導出できるので保存しない（消費側が計算する）。⚠ productCode は公式の商品特設ページ https://www.pokemon-card.com/ex/{コード}/ のコード。空文字は「未記録」であって「存在しない」ではない（強化拡張パックには特設ページ自体が無い）。⚠ source が secondary-verified のものは公式に特設ページが無く、ja.wikipedia『ポケモンカードゲームの発売タイトル一覧』と Bulbapedia の各セットページ（infobox の jarelease）の独立2ソースで日付が一致したもの。一次ではないので記事では扱いを分ける。⚠ 同日発売の構築デッキ・BOX 等は sameDayProducts に置き、発売リズムの集計からは外す（本弾と混ぜると年間本数がぶれる）。⚠ 特設ページ（/ex/{コード}/）が無い商品でも、公式の商品ページ https://www.pokemon-card.com/products/s/{コード}.html があることがある（強化拡張パックはこちらだけのことが多い）。S&S期のバックフィルはこの2経路のどちらかで日付と商品名を確認した。⚠ S&S期の11件は sameDayProducts を空にしてある。公式ページが同日商品を機械可読な形で持っておらず、埋めると二次情報の書き写しになるため。「同日発売が無かった」という意味ではない。",
   "checkedAt": "2026-08-09",
   "checkedUntil": "2026-09-16",
   "categories": {
@@ -8,10 +8,22 @@
     "highClass": "ハイクラスパック"
   },
   "seriesNotes": {
+    "SS": "ソード＆シールド期。拡張→強化拡張の交互で、年末にハイクラスパックが入る。⚠ ここに入っているのは 2021-10〜2022-12 のぶんだけで、2019-12 の第1弾からではない（2026-08-10 に旧記事本文を手がかりに公式で取り直した範囲）。",
     "SV": "スカーレット・バイオレット期（2023-01〜2025-06）。拡張→強化拡張の交互で年8回。",
     "MEGA": "MEGA期（2025-08〜）。強化拡張パックが1本も出ておらず、拡張パックが約2か月おきで年7回。⚠ 「強化拡張パックは廃止された」とは書かない。出ていないのは事実だが、公式が終了を告知したわけではない。"
   },
   "releases": [
+    { "releaseDate": "2021-10-22", "series": "SS", "category": "expansion",    "productNames": ["25th ANNIVERSARY COLLECTION"],                       "productCode": "s8a",  "source": "official",           "notes": "ポケモンカード25周年の記念パック。発売日は公式の25周年記念サイトの商品ページで確認" },
+    { "releaseDate": "2021-12-03", "series": "SS", "category": "highClass",    "productNames": ["VMAXクライマックス"],                                       "productCode": "s8b",  "source": "official",           "notes": "" },
+    { "releaseDate": "2022-01-14", "series": "SS", "category": "expansion",    "productNames": ["スターバース"],                                            "productCode": "s9",   "source": "official",           "notes": "" },
+    { "releaseDate": "2022-02-25", "series": "SS", "category": "reinforcement","productNames": ["バトルリージョン"],                                          "productCode": "s9a",  "source": "official",           "notes": "⚠ 商品ページには 2022年2月18日 も出るが、そちらはカードリストの修正告知の日付" },
+    { "releaseDate": "2022-04-08", "series": "SS", "category": "expansion",    "productNames": ["タイムゲイザー", "スペースジャグラー"],                              "productCode": "s10",  "source": "official",           "notes": "2種同時発売。公式の特設ページも s10 の1ページで両方を扱う" },
+    { "releaseDate": "2022-05-13", "series": "SS", "category": "reinforcement","productNames": ["ダークファンタズマ"],                                         "productCode": "s10a", "source": "official",           "notes": "" },
+    { "releaseDate": "2022-06-17", "series": "SS", "category": "reinforcement","productNames": ["Pokémon GO"],                                        "productCode": "s10b", "source": "official",           "notes": "" },
+    { "releaseDate": "2022-07-15", "series": "SS", "category": "expansion",    "productNames": ["ロストアビス"],                                            "productCode": "s11",  "source": "official",           "notes": "" },
+    { "releaseDate": "2022-09-02", "series": "SS", "category": "reinforcement","productNames": ["白熱のアルカナ"],                                           "productCode": "s11a", "source": "official",           "notes": "⚠ 二次情報に「白銀のアルカナ」という誤記がある（当サイトの旧本文もそうだった）。公式は「白熱のアルカナ」" },
+    { "releaseDate": "2022-10-21", "series": "SS", "category": "expansion",    "productNames": ["パラダイムトリガー"],                                         "productCode": "s12",  "source": "official",           "notes": "" },
+    { "releaseDate": "2022-12-02", "series": "SS", "category": "highClass",    "productNames": ["VSTARユニバース"],                                        "productCode": "s12a", "source": "official",           "notes": "" },
     { "releaseDate": "2023-01-20", "series": "SV", "category": "expansion",     "productNames": ["スカーレットex", "バイオレットex"], "productCode": "sv1",  "source": "official",           "notes": "SV期の開幕" },
     { "releaseDate": "2023-03-10", "series": "SV", "category": "reinforcement", "productNames": ["トリプレットビート"],                  "productCode": "sv1a", "source": "secondary-verified", "notes": "" },
     { "releaseDate": "2023-04-14", "series": "SV", "category": "expansion",     "productNames": ["クレイバースト", "スノーハザード"],     "productCode": "sv2",  "source": "secondary-verified", "notes": "通常弾だが公式の特設ページが無い" },

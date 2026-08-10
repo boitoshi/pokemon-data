@@ -6551,5 +6551,5 @@
       ]
     }
   ],
-  "_note": "特殊フォーム定義の正本（L2）。summary-pages の src/data/special-forms.json は sync-from-pokemon-data.mjs が生成する pull-only コピーなので直接編集しない。all.json の forms は fetch-forms.py がここから生成する。 ⚠ formTypes は常に「そのフォームのポケモンのタイプ」。Zワザのタイプは zMoveType に入れる（category:zmove のみ）。特性は formAbilities（通常特性の配列）と formHiddenAbility（隠れ特性・単一）に分ける。原種の特性も同様に originalAbilities（通常）と originalHiddenAbility（隠れ）に分ける。1つのフィールドに複数の意味を混ぜない。"
+  "_note": "特殊フォーム定義の正本（L2）。summary-pages の src/data/special-forms.json は sync-from-pokemon-data.mjs が生成する pull-only コピーなので直接編集しない。all.json の forms は fetch-forms.py がここから生成する。 ⚠ formTypes は常に「そのフォームのポケモンのタイプ」。Zワザのタイプは zMoveType に入れる（category:zmove のみ）。特性は formAbilities（通常特性の配列）と formHiddenAbility（隠れ特性・単一）に分ける。原種の特性も同様に originalAbilities（通常）と originalHiddenAbility（隠れ）に分ける。1つのフィールドに複数の意味を混ぜない。 ⚠ ZA と M次元ラッシュ由来のメガ11件は formAbilities が空だが、これは入れ忘れではない。この2作には特性の仕様が無く、HOME でも見られないため、特性が**そもそも未判明**（2026-08-10 ユーザー確認）。判明するとすればポケモンチャンピオンズでの内定時。『新作待ち』と書かないこと — 本編新作にメガシンカがあるとは限らない。欠損の数え方は scripts/verify-regional-abilities.py --audit に出させる（人力で数えない）。"
 }

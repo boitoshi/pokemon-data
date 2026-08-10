@@ -1,0 +1,44 @@
+{
+  "_note": "ポケモンカードゲームの発売スケジュール正本（L2）。出典と検証の経緯は pokebros-content-hub/research-notes/20260809-pokeca-release-cycle.md。⚠ 曜日と前回からの間隔は releaseDate から導出できるので保存しない（消費側が計算する）。⚠ productCode は公式の商品特設ページ https://www.pokemon-card.com/ex/{コード}/ のコード。空文字は「未記録」であって「存在しない」ではない（強化拡張パックには特設ページ自体が無い）。⚠ source が secondary-verified のものは公式に特設ページが無く、ja.wikipedia『ポケモンカードゲームの発売タイトル一覧』と Bulbapedia の各セットページ（infobox の jarelease）の独立2ソースで日付が一致したもの。一次ではないので記事では扱いを分ける。⚠ 同日発売の構築デッキ・BOX 等は sameDayProducts に置き、発売リズムの集計からは外す（本弾と混ぜると年間本数がぶれる）。",
+  "checkedAt": "2026-08-09",
+  "checkedUntil": "2026-09-16",
+  "categories": {
+    "expansion": "拡張パック",
+    "reinforcement": "強化拡張パック",
+    "highClass": "ハイクラスパック"
+  },
+  "seriesNotes": {
+    "SV": "スカーレット・バイオレット期（2023-01〜2025-06）。拡張→強化拡張の交互で年8回。",
+    "MEGA": "MEGA期（2025-08〜）。強化拡張パックが1本も出ておらず、拡張パックが約2か月おきで年7回。⚠ 「強化拡張パックは廃止された」とは書かない。出ていないのは事実だが、公式が終了を告知したわけではない。"
+  },
+  "releases": [
+    { "releaseDate": "2023-01-20", "series": "SV", "category": "expansion",     "productNames": ["スカーレットex", "バイオレットex"], "productCode": "sv1",  "source": "official",           "notes": "SV期の開幕" },
+    { "releaseDate": "2023-03-10", "series": "SV", "category": "reinforcement", "productNames": ["トリプレットビート"],                  "productCode": "sv1a", "source": "secondary-verified", "notes": "" },
+    { "releaseDate": "2023-04-14", "series": "SV", "category": "expansion",     "productNames": ["クレイバースト", "スノーハザード"],     "productCode": "sv2",  "source": "secondary-verified", "notes": "通常弾だが公式の特設ページが無い" },
+    { "releaseDate": "2023-06-16", "series": "SV", "category": "reinforcement", "productNames": ["ポケモンカード151"],                    "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2023-07-28", "series": "SV", "category": "expansion",     "productNames": ["黒炎の支配者"],                        "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2023-09-22", "series": "SV", "category": "reinforcement", "productNames": ["レイジングサーフ"],                    "productCode": "sv3a", "source": "secondary-verified", "notes": "" },
+    { "releaseDate": "2023-10-27", "series": "SV", "category": "expansion",     "productNames": ["古代の咆哮", "未来の一閃"],            "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2023-12-01", "series": "SV", "category": "highClass",     "productNames": ["シャイニートレジャーex"],              "productCode": "sv4a", "source": "official",           "notes": "" },
+    { "releaseDate": "2024-01-26", "series": "SV", "category": "expansion",     "productNames": ["ワイルドフォース", "サイバージャッジ"], "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2024-03-22", "series": "SV", "category": "reinforcement", "productNames": ["クリムゾンヘイズ"],                    "productCode": "sv5a", "source": "secondary-verified", "notes": "" },
+    { "releaseDate": "2024-04-26", "series": "SV", "category": "expansion",     "productNames": ["変幻の仮面"],                          "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2024-06-07", "series": "SV", "category": "reinforcement", "productNames": ["ナイトワンダラー"],                    "productCode": "sv6a", "source": "secondary-verified", "notes": "" },
+    { "releaseDate": "2024-07-19", "series": "SV", "category": "expansion",     "productNames": ["ステラミラクル"],                      "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2024-09-13", "series": "SV", "category": "reinforcement", "productNames": ["楽園ドラゴーナ"],                      "productCode": "sv7a", "source": "secondary-verified", "notes": "" },
+    { "releaseDate": "2024-10-18", "series": "SV", "category": "expansion",     "productNames": ["超電ブレイカー"],                      "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2024-12-06", "series": "SV", "category": "highClass",     "productNames": ["テラスタルフェスex"],                  "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2025-01-24", "series": "SV", "category": "expansion",     "productNames": ["バトルパートナーズ"],                  "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2025-03-14", "series": "SV", "category": "reinforcement", "productNames": ["熱風のアリーナ"],                      "productCode": "sv9a", "source": "secondary-verified", "notes": "SV期最後の強化拡張パック" },
+    { "releaseDate": "2025-04-18", "series": "SV", "category": "expansion",     "productNames": ["ロケット団の栄光"],                    "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2025-06-06", "series": "SV", "category": "expansion",     "productNames": ["ブラックボルト", "ホワイトフレア"],     "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2025-08-01", "series": "MEGA", "category": "expansion",   "productNames": ["メガブレイブ", "メガシンフォニア"],     "productCode": "",     "source": "official",           "notes": "MEGA期の開幕" },
+    { "releaseDate": "2025-09-26", "series": "MEGA", "category": "expansion",   "productNames": ["インフェルノX"],                       "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2025-11-28", "series": "MEGA", "category": "highClass",   "productNames": ["MEGAドリームex"],                      "productCode": "m2a",  "source": "official",           "notes": "" },
+    { "releaseDate": "2026-01-23", "series": "MEGA", "category": "expansion",   "productNames": ["ムニキスゼロ"],                        "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2026-03-13", "series": "MEGA", "category": "expansion",   "productNames": ["ニンジャスピナー"],                    "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2026-05-22", "series": "MEGA", "category": "expansion",   "productNames": ["アビスアイ"],                          "productCode": "",     "source": "official",           "notes": "" },
+    { "releaseDate": "2026-07-31", "series": "MEGA", "category": "expansion",   "productNames": ["ストームエメラルダ"],                  "productCode": "",     "source": "official",           "notes": "", "sameDayProducts": ["構築デッキ「スターターセットex」3種"] },
+    { "releaseDate": "2026-09-16", "series": "MEGA", "category": "expansion",   "productNames": ["30th CELEBRATION"],                    "productCode": "",     "source": "official",           "notes": "⚠ 唯一の水曜発売。世界同時発売のため金曜固定の例外になる", "sameDayProducts": ["30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー", "30th CELEBRATION FUTURISTIC BOX"] }
+  ]
+}

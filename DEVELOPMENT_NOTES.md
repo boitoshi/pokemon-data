@@ -260,12 +260,23 @@ L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・�
 
 morning-status の対応（すべて morning brief の `needs_attention` に出る）:
 
-| 判定 | reason |
-|---|---|
-| `checkedUntil` が過去日 or `null` | `event_table_expired` |
-| `checkedUntil` が7日以内に来る | `event_table_expiring_soon` |
-| `checkedAt` から間が空いた（テラレイド5日 / ぽこあ21日） | `event_table_stale_check` |
-| 表が読めない（404・改名） | `event_table_unreadable` |
+| 判定 | reason | 対象 |
+|---|---|---|
+| `checkedUntil` が過去日 or `null` | `event_table_expired` | テラレイドのみ |
+| `checkedUntil` が7日以内に来る | `event_table_expiring_soon` | テラレイドのみ |
+| `checkedAt` から間が空いた（テラレイド5日 / ぽこあ21日） | `event_table_stale_check` | 両方 |
+| 表が読めない（404・改名） | `event_table_unreadable` | テラレイドのみ |
+
+⚠ **ぽこあは `checkedUntil` 系の警告を切ってある**（2026-08-26。morning-status 側で
+`expire_warn` を外した）。公式のイベント告知7件のうち **5件が開催当日の告知**で、
+予告が出たのは2件だけ・それも5〜6日前どまり（ハネッコ 03/05→03/10、ヒンバス 08/07→08/13）。
+`checkedUntil` は常に開催中イベントの終了日で止まるので、「予定が無い」と
+「まだ告知されていない」を原理的に分離できず、**表が正しくても鳴り続ける**。
+ぽこあの入口は `checkedAt`（21日）だけにした。テラレイドで `checkedUntil` が機能するのは、
+予告が必ず7日前に出るため（実測: 07/10→07/17、07/31→08/07）。
+- **`checkedUntil` は引き続き書く。** 「どこまで把握したか」の記録としては有効で、記事側からも読む
+- ⚠ 代償: ぽこあは**表が読めなくなっても鳴らない**（morning-status の except 節が
+  `expire_warn` でゲートしているため）。ファイル名を変えるときは自分で気をつける
 
 **公式を見に行ったら、新着が無くても `checkedAt` を今日の日付に進めること。**
 進めないと「見ていない」と区別が付かず鳴り続ける。逆に言えば、この一手間が

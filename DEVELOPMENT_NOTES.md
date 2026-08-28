@@ -292,7 +292,7 @@ morning-status の対応（すべて morning brief の `needs_attention` に出�
 ### エントリのフィールド（`raids/tera-raids.json`）
 
 必須は `id` / `eventName` / `startDate` / `endDate` の4つだけ。残りは分かる範囲で埋める。
-morning-status が brief に出すのは**太字の7つ**だけで、残りは記事を書くときの手控え。
+morning-status が brief に出すのは**太字の9つ**だけで、残りは記事を書くときの手控え。
 
 | フィールド | 例 | 備考 |
 |---|---|---|
@@ -304,8 +304,43 @@ morning-status が brief に出すのは**太字の7つ**だけで、残りは�
 | `games` | `["scarlet", "violet"]` | `games/titles.json` のキー |
 | `teraType` | `"かくとう"` | |
 | **`startDate`** / **`endDate`** | `"2026-08-15"` | ISO日付。開催が分割されるなら期間ごとに1エントリ |
+| **`startTime`** / **`endTime`** | `"09:00"` / `"08:59"` | 下記「開催時刻」を読むこと |
 | `reward` | `"さいきょうのあかし"` | |
 | **`sourceUrl`** | 公式告知URL | 出典。**推測で書かない** |
+
+### エントリのフィールド（`poco-a-pokemon/events.json`）
+
+必須はテラレイドと同じ4つ。時刻とURLの扱いも揃えてある。以下は**綴りが紛らわしいものだけ**。
+
+| フィールド | 例 | 備考 |
+|---|---|---|
+| **`startTime`** / **`endTime`** | `"05:00"` / `"04:59"` | 下記「開催時刻」を読むこと |
+| **`sourceUrl`** | `"https://www.pocoapokemon.jp/ja/news/150/"` | **公式告知**。出典。**推測で書かない** |
+| `postUrl` | `"https://www.pokebros.net/pocopoke-event-list/#feebas2026"` | **自サイトの記事**。読者への導線であって出典ではない |
+
+⚠ **`postUrl` を出典として使わない。** これは配信正本（`distributions/*.json`）から来ている
+綴りで、あちらでも「個別記事URL」＝うちの記事を指す。一次ソースは `sourceUrl` のほう。
+
+公式ニュースの引き方（JS レンダリングなので一覧は API を直接叩く）:
+
+```bash
+curl -sS "https://www.pocoapokemon.jp/api/ja/news/index/?limit=9999"   # 全件。term: 2 がイベント
+curl -sS "https://www.pocoapokemon.jp/ja/news/<id>/"                    # 本文は静的HTMLで読める
+```
+
+### 開催時刻（`startTime` / `endTime`）
+
+**公式告知の表記をそのまま入れる。** ぽこあは「5:00 〜 4:59」、テラレイドは「9:00 ～ 8:59」で、
+どちらも**閉まる直前の1分**を書く流儀（実測: `pocoapokemon.jp/ja/news/150/` /
+`sv-news.pokemon.co.jp/ja/page/470.html`）。`04:59` を `05:00` に直さない — 直すと
+公式ページと突き合わせたときに見た目が合わなくなる。
+
+排他境界（＝閉まる瞬間）への変換は**消費側の仕事**。morning-status は `endTime` に +1分して
+「9:00に閉まる」として扱い、`now < ends_at` の一本で判定する。
+
+⚠ **推測で埋めない。** 種別ごとの既定値（ぽこあ5:00・テラレイド9:00）を当てると、推測が
+実測の顔をして出てくる。**省略した場合は「その日いっぱい（時刻未確認）」として扱われ**、
+brief も「今日まで（終了時刻は未確認）」と出すので、空のままで正しく動く。
 
 ### 更新の入口
 

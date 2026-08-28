@@ -1,7 +1,7 @@
 {
   "$schema": "poco-a-pokemon-events-v1",
   "checkedUntil": "2026-08-28",
-  "checkedAt": "2026-08-26",
+  "checkedAt": "2026-08-29",
   "events": [
     {
       "id": "2026-03-hoppip-watage",
@@ -45,6 +45,7 @@
         { "name": "タンポポとお昼ご飯", "pokemon": ["ワタッコ"] }
       ],
       "notes": "ゆめしまでわたげを集め、ポケセンのハネッコに渡すとイベント生息地が復活。全アイテム交換には合計75個必要。",
+      "sourceUrl": "https://www.pocoapokemon.jp/ja/news/42/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#hoppip2026"
     },
     {
@@ -67,6 +68,7 @@
       "eventPokemon": [],
       "eventHabitats": [],
       "notes": "エイプリルフール限定24時間イベント。ポケモンがほかのポケモンの話し方をマネしてクイズを出題。スペシャルチャレンジ形式（ゆめしまイベントとは異なる）。",
+      "sourceUrl": "https://www.pocoapokemon.jp/ja/news/52/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#aprilfool2026"
     },
     {
@@ -103,6 +105,7 @@
       "eventPokemon": [],
       "eventHabitats": [],
       "notes": "フシギダネが回す縄にタイミングよくジャンプするミニゲーム大会。「！」で加速・「汗」で減速し、タイミングは完全固定（減速は49/64/75/92/110/126/136回）。マルチプレイでは他プレイヤーの街はホストのみ、クラウド島は最高記録を出した本人のみに報酬。",
+      "sourceUrl": "https://www.pocoapokemon.jp/ja/news/67/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#oonawatobi2026"
     },
     {
@@ -139,6 +142,7 @@
         { "name": "宝さがしセット", "pokemon": ["ヤミラミ"] }
       ],
       "notes": "ゆめしまであかいクリスタルのカケラを集めて交換。ヤミラミはイベント開催と同時に現れるため、生息地を作って出現させる必要はない。全アイテム交換には合計64個必要。",
+      "sourceUrl": "https://www.pocoapokemon.jp/ja/news/75/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#yamirami2026"
     },
     {
@@ -162,6 +166,7 @@
       ],
       "eventHabitats": [],
       "notes": "ポケセン付近のジラーチに話しかけてともだちになり「たんざく」のレシピを入手。クラフトだいで作った「たんざく」でポケモンの願いごとを叶えると「キラキラたんざく」に変化し、星空モチーフの家具と交換できる。ジラーチはイベント終了後も街に残る。交換アイテムの内訳は記事側も未確定。",
+      "sourceUrl": "https://www.pocoapokemon.jp/ja/news/102/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#jirachi2026"
     },
     {
@@ -184,6 +189,7 @@
       "eventPokemon": [],
       "eventHabitats": [],
       "notes": "隠れているポケモンを探してポケセン前のパソコンにタッチするミニゲーム。記録は回数ではなくクリアタイムで、複数人なら最速の記録が採用される。おおなわとび大会と違いクラウド島でも発生する。見学モードでは参加不可、ミニゲーム中は「かっくう」「でんじふゆう」を使えない。",
+      "sourceUrl": "https://www.pocoapokemon.jp/ja/news/111/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#kakureoni2026"
     },
     {
@@ -208,6 +214,7 @@
       ],
       "eventHabitats": [],
       "notes": "うきわ・ビーチボールなど夏をテーマにした家具等と交換（内訳は記事側も未確定）。ヒンバスはイベント開始時から、ミロカロスはイベントを進めると出現。「ブクブクうみぞこの街」とクラウド島では発生しない。開催期間はゲーム内時間で判定されるため、本体の日時を手動で変えているとズレることがある。",
+      "sourceUrl": "https://www.pocoapokemon.jp/ja/news/150/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#feebas2026"
     }
   ]

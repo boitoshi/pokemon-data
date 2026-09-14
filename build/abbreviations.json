@@ -3,7 +3,7 @@
   "source": "games/titles.json + mappings/distribution-methods.json + mappings/method-glossary.json",
   "counts": {
     "games": 46,
-    "methods": 24
+    "methods": 26
   },
   "games": [
     {
@@ -338,6 +338,10 @@
       "sourceKeys": [],
       "note": "Pokémon Champions のシーズン制無料報酬。ランクバトル等でSBS（シーズンバトルスコア）を貯めてLv.25に到達すると獲得（ポケモン1体＋メガストーン1個など）。"
     },
+    "バトルパス(無料)": {
+      "sourceKeys": [],
+      "note": "Pokémon Champions のシーズン制無料報酬。ランクバトルや大会でシーズンバトルスコアを獲得してバトルパスレベルを上げると獲得。何レベルで獲得できるかが確認できていない配信に使う。"
+    },
     "バトルパス(無料) Lv.25": {
       "sourceKeys": [],
       "note": "Pokémon Champions のシーズン制無料報酬。ランクバトル等でSBS（シーズンバトルスコア）を貯めてLv.25に到達すると獲得（ポケモン1体＋メガストーン1個など）。"
@@ -355,6 +359,10 @@
         "Gift Box"
       ],
       "note": "Pokémon HOMEアプリ内の機能名（略称ではなくアプリ内表記そのまま）。配布ポケモンを受け取るための領域。"
+    },
+    "プレミアムバトルパス": {
+      "sourceKeys": [],
+      "note": "Pokémon Champions の有料プレミアムバトルパスを購入すると、バトルパスレベルが上がったときに追加で獲得できる報酬。何レベルで獲得できるかが確認できていない配信に使う。"
     },
     "プレミアムバトルパス Lv.10": {
       "sourceKeys": [],

@@ -418,7 +418,7 @@
       "ball": "プレシャスボール",
       "otFromPlayer": true,
       "ivsGuaranteed": 6,
-      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.2到達時に獲得。メガストーン「バシャーモナイト」も同パスで入手。個体詳細は未判明。HOME転送不可。開催中。"
+      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.2到達時に獲得。メガストーン「バシャーモナイト」も同パスで入手。個体詳細は未判明。HOME転送不可。"
     },
     {
       "id": "CH-BP-M4-02",
@@ -444,7 +444,7 @@
       "ball": "プレシャスボール",
       "otFromPlayer": true,
       "ivsGuaranteed": 6,
-      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.10到達時に獲得。メガストーン「ラグラージナイト」も同パスで入手。個体詳細は未判明。HOME転送不可。開催中。"
+      "notes": "プレミアムバトルパス(¥1,400)購入で解放。Lv.10到達時に獲得。メガストーン「ラグラージナイト」も同パスで入手。個体詳細は未判明。HOME転送不可。"
     },
     {
       "id": "CH-BP-M4-03",
@@ -470,7 +470,7 @@
       "ball": "プレシャスボール",
       "otFromPlayer": true,
       "ivsGuaranteed": 6,
-      "notes": "通常バトルパス(無料)で獲得可能。Lv.25到達時に獲得。メガストーン「ジュカインナイト」も無料枠で入手。個体詳細は未判明。HOME転送不可。開催中。"
+      "notes": "通常バトルパス(無料)で獲得可能。Lv.25到達時に獲得。メガストーン「ジュカインナイト」も無料枠で入手。個体詳細は未判明。HOME転送不可。"
     },
     {
       "id": "CH05",
@@ -542,7 +542,7 @@
       ],
       "ball": "プレシャスボール",
       "ivsGuaranteed": 6,
-      "notes": "公式オンライン大会（シングルバトル）で勝敗のつく対戦3戦以上で参加賞として獲得。ファストクーポン100枚・称号も付与。個体詳細は未判明。HOME転送不可。レギュレーションM-B。2026-07-24開催予定。"
+      "notes": "公式オンライン大会（シングルバトル）で勝敗のつく対戦3戦以上で参加賞として獲得。ファストクーポン100枚・称号も付与。個体詳細は未判明。HOME転送不可。レギュレーションM-B。2026-07-24〜07-27開催。"
     },
     {
       "id": "CH06",
@@ -602,6 +602,221 @@
       "ball": "プレシャスボール",
       "ivsGuaranteed": 6,
       "notes": "期間中にプレイするとメールボックスで受け取り（Switch版・スマホ版どちらでも可、あいことば不要）。メガストーン「ライチュウナイトX」「ライチュウナイトY」も同時配布（メガライチュウX/Yはチャンピオンズ新規）。受取期限は2026-09-02 10:59。個体詳細は未判明。HOME転送不可。"
+    },
+    {
+      "id": "CH-BP-M5-01",
+      "dexNo": 530,
+      "pokemonName": "ドリュウズ",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-5 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-08-05〜2026-09-09"
+      },
+      "distributionMethod": "プレミアムバトルパス",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-08-05",
+      "endDate": "2026-09-09",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス購入で解放される報酬。メガストーン「ドリュウズナイト」も同じ枠で入手。何レベルで獲得できるかは公式告知に記載なし。ボールも告知に記載なし。期間は2026-09-09 10:59まで。HOME転送不可。出典: https://champions-news.pokemon-home.com/ja/page/804.html"
+    },
+    {
+      "id": "CH-BP-M5-02",
+      "dexNo": 560,
+      "pokemonName": "ズルズキン",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-5 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-08-05〜2026-09-09"
+      },
+      "distributionMethod": "プレミアムバトルパス",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-08-05",
+      "endDate": "2026-09-09",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス購入で解放される報酬。メガストーン「ズルズキナイト」も同じ枠で入手。何レベルで獲得できるかは公式告知に記載なし。ボールも告知に記載なし。期間は2026-09-09 10:59まで。HOME転送不可。出典: https://champions-news.pokemon-home.com/ja/page/804.html"
+    },
+    {
+      "id": "CH-BP-M5-03",
+      "dexNo": 609,
+      "pokemonName": "シャンデラ",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-5 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-08-05〜2026-09-09"
+      },
+      "distributionMethod": "バトルパス(無料)",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-08-05",
+      "endDate": "2026-09-09",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ivsGuaranteed": 6,
+      "notes": "無料のバトルパスの報酬。メガストーン「シャンデラナイト」も同じ枠で入手。何レベルで獲得できるかは公式告知に記載なし。ボールも告知に記載なし。期間は2026-09-09 10:59まで。HOME転送不可。出典: https://champions-news.pokemon-home.com/ja/page/804.html"
+    },
+    {
+      "id": "CH-BP-M6-01",
+      "dexNo": 768,
+      "pokemonName": "グソクムシャ",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-6 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-09-09〜2026-10-07"
+      },
+      "distributionMethod": "プレミアムバトルパス",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-09-09",
+      "endDate": "2026-10-07",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス購入で解放される報酬。メガストーン「グソクムシャナイト」も同じ枠で入手。何レベルで獲得できるかは公式告知に記載なし。ボールも告知に記載なし。期間は2026-10-07 10:59まで。HOME転送不可。出典: https://champions-news.pokemon-home.com/ja/page/823.html"
+    },
+    {
+      "id": "CH-BP-M6-02",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-6 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-09-09〜2026-10-07"
+      },
+      "distributionMethod": "プレミアムバトルパス",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-09-09",
+      "endDate": "2026-10-07",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ivsGuaranteed": 6,
+      "notes": "プレミアムバトルパス購入で解放される報酬。メガストーン「ルカリオナイトZ」も同じ枠で入手。何レベルで獲得できるかは公式告知に記載なし。ボールも告知に記載なし。期間は2026-10-07 10:59まで。HOME転送不可。出典: https://champions-news.pokemon-home.com/ja/page/823.html"
+    },
+    {
+      "id": "CH-BP-M6-03",
+      "dexNo": 812,
+      "pokemonName": "ゴリランダー",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "シーズンM-6 バトルパス",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-09-09〜2026-10-07"
+      },
+      "distributionMethod": "バトルパス(無料)",
+      "distributionLocation": "バトルパス報酬",
+      "startDate": "2026-09-09",
+      "endDate": "2026-10-07",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "ivsGuaranteed": 6,
+      "notes": "無料のバトルパスの報酬。何レベルで獲得できるかは公式告知に記載なし。ボールも告知に記載なし。期間は2026-10-07 10:59まで。HOME転送不可。出典: https://champions-news.pokemon-home.com/ja/page/823.html"
+    },
+    {
+      "id": "CH10",
+      "dexNo": 26,
+      "pokemonName": "ライチュウ",
+      "form": "アローラのすがた",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "マンスリーチャレンジシリーズ 2026.08 参加賞",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-08-21〜2026-08-24"
+      },
+      "distributionMethod": "大会参加賞",
+      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-24",
+      "region": [
+        "全世界"
+      ],
+      "ivsGuaranteed": 6,
+      "notes": "公式オンライン大会（シングルバトル・レギュレーションM-B）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。ファストクーポン100枚・称号も付与。開催期間は2026-08-21 11:00〜2026-08-24 10:59（エントリーは2026-08-14 11:00から）。ボールは告知に記載なし。HOME転送不可。出典: https://champions-news.pokemon-home.com/ja/page/805.html"
+    },
+    {
+      "id": "CH11",
+      "dexNo": 876,
+      "pokemonName": "イエッサン",
+      "gender": "♀",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "マンスリーチャレンジシリーズ 2026.09 参加賞",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-09-18〜2026-09-21"
+      },
+      "distributionMethod": "大会参加賞",
+      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-21",
+      "region": [
+        "全世界"
+      ],
+      "ivsGuaranteed": 6,
+      "notes": "公式オンライン大会（シングルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。公式表記は「イエッサン（メスのすがた）」。ファストクーポン100枚・称号も付与。開催期間は2026-09-18 11:00〜2026-09-21 10:59（エントリーは2026-09-11 11:00から）。ボールは告知に記載なし。HOME転送不可。出典: https://champions-news.pokemon-home.com/ja/page/824.html"
+    },
+    {
+      "id": "CH12",
+      "dexNo": 1018,
+      "pokemonName": "ブリジュラス",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "グローバルチャレンジ2027 I 参加賞",
+      "event": {
+        "kind": "champions",
+        "year": 2026,
+        "schedule": "2026-09-25〜2026-09-28"
+      },
+      "distributionMethod": "大会参加賞",
+      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-28",
+      "region": [
+        "全世界"
+      ],
+      "ivsGuaranteed": 6,
+      "notes": "公式オンライン大会（ダブルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。PJCS2027 ビデオゲーム部門の出場権がかかる大会。開催期間は2026-09-25 11:00〜2026-09-28 10:59（エントリーは2026-09-18 11:00から）。ボールは告知に記載なし。HOME転送不可。出典: https://champions-news.pokemon-home.com/ja/page/825.html"
     }
   ]
 }

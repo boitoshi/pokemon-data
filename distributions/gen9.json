@@ -4183,6 +4183,28 @@
         "schedule": "2026年6月6日・7日",
         "location": "パシフィコ横浜 展示ホールA・B・C・D（神奈川県横浜市）"
       }
+    },
+    {
+      "id": "09114",
+      "dexNo": 658,
+      "pokemonName": "ゲッコウガ",
+      "games": [
+        "legends_za"
+      ],
+      "eventName": "WCS2026のゲッコウガ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "大会会場",
+      "startDate": "2026-08-28",
+      "region": [
+        "北米"
+      ],
+      "notes": "ポケモンワールドチャンピオンシップス2026の会場で配布された。『Pokémon HOME』を経由して配信され、受け取りは『Pokémon LEGENDS Z-A』。",
+      "event": {
+        "kind": "wcs",
+        "year": 2026,
+        "schedule": "2026年8月28日（金）〜8月30日（日）（現地時間）",
+        "location": "アメリカ・カリフォルニア州サンフランシスコ　モスコーニ・センター"
+      }
     }
   ]
 }

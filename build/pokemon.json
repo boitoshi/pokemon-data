@@ -24677,6 +24677,24 @@
     }
   },
   {
+    "managementId": "09114",
+    "pokemonName": "ゲッコウガ",
+    "dexNo": 658,
+    "generation": 9,
+    "game": "ZA",
+    "eventName": "WCS2026のゲッコウガ",
+    "tournamentType": "WCS",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026年8月28日（金）〜8月30日（日）（現地時間）",
+    "tournamentLocation": "アメリカ・カリフォルニア州サンフランシスコ　モスコーニ・センター",
+    "distributionMethod": "シリアルコード",
+    "distributionLocation": "大会会場",
+    "startDate": "2026-08-28",
+    "notes": "ポケモンワールドチャンピオンシップス2026の会場で配布された。『Pokémon HOME』を経由して配信され、受け取りは『Pokémon LEGENDS Z-A』。",
+    "region": "北米",
+    "ivs": "ランダム"
+  },
+  {
     "managementId": "CH01",
     "pokemonName": "カイリュー",
     "dexNo": 149,

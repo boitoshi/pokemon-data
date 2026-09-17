@@ -25348,5 +25348,34 @@
     "notes": "公式オンライン大会（ダブルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。PJCS2027 ビデオゲーム部門の出場権がかかる大会。開催期間は2026-09-25 11:00〜2026-09-28 10:59（エントリーは2026-09-18 11:00から）。ボールは告知に記載なし。HOME転送不可。出典: https://champions-news.pokemon-home.com/ja/page/825.html",
     "region": "全世界",
     "ivs": "6V"
+  },
+  {
+    "managementId": "CH13",
+    "pokemonName": "ガオガエン",
+    "dexNo": 727,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "eventName": "WCS2026のガオガエン",
+    "tournamentType": "WCS",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-08-28〜2026-08-30",
+    "tournamentLocation": "アメリカ・カリフォルニア州サンフランシスコ",
+    "distributionMethod": "Twitch Drops",
+    "distributionLocation": "Twitch公式配信",
+    "startDate": "2026-08-29",
+    "endDate": "2026-09-04",
+    "ball": "プレシャスボール",
+    "level": "Lv.50相当(非表示)",
+    "ability": "いかく",
+    "nature": "しんちょう",
+    "moves": [
+      "ねこだまし",
+      "すてゼリフ",
+      "じごくづき",
+      "フレアドライブ"
+    ],
+    "notes": "WCS2026開催記念。2026年8月29日0:30〜8月31日12:00（日本時間）にTwitchの公式VGC配信を合計60分視聴し、Twitch Dropsで受取コードを獲得する。称号は「イベントに参加した」（英語名: The Festive）。受取コードの有効期限は2026年9月4日8:59（日本時間）。HOME転送不可。",
+    "region": "全世界",
+    "ivs": "6V"
   }
 ]

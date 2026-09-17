@@ -3,7 +3,7 @@
   "source": "games/titles.json + mappings/distribution-methods.json + mappings/method-glossary.json",
   "counts": {
     "games": 46,
-    "methods": 26
+    "methods": 27
   },
   "games": [
     {
@@ -298,6 +298,11 @@
     "SM体験版": {
       "sourceKeys": [
         "Pokémon Sun and Pokémon Moon Special Demo Version"
+      ]
+    },
+    "Twitch Drops": {
+      "sourceKeys": [
+        "Twitch Drops"
       ]
     },
     "Wi-Fi": {

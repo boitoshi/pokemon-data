@@ -1,0 +1,207 @@
+{
+  "_note": "種族・フォームの時系列の事実（過去タイプ・フォームの登場ソフト）の手書き正本。fetch-*.py はこのファイルを読まない・書かない。typeHistory は untilGeneration 以下の世代でそのタイプだった（現行タイプは all.json / special-forms.json 側が持つ）。配列は untilGeneration 昇順。formId は all.json の form_id と同じ規則（variety名から種族slugを除いた部分）。debutGame は games/groups.json の id。all.json の forms に既にあるフォーム（debut_game を持つもの）には debutGame を重複して書かない。",
+  "lastUpdated": "2026-09-19",
+  "pokemon": [
+    {
+      "dexNo": 35,
+      "pokemonName": "ピッピ",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル"] }
+      ]
+    },
+    {
+      "dexNo": 36,
+      "pokemonName": "ピクシー",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル"] }
+      ]
+    },
+    {
+      "dexNo": 39,
+      "pokemonName": "プリン",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル"] }
+      ]
+    },
+    {
+      "dexNo": 40,
+      "pokemonName": "プクリン",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル"] }
+      ]
+    },
+    {
+      "dexNo": 81,
+      "pokemonName": "コイル",
+      "typeHistory": [
+        { "untilGeneration": 1, "types": ["でんき"] }
+      ]
+    },
+    {
+      "dexNo": 82,
+      "pokemonName": "レアコイル",
+      "typeHistory": [
+        { "untilGeneration": 1, "types": ["でんき"] }
+      ]
+    },
+    {
+      "dexNo": 122,
+      "pokemonName": "バリヤード",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["エスパー"] }
+      ]
+    },
+    {
+      "dexNo": 173,
+      "pokemonName": "ピィ",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル"] }
+      ]
+    },
+    {
+      "dexNo": 174,
+      "pokemonName": "ププリン",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル"] }
+      ]
+    },
+    {
+      "dexNo": 175,
+      "pokemonName": "トゲピー",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル"] }
+      ]
+    },
+    {
+      "dexNo": 176,
+      "pokemonName": "トゲチック",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル", "ひこう"] }
+      ]
+    },
+    {
+      "dexNo": 183,
+      "pokemonName": "マリル",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["みず"] }
+      ]
+    },
+    {
+      "dexNo": 184,
+      "pokemonName": "マリルリ",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["みず"] }
+      ]
+    },
+    {
+      "dexNo": 209,
+      "pokemonName": "ブルー",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル"] }
+      ]
+    },
+    {
+      "dexNo": 210,
+      "pokemonName": "グランブル",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル"] }
+      ]
+    },
+    {
+      "dexNo": 280,
+      "pokemonName": "ラルトス",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["エスパー"] }
+      ]
+    },
+    {
+      "dexNo": 281,
+      "pokemonName": "キルリア",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["エスパー"] }
+      ]
+    },
+    {
+      "dexNo": 282,
+      "pokemonName": "サーナイト",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["エスパー"] }
+      ]
+    },
+    {
+      "dexNo": 298,
+      "pokemonName": "ルリリ",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル"] }
+      ]
+    },
+    {
+      "dexNo": 303,
+      "pokemonName": "クチート",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["はがね"] }
+      ]
+    },
+    {
+      "dexNo": 439,
+      "pokemonName": "マネネ",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["エスパー"] }
+      ]
+    },
+    {
+      "dexNo": 468,
+      "pokemonName": "トゲキッス",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["ノーマル", "ひこう"] }
+      ]
+    },
+    {
+      "dexNo": 479,
+      "pokemonName": "ロトム",
+      "forms": [
+        { "formId": "heat", "typeHistory": [ { "untilGeneration": 4, "types": ["でんき", "ゴースト"] } ] },
+        { "formId": "wash", "typeHistory": [ { "untilGeneration": 4, "types": ["でんき", "ゴースト"] } ] },
+        { "formId": "frost", "typeHistory": [ { "untilGeneration": 4, "types": ["でんき", "ゴースト"] } ] },
+        { "formId": "fan", "typeHistory": [ { "untilGeneration": 4, "types": ["でんき", "ゴースト"] } ] },
+        { "formId": "mow", "typeHistory": [ { "untilGeneration": 4, "types": ["でんき", "ゴースト"] } ] }
+      ]
+    },
+    {
+      "dexNo": 483,
+      "pokemonName": "ディアルガ",
+      "forms": [
+        { "formId": "origin", "debutGame": "LA" }
+      ]
+    },
+    {
+      "dexNo": 484,
+      "pokemonName": "パルキア",
+      "forms": [
+        { "formId": "origin", "debutGame": "LA" }
+      ]
+    },
+    {
+      "dexNo": 546,
+      "pokemonName": "モンメン",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["くさ"] }
+      ]
+    },
+    {
+      "dexNo": 547,
+      "pokemonName": "エルフーン",
+      "typeHistory": [
+        { "untilGeneration": 5, "types": ["くさ"] }
+      ]
+    },
+    {
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "forms": [
+        { "formId": "10", "debutGame": "SM" },
+        { "formId": "complete", "debutGame": "SM" }
+      ]
+    }
+  ]
+}

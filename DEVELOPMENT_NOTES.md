@@ -13,7 +13,8 @@
 ```
 pokemon-data/
 ├── pokemon/
-│   └── all.json              # ポケモンマスターデータ 1025件 + フォームデータ 199件
+│   ├── all.json               # ポケモンマスターデータ 1025件 + フォームデータ 199件
+│   └── history.json           # 種族・フォームの過去タイプ・フォーム登場ソフトの手書き正本（fetch系は読まない・書かない。ADR 0016）
 ├── games/
 │   ├── titles.json           # ゲームタイトル 43件（Gen1〜Gen10/ZA + ぽこ あ ポケモン）。groupフィールド付き
 │   ├── groups.json           # グループ定義 26件（"SwSh", "SV"等のペア単位キー）

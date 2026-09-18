@@ -24690,6 +24690,21 @@
     "distributionMethod": "シリアルコード",
     "distributionLocation": "大会会場",
     "startDate": "2026-08-28",
+    "ot": "WCS26",
+    "trainerId": "260828",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "nature": "ひかえめ",
+    "moves": [
+      "みずしゅりけん",
+      "あくのはどう",
+      "ハイドロポンプ",
+      "れいとうビーム"
+    ],
+    "ribbons": [
+      "イベントリボン"
+    ],
     "notes": "ポケモンワールドチャンピオンシップス2026の会場で配布された。『Pokémon HOME』を経由して配信され、受け取りは『Pokémon LEGENDS Z-A』。",
     "region": "北米",
     "ivs": "ランダム"

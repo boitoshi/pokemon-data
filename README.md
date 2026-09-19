@@ -1,6 +1,6 @@
 # pokemon-data
 
-ポケモンマスターデータの正本レイヤー。詳細は `DEVELOPMENT_NOTES.md` / `CLAUDE.md` を参照。
+ポケモンマスターデータの正本レイヤー。詳細は `DEVELOPMENT_NOTES.md` / `AGENTS.md` を参照。
 
 ## データ一覧
 

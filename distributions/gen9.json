@@ -4204,7 +4204,15 @@
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "ot": {
-        "JPN": "WCS26"
+        "JPN": "WCS26",
+        "ENG": "Worlds26",
+        "SPA": "Worlds26",
+        "FRE": "Worlds26",
+        "GER": "Worlds26",
+        "ITA": "Worlds26",
+        "KOR": "WCS26",
+        "CHS": "WCS26",
+        "CHT": "WCS26"
       },
       "trainerId": "260828",
       "moves": [

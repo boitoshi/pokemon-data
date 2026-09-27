@@ -104,6 +104,7 @@
       "levelNote": "Lv.50相当(非表示)",
       "nature": "ひかえめ",
       "ability": "トレース",
+      "ball": "プレシャスボール",
       "ivsGuaranteed": 6,
       "notes": "2026/4/10 11:00〜4/13 10:59。勝敗のつく対戦3戦以上で参加賞としてサーナイト＋ファストクーポン100枚。特性・性格は実機で確認（2026-09-27）。"
     },
@@ -728,6 +729,7 @@
       "levelNote": "Lv.50相当(非表示)",
       "nature": "いじっぱり",
       "ability": "ききかいひ",
+      "ball": "プレシャスボール",
       "ivsGuaranteed": 6,
       "notes": "プレミアムバトルパス購入で解放される報酬。メガストーン「グソクムシャナイト」も同じ枠で入手。期間は2026-10-07 10:59まで。特性・性格は実機で確認（2026-09-27）。出典: https://champions-news.pokemon-home.com/ja/page/823.html"
     },
@@ -754,6 +756,7 @@
       "levelNote": "Lv.50相当(非表示)",
       "nature": "おくびょう",
       "ability": "せいしんりょく",
+      "ball": "プレシャスボール",
       "ivsGuaranteed": 6,
       "notes": "プレミアムバトルパス購入で解放される報酬。メガストーン「ルカリオナイトZ」も同じ枠で入手。期間は2026-10-07 10:59まで。特性・性格は実機で確認（2026-09-27）。出典: https://champions-news.pokemon-home.com/ja/page/823.html"
     },
@@ -780,6 +783,7 @@
       "levelNote": "Lv.50相当(非表示)",
       "nature": "いじっぱり",
       "ability": "グラスメイカー",
+      "ball": "プレシャスボール",
       "ivsGuaranteed": 6,
       "notes": "無料のバトルパスの報酬。期間は2026-10-07 10:59まで。特性・性格は実機で確認（2026-09-27）。出典: https://champions-news.pokemon-home.com/ja/page/823.html"
     },
@@ -806,6 +810,7 @@
       "levelNote": "Lv.50相当(非表示)",
       "nature": "ひかえめ",
       "ability": "サーフテール",
+      "ball": "プレシャスボール",
       "ivsGuaranteed": 6,
       "notes": "公式オンライン大会（シングルバトル・レギュレーションM-B）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。ファストクーポン100枚・称号も付与。開催期間は2026-08-21 11:00〜2026-08-24 10:59（エントリーは2026-08-14 11:00から）。特性・性格は実機で確認（2026-09-27）。出典: https://champions-news.pokemon-home.com/ja/page/805.html",
       "form": "アローラのすがた"
@@ -834,6 +839,7 @@
       "gender": "♀",
       "nature": "ひかえめ",
       "ability": "サイコメイカー",
+      "ball": "プレシャスボール",
       "ivsGuaranteed": 6,
       "notes": "公式オンライン大会（シングルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。公式表記は「イエッサン（メスのすがた）」。ファストクーポン100枚・称号も付与。開催期間は2026-09-18 11:00〜2026-09-21 10:59（エントリーは2026-09-11 11:00から）。特性・性格は実機で確認（2026-09-27）。出典: https://champions-news.pokemon-home.com/ja/page/824.html"
     },
@@ -938,6 +944,38 @@
         "url": "https://x.com/PokemonKoreaInc/status/2060285022415016023",
         "kind": "official",
         "note": "大会概要: https://pokemonkorea.co.kr/ptc2026"
+      }
+    },
+    {
+      "id": "CH15",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "月刊コロコロコミック2026年8月号のルカリオ",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "月刊コロコロコミック 8月号",
+      "startDate": "2026-07-15",
+      "endDate": "2026-08-14",
+      "region": [
+        "日本"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "gender": "♂",
+      "ability": "せいしんりょく",
+      "ball": "プレシャスボール",
+      "moves": [
+        "てっていこうせん",
+        "はどうだん",
+        "あくのはどう",
+        "りゅうのはどう"
+      ],
+      "ivsGuaranteed": 6,
+      "notes": "月刊コロコロコミック2026年8月号の付録のシリアルコードで入手。性格は未確認。",
+      "source": {
+        "kind": "self",
+        "note": "2026-09-27 ユーザーの実機・付録で確認"
       }
     }
   ]

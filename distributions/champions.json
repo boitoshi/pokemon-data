@@ -568,7 +568,7 @@
       ],
       "eventName": "PJCS日本一決定戦2026記念",
       "event": {
-        "kind": "champions",
+        "kind": "pjcs",
         "year": 2026,
         "schedule": "2026-06-06〜2026-06-14"
       },
@@ -894,7 +894,7 @@
         "フレアドライブ"
       ],
       "ivsGuaranteed": 6,
-      "notes": "WCS2026開催記念。2026年8月29日0:30〜8月31日12:00（日本時間）にTwitchの公式VGC配信を合計60分視聴し、Twitch Dropsで受取コードを獲得する。称号は「イベントに参加した」（英語名: The Festive）。受取コードの有効期限は2026年9月4日8:59（日本時間）。",
+      "notes": "WCS2026開催記念。2026年8月29日0:30〜8月31日12:00（日本時間）にTwitchの公式VGC配信を合計60分視聴し、Twitch Dropsで受取コードを獲得する。称号は「イベントにさんかした」（英語名: The Festive）。受取コードの有効期限は2026年9月4日8:59（日本時間）。",
       "source": {
         "url": "https://worlds.pokemon.com/en-us/coverage-rewards/rewards",
         "kind": "official"

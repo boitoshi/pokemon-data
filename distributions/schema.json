@@ -118,8 +118,37 @@
         "gigantamax": { "const": true },
         "alpha": { "const": true, "description": "オヤブン（LA/ZA）" },
         "password": { "type": "string" },
-        "notes": { "type": "string" },
+        "notes": { "type": "string", "description": "読者向けの備考。作業メモ（統合・修正の記録）や確認日・出典URLは書かない（verified / references / git 履歴へ）" },
         "postUrl": { "type": "string" },
+        "verified": {
+          "type": "object",
+          "required": ["method", "fields"],
+          "additionalProperties": false,
+          "description": "pokebros が現物で確かめた項目。個別ページに「確認済み」として出す",
+          "properties": {
+            "method": { "enum": ["in-game", "official-image"], "description": "in-game=実機で確認 / official-image=公式の告知画像で確認" },
+            "fields": {
+              "type": "array",
+              "minItems": 1,
+              "items": { "enum": ["ability", "nature", "moves", "ball", "heldItem", "level", "gender", "ot", "trainerId", "metLocation", "ribbons"] }
+            },
+            "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+          }
+        },
+        "references": {
+          "type": "array",
+          "minItems": 1,
+          "description": "読者に示す出典（公式告知など）。データの取得元の記録は source",
+          "items": {
+            "type": "object",
+            "required": ["url"],
+            "additionalProperties": false,
+            "properties": {
+              "url": { "type": "string" },
+              "label": { "type": "string" }
+            }
+          }
+        },
         "source": {
           "type": "object",
           "required": ["kind"],

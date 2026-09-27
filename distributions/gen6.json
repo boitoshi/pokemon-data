@@ -24,7 +24,7 @@
       "nature": "ランダム",
       "ability": "かそく",
       "ball": "プレシャスボール",
-      "metLocation": "インターネットでのプレゼント",
+      "metLocation": "オンラインプレゼント",
       "heldItem": "バシャーモナイト",
       "ot": {
         "JPN": "XY"
@@ -61,7 +61,7 @@
       "nature": "ランダム",
       "ability": "りんぷん",
       "ball": "プレシャスボール",
-      "metLocation": "インターネットでのプレゼント",
+      "metLocation": "オンラインプレゼント",
       "ot": {
         "JPN": "GTS"
       },
@@ -98,7 +98,7 @@
       "nature": "ランダム",
       "ability": "クリアボディ",
       "ball": "プレシャスボール",
-      "metLocation": "インターネットでのプレゼント",
+      "metLocation": "オンラインプレゼント",
       "heldItem": "メタグロスナイト",
       "shiny": "fixed",
       "ot": {
@@ -496,7 +496,7 @@
       "nature": "いじっぱり",
       "ability": "すなおこし",
       "ball": "プレシャスボール",
-      "metLocation": "7ばんどうろ",
+      "metLocation": "７ばんどうろ",
       "heldItem": "いのちのたま",
       "shiny": "fixed",
       "ot": {
@@ -571,7 +571,7 @@
       "nature": "ランダム",
       "ability": "ふゆう",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画16",
+      "metLocation": "ポケモンえいが１６",
       "heldItem": "ゲンガナイト",
       "shiny": "fixed",
       "ot": {
@@ -715,7 +715,7 @@
       "nature": "ランダム",
       "ability": "ナイトメア",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画14",
+      "metLocation": "ポケモンえいが１４",
       "heldItem": "ナゾのみ",
       "ot": {
         "JPN": "ふしぎのくに"
@@ -1215,7 +1215,7 @@
       "nature": "ランダム",
       "ability": "マルチタイプ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画15",
+      "metLocation": "ポケモンえいが１５",
       "heldItem": "シルクのスカーフ",
       "shiny": "fixed",
       "ot": {
@@ -1253,7 +1253,7 @@
       "nature": "ランダム",
       "ability": "マルチタイプ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画15",
+      "metLocation": "ポケモンえいが１５",
       "heldItem": "各種",
       "ot": {
         "JPN": "デセルシティ"
@@ -1290,7 +1290,7 @@
       "nature": "ランダム",
       "ability": "エアロック",
       "ball": "プレシャスボール",
-      "metLocation": "イベント会場",
+      "metLocation": "イベントかいじょう",
       "shiny": "fixed",
       "ot": {
         "JPN": "コロコロ"
@@ -1399,7 +1399,7 @@
       "nature": "ランダム",
       "ability": "エアロック",
       "ball": "プレシャスボール",
-      "metLocation": "イベント会場",
+      "metLocation": "イベントかいじょう",
       "shiny": "fixed",
       "ot": {
         "JPN": "SG Summer'15"
@@ -1811,7 +1811,7 @@
       "nature": "ランダム",
       "ability": "エアロック",
       "ball": "プレシャスボール",
-      "metLocation": "イベント会場",
+      "metLocation": "イベントかいじょう",
       "shiny": "fixed",
       "ot": {
         "JPN": "Nintendo HK"
@@ -1996,7 +1996,7 @@
       "nature": "ランダム",
       "ability": "マジシャン",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画15",
+      "metLocation": "ポケモンえいが１５",
       "heldItem": "きあいのタスキ",
       "ot": {
         "JPN": "Mighty"
@@ -2890,7 +2890,7 @@
       "nature": "ランダム",
       "ability": "ちょすい",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画16",
+      "metLocation": "ポケモンえいが１６",
       "heldItem": "いかりまんじゅう",
       "ot": {
         "JPN": "ネーベル"
@@ -2926,7 +2926,7 @@
       "nature": "いじっぱり",
       "ability": "すなのちから",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン番組",
+      "metLocation": "ポケモンばんぐみ",
       "heldItem": "とつげきチョッキ",
       "ot": {
         "JPN": "ヒャダイン"
@@ -3079,7 +3079,7 @@
       "nature": "ランダム",
       "ability": "シンクロ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画16",
+      "metLocation": "ポケモンえいが１６",
       "heldItem": "サーナイトナイト",
       "shiny": "fixed",
       "ot": {
@@ -3118,7 +3118,7 @@
       "nature": "ランダム",
       "ability": "ふゆう",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画16",
+      "metLocation": "ポケモンえいが１６",
       "heldItem": "ゲンガナイト",
       "shiny": "fixed",
       "ot": {
@@ -3263,7 +3263,7 @@
       "nature": "ランダム",
       "ability": "ちょすい",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画16",
+      "metLocation": "ポケモンえいが１６",
       "heldItem": "いかりまんじゅう",
       "ot": {
         "JPN": "Nebel"
@@ -3699,7 +3699,7 @@
       "nature": "ランダム",
       "ability": "あまのじゃく",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンセンタートウキョーベイ",
+      "metLocation": "ＰＣトウキョーベイ",
       "heldItem": "ナナシのみ",
       "ot": {
         "JPN": "ＰＣＴＢ"
@@ -4239,7 +4239,7 @@
       "nature": "ランダム",
       "ability": "せいでんき",
       "ball": "プレシャスボール",
-      "metLocation": "イベント会場",
+      "metLocation": "イベントかいじょう",
       "heldItem": "でんきだま",
       "ot": {
         "JPN": "ウチダアツト"
@@ -4518,7 +4518,7 @@
       "nature": "ランダム",
       "ability": "クリアボディ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画14",
+      "metLocation": "ポケモンえいが１４",
       "heldItem": "ノーマルジュエル",
       "ot": {
         "JPN": "えいがかん"
@@ -4659,7 +4659,7 @@
       "nature": "ランダム",
       "ability": "てんのめぐみ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンセンタートウホク",
+      "metLocation": "ＰＣトウホク",
       "heldItem": "ほしのかけら",
       "shiny": "fixed",
       "ot": {
@@ -4930,7 +4930,7 @@
       "nature": "れいせい",
       "ability": "バトルスイッチ",
       "ball": "プレシャスボール",
-      "metLocation": "2014ポケモンワールドチャンピオンシップス",
+      "metLocation": "Ｗｏｒｌｄｓ２０１４",
       "heldItem": "じゃくてんほけん",
       "ot": {
         "JPN": "WORLD14"
@@ -5148,7 +5148,7 @@
       "nature": "ランダム",
       "ability": "げきりゅう",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンセンタートウキョー",
+      "metLocation": "ＰＣトウキョー",
       "ot": {
         "JPN": "はままつちょ"
       },
@@ -5184,7 +5184,7 @@
       "nature": "ランダム",
       "ability": "げきりゅう",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンセンタートウキョー",
+      "metLocation": "ＰＣトウキョー",
       "ot": {
         "JPN": "はままつちょ"
       },
@@ -5452,7 +5452,7 @@
       "nature": "ランダム",
       "ability": "エアロック",
       "ball": "プレシャスボール",
-      "metLocation": "イベント会場",
+      "metLocation": "イベントかいじょう",
       "shiny": "fixed",
       "ot": {
         "JPN": "ＷＨＦ１５"
@@ -5524,7 +5524,7 @@
       "nature": "ランダム",
       "ability": "プレッシャー",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画15",
+      "metLocation": "ポケモンえいが１５",
       "heldItem": "いのちのたま",
       "ot": {
         "JPN": "デセルシティ"
@@ -5562,7 +5562,7 @@
       "nature": "ゆうかん",
       "ability": "ふゆう",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画15",
+      "metLocation": "ポケモンえいが１５",
       "heldItem": "はっきんだま",
       "ot": {
         "JPN": "デセルシティ"
@@ -5599,7 +5599,7 @@
       "nature": "おくびょう",
       "ability": "テレパシー",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画15",
+      "metLocation": "ポケモンえいが１５",
       "heldItem": "しらたま",
       "ot": {
         "JPN": "デセルシティ"
@@ -5636,7 +5636,7 @@
       "nature": "ひかえめ",
       "ability": "テレパシー",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画15",
+      "metLocation": "ポケモンえいが１５",
       "heldItem": "こんごうだま",
       "ot": {
         "JPN": "デセルシティ"
@@ -5673,7 +5673,7 @@
       "nature": "いじっぱり",
       "ability": "ひでり",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画15",
+      "metLocation": "ポケモンえいが１５",
       "heldItem": "こだわりハチマキ",
       "ot": {
         "JPN": "デセルシティ"
@@ -5710,7 +5710,7 @@
       "nature": "おくびょう",
       "ability": "あめふらし",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画15",
+      "metLocation": "ポケモンえいが１５",
       "heldItem": "こだわりスカーフ",
       "ot": {
         "JPN": "デセルシティ"
@@ -5825,7 +5825,7 @@
       "nature": "ランダム",
       "ability": "マジシャン",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画15",
+      "metLocation": "ポケモンえいが１５",
       "heldItem": "きあいのタスキ",
       "ot": {
         "JPN": "えいがかん"
@@ -5862,7 +5862,7 @@
       "nature": "ランダム",
       "ability": "てんのめぐみ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンセンタートウホク",
+      "metLocation": "ＰＣトウホク",
       "heldItem": "あかいいと",
       "ot": {
         "JPN": "おりひめ"
@@ -5974,7 +5974,7 @@
       "nature": "いじっぱり",
       "ability": "かそく",
       "ball": "プレシャスボール",
-      "metLocation": "2015ポケモンワールドチャンピオンシップス",
+      "metLocation": "Ｗｏｒｌｄｓ２０１５",
       "heldItem": "サメハダナイト",
       "ot": {
         "JPN": "WORLD15"
@@ -6495,7 +6495,7 @@
       "nature": "ランダム",
       "ability": "エアロック",
       "ball": "プレシャスボール",
-      "metLocation": "イベント会場",
+      "metLocation": "イベントかいじょう",
       "shiny": "fixed",
       "ot": {
         "JPN": "コロコロ"
@@ -7072,7 +7072,7 @@
       "nature": "ランダム",
       "ability": "くいしんぼう",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画16",
+      "metLocation": "ポケモンえいが１６",
       "heldItem": "ふうせん",
       "ot": {
         "JPN": "そうせんきょ"
@@ -7110,7 +7110,7 @@
       "nature": "ランダム",
       "ability": "へんげんじざい",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画16",
+      "metLocation": "ポケモンえいが１６",
       "heldItem": "マスターボール",
       "ot": {
         "JPN": "そうせんきょ"
@@ -7190,7 +7190,7 @@
       "nature": "ランダム",
       "ability": "てんのめぐみ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンセンタートウホク",
+      "metLocation": "ＰＣトウホク",
       "heldItem": "ほしのかけら",
       "ot": {
         "JPN": "ひこぼし"
@@ -7264,7 +7264,7 @@
       "nature": "ランダム",
       "ability": "あめうけざら",
       "ball": "プレシャスボール",
-      "metLocation": "2016ポケモンワールドチャンピオンシップス",
+      "metLocation": "WCS２０１６",
       "heldItem": "カメックスナイト",
       "ot": {
         "JPN": "WORLDS16"
@@ -7303,7 +7303,7 @@
       "nature": "ランダム",
       "ability": "サンパワー",
       "ball": "プレシャスボール",
-      "metLocation": "2016ポケモンワールドチャンピオンシップス",
+      "metLocation": "WCS２０１６",
       "heldItem": "リザードナイトＸ",
       "ot": {
         "JPN": "WORLDS16"
@@ -7342,7 +7342,7 @@
       "nature": "ランダム",
       "ability": "ようりょくそ",
       "ball": "プレシャスボール",
-      "metLocation": "2016ポケモンワールドチャンピオンシップス",
+      "metLocation": "WCS２０１６",
       "heldItem": "フシギバナイト",
       "ot": {
         "JPN": "WORLDS16"
@@ -9049,7 +9049,7 @@
       "nature": "ランダム",
       "ability": "クリアボディ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画14",
+      "metLocation": "ポケモンえいが１４",
       "heldItem": "ノーマルジュエル",
       "ot": {
         "JPN": "MovieTheater"

@@ -464,7 +464,7 @@
       "nature": "ランダム",
       "ability": "しょうりのほし",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画11",
+      "metLocation": "ポケモンえいが１１",
       "heldItem": "ほのおのジュエル",
       "ot": {
         "JPN": "アイント"
@@ -498,7 +498,7 @@
       "nature": "ランダム",
       "ability": "テラボルテージ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画11",
+      "metLocation": "ポケモンえいが１１",
       "heldItem": "ドラゴンジュエル",
       "ot": {
         "JPN": "サトシ"
@@ -532,7 +532,7 @@
       "nature": "ランダム",
       "ability": "ターボブレイズ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画11",
+      "metLocation": "ポケモンえいが１１",
       "heldItem": "ドラゴンジュエル",
       "ot": {
         "JPN": "サトシ"
@@ -639,7 +639,7 @@
       "nature": "ゆうかん",
       "ability": "じしんかじょう",
       "ball": "プレシャスボール",
-      "metLocation": "2011ポケモンワールドチャンピオンシップス",
+      "metLocation": "Ｗｏｒｌｄｓ２０１１",
       "heldItem": "たべのこし",
       "ot": {
         "JPN": "WORLD11"
@@ -1358,7 +1358,7 @@
       "nature": "ランダム",
       "ability": "ひでり",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンセンターフクオカ",
+      "metLocation": "ＰＣフクオカ",
       "shiny": "conditional",
       "ot": {
         "JPN": "フクオカ"
@@ -1393,7 +1393,7 @@
       "nature": "ランダム",
       "ability": "あめふらし",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンセンターフクオカ",
+      "metLocation": "ＰＣフクオカ",
       "shiny": "conditional",
       "ot": {
         "JPN": "フクオカ"
@@ -1684,7 +1684,7 @@
       "nature": "ランダム",
       "ability": "せいぎのこころ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画12",
+      "metLocation": "ポケモンえいが１２",
       "heldItem": "ポイントマックス",
       "ot": {
         "JPN": "しょこたん"
@@ -1722,7 +1722,7 @@
       "nature": "ランダム",
       "ability": "てんのめぐみ",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画12",
+      "metLocation": "ポケモンえいが１２",
       "heldItem": "ポイントマックス",
       "ot": {
         "JPN": "えいがかん"
@@ -2100,7 +2100,7 @@
       "nature": "おくびょう",
       "ability": "ひらいしん",
       "ball": "プレシャスボール",
-      "metLocation": "2012ポケモンワールドチャンピオンシップス",
+      "metLocation": "Ｗｏｒｌｄｓ２０１２",
       "heldItem": "でんきだま",
       "ot": {
         "JPN": "WORLD12"
@@ -2669,7 +2669,7 @@
       "nature": "ランダム",
       "ability": "すいすい",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンセンターナゴヤ",
+      "metLocation": "ＰＣナゴヤ",
       "heldItem": "ふしぎなアメ",
       "shiny": "fixed",
       "ot": {
@@ -2973,7 +2973,7 @@
       "nature": "おくびょう",
       "ability": "きんちょうかん",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画13",
+      "metLocation": "ポケモンえいが１３",
       "heldItem": "イバンのみ",
       "ot": {
         "JPN": "Ｐヒルズ"
@@ -3011,7 +3011,7 @@
       "nature": "せっかち",
       "ability": "ダウンロード",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画13",
+      "metLocation": "ポケモンえいが１３",
       "heldItem": "こだわりスカーフ",
       "shiny": "fixed",
       "ot": {
@@ -3051,7 +3051,7 @@
       "nature": "がんばりや",
       "ability": "てきおうりょく",
       "ball": "プレシャスボール",
-      "metLocation": "イベント会場",
+      "metLocation": "イベントかいじょう",
       "heldItem": "シルクのスカーフ",
       "ot": {
         "JPN": "キヨ"
@@ -3166,7 +3166,7 @@
       "nature": "ようき",
       "ability": "テクニシャン",
       "ball": "プレシャスボール",
-      "metLocation": "2013ポケモンワールドチャンピオンシップス",
+      "metLocation": "Ｗｏｒｌｄｓ２０１３",
       "heldItem": "シルクのスカーフ",
       "ot": {
         "JPN": "WORLD13"
@@ -3929,7 +3929,7 @@
       "nature": "ランダム",
       "ability": "ふゆう",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画11",
+      "metLocation": "ポケモンえいが１１",
       "shiny": "fixed",
       "ot": {
         "JPN": "カリータ"
@@ -3963,7 +3963,7 @@
       "nature": "ランダム",
       "ability": "てつのこぶし",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画11",
+      "metLocation": "ポケモンえいが１１",
       "shiny": "fixed",
       "ot": {
         "JPN": "ジャンタ"
@@ -4139,7 +4139,7 @@
       "nature": "ランダム",
       "ability": "げきりゅう",
       "ball": "プレシャスボール",
-      "metLocation": "Wi-Fiでのプレゼント",
+      "metLocation": "Wi-Fiプレゼント",
       "heldItem": "メトロノーム",
       "ot": {
         "JPN": "リサイタル"
@@ -4174,7 +4174,7 @@
       "nature": "ランダム",
       "ability": "ダウンロード",
       "ball": "プレシャスボール",
-      "metLocation": "Wi-Fiでのプレゼント",
+      "metLocation": "Wi-Fiプレゼント",
       "ot": {
         "JPN": "プラズマ"
       },
@@ -4246,7 +4246,7 @@
       "nature": "ランダム",
       "ability": "てんのめぐみ",
       "ball": "プレシャスボール",
-      "metLocation": "Wi-Fiでのプレゼント",
+      "metLocation": "Wi-Fiプレゼント",
       "heldItem": "ミクルのみ",
       "ot": {
         "JPN": "デコロラ"

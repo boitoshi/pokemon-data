@@ -24,7 +24,7 @@
       "nature": "ランダム",
       "ability": "あついしぼう",
       "ball": "プレシャスボール",
-      "metLocation": "インターネットでのプレゼント",
+      "metLocation": "オンラインプレゼント",
       "otFromPlayer": true,
       "trainerId": "(プレイヤーのもの)",
       "moves": [
@@ -311,7 +311,7 @@
       "nature": "がんばりや",
       "ability": "せいでんき",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "サトシ"
       },
@@ -346,7 +346,7 @@
       "nature": "がんばりや",
       "ability": "せいでんき",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "サトシ"
       },
@@ -381,7 +381,7 @@
       "nature": "がんばりや",
       "ability": "せいでんき",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "サトシ"
       },
@@ -416,7 +416,7 @@
       "nature": "がんばりや",
       "ability": "せいでんき",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "サトシ"
       },
@@ -451,7 +451,7 @@
       "nature": "がんばりや",
       "ability": "せいでんき",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "サトシ"
       },
@@ -486,7 +486,7 @@
       "nature": "がんばりや",
       "ability": "せいでんき",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "サトシ"
       },
@@ -660,7 +660,7 @@
       "nature": "がんばりや",
       "ability": "げきりゅう",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "マコト"
       },
@@ -695,7 +695,7 @@
       "nature": "まじめ",
       "ability": "ふくつのこころ",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "ソウジ"
       },
@@ -730,7 +730,7 @@
       "nature": "いじっぱり",
       "ability": "もうか",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "サトシ"
       },
@@ -798,7 +798,7 @@
       "nature": "ランダム",
       "ability": "プレッシャー",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "heldItem": "せいなるはい",
       "ot": {
         "JPN": "テンセイざん"
@@ -832,7 +832,7 @@
       "nature": "ランダム",
       "ability": "ふゆう",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンだいすきクラブ",
+      "metLocation": "だいすきクラブ",
       "heldItem": "すいせいのかけら",
       "ot": {
         "JPN": "サクジ"
@@ -866,7 +866,7 @@
       "nature": "ランダム",
       "ability": "ふゆう",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモンだいすきクラブ",
+      "metLocation": "だいすきクラブ",
       "heldItem": "すいせいのかけら",
       "ot": {
         "JPN": "サクジ"
@@ -1010,7 +1010,7 @@
       "nature": "がんばりや",
       "ability": "せいでんき",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "Satoshi"
       },
@@ -1045,7 +1045,7 @@
       "nature": "がんばりや",
       "ability": "せいでんき",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "Ash"
       },
@@ -1321,7 +1321,7 @@
       "nature": "まじめ",
       "ability": "はりきり",
       "ball": "ハイパーボール",
-      "metLocation": "ポケモン番組",
+      "metLocation": "ポケモンばんぐみ",
       "ot": {
         "JPN": "はじめ"
       },
@@ -1464,7 +1464,7 @@
       "nature": "がんばりや",
       "ability": "せいでんき",
       "ball": "モンスターボール",
-      "metLocation": "ポケモン映画2017",
+      "metLocation": "ポケモンえいが１７",
       "ot": {
         "JPN": "Satoshi"
       },
@@ -1500,7 +1500,7 @@
       "nature": "ランダム",
       "ability": "マルチスケイル",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画2018",
+      "metLocation": "ポケモンえいが１８",
       "ot": {
         "JPN": "フウラシティ"
       },
@@ -1573,7 +1573,7 @@
       "nature": "ランダム",
       "ability": "マルチスケイル",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画2018",
+      "metLocation": "ポケモンえいが１８",
       "ot": {
         "JPN": "フウラシティ"
       },
@@ -1607,7 +1607,7 @@
       "nature": "ランダム",
       "ability": "ちくでん",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画2018",
+      "metLocation": "ポケモンえいが１８",
       "heldItem": "ふうせん",
       "ot": {
         "JPN": "フウラシティ"
@@ -3034,7 +3034,7 @@
       "nature": "ランダム",
       "ability": "ちくでん",
       "ball": "プレシャスボール",
-      "metLocation": "ポケモン映画2018",
+      "metLocation": "ポケモンえいが１８",
       "heldItem": "ふうせん",
       "ot": {
         "JPN": "フウラシティ"
@@ -5029,7 +5029,7 @@
       "metLocation": "ポケモンアニメ",
       "heldItem": "シルクのスカーフ",
       "ot": {
-        "KOR": "릴리에"
+        "JPN": "릴리에"
       },
       "trainerId": "170822",
       "moves": [
@@ -5326,7 +5326,7 @@
       "ball": "プレシャスボール",
       "metLocation": "すてきなばしょ",
       "ot": {
-        "KOR": "썬문"
+        "JPN": "썬문"
       },
       "trainerId": "170404",
       "moves": [
@@ -5400,7 +5400,7 @@
       "nature": "ランダム",
       "ability": "うるおいボイス",
       "ball": "モンスターボール",
-      "metLocation": "バンク",
+      "metLocation": "ポケモンバンク",
       "otFromPlayer": true,
       "trainerId": "(プレイヤーのもの)",
       "moves": [
@@ -5435,7 +5435,7 @@
       "nature": "ランダム",
       "ability": "いかく",
       "ball": "モンスターボール",
-      "metLocation": "バンク",
+      "metLocation": "ポケモンバンク",
       "otFromPlayer": true,
       "trainerId": "(プレイヤーのもの)",
       "moves": [
@@ -5470,7 +5470,7 @@
       "nature": "ランダム",
       "ability": "えんかく",
       "ball": "モンスターボール",
-      "metLocation": "バンク",
+      "metLocation": "ポケモンバンク",
       "otFromPlayer": true,
       "trainerId": "(プレイヤーのもの)",
       "moves": [
@@ -5505,7 +5505,7 @@
       "nature": "ランダム",
       "ability": "まけんき",
       "ball": "モンスターボール",
-      "metLocation": "バンク",
+      "metLocation": "ポケモンバンク",
       "otFromPlayer": true,
       "trainerId": "(プレイヤーのもの)",
       "moves": [
@@ -5540,7 +5540,7 @@
       "nature": "ランダム",
       "ability": "きょうせい",
       "ball": "モンスターボール",
-      "metLocation": "バンク",
+      "metLocation": "ポケモンバンク",
       "otFromPlayer": true,
       "trainerId": "(プレイヤーのもの)",
       "moves": [

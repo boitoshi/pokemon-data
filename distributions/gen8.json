@@ -877,7 +877,7 @@
       "nature": "なまいき",
       "ability": "よびみず",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "たべのこし",
       "ot": {
         "JPN": "Eric"
@@ -925,7 +925,7 @@
       "nature": "ずぶとい",
       "ability": "フレンドガード",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "しんかのきせき",
       "shiny": "fixed",
       "ot": {
@@ -974,7 +974,7 @@
       "nature": "しんちょう",
       "ability": "いたずらごころ",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "だっしゅつボタン",
       "ot": {
         "JPN": "정원석"
@@ -1022,7 +1022,7 @@
       "nature": "しんちょう",
       "ability": "いたずらごころ",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "だっしゅつボタン",
       "ot": {
         "JPN": "コウ"
@@ -1227,7 +1227,7 @@
       "nature": "いじっぱり",
       "ability": "がんじょうあご",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "こだわりスカーフ",
       "ot": {
         "JPN": "Marco"
@@ -1832,7 +1832,7 @@
       "nature": "おくびょう",
       "ability": "サンパワー",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "いのちのたま",
       "ot": {
         "JPN": "Leonardo"
@@ -2228,7 +2228,7 @@
       "nature": "ひかえめ",
       "ability": "てきおうりょく",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "シルクのスカーフ",
       "ot": {
         "JPN": "정상윤"
@@ -2276,7 +2276,7 @@
       "nature": "ひかえめ",
       "ability": "ひでり",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "じゃくてんほけん",
       "ot": {
         "JPN": "Wolfe"
@@ -2325,7 +2325,7 @@
       "nature": "ずぶとい",
       "ability": "ひでり",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "オボンのみ",
       "ot": {
         "JPN": "クララ"
@@ -3466,7 +3466,7 @@
       "nature": "れいせい",
       "ability": "よびみず",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "たつじんのおび",
       "ot": {
         "JPN": "カ・エール"
@@ -3564,7 +3564,7 @@
       "nature": "なまいき",
       "ability": "さいせいりょく",
       "ball": "プレシャスボール",
-      "metLocation": "バトル大会",
+      "metLocation": "バトルたいかい",
       "heldItem": "きあいのタスキ",
       "shiny": "fixed",
       "ot": {

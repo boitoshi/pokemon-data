@@ -15994,7 +15994,9 @@
     "distributionMethod": "あいことば",
     "startDate": "2017-08-24",
     "endDate": "2017-10-31",
-    "ot": "릴리에",
+    "ot": {
+      "KOR": "릴리에"
+    },
     "trainerId": "170822",
     "metLocation": "ポケモンアニメ",
     "ball": "プレシャスボール",
@@ -16010,6 +16012,7 @@
       "クラシックリボン"
     ],
     "password": "JAMES",
+    "region": "韓国",
     "ivs": "ランダム"
   },
   {
@@ -16259,10 +16262,12 @@
     "generation": 7,
     "game": "サン, ムーン",
     "eventName": "Alolan Vulpix",
-    "distributionMethod": "ALOLA",
+    "distributionMethod": "あいことば",
     "startDate": "2017-04-04",
     "endDate": "2017-06-30",
-    "ot": "썬문",
+    "ot": {
+      "KOR": "썬문"
+    },
     "trainerId": "170404",
     "metLocation": "すてきなばしょ",
     "ball": "プレシャスボール",
@@ -16279,6 +16284,8 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "password": "ALOLA",
+    "region": "韓国",
     "ivs": "ランダム"
   },
   {

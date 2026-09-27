@@ -29,11 +29,6 @@ const readJsonOptional = (relativePath, fallback) => {
 // ---- distributions/*.json（distributionMethod の実データ値集合を集めるためだけに読む） ----
 const DISTRIBUTION_FILES = ["gen5.json", "gen6.json", "gen7.json", "gen8.json", "gen9.json", "champions.json"];
 
-// ALOLA: distributions/gen7.json#151 のみに現れる意味不明値
-// （validate-distributions.mjs が distributionMethod-not-in-master warning を出している）。
-// 実データを鵜呑みにして対照表に載せると誤情報になるため、ここでは明示的に除外する。
-const EXCLUDED_METHOD_VALUES = new Set(["ALOLA"]);
-
 function collectUsedDistributionMethods() {
   const used = new Set();
   for (const file of DISTRIBUTION_FILES) {
@@ -73,10 +68,10 @@ function buildReverseMethodMap(distributionMethods) {
   return reverse;
 }
 
-// ---- 配布方法対照表 = 実データで使われている値（ALOLA除く）× (逆引きキー + 補足note) ----
+// ---- 配布方法対照表 = 実データで使われている値 × (逆引きキー + 補足note) ----
 function buildMethodAbbreviations(usedMethods, reverseMap, glossaryNotes) {
   const methods = {};
-  const sortedValues = [...usedMethods].filter((v) => !EXCLUDED_METHOD_VALUES.has(v)).sort();
+  const sortedValues = [...usedMethods].sort();
   for (const value of sortedValues) {
     const entry = { sourceKeys: reverseMap.get(value) ?? [] };
     if (Object.prototype.hasOwnProperty.call(glossaryNotes, value)) {
@@ -133,5 +128,5 @@ fs.writeFileSync(outputPath, JSON.stringify(output, null, 2) + "\n", "utf8");
 
 console.log("build-abbreviations: 完了");
 console.log(`  games: ${games.length}件（titles.json ${titles.length}件中、shortName===nameの${titles.length - games.length}件を除外）`);
-console.log(`  methods: ${Object.keys(methods).length}件（ALOLAを除く実データ値集合。うちnote付き: ${Object.values(methods).filter((m) => "note" in m).length}件）`);
+console.log(`  methods: ${Object.keys(methods).length}件（実データ値集合。うちnote付き: ${Object.values(methods).filter((m) => "note" in m).length}件）`);
 console.log(`  ${path.relative(root, outputPath)} を出力しました`);

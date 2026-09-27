@@ -5018,6 +5018,9 @@
       "distributionMethod": "あいことば",
       "startDate": "2017-08-24",
       "endDate": "2017-10-31",
+      "region": [
+        "韓国"
+      ],
       "level": 10,
       "gender": "♀",
       "nature": "ひかえめ",
@@ -5026,7 +5029,7 @@
       "metLocation": "ポケモンアニメ",
       "heldItem": "シルクのスカーフ",
       "ot": {
-        "JPN": "릴리에"
+        "KOR": "릴리에"
       },
       "trainerId": "170822",
       "moves": [
@@ -5310,9 +5313,12 @@
         "moon"
       ],
       "eventName": "Alolan Vulpix",
-      "distributionMethod": "ALOLA",
+      "distributionMethod": "あいことば",
       "startDate": "2017-04-04",
       "endDate": "2017-06-30",
+      "region": [
+        "韓国"
+      ],
       "level": 10,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -5320,7 +5326,7 @@
       "ball": "プレシャスボール",
       "metLocation": "すてきなばしょ",
       "ot": {
-        "JPN": "썬문"
+        "KOR": "썬문"
       },
       "trainerId": "170404",
       "moves": [
@@ -5331,7 +5337,8 @@
       ],
       "ribbons": [
         "クラシックリボン"
-      ]
+      ],
+      "password": "ALOLA"
     },
     {
       "id": "07153",

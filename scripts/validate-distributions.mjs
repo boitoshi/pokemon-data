@@ -85,6 +85,12 @@ function warn(type, detail) {
 
 const fileSummaries = [];
 const idToFiles = new Map(); // id -> [fileName,...] （ファイル間重複検出用）
+const allEntries = []; // 備考の（id: …）参照の検査用 { entry, where }
+
+// 備考の中の「（id: 05108）」のような他配信への参照
+const NOTE_ID_REF = /[（(]id:\s*([0-9A-Z][0-9A-Z-]*)[）)]/g;
+const VERIFIED_FIELDS = new Set(schema.$defs.entry.properties.verified.properties.fields.items.enum);
+const VERIFIED_METHODS = new Set(schema.$defs.entry.properties.verified.properties.method.enum);
 
 for (const fileName of files) {
   const filePath = path.join(distributionsDir, fileName);
@@ -132,6 +138,32 @@ for (const fileName of files) {
       if (!entryPropertyNames.has(key)) {
         throw new Error(`${where}: 未知のフィールド "${key}" があります（distributions/schema.json の entry.properties に未定義）`);
       }
+    }
+
+    allEntries.push({ entry, where });
+
+    // ---- verified / references（読者に見せる「確認済み」と出典） ----
+    if ("verified" in entry) {
+      const v = entry.verified;
+      if (!VERIFIED_METHODS.has(v?.method)) {
+        throw new Error(`${where}: verified.method "${v?.method}" は ${[...VERIFIED_METHODS].join(" / ")} のいずれか`);
+      }
+      if (!Array.isArray(v.fields) || v.fields.length === 0 || v.fields.some((f) => !VERIFIED_FIELDS.has(f))) {
+        throw new Error(`${where}: verified.fields は ${[...VERIFIED_FIELDS].join(" / ")} から1つ以上`);
+      }
+      if ("date" in v && !/^\d{4}-\d{2}-\d{2}$/.test(v.date)) {
+        throw new Error(`${where}: verified.date は YYYY-MM-DD`);
+      }
+    }
+    if ("references" in entry) {
+      if (!Array.isArray(entry.references) || entry.references.length === 0
+        || entry.references.some((r) => typeof r?.url !== "string" || !/^https?:\/\//.test(r.url))) {
+        throw new Error(`${where}: references は { url: "https://…" } の配列（1件以上）`);
+      }
+    }
+    // 確認日や出典URLを備考に書かない（verified / references へ。作業メモは git 履歴へ）
+    if (typeof entry.notes === "string" && /で確認（\d{4}-\d{2}-\d{2}）|出典: ?https?:\/\/|重複エントリ .*を統合/.test(entry.notes)) {
+      throw new Error(`${where}: notes に確認日・出典URL・統合メモが入っています（verified / references / git 履歴へ移す）`);
     }
 
     // ---- 必須フィールド ----
@@ -309,6 +341,24 @@ for (const fileName of files) {
 for (const [id, fileNames] of idToFiles.entries()) {
   if (fileNames.length > 1) {
     warn("id-duplicate-across-files", `id "${id}" が複数ファイルに存在します: ${fileNames.join(", ")}`);
+  }
+}
+
+// ---- 備考の（id: …）参照: 参照先が存在し、同じポケモン（図鑑番号）であること ----
+// 統合・削除した配信の id を別の配信に使い回すと、ここで参照先のポケモンが食い違って落ちる
+// （2026-09-28: 統合で空いた 09114 が WCS2026 のゲッコウガに再利用され、ワッカネズミの備考が別のポケモンを指していた）
+const entryById = new Map(allEntries.map(({ entry }) => [entry.id, entry]));
+for (const { entry, where } of allEntries) {
+  if (typeof entry.notes !== "string") continue;
+  for (const match of entry.notes.matchAll(NOTE_ID_REF)) {
+    const refId = match[1];
+    const target = entryById.get(refId);
+    if (!target) {
+      throw new Error(`${where}: 備考が参照する id "${refId}" が存在しません（統合・削除済みなら参照を外す）`);
+    }
+    if (target.dexNo !== entry.dexNo) {
+      throw new Error(`${where}: 備考が参照する id "${refId}" は別のポケモン（${target.pokemonName}）です。id を使い回していないか確認`);
+    }
   }
 }
 

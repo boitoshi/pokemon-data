@@ -28,6 +28,8 @@
 
 - `distributions/*.json` が配信データの正本。他リポジトリの配信データを直接編集しない
 - `build/` は生成物。手で編集せず、ソース側を直してから再生成する
+- **統合・削除した配信の `id` は使い回さない**（備考の「（id: …）」参照や公開ページの URL が別の配信を指してしまう。2026-09-28 に 09114 で実例。`npm run validate` が参照先のポケモン違いを止める）
+- `notes` は読者向けの備考だけ。確認日は `verified`、出典URLは `references`、統合などの作業メモは git 履歴に残す
 - `mappings/` を参照する他リポジトリ（distribution-scraper 等）は symlink 経由。実体はここだけ
 - 期限表（`poco-a-pokemon/` `raids/`）を更新したら `checkedUntil` も先へ進める。
   進めないと morning brief が毎朝「表が期限切れ」と鳴り続ける（詳細は `DEVELOPMENT_NOTES.md`）

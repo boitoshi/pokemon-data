@@ -2111,10 +2111,15 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "ニンテンドーゾーン（マクドナルド等）・DSステーションを含むニンテンドーWi-Fiコネクションで受け取れた。出典: http://web.archive.org/web/20090619021237/http://www.pokemon.co.jp/special/jirachi/",
+      "notes": "ニンテンドーゾーン（マクドナルド等）・DSステーションを含むニンテンドーWi-Fiコネクションで受け取れた。",
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "references": [
+        {
+          "url": "http://web.archive.org/web/20090619021237/http://www.pokemon.co.jp/special/jirachi/"
+        }
+      ]
     },
     {
       "id": "04056",
@@ -2308,10 +2313,15 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "ニンテンドーゾーン（マクドナルド等）・DSステーション・家庭の無線LANを含むニンテンドーWi-Fiコネクションで受け取れた。出典: http://web.archive.org/web/20100815075923/http://www.pokemon-sp.jp/news-sp/2010/08/0806_01.html",
+      "notes": "ニンテンドーゾーン（マクドナルド等）・DSステーション・家庭の無線LANを含むニンテンドーWi-Fiコネクションで受け取れた。",
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "references": [
+        {
+          "url": "http://web.archive.org/web/20100815075923/http://www.pokemon-sp.jp/news-sp/2010/08/0806_01.html"
+        }
+      ]
     }
   ]
 }

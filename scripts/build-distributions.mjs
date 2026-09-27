@@ -103,6 +103,8 @@ const OUTPUT_KEY_ORDER = [
   "password",
   "notes",
   "postUrl",
+  "verified",
+  "references",
   "region",
   "shiny",
   "teraType",
@@ -275,6 +277,8 @@ const KNOWN_ENTRY_KEYS = new Set([
   "password",
   "notes",
   "postUrl",
+  "verified",
+  "references",
   "source",
 ]);
 
@@ -332,6 +336,8 @@ function convertEntry(entry, generation) {
   if (entry.password !== undefined) out.password = entry.password;
   if (entry.notes !== undefined) out.notes = entry.notes;
   if (entry.postUrl !== undefined) out.postUrl = entry.postUrl;
+  if (entry.verified !== undefined) out.verified = entry.verified;
+  if (Array.isArray(entry.references) && entry.references.length > 0) out.references = entry.references;
 
   const region = convertRegion(entry);
   if (region !== undefined) out.region = region;

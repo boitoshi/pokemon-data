@@ -914,6 +914,7 @@
         "韓国"
       ],
       "levelNote": "Lv.50相当(非表示)",
+      "gender": "♂",
       "nature": "ようき",
       "ability": "いかく",
       "ball": "プレシャスボール",
@@ -930,8 +931,7 @@
         "url": "https://x.com/PokemonKoreaInc/status/2060285022415016023",
         "kind": "official",
         "note": "大会概要: https://pokemonkorea.co.kr/ptc2026"
-      },
-      "gender": "♂"
+      }
     }
   ]
 }

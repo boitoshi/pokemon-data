@@ -38,7 +38,7 @@ const REVERSE_GAME_MAP = {
   brilliant_diamond: "ブリリアントダイヤモンド",
   shining_pearl: "シャイニングパール",
   legends_arceus: "Pokémon LEGENDS アルセウス",
-  legends_za: "ZA",
+  legends_za: "Pokémon LEGENDS Z-A",
   scarlet: "スカーレット",
   violet: "バイオレット",
   pokemon_champions: "Pokémon Champions",

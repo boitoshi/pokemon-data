@@ -95,7 +95,6 @@
         "schedule": "2026-04-10〜2026-04-13"
       },
       "distributionMethod": "大会参加賞",
-      "distributionLocation": "勝敗のつく対戦3戦以上",
       "startDate": "2026-04-10",
       "endDate": "2026-04-13",
       "region": [
@@ -226,7 +225,6 @@
         "schedule": "2026-05-01〜2026-05-04"
       },
       "distributionMethod": "大会参加賞",
-      "distributionLocation": "勝敗のつく対戦3戦以上",
       "startDate": "2026-05-01",
       "endDate": "2026-05-04",
       "region": [
@@ -497,7 +495,6 @@
         "schedule": "2026-05-29〜2026-06-01"
       },
       "distributionMethod": "大会参加賞",
-      "distributionLocation": "勝敗のつく対戦3戦以上",
       "startDate": "2026-05-29",
       "endDate": "2026-06-01",
       "region": [
@@ -524,7 +521,6 @@
         "schedule": "2026-06-26〜2026-06-29"
       },
       "distributionMethod": "大会参加賞",
-      "distributionLocation": "勝敗のつく対戦3戦以上",
       "startDate": "2026-06-26",
       "endDate": "2026-06-29",
       "region": [
@@ -551,7 +547,6 @@
         "schedule": "2026-07-24〜2026-07-27"
       },
       "distributionMethod": "大会参加賞",
-      "distributionLocation": "勝敗のつく対戦3戦以上",
       "startDate": "2026-07-24",
       "endDate": "2026-07-27",
       "region": [
@@ -801,7 +796,7 @@
         "schedule": "2026-08-21〜2026-08-24"
       },
       "distributionMethod": "大会参加賞",
-      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "distributionLocation": "メールボックス",
       "startDate": "2026-08-21",
       "endDate": "2026-08-24",
       "region": [
@@ -829,7 +824,7 @@
         "schedule": "2026-09-18〜2026-09-21"
       },
       "distributionMethod": "大会参加賞",
-      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "distributionLocation": "メールボックス",
       "startDate": "2026-09-18",
       "endDate": "2026-09-21",
       "region": [
@@ -857,7 +852,7 @@
         "schedule": "2026-09-25〜2026-09-28"
       },
       "distributionMethod": "大会参加賞",
-      "distributionLocation": "勝敗のつく対戦3戦以上",
+      "distributionLocation": "メールボックス",
       "startDate": "2026-09-25",
       "endDate": "2026-09-28",
       "region": [

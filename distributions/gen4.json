@@ -12,10 +12,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Concert Chatot",
+      "eventName": "はっぴーバースデーコンサートプレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2006-10-28",
       "endDate": "2006-12-10",
+      "region": [
+        "日本"
+      ],
       "level": 25,
       "gender": "♂",
       "nature": "ようき",
@@ -44,10 +47,13 @@
       "games": [
         "diamond"
       ],
-      "eventName": "Magmar",
+      "eventName": "ともだちといっしょにプレゼント！ダイヤ",
       "distributionMethod": "ローカル通信",
       "startDate": "2006-11-25",
       "endDate": "2007-01-31",
+      "region": [
+        "日本"
+      ],
       "level": 30,
       "gender": "♂",
       "nature": "れいせい",
@@ -76,10 +82,13 @@
       "games": [
         "pearl"
       ],
-      "eventName": "Electabuzz",
+      "eventName": "ともだちといっしょにプレゼント！パール",
       "distributionMethod": "ローカル通信",
       "startDate": "2006-11-25",
       "endDate": "2007-01-31",
+      "region": [
+        "日本"
+      ],
       "level": 30,
       "gender": "♂",
       "nature": "やんちゃ",
@@ -109,10 +118,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "World Hobby Fair Manaphy",
+      "eventName": "うみのおうじ　マナフィ　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-01-14",
       "endDate": "2007-03-11",
+      "region": [
+        "日本"
+      ],
       "level": 5,
       "nature": "ランダム",
       "ability": "うるおいボディ",
@@ -140,10 +152,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Shokotan Tropius",
+      "eventName": "しょこたんのトロピウス　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-02-03",
       "endDate": "2007-02-12",
+      "region": [
+        "日本"
+      ],
       "level": 53,
       "gender": "♀",
       "nature": "ようき",
@@ -172,10 +187,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Yamamoto Whiscash",
+      "eventName": "やまもとのナマズン　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-03-21",
       "endDate": "2007-04-09",
+      "region": [
+        "日本"
+      ],
       "level": 51,
       "gender": "♀",
       "nature": "おとなしい",
@@ -205,10 +223,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "10th Movie Deoxys",
+      "eventName": "えいが１０しゅうねんきねん　デオキシス",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-06-23",
       "endDate": "2007-09-02",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "プレッシャー",
@@ -240,10 +261,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "2007 Tanabata Jirachi",
+      "eventName": "ジラーチにねがいを　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-07-01",
       "endDate": "2007-07-22",
+      "region": [
+        "日本"
+      ],
       "level": 5,
       "nature": "ランダム",
       "ability": "てんのめぐみ",
@@ -274,10 +298,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Cinema Darkrai",
+      "eventName": "スクリーンからやってきた　ダークライ",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-07-01",
       "endDate": "2007-09-09",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "ナイトメア",
@@ -309,10 +336,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Osaka PalCity Mew",
+      "eventName": "パルシティスペシャルプレゼント　ミュウ",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-08-31",
       "endDate": "2007-09-02",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "シンクロ",
@@ -343,10 +373,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Yokohama PalCity Mew",
+      "eventName": "パルシティスペシャルプレゼント　ミュウ",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-08-17",
       "endDate": "2007-08-19",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "シンクロ",
@@ -377,10 +410,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Nagoya PalCity Mew",
+      "eventName": "パルシティスペシャルプレゼント　ミュウ",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-08-10",
       "endDate": "2007-08-12",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "シンクロ",
@@ -411,10 +447,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Makuhari PalCity Mew",
+      "eventName": "パルシティスペシャルプレゼント　ミュウ",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-08-03",
       "endDate": "2007-08-05",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "シンクロ",
@@ -445,10 +484,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Sapporo PalCity Mew",
+      "eventName": "パルシティスペシャルプレゼント　ミュウ",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-07-28",
       "endDate": "2007-07-29",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "シンクロ",
@@ -479,10 +521,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Fukuoka PalCity Mew",
+      "eventName": "パルシティスペシャルプレゼント　ミュウ",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-07-15",
       "endDate": "2007-07-16",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "きまぐれ",
       "ability": "シンクロ",
@@ -513,10 +558,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "PalCity Lucario",
+      "eventName": "パルシティスペシャルプレゼント　LUCARIO",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-07-15",
       "endDate": "2007-09-02",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♂",
       "nature": "ひかえめ",
@@ -549,10 +597,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "First distribution",
+      "eventName": "パルシティスペシャルプレゼント　マナフィ",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-07-15",
       "endDate": "2007-07-22",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "がんばりや",
       "ability": "うるおいボディ",
@@ -583,10 +634,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Second distribution",
+      "eventName": "パルシティスペシャルプレゼント　マナフィ",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-07-28",
       "endDate": "2007-09-02",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "うるおいボディ",
@@ -617,10 +671,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "2007 Birthday Charmander",
+      "eventName": "おたんじょうび　きねん　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-07-20",
       "endDate": "2008-07-19",
+      "region": [
+        "日本"
+      ],
       "level": 40,
       "gender": "♂",
       "nature": "おっとり",
@@ -653,10 +710,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Golgo Octillery",
+      "eventName": "ゴルゴしょちょうのオクタン　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-10-14",
       "endDate": "2007-10-31",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♀",
       "nature": "まじめ",
@@ -686,10 +746,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Electivire",
+      "eventName": "さいきょうクラスプレゼント　エレキブル",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-11-15",
       "endDate": "2007-11-30",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♂",
       "nature": "まじめ",
@@ -719,10 +782,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Magmortar",
+      "eventName": "さいきょうクラスプレゼント　ブーバーン",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-12-01",
       "endDate": "2007-12-14",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♂",
       "nature": "がんばりや",
@@ -752,10 +818,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Milotic",
+      "eventName": "さいきょうクラスプレゼント　ミロカロス",
       "distributionMethod": "ローカル通信",
       "startDate": "2007-12-15",
       "endDate": "2008-01-14",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♀",
       "nature": "ずぶとい",
@@ -785,10 +854,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Dragonite",
+      "eventName": "さいきょうクラスプレゼント　カイリュー",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-01-15",
       "endDate": "2008-02-14",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♂",
       "nature": "おっとり",
@@ -818,10 +890,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Salamence",
+      "eventName": "さいきょうクラスプレゼント　ボーマンダ",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-02-15",
       "endDate": "2008-03-14",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♂",
       "nature": "やんちゃ",
@@ -851,10 +926,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "McDonald's Pikachu",
+      "eventName": "「プレゼント」をおぼえた　ピカチュウ",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-05-30",
       "endDate": "2008-06-19",
+      "region": [
+        "日本"
+      ],
       "level": 20,
       "gender": "♀",
       "nature": "てれや",
@@ -884,10 +962,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Movie Regigigas",
+      "eventName": "えいが　まえうりけんの　レジギガス",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-06-20",
       "endDate": "2008-08-31",
+      "region": [
+        "日本"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "スロースタート",
@@ -916,10 +997,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "Cinema Shaymin",
+      "eventName": "スクリーンからやってきた　シェイミ",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-07-06",
       "endDate": "2008-09-30",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "しぜんかいふく",
@@ -951,10 +1035,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "2008 Birthday Charmander",
+      "eventName": "おたんじょうび　きねん　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-07-20",
       "endDate": "2009-07-19",
+      "region": [
+        "日本"
+      ],
       "level": 40,
       "gender": "♂",
       "nature": "むじゃき",
@@ -991,6 +1078,9 @@
       "distributionMethod": "ローカル通信",
       "startDate": "2008-08-17",
       "endDate": "2008-08-17",
+      "region": [
+        "北米"
+      ],
       "level": 30,
       "gender": "♂",
       "nature": "いじっぱり",
@@ -1023,10 +1113,13 @@
         "diamond",
         "pearl"
       ],
-      "eventName": "2008 Tanabata Jirachi",
+      "eventName": "ジラーチにねがいを　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-08-18",
       "endDate": "2008-08-31",
+      "region": [
+        "日本"
+      ],
       "level": 5,
       "nature": "ランダム",
       "ability": "てんのめぐみ",
@@ -1058,10 +1151,13 @@
         "pearl",
         "platinum"
       ],
-      "eventName": "Pokémon Center Yokohama Pikachu",
+      "eventName": "おひっこし　きねん　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-10-10",
       "endDate": "2008-11-03",
+      "region": [
+        "日本"
+      ],
       "level": 40,
       "gender": "♂",
       "nature": "ひかえめ",
@@ -1092,10 +1188,13 @@
       "games": [
         "platinum"
       ],
-      "eventName": "2008 TCG World Championships Milotic",
+      "eventName": "WCS　きんのミロカロス　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-10-12",
       "endDate": "2009-01-25",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♂",
       "nature": "おくびょう",
@@ -1130,10 +1229,13 @@
         "pearl",
         "platinum"
       ],
-      "eventName": "Pokémon Center Eevee",
+      "eventName": "イーブイコレクション　きねんプレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-12-06",
       "endDate": "2009-03-19",
+      "region": [
+        "日本"
+      ],
       "level": 10,
       "gender": "♀",
       "nature": "さみしがり",
@@ -1166,10 +1268,13 @@
         "pearl",
         "platinum"
       ],
-      "eventName": "2008 Birthday Pikachu",
+      "eventName": "おたんじょうび　きねん　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2008-12-26",
       "endDate": "2009-12-25",
+      "region": [
+        "日本"
+      ],
       "level": 40,
       "gender": "♂",
       "nature": "ひかえめ",
@@ -1202,10 +1307,13 @@
         "pearl",
         "platinum"
       ],
-      "eventName": "Sleeping Pikachu",
+      "eventName": "おねむりピカチュウ　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2009-02-07",
       "endDate": "2009-03-15",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♂",
       "nature": "のんき",
@@ -1239,10 +1347,13 @@
         "pearl",
         "platinum"
       ],
-      "eventName": "Pokémon Center Meowth",
+      "eventName": "ポケモンセンター　ニャース　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2009-03-20",
       "endDate": "2009-04-12",
+      "region": [
+        "日本"
+      ],
       "level": 10,
       "gender": "♂",
       "nature": "ようき",
@@ -1276,10 +1387,13 @@
         "pearl",
         "platinum"
       ],
-      "eventName": "Shokotan Pikachu-colored Pichu",
+      "eventName": "ピカチュウカラーのピチュー　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2009-06-19",
       "endDate": "2009-08-31",
+      "region": [
+        "日本"
+      ],
       "level": 30,
       "gender": "♂",
       "nature": "ようき",
@@ -1314,10 +1428,13 @@
         "pearl",
         "platinum"
       ],
-      "eventName": "Cinema Arceus",
+      "eventName": "スクリーンからやってきた　アルセウス",
       "distributionMethod": "ローカル通信",
       "startDate": "2009-07-05",
       "endDate": "2009-09-30",
+      "region": [
+        "日本"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "マルチタイプ",
@@ -1352,10 +1469,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "2009 Birthday Charmander",
+      "eventName": "おたんじょうび　きねん　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2009-07-20",
       "endDate": "2010-07-19",
+      "region": [
+        "日本"
+      ],
       "level": 40,
       "gender": "♂",
       "nature": "やんちゃ",
@@ -1393,6 +1513,9 @@
       "distributionMethod": "ローカル通信",
       "startDate": "2009-08-15",
       "endDate": "2009-08-15",
+      "region": [
+        "北米"
+      ],
       "level": 30,
       "gender": "♂",
       "nature": "ようき",
@@ -1428,10 +1551,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "2009 Birthday Chimchar",
+      "eventName": "おたんじょうび　きねん　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2009-09-12",
       "endDate": "2010-09-11",
+      "region": [
+        "日本"
+      ],
       "level": 40,
       "gender": "♂",
       "nature": "おっとり",
@@ -1467,10 +1593,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "Kyoto Cross Media Experience 2009 Pikachu",
+      "eventName": "ピカチュウ　とっておきのプレゼント！",
       "distributionMethod": "ローカル通信",
       "startDate": "2009-10-03",
       "endDate": "2009-10-04",
+      "region": [
+        "日本"
+      ],
       "level": 30,
       "gender": "♂",
       "nature": "やんちゃ",
@@ -1506,10 +1635,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "Ario Pikachu",
+      "eventName": "「プレゼント」をおぼえた　ピカチュウ",
       "distributionMethod": "ローカル通信",
       "startDate": "2009-11-21",
       "endDate": "2009-11-23",
+      "region": [
+        "日本"
+      ],
       "level": 20,
       "gender": "♀",
       "nature": "てれや",
@@ -1542,10 +1674,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "2009 Birthday Pikachu",
+      "eventName": "おたんじょうび　きねん　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2009-12-26",
       "endDate": "2010-11-03",
+      "region": [
+        "日本"
+      ],
       "level": 40,
       "gender": "♂",
       "nature": "おっとり",
@@ -1577,10 +1712,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "2010 World Championships Eevee",
+      "eventName": "ぎんのイーブイ　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2010-01-11",
       "endDate": "2010-05-09",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♂",
       "nature": "がんばりや",
@@ -1617,10 +1755,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "Suicune",
+      "eventName": "キミがえらんだ　スイクン",
       "distributionMethod": "ローカル通信",
       "startDate": "2010-06-18",
       "endDate": "2010-08-31",
+      "region": [
+        "日本"
+      ],
       "level": 30,
       "nature": "のんき",
       "ability": "プレッシャー",
@@ -1656,10 +1797,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "Entei",
+      "eventName": "キミがえらんだ　エンテイ",
       "distributionMethod": "ローカル通信",
       "startDate": "2010-06-18",
       "endDate": "2010-08-31",
+      "region": [
+        "日本"
+      ],
       "level": 30,
       "nature": "いじっぱり",
       "ability": "プレッシャー",
@@ -1695,10 +1839,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "Raikou",
+      "eventName": "キミがえらんだ　ライコウ",
       "distributionMethod": "ローカル通信",
       "startDate": "2010-06-18",
       "endDate": "2010-08-31",
+      "region": [
+        "日本"
+      ],
       "level": 30,
       "nature": "うっかりや",
       "ability": "プレッシャー",
@@ -1734,10 +1881,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "Cinema Celebi",
+      "eventName": "スクリーンからやってきた　セレビィ",
       "distributionMethod": "ローカル通信",
       "startDate": "2010-07-03",
       "endDate": "2010-09-30",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "しぜんかいふく",
@@ -1772,10 +1922,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "2010 Birthday Charmander",
+      "eventName": "おたんじょうび　きねん　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2010-07-20",
       "endDate": "2010-11-03",
+      "region": [
+        "日本"
+      ],
       "level": 40,
       "gender": "♂",
       "nature": "がんばりや",
@@ -1815,6 +1968,9 @@
       "distributionMethod": "ローカル通信",
       "startDate": "2010-08-15",
       "endDate": "2010-08-15",
+      "region": [
+        "北米"
+      ],
       "level": 30,
       "gender": "♂",
       "nature": "おくびょう",
@@ -1850,10 +2006,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "7-Eleven Pikachu",
+      "eventName": "「プレゼント」をおぼえた　ピカチュウ",
       "distributionMethod": "ローカル通信",
       "startDate": "2010-08-20",
       "endDate": "2010-09-05",
+      "region": [
+        "日本"
+      ],
       "level": 20,
       "gender": "♂",
       "nature": "すなおな",
@@ -1886,10 +2045,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "2010 Birthday Chimchar",
+      "eventName": "おたんじょうび　きねん　プレゼント",
       "distributionMethod": "ローカル通信",
       "startDate": "2010-09-12",
       "endDate": "2010-11-03",
+      "region": [
+        "日本"
+      ],
       "level": 40,
       "gender": "♂",
       "nature": "がんばりや",
@@ -1923,10 +2085,13 @@
         "pearl",
         "platinum"
       ],
-      "eventName": "Nintendo Zone Jirachi",
+      "eventName": "よぞらのジラーチ　プレゼント",
       "distributionMethod": "Wi-Fi",
       "startDate": "2009-06-19",
       "endDate": "2009-07-17",
+      "region": [
+        "日本"
+      ],
       "level": 5,
       "nature": "ランダム",
       "ability": "てんのめぐみ",
@@ -1946,6 +2111,7 @@
       "ribbons": [
         "クラシックリボン"
       ],
+      "notes": "ニンテンドーゾーン（マクドナルド等）・DSステーションを含むニンテンドーWi-Fiコネクションで受け取れた。出典: http://web.archive.org/web/20090619021237/http://www.pokemon.co.jp/special/jirachi/",
       "source": {
         "kind": "bulbapedia"
       }
@@ -1958,10 +2124,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "First distribution",
+      "eventName": "きんぎん１０しゅうねん　ミュウ",
       "distributionMethod": "Wi-Fi",
       "startDate": "2009-11-11",
       "endDate": "2009-11-23",
+      "region": [
+        "日本"
+      ],
       "level": 5,
       "nature": "ランダム",
       "ability": "シンクロ",
@@ -1992,10 +2161,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "Second distribution",
+      "eventName": "きんぎん１０しゅうねん　ミュウ",
       "distributionMethod": "Wi-Fi",
       "startDate": "2010-01-29",
       "endDate": "2010-02-14",
+      "region": [
+        "日本"
+      ],
       "level": 5,
       "nature": "ランダム",
       "ability": "シンクロ",
@@ -2026,10 +2198,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "Goone's Scizor",
+      "eventName": "グーンのハッサム　プレぜント",
       "distributionMethod": "Wi-Fi",
       "startDate": "2010-06-18",
       "endDate": "2010-07-14",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♂",
       "nature": "いじっぱり",
@@ -2065,10 +2240,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "Ash's Pikachu",
+      "eventName": "サトシのピカチュウ　プレぜント",
       "distributionMethod": "Wi-Fi",
       "startDate": "2010-07-15",
       "endDate": "2010-08-10",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "gender": "♂",
       "nature": "やんちゃ",
@@ -2104,10 +2282,13 @@
         "heartgold",
         "soulsilver"
       ],
-      "eventName": "Nintendo Zone Manaphy",
+      "eventName": "まぼろしのポケモン マナフィ プレゼント",
       "distributionMethod": "Wi-Fi",
       "startDate": "2010-08-14",
       "endDate": "2010-09-12",
+      "region": [
+        "日本"
+      ],
       "level": 50,
       "nature": "わんぱく",
       "ability": "うるおいボディ",
@@ -2127,6 +2308,7 @@
       "ribbons": [
         "クラシックリボン"
       ],
+      "notes": "ニンテンドーゾーン（マクドナルド等）・DSステーション・家庭の無線LANを含むニンテンドーWi-Fiコネクションで受け取れた。出典: http://web.archive.org/web/20100815075923/http://www.pokemon-sp.jp/news-sp/2010/08/0806_01.html",
       "source": {
         "kind": "bulbapedia"
       }

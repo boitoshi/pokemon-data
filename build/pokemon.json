@@ -5,7 +5,7 @@
     "dexNo": 441,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Concert Chatot",
+    "eventName": "はっぴーバースデーコンサートプレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2006-10-28",
     "endDate": "2006-12-10",
@@ -24,6 +24,7 @@
       "おしゃべり",
       "ちょうはつ"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -32,7 +33,7 @@
     "dexNo": 126,
     "generation": 4,
     "game": "ダイヤモンド",
-    "eventName": "Magmar",
+    "eventName": "ともだちといっしょにプレゼント！ダイヤ",
     "distributionMethod": "ローカル通信",
     "startDate": "2006-11-25",
     "endDate": "2007-01-31",
@@ -51,6 +52,7 @@
       "あやしいひかり",
       "ほのおのパンチ"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -59,7 +61,7 @@
     "dexNo": 125,
     "generation": 4,
     "game": "パール",
-    "eventName": "Electabuzz",
+    "eventName": "ともだちといっしょにプレゼント！パール",
     "distributionMethod": "ローカル通信",
     "startDate": "2006-11-25",
     "endDate": "2007-01-31",
@@ -78,6 +80,7 @@
       "ひかりのかべ",
       "かみなりパンチ"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -86,7 +89,7 @@
     "dexNo": 490,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "World Hobby Fair Manaphy",
+    "eventName": "うみのおうじ　マナフィ　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-01-14",
     "endDate": "2007-03-11",
@@ -103,6 +106,7 @@
       "あわ",
       "みずあそび"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -111,7 +115,7 @@
     "dexNo": 357,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Shokotan Tropius",
+    "eventName": "しょこたんのトロピウス　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-02-03",
     "endDate": "2007-02-12",
@@ -129,6 +133,7 @@
       "にほんばれ",
       "ソーラービーム"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -137,7 +142,7 @@
     "dexNo": 340,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Yamamoto Whiscash",
+    "eventName": "やまもとのナマズン　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-03-21",
     "endDate": "2007-04-09",
@@ -156,6 +161,7 @@
       "しねんのずつき",
       "ギガインパクト"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -164,7 +170,7 @@
     "dexNo": 386,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "10th Movie Deoxys",
+    "eventName": "えいが１０しゅうねんきねん　デオキシス",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-06-23",
     "endDate": "2007-09-02",
@@ -185,6 +191,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -193,7 +200,7 @@
     "dexNo": 385,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "2007 Tanabata Jirachi",
+    "eventName": "ジラーチにねがいを　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-07-01",
     "endDate": "2007-07-22",
@@ -213,6 +220,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -221,7 +229,7 @@
     "dexNo": 491,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Cinema Darkrai",
+    "eventName": "スクリーンからやってきた　ダークライ",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-07-01",
     "endDate": "2007-09-09",
@@ -242,6 +250,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -250,7 +259,7 @@
     "dexNo": 151,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Osaka PalCity Mew",
+    "eventName": "パルシティスペシャルプレゼント　ミュウ",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-08-31",
     "endDate": "2007-09-02",
@@ -270,6 +279,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -278,7 +288,7 @@
     "dexNo": 151,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Yokohama PalCity Mew",
+    "eventName": "パルシティスペシャルプレゼント　ミュウ",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-08-17",
     "endDate": "2007-08-19",
@@ -298,6 +308,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -306,7 +317,7 @@
     "dexNo": 151,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Nagoya PalCity Mew",
+    "eventName": "パルシティスペシャルプレゼント　ミュウ",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-08-10",
     "endDate": "2007-08-12",
@@ -326,6 +337,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -334,7 +346,7 @@
     "dexNo": 151,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Makuhari PalCity Mew",
+    "eventName": "パルシティスペシャルプレゼント　ミュウ",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-08-03",
     "endDate": "2007-08-05",
@@ -354,6 +366,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -362,7 +375,7 @@
     "dexNo": 151,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Sapporo PalCity Mew",
+    "eventName": "パルシティスペシャルプレゼント　ミュウ",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-07-28",
     "endDate": "2007-07-29",
@@ -382,6 +395,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -390,7 +404,7 @@
     "dexNo": 151,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Fukuoka PalCity Mew",
+    "eventName": "パルシティスペシャルプレゼント　ミュウ",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-07-15",
     "endDate": "2007-07-16",
@@ -410,6 +424,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -418,7 +433,7 @@
     "dexNo": 448,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "PalCity Lucario",
+    "eventName": "パルシティスペシャルプレゼント　LUCARIO",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-07-15",
     "endDate": "2007-09-02",
@@ -440,6 +455,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -448,7 +464,7 @@
     "dexNo": 490,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "First distribution",
+    "eventName": "パルシティスペシャルプレゼント　マナフィ",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-07-15",
     "endDate": "2007-07-22",
@@ -468,6 +484,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -476,7 +493,7 @@
     "dexNo": 490,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Second distribution",
+    "eventName": "パルシティスペシャルプレゼント　マナフィ",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-07-28",
     "endDate": "2007-09-02",
@@ -496,6 +513,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -504,7 +522,7 @@
     "dexNo": 4,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "2007 Birthday Charmander",
+    "eventName": "おたんじょうび　きねん　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-07-20",
     "endDate": "2008-07-19",
@@ -526,6 +544,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -534,7 +553,7 @@
     "dexNo": 224,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Golgo Octillery",
+    "eventName": "ゴルゴしょちょうのオクタン　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-10-14",
     "endDate": "2007-10-31",
@@ -553,6 +572,7 @@
       "シグナルビーム",
       "はかいこうせん"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -561,7 +581,7 @@
     "dexNo": 466,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Electivire",
+    "eventName": "さいきょうクラスプレゼント　エレキブル",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-11-15",
     "endDate": "2007-11-30",
@@ -580,6 +600,7 @@
       "ほうでん",
       "１０まんボルト"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -588,7 +609,7 @@
     "dexNo": 467,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Magmortar",
+    "eventName": "さいきょうクラスプレゼント　ブーバーン",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-12-01",
     "endDate": "2007-12-14",
@@ -607,6 +628,7 @@
       "ふんえん",
       "かえんほうしゃ"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -615,7 +637,7 @@
     "dexNo": 350,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Milotic",
+    "eventName": "さいきょうクラスプレゼント　ミロカロス",
     "distributionMethod": "ローカル通信",
     "startDate": "2007-12-15",
     "endDate": "2008-01-14",
@@ -634,6 +656,7 @@
       "ハイドロポンプ",
       "れいとうビーム"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -642,7 +665,7 @@
     "dexNo": 149,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Dragonite",
+    "eventName": "さいきょうクラスプレゼント　カイリュー",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-01-15",
     "endDate": "2008-02-14",
@@ -661,6 +684,7 @@
       "げきりん",
       "りゅうのまい"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -669,7 +693,7 @@
     "dexNo": 373,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Salamence",
+    "eventName": "さいきょうクラスプレゼント　ボーマンダ",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-02-15",
     "endDate": "2008-03-14",
@@ -688,6 +712,7 @@
       "だいもんじ",
       "ドラゴンクロー"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -696,7 +721,7 @@
     "dexNo": 25,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "McDonald's Pikachu",
+    "eventName": "「プレゼント」をおぼえた　ピカチュウ",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-05-30",
     "endDate": "2008-06-19",
@@ -715,6 +740,7 @@
       "しっぽをふる",
       "プレゼント"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -723,7 +749,7 @@
     "dexNo": 486,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Movie Regigigas",
+    "eventName": "えいが　まえうりけんの　レジギガス",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-06-20",
     "endDate": "2008-08-31",
@@ -741,6 +767,7 @@
       "こごえるかぜ",
       "にぎりつぶす"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -749,7 +776,7 @@
     "dexNo": 492,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "Cinema Shaymin",
+    "eventName": "スクリーンからやってきた　シェイミ",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-07-06",
     "endDate": "2008-09-30",
@@ -770,6 +797,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -778,7 +806,7 @@
     "dexNo": 4,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "2008 Birthday Charmander",
+    "eventName": "おたんじょうび　きねん　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-07-20",
     "endDate": "2009-07-19",
@@ -800,6 +828,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -830,6 +859,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "北米",
     "ivs": "ランダム"
   },
   {
@@ -838,7 +868,7 @@
     "dexNo": 385,
     "generation": 4,
     "game": "ダイヤモンド, パール",
-    "eventName": "2008 Tanabata Jirachi",
+    "eventName": "ジラーチにねがいを　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-08-18",
     "endDate": "2008-08-31",
@@ -858,6 +888,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -866,7 +897,7 @@
     "dexNo": 25,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ",
-    "eventName": "Pokémon Center Yokohama Pikachu",
+    "eventName": "おひっこし　きねん　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-10-10",
     "endDate": "2008-11-03",
@@ -887,6 +918,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -895,7 +927,7 @@
     "dexNo": 350,
     "generation": 4,
     "game": "プラチナ",
-    "eventName": "2008 TCG World Championships Milotic",
+    "eventName": "WCS　きんのミロカロス　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-10-12",
     "endDate": "2009-01-25",
@@ -917,6 +949,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "shiny": "あり",
     "ivs": "ランダム"
   },
@@ -926,7 +959,7 @@
     "dexNo": 133,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ",
-    "eventName": "Pokémon Center Eevee",
+    "eventName": "イーブイコレクション　きねんプレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-12-06",
     "endDate": "2009-03-19",
@@ -947,6 +980,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -955,7 +989,7 @@
     "dexNo": 25,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ",
-    "eventName": "2008 Birthday Pikachu",
+    "eventName": "おたんじょうび　きねん　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2008-12-26",
     "endDate": "2009-12-25",
@@ -976,6 +1010,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -984,7 +1019,7 @@
     "dexNo": 25,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ",
-    "eventName": "Sleeping Pikachu",
+    "eventName": "おねむりピカチュウ　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2009-02-07",
     "endDate": "2009-03-15",
@@ -1006,6 +1041,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1014,7 +1050,7 @@
     "dexNo": 52,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ",
-    "eventName": "Pokémon Center Meowth",
+    "eventName": "ポケモンセンター　ニャース　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2009-03-20",
     "endDate": "2009-04-12",
@@ -1036,6 +1072,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1044,7 +1081,7 @@
     "dexNo": 172,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ",
-    "eventName": "Shokotan Pikachu-colored Pichu",
+    "eventName": "ピカチュウカラーのピチュー　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2009-06-19",
     "endDate": "2009-08-31",
@@ -1066,6 +1103,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "shiny": "あり",
     "ivs": "ランダム"
   },
@@ -1075,7 +1113,7 @@
     "dexNo": 493,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ",
-    "eventName": "Cinema Arceus",
+    "eventName": "スクリーンからやってきた　アルセウス",
     "distributionMethod": "ローカル通信",
     "startDate": "2009-07-05",
     "endDate": "2009-09-30",
@@ -1096,6 +1134,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1104,7 +1143,7 @@
     "dexNo": 4,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "2009 Birthday Charmander",
+    "eventName": "おたんじょうび　きねん　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2009-07-20",
     "endDate": "2010-07-19",
@@ -1126,6 +1165,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1156,6 +1196,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "北米",
     "ivs": "ランダム"
   },
   {
@@ -1164,7 +1205,7 @@
     "dexNo": 390,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "2009 Birthday Chimchar",
+    "eventName": "おたんじょうび　きねん　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2009-09-12",
     "endDate": "2010-09-11",
@@ -1186,6 +1227,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1194,7 +1236,7 @@
     "dexNo": 25,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "Kyoto Cross Media Experience 2009 Pikachu",
+    "eventName": "ピカチュウ　とっておきのプレゼント！",
     "distributionMethod": "ローカル通信",
     "startDate": "2009-10-03",
     "endDate": "2009-10-04",
@@ -1216,6 +1258,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1224,7 +1267,7 @@
     "dexNo": 25,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "Ario Pikachu",
+    "eventName": "「プレゼント」をおぼえた　ピカチュウ",
     "distributionMethod": "ローカル通信",
     "startDate": "2009-11-21",
     "endDate": "2009-11-23",
@@ -1243,6 +1286,7 @@
       "でんじは",
       "しっぽをふる"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1251,7 +1295,7 @@
     "dexNo": 25,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "2009 Birthday Pikachu",
+    "eventName": "おたんじょうび　きねん　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2009-12-26",
     "endDate": "2010-11-03",
@@ -1272,6 +1316,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1280,7 +1325,7 @@
     "dexNo": 133,
     "generation": 4,
     "game": "ハートゴールド, ソウルシルバー",
-    "eventName": "2010 World Championships Eevee",
+    "eventName": "ぎんのイーブイ　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2010-01-11",
     "endDate": "2010-05-09",
@@ -1302,6 +1347,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "shiny": "あり",
     "ivs": "ランダム"
   },
@@ -1311,7 +1357,7 @@
     "dexNo": 245,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "Suicune",
+    "eventName": "キミがえらんだ　スイクン",
     "distributionMethod": "ローカル通信",
     "startDate": "2010-06-18",
     "endDate": "2010-08-31",
@@ -1332,6 +1378,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "shiny": "あり",
     "ivs": "ランダム"
   },
@@ -1341,7 +1388,7 @@
     "dexNo": 244,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "Entei",
+    "eventName": "キミがえらんだ　エンテイ",
     "distributionMethod": "ローカル通信",
     "startDate": "2010-06-18",
     "endDate": "2010-08-31",
@@ -1362,6 +1409,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "shiny": "あり",
     "ivs": "ランダム"
   },
@@ -1371,7 +1419,7 @@
     "dexNo": 243,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "Raikou",
+    "eventName": "キミがえらんだ　ライコウ",
     "distributionMethod": "ローカル通信",
     "startDate": "2010-06-18",
     "endDate": "2010-08-31",
@@ -1392,6 +1440,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "shiny": "あり",
     "ivs": "ランダム"
   },
@@ -1401,7 +1450,7 @@
     "dexNo": 251,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "Cinema Celebi",
+    "eventName": "スクリーンからやってきた　セレビィ",
     "distributionMethod": "ローカル通信",
     "startDate": "2010-07-03",
     "endDate": "2010-09-30",
@@ -1422,6 +1471,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1430,7 +1480,7 @@
     "dexNo": 4,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "2010 Birthday Charmander",
+    "eventName": "おたんじょうび　きねん　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2010-07-20",
     "endDate": "2010-11-03",
@@ -1452,6 +1502,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1482,6 +1533,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "北米",
     "ivs": "ランダム"
   },
   {
@@ -1490,7 +1542,7 @@
     "dexNo": 25,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "7-Eleven Pikachu",
+    "eventName": "「プレゼント」をおぼえた　ピカチュウ",
     "distributionMethod": "ローカル通信",
     "startDate": "2010-08-20",
     "endDate": "2010-09-05",
@@ -1509,6 +1561,7 @@
       "でんきショック",
       "しっぽをふる"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1517,7 +1570,7 @@
     "dexNo": 390,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "2010 Birthday Chimchar",
+    "eventName": "おたんじょうび　きねん　プレゼント",
     "distributionMethod": "ローカル通信",
     "startDate": "2010-09-12",
     "endDate": "2010-11-03",
@@ -1539,6 +1592,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1547,7 +1601,7 @@
     "dexNo": 385,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ",
-    "eventName": "Nintendo Zone Jirachi",
+    "eventName": "よぞらのジラーチ　プレゼント",
     "distributionMethod": "Wi-Fi",
     "startDate": "2009-06-19",
     "endDate": "2009-07-17",
@@ -1568,6 +1622,8 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "notes": "ニンテンドーゾーン（マクドナルド等）・DSステーションを含むニンテンドーWi-Fiコネクションで受け取れた。出典: http://web.archive.org/web/20090619021237/http://www.pokemon.co.jp/special/jirachi/",
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1576,7 +1632,7 @@
     "dexNo": 151,
     "generation": 4,
     "game": "ハートゴールド, ソウルシルバー",
-    "eventName": "First distribution",
+    "eventName": "きんぎん１０しゅうねん　ミュウ",
     "distributionMethod": "Wi-Fi",
     "startDate": "2009-11-11",
     "endDate": "2009-11-23",
@@ -1593,6 +1649,7 @@
     "ribbons": [
       "プレミアリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1601,7 +1658,7 @@
     "dexNo": 151,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "Second distribution",
+    "eventName": "きんぎん１０しゅうねん　ミュウ",
     "distributionMethod": "Wi-Fi",
     "startDate": "2010-01-29",
     "endDate": "2010-02-14",
@@ -1618,6 +1675,7 @@
     "ribbons": [
       "プレミアリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1626,7 +1684,7 @@
     "dexNo": 212,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "Goone's Scizor",
+    "eventName": "グーンのハッサム　プレぜント",
     "distributionMethod": "Wi-Fi",
     "startDate": "2010-06-18",
     "endDate": "2010-07-14",
@@ -1648,6 +1706,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1656,7 +1715,7 @@
     "dexNo": 25,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "Ash's Pikachu",
+    "eventName": "サトシのピカチュウ　プレぜント",
     "distributionMethod": "Wi-Fi",
     "startDate": "2010-07-15",
     "endDate": "2010-08-10",
@@ -1678,6 +1737,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "region": "日本",
     "ivs": "ランダム"
   },
   {
@@ -1686,7 +1746,7 @@
     "dexNo": 490,
     "generation": 4,
     "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
-    "eventName": "Nintendo Zone Manaphy",
+    "eventName": "まぼろしのポケモン マナフィ プレゼント",
     "distributionMethod": "Wi-Fi",
     "startDate": "2010-08-14",
     "endDate": "2010-09-12",
@@ -1707,6 +1767,8 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "notes": "ニンテンドーゾーン（マクドナルド等）・DSステーション・家庭の無線LANを含むニンテンドーWi-Fiコネクションで受け取れた。出典: http://web.archive.org/web/20100815075923/http://www.pokemon-sp.jp/news-sp/2010/08/0806_01.html",
+    "region": "日本",
     "ivs": "ランダム"
   },
   {

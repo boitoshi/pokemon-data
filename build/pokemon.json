@@ -25442,5 +25442,35 @@
     "notes": "WCS2026開催記念。2026年8月29日0:30〜8月31日12:00（日本時間）にTwitchの公式VGC配信を合計60分視聴し、Twitch Dropsで受取コードを獲得する。称号は「イベントに参加した」（英語名: The Festive）。受取コードの有効期限は2026年9月4日8:59（日本時間）。",
     "region": "全世界",
     "ivs": "6V"
+  },
+  {
+    "managementId": "CH14",
+    "pokemonName": "ギャラドス",
+    "dexNo": 130,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "eventName": "Pokémon Trainers Cup 2026のギャラドス",
+    "tournamentType": "Regional",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-05-24〜2026-05-25",
+    "tournamentLocation": "韓国・ソウル COEX",
+    "distributionMethod": "あいことば",
+    "distributionLocation": "ふしぎなおくりもの",
+    "startDate": "2026-05-24",
+    "endDate": "2026-05-31",
+    "ball": "プレシャスボール",
+    "level": "Lv.50相当(非表示)",
+    "ability": "いかく",
+    "nature": "ようき",
+    "moves": [
+      "たきのぼり",
+      "じしん",
+      "こおりのキバ",
+      "りゅうのまい"
+    ],
+    "password": "DRAG0NDANCEPTC26",
+    "notes": "韓国の全国大会「포켓몬 트레이너스 컵 2026」（Pokémon Trainers Cup 2026・2026-05-24〜25・ソウル COEX）開催記念。あいことば「DRAG0NDANCEPTC26」で入手（数字の0入り）。入力期限は2026-05-31 23:59。二つ名「イベントにさんかした」が付く。性格・特性・ボール・技は公式告知画像で確認。海外での入力可否は未確認。",
+    "region": "韓国",
+    "ivs": "ランダム"
   }
 ]

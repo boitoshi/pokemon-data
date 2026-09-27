@@ -891,6 +891,45 @@
         "url": "https://worlds.pokemon.com/en-us/coverage-rewards/rewards",
         "kind": "official"
       }
+    },
+    {
+      "id": "CH14",
+      "dexNo": 130,
+      "pokemonName": "ギャラドス",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "Pokémon Trainers Cup 2026のギャラドス",
+      "event": {
+        "kind": "regional",
+        "year": 2026,
+        "schedule": "2026-05-24〜2026-05-25",
+        "location": "韓国・ソウル COEX"
+      },
+      "distributionMethod": "あいことば",
+      "distributionLocation": "ふしぎなおくりもの",
+      "startDate": "2026-05-24",
+      "endDate": "2026-05-31",
+      "region": [
+        "韓国"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "nature": "ようき",
+      "ability": "いかく",
+      "ball": "プレシャスボール",
+      "moves": [
+        "たきのぼり",
+        "じしん",
+        "こおりのキバ",
+        "りゅうのまい"
+      ],
+      "password": "DRAG0NDANCEPTC26",
+      "notes": "韓国の全国大会「포켓몬 트레이너스 컵 2026」（Pokémon Trainers Cup 2026・2026-05-24〜25・ソウル COEX）開催記念。あいことば「DRAG0NDANCEPTC26」で入手（数字の0入り）。入力期限は2026-05-31 23:59。二つ名「イベントにさんかした」が付く。性格・特性・ボール・技は公式告知画像で確認。海外での入力可否は未確認。",
+      "source": {
+        "url": "https://x.com/PokemonKoreaInc/status/2060285022415016023",
+        "kind": "official",
+        "note": "大会概要: https://pokemonkorea.co.kr/ptc2026"
+      }
     }
   ]
 }

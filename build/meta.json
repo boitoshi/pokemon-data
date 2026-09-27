@@ -2,16 +2,18 @@
   "schemaVersion": 1,
   "source": "distributions/*.json",
   "counts": {
+    "gen4": 60,
     "gen5": 118,
     "gen6": 255,
     "gen7": 158,
     "gen8": 120,
     "gen9": 92,
     "champions": 35,
-    "total": 778
+    "total": 838
   },
   "byGeneration": {
     "0": 35,
+    "4": 60,
     "5": 118,
     "6": 255,
     "7": 158,

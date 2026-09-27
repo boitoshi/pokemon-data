@@ -27,7 +27,7 @@ const readJsonOptional = (relativePath, fallback) => {
 };
 
 // ---- distributions/*.json（distributionMethod の実データ値集合を集めるためだけに読む） ----
-const DISTRIBUTION_FILES = ["gen5.json", "gen6.json", "gen7.json", "gen8.json", "gen9.json", "champions.json"];
+const DISTRIBUTION_FILES = ["gen4.json", "gen5.json", "gen6.json", "gen7.json", "gen8.json", "gen9.json", "champions.json"];
 
 function collectUsedDistributionMethods() {
   const used = new Set();

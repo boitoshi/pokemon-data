@@ -978,6 +978,43 @@
         "kind": "self",
         "note": "2026-09-27 ユーザーの実機・付録で確認"
       }
+    },
+    {
+      "id": "CH16",
+      "dexNo": 9,
+      "pokemonName": "カメックス",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "NAIC2026のカメックス",
+      "event": {
+        "kind": "other",
+        "year": 2026
+      },
+      "distributionMethod": "Twitch Drops",
+      "distributionLocation": "Twitch公式配信",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-19",
+      "region": [
+        "全世界"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "あめうけざら",
+      "ball": "プレシャスボール",
+      "moves": [
+        "しおふき",
+        "みずのはどう",
+        "はどうだん",
+        "からをやぶる"
+      ],
+      "ivsGuaranteed": 6,
+      "notes": "NAIC2026（北米インターナショナルチャンピオンシップス）開催記念。Twitchの公式配信を視聴してTwitch Dropsで受け取る。二つ名「イベントにさんかした」が付く。性格・特性・技は実機で確認（2026-09-27）。",
+      "source": {
+        "kind": "self",
+        "note": "2026-09-27 ユーザーの実機で確認"
+      }
     }
   ]
 }

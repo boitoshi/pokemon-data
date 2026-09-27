@@ -25512,5 +25512,33 @@
     "notes": "月刊コロコロコミック2026年8月号の付録のシリアルコードで入手。特性・性格は実機で確認（2026-09-27）。",
     "region": "日本",
     "ivs": "6V"
+  },
+  {
+    "managementId": "CH16",
+    "pokemonName": "カメックス",
+    "dexNo": 9,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "eventName": "NAIC2026のカメックス",
+    "tournamentType": "Other",
+    "tournamentYear": 2026,
+    "distributionMethod": "Twitch Drops",
+    "distributionLocation": "Twitch公式配信",
+    "startDate": "2026-06-12",
+    "endDate": "2026-06-19",
+    "ball": "プレシャスボール",
+    "level": "Lv.50相当(非表示)",
+    "gender": "♂",
+    "ability": "あめうけざら",
+    "nature": "ひかえめ",
+    "moves": [
+      "しおふき",
+      "みずのはどう",
+      "はどうだん",
+      "からをやぶる"
+    ],
+    "notes": "NAIC2026（北米インターナショナルチャンピオンシップス）開催記念。Twitchの公式配信を視聴してTwitch Dropsで受け取る。二つ名「イベントにさんかした」が付く。性格・特性・技は実機で確認（2026-09-27）。",
+    "region": "全世界",
+    "ivs": "6V"
   }
 ]

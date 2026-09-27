@@ -1015,6 +1015,39 @@
         "kind": "self",
         "note": "2026-09-27 ユーザーの実機で確認"
       }
+    },
+    {
+      "id": "CH17",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "pokemon_champions"
+      ],
+      "eventName": "月刊コロコロコミック2026年9月号のリザードン",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "月刊コロコロコミック 9月号",
+      "startDate": "2026-08-12",
+      "endDate": "2026-09-11",
+      "region": [
+        "日本"
+      ],
+      "levelNote": "Lv.50相当(非表示)",
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "moves": [
+        "フレアドライブ",
+        "げきりん",
+        "ドラゴンクロー",
+        "りゅうのまい"
+      ],
+      "ivsGuaranteed": 6,
+      "notes": "月刊コロコロコミック2026年9月号の付録のシリアルコードで入手。特性・性格は実機で確認（2026-09-27）。",
+      "source": {
+        "kind": "self",
+        "note": "2026-09-27 ユーザーの実機・付録で確認"
+      }
     }
   ]
 }

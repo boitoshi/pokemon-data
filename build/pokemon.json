@@ -25540,5 +25540,31 @@
     "notes": "NAIC2026（北米インターナショナルチャンピオンシップス）開催記念。Twitchの公式配信を視聴してTwitch Dropsで受け取る。二つ名「イベントにさんかした」が付く。性格・特性・技は実機で確認（2026-09-27）。",
     "region": "全世界",
     "ivs": "6V"
+  },
+  {
+    "managementId": "CH17",
+    "pokemonName": "リザードン",
+    "dexNo": 6,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "eventName": "月刊コロコロコミック2026年9月号のリザードン",
+    "distributionMethod": "シリアルコード",
+    "distributionLocation": "月刊コロコロコミック 9月号",
+    "startDate": "2026-08-12",
+    "endDate": "2026-09-11",
+    "ball": "プレシャスボール",
+    "level": "Lv.50相当(非表示)",
+    "gender": "♂",
+    "ability": "もうか",
+    "nature": "いじっぱり",
+    "moves": [
+      "フレアドライブ",
+      "げきりん",
+      "ドラゴンクロー",
+      "りゅうのまい"
+    ],
+    "notes": "月刊コロコロコミック2026年9月号の付録のシリアルコードで入手。特性・性格は実機で確認（2026-09-27）。",
+    "region": "日本",
+    "ivs": "6V"
   }
 ]

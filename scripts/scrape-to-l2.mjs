@@ -925,6 +925,25 @@ for (let i = 0; i < addCandidates.length; i++) {
     continue;
   }
   const { conflicts, info } = diffFields(cand, siblings[0]);
+  // --accept-near-dup は既存×scraped と同じくバッチ内クラスタにも効かせる（承認済みオプトイン。
+  // 例: gen4 のパルシティ巡回ミュウは会場ごとに日付・技が違う別配信だが、同dexNo・日付近接で互いに酷似判定される）
+  if (acceptNearDup) {
+    nearDupAcceptedMembers.add(cand);
+    survivingAdds.push(cand);
+    buckets.nearDupAccepted.push({
+      scraped: labelEntry(cand),
+      eventName: cand.eventName,
+      existingIds: [],
+      siblingLabels: siblings.map((s) => labelEntry(s)),
+      startDateDiff:
+        cand.startDate !== siblings[0].startDate
+          ? { field: "startDate", ledger: siblings[0].startDate, scraper: cand.startDate }
+          : null,
+      conflicts,
+      info,
+    });
+    continue;
+  }
   buckets.nearDup.push({
     scraped: labelEntry(cand),
     eventName: cand.eventName,
@@ -940,6 +959,7 @@ for (let i = 0; i < addCandidates.length; i++) {
 }
 
 // ---- id採番（ADDのみ・append-only。scraped初出順） ----
+const DEFAULT_SUFFIX_WIDTH = 3;
 const prefix = GEN_PREFIX[dataset];
 if (!prefix) {
   throw new Error(`GEN_PREFIX に "${dataset}" が定義されていません`);
@@ -953,8 +973,10 @@ if (prefixedIds.length > 0) {
     const n = Number(id.slice(prefix.length));
     if (Number.isInteger(n) && n > maxSuffix) maxSuffix = n;
   }
-} else if (survivingAdds.length > 0) {
-  throw new Error(`既存entriesに prefix "${prefix}" で始まる id がなく、桁数(suffixWidth)を決定できません`);
+} else {
+  // 空の世代ファイル（手で置いた封筒だけの gen4.json 等）への初回投入。既存の gen5〜gen9 は
+  // すべて「prefix2桁＋連番3桁」なのでそれに揃える。
+  suffixWidth = DEFAULT_SUFFIX_WIDTH;
 }
 
 const additions = [];
@@ -1034,7 +1056,8 @@ for (const n of buckets.nearDupAccepted) {
   diffParts.push(...formatDiffParts(n.conflicts));
   diffParts.push(...formatDiffParts(n.info));
   const diffStr = diffParts.length > 0 ? `：相違 ${diffParts.join(" / ")}` : "";
-  console.log(`  - scraped ${n.scraped} ev="${n.eventName}" ~ 既存[${n.existingIds.join(",")}]${diffStr}`);
+  const ref = n.existingIds.length > 0 ? `既存[${n.existingIds.join(",")}]` : `バッチ内候補[${(n.siblingLabels ?? []).join(", ")}]`;
+  console.log(`  - scraped ${n.scraped} ev="${n.eventName}" ~ ${ref}${diffStr}`);
 }
 
 console.log(`\n[新規・多バリアント] ${buckets.multiVariant.length}グループ`);

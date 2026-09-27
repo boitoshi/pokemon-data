@@ -1,0 +1,2135 @@
+{
+  "schemaVersion": 1,
+  "dataset": "gen4",
+  "generation": 4,
+  "provenance": "scraper:bulbapedia",
+  "entries": [
+    {
+      "id": "04001",
+      "dexNo": 441,
+      "pokemonName": "ペラップ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Concert Chatot",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2006-10-28",
+      "endDate": "2006-12-10",
+      "level": 25,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "するどいめ",
+      "ball": "モンスターボール",
+      "metLocation": "コンサートかいじょう",
+      "heldItem": "やすらぎのすず",
+      "ot": {
+        "JPN": "コンサート"
+      },
+      "trainerId": "10286",
+      "moves": [
+        "オウムがえし",
+        "みだれづき",
+        "おしゃべり",
+        "ちょうはつ"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04002",
+      "dexNo": 126,
+      "pokemonName": "ブーバー",
+      "games": [
+        "diamond"
+      ],
+      "eventName": "Magmar",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2006-11-25",
+      "endDate": "2007-01-31",
+      "level": 30,
+      "gender": "♂",
+      "nature": "れいせい",
+      "ability": "ほのおのからだ",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンフェスタ０６",
+      "heldItem": "マグマブースター",
+      "ot": {
+        "JPN": "フェスタ"
+      },
+      "trainerId": "11256",
+      "moves": [
+        "えんまく",
+        "ほのおのうず",
+        "あやしいひかり",
+        "ほのおのパンチ"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04003",
+      "dexNo": 125,
+      "pokemonName": "エレブー",
+      "games": [
+        "pearl"
+      ],
+      "eventName": "Electabuzz",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2006-11-25",
+      "endDate": "2007-01-31",
+      "level": 30,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "せいでんき",
+      "ball": "モンスターボール",
+      "metLocation": "ポケモンフェスタ０６",
+      "heldItem": "エレキブースター",
+      "ot": {
+        "JPN": "フェスタ"
+      },
+      "trainerId": "11256",
+      "moves": [
+        "けたぐり",
+        "でんげきは",
+        "ひかりのかべ",
+        "かみなりパンチ"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04004",
+      "dexNo": 490,
+      "pokemonName": "マナフィ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "World Hobby Fair Manaphy",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-01-14",
+      "endDate": "2007-03-11",
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "うるおいボディ",
+      "ball": "モンスターボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "おうじゃのしるし",
+      "ot": {
+        "JPN": "みずのたみ"
+      },
+      "trainerId": "12226",
+      "moves": [
+        "ほたるび",
+        "あわ",
+        "みずあそび"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04005",
+      "dexNo": 357,
+      "pokemonName": "トロピウス",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Shokotan Tropius",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-02-03",
+      "endDate": "2007-02-12",
+      "level": 53,
+      "gender": "♀",
+      "nature": "ようき",
+      "ability": "ようりょくそ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "ot": {
+        "JPN": "しょこたん"
+      },
+      "trainerId": "02027",
+      "moves": [
+        "エアスラッシュ",
+        "こうごうせい",
+        "にほんばれ",
+        "ソーラービーム"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04006",
+      "dexNo": 340,
+      "pokemonName": "ナマズン",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Yamamoto Whiscash",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-03-21",
+      "endDate": "2007-04-09",
+      "level": 51,
+      "gender": "♀",
+      "nature": "おとなしい",
+      "ability": "どんかん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "リンドのみ",
+      "ot": {
+        "JPN": "やまもと"
+      },
+      "trainerId": "03217",
+      "moves": [
+        "じしん",
+        "アクアテール",
+        "しねんのずつき",
+        "ギガインパクト"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04007",
+      "dexNo": 386,
+      "pokemonName": "デオキシス",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "10th Movie Deoxys",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-06-23",
+      "endDate": "2007-09-02",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが０７",
+      "heldItem": "とけないこおり",
+      "ot": {
+        "JPN": "１０ｔｈ"
+      },
+      "trainerId": "07147",
+      "moves": [
+        "サイコブースト",
+        "でんじほう",
+        "てっぺき",
+        "しんそく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04008",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "2007 Tanabata Jirachi",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-07-01",
+      "endDate": "2007-07-22",
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "だいすきクラブ",
+      "heldItem": "リュガのみ",
+      "ot": {
+        "JPN": "タナバタ"
+      },
+      "trainerId": "07077",
+      "moves": [
+        "ねがいごと",
+        "ねんりき",
+        "ねむる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04009",
+      "dexNo": 491,
+      "pokemonName": "ダークライ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Cinema Darkrai",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-07-01",
+      "endDate": "2007-09-09",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "ナイトメア",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが０７",
+      "heldItem": "ナゾのみ",
+      "ot": {
+        "JPN": "えいがかん"
+      },
+      "trainerId": "07147",
+      "moves": [
+        "ときのほうこう",
+        "あくうせつだん",
+        "あくむ",
+        "さいみんじゅつ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04010",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Osaka PalCity Mew",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-08-31",
+      "endDate": "2007-09-02",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント０７",
+      "ot": {
+        "JPN": "パルシティ"
+      },
+      "trainerId": "07157",
+      "moves": [
+        "げんしのちから",
+        "ゆびをふる",
+        "テレポート",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04011",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Yokohama PalCity Mew",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-08-17",
+      "endDate": "2007-08-19",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント０７",
+      "ot": {
+        "JPN": "パルシティ"
+      },
+      "trainerId": "07157",
+      "moves": [
+        "バリアー",
+        "ゆびをふる",
+        "テレポート",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04012",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Nagoya PalCity Mew",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-08-10",
+      "endDate": "2007-08-12",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント０７",
+      "ot": {
+        "JPN": "パルシティ"
+      },
+      "trainerId": "07157",
+      "moves": [
+        "サイコキネシス",
+        "ゆびをふる",
+        "テレポート",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04013",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Makuhari PalCity Mew",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-08-03",
+      "endDate": "2007-08-05",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント０７",
+      "ot": {
+        "JPN": "パルシティ"
+      },
+      "trainerId": "07157",
+      "moves": [
+        "メガトンパンチ",
+        "ゆびをふる",
+        "テレポート",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04014",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Sapporo PalCity Mew",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-07-28",
+      "endDate": "2007-07-29",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント０７",
+      "ot": {
+        "JPN": "パルシティ"
+      },
+      "trainerId": "07157",
+      "moves": [
+        "ドわすれ",
+        "ゆびをふる",
+        "テレポート",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04015",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Fukuoka PalCity Mew",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-07-15",
+      "endDate": "2007-07-16",
+      "level": 50,
+      "nature": "きまぐれ",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント０７",
+      "ot": {
+        "JPN": "パルシティ"
+      },
+      "trainerId": "07157",
+      "moves": [
+        "へんしん",
+        "ゆびをふる",
+        "テレポート",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04016",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "PalCity Lucario",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-07-15",
+      "endDate": "2007-09-02",
+      "level": 50,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "ふくつのこころ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント０７",
+      "heldItem": "メタルコート",
+      "ot": {
+        "JPN": "PALCITY"
+      },
+      "trainerId": "07157",
+      "moves": [
+        "はどうだん",
+        "あくのはどう",
+        "りゅうのはどう",
+        "みずのはどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04017",
+      "dexNo": 490,
+      "pokemonName": "マナフィ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "First distribution",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-07-15",
+      "endDate": "2007-07-22",
+      "level": 50,
+      "nature": "がんばりや",
+      "ability": "うるおいボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント０７",
+      "ot": {
+        "JPN": "パルシティ"
+      },
+      "trainerId": "07157",
+      "moves": [
+        "ハートスワップ",
+        "みずのはどう",
+        "うずしお",
+        "とける"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04018",
+      "dexNo": 490,
+      "pokemonName": "マナフィ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Second distribution",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-07-28",
+      "endDate": "2007-09-02",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "うるおいボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント０７",
+      "ot": {
+        "JPN": "パルシティ"
+      },
+      "trainerId": "07157",
+      "moves": [
+        "ハートスワップ",
+        "みずのはどう",
+        "うずしお",
+        "とける"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04019",
+      "dexNo": 4,
+      "pokemonName": "ヒトカゲ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "2007 Birthday Charmander",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-07-20",
+      "endDate": "2008-07-19",
+      "level": 40,
+      "gender": "♂",
+      "nature": "おっとり",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ＰＣトウキョー",
+      "heldItem": "しあわせタマゴ",
+      "ot": {
+        "JPN": "トウキョー"
+      },
+      "trainerId": "07207",
+      "moves": [
+        "おんがえし",
+        "めざめるパワー",
+        "でんこうせっか",
+        "とおぼえ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04020",
+      "dexNo": 224,
+      "pokemonName": "オクタン",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Golgo Octillery",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-10-14",
+      "endDate": "2007-10-31",
+      "level": 50,
+      "gender": "♀",
+      "nature": "まじめ",
+      "ability": "きゅうばん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "きあいのハチマキ",
+      "ot": {
+        "JPN": "ごるこ"
+      },
+      "trainerId": "10147",
+      "moves": [
+        "オクタンほう",
+        "れいとうビーム",
+        "シグナルビーム",
+        "はかいこうせん"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04021",
+      "dexNo": 466,
+      "pokemonName": "エレキブル",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Electivire",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-11-15",
+      "endDate": "2007-11-30",
+      "level": 50,
+      "gender": "♂",
+      "nature": "まじめ",
+      "ability": "でんきエンジン",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "じしゃく",
+      "ot": {
+        "JPN": "さいきょう"
+      },
+      "trainerId": "11157",
+      "moves": [
+        "ひかりのかべ",
+        "かみなりパンチ",
+        "ほうでん",
+        "１０まんボルト"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04022",
+      "dexNo": 467,
+      "pokemonName": "ブーバーン",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Magmortar",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-12-01",
+      "endDate": "2007-12-14",
+      "level": 50,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "ほのおのからだ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "もくたん",
+      "ot": {
+        "JPN": "さいきょう"
+      },
+      "trainerId": "12017",
+      "moves": [
+        "あやしいひかり",
+        "ほのおのパンチ",
+        "ふんえん",
+        "かえんほうしゃ"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04023",
+      "dexNo": 350,
+      "pokemonName": "ミロカロス",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Milotic",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2007-12-15",
+      "endDate": "2008-01-14",
+      "level": 50,
+      "gender": "♀",
+      "nature": "ずぶとい",
+      "ability": "ふしぎなうろこ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "かえんだま",
+      "ot": {
+        "JPN": "さいきょう"
+      },
+      "trainerId": "12157",
+      "moves": [
+        "あまごい",
+        "じこさいせい",
+        "ハイドロポンプ",
+        "れいとうビーム"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04024",
+      "dexNo": 149,
+      "pokemonName": "カイリュー",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Dragonite",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-01-15",
+      "endDate": "2008-02-14",
+      "level": 50,
+      "gender": "♂",
+      "nature": "おっとり",
+      "ability": "せいしんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ヤチェのみ",
+      "ot": {
+        "JPN": "さいきょう"
+      },
+      "trainerId": "01158",
+      "moves": [
+        "りゅうせいぐん",
+        "１０まんボルト",
+        "げきりん",
+        "りゅうのまい"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04025",
+      "dexNo": 373,
+      "pokemonName": "ボーマンダ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Salamence",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-02-15",
+      "endDate": "2008-03-14",
+      "level": 50,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "いかく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "りゅうのキバ",
+      "ot": {
+        "JPN": "さいきょう"
+      },
+      "trainerId": "02158",
+      "moves": [
+        "ハイドロポンプ",
+        "ストーンエッジ",
+        "だいもんじ",
+        "ドラゴンクロー"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04026",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "McDonald's Pikachu",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-05-30",
+      "endDate": "2008-06-19",
+      "level": 20,
+      "gender": "♀",
+      "nature": "てれや",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "マック"
+      },
+      "trainerId": "05308",
+      "moves": [
+        "でんこうせっか",
+        "でんきショック",
+        "しっぽをふる",
+        "プレゼント"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04027",
+      "dexNo": 486,
+      "pokemonName": "レジギガス",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Movie Regigigas",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-06-20",
+      "endDate": "2008-08-31",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "スロースタート",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが０８",
+      "heldItem": "イバンのみ",
+      "ot": {
+        "JPN": "テンイむら"
+      },
+      "trainerId": "07198",
+      "moves": [
+        "アイアンヘッド",
+        "いわなだれ",
+        "こごえるかぜ",
+        "にぎりつぶす"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04028",
+      "dexNo": 492,
+      "pokemonName": "シェイミ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "Cinema Shaymin",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-07-06",
+      "endDate": "2008-09-30",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが０８",
+      "heldItem": "ミクルのみ",
+      "ot": {
+        "JPN": "えいがかん"
+      },
+      "trainerId": "07198",
+      "moves": [
+        "シードフレア",
+        "アロマセラピー",
+        "みがわり",
+        "エナジーボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04029",
+      "dexNo": 4,
+      "pokemonName": "ヒトカゲ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "2008 Birthday Charmander",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-07-20",
+      "endDate": "2009-07-19",
+      "level": 40,
+      "gender": "♂",
+      "nature": "むじゃき",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ＰＣトウキョー",
+      "heldItem": "しあわせタマゴ",
+      "ot": {
+        "JPN": "トウキョー"
+      },
+      "trainerId": "07208",
+      "moves": [
+        "おんがえし",
+        "めざめるパワー",
+        "でんこうせっか",
+        "とおぼえ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04030",
+      "dexNo": 448,
+      "pokemonName": "ルカリオ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "2008 World Championships Lucario",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-08-17",
+      "endDate": "2008-08-17",
+      "level": 30,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "せいしんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "たべのこし",
+      "ot": {
+        "JPN": "WORLD08"
+      },
+      "trainerId": "08178",
+      "moves": [
+        "はっけい",
+        "ボーンラッシュ",
+        "にほんばれ",
+        "ブレイズキック"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04031",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "diamond",
+        "pearl"
+      ],
+      "eventName": "2008 Tanabata Jirachi",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-08-18",
+      "endDate": "2008-08-31",
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "だいすきクラブ",
+      "heldItem": "ジャポのみ",
+      "ot": {
+        "JPN": "タナバタ"
+      },
+      "trainerId": "08188",
+      "moves": [
+        "ねがいごと",
+        "ねんりき",
+        "ねむる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04032",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "Pokémon Center Yokohama Pikachu",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-10-10",
+      "endDate": "2008-11-03",
+      "level": 40,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ＰＣヨコハマ",
+      "heldItem": "かいがらのすず",
+      "ot": {
+        "JPN": "ヨコハマ"
+      },
+      "trainerId": "10108",
+      "moves": [
+        "なみのり",
+        "かみなり",
+        "まもる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04033",
+      "dexNo": 350,
+      "pokemonName": "ミロカロス",
+      "games": [
+        "platinum"
+      ],
+      "eventName": "2008 TCG World Championships Milotic",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-10-12",
+      "endDate": "2009-01-25",
+      "level": 50,
+      "gender": "♂",
+      "nature": "おくびょう",
+      "ability": "ふしぎなうろこ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "かえんだま",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ＷＣＳ"
+      },
+      "trainerId": "10128",
+      "moves": [
+        "あまごい",
+        "じこさいせい",
+        "ハイドロポンプ",
+        "こごえるかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04034",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "Pokémon Center Eevee",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-12-06",
+      "endDate": "2009-03-19",
+      "level": 10,
+      "gender": "♀",
+      "nature": "さみしがり",
+      "ability": "てきおうりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "ot": {
+        "JPN": "ブイコレ"
+      },
+      "trainerId": "12068",
+      "moves": [
+        "ほしがる",
+        "かみつく",
+        "てだすけ",
+        "メロメロ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04035",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "2008 Birthday Pikachu",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2008-12-26",
+      "endDate": "2009-12-25",
+      "level": 40,
+      "gender": "♂",
+      "nature": "ひかえめ",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ＰＣヨコハマ",
+      "heldItem": "しあわせタマゴ",
+      "ot": {
+        "JPN": "ヨコハマ"
+      },
+      "trainerId": "12268",
+      "moves": [
+        "なみのり",
+        "かみなり",
+        "まもる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04036",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "Sleeping Pikachu",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-02-07",
+      "endDate": "2009-03-15",
+      "level": 50,
+      "gender": "♂",
+      "nature": "のんき",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "カゴのみ",
+      "ot": {
+        "JPN": "おねむり"
+      },
+      "trainerId": "02079",
+      "moves": [
+        "ねむる",
+        "ねごと",
+        "あくび",
+        "いびき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04037",
+      "dexNo": 52,
+      "pokemonName": "ニャース",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "Pokémon Center Meowth",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-03-20",
+      "endDate": "2009-04-12",
+      "level": 10,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "ものひろい",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンセンター",
+      "heldItem": "おまもりこばん",
+      "ot": {
+        "JPN": "オーサカ"
+      },
+      "trainerId": "03209",
+      "moves": [
+        "ねこだまし",
+        "ネコにこばん",
+        "ねこのて",
+        "ひっかく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04038",
+      "dexNo": 172,
+      "pokemonName": "ピチュー",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "Shokotan Pikachu-colored Pichu",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-06-19",
+      "endDate": "2009-08-31",
+      "level": 30,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが０９",
+      "heldItem": "かわらずのいし",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "しょこたん"
+      },
+      "trainerId": "06199",
+      "moves": [
+        "じゅうでん",
+        "ボルテッカー",
+        "がむしゃら",
+        "こらえる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04039",
+      "dexNo": 493,
+      "pokemonName": "アルセウス",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "Cinema Arceus",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-07-05",
+      "endDate": "2009-09-30",
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "マルチタイプ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが０９",
+      "heldItem": "レンブのみ",
+      "ot": {
+        "JPN": "えいがかん"
+      },
+      "trainerId": "07189",
+      "moves": [
+        "さばきのつぶて",
+        "ときのほうこう",
+        "あくうせつだん",
+        "シャドーダイブ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04040",
+      "dexNo": 4,
+      "pokemonName": "ヒトカゲ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "2009 Birthday Charmander",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-07-20",
+      "endDate": "2010-07-19",
+      "level": 40,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ＰＣトウキョー",
+      "heldItem": "しあわせタマゴ",
+      "ot": {
+        "JPN": "トウキョー"
+      },
+      "trainerId": "07209",
+      "moves": [
+        "おんがえし",
+        "めざめるパワー",
+        "でんこうせっか",
+        "とおぼえ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04041",
+      "dexNo": 461,
+      "pokemonName": "マニューラ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "2009 World Championships Weavile",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-08-15",
+      "endDate": "2009-08-15",
+      "level": 30,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "きあいのタスキ",
+      "ot": {
+        "JPN": "WORLD09"
+      },
+      "trainerId": "08159",
+      "moves": [
+        "ねこだまし",
+        "こおりのつぶて",
+        "つじぎり",
+        "かわらわり"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04042",
+      "dexNo": 390,
+      "pokemonName": "ヒコザル",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "2009 Birthday Chimchar",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-09-12",
+      "endDate": "2010-09-11",
+      "level": 40,
+      "gender": "♂",
+      "nature": "おっとり",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ＰＣナゴヤ",
+      "heldItem": "しあわせタマゴ",
+      "ot": {
+        "JPN": "ナゴヤ"
+      },
+      "trainerId": "09129",
+      "moves": [
+        "かえんほうしゃ",
+        "かみなりパンチ",
+        "くさむすび",
+        "てだすけ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04043",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "Kyoto Cross Media Experience 2009 Pikachu",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-10-03",
+      "endDate": "2009-10-04",
+      "level": 30,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "やすらぎのすず",
+      "ot": {
+        "JPN": "キョウト"
+      },
+      "trainerId": "10039",
+      "moves": [
+        "とっておき",
+        "プレゼント",
+        "１０まんボルト",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04044",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "Ario Pikachu",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-11-21",
+      "endDate": "2009-11-23",
+      "level": 20,
+      "gender": "♀",
+      "nature": "てれや",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "アリオ"
+      },
+      "trainerId": "11219",
+      "moves": [
+        "プレゼント",
+        "でんこうせっか",
+        "でんじは",
+        "しっぽをふる"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04045",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "2009 Birthday Pikachu",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-12-26",
+      "endDate": "2010-11-03",
+      "level": 40,
+      "gender": "♂",
+      "nature": "おっとり",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ＰＣヨコハマ",
+      "heldItem": "しあわせタマゴ",
+      "ot": {
+        "JPN": "ヨコハマ"
+      },
+      "trainerId": "12269",
+      "moves": [
+        "なみのり",
+        "かみなり",
+        "まもる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04046",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "2010 World Championships Eevee",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-01-11",
+      "endDate": "2010-05-09",
+      "level": 50,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "てきおうりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "きあいのタスキ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ＷＣＳ"
+      },
+      "trainerId": "01110",
+      "moves": [
+        "アイアンテール",
+        "きりふだ",
+        "じたばた",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04047",
+      "dexNo": 245,
+      "pokemonName": "スイクン",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "Suicune",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-06-18",
+      "endDate": "2010-08-31",
+      "level": 30,
+      "nature": "のんき",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが１０",
+      "heldItem": "レンブのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "クラウン"
+      },
+      "trainerId": "06180",
+      "moves": [
+        "ぜったいれいど",
+        "アクアリング",
+        "エアスラッシュ",
+        "しんそく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04048",
+      "dexNo": 244,
+      "pokemonName": "エンテイ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "Entei",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-06-18",
+      "endDate": "2010-08-31",
+      "level": 30,
+      "nature": "いじっぱり",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが１０",
+      "heldItem": "イバンのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "クラウン"
+      },
+      "trainerId": "06180",
+      "moves": [
+        "フレアドライブ",
+        "ブレイククロー",
+        "とおぼえ",
+        "しんそく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04049",
+      "dexNo": 243,
+      "pokemonName": "ライコウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "Raikou",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-06-18",
+      "endDate": "2010-08-31",
+      "level": 30,
+      "nature": "うっかりや",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが１０",
+      "heldItem": "ミクルのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "クラウン"
+      },
+      "trainerId": "06180",
+      "moves": [
+        "でんじほう",
+        "ウェザーボール",
+        "はどうだん",
+        "しんそく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04050",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "Cinema Celebi",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-07-03",
+      "endDate": "2010-09-30",
+      "level": 50,
+      "nature": "ランダム",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが１０",
+      "heldItem": "ジャポのみ",
+      "ot": {
+        "JPN": "えいがかん"
+      },
+      "trainerId": "07100",
+      "moves": [
+        "リーフストーム",
+        "じこさいせい",
+        "わるだくみ",
+        "いやしのねがい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04051",
+      "dexNo": 4,
+      "pokemonName": "ヒトカゲ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "2010 Birthday Charmander",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-07-20",
+      "endDate": "2010-11-03",
+      "level": 40,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ＰＣトウキョー",
+      "heldItem": "しあわせタマゴ",
+      "ot": {
+        "JPN": "トウキョー"
+      },
+      "trainerId": "07200",
+      "moves": [
+        "おんがえし",
+        "めざめるパワー",
+        "でんこうせっか",
+        "とおぼえ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04052",
+      "dexNo": 169,
+      "pokemonName": "クロバット",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "2010 World Championships Crobat",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-08-15",
+      "endDate": "2010-08-15",
+      "level": 30,
+      "gender": "♂",
+      "nature": "おくびょう",
+      "ability": "せいしんりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "いのちのたま",
+      "ot": {
+        "JPN": "WORLD10"
+      },
+      "trainerId": "08150",
+      "moves": [
+        "ねっぷう",
+        "エアスラッシュ",
+        "ヘドロばくだん",
+        "いかりのまえば"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04053",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "7-Eleven Pikachu",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-08-20",
+      "endDate": "2010-09-05",
+      "level": 20,
+      "gender": "♂",
+      "nature": "すなおな",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "セブン"
+      },
+      "trainerId": "08200",
+      "moves": [
+        "プレゼント",
+        "でんこうせっか",
+        "でんきショック",
+        "しっぽをふる"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04054",
+      "dexNo": 390,
+      "pokemonName": "ヒコザル",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "2010 Birthday Chimchar",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-09-12",
+      "endDate": "2010-11-03",
+      "level": 40,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "ＰＣナゴヤ",
+      "heldItem": "しあわせタマゴ",
+      "ot": {
+        "JPN": "ナゴヤ"
+      },
+      "trainerId": "09120",
+      "moves": [
+        "かえんほうしゃ",
+        "かみなりパンチ",
+        "くさむすび",
+        "てだすけ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04055",
+      "dexNo": 385,
+      "pokemonName": "ジラーチ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "Nintendo Zone Jirachi",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2009-06-19",
+      "endDate": "2009-07-17",
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "てんのめぐみ",
+      "ball": "プレシャスボール",
+      "metLocation": "Ｗｉ－Ｆｉプレゼント",
+      "heldItem": "チイラのみ",
+      "ot": {
+        "JPN": "NZ"
+      },
+      "trainerId": "06199",
+      "moves": [
+        "ねがいごと",
+        "ねんりき",
+        "ねむる",
+        "りゅうせいぐん"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04056",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "First distribution",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2009-11-11",
+      "endDate": "2009-11-23",
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "Ｗｉ－Ｆｉプレゼント",
+      "ot": {
+        "JPN": "ススム"
+      },
+      "trainerId": "11219",
+      "moves": [
+        "はたく"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04057",
+      "dexNo": 151,
+      "pokemonName": "ミュウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "Second distribution",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2010-01-29",
+      "endDate": "2010-02-14",
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "シンクロ",
+      "ball": "プレシャスボール",
+      "metLocation": "Ｗｉ－Ｆｉプレゼント",
+      "ot": {
+        "JPN": "ススム"
+      },
+      "trainerId": "11219",
+      "moves": [
+        "はたく"
+      ],
+      "ribbons": [
+        "プレミアリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04058",
+      "dexNo": 212,
+      "pokemonName": "ハッサム",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "Goone's Scizor",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2010-06-18",
+      "endDate": "2010-07-14",
+      "level": 50,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "むしのしらせ",
+      "ball": "プレシャスボール",
+      "metLocation": "Ｗｉ－Ｆｉプレゼント",
+      "heldItem": "スターのみ",
+      "ot": {
+        "JPN": "グーン"
+      },
+      "trainerId": "06180",
+      "moves": [
+        "シザークロス",
+        "つるぎのまい",
+        "てっぺき",
+        "こうそくいどう"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04059",
+      "dexNo": 25,
+      "pokemonName": "ピカチュウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "Ash's Pikachu",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2010-07-15",
+      "endDate": "2010-08-10",
+      "level": 50,
+      "gender": "♂",
+      "nature": "やんちゃ",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "Ｗｉ－Ｆｉプレゼント",
+      "heldItem": "でんきだま",
+      "ot": {
+        "JPN": "サトシ"
+      },
+      "trainerId": "07150",
+      "moves": [
+        "ボルテッカー",
+        "アイアンテール",
+        "でんこうせっか",
+        "１０まんボルト"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    },
+    {
+      "id": "04060",
+      "dexNo": 490,
+      "pokemonName": "マナフィ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "Nintendo Zone Manaphy",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2010-08-14",
+      "endDate": "2010-09-12",
+      "level": 50,
+      "nature": "わんぱく",
+      "ability": "うるおいボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "Ｗｉ－Ｆｉプレゼント",
+      "heldItem": "サンのみ",
+      "ot": {
+        "JPN": "NZ"
+      },
+      "trainerId": "08110",
+      "moves": [
+        "アクアリング",
+        "みずのはどう",
+        "みずあそび",
+        "ハートスワップ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia"
+      }
+    }
+  ]
+}

@@ -72,5 +72,21 @@
   "the Galar region": "ガラルちほう",
   "the Hisui region": "ヒスイちほう",
   "the Sinnoh region": "シンオウちほう",
-  "the Kalos region": "カロスちほう"
+  "the Kalos region": "カロスちほう",
+  "gen_overrides": {
+    "4": {
+      "Pokémon Event 07": "ポケモンイベント０７",
+      "Pokémon Movie 07": "ポケモンえいが０７",
+      "Pokémon Movie 08": "ポケモンえいが０８",
+      "Pokémon Movie 09": "ポケモンえいが０９",
+      "Pokémon Movie 10": "ポケモンえいが１０",
+      "Pokémon Festa 06": "ポケモンフェスタ０６",
+      "PC Tokyo": "ＰＣトウキョー",
+      "PC Nagoya": "ＰＣナゴヤ",
+      "PC Yokohama": "ＰＣヨコハマ",
+      "Wi-Fi Gift": "Ｗｉ－Ｆｉプレゼント",
+      "Pokémon Fan Club": "だいすきクラブ",
+      "Pokémon Concert": "コンサートかいじょう"
+    }
+  }
 }

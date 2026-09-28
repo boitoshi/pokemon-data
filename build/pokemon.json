@@ -17886,7 +17886,7 @@
   },
   {
     "managementId": "07056",
-    "pokemonName": "ルガルガン",
+    "pokemonName": "ルガルガン（まよなかのすがた）",
     "dexNo": 745,
     "generation": 7,
     "game": "サン, ムーン",
@@ -19021,7 +19021,7 @@
   },
   {
     "managementId": "08066",
-    "pokemonName": "トリトドン",
+    "pokemonName": "トリトドン（ひがしのうみ）",
     "dexNo": 423,
     "generation": 8,
     "game": "ソード, シールド",
@@ -25445,7 +25445,7 @@
   },
   {
     "managementId": "09040",
-    "pokemonName": "トリトドン",
+    "pokemonName": "トリトドン（ひがしのうみ）",
     "dexNo": 423,
     "generation": 9,
     "game": "スカーレット, バイオレット",

@@ -53,18 +53,6 @@
           }
         ],
         "checkedAt": "2026-09-29"
-      },
-      {
-        "id": "champion-lets-go",
-        "generation": 7,
-        "games": [
-          "lets_go_pikachu",
-          "lets_go_eevee"
-        ],
-        "category": "チャンピオン",
-        "description": "カントー地方のポケモンリーグを制覇した証（Gen3のチャンプリボンと同一）",
-        "requirements": "殿堂入りメンバーに入っている",
-        "timing": "post_capture"
       }
     ]
   },

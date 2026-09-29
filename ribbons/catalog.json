@@ -14,7 +14,9 @@
           "sapphire",
           "emerald",
           "firered",
-          "leafgreen"
+          "leafgreen",
+          "switch_firered",
+          "switch_leafgreen"
         ],
         "category": "チャンピオン",
         "description": "ホウエン/カントー地方のポケモンリーグを制覇した証",

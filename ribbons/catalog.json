@@ -534,8 +534,23 @@
           "ruby",
           "sapphire",
           "emerald",
-          "firered",
-          "leafgreen"
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
         ],
         "category": "思い出",
         "description": "努力値を最大まで上げた証",
@@ -660,9 +675,7 @@
         "games": [
           "diamond",
           "pearl",
-          "platinum",
-          "heartgold",
-          "soulsilver"
+          "platinum"
         ],
         "category": "チャンピオン",
         "description": "シンオウ/ジョウト地方のポケモンリーグを制覇した証（HGSSの殿堂入りでも入手可能）",
@@ -1251,6 +1264,8 @@
         "id": "world-ability-ribbon",
         "generation": 4,
         "games": [
+          "diamond",
+          "pearl",
           "platinum",
           "heartgold",
           "soulsilver"
@@ -1278,7 +1293,15 @@
         "games": [
           "diamond",
           "pearl",
-          "platinum"
+          "platinum",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon"
         ],
         "category": "思い出",
         "description": "あしあと博士になつき度を認めてもらった証",
@@ -1308,8 +1331,11 @@
         "id": "gorgeous-ribbon",
         "generation": 4,
         "games": [
-          "heartgold",
-          "soulsilver"
+          "diamond",
+          "pearl",
+          "platinum",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "リゾートエリアでお金で手に入れた豪華なリボン",
@@ -1339,8 +1365,11 @@
         "id": "royal-ribbon",
         "generation": 4,
         "games": [
-          "heartgold",
-          "soulsilver"
+          "diamond",
+          "pearl",
+          "platinum",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "リゾートエリアで高額のお金で手に入れた王家のリボン",
@@ -1370,8 +1399,11 @@
         "id": "gorgeous-royal-ribbon",
         "generation": 4,
         "games": [
-          "heartgold",
-          "soulsilver"
+          "diamond",
+          "pearl",
+          "platinum",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "リゾートエリアで超高額のお金で手に入れた究極のリボン",
@@ -1405,7 +1437,11 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "何かに気づいているポケモンに贈られる記念のリボン",
@@ -1439,7 +1475,11 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつも驚いているポケモンに贈られる記念のリボン",
@@ -1473,7 +1513,11 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつも悲しそうなポケモンに贈られる記念のリボン",
@@ -1507,7 +1551,11 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつもそそっかしいポケモンに贈られる記念のリボン",
@@ -1541,7 +1589,11 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつものんびりしているポケモンに贈られる記念のリボン",
@@ -1575,7 +1627,11 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつも眠そうなポケモンに贈られる記念のリボン",
@@ -1609,7 +1665,11 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつもニコニコしているポケモンに贈られる記念のリボン",
@@ -1662,8 +1722,8 @@
         "id": "legend-ribbon",
         "generation": 4,
         "games": [
-          "diamond",
-          "pearl"
+          "heartgold",
+          "soulsilver"
         ],
         "category": "特殊",
         "description": "ポケモン牧場に999匹送り込んだ証",
@@ -2159,7 +2219,9 @@
         "generation": 6,
         "games": [
           "x",
-          "y"
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "バトル施設",
         "description": "高度なバトルで実力を示した証",
@@ -2179,7 +2241,9 @@
         "generation": 6,
         "games": [
           "x",
-          "y"
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "バトル施設",
         "description": "エキスパートとして認められたバトルの実力の証",
@@ -2227,7 +2291,9 @@
           "sword",
           "shield",
           "brilliant_diamond",
-          "shining_pearl"
+          "shining_pearl",
+          "scarlet",
+          "violet"
         ],
         "category": "思い出",
         "description": "トレーナーと最高の友情を育んだ証",
@@ -2776,9 +2842,7 @@
         "generation": 8,
         "games": [
           "sword",
-          "shield",
-          "scarlet",
-          "violet"
+          "shield"
         ],
         "category": "あかし",
         "description": "日照りの日に出会ったポケモンに付くあかし",
@@ -2841,8 +2905,6 @@
         "id": "destiny-mark",
         "generation": 8,
         "games": [
-          "sword",
-          "shield",
           "scarlet",
           "violet"
         ],
@@ -2864,9 +2926,7 @@
         "generation": 8,
         "games": [
           "sword",
-          "shield",
-          "scarlet",
-          "violet"
+          "shield"
         ],
         "category": "あかし",
         "description": "釣り上げられたポケモンに付くあかし",

@@ -1,0 +1,213 @@
+[
+  {
+    "id": "nintendo_wfc",
+    "name_ja": "ニンテンドーWi-Fiコネクション",
+    "name_en": "Nintendo Wi-Fi Connection",
+    "games": [
+      "diamond",
+      "pearl",
+      "platinum",
+      "heartgold",
+      "soulsilver",
+      "black",
+      "white",
+      "black2",
+      "white2"
+    ],
+    "endDate": "2014-05-20",
+    "endTime": "23:00",
+    "note": "インターネット通信全般（Wi-Fiバトルタワー、GTS、Wi-Fi ふしぎなおくりもの、Wi-Fi 対戦など）。バトルレボリューションのオンラインも含む",
+    "references": [
+      {
+        "url": "https://wifi.nintendo.co.jp/",
+        "label": "ニンテンドーWi-Fiコネクション終了のお知らせ"
+      },
+      {
+        "url": "https://www.inside-games.jp/article/2014/02/27/74743.html",
+        "label": "インサイド（2014-02-27）"
+      }
+    ],
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "pokemon_dream_world",
+    "name_ja": "ポケモンドリームワールド",
+    "name_en": "Pokémon Dream World",
+    "games": [
+      "black",
+      "white",
+      "black2",
+      "white2"
+    ],
+    "endDate": "2014-01-14",
+    "note": "第5世代の PGL。ゲームシンクで使う。終了日は二次資料による（公式の告知は未確認）",
+    "references": [
+      {
+        "url": "https://dic.pixiv.net/a/ポケモンドリームワールド",
+        "label": "ピクシブ百科事典: ポケモンドリームワールド"
+      }
+    ],
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "wii_shop_channel",
+    "name_ja": "Wiiショッピングチャンネル",
+    "name_en": "Wii Shop Channel",
+    "endDate": "2019-01-31",
+    "note": "『みんなのポケモン牧場』（WiiWare）の購入に使う",
+    "references": [
+      {
+        "url": "https://support.nintendo.com/jp/information/2018/0809.html",
+        "label": "Wiiショッピングチャンネル終了のお知らせ"
+      }
+    ],
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "pokemon_global_link",
+    "name_ja": "ポケモングローバルリンク",
+    "name_en": "Pokémon Global Link",
+    "games": [
+      "x",
+      "y",
+      "omegaruby",
+      "alphasapphire",
+      "sun",
+      "moon",
+      "ultra_sun",
+      "ultra_moon"
+    ],
+    "endDate": "2020-02-25",
+    "endTime": "08:59",
+    "note": "第6・7世代のゲームシンク、レーティングバトル、インターネット大会",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/info/2020/01/200124_gm02.html",
+        "label": "PGL サービス終了のお知らせ"
+      }
+    ],
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "nintendo_eshop_3ds",
+    "name_ja": "ニンテンドー3DS/Wii U ニンテンドーeショップ",
+    "name_en": "Nintendo eShop (Nintendo 3DS / Wii U)",
+    "endDate": "2023-03-28",
+    "endTime": "09:00",
+    "note": "新規購入の終了。ポケムーバー・ポケモンバンクの新規ダウンロードもこの日時で終了",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/info/2022/02/220216_gm01.html",
+        "label": "『ポケモンバンク』サービス終了のお知らせ"
+      },
+      {
+        "url": "https://support.nintendo.com/jp/information/2022/0216.html",
+        "label": "ニンテンドー3DS/Wii U のニンテンドーeショップ終了時期について"
+      }
+    ],
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "nintendo_network_3ds",
+    "name_ja": "ニンテンドー3DS/Wii U オンラインプレイ",
+    "name_en": "Online play (Nintendo 3DS / Wii U)",
+    "games": [
+      "x",
+      "y",
+      "omegaruby",
+      "alphasapphire",
+      "sun",
+      "moon",
+      "ultra_sun",
+      "ultra_moon"
+    ],
+    "endDate": "2024-04-09",
+    "endTime": "09:00",
+    "note": "GTS、ミラクル交換、バトルスポット、インターネット経由のふしぎなおくりものなど。ポケモンバンク・ポケムーバーは対象外",
+    "references": [
+      {
+        "url": "https://support.nintendo.com/jp/information/2023/1004.html",
+        "label": "ニンテンドー3DS/Wii U のオンラインプレイ終了時期について"
+      }
+    ],
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "pokemon_bank",
+    "name_ja": "ポケモンバンク",
+    "name_en": "Pokémon Bank",
+    "endDate": "2027-02-26",
+    "endTime": "12:00",
+    "note": "ポケムーバーを含む（ポケムーバー単体の終了日は公式に記載なし）",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/info/2022/02/220216_gm01.html",
+        "label": "『ポケモンバンク』サービス終了のお知らせ"
+      }
+    ],
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "nintendo_switch_online",
+    "name_ja": "Nintendo Switch Online",
+    "name_en": "Nintendo Switch Online",
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "swsh_ranked_battle",
+    "name_ja": "ランクバトル（ソード・シールド）",
+    "name_en": "Ranked Battles (Sword & Shield)",
+    "games": [
+      "sword",
+      "shield"
+    ],
+    "note": "2022-11-01 以降シーズン更新停止。シーズン36が継続",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/info/2022/10/221014_at02.html",
+        "label": "ポケモン公式サイトのお知らせ（2022-10-14）"
+      }
+    ],
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "sv_ranked_battle",
+    "name_ja": "ランクバトル（スカーレット・バイオレット）",
+    "name_en": "Ranked Battles (Scarlet & Violet)",
+    "games": [
+      "scarlet",
+      "violet"
+    ],
+    "note": "2026-04-01 13:00 開始の最終シーズン41が「サービス終了まで」継続。終了日は未発表",
+    "references": [
+      {
+        "url": "https://sv-news.pokemon.co.jp/ja/page/389.html",
+        "label": "ポケモン スカーレット・バイオレット ニュース: 最終シーズン41以降のランクバトル"
+      }
+    ],
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "sv_poke_portal_news",
+    "name_ja": "ポケポータルニュース（スカーレット・バイオレット）",
+    "name_en": "Poké Portal News (Scarlet & Violet)",
+    "games": [
+      "scarlet",
+      "violet"
+    ],
+    "note": "7★テラレイドなどのイベント配信",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Mark",
+        "label": "Bulbapedia: Mark"
+      }
+    ],
+    "checkedAt": "2026-09-29"
+  },
+  {
+    "id": "pokemon_home",
+    "name_ja": "Pokémon HOME",
+    "name_en": "Pokémon HOME",
+    "checkedAt": "2026-09-29"
+  }
+]

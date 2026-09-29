@@ -1,6 +1,6 @@
 # pokemon-data 開発ノート
 
-> 最終更新: 2026-07-29（ribbons/catalog.json 新設・配信L2直接出力化・国際配信取り込み）
+> 最終更新: 2026-09-29（services/all.json 新設・catalog route の timing / methods・移植版の網羅検証）
 
 ## このリポジトリの役割
 
@@ -33,6 +33,8 @@ pokemon-data/
 │   └── balls.json            # ボール 29種
 ├── ribbons/
 │   └── catalog.json          # リボン・あかし完全カタログ（取得ルート付き）の正本
+├── services/
+│   └── all.json              # 通信サービス（WFC・PGL・バンク等）の終了日時の正本（手書き）
 ├── distributions/
 │   ├── gen5.json〜gen9.json   # 配信ポケモン L2 正本（世代別）
 │   ├── champions.json        # 大会・チャンピオン系配信の L2 正本
@@ -144,6 +146,8 @@ pokemon-data/
 | `dlc` | DLC配列。発売日 = そのDLCで解禁される新ポケモンの実装日として管理。DLCのないタイトルはフィールド自体省略 |
 | `home.send` | ゲーム→HOMEへポケモンを転送できるか |
 | `home.receive` | HOME→ゲームへポケモンを受け取れるか |
+| `home.keepsRibbons` | HOME に送ったときリボンが残るか。`true` / `false` / `"unconfirmed"`（未確認）。今は移植版だけが持つ |
+| `portOf` | 移植版（`category: "port"`）の移植元 title id（例: `switch_firered` → `firered`）。移植版を指してはいけない。リボン catalog の網羅検証に使う（下記） |
 
 ### HOME連携の注意点
 
@@ -160,10 +164,57 @@ pokemon-data/
 ("ribbon"|"mark") / introduced_gen / notes(任意) / routes`。
 
 - **正本はこのカタログ**。`mappings/ribbons.json` は EN→JA 対訳（配布データ用）で catalog のサブセット
-- `routes[].games` は `games/titles.json` の id のみ使用（tracker 合成id `oras`/`usum`/`lets_go` や
-  `firered_switch`/`leafgreen_switch` は消費側の生成時に変換・復元する）
+- `routes[].games` は `games/titles.json` の id のみ使用（tracker 合成id `oras`/`usum`/`lets_go` は消費側の生成時に変換する。
+  Switch版FRLG は `switch_firered`/`switch_leafgreen` を catalog に明示して書く。下記「移植版」）
 - 消費者: ribbon-tracker `scripts/generate-ribbons.mjs`（ribbons-gen3..9.ts / marks.ts を全自動生成）
-- 検証: `npm run validate:ribbons`（key/route.id ユニーク・games 実在・mappings/ribbons.json との整合）
+- 検証: `npm run validate:ribbons`（key/route.id ユニーク・games 実在・mappings/ribbons.json との整合、
+  下記の新項目・services/all.json・titles.json の `portOf` / `home.keepsRibbons`）。エラーは全件まとめて出る
+
+### route の項目（2026-09-29 追加）
+
+決定の経緯は ADR（ribbon-tracker リポジトリ `docs/adr/0001-pokemon-data-ribbon-availability.md` に暫定配置。
+後日 content-hub の ADR へ移す）。
+
+| 項目 | 必須 | 内容 |
+|---|---|---|
+| `timing` | 必須 | `"on_capture"`（捕獲時・受け取り時にしか付かない。配布リボンも含む）/ `"post_capture"`（後から付けられる） |
+| `methods[]` | 任意 | ソフトによって条件や取得可否が違う route にだけ置く。無ければ「サービス依存なし・今も取れる」 |
+| `methods[].games` | 必須 | route.games の部分集合。method 間で重複なし・和が route.games と一致 |
+| `methods[].availability` | 必須 | `available` / `distribution`（配布・大会次第）/ `ended`（期間・大会の終了）/ `never`（配布実績なし）/ `unconfirmed` |
+| `methods[].requiresServices` | 任意 | `services/all.json` の id の配列。**AND**（全部が稼働中のときだけ取れる）。NSO も暗黙にせず書く |
+| `methods[].endDate` / `endTime` | 任意 | `availability: "ended"` のときだけ。分かる場合のみ（推測で埋めない）。サービスで終わるものには書かない（services 側で持つ） |
+| `methods[].requirements` / `note` | 任意 | そのソフト群だけ条件が違うとき / 読者向けの補足 |
+| `excludedPorts` | 任意 | この route には入れないと決めた移植版の title id |
+| `references` / `checkedAt` / `verified` | 任意 | 下記の使い分け |
+
+サービス依存・終了・未確認は `methods[]` にだけ書く（route 直下に `availability` などを書くと validate が止める）。
+
+**出典と確認日の使い分け**（配信データの `verified` と意味を揃える）:
+
+- `references`: `[{ url, label }]`。読者に示す出典
+- `checkedAt`: `YYYY-MM-DD`。**資料を読んで確認した日**（期限表の `checkedAt` と同じ意味）
+- `verified`: `{ method: "in-game" | "official-image", date }`。**実機（または公式画像）で確かめたときだけ**。資料を読んだだけの日に使わない
+
+### 移植版（Switch版FRLG など）
+
+- catalog には移植版の title id を**明示的に書く**。消費側の生成時に移植元から展開しない（元作品の誤りが移植版に広がり、移植版だけの違いが例外リストになるため）
+- 移植版は titles.json の `portOf` で移植元を示す。validate は「移植元を含むのに、移植版を games に入れるか
+  `excludedPorts` に書くか決めていない route」を全部一覧で出して止める。新しい移植が出たら titles.json に
+  `portOf` 付きで足し、出てきた route を1件ずつ決める（件数が多いときは下書きスクリプトを使ってよいが、出力はコミットしてレビューする）
+
+---
+
+## services/all.json（通信サービスの終了日時・2026-09-29）
+
+リボンの取得方法や転送ルートが依存するサービス（ニンテンドーWi-Fiコネクション、PGL、ポケモンバンク、
+3DS のオンラインプレイ、NSO、ランクバトル等）の正本。手書き。catalog の `methods[].requiresServices` と
+ribbon-tracker の転送ルートが同じ id を参照する。
+
+- 項目: `id` / `name_ja` / `name_en` / `games?`（このサービスを使うソフト。表示・検証用で判定には使わない）/
+  `endDate?`（YYYY-MM-DD）/ `endTime?`（HH:MM・JST）/ `note?` / `references?` / `checkedAt`
+- **状態（稼働中・終了予定・終了）は持たない。** `endDate` が無い＝終了の告知なし、未来＝終了予定、過去＝終了、を消費側で求める
+- `endDate` / `endTime` は期限表と同じく**公式表記をそのまま**入れ、推測で埋めない（時刻が分からなければ省略）。
+  閉まる瞬間への変換（+1分）は消費側の仕事
 
 ---
 

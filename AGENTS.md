@@ -12,6 +12,7 @@
 - `abilities/` — 特性データの正本
 - `mappings/` — リボン・あかし・ボール・性格等の英日マッピング正本
 - `ribbons/catalog.json` — リボン・あかし完全カタログの正本（`mappings/ribbons.json` は EN→JA 対訳（配布データ用）で catalog のサブセット。消費者: ribbon-tracker `scripts/generate-ribbons.mjs`）
+- `services/all.json` — 通信サービス（WFC・PGL・ポケモンバンク等）の終了日時の正本（手書き）。catalog の `methods[].requiresServices` と ribbon-tracker の転送ルートが参照する。状態は持たず日付から求める
 - `distributions/*.json` — 配信ポケモンデータの正本（L2）
 - `build/pokemon.json` — 上記を join した成果物（L3・コミット方式）
 - `poco-a-pokemon/events.json` / `raids/tera-raids.json` — イベント期限表（手書き）。`distributions/` とは別物
@@ -30,6 +31,11 @@
 - `build/` は生成物。手で編集せず、ソース側を直してから再生成する
 - **統合・削除した配信の `id` は使い回さない**（備考の「（id: …）」参照や公開ページの URL が別の配信を指してしまう。2026-09-28 に 09114 で実例。`npm run validate` が参照先のポケモン違いを止める）
 - `notes` は読者向けの備考だけ。確認日は `verified`、出典URLは `references`、統合などの作業メモは git 履歴に残す
+- catalog の route には `timing`（必須）と、ソフトで取り方が違うときだけ `methods[]`（`availability` / `requiresServices` 等）を書く。
+  出典は `references`、資料を読んで確認した日は `checkedAt`、`verified` は実機（公式画像）で確かめたときだけ（詳細は `DEVELOPMENT_NOTES.md`。
+  決定の経緯は ribbon-tracker の `docs/adr/0001-pokemon-data-ribbon-availability.md` に暫定配置）
+- 移植版（`portOf` を持つ title）は catalog に明示的に書く（生成時に展開しない）。移植元を含む route は、移植版を `games` に入れるか
+  `excludedPorts` に書くかを決める。決めていないと `npm run validate:ribbons` が一覧を出して止める
 - `mappings/` を参照する他リポジトリ（distribution-scraper 等）は symlink 経由。実体はここだけ
 - 期限表（`poco-a-pokemon/` `raids/`）を更新したら `checkedUntil` も先へ進める。
   進めないと morning brief が毎朝「表が期限切れ」と鳴り続ける（詳細は `DEVELOPMENT_NOTES.md`）

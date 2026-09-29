@@ -3260,7 +3260,7 @@
         ],
         "category": "思い出",
         "description": "ヒスイ地方で記念写真を撮った思い出の証",
-        "requirements": "コトブキムラの写真屋でポケモンと記念写真を撮る",
+        "requirements": "コトブキムラの写真屋でポケモンと記念写真を撮る。LA の画面には出ないが、HOME に送ると見える",
         "timing": "post_capture"
       }
     ]
@@ -3271,8 +3271,45 @@
     "name_en": "Once-in-a-Lifetime Ribbon",
     "kind": "ribbon",
     "introduced_gen": 8,
-    "notes": "LEGENDS アルセウス由来。入手手段に実装上の疑義があるため取得ルートなし（ribbon-tracker 側では SKIP_CANONICAL_RIBBON_NAMES で管理）",
-    "routes": []
+    "notes": "入手手段に疑義がある（PKHeX 2026-09-27 時点は正規の入手手段を認めていない）ため、route の methods は availability: unconfirmed（ribbon-tracker 側では SKIP_CANONICAL_RIBBON_NAMES で管理）",
+    "routes": [
+      {
+        "id": "once-in-a-lifetime-ribbon",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "特殊",
+        "description": "SV のマジカルこうかんで、ごく低い確率で付くとされるリボン",
+        "requirements": "SV のマジカルこうかんで受け取ったポケモンに、ごく低い確率で付くとされる。PKHeX（2026-09-27 時点）は正規の入手手段を認めておらず、実際に付くかは未確認",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "scarlet",
+              "violet"
+            ],
+            "availability": "unconfirmed",
+            "requiresServices": [
+              "nintendo_switch_online"
+            ],
+            "note": "PKHeX（2026-09-27 時点）は、このリボンが付いていれば不正と判定する。正規に付くようになったかは確認できていない"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://www.pokebros.net/sv-marks/",
+            "label": "ポケブロス:【ポケモンSV】あかし（証）/リボン・二つ名一覧と入手条件"
+          },
+          {
+            "url": "https://github.com/kwsch/PKHeX/blob/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Legality/Verifiers/Ribbons/RibbonVerifierCommon9.cs",
+            "label": "PKHeX: RibbonVerifierCommon9.cs（2026-09-27 のコミット）"
+          }
+        ],
+        "checkedAt": "2026-09-29"
+      }
+    ]
   },
   {
     "key": "paldea-champion",

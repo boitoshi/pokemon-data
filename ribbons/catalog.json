@@ -14,7 +14,9 @@
           "sapphire",
           "emerald",
           "firered",
-          "leafgreen"
+          "leafgreen",
+          "switch_firered",
+          "switch_leafgreen"
         ],
         "category": "チャンピオン",
         "description": "ホウエン/カントー地方のポケモンリーグを制覇した証",
@@ -470,7 +472,7 @@
         ],
         "category": "バトル施設",
         "description": "バトルタワー Lv.50チャレンジを制覇した証",
-        "requirements": "バトルタワーのLv.50チャレンジで勝ち抜く",
+        "requirements": "バトルタワーのLv.50チャレンジで7連勝を重ね、連勝数を56以上にする",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
@@ -495,7 +497,7 @@
         ],
         "category": "バトル施設",
         "description": "バトルタワー オープンレベルチャレンジを制覇した証",
-        "requirements": "バトルタワーのオープンレベルチャレンジで勝ち抜く"
+        "requirements": "バトルタワーのオープンレベルチャレンジで7連勝を重ね、連勝数を56以上にする"
       }
     ]
   },
@@ -534,12 +536,27 @@
           "ruby",
           "sapphire",
           "emerald",
-          "firered",
-          "leafgreen"
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
         ],
         "category": "思い出",
         "description": "努力値を最大まで上げた証",
-        "requirements": "努力値の合計が510に達した状態で特定のNPCに話しかける"
+        "requirements": "努力値の合計が最大（510）のポケモンを見せる（RSE・ORAS: カイナシティ、DPPt: ナギサシティ、HGSS: フスベシティ、XY: クノエシティのポケモンだいすきクラブ、SM・USUM: ロイヤルアベニュー、SwSh: ナックルシティ、SV: ハッコウシティ）"
       },
       {
         "id": "effort-ribbon-bdsp",
@@ -660,12 +677,10 @@
         "games": [
           "diamond",
           "pearl",
-          "platinum",
-          "heartgold",
-          "soulsilver"
+          "platinum"
         ],
         "category": "チャンピオン",
-        "description": "シンオウ/ジョウト地方のポケモンリーグを制覇した証（HGSSの殿堂入りでも入手可能）",
+        "description": "シンオウ地方のポケモンリーグを制覇した証",
         "requirements": "殿堂入りメンバーに入っている"
       },
       {
@@ -1123,8 +1138,8 @@
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルタワーのLv.50チャレンジで21連勝した証",
-        "requirements": "バトルタワーのLv.50チャレンジで21連勝する",
+        "description": "バトルタワーのシングルバトルでタワータイクーンに勝った証",
+        "requirements": "バトルタワーのシングルバトルで、21戦目のタワータイクーン（クロツグ）に勝つ",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
@@ -1150,8 +1165,8 @@
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルタワーのLv.50チャレンジで49連勝した証",
-        "requirements": "バトルタワーのLv.50チャレンジで49連勝する",
+        "description": "バトルタワーのシングルバトルで2度目のタワータイクーン戦に勝った証",
+        "requirements": "バトルタワーのシングルバトルで、49戦目のタワータイクーン（クロツグ）に勝つ",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
@@ -1177,8 +1192,8 @@
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルタワーのダブルバトルで21連勝した証",
-        "requirements": "バトルタワーのダブルバトルで21連勝する",
+        "description": "バトルタワーのダブルバトルで50連勝した証",
+        "requirements": "バトルタワーのダブルバトルで50連勝する",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
@@ -1204,8 +1219,8 @@
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルタワーのマルチバトルで21連勝した証",
-        "requirements": "バトルタワーのマルチバトルで21連勝する",
+        "description": "バトルタワーのマルチバトルで50連勝した証",
+        "requirements": "バトルタワーのマルチバトル（ゲーム内のパートナーと組む）で50連勝する",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
@@ -1231,8 +1246,8 @@
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルタワーのWiFiマルチバトルで21連勝した証",
-        "requirements": "バトルタワーのWiFiマルチバトルで21連勝する",
+        "description": "バトルタワーの通信マルチバトルで50連勝した証",
+        "requirements": "バトルタワーで、ほかのプレイヤーと通信で組むマルチバトル（DS同士のワイヤレス通信）で50連勝する",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
@@ -1251,13 +1266,15 @@
         "id": "world-ability-ribbon",
         "generation": 4,
         "games": [
+          "diamond",
+          "pearl",
           "platinum",
           "heartgold",
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルファクトリーで21連勝した証",
-        "requirements": "バトルファクトリーで21連勝する",
+        "description": "バトルタワーのWi-Fiルームでランクを上げた証",
+        "requirements": "バトルタワーのWi-Fiルームで、ランク4〜9のときに7連勝してランクを上げる（ニンテンドーWi-Fiコネクションの終了により現在は入手不可）",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
@@ -1278,11 +1295,19 @@
         "games": [
           "diamond",
           "pearl",
-          "platinum"
+          "platinum",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon"
         ],
         "category": "思い出",
-        "description": "あしあと博士になつき度を認めてもらった証",
-        "requirements": "Lv.30以上で十分成長しており、かつ友好度がMAXである"
+        "description": "あしあと博士に認めてもらった証",
+        "requirements": "DPPt: なつき度が最大のポケモンを213番道路のあしあと博士に見せる。XY（シャラシティ）・ORAS（バトルリゾート）・SM/USUM（ハノハノリゾート）: 捕まえた・受け取ったときから30レベル以上上がったポケモンを見せる"
       },
       {
         "id": "footprint-ribbon-bdsp",
@@ -1308,12 +1333,15 @@
         "id": "gorgeous-ribbon",
         "generation": 4,
         "games": [
-          "heartgold",
-          "soulsilver"
+          "diamond",
+          "pearl",
+          "platinum",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
-        "description": "リゾートエリアでお金で手に入れた豪華なリボン",
-        "requirements": "リゾートエリアのショップで10,000円で購入する"
+        "description": "お金で手に入れた豪華なリボン",
+        "requirements": "リボンを売る店で10,000円で買う（DPPt: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）"
       },
       {
         "id": "gorgeous-ribbon-bdsp",
@@ -1339,12 +1367,15 @@
         "id": "royal-ribbon",
         "generation": 4,
         "games": [
-          "heartgold",
-          "soulsilver"
+          "diamond",
+          "pearl",
+          "platinum",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
-        "description": "リゾートエリアで高額のお金で手に入れた王家のリボン",
-        "requirements": "リゾートエリアのショップで100,000円で購入する"
+        "description": "高額のお金で手に入れた王家のリボン",
+        "requirements": "リボンを売る店で100,000円で買う（DPPt: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）。DPPtではゴージャスリボンを持っていることが必要"
       },
       {
         "id": "royal-ribbon-bdsp",
@@ -1370,12 +1401,15 @@
         "id": "gorgeous-royal-ribbon",
         "generation": 4,
         "games": [
-          "heartgold",
-          "soulsilver"
+          "diamond",
+          "pearl",
+          "platinum",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
-        "description": "リゾートエリアで超高額のお金で手に入れた究極のリボン",
-        "requirements": "リゾートエリアのショップで999,999円で購入する"
+        "description": "超高額のお金で手に入れた究極のリボン",
+        "requirements": "リボンを売る店で999,999円で買う（DPPt: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）。DPPtではロイヤルリボンを持っていることが必要"
       },
       {
         "id": "gorgeous-royal-ribbon-bdsp",
@@ -1405,11 +1439,15 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "何かに気づいているポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
+        "requirements": "月曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
       },
       {
         "id": "alert-ribbon-bdsp",
@@ -1439,11 +1477,15 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつも驚いているポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
+        "requirements": "火曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
       },
       {
         "id": "shock-ribbon-bdsp",
@@ -1473,11 +1515,15 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつも悲しそうなポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
+        "requirements": "水曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
       },
       {
         "id": "downcast-ribbon-bdsp",
@@ -1507,11 +1553,15 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつもそそっかしいポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
+        "requirements": "木曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
       },
       {
         "id": "careless-ribbon-bdsp",
@@ -1541,11 +1591,15 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつものんびりしているポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
+        "requirements": "金曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
       },
       {
         "id": "relax-ribbon-bdsp",
@@ -1575,11 +1629,15 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつも眠そうなポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
+        "requirements": "土曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
       },
       {
         "id": "snooze-ribbon-bdsp",
@@ -1609,11 +1667,15 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "特殊",
         "description": "いつもニコニコしているポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
+        "requirements": "日曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
       },
       {
         "id": "smile-ribbon-bdsp",
@@ -1646,8 +1708,8 @@
           "soulsilver"
         ],
         "category": "特殊",
-        "description": "バトルタワーで記録を打ち立てた証",
-        "requirements": "バトルタワーで最高記録を更新する"
+        "description": "すばらしい記録を打ち立てた証として用意されたリボン（一度も配布されていない）",
+        "requirements": "入手方法なし（ゲームのデータにはあるが、一度も配布されていない）"
       }
     ]
   },
@@ -1662,12 +1724,12 @@
         "id": "legend-ribbon",
         "generation": 4,
         "games": [
-          "diamond",
-          "pearl"
+          "heartgold",
+          "soulsilver"
         ],
         "category": "特殊",
-        "description": "ポケモン牧場に999匹送り込んだ証",
-        "requirements": "My Pokémon Ranch（ポケモン牧場）に999匹のポケモンを送る"
+        "description": "伝説のトレーナーに勝った証",
+        "requirements": "HGSSのシロガネやまでレッドに勝つ（手持ち全員がもらえる）"
       }
     ]
   },
@@ -2143,7 +2205,7 @@
         ],
         "category": "バトル施設",
         "description": "スーパートレーニングを完全クリアした証",
-        "requirements": "同一個体でスーパートレーニングの全30トレーニングを「すごい記録」でクリアし、XYは自宅の母、ORASはムロタウンの男性に話しかける"
+        "requirements": "同一個体でスーパートレーニングの全30トレーニングを「すごい記録」でクリアし、XYはミアレシティのカフェの女性、ORASはムロタウンの男性に話しかける"
       }
     ]
   },
@@ -2159,11 +2221,13 @@
         "generation": 6,
         "games": [
           "x",
-          "y"
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "バトル施設",
-        "description": "高度なバトルで実力を示した証",
-        "requirements": "スカイバトルで所定の条件を達成する"
+        "description": "バトルハウスでバトルシャトレーヌに勝った証",
+        "requirements": "バトルハウスのノーマルルール（シングル・ダブル・トリプル・ローテーション・マルチ）で、20戦目のバトルシャトレーヌに勝つ"
       }
     ]
   },
@@ -2179,11 +2243,13 @@
         "generation": 6,
         "games": [
           "x",
-          "y"
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "バトル施設",
-        "description": "エキスパートとして認められたバトルの実力の証",
-        "requirements": "バトルシャトーで所定のランクに到達する"
+        "description": "バトルハウスのスーパールールでバトルシャトレーヌに勝った証",
+        "requirements": "バトルハウスのスーパールール（スーパーシングルなど）で、50戦目のバトルシャトレーヌに勝つ"
       }
     ]
   },
@@ -2227,11 +2293,13 @@
           "sword",
           "shield",
           "brilliant_diamond",
-          "shining_pearl"
+          "shining_pearl",
+          "scarlet",
+          "violet"
         ],
         "category": "思い出",
         "description": "トレーナーと最高の友情を育んだ証",
-        "requirements": "友好度がMAXの状態でポケモンに話しかける。BDSPではヨスガシティのポケモンだいすきクラブでなかよし度最大のポケモンを判定してもらう"
+        "requirements": "友好度がMAXの状態でポケモンに話しかける。BDSPではヨスガシティのポケモンだいすきクラブでなかよし度最大のポケモンを判定してもらう。SVではカラフシティの女性になかよし度が最大のポケモンを見せる"
       }
     ]
   },
@@ -2776,9 +2844,7 @@
         "generation": 8,
         "games": [
           "sword",
-          "shield",
-          "scarlet",
-          "violet"
+          "shield"
         ],
         "category": "あかし",
         "description": "日照りの日に出会ったポケモンに付くあかし",
@@ -2826,7 +2892,7 @@
         ],
         "category": "あかし",
         "description": "霧の日に出会ったポケモンに付くあかし",
-        "requirements": "霧の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "霧の天気のときにフィールドで出会ったポケモンをランダムで入手する（SVで霧になるのは、キタカミの里の崖の外など特殊な場所だけ）"
       }
     ]
   },
@@ -2841,14 +2907,12 @@
         "id": "destiny-mark",
         "generation": 8,
         "games": [
-          "sword",
-          "shield",
           "scarlet",
           "violet"
         ],
         "category": "あかし",
-        "description": "出会いの運命を感じさせる非常にレアなあかし",
-        "requirements": "フィールドで出会ったポケモンに非常に低い確率で付く"
+        "description": "誕生日に出会った、運命を感じさせるポケモンに付くあかし",
+        "requirements": "本体に登録した誕生日に、フィールドで出会ったポケモンにランダムで付く"
       }
     ]
   },
@@ -2864,9 +2928,7 @@
         "generation": 8,
         "games": [
           "sword",
-          "shield",
-          "scarlet",
-          "violet"
+          "shield"
         ],
         "category": "あかし",
         "description": "釣り上げられたポケモンに付くあかし",
@@ -2889,8 +2951,8 @@
           "shield"
         ],
         "category": "あかし",
-        "description": "キャンプでカレーを一緒に食べたポケモンに付くあかし",
-        "requirements": "キャンプでカレーを作った後、一緒に食べたポケモン等に低確率で付く"
+        "description": "キャンプのカレーに寄ってきたポケモンに付くあかし",
+        "requirements": "ポケモンキャンプでカレーを作った後に寄ってくる野生ポケモンを仲間にすると、必ず付いている"
       }
     ]
   },

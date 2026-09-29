@@ -2235,12 +2235,29 @@
     "routes": [
       {
         "id": "classic-ribbon",
-        "generation": 5,
+        "generation": 4,
         "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver",
           "black",
           "white",
           "black2",
-          "white2"
+          "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
         ],
         "category": "イベント",
         "description": "イベントで配布された特別なポケモンに付いているリボン",
@@ -2249,13 +2266,36 @@
         "methods": [
           {
             "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
               "black",
               "white",
               "black2",
-              "white2"
+              "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
             ],
             "availability": "ended",
             "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield",
+              "scarlet",
+              "violet"
+            ],
+            "availability": "distribution",
+            "note": "配布ポケモンに最初から付いている。新しい配布があれば、受け取ったときに付く"
           }
         ],
         "references": [
@@ -2319,16 +2359,29 @@
     "routes": [
       {
         "id": "premier-ribbon",
-        "generation": 5,
+        "generation": 4,
         "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver",
           "black",
           "white",
           "black2",
           "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
           "sun",
           "moon",
           "ultra_sun",
-          "ultra_moon"
+          "ultra_moon",
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
         ],
         "category": "イベント",
         "description": "記念すべき特別なリボン",
@@ -2337,10 +2390,19 @@
         "methods": [
           {
             "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
               "black",
               "white",
               "black2",
               "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
               "sun",
               "moon",
               "ultra_sun",
@@ -2348,6 +2410,16 @@
             ],
             "availability": "ended",
             "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield",
+              "scarlet",
+              "violet"
+            ],
+            "availability": "distribution",
+            "note": "配布ポケモンに最初から付いている。新しい配布があれば、受け取ったときに付く"
           }
         ],
         "references": [

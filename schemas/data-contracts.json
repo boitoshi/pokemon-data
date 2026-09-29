@@ -18,5 +18,9 @@
   "ribbons/catalog.json": {
     "requiredKeys": ["key", "name_ja", "name_en", "kind", "introduced_gen", "routes"],
     "minEntries": 120
+  },
+  "services/all.json": {
+    "requiredKeys": ["id", "name_ja", "name_en", "checkedAt"],
+    "minEntries": 5
   }
 }

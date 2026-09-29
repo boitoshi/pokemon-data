@@ -1,6 +1,6 @@
 # pokemon-data 開発ノート
 
-> 最終更新: 2026-07-29（ribbons/catalog.json 新設・配信L2直接出力化・国際配信取り込み）
+> 最終更新: 2026-09-30（作品別の種族対応・進行度解放条件を追加）
 
 ## このリポジトリの役割
 
@@ -8,17 +8,19 @@
 
 ---
 
-## 現在の構成（2026-07-29時点）
+## 現在の構成（2026-09-30時点）
 
 ```
 pokemon-data/
 ├── pokemon/
 │   ├── all.json               # ポケモンマスターデータ 1025件 + フォームデータ 199件
-│   └── history.json           # 種族・フォームの過去タイプ・フォーム登場ソフトの手書き正本（fetch系は読まない・書かない。ADR 0016）
+│   ├── history.json           # 種族・フォームの過去タイプ・フォーム登場ソフトの手書き正本（fetch系は読まない・書かない。ADR 0016）
+│   └── game-compatibility.json # 作品に入れる種族（全国図鑑番号。収集データ正本）
 ├── games/
 │   ├── titles.json           # ゲームタイトル 43件（Gen1〜Gen10/ZA + ぽこ あ ポケモン）。groupフィールド付き
-│   ├── groups.json           # グループ定義 26件（"SwSh", "SV"等のペア単位キー）
-│   └── generations.json      # 世代定義 10件
+│   ├── groups.json           # グループ定義 28件（"SwSh", "SV"等のペア単位キー）
+│   ├── generations.json      # 世代定義 10件
+│   └── progression-gates.json # 交換・転送・コンテスト施設の進行度解放条件（手書き正本）
 ├── abilities/
 │   └── all.json              # 特性 316件（name_en 補完済み）
 ├── mappings/
@@ -58,6 +60,7 @@ pokemon-data/
     ├── validate-data.mjs           # マスターデータの検証
     ├── validate-distributions.mjs  # 配信正本（distributions/*.json）の検証
     ├── validate-ribbons.mjs        # リボン・あかしデータの検証
+    ├── validate-game-compatibility.mjs # 種族対応・進行度ゲートの検証
     ├── scrape-to-l2.mjs            # distribution-scraper の出力を L2 正本へ取り込み（provenance-aware upsert）
     ├── anchor.mjs                  # L2 取り込み時のアンカー処理
     ├── verify-anchor.mjs           # アンカーの検証
@@ -109,6 +112,18 @@ pokemon-data/
 
 ソース: `pokebros-tools/tools/summary-pages/src/data/special-forms.json`
 更新時: `uv run scripts/fetch-forms.py --force && uv run scripts/fetch-form-names-en.py`
+
+---
+
+## 作品への種族対応と進行度の解放条件
+
+- `pokemon/game-compatibility.json` は「その作品に**少なくとも1つの姿**を置ける種族」の全国図鑑番号を持つ。野生で捕まえられるか、個体の姿・出身・覚えている技、プレイヤーの進行度は含めない。既存の `forms[].available_in` は姿の登場作品であり、この種族対応表の代わりにはしない。
+- `legacyRules` は第3〜7世代の本編で**最終的に**受け入れられる種族の上限。ピカブイなど種族制限がある作品は `explicitGroups` に列挙する。作品ペアは `games/groups.json` の ID を参照する。
+- `games/progression-gates.json` は、確認済みの交換・世代間転送・コンテスト施設の解放条件を方法別に持つ。**コンテストに参加できる進行度だけで、交換・転送が解放済みとは判定しない。** セーブ進行度を記録・確認できないときは条件を満たしたと断定しない。
+- 出典と確認日はデータ内に記録する。`unverifiedGroups` と `unverified` は未調査の範囲で、非対応を意味しない。`outOfScopeGroups` は今回のリボン取得・転送判定から除く作品を明示する。第8世代以降はDLCや更新で対応種族が変わり得るため、更新時は二次資料の一覧と件数を再照合する。
+- `npm run validate:game-compatibility` でグループID・全国図鑑番号・重複・出典・照合済み件数を検証する。リボントラッカーへの取り込みと個体判定への適用は別作業であり、このデータを置いた時点ではアプリの表示は変わらない。
+
+今回の収集元は各レコードの `sources` を参照。剣盾・SV・Z-A は Serebii の非対応一覧から対応種族を求め、Bulbapedia の対応件数と突き合わせた。LA は Serebii のヒスイ図鑑、BDSP・ピカブイは Bulbapedia の対応種族一覧を参照した。
 
 ---
 

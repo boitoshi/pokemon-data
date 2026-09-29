@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-09-30",
+  "meaning": "リボン取得施設と、ポケモンを受け入れる交換・転送方法の解放条件。種族対応は pokemon/game-compatibility.json を参照。セーブデータの進行状況を確認しない限り、条件を満たしたとは扱わない。",
+  "gates": [
+    {
+      "id": "rs-contest",
+      "kind": "ribbon_facility",
+      "gameGroupIds": ["RS"],
+      "method": "pokemon_contest",
+      "requirements": ["シダケタウンのコンテスト会場でコンテストパスを受け取る"],
+      "note": "ノーマルはシダケ、スーパーはハジツゲ、ハイパーはカイナ、マスターはミナモの会場。上位ランクには同じ部門の下位ランクでの優勝も必要。",
+      "sources": [
+        "https://bulbapedia.bulbagarden.net/wiki/Contest_Pass",
+        "https://bulbapedia.bulbagarden.net/wiki/Contest_Hall"
+      ]
+    },
+    {
+      "id": "emerald-contest",
+      "kind": "ribbon_facility",
+      "gameGroupIds": ["Emerald"],
+      "method": "pokemon_contest",
+      "requirements": ["ミナモシティのコンテスト会場に到達する", "ポロックケースを入手する"],
+      "note": "4ランクすべてミナモシティで開催。上位ランクには同じ部門の下位ランクでの優勝も必要。",
+      "sources": [
+        "https://bulbapedia.bulbagarden.net/wiki/Contest_Hall",
+        "https://bulbapedia.bulbagarden.net/wiki/Contest_Pass"
+      ]
+    },
+    {
+      "id": "dppt-super-contest",
+      "kind": "ribbon_facility",
+      "gameGroupIds": ["DP", "Pt"],
+      "method": "super_contest",
+      "requirements": ["ヨスガシティのコンテスト会場に到達し、フォーマルな衣装を受け取る"],
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/Contest_Pass"]
+    },
+    {
+      "id": "oras-contest",
+      "kind": "ribbon_facility",
+      "gameGroupIds": ["ORAS"],
+      "method": "contest_spectacular",
+      "requirements": ["カイナシティでデボンのにもつを届け、コンテストパスを受け取る"],
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/Contest_Pass"]
+    },
+    {
+      "id": "bdsp-super-contest",
+      "kind": "ribbon_facility",
+      "gameGroupIds": ["BDSP"],
+      "method": "super_contest_show",
+      "requirements": ["ヨスガシティのコンテスト会場に到達し、フォーマルな衣装を受け取る"],
+      "note": "ブリリアント／シャイニングコンテストは殿堂入り後に解放。",
+      "sources": [
+        "https://bulbapedia.bulbagarden.net/wiki/Contest_Pass",
+        "https://bulbapedia.bulbagarden.net/wiki/Super_Contest_Show"
+      ]
+    },
+    {
+      "id": "rs-trade-receive",
+      "kind": "pokemon_arrival",
+      "gameGroupIds": ["RS"],
+      "method": "link_trade",
+      "requirements": ["ポケモン図鑑を入手し、手持ちを2匹以上にする"],
+      "note": "ルビー・サファイア側の交換開始に全国図鑑は不要。送り元の作品側の条件は別途必要。",
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/Trade"]
+    },
+    {
+      "id": "emerald-non-hoenn-trade",
+      "kind": "pokemon_arrival",
+      "gameGroupIds": ["Emerald"],
+      "method": "link_trade_non_hoenn",
+      "requirements": ["殿堂入り後に全国図鑑を入手する"],
+      "note": "全国図鑑前は原則ホウエン図鑑内に制限。コロシアムからの受け取りには例外がある。",
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/Trade"]
+    },
+    {
+      "id": "frlg-cross-region-trade",
+      "kind": "pokemon_arrival",
+      "gameGroupIds": ["FRLG"],
+      "method": "link_trade_cross_region",
+      "requirements": ["殿堂入り・カントー図鑑60種以上・1のしま訪問後に全国図鑑を入手する", "ニシキのネットワークマシンを完成させる"],
+      "note": "序盤はFRLG同士のカントー図鑑内の交換に限られる。",
+      "sources": [
+        "https://bulbapedia.bulbagarden.net/wiki/Trade",
+        "https://bulbapedia.bulbagarden.net/wiki/National_Pok%C3%A9dex"
+      ]
+    },
+    {
+      "id": "gen4-link-trade",
+      "kind": "pokemon_arrival",
+      "gameGroupIds": ["DP", "Pt", "HGSS"],
+      "method": "same_generation_link_trade",
+      "requirements": ["ポケモン図鑑を入手し、手持ちを2匹以上にする"],
+      "note": "同世代の通信交換では、全国図鑑前でも地方図鑑外の種族を受け取れる。",
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/Trade"]
+    },
+    {
+      "id": "dppt-pal-park",
+      "kind": "pokemon_arrival",
+      "gameGroupIds": ["DP", "Pt"],
+      "method": "pal_park_from_gen3",
+      "requirements": ["全国図鑑を入手し、221番道路のパルパークを解放する"],
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/Pal_Park"]
+    },
+    {
+      "id": "hgss-pal-park",
+      "kind": "pokemon_arrival",
+      "gameGroupIds": ["HGSS"],
+      "method": "pal_park_from_gen3",
+      "requirements": ["全国図鑑を入手し、セキチクシティのパルパークに到達する"],
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/Pal_Park"]
+    },
+    {
+      "id": "gen5-poke-transfer",
+      "kind": "pokemon_arrival",
+      "gameGroupIds": ["BW", "B2W2"],
+      "method": "poke_transfer_from_gen4",
+      "requirements": ["本編クリア後に全国図鑑を入手し、15番道路のポケシフター施設に到達する"],
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Transfer"]
+    },
+    {
+      "id": "gen5-link-trade",
+      "kind": "pokemon_arrival",
+      "gameGroupIds": ["BW", "B2W2"],
+      "method": "same_generation_link_trade",
+      "requirements": ["最初のジムバッジを取得し、Cギアを使えるようにする"],
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/Trade"]
+    },
+    {
+      "id": "gen6-7-bank-withdrawal",
+      "kind": "pokemon_arrival",
+      "gameGroupIds": ["XY", "ORAS", "SM", "USUM"],
+      "method": "pokemon_bank_withdrawal",
+      "requirements": ["受け取り先のセーブデータでポケモン図鑑を入手する"],
+      "note": "全国図鑑の取得は一律の条件ではない。世代間の逆戻りや技・姿の制限は別途確認する。",
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Bank"]
+    }
+  ],
+  "unverified": [
+    "Switch版FRLGの通信・HOME連携の解放条件",
+    "HOME接続作品でのセーブデータ進行度・出身・姿ごとの追加制限",
+    "すべてのリボン取得施設とランクの個別解放条件"
+  ]
+}

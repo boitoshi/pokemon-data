@@ -53,18 +53,6 @@
           }
         ],
         "checkedAt": "2026-09-29"
-      },
-      {
-        "id": "champion-lets-go",
-        "generation": 7,
-        "games": [
-          "lets_go_pikachu",
-          "lets_go_eevee"
-        ],
-        "category": "チャンピオン",
-        "description": "カントー地方のポケモンリーグを制覇した証（Gen3のチャンプリボンと同一）",
-        "requirements": "殿堂入りメンバーに入っている",
-        "timing": "post_capture"
       }
     ]
   },
@@ -607,24 +595,14 @@
           "ultra_moon",
           "sword",
           "shield",
+          "brilliant_diamond",
+          "shining_pearl",
           "scarlet",
           "violet"
         ],
         "category": "思い出",
         "description": "努力値を最大まで上げた証",
-        "requirements": "努力値の合計が最大（510）のポケモンを見せる（RSE・ORAS: カイナシティ、DPPt: ナギサシティ、HGSS: フスベシティ、XY: クノエシティのポケモンだいすきクラブ、SM・USUM: ロイヤルアベニュー、SwSh: ナックルシティ、SV: ハッコウシティ）",
-        "timing": "post_capture"
-      },
-      {
-        "id": "effort-ribbon-bdsp",
-        "generation": 8,
-        "games": [
-          "brilliant_diamond",
-          "shining_pearl"
-        ],
-        "category": "思い出",
-        "description": "努力値を最大まで上げた証",
-        "requirements": "努力値を最大まで貯めたポケモンをナギサシティの女性に見せる",
+        "requirements": "努力値の合計が最大（510）のポケモンを見せる（RSE・ORAS: カイナシティ、DPPt・BDSP: ナギサシティ、HGSS: フスベシティ、XY: クノエシティのポケモンだいすきクラブ、SM・USUM: ロイヤルアベニュー、SwSh: ナックルシティ、SV: ハッコウシティ）",
         "timing": "post_capture"
       }
     ]
@@ -787,22 +765,12 @@
         "games": [
           "diamond",
           "pearl",
-          "platinum"
-        ],
-        "category": "チャンピオン",
-        "description": "シンオウ地方のポケモンリーグを制覇した証",
-        "requirements": "殿堂入りメンバーに入っている",
-        "timing": "post_capture"
-      },
-      {
-        "id": "champion-sinnoh-bdsp",
-        "generation": 8,
-        "games": [
+          "platinum",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "チャンピオン",
-        "description": "シンオウ地方のポケモンリーグを制覇した証（BDSP）",
+        "description": "シンオウ地方のポケモンリーグを制覇した証",
         "requirements": "殿堂入りメンバーに入っている",
         "timing": "post_capture"
       }
@@ -1468,24 +1436,47 @@
           "sun",
           "moon",
           "ultra_sun",
-          "ultra_moon"
-        ],
-        "category": "思い出",
-        "description": "あしあと博士に認めてもらった証",
-        "requirements": "DPPt: なつき度が最大のポケモンを213番道路のあしあと博士に見せる。XY（シャラシティ）・ORAS（バトルリゾート）・SM/USUM（ハノハノリゾート）: 捕まえた・受け取ったときから30レベル以上上がったポケモンを見せる",
-        "timing": "post_capture"
-      },
-      {
-        "id": "footprint-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "ultra_moon",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "思い出",
-        "description": "あしあと博士になつき度を認めてもらった証",
-        "requirements": "なついたポケモンを213番道路のあしあと博士に見せる",
-        "timing": "post_capture"
+        "description": "あしあと博士に認めてもらった証",
+        "requirements": "あしあと博士に条件を満たしたポケモンを見せる（DPPt・BDSP: 213番道路、XY: シャラシティ、ORAS: バトルリゾート、SM/USUM: ハノハノリゾート）。条件はソフトで違う",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum"
+            ],
+            "availability": "available",
+            "requirements": "なつき度が最大のポケモンを見せる"
+          },
+          {
+            "games": [
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
+            ],
+            "availability": "available",
+            "requirements": "捕まえた・受け取ったときから30レベル以上上がったポケモンを見せる"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "BDSP で鳴き声の無い種族はレベルに関係なく、ほかは捕まえた・受け取ったときから30レベル以上上がったポケモンを見せる"
+          }
+        ]
       }
     ]
   },
@@ -1504,23 +1495,13 @@
           "pearl",
           "platinum",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "特殊",
-        "description": "お金で手に入れた豪華なリボン",
-        "requirements": "リボンを売る店で10,000円で買う（DPPt: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）",
-        "timing": "post_capture"
-      },
-      {
-        "id": "gorgeous-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
-        "description": "リゾートエリアでお金で手に入れた豪華なリボン",
-        "requirements": "リゾートエリアのリボンシンジケートで購入する",
+        "description": "お金で手に入れた豪華なリボン",
+        "requirements": "リボンを売る店で10,000円で買う（DPPt・BDSP: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）",
         "timing": "post_capture"
       }
     ]
@@ -1540,24 +1521,35 @@
           "pearl",
           "platinum",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "特殊",
-        "description": "高額のお金で手に入れた王家のリボン",
-        "requirements": "リボンを売る店で100,000円で買う（DPPt: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）。DPPtではゴージャスリボンを持っていることが必要",
-        "timing": "post_capture"
-      },
-      {
-        "id": "royal-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
-        "description": "リゾートエリアで高額のお金で手に入れた王家のリボン",
-        "requirements": "リゾートエリアのリボンシンジケートで購入する",
-        "timing": "post_capture"
+        "description": "高額のお金で手に入れた王家のリボン",
+        "requirements": "リボンを売る店で100,000円で買う（DPPt・BDSP: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ゴージャスリボンを持っていることが必要（順番に買う）"
+          },
+          {
+            "games": [
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "単品で買える（ゴージャスリボンは要らない）"
+          }
+        ]
       }
     ]
   },
@@ -1576,24 +1568,35 @@
           "pearl",
           "platinum",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "特殊",
-        "description": "超高額のお金で手に入れた究極のリボン",
-        "requirements": "リボンを売る店で999,999円で買う（DPPt: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）。DPPtではロイヤルリボンを持っていることが必要",
-        "timing": "post_capture"
-      },
-      {
-        "id": "gorgeous-royal-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
-        "description": "リゾートエリアで超高額のお金で手に入れた究極のリボン",
-        "requirements": "リゾートエリアのリボンシンジケートで購入する",
-        "timing": "post_capture"
+        "description": "超高額のお金で手に入れた究極のリボン",
+        "requirements": "リボンを売る店で999,999円で買う（DPPt・BDSP: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ロイヤルリボンを持っていることが必要（順番に買う）"
+          },
+          {
+            "games": [
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "単品で買える（ロイヤルリボンは要らない）"
+          }
+        ]
       }
     ]
   },
@@ -1616,24 +1619,39 @@
           "x",
           "y",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "特殊",
-        "description": "何かに気づいているポケモンに贈られる記念のリボン",
-        "requirements": "月曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）",
-        "timing": "post_capture"
-      },
-      {
-        "id": "alert-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "何かに気づいているポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）",
-        "timing": "post_capture"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "月曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1656,24 +1674,39 @@
           "x",
           "y",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "特殊",
-        "description": "いつも驚いているポケモンに贈られる記念のリボン",
-        "requirements": "火曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）",
-        "timing": "post_capture"
-      },
-      {
-        "id": "shock-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつも驚いているポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）",
-        "timing": "post_capture"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "火曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1696,24 +1729,39 @@
           "x",
           "y",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "特殊",
-        "description": "いつも悲しそうなポケモンに贈られる記念のリボン",
-        "requirements": "水曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）",
-        "timing": "post_capture"
-      },
-      {
-        "id": "downcast-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつも悲しそうなポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）",
-        "timing": "post_capture"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "水曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1736,24 +1784,39 @@
           "x",
           "y",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "特殊",
-        "description": "いつもそそっかしいポケモンに贈られる記念のリボン",
-        "requirements": "木曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）",
-        "timing": "post_capture"
-      },
-      {
-        "id": "careless-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつもそそっかしいポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）",
-        "timing": "post_capture"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "木曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1776,24 +1839,39 @@
           "x",
           "y",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "特殊",
-        "description": "いつものんびりしているポケモンに贈られる記念のリボン",
-        "requirements": "金曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）",
-        "timing": "post_capture"
-      },
-      {
-        "id": "relax-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつものんびりしているポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）",
-        "timing": "post_capture"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "金曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1816,24 +1894,39 @@
           "x",
           "y",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "特殊",
-        "description": "いつも眠そうなポケモンに贈られる記念のリボン",
-        "requirements": "土曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）",
-        "timing": "post_capture"
-      },
-      {
-        "id": "snooze-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつも眠そうなポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）",
-        "timing": "post_capture"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "土曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1856,24 +1949,39 @@
           "x",
           "y",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "特殊",
-        "description": "いつもニコニコしているポケモンに贈られる記念のリボン",
-        "requirements": "日曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）",
-        "timing": "post_capture"
-      },
-      {
-        "id": "smile-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつもニコニコしているポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）",
-        "timing": "post_capture"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "日曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -2123,16 +2231,33 @@
     "name_ja": "クラシックリボン",
     "name_en": "Classic Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 5,
+    "introduced_gen": 4,
     "routes": [
       {
         "id": "classic-ribbon",
-        "generation": 5,
+        "generation": 4,
         "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver",
           "black",
           "white",
           "black2",
-          "white2"
+          "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
         ],
         "category": "イベント",
         "description": "イベントで配布された特別なポケモンに付いているリボン",
@@ -2141,13 +2266,36 @@
         "methods": [
           {
             "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
               "black",
               "white",
               "black2",
-              "white2"
+              "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
             ],
             "availability": "ended",
             "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield",
+              "scarlet",
+              "violet"
+            ],
+            "availability": "distribution",
+            "note": "配布ポケモンに最初から付いている。新しい配布があれば、受け取ったときに付く"
           }
         ],
         "references": [
@@ -2207,49 +2355,33 @@
     "name_ja": "プレミアリボン",
     "name_en": "Premier Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 5,
+    "introduced_gen": 4,
     "routes": [
       {
         "id": "premier-ribbon",
-        "generation": 5,
+        "generation": 4,
         "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver",
           "black",
           "white",
           "black2",
-          "white2"
-        ],
-        "category": "イベント",
-        "description": "記念すべき特別なリボン",
-        "requirements": "イベント配布ポケモンを受け取る",
-        "timing": "on_capture",
-        "methods": [
-          {
-            "games": [
-              "black",
-              "white",
-              "black2",
-              "white2"
-            ],
-            "availability": "ended",
-            "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
-          }
-        ],
-        "references": [
-          {
-            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
-            "label": "Bulbapedia: List of Ribbons in the games"
-          }
-        ],
-        "checkedAt": "2026-09-29"
-      },
-      {
-        "id": "premier-ribbon-g7",
-        "generation": 7,
-        "games": [
+          "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
           "sun",
           "moon",
           "ultra_sun",
-          "ultra_moon"
+          "ultra_moon",
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
         ],
         "category": "イベント",
         "description": "記念すべき特別なリボン",
@@ -2258,6 +2390,19 @@
         "methods": [
           {
             "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "black",
+              "white",
+              "black2",
+              "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
               "sun",
               "moon",
               "ultra_sun",
@@ -2265,6 +2410,16 @@
             ],
             "availability": "ended",
             "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield",
+              "scarlet",
+              "violet"
+            ],
+            "availability": "distribution",
+            "note": "配布ポケモンに最初から付いている。新しい配布があれば、受け取ったときに付く"
           }
         ],
         "references": [
@@ -2499,23 +2654,13 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテスト・かっこよさ部門のマスターランクで優勝した証",
-        "requirements": "ポケモンコンテスト・かっこよさ部門 マスターランクで優勝する",
-        "timing": "post_capture"
-      },
-      {
-        "id": "coolness-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
         "description": "コンテスト・かっこよさ部門のマスターランクで優勝した証",
-        "requirements": "ヨスガシティのスーパーコンテストショー・かっこよさ部門のマスターランクで優勝する",
+        "requirements": "コンテストのかっこよさ部門・マスターランクで優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
         "timing": "post_capture"
       }
     ]
@@ -2532,23 +2677,13 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテスト・うつくしさ部門のマスターランクで優勝した証",
-        "requirements": "ポケモンコンテスト・うつくしさ部門 マスターランクで優勝する",
-        "timing": "post_capture"
-      },
-      {
-        "id": "beauty-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
         "description": "コンテスト・うつくしさ部門のマスターランクで優勝した証",
-        "requirements": "ヨスガシティのスーパーコンテストショー・うつくしさ部門のマスターランクで優勝する",
+        "requirements": "コンテストのうつくしさ部門・マスターランクで優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
         "timing": "post_capture"
       }
     ]
@@ -2565,23 +2700,13 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテスト・かわいさ部門のマスターランクで優勝した証",
-        "requirements": "ポケモンコンテスト・かわいさ部門 マスターランクで優勝する",
-        "timing": "post_capture"
-      },
-      {
-        "id": "cuteness-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
         "description": "コンテスト・かわいさ部門のマスターランクで優勝した証",
-        "requirements": "ヨスガシティのスーパーコンテストショー・かわいさ部門のマスターランクで優勝する",
+        "requirements": "コンテストのかわいさ部門・マスターランクで優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
         "timing": "post_capture"
       }
     ]
@@ -2598,23 +2723,13 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテスト・かしこさ部門のマスターランクで優勝した証",
-        "requirements": "ポケモンコンテスト・かしこさ部門 マスターランクで優勝する",
-        "timing": "post_capture"
-      },
-      {
-        "id": "cleverness-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
         "description": "コンテスト・かしこさ部門のマスターランクで優勝した証",
-        "requirements": "ヨスガシティのスーパーコンテストショー・かしこさ部門のマスターランクで優勝する",
+        "requirements": "コンテストのかしこさ部門・マスターランクで優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
         "timing": "post_capture"
       }
     ]
@@ -2631,23 +2746,13 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテスト・たくましさ部門のマスターランクで優勝した証",
-        "requirements": "ポケモンコンテスト・たくましさ部門 マスターランクで優勝する",
-        "timing": "post_capture"
-      },
-      {
-        "id": "toughness-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
         "description": "コンテスト・たくましさ部門のマスターランクで優勝した証",
-        "requirements": "ヨスガシティのスーパーコンテストショー・たくましさ部門のマスターランクで優勝する",
+        "requirements": "コンテストのたくましさ部門・マスターランクで優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
         "timing": "post_capture"
       }
     ]
@@ -2735,31 +2840,11 @@
           "x",
           "y",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "思い出",
-        "description": "トレーナーと最高の友情を育んだ証",
-        "requirements": "友好度がMAXの状態でポケモンに話しかける",
-        "timing": "post_capture"
-      },
-      {
-        "id": "best-friends-ribbon-g7",
-        "generation": 7,
-        "games": [
+          "alphasapphire",
           "sun",
           "moon",
           "ultra_sun",
-          "ultra_moon"
-        ],
-        "category": "思い出",
-        "description": "トレーナーと最高の友情を育んだ証",
-        "requirements": "友好度がMAXの状態でポケモンに話しかける",
-        "timing": "post_capture"
-      },
-      {
-        "id": "best-friends-ribbon-g8",
-        "generation": 8,
-        "games": [
+          "ultra_moon",
           "sword",
           "shield",
           "brilliant_diamond",
@@ -2769,8 +2854,36 @@
         ],
         "category": "思い出",
         "description": "トレーナーと最高の友情を育んだ証",
-        "requirements": "友好度がMAXの状態でポケモンに話しかける。BDSPではヨスガシティのポケモンだいすきクラブでなかよし度最大のポケモンを判定してもらう。SVではカラフシティの女性になかよし度が最大のポケモンを見せる",
-        "timing": "post_capture"
+        "requirements": "なかよし度を最大の255（ハート5個）まで上げて、ソフトごとの人物に話しかける",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
+            ],
+            "availability": "available",
+            "requirements": "なかよし度（ポケパルレ・ポケリフレで上がる）を最大にする。XY: ミアレジム1階のユリーカ。ORAS: キンセツシティのキンセツヒルズ。SM・USUM: マリエシティの地域センター"
+          },
+          {
+            "games": [
+              "sword",
+              "shield",
+              "brilliant_diamond",
+              "shining_pearl",
+              "scarlet",
+              "violet"
+            ],
+            "availability": "available",
+            "requirements": "なかよし度を最大にする。SwSh: ナックルシティの民家にいる男の子。BDSP: ヨスガシティのポケモンだいすきクラブ。SV: カラフシティの噴水近くにいる、マリルを連れている女性"
+          }
+        ]
       }
     ]
   },
@@ -2884,23 +2997,13 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテストライブ！の5部門すべてでマスターランク優勝した証",
-        "requirements": "コンテストライブ！の5部門すべてでマスターランク優勝する",
-        "timing": "post_capture"
-      },
-      {
-        "id": "contest-star-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
-        "description": "スーパーコンテストショーの5部門すべてでマスターランク優勝した証",
-        "requirements": "スーパーコンテストショーの5部門すべてでマスターランク優勝する",
+        "description": "コンテストの5部門すべてでマスターランク優勝した証",
+        "requirements": "コンテストの5部門すべてでマスターランク優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
         "timing": "post_capture"
       }
     ]
@@ -3157,7 +3260,7 @@
         ],
         "category": "思い出",
         "description": "ヒスイ地方で記念写真を撮った思い出の証",
-        "requirements": "コトブキムラの写真屋でポケモンと記念写真を撮る",
+        "requirements": "コトブキムラの写真屋でポケモンと記念写真を撮る。LA の画面には出ないが、HOME に送ると見える",
         "timing": "post_capture"
       }
     ]
@@ -3167,9 +3270,46 @@
     "name_ja": "せんざいいちぐうリボン",
     "name_en": "Once-in-a-Lifetime Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 8,
-    "notes": "LEGENDS アルセウス由来。入手手段に実装上の疑義があるため取得ルートなし（ribbon-tracker 側では SKIP_CANONICAL_RIBBON_NAMES で管理）",
-    "routes": []
+    "introduced_gen": 9,
+    "notes": "入手手段に疑義がある（PKHeX 2026-09-27 時点は正規の入手手段を認めていない）ため、route の methods は availability: unconfirmed",
+    "routes": [
+      {
+        "id": "once-in-a-lifetime-ribbon",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "特殊",
+        "description": "SV のマジカルこうかんで、ごく低い確率で付くとされるリボン",
+        "requirements": "SV のマジカルこうかんで受け取ったポケモンに、ごく低い確率で付くとされる。実際に付くかは未確認",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "scarlet",
+              "violet"
+            ],
+            "availability": "unconfirmed",
+            "requiresServices": [
+              "nintendo_switch_online"
+            ],
+            "note": "PKHeX（2026-09-27 時点）は、このリボンが付いていれば不正と判定する。正規に付くようになったかは確認できていない"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://www.pokebros.net/sv-marks/",
+            "label": "ポケブロス:【ポケモンSV】あかし（証）/リボン・二つ名一覧と入手条件"
+          },
+          {
+            "url": "https://github.com/kwsch/PKHeX/blob/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Legality/Verifiers/Ribbons/RibbonVerifierCommon9.cs",
+            "label": "PKHeX: RibbonVerifierCommon9.cs（2026-09-27 のコミット）"
+          }
+        ],
+        "checkedAt": "2026-09-29"
+      }
+    ]
   },
   {
     "key": "paldea-champion",
@@ -4315,7 +4455,7 @@
         ],
         "category": "あかし",
         "description": "長い時間を共に歩んだポケモンに付くあかし",
-        "requirements": "なかよし度200以上の手持ちポケモンに対し、プレイヤーが10000歩歩くたびに判定。ボールの外に出す必要はなし",
+        "requirements": "なかよし度が「けっこうなかよし」以上のポケモンを手持ちに入れるか連れ歩き、10,000歩ごとに1/100（約1%）の確率で付く",
         "timing": "post_capture"
       }
     ]

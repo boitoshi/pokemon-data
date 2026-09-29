@@ -2231,7 +2231,7 @@
     "name_ja": "クラシックリボン",
     "name_en": "Classic Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 5,
+    "introduced_gen": 4,
     "routes": [
       {
         "id": "classic-ribbon",
@@ -2355,7 +2355,7 @@
     "name_ja": "プレミアリボン",
     "name_en": "Premier Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 5,
+    "introduced_gen": 4,
     "routes": [
       {
         "id": "premier-ribbon",
@@ -3270,7 +3270,7 @@
     "name_ja": "せんざいいちぐうリボン",
     "name_en": "Once-in-a-Lifetime Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 8,
+    "introduced_gen": 9,
     "notes": "入手手段に疑義がある（PKHeX 2026-09-27 時点は正規の入手手段を認めていない）ため、route の methods は availability: unconfirmed（ribbon-tracker 側では SKIP_CANONICAL_RIBBON_NAMES で管理）",
     "routes": [
       {

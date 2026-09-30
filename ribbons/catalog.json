@@ -14,22 +14,45 @@
           "sapphire",
           "emerald",
           "firered",
-          "leafgreen"
+          "leafgreen",
+          "switch_firered",
+          "switch_leafgreen"
         ],
         "category": "チャンピオン",
         "description": "ホウエン/カントー地方のポケモンリーグを制覇した証",
-        "requirements": "殿堂入りメンバーに入っている"
-      },
-      {
-        "id": "champion-lets-go",
-        "generation": 7,
-        "games": [
-          "lets_go_pikachu",
-          "lets_go_eevee"
+        "requirements": "殿堂入りメンバーに入っている",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "ruby",
+              "sapphire",
+              "emerald",
+              "firered",
+              "leafgreen"
+            ],
+            "availability": "available"
+          },
+          {
+            "games": [
+              "switch_firered",
+              "switch_leafgreen"
+            ],
+            "availability": "unconfirmed",
+            "note": "Switch版で付くか・HOME に送った後も残るかは、HOME 連携開始（2026年10月）後に確認"
+          }
         ],
-        "category": "チャンピオン",
-        "description": "カントー地方のポケモンリーグを制覇した証（Gen3のチャンプリボンと同一）",
-        "requirements": "殿堂入りメンバーに入っている"
+        "references": [
+          {
+            "url": "https://www.pokemon.co.jp/ex/switch-frlg/",
+            "label": "『ポケットモンスター ファイアレッド・リーフグリーン』（Nintendo Switch）公式サイト"
+          },
+          {
+            "url": "https://www.pokemon.co.jp/ex/switch-frlg/pokemonhome/",
+            "label": "『ファイアレッド・リーフグリーン』（Nintendo Switch）と Pokémon HOME の連携"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -50,7 +73,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かっこよさ部門ノーマルランク優勝",
-        "requirements": "かっこよさ部門ノーマルランクで優勝する"
+        "requirements": "かっこよさ部門ノーマルランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -71,7 +95,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かっこよさ部門スーパーランク優勝",
-        "requirements": "かっこよさ部門スーパーランクで優勝する"
+        "requirements": "かっこよさ部門スーパーランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -92,7 +117,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かっこよさ部門ハイパーランク優勝",
-        "requirements": "かっこよさ部門ハイパーランクで優勝する"
+        "requirements": "かっこよさ部門ハイパーランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -113,7 +139,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かっこよさ部門マスターランク優勝",
-        "requirements": "かっこよさ部門マスターランクで優勝する"
+        "requirements": "かっこよさ部門マスターランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -134,7 +161,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・うつくしさ部門ノーマルランク優勝",
-        "requirements": "うつくしさ部門ノーマルランクで優勝する"
+        "requirements": "うつくしさ部門ノーマルランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -155,7 +183,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・うつくしさ部門スーパーランク優勝",
-        "requirements": "うつくしさ部門スーパーランクで優勝する"
+        "requirements": "うつくしさ部門スーパーランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -176,7 +205,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・うつくしさ部門ハイパーランク優勝",
-        "requirements": "うつくしさ部門ハイパーランクで優勝する"
+        "requirements": "うつくしさ部門ハイパーランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -197,7 +227,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・うつくしさ部門マスターランク優勝",
-        "requirements": "うつくしさ部門マスターランクで優勝する"
+        "requirements": "うつくしさ部門マスターランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -218,7 +249,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かわいさ部門ノーマルランク優勝",
-        "requirements": "かわいさ部門ノーマルランクで優勝する"
+        "requirements": "かわいさ部門ノーマルランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -239,7 +271,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かわいさ部門スーパーランク優勝",
-        "requirements": "かわいさ部門スーパーランクで優勝する"
+        "requirements": "かわいさ部門スーパーランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -260,7 +293,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かわいさ部門ハイパーランク優勝",
-        "requirements": "かわいさ部門ハイパーランクで優勝する"
+        "requirements": "かわいさ部門ハイパーランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -281,7 +315,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かわいさ部門マスターランク優勝",
-        "requirements": "かわいさ部門マスターランクで優勝する"
+        "requirements": "かわいさ部門マスターランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -302,7 +337,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かしこさ部門ノーマルランク優勝",
-        "requirements": "かしこさ部門ノーマルランクで優勝する"
+        "requirements": "かしこさ部門ノーマルランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -323,7 +359,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かしこさ部門スーパーランク優勝",
-        "requirements": "かしこさ部門スーパーランクで優勝する"
+        "requirements": "かしこさ部門スーパーランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -344,7 +381,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かしこさ部門ハイパーランク優勝",
-        "requirements": "かしこさ部門ハイパーランクで優勝する"
+        "requirements": "かしこさ部門ハイパーランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -365,7 +403,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・かしこさ部門マスターランク優勝",
-        "requirements": "かしこさ部門マスターランクで優勝する"
+        "requirements": "かしこさ部門マスターランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -386,7 +425,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・たくましさ部門ノーマルランク優勝",
-        "requirements": "たくましさ部門ノーマルランクで優勝する"
+        "requirements": "たくましさ部門ノーマルランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -407,7 +447,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・たくましさ部門スーパーランク優勝",
-        "requirements": "たくましさ部門スーパーランクで優勝する"
+        "requirements": "たくましさ部門スーパーランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -428,7 +469,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・たくましさ部門ハイパーランク優勝",
-        "requirements": "たくましさ部門ハイパーランクで優勝する"
+        "requirements": "たくましさ部門ハイパーランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -449,7 +491,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテスト・たくましさ部門マスターランク優勝",
-        "requirements": "たくましさ部門マスターランクで優勝する"
+        "requirements": "たくましさ部門マスターランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -470,11 +513,12 @@
         ],
         "category": "バトル施設",
         "description": "バトルタワー Lv.50チャレンジを制覇した証",
-        "requirements": "バトルタワーのLv.50チャレンジで勝ち抜く",
+        "requirements": "バトルタワーのLv.50チャレンジで7連勝を重ね、連勝数を56以上にする",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -495,7 +539,8 @@
         ],
         "category": "バトル施設",
         "description": "バトルタワー オープンレベルチャレンジを制覇した証",
-        "requirements": "バトルタワーのオープンレベルチャレンジで勝ち抜く"
+        "requirements": "バトルタワーのオープンレベルチャレンジで7連勝を重ね、連勝数を56以上にする",
+        "timing": "post_capture"
       }
     ]
   },
@@ -516,7 +561,8 @@
         ],
         "category": "コンテスト",
         "description": "コンテストのマスターランクで優勝し、美術館に絵が飾られた証",
-        "requirements": "マスターランクで最高スコアを獲得し、リルシティ美術館に絵が飾られる"
+        "requirements": "マスターランクで最高スコアを獲得し、リルシティ美術館に絵が飾られる",
+        "timing": "post_capture"
       }
     ]
   },
@@ -534,23 +580,30 @@
           "ruby",
           "sapphire",
           "emerald",
-          "firered",
-          "leafgreen"
-        ],
-        "category": "思い出",
-        "description": "努力値を最大まで上げた証",
-        "requirements": "努力値の合計が510に達した状態で特定のNPCに話しかける"
-      },
-      {
-        "id": "effort-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
           "brilliant_diamond",
-          "shining_pearl"
+          "shining_pearl",
+          "scarlet",
+          "violet"
         ],
         "category": "思い出",
         "description": "努力値を最大まで上げた証",
-        "requirements": "努力値を最大まで貯めたポケモンをナギサシティの女性に見せる"
+        "requirements": "努力値の合計が最大（510）のポケモンを見せる（RSE・ORAS: カイナシティ、DPPt・BDSP: ナギサシティ、HGSS: フスベシティ、XY: クノエシティのポケモンだいすきクラブ、SM・USUM: ロイヤルアベニュー、SwSh: ナックルシティ、SV: ハッコウシティ）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -573,7 +626,32 @@
         ],
         "category": "イベント",
         "description": "過去のイベント配布・大会で贈られたリボン（現在は入手不可）",
-        "requirements": "過去のイベント配布・大会で受け取る（現在は入手不可）"
+        "requirements": "過去のイベント配布・大会で受け取る（現在は入手不可）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "ruby",
+              "sapphire",
+              "emerald",
+              "firered",
+              "leafgreen"
+            ],
+            "availability": "ended",
+            "note": "ポケモンフェスタの大会入賞で付いた。大会は終了"
+          }
+        ],
+        "excludedPorts": [
+          "switch_firered",
+          "switch_leafgreen"
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -596,7 +674,32 @@
         ],
         "category": "イベント",
         "description": "過去のイベント配布・大会で贈られたリボン（現在は入手不可）",
-        "requirements": "過去のイベント配布・大会で受け取る（現在は入手不可）"
+        "requirements": "過去のイベント配布・大会で受け取る（現在は入手不可）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "ruby",
+              "sapphire",
+              "emerald",
+              "firered",
+              "leafgreen"
+            ],
+            "availability": "ended",
+            "note": "ポケモンフェスタ 2004/2005 の大会入賞で付いた。大会は終了"
+          }
+        ],
+        "excludedPorts": [
+          "switch_firered",
+          "switch_leafgreen"
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -623,7 +726,8 @@
             "colosseum",
             "xd"
           ]
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -643,7 +747,8 @@
         ],
         "category": "バトル施設",
         "description": "Mt.Battleを100連勝した証",
-        "requirements": "Mt.Battleの100人抜きをメンバーチェンジなしで達成する"
+        "requirements": "Mt.Battleの100人抜きをメンバーチェンジなしで達成する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -661,23 +766,13 @@
           "diamond",
           "pearl",
           "platinum",
-          "heartgold",
-          "soulsilver"
-        ],
-        "category": "チャンピオン",
-        "description": "シンオウ/ジョウト地方のポケモンリーグを制覇した証（HGSSの殿堂入りでも入手可能）",
-        "requirements": "殿堂入りメンバーに入っている"
-      },
-      {
-        "id": "champion-sinnoh-bdsp",
-        "generation": 8,
-        "games": [
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "チャンピオン",
-        "description": "シンオウ地方のポケモンリーグを制覇した証（BDSP）",
-        "requirements": "殿堂入りメンバーに入っている"
+        "description": "シンオウ地方のポケモンリーグを制覇した証",
+        "requirements": "殿堂入りメンバーに入っている",
+        "timing": "post_capture"
       }
     ]
   },
@@ -698,7 +793,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かっこよさのノーマルランクで優勝した証",
-        "requirements": "スーパーコンテスト・かっこよさ ノーマルランクで優勝する"
+        "requirements": "スーパーコンテスト・かっこよさ ノーマルランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -719,7 +815,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かっこよさのグレートランクで優勝した証",
-        "requirements": "スーパーコンテスト・かっこよさ グレートランクで優勝する"
+        "requirements": "スーパーコンテスト・かっこよさ グレートランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -740,7 +837,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かっこよさのウルトラランクで優勝した証",
-        "requirements": "スーパーコンテスト・かっこよさ ウルトラランクで優勝する"
+        "requirements": "スーパーコンテスト・かっこよさ ウルトラランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -761,7 +859,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かっこよさのマスターランクで優勝した証",
-        "requirements": "スーパーコンテスト・かっこよさ マスターランクで優勝する"
+        "requirements": "スーパーコンテスト・かっこよさ マスターランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -783,7 +882,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・うつくしさのノーマルランクで優勝した証",
-        "requirements": "スーパーコンテスト・うつくしさ ノーマルランクで優勝する"
+        "requirements": "スーパーコンテスト・うつくしさ ノーマルランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -805,7 +905,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・うつくしさのグレートランクで優勝した証",
-        "requirements": "スーパーコンテスト・うつくしさ グレートランクで優勝する"
+        "requirements": "スーパーコンテスト・うつくしさ グレートランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -827,7 +928,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・うつくしさのウルトラランクで優勝した証",
-        "requirements": "スーパーコンテスト・うつくしさ ウルトラランクで優勝する"
+        "requirements": "スーパーコンテスト・うつくしさ ウルトラランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -849,7 +951,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・うつくしさのマスターランクで優勝した証",
-        "requirements": "スーパーコンテスト・うつくしさ マスターランクで優勝する"
+        "requirements": "スーパーコンテスト・うつくしさ マスターランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -870,7 +973,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かわいさのノーマルランクで優勝した証",
-        "requirements": "スーパーコンテスト・かわいさ ノーマルランクで優勝する"
+        "requirements": "スーパーコンテスト・かわいさ ノーマルランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -891,7 +995,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かわいさのグレートランクで優勝した証",
-        "requirements": "スーパーコンテスト・かわいさ グレートランクで優勝する"
+        "requirements": "スーパーコンテスト・かわいさ グレートランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -912,7 +1017,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かわいさのウルトラランクで優勝した証",
-        "requirements": "スーパーコンテスト・かわいさ ウルトラランクで優勝する"
+        "requirements": "スーパーコンテスト・かわいさ ウルトラランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -933,7 +1039,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かわいさのマスターランクで優勝した証",
-        "requirements": "スーパーコンテスト・かわいさ マスターランクで優勝する"
+        "requirements": "スーパーコンテスト・かわいさ マスターランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -954,7 +1061,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かしこさのノーマルランクで優勝した証",
-        "requirements": "スーパーコンテスト・かしこさ ノーマルランクで優勝する"
+        "requirements": "スーパーコンテスト・かしこさ ノーマルランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -975,7 +1083,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かしこさのグレートランクで優勝した証",
-        "requirements": "スーパーコンテスト・かしこさ グレートランクで優勝する"
+        "requirements": "スーパーコンテスト・かしこさ グレートランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -996,7 +1105,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かしこさのウルトラランクで優勝した証",
-        "requirements": "スーパーコンテスト・かしこさ ウルトラランクで優勝する"
+        "requirements": "スーパーコンテスト・かしこさ ウルトラランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -1017,7 +1127,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・かしこさのマスターランクで優勝した証",
-        "requirements": "スーパーコンテスト・かしこさ マスターランクで優勝する"
+        "requirements": "スーパーコンテスト・かしこさ マスターランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -1038,7 +1149,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・たくましさのノーマルランクで優勝した証",
-        "requirements": "スーパーコンテスト・たくましさ ノーマルランクで優勝する"
+        "requirements": "スーパーコンテスト・たくましさ ノーマルランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -1059,7 +1171,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・たくましさのグレートランクで優勝した証",
-        "requirements": "スーパーコンテスト・たくましさ グレートランクで優勝する"
+        "requirements": "スーパーコンテスト・たくましさ グレートランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -1080,7 +1193,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・たくましさのウルトラランクで優勝した証",
-        "requirements": "スーパーコンテスト・たくましさ ウルトラランクで優勝する"
+        "requirements": "スーパーコンテスト・たくましさ ウルトラランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -1101,7 +1215,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテスト・たくましさのマスターランクで優勝した証",
-        "requirements": "スーパーコンテスト・たくましさ マスターランクで優勝する"
+        "requirements": "スーパーコンテスト・たくましさ マスターランクで優勝する",
+        "timing": "post_capture"
       }
     ]
   },
@@ -1123,12 +1238,13 @@
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルタワーのLv.50チャレンジで21連勝した証",
-        "requirements": "バトルタワーのLv.50チャレンジで21連勝する",
+        "description": "バトルタワーのシングルバトルでタワータイクーンに勝った証",
+        "requirements": "バトルタワーのシングルバトルで、21戦目のタワータイクーン（クロツグ）に勝つ",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -1150,12 +1266,13 @@
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルタワーのLv.50チャレンジで49連勝した証",
-        "requirements": "バトルタワーのLv.50チャレンジで49連勝する",
+        "description": "バトルタワーのシングルバトルで2度目のタワータイクーン戦に勝った証",
+        "requirements": "バトルタワーのシングルバトルで、49戦目のタワータイクーン（クロツグ）に勝つ",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -1177,12 +1294,13 @@
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルタワーのダブルバトルで21連勝した証",
-        "requirements": "バトルタワーのダブルバトルで21連勝する",
+        "description": "バトルタワーのダブルバトルで50連勝した証",
+        "requirements": "バトルタワーのダブルバトルで50連勝する",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -1204,12 +1322,13 @@
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルタワーのマルチバトルで21連勝した証",
-        "requirements": "バトルタワーのマルチバトルで21連勝する",
+        "description": "バトルタワーのマルチバトルで50連勝した証",
+        "requirements": "バトルタワーのマルチバトル（ゲーム内のパートナーと組む）で50連勝する",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -1231,12 +1350,13 @@
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルタワーのWiFiマルチバトルで21連勝した証",
-        "requirements": "バトルタワーのWiFiマルチバトルで21連勝する",
+        "description": "バトルタワーの通信マルチバトルで50連勝した証",
+        "requirements": "バトルタワーで、ほかのプレイヤーと通信で組むマルチバトル（DS同士のワイヤレス通信）で50連勝する",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -1251,17 +1371,47 @@
         "id": "world-ability-ribbon",
         "generation": 4,
         "games": [
+          "diamond",
+          "pearl",
           "platinum",
           "heartgold",
           "soulsilver"
         ],
         "category": "バトル施設",
-        "description": "バトルファクトリーで21連勝した証",
-        "requirements": "バトルファクトリーで21連勝する",
+        "description": "バトルタワーのWi-Fiルームでランクを上げた証",
+        "requirements": "バトルタワーのWi-Fiルームで、ランク4〜9のときに7連勝してランクを上げる（ニンテンドーWi-Fiコネクションの終了により現在は入手不可）",
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver"
+            ],
+            "availability": "available",
+            "requiresServices": [
+              "nintendo_wfc"
+            ],
+            "note": "バトルタワーの Wi-Fi ルームでランクが上がると付く"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          },
+          {
+            "url": "https://www.serebii.net/games/ribbons.shtml",
+            "label": "Serebii: Ribbons"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1278,22 +1428,55 @@
         "games": [
           "diamond",
           "pearl",
-          "platinum"
-        ],
-        "category": "思い出",
-        "description": "あしあと博士になつき度を認めてもらった証",
-        "requirements": "Lv.30以上で十分成長しており、かつ友好度がMAXである"
-      },
-      {
-        "id": "footprint-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "platinum",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "思い出",
-        "description": "あしあと博士になつき度を認めてもらった証",
-        "requirements": "なついたポケモンを213番道路のあしあと博士に見せる"
+        "description": "あしあと博士に認めてもらった証",
+        "requirements": "あしあと博士に条件を満たしたポケモンを見せる（DPPt・BDSP: 213番道路、XY: シャラシティ、ORAS: バトルリゾート、SM/USUM: ハノハノリゾート）。条件はソフトで違う",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum"
+            ],
+            "availability": "available",
+            "requirements": "なつき度が最大のポケモンを見せる"
+          },
+          {
+            "games": [
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
+            ],
+            "availability": "available",
+            "requirements": "捕まえた・受け取ったときから30レベル以上上がったポケモンを見せる"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "BDSP で鳴き声の無い種族はレベルに関係なく、ほかは捕まえた・受け取ったときから30レベル以上上がったポケモンを見せる"
+          }
+        ]
       }
     ]
   },
@@ -1308,23 +1491,18 @@
         "id": "gorgeous-ribbon",
         "generation": 4,
         "games": [
-          "heartgold",
-          "soulsilver"
-        ],
-        "category": "特殊",
-        "description": "リゾートエリアでお金で手に入れた豪華なリボン",
-        "requirements": "リゾートエリアのショップで10,000円で購入する"
-      },
-      {
-        "id": "gorgeous-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "omegaruby",
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
-        "description": "リゾートエリアでお金で手に入れた豪華なリボン",
-        "requirements": "リゾートエリアのリボンシンジケートで購入する"
+        "description": "お金で手に入れた豪華なリボン",
+        "requirements": "リボンを売る店で10,000円で買う（DPPt・BDSP: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -1339,23 +1517,39 @@
         "id": "royal-ribbon",
         "generation": 4,
         "games": [
-          "heartgold",
-          "soulsilver"
-        ],
-        "category": "特殊",
-        "description": "リゾートエリアで高額のお金で手に入れた王家のリボン",
-        "requirements": "リゾートエリアのショップで100,000円で購入する"
-      },
-      {
-        "id": "royal-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "omegaruby",
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
-        "description": "リゾートエリアで高額のお金で手に入れた王家のリボン",
-        "requirements": "リゾートエリアのリボンシンジケートで購入する"
+        "description": "高額のお金で手に入れた王家のリボン",
+        "requirements": "リボンを売る店で100,000円で買う（DPPt・BDSP: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ゴージャスリボンを持っていることが必要（順番に買う）"
+          },
+          {
+            "games": [
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "単品で買える（ゴージャスリボンは要らない）"
+          }
+        ]
       }
     ]
   },
@@ -1370,23 +1564,39 @@
         "id": "gorgeous-royal-ribbon",
         "generation": 4,
         "games": [
-          "heartgold",
-          "soulsilver"
-        ],
-        "category": "特殊",
-        "description": "リゾートエリアで超高額のお金で手に入れた究極のリボン",
-        "requirements": "リゾートエリアのショップで999,999円で購入する"
-      },
-      {
-        "id": "gorgeous-royal-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "omegaruby",
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
-        "description": "リゾートエリアで超高額のお金で手に入れた究極のリボン",
-        "requirements": "リゾートエリアのリボンシンジケートで購入する"
+        "description": "超高額のお金で手に入れた究極のリボン",
+        "requirements": "リボンを売る店で999,999円で買う（DPPt・BDSP: リゾートエリアのリボンシンジケート、ORAS: キンセツシティ）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ロイヤルリボンを持っていることが必要（順番に買う）"
+          },
+          {
+            "games": [
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "単品で買える（ロイヤルリボンは要らない）"
+          }
+        ]
       }
     ]
   },
@@ -1405,22 +1615,43 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
-        ],
-        "category": "特殊",
-        "description": "何かに気づいているポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
-      },
-      {
-        "id": "alert-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "何かに気づいているポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "月曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1439,22 +1670,43 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
-        ],
-        "category": "特殊",
-        "description": "いつも驚いているポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
-      },
-      {
-        "id": "shock-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつも驚いているポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "火曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1473,22 +1725,43 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
-        ],
-        "category": "特殊",
-        "description": "いつも悲しそうなポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
-      },
-      {
-        "id": "downcast-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつも悲しそうなポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "水曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1507,22 +1780,43 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
-        ],
-        "category": "特殊",
-        "description": "いつもそそっかしいポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
-      },
-      {
-        "id": "careless-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつもそそっかしいポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "木曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1541,22 +1835,43 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
-        ],
-        "category": "特殊",
-        "description": "いつものんびりしているポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
-      },
-      {
-        "id": "relax-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつものんびりしているポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "金曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1575,22 +1890,43 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
-        ],
-        "category": "特殊",
-        "description": "いつも眠そうなポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
-      },
-      {
-        "id": "snooze-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつも眠そうなポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "土曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1609,22 +1945,43 @@
           "pearl",
           "platinum",
           "heartgold",
-          "soulsilver"
-        ],
-        "category": "特殊",
-        "description": "いつもニコニコしているポケモンに贈られる記念のリボン",
-        "requirements": "ゲーム内の特定のイベントで贈られる"
-      },
-      {
-        "id": "smile-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "soulsilver",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "特殊",
         "description": "いつもニコニコしているポケモンに贈られる記念のリボン",
-        "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+        "requirements": "ゲーム内の人物からもらう（場所ともらい方はソフトで違う）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requirements": "日曜日に先頭のポケモンがもらえる（DPPt: ナギサシティの女性、HGSS: 各地にいる曜日ごとの人物、XY: 各地のホテルにいる観光客、ORAS: キンセツヒルズ。ORASは手持ち全員がもらえる）"
+          },
+          {
+            "games": [
+              "brilliant_diamond",
+              "shining_pearl"
+            ],
+            "availability": "available",
+            "requirements": "ノモセシティ北東の民家の女性からもらう（1日1種類・2日目以降）"
+          }
+        ]
       }
     ]
   },
@@ -1646,8 +2003,29 @@
           "soulsilver"
         ],
         "category": "特殊",
-        "description": "バトルタワーで記録を打ち立てた証",
-        "requirements": "バトルタワーで最高記録を更新する"
+        "description": "すばらしい記録を打ち立てた証として用意されたリボン（一度も配布されていない）",
+        "requirements": "入手方法なし（ゲームのデータにはあるが、一度も配布されていない）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver"
+            ],
+            "availability": "never",
+            "note": "一度も配布されていない"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1662,12 +2040,13 @@
         "id": "legend-ribbon",
         "generation": 4,
         "games": [
-          "diamond",
-          "pearl"
+          "heartgold",
+          "soulsilver"
         ],
         "category": "特殊",
-        "description": "ポケモン牧場に999匹送り込んだ証",
-        "requirements": "My Pokémon Ranch（ポケモン牧場）に999匹のポケモンを送る"
+        "description": "伝説のトレーナーに勝った証",
+        "requirements": "HGSSのシロガネやまでレッドに勝つ（手持ち全員がもらえる）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -1690,7 +2069,28 @@
         ],
         "category": "イベント",
         "description": "ポケモン公式大会の入賞記念に配布されたリボン",
-        "requirements": "ポケモン公式大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）"
+        "requirements": "ポケモン公式大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1713,7 +2113,28 @@
         ],
         "category": "イベント",
         "description": "ポケモン地方大会の入賞記念に配布されたリボン",
-        "requirements": "ポケモン地方大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）"
+        "requirements": "ポケモン地方大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver"
+            ],
+            "availability": "never",
+            "note": "配布実績なし"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1736,7 +2157,28 @@
         ],
         "category": "イベント",
         "description": "ポケモン全国大会の入賞記念に配布されたリボン",
-        "requirements": "ポケモン全国大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）"
+        "requirements": "ポケモン全国大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver"
+            ],
+            "availability": "never",
+            "note": "配布実績なし"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1759,7 +2201,28 @@
         ],
         "category": "イベント",
         "description": "ポケモン世界大会の入賞記念に配布されたリボン",
-        "requirements": "ポケモン世界大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）"
+        "requirements": "ポケモン世界大会の入賞記念に配布される（現実のイベント配布。通常プレイでは入手不可）",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver"
+            ],
+            "availability": "ended",
+            "note": "配布実績は第7世代の大会配布のみ。配布は終了"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1768,20 +2231,80 @@
     "name_ja": "クラシックリボン",
     "name_en": "Classic Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 5,
+    "introduced_gen": 4,
     "routes": [
       {
         "id": "classic-ribbon",
-        "generation": 5,
+        "generation": 4,
         "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver",
           "black",
           "white",
           "black2",
-          "white2"
+          "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
         ],
         "category": "イベント",
         "description": "イベントで配布された特別なポケモンに付いているリボン",
-        "requirements": "イベント配布ポケモンを受け取る"
+        "requirements": "イベント配布ポケモンを受け取る",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "black",
+              "white",
+              "black2",
+              "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield",
+              "scarlet",
+              "violet"
+            ],
+            "availability": "distribution",
+            "note": "配布ポケモンに最初から付いている。新しい配布があれば、受け取ったときに付く"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1803,7 +2326,27 @@
         ],
         "category": "イベント",
         "description": "願いをかなえてくれる不思議なリボン",
-        "requirements": "イベント配布ポケモンを受け取る"
+        "requirements": "イベント配布ポケモンを受け取る",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "black",
+              "white",
+              "black2",
+              "white2"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1812,33 +2355,80 @@
     "name_ja": "プレミアリボン",
     "name_en": "Premier Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 5,
+    "introduced_gen": 4,
     "routes": [
       {
         "id": "premier-ribbon",
-        "generation": 5,
+        "generation": 4,
         "games": [
+          "diamond",
+          "pearl",
+          "platinum",
+          "heartgold",
+          "soulsilver",
           "black",
           "white",
           "black2",
-          "white2"
-        ],
-        "category": "イベント",
-        "description": "記念すべき特別なリボン",
-        "requirements": "イベント配布ポケモンを受け取る"
-      },
-      {
-        "id": "premier-ribbon-g7",
-        "generation": 7,
-        "games": [
+          "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
           "sun",
           "moon",
           "ultra_sun",
-          "ultra_moon"
+          "ultra_moon",
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
         ],
         "category": "イベント",
         "description": "記念すべき特別なリボン",
-        "requirements": "イベント配布ポケモンを受け取る"
+        "requirements": "イベント配布ポケモンを受け取る",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "diamond",
+              "pearl",
+              "platinum",
+              "heartgold",
+              "soulsilver",
+              "black",
+              "white",
+              "black2",
+              "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield",
+              "scarlet",
+              "violet"
+            ],
+            "availability": "distribution",
+            "note": "配布ポケモンに最初から付いている。新しい配布があれば、受け取ったときに付く"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1860,7 +2450,27 @@
         ],
         "category": "イベント",
         "description": "イベントに参加した証として贈られるリボン",
-        "requirements": "イベント参加または配布ポケモンを受け取る"
+        "requirements": "イベント参加または配布ポケモンを受け取る",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "black",
+              "white",
+              "black2",
+              "white2"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1882,7 +2492,27 @@
         ],
         "category": "イベント",
         "description": "誕生日を祝って贈られる特別なリボン",
-        "requirements": "イベント配布ポケモンを受け取る"
+        "requirements": "イベント配布ポケモンを受け取る",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "black",
+              "white",
+              "black2",
+              "white2"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1904,7 +2534,27 @@
         ],
         "category": "イベント",
         "description": "特別な証として贈られるリボン",
-        "requirements": "イベント配布ポケモンを受け取る"
+        "requirements": "イベント配布ポケモンを受け取る",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "black",
+              "white",
+              "black2",
+              "white2"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1926,7 +2576,27 @@
         ],
         "category": "イベント",
         "description": "旅の記念として贈られるリボン",
-        "requirements": "イベント配布ポケモンを受け取る"
+        "requirements": "イベント配布ポケモンを受け取る",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "black",
+              "white",
+              "black2",
+              "white2"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -1946,7 +2616,8 @@
         ],
         "category": "チャンピオン",
         "description": "カロス地方のポケモンリーグを制覇した証",
-        "requirements": "殿堂入りメンバーに入っている"
+        "requirements": "殿堂入りメンバーに入っている",
+        "timing": "post_capture"
       }
     ]
   },
@@ -1966,7 +2637,8 @@
         ],
         "category": "チャンピオン",
         "description": "ホウエン地方のポケモンリーグを制覇した証",
-        "requirements": "殿堂入りメンバーに入っている"
+        "requirements": "殿堂入りメンバーに入っている",
+        "timing": "post_capture"
       }
     ]
   },
@@ -1982,22 +2654,14 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテスト・かっこよさ部門のマスターランクで優勝した証",
-        "requirements": "ポケモンコンテスト・かっこよさ部門 マスターランクで優勝する"
-      },
-      {
-        "id": "coolness-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
         "description": "コンテスト・かっこよさ部門のマスターランクで優勝した証",
-        "requirements": "ヨスガシティのスーパーコンテストショー・かっこよさ部門のマスターランクで優勝する"
+        "requirements": "コンテストのかっこよさ部門・マスターランクで優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2013,22 +2677,14 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテスト・うつくしさ部門のマスターランクで優勝した証",
-        "requirements": "ポケモンコンテスト・うつくしさ部門 マスターランクで優勝する"
-      },
-      {
-        "id": "beauty-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
         "description": "コンテスト・うつくしさ部門のマスターランクで優勝した証",
-        "requirements": "ヨスガシティのスーパーコンテストショー・うつくしさ部門のマスターランクで優勝する"
+        "requirements": "コンテストのうつくしさ部門・マスターランクで優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2044,22 +2700,14 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテスト・かわいさ部門のマスターランクで優勝した証",
-        "requirements": "ポケモンコンテスト・かわいさ部門 マスターランクで優勝する"
-      },
-      {
-        "id": "cuteness-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
         "description": "コンテスト・かわいさ部門のマスターランクで優勝した証",
-        "requirements": "ヨスガシティのスーパーコンテストショー・かわいさ部門のマスターランクで優勝する"
+        "requirements": "コンテストのかわいさ部門・マスターランクで優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2075,22 +2723,14 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテスト・かしこさ部門のマスターランクで優勝した証",
-        "requirements": "ポケモンコンテスト・かしこさ部門 マスターランクで優勝する"
-      },
-      {
-        "id": "cleverness-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
         "description": "コンテスト・かしこさ部門のマスターランクで優勝した証",
-        "requirements": "ヨスガシティのスーパーコンテストショー・かしこさ部門のマスターランクで優勝する"
+        "requirements": "コンテストのかしこさ部門・マスターランクで優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2106,22 +2746,14 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテスト・たくましさ部門のマスターランクで優勝した証",
-        "requirements": "ポケモンコンテスト・たくましさ部門 マスターランクで優勝する"
-      },
-      {
-        "id": "toughness-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
         "description": "コンテスト・たくましさ部門のマスターランクで優勝した証",
-        "requirements": "ヨスガシティのスーパーコンテストショー・たくましさ部門のマスターランクで優勝する"
+        "requirements": "コンテストのたくましさ部門・マスターランクで優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2143,7 +2775,8 @@
         ],
         "category": "バトル施設",
         "description": "スーパートレーニングを完全クリアした証",
-        "requirements": "同一個体でスーパートレーニングの全30トレーニングを「すごい記録」でクリアし、XYは自宅の母、ORASはムロタウンの男性に話しかける"
+        "requirements": "同一個体でスーパートレーニングの全30トレーニングを「すごい記録」でクリアし、XYはミアレシティのカフェの女性、ORASはムロタウンの男性に話しかける",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2159,11 +2792,14 @@
         "generation": 6,
         "games": [
           "x",
-          "y"
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "バトル施設",
-        "description": "高度なバトルで実力を示した証",
-        "requirements": "スカイバトルで所定の条件を達成する"
+        "description": "バトルハウスでバトルシャトレーヌに勝った証",
+        "requirements": "バトルハウスのノーマルルール（シングル・ダブル・トリプル・ローテーション・マルチ）で、20戦目のバトルシャトレーヌに勝つ",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2179,11 +2815,14 @@
         "generation": 6,
         "games": [
           "x",
-          "y"
+          "y",
+          "omegaruby",
+          "alphasapphire"
         ],
         "category": "バトル施設",
-        "description": "エキスパートとして認められたバトルの実力の証",
-        "requirements": "バトルシャトーで所定のランクに到達する"
+        "description": "バトルハウスのスーパールールでバトルシャトレーヌに勝った証",
+        "requirements": "バトルハウスのスーパールール（スーパーシングルなど）で、50戦目のバトルシャトレーヌに勝つ",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2201,37 +2840,50 @@
           "x",
           "y",
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "思い出",
-        "description": "トレーナーと最高の友情を育んだ証",
-        "requirements": "友好度がMAXの状態でポケモンに話しかける"
-      },
-      {
-        "id": "best-friends-ribbon-g7",
-        "generation": 7,
-        "games": [
+          "alphasapphire",
           "sun",
           "moon",
           "ultra_sun",
-          "ultra_moon"
-        ],
-        "category": "思い出",
-        "description": "トレーナーと最高の友情を育んだ証",
-        "requirements": "友好度がMAXの状態でポケモンに話しかける"
-      },
-      {
-        "id": "best-friends-ribbon-g8",
-        "generation": 8,
-        "games": [
+          "ultra_moon",
           "sword",
           "shield",
           "brilliant_diamond",
-          "shining_pearl"
+          "shining_pearl",
+          "scarlet",
+          "violet"
         ],
         "category": "思い出",
         "description": "トレーナーと最高の友情を育んだ証",
-        "requirements": "友好度がMAXの状態でポケモンに話しかける。BDSPではヨスガシティのポケモンだいすきクラブでなかよし度最大のポケモンを判定してもらう"
+        "requirements": "なかよし度を最大の255（ハート5個）まで上げて、ソフトごとの人物に話しかける",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
+            ],
+            "availability": "available",
+            "requirements": "なかよし度（ポケパルレ・ポケリフレで上がる）を最大にする。XY: ミアレジム1階のユリーカ。ORAS: キンセツシティのキンセツヒルズ。SM・USUM: マリエシティの地域センター"
+          },
+          {
+            "games": [
+              "sword",
+              "shield",
+              "brilliant_diamond",
+              "shining_pearl",
+              "scarlet",
+              "violet"
+            ],
+            "availability": "available",
+            "requirements": "なかよし度を最大にする。SwSh: ナックルシティの民家にいる男の子。BDSP: ヨスガシティのポケモンだいすきクラブ。SV: カラフシティの噴水近くにいる、マリルを連れている女性"
+          }
+        ]
       }
     ]
   },
@@ -2253,7 +2905,34 @@
         ],
         "category": "思い出",
         "description": "過去作で取得したコンテスト系リボンの思い出をまとめたリボン",
-        "requirements": "Gen3/4のコンテスト系リボンを持つポケモンをポケムーバー/ポケモンバンク経由でGen6に転送すると変換付与される"
+        "requirements": "Gen3/4のコンテスト系リボンを持つポケモンをポケムーバー/ポケモンバンク経由でGen6に転送すると変換付与される",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requiresServices": [
+              "pokemon_bank"
+            ],
+            "note": "第5世代からポケムーバーで送ったときに付く"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          },
+          {
+            "url": "https://www.pokemon.co.jp/info/2022/02/220216_gm01.html",
+            "label": "『ポケモンバンク』サービス終了のお知らせ"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -2275,7 +2954,34 @@
         ],
         "category": "思い出",
         "description": "過去作で取得したバトル施設系リボンの思い出をまとめたリボン",
-        "requirements": "Gen3/4のバトル施設系リボンを持つポケモンをポケムーバー/ポケモンバンク経由でGen6に転送すると変換付与される"
+        "requirements": "Gen3/4のバトル施設系リボンを持つポケモンをポケムーバー/ポケモンバンク経由でGen6に転送すると変換付与される",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire"
+            ],
+            "availability": "available",
+            "requiresServices": [
+              "pokemon_bank"
+            ],
+            "note": "第5世代からポケムーバーで送ったときに付く"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          },
+          {
+            "url": "https://www.pokemon.co.jp/info/2022/02/220216_gm01.html",
+            "label": "『ポケモンバンク』サービス終了のお知らせ"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -2291,22 +2997,14 @@
         "generation": 6,
         "games": [
           "omegaruby",
-          "alphasapphire"
-        ],
-        "category": "コンテスト",
-        "description": "コンテストライブ！の5部門すべてでマスターランク優勝した証",
-        "requirements": "コンテストライブ！の5部門すべてでマスターランク優勝する"
-      },
-      {
-        "id": "contest-star-ribbon-bdsp",
-        "generation": 8,
-        "games": [
+          "alphasapphire",
           "brilliant_diamond",
           "shining_pearl"
         ],
         "category": "コンテスト",
-        "description": "スーパーコンテストショーの5部門すべてでマスターランク優勝した証",
-        "requirements": "スーパーコンテストショーの5部門すべてでマスターランク優勝する"
+        "description": "コンテストの5部門すべてでマスターランク優勝した証",
+        "requirements": "コンテストの5部門すべてでマスターランク優勝する（ORAS: ポケモンコンテストライブ！、BDSP: ヨスガシティのスーパーコンテストショー）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2328,7 +3026,8 @@
         ],
         "category": "チャンピオン",
         "description": "アローラ地方のポケモンリーグを制覇した証",
-        "requirements": "殿堂入りメンバーに入っている"
+        "requirements": "殿堂入りメンバーに入っている",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2354,7 +3053,8 @@
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -2380,7 +3080,8 @@
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -2406,7 +3107,8 @@
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -2426,7 +3128,8 @@
         ],
         "category": "チャンピオン",
         "description": "ガラル地方のポケモンリーグを制覇した証",
-        "requirements": "殿堂入りメンバーに入っている"
+        "requirements": "殿堂入りメンバーに入っている",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2446,7 +3149,8 @@
         ],
         "category": "コンテスト",
         "description": "スーパーコンテストショーのマスターランクでベストパフォーマーに輝いた証",
-        "requirements": "スーパーコンテストショー マスターランクでベストパフォーマーになる（5部門のマスターランク制覇後に挑戦可能）"
+        "requirements": "スーパーコンテストショー マスターランクでベストパフォーマーになる（5部門のマスターランク制覇後に挑戦可能）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2472,7 +3176,8 @@
         "eligibility": {
           "type": "level_max",
           "maxLevel": 50
-        }
+        },
+        "timing": "post_capture"
       }
     ]
   },
@@ -2494,7 +3199,49 @@
         ],
         "category": "バトル施設",
         "description": "バトルスタジアムのランクバトルでマスターランクに到達した証",
-        "requirements": "バトルスタジアムのランクバトルでマスターランクに到達する（SVのランクバトル マスターボール級到達でも入手可能）"
+        "requirements": "バトルスタジアムのランクバトルでマスターランクに到達する（SVのランクバトル マスターボール級到達でも入手可能）",
+        "timing": "post_capture",
+        "methods": [
+          {
+            "games": [
+              "sword",
+              "shield"
+            ],
+            "availability": "unconfirmed",
+            "requiresServices": [
+              "nintendo_switch_online",
+              "swsh_ranked_battle"
+            ],
+            "note": "シーズン更新の停止（2022-11-01）後も付くかは一次情報なし"
+          },
+          {
+            "games": [
+              "scarlet",
+              "violet"
+            ],
+            "availability": "available",
+            "requiresServices": [
+              "nintendo_switch_online",
+              "sv_ranked_battle"
+            ],
+            "note": "最終シーズン41が「サービス終了まで」継続中。リボンが付き続けることを明記した公式の文書は未確認"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          },
+          {
+            "url": "https://www.pokemon.co.jp/info/2022/10/221014_at02.html",
+            "label": "ポケモン公式サイトのお知らせ（2022-10-14）"
+          },
+          {
+            "url": "https://sv-news.pokemon.co.jp/ja/page/389.html",
+            "label": "ポケモン スカーレット・バイオレット ニュース: 最終シーズン41以降のランクバトル"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -2513,7 +3260,8 @@
         ],
         "category": "思い出",
         "description": "ヒスイ地方で記念写真を撮った思い出の証",
-        "requirements": "コトブキムラの写真屋でポケモンと記念写真を撮る"
+        "requirements": "コトブキムラの写真屋でポケモンと記念写真を撮る。LA の画面には出ないが、HOME に送ると見える",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2522,9 +3270,46 @@
     "name_ja": "せんざいいちぐうリボン",
     "name_en": "Once-in-a-Lifetime Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 8,
-    "notes": "LEGENDS アルセウス由来。入手手段に実装上の疑義があるため取得ルートなし（ribbon-tracker 側では SKIP_CANONICAL_RIBBON_NAMES で管理）",
-    "routes": []
+    "introduced_gen": 9,
+    "notes": "入手手段に疑義がある（PKHeX 2026-09-27 時点は正規の入手手段を認めていない）ため、route の methods は availability: unconfirmed",
+    "routes": [
+      {
+        "id": "once-in-a-lifetime-ribbon",
+        "generation": 9,
+        "games": [
+          "scarlet",
+          "violet"
+        ],
+        "category": "特殊",
+        "description": "SV のマジカルこうかんで、ごく低い確率で付くとされるリボン",
+        "requirements": "SV のマジカルこうかんで受け取ったポケモンに、ごく低い確率で付くとされる。実際に付くかは未確認",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "scarlet",
+              "violet"
+            ],
+            "availability": "unconfirmed",
+            "requiresServices": [
+              "nintendo_switch_online"
+            ],
+            "note": "PKHeX（2026-09-27 時点）は、このリボンが付いていれば不正と判定する。正規に付くようになったかは確認できていない"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://www.pokebros.net/sv-marks/",
+            "label": "ポケブロス:【ポケモンSV】あかし（証）/リボン・二つ名一覧と入手条件"
+          },
+          {
+            "url": "https://github.com/kwsch/PKHeX/blob/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Legality/Verifiers/Ribbons/RibbonVerifierCommon9.cs",
+            "label": "PKHeX: RibbonVerifierCommon9.cs（2026-09-27 のコミット）"
+          }
+        ],
+        "checkedAt": "2026-09-29"
+      }
+    ]
   },
   {
     "key": "paldea-champion",
@@ -2542,7 +3327,8 @@
         ],
         "category": "チャンピオン",
         "description": "パルデア地方で最強のトレーナーとして認められた証",
-        "requirements": "四天王とチャンピオンを倒して殿堂入りする"
+        "requirements": "四天王とチャンピオンを倒して殿堂入りする",
+        "timing": "post_capture"
       }
     ]
   },
@@ -2562,7 +3348,25 @@
         ],
         "category": "思い出",
         "description": "特別な絆で結ばれたポケモンに贈られるリボン",
-        "requirements": "藍の円盤DLC — ブルーベリー学園の特別講師とポケモンを交換する。ニャオハ（リコ）など一部の配布ポケモンにも付いている"
+        "requirements": "藍の円盤DLC — ブルーベリー学園の特別講師とポケモンを交換する。ニャオハ（リコ）など一部の配布ポケモンにも付いている",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "scarlet",
+              "violet"
+            ],
+            "availability": "available",
+            "note": "藍の円盤のブルーベリー学園の特別講師とのゲーム内交換でもらうポケモンに最初から付いている。リコのニャオハなど一部の配布ポケモンにも付いている"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
+            "label": "Bulbapedia: List of Ribbons in the games"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -2584,7 +3388,8 @@
         ],
         "category": "あかし",
         "description": "昼（正午ごろ）に出会ったポケモンに付くあかし",
-        "requirements": "昼にフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "昼にフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2606,7 +3411,8 @@
         ],
         "category": "あかし",
         "description": "深夜に出会ったポケモンに付くあかし",
-        "requirements": "深夜にフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "深夜にフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2628,7 +3434,8 @@
         ],
         "category": "あかし",
         "description": "夕方に出会ったポケモンに付くあかし",
-        "requirements": "夕方にフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "夕方にフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2650,7 +3457,8 @@
         ],
         "category": "あかし",
         "description": "明け方に出会ったポケモンに付くあかし",
-        "requirements": "明け方にフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "明け方にフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2672,7 +3480,8 @@
         ],
         "category": "あかし",
         "description": "くもりの日に出会ったポケモンに付くあかし",
-        "requirements": "くもりの天気のときにフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "くもりの天気のときにフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2694,7 +3503,8 @@
         ],
         "category": "あかし",
         "description": "雨の日に出会ったポケモンに付くあかし",
-        "requirements": "雨の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "雨の天気のときにフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2716,7 +3526,8 @@
         ],
         "category": "あかし",
         "description": "雷雨の日に出会ったポケモンに付くあかし",
-        "requirements": "雷雨の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "雷雨の天気のときにフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2738,7 +3549,8 @@
         ],
         "category": "あかし",
         "description": "雪の日に出会ったポケモンに付くあかし",
-        "requirements": "雪の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "雪の天気のときにフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2760,7 +3572,8 @@
         ],
         "category": "あかし",
         "description": "吹雪の日に出会ったポケモンに付くあかし",
-        "requirements": "吹雪の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "吹雪の天気のときにフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2776,13 +3589,12 @@
         "generation": 8,
         "games": [
           "sword",
-          "shield",
-          "scarlet",
-          "violet"
+          "shield"
         ],
         "category": "あかし",
         "description": "日照りの日に出会ったポケモンに付くあかし",
-        "requirements": "日照りの天気のときにフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "日照りの天気のときにフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2804,7 +3616,8 @@
         ],
         "category": "あかし",
         "description": "砂嵐の日に出会ったポケモンに付くあかし",
-        "requirements": "砂嵐の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "砂嵐の天気のときにフィールドで出会ったポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2826,7 +3639,8 @@
         ],
         "category": "あかし",
         "description": "霧の日に出会ったポケモンに付くあかし",
-        "requirements": "霧の天気のときにフィールドで出会ったポケモンをランダムで入手する"
+        "requirements": "霧の天気のときにフィールドで出会ったポケモンをランダムで入手する（SVで霧になるのは、キタカミの里の崖の外など特殊な場所だけ）",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2841,14 +3655,13 @@
         "id": "destiny-mark",
         "generation": 8,
         "games": [
-          "sword",
-          "shield",
           "scarlet",
           "violet"
         ],
         "category": "あかし",
-        "description": "出会いの運命を感じさせる非常にレアなあかし",
-        "requirements": "フィールドで出会ったポケモンに非常に低い確率で付く"
+        "description": "誕生日に出会った、運命を感じさせるポケモンに付くあかし",
+        "requirements": "本体に登録した誕生日に、フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2864,13 +3677,12 @@
         "generation": 8,
         "games": [
           "sword",
-          "shield",
-          "scarlet",
-          "violet"
+          "shield"
         ],
         "category": "あかし",
         "description": "釣り上げられたポケモンに付くあかし",
-        "requirements": "釣りで捕まえたポケモンをランダムで入手する"
+        "requirements": "釣りで捕まえたポケモンをランダムで入手する",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2889,8 +3701,9 @@
           "shield"
         ],
         "category": "あかし",
-        "description": "キャンプでカレーを一緒に食べたポケモンに付くあかし",
-        "requirements": "キャンプでカレーを作った後、一緒に食べたポケモン等に低確率で付く"
+        "description": "キャンプのカレーに寄ってきたポケモンに付くあかし",
+        "requirements": "ポケモンキャンプでカレーを作った後に寄ってくる野生ポケモンを仲間にすると、必ず付いている",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2912,7 +3725,8 @@
         ],
         "category": "あかし",
         "description": "めったに会えない珍しいポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンに低い確率で付く"
+        "requirements": "フィールドで出会ったポケモンに低い確率で付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2934,7 +3748,8 @@
         ],
         "category": "あかし",
         "description": "ときどきしか会えないポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2956,7 +3771,8 @@
         ],
         "category": "あかし",
         "description": "元気いっぱいで騒がしいポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -2978,7 +3794,8 @@
         ],
         "category": "あかし",
         "description": "のうてんきなポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3000,7 +3817,8 @@
         ],
         "category": "あかし",
         "description": "緊張しているポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3022,7 +3840,8 @@
         ],
         "category": "あかし",
         "description": "期待に胸をふくらませたポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3044,7 +3863,8 @@
         ],
         "category": "あかし",
         "description": "カリスマ的な魅力を持つポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3066,7 +3886,8 @@
         ],
         "category": "あかし",
         "description": "冷静なポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3088,7 +3909,8 @@
         ],
         "category": "あかし",
         "description": "情熱的なポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3110,7 +3932,8 @@
         ],
         "category": "あかし",
         "description": "油断しているポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3132,7 +3955,8 @@
         ],
         "category": "あかし",
         "description": "幸せいっぱいのポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3154,7 +3978,8 @@
         ],
         "category": "あかし",
         "description": "怒っているポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3176,7 +4001,8 @@
         ],
         "category": "あかし",
         "description": "微笑んでいるポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3198,7 +4024,8 @@
         ],
         "category": "あかし",
         "description": "悲しげなポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3220,7 +4047,8 @@
         ],
         "category": "あかし",
         "description": "快調なポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3242,7 +4070,8 @@
         ],
         "category": "あかし",
         "description": "いらだちを爆発させそうなポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3264,7 +4093,8 @@
         ],
         "category": "あかし",
         "description": "理性的なポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3286,7 +4116,8 @@
         ],
         "category": "あかし",
         "description": "本能のままに生きるポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3308,7 +4139,8 @@
         ],
         "category": "あかし",
         "description": "ずる賢いポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3330,7 +4162,8 @@
         ],
         "category": "あかし",
         "description": "強面のポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3352,7 +4185,8 @@
         ],
         "category": "あかし",
         "description": "優しい性格のポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3374,7 +4208,8 @@
         ],
         "category": "あかし",
         "description": "動揺しているポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3396,7 +4231,8 @@
         ],
         "category": "あかし",
         "description": "気分が高揚しているポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3418,7 +4254,8 @@
         ],
         "category": "あかし",
         "description": "けだるげなポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3440,7 +4277,8 @@
         ],
         "category": "あかし",
         "description": "自信に満ちたポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3462,7 +4300,8 @@
         ],
         "category": "あかし",
         "description": "自信なさそうなポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3484,7 +4323,8 @@
         ],
         "category": "あかし",
         "description": "朴訥なポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3506,7 +4346,8 @@
         ],
         "category": "あかし",
         "description": "心に不純なところがあるポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3528,7 +4369,8 @@
         ],
         "category": "あかし",
         "description": "活力あふれるポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3550,7 +4392,8 @@
         ],
         "category": "あかし",
         "description": "不調気味のポケモンに付くあかし",
-        "requirements": "フィールドで出会ったポケモンにランダムで付く"
+        "requirements": "フィールドで出会ったポケモンにランダムで付く",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3570,7 +4413,8 @@
         ],
         "category": "あかし",
         "description": "特別に大きいポケモンに付くあかし",
-        "requirements": "テーブルシティ西の「やまガール」に、サイズ値255（最大）の個体を見せる"
+        "requirements": "テーブルシティ西の「やまガール」に、サイズ値255（最大）の個体を見せる",
+        "timing": "post_capture"
       }
     ]
   },
@@ -3590,7 +4434,8 @@
         ],
         "category": "あかし",
         "description": "特別に小さいポケモンに付くあかし",
-        "requirements": "テーブルシティ西の「やまガール」に、サイズ値0（最小）の個体を見せる"
+        "requirements": "テーブルシティ西の「やまガール」に、サイズ値0（最小）の個体を見せる",
+        "timing": "post_capture"
       }
     ]
   },
@@ -3610,7 +4455,8 @@
         ],
         "category": "あかし",
         "description": "長い時間を共に歩んだポケモンに付くあかし",
-        "requirements": "なかよし度200以上の手持ちポケモンに対し、プレイヤーが10000歩歩くたびに判定。ボールの外に出す必要はなし"
+        "requirements": "なかよし度が「けっこうなかよし」以上のポケモンを手持ちに入れるか連れ歩き、10,000歩ごとに1/100（約1%）の確率で付く",
+        "timing": "post_capture"
       }
     ]
   },
@@ -3630,7 +4476,8 @@
         ],
         "category": "あかし",
         "description": "レッツゴーで道具を拾ったポケモンに付くあかし",
-        "requirements": "レッツゴーで道具を拾う（Ver.2.0.1以降）"
+        "requirements": "レッツゴーで道具を拾う（Ver.2.0.1以降）",
+        "timing": "post_capture"
       }
     ]
   },
@@ -3650,7 +4497,8 @@
         ],
         "category": "あかし",
         "description": "グルメなポケモンに付くあかし",
-        "requirements": "サンドウィッチを作るか買った後、パーティの各ポケモンごとにランダムで判定を受ける"
+        "requirements": "サンドウィッチを作るか買った後、パーティの各ポケモンごとにランダムで判定を受ける",
+        "timing": "post_capture"
       }
     ]
   },
@@ -3670,7 +4518,28 @@
         ],
         "category": "あかし",
         "description": "最強のレイドバトルで捕まえたポケモンに付くあかし",
-        "requirements": "最強のレイドバトルで捕まえる"
+        "requirements": "最強のレイドバトルで捕まえる",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "scarlet",
+              "violet"
+            ],
+            "availability": "distribution",
+            "requiresServices": [
+              "sv_poke_portal_news"
+            ],
+            "note": "ポケポータルニュースで開催される最強（★7）のテラレイドで捕まえたポケモンに付く"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Mark",
+            "label": "Bulbapedia: Mark"
+          }
+        ],
+        "checkedAt": "2026-09-29"
       }
     ]
   },
@@ -3690,7 +4559,8 @@
         ],
         "category": "あかし",
         "description": "ヌシポケモンとして出会ったポケモンに付くあかし",
-        "requirements": "ヌシポケモンを倒した後に捕まえる"
+        "requirements": "ヌシポケモンを倒した後に捕まえる",
+        "timing": "on_capture"
       }
     ]
   },
@@ -3709,7 +4579,8 @@
         ],
         "category": "あかし",
         "description": "LEGENDS アルセウスでオヤブンとして生きていたポケモンに付くあかし",
-        "requirements": "LEGENDS アルセウスでオヤブンポケモンを捕まえ、HOME経由でSVに送ると表示される"
+        "requirements": "LEGENDS アルセウスでオヤブンポケモンを捕まえ、HOME経由でSVに送ると表示される",
+        "timing": "on_capture"
       }
     ]
   }

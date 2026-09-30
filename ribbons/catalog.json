@@ -4569,18 +4569,72 @@
     "name_ja": "オヤブンのあかし",
     "name_en": "Alpha Mark",
     "kind": "mark",
-    "introduced_gen": 9,
+    "introduced_gen": 8,
     "routes": [
       {
         "id": "alpha-mark",
-        "generation": 9,
+        "generation": 8,
         "games": [
           "legends_arceus"
         ],
         "category": "あかし",
         "description": "LEGENDS アルセウスでオヤブンとして生きていたポケモンに付くあかし",
-        "requirements": "LEGENDS アルセウスでオヤブンポケモンを捕まえ、HOME経由でSVに送ると表示される",
-        "timing": "on_capture"
+        "requirements": "LEGENDS アルセウスでオヤブンポケモンを捕まえ、HOME に預ける（あかしは HOME が付ける）。SV に送ると見える。LA のオヤブンを一度 Z-A に送ると SV に戻せないので注意",
+        "timing": "on_capture",
+        "references": [
+          {
+            "url": "https://www.pokemon.co.jp/ex/pokemonhome/ja/titles/legends_z-a/",
+            "label": "Pokémon HOME 公式サイト: 『Pokémon LEGENDS Z-A』ページ"
+          },
+          {
+            "url": "https://github.com/kwsch/PKHeX/blob/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/PKM/HOME/GameDataPA8.cs",
+            "label": "PKHeX: GameDataPA8.cs（LA のオヤブンを HOME が取り込むとあかしを立てる。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/kwsch/PKHeX/blob/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Legality/Restrictions/HomeQuirks.cs",
+            "label": "PKHeX: HomeQuirks.cs（HOME がオヤブンのあかしを付ける。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/kwsch/PKHeX/blob/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Legality/Verifiers/Ribbons/MarkRules.cs",
+            "label": "PKHeX: MarkRules.cs IsMarkValidAlpha（2026-09-27 のコミット）"
+          }
+        ],
+        "checkedAt": "2026-09-30"
+      },
+      {
+        "id": "alpha-mark-za",
+        "generation": 9,
+        "games": [
+          "legends_za"
+        ],
+        "category": "あかし",
+        "description": "LEGENDS Z-A でオヤブンとして生きていたポケモンに付くあかし",
+        "requirements": "LEGENDS Z-A でオヤブンポケモンを捕まえ、HOME に預ける（あかしは HOME が付ける）。Z-A の画面には出ないが、データには残り HOME（と Pokémon Champions）で表示できる。Z-A 出身は SV に送れない",
+        "timing": "on_capture",
+        "methods": [
+          {
+            "games": [
+              "legends_za"
+            ],
+            "availability": "available",
+            "note": "HOME 4.0.0（Z-A 連携）以降、HOME が Z-A のオヤブンに付ける。Z-A の画面には出ないが、HOME（と Pokémon Champions）で表示できる（オーナー確認）"
+          }
+        ],
+        "references": [
+          {
+            "url": "https://www.pokemon.co.jp/ex/pokemonhome/ja/titles/legends_z-a/",
+            "label": "Pokémon HOME 公式サイト: 『Pokémon LEGENDS Z-A』ページ"
+          },
+          {
+            "url": "https://github.com/kwsch/PKHeX/blob/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Legality/Restrictions/HomeQuirks.cs",
+            "label": "PKHeX: HomeQuirks.cs（HOME がオヤブンのあかしを付ける。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/kwsch/PKHeX/blob/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Legality/Verifiers/Ribbons/MarkRules.cs",
+            "label": "PKHeX: MarkRules.cs IsMarkValidAlpha（2026-09-27 のコミット）"
+          }
+        ],
+        "checkedAt": "2026-09-30"
       }
     ]
   }

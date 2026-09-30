@@ -2304,8 +2304,13 @@
           "ultra_moon",
           "sword",
           "shield",
+          "brilliant_diamond",
+          "shining_pearl",
+          "legends_arceus",
           "scarlet",
-          "violet"
+          "violet",
+          "legends_za",
+          "home"
         ],
         "category": "イベント",
         "description": "イベントで配布された特別なポケモンに付いているリボン",
@@ -2339,20 +2344,60 @@
             "games": [
               "sword",
               "shield",
+              "brilliant_diamond",
+              "shining_pearl",
+              "legends_arceus"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの新しい配布は無い（最後は2022年。剣盾は色違いムゲンダイナ、BDSP・LA はおつきみピッピ・ヒスイのガーディなど）。今後は交換で入手"
+          },
+          {
+            "games": [
               "scarlet",
               "violet"
             ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。今受け取れる配布は無い（最新は色違いのミライドン、2025-10-23 まで）"
+          },
+          {
+            "games": [
+              "legends_za"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いていた（サーナイトナイトを持ったラルトス 2026-02-28 まで、おおきいリザードン 2026-01-21 まで）。今受け取れる配布は無い。Z-A の画面にリボンは出ないが、データには残り HOME・Pokémon Champions で表示できる"
+          },
+          {
+            "games": [
+              "home"
+            ],
             "availability": "distribution",
-            "note": "配布ポケモンに最初から付いている。新しい配布があれば、受け取ったときに付く"
+            "requirements": "HOME の連携記念（BDSP 連携のナエトル・ヒコザル・ポッチャマ、LA 連携のモクロー・ヒノアラシ・ミジュマル）をプレゼントボックスで受け取る",
+            "note": "受け取った配布ポケモンに最初から付いている。配信正本に終了日の記載なし（期限なし）"
           }
         ],
         "references": [
+          {
+            "url": "https://github.com/kwsch/PKHeX/tree/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Resources/legality/mgdb",
+            "label": "PKHeX: 配布データ mgdb（wc4〜wa9。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen8.json",
+            "label": "pokemon-data distributions/gen8.json 08079・08089・08095・08096 ほか（BDSP・LA のクラシック配布）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen8.json",
+            "label": "pokemon-data distributions/gen8.json 08113〜08118（HOME の連携記念）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen9.json",
+            "label": "pokemon-data distributions/gen9.json 09101・09104（Z-A のクラシック配布）"
+          },
           {
             "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
             "label": "Bulbapedia: List of Ribbons in the games"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-09-30"
       }
     ]
   },
@@ -2487,7 +2532,8 @@
           "sword",
           "shield",
           "scarlet",
-          "violet"
+          "violet",
+          "home"
         ],
         "category": "イベント",
         "description": "記念すべき特別なリボン",
@@ -2520,21 +2566,47 @@
           {
             "games": [
               "sword",
-              "shield",
+              "shield"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの新しい配布は無い（最後は2021-06-30 までの HOME 連携のフシギダネ・ゼニガメ）。今後は交換で入手"
+          },
+          {
+            "games": [
               "scarlet",
               "violet"
             ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。今受け取れる配布は無い（最新はピカッとピカピカピカチュウキャンペーンのピカチュウ、2023-07-31 まで）"
+          },
+          {
+            "games": [
+              "home"
+            ],
             "availability": "distribution",
-            "note": "配布ポケモンに最初から付いている。新しい配布があれば、受け取ったときに付く"
+            "requirements": "HOME の『Pokémon GO』連携記念のメルメタルをプレゼントボックスで受け取る",
+            "note": "受け取った配布ポケモンに最初から付いている。配信正本に終了日の記載なし（期限なし）"
           }
         ],
         "references": [
+          {
+            "url": "https://github.com/kwsch/PKHeX/tree/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Resources/legality/mgdb",
+            "label": "PKHeX: 配布データ mgdb（wc4〜wa9。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen8.json",
+            "label": "pokemon-data distributions/gen8.json 08112（HOME の GO 連携記念メルメタル）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen9.json",
+            "label": "pokemon-data distributions/gen9.json 09012（SV のピカチュウ）"
+          },
           {
             "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
             "label": "Bulbapedia: List of Ribbons in the games"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-09-30"
       }
     ]
   },

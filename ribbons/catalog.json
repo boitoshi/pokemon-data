@@ -38,8 +38,8 @@
               "switch_firered",
               "switch_leafgreen"
             ],
-            "availability": "unconfirmed",
-            "note": "Switch版で付くか・HOME に送った後も残るかは、HOME 連携開始（2026年10月）後に確認"
+            "availability": "available",
+            "note": "GBA版と同じく、ソフトにはリボンを見る画面がない（付いたかはほかのソフトに送ると分かる）。データとしては付く扱いにする（2026-10-01 オーナー判断）。HOME に送った後も残るかは、HOME 連携開始（2026-10-07）後に確認"
           }
         ],
         "references": [

@@ -2055,17 +2055,28 @@
     "name_ja": "バトルチャンプリボン",
     "name_en": "Battle Champion Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 4,
+    "introduced_gen": 5,
     "routes": [
       {
         "id": "battle-champion-ribbon",
-        "generation": 4,
+        "generation": 5,
         "games": [
-          "diamond",
-          "pearl",
-          "platinum",
-          "heartgold",
-          "soulsilver"
+          "black",
+          "white",
+          "black2",
+          "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
+          "scarlet",
+          "violet"
         ],
         "category": "イベント",
         "description": "ポケモン公式大会の入賞記念に配布されたリボン",
@@ -2074,23 +2085,58 @@
         "methods": [
           {
             "games": [
-              "diamond",
-              "pearl",
-              "platinum",
-              "heartgold",
-              "soulsilver"
+              "black",
+              "white",
+              "black2",
+              "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
             ],
             "availability": "ended",
             "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの新しい配布は無い（最後は2022年6月の北米インターナショナル記念のトリトドン）。今後は交換で入手"
+          },
+          {
+            "games": [
+              "scarlet",
+              "violet"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。今受け取れる配布は無い（最新はキヌガワのヒスイバクフーン、2026-02-21 まで）"
           }
         ],
         "references": [
+          {
+            "url": "https://github.com/kwsch/PKHeX/tree/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Resources/legality/mgdb",
+            "label": "PKHeX: 配布データ mgdb（wc4〜wa9。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen8.json",
+            "label": "pokemon-data distributions/gen8.json 08066 ほか（剣盾のバトルチャンプ配布）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen9.json",
+            "label": "pokemon-data distributions/gen9.json 09100 ほか（SV のバトルチャンプ配布）"
+          },
           {
             "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
             "label": "Bulbapedia: List of Ribbons in the games"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-09-30"
       }
     ]
   },
@@ -2187,17 +2233,16 @@
     "name_ja": "ワールドチャンプリボン",
     "name_en": "World Champion Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 4,
+    "introduced_gen": 7,
     "routes": [
       {
         "id": "world-champion-ribbon",
-        "generation": 4,
+        "generation": 7,
         "games": [
-          "diamond",
-          "pearl",
-          "platinum",
-          "heartgold",
-          "soulsilver"
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon"
         ],
         "category": "イベント",
         "description": "ポケモン世界大会の入賞記念に配布されたリボン",
@@ -2206,23 +2251,26 @@
         "methods": [
           {
             "games": [
-              "diamond",
-              "pearl",
-              "platinum",
-              "heartgold",
-              "soulsilver"
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
             ],
             "availability": "ended",
-            "note": "配布実績は第7世代の大会配布のみ。配布は終了"
+            "note": "配布ポケモンに最初から付いている。配布実績は第7世代の大会配布（ワルビアル）だけで、配布は終了。受け取れたのが SM だけか USUM もかは未確認"
           }
         ],
         "references": [
+          {
+            "url": "https://github.com/kwsch/PKHeX/tree/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Resources/legality/mgdb",
+            "label": "PKHeX: 配布データ mgdb（wc4〜wa9。2026-09-27 のコミット）"
+          },
           {
             "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
             "label": "Bulbapedia: List of Ribbons in the games"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-09-30"
       }
     ]
   },

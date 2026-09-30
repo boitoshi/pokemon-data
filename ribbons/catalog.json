@@ -2370,7 +2370,22 @@
           "black",
           "white",
           "black2",
-          "white2"
+          "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
+          "brilliant_diamond",
+          "shining_pearl",
+          "legends_arceus",
+          "scarlet",
+          "violet"
         ],
         "category": "イベント",
         "description": "願いをかなえてくれる不思議なリボン",
@@ -2382,19 +2397,62 @@
               "black",
               "white",
               "black2",
-              "white2"
+              "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
             ],
             "availability": "ended",
             "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield",
+              "brilliant_diamond",
+              "shining_pearl",
+              "legends_arceus"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの新しい配布は無い（最後は2022年。剣盾は映画祭のディアルガ・パルキア、BDSP・LA はテンイむらのレジギガスなど）。今後は交換で入手"
+          },
+          {
+            "games": [
+              "scarlet",
+              "violet"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。今受け取れる配布は無い（最新はアーロンのルカリオ、2025-03-31 まで）"
           }
         ],
         "references": [
+          {
+            "url": "https://github.com/kwsch/PKHeX/tree/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Resources/legality/mgdb",
+            "label": "PKHeX: 配布データ mgdb（wc4〜wa9。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/kwsch/PKHeX/blob/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Legality/Encounters/Templates/Gen7/EncounterStatic7.cs",
+            "label": "PKHeX: EncounterStatic7.cs（QR コードのマギアナにウィッシュリボン。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen8.json",
+            "label": "pokemon-data distributions/gen8.json 08069〜08071・08087・08093 ほか（剣盾・BDSP・LA のウィッシュ配布）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen9.json",
+            "label": "pokemon-data distributions/gen9.json 09081 ほか（SV のウィッシュ配布）"
+          },
           {
             "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
             "label": "Bulbapedia: List of Ribbons in the games"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-09-30"
       }
     ]
   },
@@ -2494,7 +2552,21 @@
           "black",
           "white",
           "black2",
-          "white2"
+          "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
+          "scarlet",
+          "violet",
+          "legends_za",
+          "home"
         ],
         "category": "イベント",
         "description": "イベントに参加した証として贈られるリボン",
@@ -2506,19 +2578,74 @@
               "black",
               "white",
               "black2",
-              "white2"
+              "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
             ],
             "availability": "ended",
             "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの新しい配布は無い（最後は2022年8月の WCS2022 のヤバチャ）。今後は交換で入手"
+          },
+          {
+            "games": [
+              "scarlet",
+              "violet"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。今受け取れる配布は無い（最新は WCS2025 のノノクラゲ、2025-08-29 まで）"
+          },
+          {
+            "games": [
+              "legends_za"
+            ],
+            "availability": "distribution",
+            "note": "配布ポケモンに最初から付いている（WCS2026 のゲッコウガ。配信正本に終了日の記載なし）。Z-A の画面にリボンは出ないが、データには残り HOME・Pokémon Champions で表示できる"
+          },
+          {
+            "games": [
+              "home"
+            ],
+            "availability": "ended",
+            "requirements": "HOME で受け取る配布（PJCS2026 来場記念のガブリアス）",
+            "note": "HOME で受け取った配布ポケモンに最初から付いている。今受け取れる配布は無い（2026-06-07 まで）"
           }
         ],
         "references": [
+          {
+            "url": "https://github.com/kwsch/PKHeX/tree/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Resources/legality/mgdb",
+            "label": "PKHeX: 配布データ mgdb（wc4〜wa9。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen8.json",
+            "label": "pokemon-data distributions/gen8.json 08020・08022・08077（剣盾のイベント配布）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen9.json",
+            "label": "pokemon-data distributions/gen9.json 09094・09113（SV・HOME のイベント配布）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen9.json",
+            "label": "pokemon-data distributions/gen9.json 09114（Z-A の WCS2026 ゲッコウガ）"
+          },
           {
             "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
             "label": "Bulbapedia: List of Ribbons in the games"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-09-30"
       }
     ]
   },
@@ -2536,7 +2663,23 @@
           "black",
           "white",
           "black2",
-          "white2"
+          "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
+          "brilliant_diamond",
+          "shining_pearl",
+          "legends_arceus",
+          "scarlet",
+          "violet",
+          "legends_za"
         ],
         "category": "イベント",
         "description": "誕生日を祝って贈られる特別なリボン",
@@ -2548,19 +2691,69 @@
               "black",
               "white",
               "black2",
-              "white2"
+              "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
             ],
             "availability": "ended",
             "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield",
+              "brilliant_diamond",
+              "shining_pearl",
+              "legends_arceus"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの新しい配布は無い（最後は2023-01-31 までのポケモンセンターわくわくおたんじょうびのピンプク）。今後は交換で入手"
+          },
+          {
+            "games": [
+              "scarlet",
+              "violet"
+            ],
+            "availability": "distribution",
+            "note": "配布ポケモンに最初から付いている。わくわくおたんじょうびのパピモッチを 2027-01-31 まで配布中"
+          },
+          {
+            "games": [
+              "legends_za"
+            ],
+            "availability": "distribution",
+            "note": "配布ポケモンに最初から付いている。わくわくおたんじょうびのタブンネを 2027-01-31 まで配布中。Z-A の画面にリボンは出ないが、データには残り HOME・Pokémon Champions で表示できる"
           }
         ],
         "references": [
+          {
+            "url": "https://github.com/kwsch/PKHeX/tree/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Resources/legality/mgdb",
+            "label": "PKHeX: 配布データ mgdb（wc4〜wa9。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen8.json",
+            "label": "pokemon-data distributions/gen8.json 08058・08085・08090 ほか（剣盾・BDSP・LA のバースデー配布）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen9.json",
+            "label": "pokemon-data distributions/gen9.json 09098（SV のパピモッチ）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen9.json",
+            "label": "pokemon-data distributions/gen9.json 09102（Z-A のタブンネ）"
+          },
           {
             "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
             "label": "Bulbapedia: List of Ribbons in the games"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-09-30"
       }
     ]
   },
@@ -2569,16 +2762,19 @@
     "name_ja": "スペシャルリボン",
     "name_en": "Special Ribbon",
     "kind": "ribbon",
-    "introduced_gen": 5,
+    "introduced_gen": 6,
     "routes": [
       {
         "id": "special-ribbon",
-        "generation": 5,
+        "generation": 6,
         "games": [
-          "black",
-          "white",
-          "black2",
-          "white2"
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "sword",
+          "shield",
+          "legends_za"
         ],
         "category": "イベント",
         "description": "特別な証として贈られるリボン",
@@ -2587,22 +2783,49 @@
         "methods": [
           {
             "games": [
-              "black",
-              "white",
-              "black2",
-              "white2"
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon"
             ],
             "availability": "ended",
             "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの新しい配布は無い（最後は2021-01-15 までの KIBO のピカチュウ）。今後は交換で入手"
+          },
+          {
+            "games": [
+              "legends_za"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いていた（ポケモンセンターカガワオープン記念のヤドン、2026-01-31 まで）。今受け取れる配布は無い。Z-A の画面にリボンは出ないが、データには残り HOME・Pokémon Champions で表示できる"
           }
         ],
         "references": [
+          {
+            "url": "https://github.com/kwsch/PKHeX/tree/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Resources/legality/mgdb",
+            "label": "PKHeX: 配布データ mgdb（wc4〜wa9。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen8.json",
+            "label": "pokemon-data distributions/gen8.json 08039（KIBO のピカチュウ）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen9.json",
+            "label": "pokemon-data distributions/gen9.json 09103（Z-A のカガワのヤドン）"
+          },
           {
             "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
             "label": "Bulbapedia: List of Ribbons in the games"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-09-30"
       }
     ]
   },
@@ -2620,7 +2843,18 @@
           "black",
           "white",
           "black2",
-          "white2"
+          "white2",
+          "x",
+          "y",
+          "omegaruby",
+          "alphasapphire",
+          "sun",
+          "moon",
+          "ultra_sun",
+          "ultra_moon",
+          "sword",
+          "shield",
+          "home"
         ],
         "category": "イベント",
         "description": "旅の記念として贈られるリボン",
@@ -2632,19 +2866,63 @@
               "black",
               "white",
               "black2",
-              "white2"
+              "white2",
+              "x",
+              "y",
+              "omegaruby",
+              "alphasapphire",
+              "sun",
+              "moon",
+              "ultra_sun",
+              "ultra_moon"
             ],
             "availability": "ended",
             "note": "配布ポケモンに最初から付いている。このソフト向けの配布は終了"
+          },
+          {
+            "games": [
+              "sword",
+              "shield"
+            ],
+            "availability": "ended",
+            "note": "配布ポケモンに最初から付いている。このソフト向けの新しい配布は無い（最後は2022年8月の WCS2022 のビクティニ）。今後は交換で入手"
+          },
+          {
+            "games": [
+              "home"
+            ],
+            "availability": "distribution",
+            "requirements": "HOME の図鑑完成ごほうび（全国図鑑のマギアナ、ソフト図鑑のメロエッタ・マナフィ・ラブトロス・メルタン・ケルディオ・ボルケニオン）をプレゼントボックスで受け取る",
+            "note": "受け取った配布ポケモンに最初から付いている。配信正本に終了日の記載なし（期限なし）"
           }
         ],
         "references": [
+          {
+            "url": "https://github.com/kwsch/PKHeX/tree/09e7f18fbb33635e35cf9ffcbfd3322403780f8e/PKHeX.Core/Resources/legality/mgdb",
+            "label": "PKHeX: 配布データ mgdb（wc4〜wa9。2026-09-27 のコミット）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen8.json",
+            "label": "pokemon-data distributions/gen8.json 08041・08078（剣盾のメモリアル配布）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen8.json",
+            "label": "pokemon-data distributions/gen8.json 08107・08119〜08121（HOME の図鑑完成ごほうび）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen9.json",
+            "label": "pokemon-data distributions/gen9.json 09108・09112（HOME の図鑑完成ごほうび）"
+          },
+          {
+            "url": "https://github.com/boitoshi/pokemon-data/blob/5ece49bcb6f1b81f08aceb18ffc617d337d459de/distributions/gen7.json",
+            "label": "pokemon-data distributions/gen7.json 07159（HOME の図鑑完成ごほうび メルタン）"
+          },
           {
             "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Ribbons_in_the_games",
             "label": "Bulbapedia: List of Ribbons in the games"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-09-30"
       }
     ]
   },

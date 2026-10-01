@@ -1,6 +1,6 @@
 // 配信ポケモン正本 P3a: build-distributions.mjs
 //
-// 正本 distributions/gen4.json..gen9.json + champions.json（L2）を読み、
+// 正本 distributions/gen3.json..gen9.json + champions.json（L2）を読み、
 // app-runtime schema（pokemon-distribution-app/public/pokemon.json 互換の1レコード形）へ
 // 前方向生成する。migrate-gen5-7.mjs / migrate-from-app.mjs / migrate-champions.mjs の逆写像。
 //
@@ -21,6 +21,11 @@ const titleIds = new Set(titles.map((t) => t.id));
 // ---- REVERSE_GAME_MAP（games/titles.json の id → app-runtime表示用JP短縮名。migrate GAME_MAP の逆） ----
 // titles.json の shortName は一致しないため明示ピン留め（P3-build-spec.md 正本）。
 const REVERSE_GAME_MAP = {
+  ruby: "ルビー",
+  sapphire: "サファイア",
+  emerald: "エメラルド",
+  firered: "ファイアレッド",
+  leafgreen: "リーフグリーン",
   diamond: "ダイヤモンド",
   pearl: "パール",
   platinum: "プラチナ",
@@ -60,6 +65,7 @@ for (const id of Object.keys(REVERSE_GAME_MAP)) {
 
 // ---- 入力データセット定義 ----
 const DATASETS = [
+  { dataset: "gen3", file: "gen3.json" },
   { dataset: "gen4", file: "gen4.json" },
   { dataset: "gen5", file: "gen5.json" },
   { dataset: "gen6", file: "gen6.json" },

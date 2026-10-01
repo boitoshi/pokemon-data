@@ -1,5 +1,1536 @@
 [
   {
+    "managementId": "03001",
+    "pokemonName": "タツベイ",
+    "dexNo": 371,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Pokémon Center 5th Anniversary Eggs / Wish Bagon",
+    "distributionMethod": "未確認",
+    "startDate": "2003-04-25",
+    "endDate": "2003-05-18",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "いしあたま",
+    "nature": "ランダム",
+    "moves": [
+      "いかり",
+      "かみつく",
+      "ねがいごと"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03002",
+    "pokemonName": "タツベイ",
+    "dexNo": 371,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Pokémon Center 5th Anniversary Eggs / Iron Defense Bagon",
+    "distributionMethod": "未確認",
+    "startDate": "2003-04-25",
+    "endDate": "2003-05-18",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "いしあたま",
+    "nature": "ランダム",
+    "moves": [
+      "いかり",
+      "かみつく",
+      "てっぺき"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03003",
+    "pokemonName": "アブソル",
+    "dexNo": 359,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Pokémon Center 5th Anniversary Eggs / Wish Absol",
+    "distributionMethod": "未確認",
+    "startDate": "2003-04-25",
+    "endDate": "2003-05-18",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "プレッシャー",
+    "nature": "ランダム",
+    "moves": [
+      "ひっかく",
+      "にらみつける",
+      "ねがいごと"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03004",
+    "pokemonName": "アブソル",
+    "dexNo": 359,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Pokémon Center 5th Anniversary Eggs / Spite Absol",
+    "distributionMethod": "未確認",
+    "startDate": "2003-04-25",
+    "endDate": "2003-05-18",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "プレッシャー",
+    "nature": "ランダム",
+    "moves": [
+      "ひっかく",
+      "にらみつける",
+      "うらみ"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03005",
+    "pokemonName": "ラルトス",
+    "dexNo": 280,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Pokémon Center 5th Anniversary Eggs / Wish Ralts",
+    "distributionMethod": "未確認",
+    "startDate": "2003-04-25",
+    "endDate": "2003-05-18",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "シンクロ",
+    "nature": "ランダム",
+    "moves": [
+      "なきごえ",
+      "ねがいごと"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03006",
+    "pokemonName": "ラルトス",
+    "dexNo": 280,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Pokémon Center 5th Anniversary Eggs / Charm Ralts",
+    "distributionMethod": "未確認",
+    "startDate": "2003-04-25",
+    "endDate": "2003-05-18",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "シンクロ",
+    "nature": "ランダム",
+    "moves": [
+      "なきごえ",
+      "あまえる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03007",
+    "pokemonName": "ピチュー",
+    "dexNo": 172,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Pokémon Center 5th Anniversary Eggs / Wish Pichu",
+    "distributionMethod": "未確認",
+    "startDate": "2003-04-25",
+    "endDate": "2003-05-18",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "せいでんき",
+    "nature": "ランダム",
+    "moves": [
+      "でんきショック",
+      "あまえる",
+      "ねがいごと"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03008",
+    "pokemonName": "ピチュー",
+    "dexNo": 172,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Pokémon Center 5th Anniversary Eggs / Teeter Dance Pichu",
+    "distributionMethod": "未確認",
+    "startDate": "2003-04-25",
+    "endDate": "2003-05-18",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "せいでんき",
+    "nature": "ランダム",
+    "moves": [
+      "でんきショック",
+      "あまえる",
+      "フラフラダンス"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03009",
+    "pokemonName": "ジラーチ",
+    "dexNo": 385,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Wishing Star Jirachi",
+    "distributionMethod": "未確認",
+    "startDate": "2003-06-21",
+    "endDate": "2003-08-24",
+    "ot": "ネガイボシ",
+    "trainerId": "30719",
+    "ball": "モンスターボール",
+    "level": 5,
+    "ability": "てんのめぐみ",
+    "nature": "ランダム",
+    "heldItem": "カムラのみ / リュガのみ",
+    "moves": [
+      "ねがいごと",
+      "ねんりき",
+      "ねむる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 配布期間は連続ではなく、各期間: 2003-06-21〜2003-06-22 / 2003-07-19〜2003-08-24。開始日・終了日は全期間の外縁。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03010",
+    "pokemonName": "アブソル",
+    "dexNo": 359,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Pokémon Stamp Ruby and Sapphire Absol",
+    "distributionMethod": "未確認",
+    "startDate": "2003-10-03",
+    "endDate": "2003-10-03",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "プレッシャー",
+    "nature": "ランダム",
+    "heldItem": "リュガのみ / カムラのみ",
+    "moves": [
+      "ひっかく",
+      "にらみつける",
+      "ねがいごと"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03011",
+    "pokemonName": "ピチュー",
+    "dexNo": 172,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Pokémon Stamp Ruby and Sapphire Contest Pichu",
+    "distributionMethod": "未確認",
+    "startDate": "2003-12-29",
+    "endDate": "2003-12-29",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "せいでんき",
+    "nature": "ランダム",
+    "moves": [
+      "でんきショック",
+      "あまえる",
+      "フラフラダンス"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03012",
+    "pokemonName": "ジグザグマ",
+    "dexNo": 263,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "eventName": "Berry Program Update Zigzagoon",
+    "distributionMethod": "未確認",
+    "startDate": "2003-12-29",
+    "endDate": "2004-03-31",
+    "ot": "サファイア / ルビ－",
+    "trainerId": "21121",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "ものひろい",
+    "nature": "ランダム",
+    "heldItem": "チイラのみ",
+    "moves": [
+      "たいあたり",
+      "なきごえ",
+      "しっぽをふる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "あり",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03013",
+    "pokemonName": "マダツボミ",
+    "dexNo": 69,
+    "generation": 3,
+    "game": "ファイアレッド, リーフグリーン",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００４　はる／マダツボミ）",
+    "distributionMethod": "未確認",
+    "startDate": "2004-03-21",
+    "endDate": "2004-04-04",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "ようりょくそ",
+    "nature": "ランダム",
+    "moves": [
+      "つるのムチ",
+      "フラフラダンス"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03014",
+    "pokemonName": "ニョロモ",
+    "dexNo": 60,
+    "generation": 3,
+    "game": "ファイアレッド, リーフグリーン",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００４　はる／ニョロモ）",
+    "distributionMethod": "未確認",
+    "startDate": "2004-03-21",
+    "endDate": "2004-04-04",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "ちょすい",
+    "nature": "ランダム",
+    "moves": [
+      "あわ",
+      "てんしのキッス"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03015",
+    "pokemonName": "ニャース",
+    "dexNo": 52,
+    "generation": 3,
+    "game": "ファイアレッド, リーフグリーン",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００４　はる／ニャース）",
+    "distributionMethod": "未確認",
+    "startDate": "2004-03-21",
+    "endDate": "2004-04-04",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "ものひろい",
+    "nature": "ランダム",
+    "moves": [
+      "ひっかく",
+      "なきごえ",
+      "はなびらのまい"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03016",
+    "pokemonName": "ナゾノクサ",
+    "dexNo": 43,
+    "generation": 3,
+    "game": "ファイアレッド, リーフグリーン",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００４　はる／ナゾノクサ）",
+    "distributionMethod": "未確認",
+    "startDate": "2004-03-21",
+    "endDate": "2004-04-04",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "ようりょくそ",
+    "nature": "ランダム",
+    "moves": [
+      "すいとる",
+      "やどりぎのタネ"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03017",
+    "pokemonName": "ジラーチ",
+    "dexNo": 385,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン",
+    "eventName": "2004 Tanabata Jirachi",
+    "distributionMethod": "未確認",
+    "startDate": "2004-07-01",
+    "endDate": "2004-08-15",
+    "ot": "タナバタ",
+    "trainerId": "40707",
+    "ball": "モンスターボール",
+    "level": 5,
+    "ability": "てんのめぐみ",
+    "nature": "ランダム",
+    "heldItem": "ヤタピのみ / ズアのみ",
+    "moves": [
+      "ねがいごと",
+      "ねんりき",
+      "ねむる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 配布期間は連続ではなく、各期間: 2004-07-01〜2004-07-07 / 2004-07-17〜2004-08-15。開始日・終了日は全期間の外縁。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "region": "日本,台湾",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03018",
+    "pokemonName": "ピカチュウ",
+    "dexNo": 25,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "All Nippon Airways Pikachu",
+    "distributionMethod": "未確認",
+    "startDate": "2004-12-05",
+    "endDate": "2004-12-25",
+    "ot": "ＡＮＡ",
+    "trainerId": "41205",
+    "ball": "モンスターボール",
+    "level": 10,
+    "gender": "ランダム",
+    "ability": "せいでんき",
+    "nature": "ランダム",
+    "heldItem": "でんきだま",
+    "moves": [
+      "そらをとぶ",
+      "でんきショック",
+      "しっぽをふる",
+      "でんじは"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "region": "日本",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03019",
+    "pokemonName": "ソーナノ",
+    "dexNo": 360,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／ソーナノ）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "かげふみ",
+    "nature": "ランダム",
+    "moves": [
+      "はねる",
+      "あまえる",
+      "アンコール",
+      "くすぐる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03020",
+    "pokemonName": "ヘイガニ",
+    "dexNo": 341,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／ヘイガニ）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "かいりきバサミ",
+    "nature": "ランダム",
+    "moves": [
+      "あわ",
+      "みずあそび"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03021",
+    "pokemonName": "サボネア",
+    "dexNo": 331,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／サボネア）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "すながくれ",
+    "nature": "ランダム",
+    "moves": [
+      "どくばり",
+      "にらみつける",
+      "すいとる",
+      "アンコール"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03022",
+    "pokemonName": "パッチール",
+    "dexNo": 327,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／パッチール）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "マイペース",
+    "nature": "ランダム",
+    "moves": [
+      "たいあたり",
+      "さわぐ",
+      "うたう"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03023",
+    "pokemonName": "バネブー",
+    "dexNo": 325,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／バネブー）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "マイペース",
+    "nature": "ランダム",
+    "moves": [
+      "はねる",
+      "さわぐ"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03024",
+    "pokemonName": "マイナン",
+    "dexNo": 312,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／マイナン）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "マイナス",
+    "nature": "ランダム",
+    "moves": [
+      "なきごえ",
+      "でんじは",
+      "どろあそび"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03025",
+    "pokemonName": "プラスル",
+    "dexNo": 311,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／プラスル）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "プラス",
+    "nature": "ランダム",
+    "moves": [
+      "なきごえ",
+      "でんじは",
+      "みずあそび"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03026",
+    "pokemonName": "エネコ",
+    "dexNo": 300,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／エネコ）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "メロメロボディ",
+    "nature": "ランダム",
+    "moves": [
+      "なきごえ",
+      "たいあたり",
+      "しっぽをふる",
+      "ころがる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03027",
+    "pokemonName": "ゴニョニョ",
+    "dexNo": 293,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／ゴニョニョ）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "ぼうおん",
+    "nature": "ランダム",
+    "moves": [
+      "はたく",
+      "さわぐ",
+      "フラフラダンス"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03028",
+    "pokemonName": "アメタマ",
+    "dexNo": 283,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／アメタマ）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "すいすい",
+    "nature": "ランダム",
+    "moves": [
+      "あわ",
+      "どろあそび"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03029",
+    "pokemonName": "スバメ",
+    "dexNo": 276,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／スバメ）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "こんじょう",
+    "nature": "ランダム",
+    "moves": [
+      "つつく",
+      "なきごえ",
+      "きあいだめ",
+      "フェザーダンス"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03030",
+    "pokemonName": "サニーゴ",
+    "dexNo": 222,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／サニーゴ）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "はりきり",
+    "nature": "ランダム",
+    "moves": [
+      "たいあたり",
+      "どろあそび"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03031",
+    "pokemonName": "ププリン",
+    "dexNo": 174,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／ププリン）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "メロメロボディ",
+    "nature": "ランダム",
+    "moves": [
+      "うたう",
+      "あまえる",
+      "まるくなる",
+      "くすぐる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03032",
+    "pokemonName": "ピチュー",
+    "dexNo": 172,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／ピチュー）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "せいでんき",
+    "nature": "ランダム",
+    "moves": [
+      "でんきショック",
+      "あまえる",
+      "このゆびとまれ"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03033",
+    "pokemonName": "コダック",
+    "dexNo": 54,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "ポケモンのタマゴ　プレセント　カード（２００５　ポケパーク／コダック）",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-12",
+    "endDate": "2005-05-08",
+    "ot": "(プレイヤーのもの)",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "しめりけ",
+    "nature": "ランダム",
+    "moves": [
+      "みずあそび",
+      "ひっかく",
+      "しっぽをふる",
+      "どろあそび"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "shiny": "条件次第",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03034",
+    "pokemonName": "ニャース",
+    "dexNo": 52,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "PokéPark Meowth",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-18",
+    "endDate": "2005-09-25",
+    "ot": "ポケパーク",
+    "trainerId": "50318",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "ものひろい",
+    "nature": "ランダム",
+    "heldItem": "キラキラメール",
+    "moves": [
+      "ひっかく",
+      "なきごえ"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03035",
+    "pokemonName": "ピカチュウ",
+    "dexNo": 25,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "Yokohama Pikachu",
+    "distributionMethod": "未確認",
+    "startDate": "2005-03-19",
+    "endDate": "2005-04-03",
+    "ot": "ヨコハマ",
+    "trainerId": "50319",
+    "ball": "モンスターボール",
+    "level": 10,
+    "gender": "ランダム",
+    "ability": "せいでんき",
+    "nature": "ランダム",
+    "heldItem": "でんきだま",
+    "moves": [
+      "でんきショック",
+      "なきごえ",
+      "でんじは",
+      "なみのり"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03036",
+    "pokemonName": "ミュウ",
+    "dexNo": 151,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "Hadō Mew",
+    "distributionMethod": "未確認",
+    "startDate": "2005-06-25",
+    "endDate": "2005-08-31",
+    "ot": "ハドウ",
+    "trainerId": "50716",
+    "ball": "モンスターボール",
+    "level": 10,
+    "ability": "シンクロ",
+    "nature": "ランダム",
+    "moves": [
+      "はたく",
+      "へんしん"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03037",
+    "pokemonName": "ピカチュウ",
+    "dexNo": 25,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "GW Pikachu",
+    "distributionMethod": "未確認",
+    "startDate": "2005-04-25",
+    "endDate": "2005-05-08",
+    "ot": "ＧＷ",
+    "trainerId": "50425",
+    "ball": "モンスターボール",
+    "level": 10,
+    "gender": "ランダム",
+    "ability": "せいでんき",
+    "nature": "ランダム",
+    "heldItem": "でんきだま",
+    "moves": [
+      "なきごえ",
+      "しっぽをふる",
+      "でんじは",
+      "そらをとぶ"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03038",
+    "pokemonName": "ピカチュウ",
+    "dexNo": 25,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "Sapporo Pikachu",
+    "distributionMethod": "未確認",
+    "startDate": "2005-07-01",
+    "endDate": "2005-08-21",
+    "ot": "サッポロ",
+    "trainerId": "50701",
+    "ball": "モンスターボール",
+    "level": 10,
+    "gender": "ランダム",
+    "ability": "せいでんき",
+    "nature": "ランダム",
+    "heldItem": "でんきだま",
+    "moves": [
+      "なきごえ",
+      "しっぽをふる",
+      "でんじは",
+      "そらをとぶ"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03039",
+    "pokemonName": "ジラーチ",
+    "dexNo": 385,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "Pokémon Festa 2005 Pokémon / 2005 Tanabata Jirachi",
+    "distributionMethod": "未確認",
+    "startDate": "2005-07-17",
+    "endDate": "2005-08-21",
+    "ot": "タナバタ",
+    "trainerId": "50707",
+    "ball": "モンスターボール",
+    "level": 5,
+    "ability": "てんのめぐみ",
+    "nature": "ランダム",
+    "heldItem": "ヤタピのみ / ズアのみ",
+    "moves": [
+      "ねがいごと",
+      "ねんりき",
+      "ねむる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03040",
+    "pokemonName": "メタング",
+    "dexNo": 375,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "Pokémon Festa 2005 Pokémon / Festa Metang",
+    "distributionMethod": "未確認",
+    "startDate": "2005-07-17",
+    "endDate": "2005-08-21",
+    "ot": "フェスタ",
+    "trainerId": "02005",
+    "ball": "モンスターボール",
+    "level": 30,
+    "ability": "クリアボディ",
+    "nature": "ランダム",
+    "moves": [
+      "とっしん",
+      "ねんりき",
+      "メタルクロー",
+      "リフレッシュ"
+    ],
+    "ribbons": [
+      "ナショナルリボン"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03041",
+    "pokemonName": "ソーナンス",
+    "dexNo": 202,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "Pokémon Festa 2005 Pokémon / Pokémon Sunday Wobbuffet",
+    "distributionMethod": "未確認",
+    "startDate": "2005-07-17",
+    "endDate": "2005-08-21",
+    "ot": "サンデ－",
+    "trainerId": "50701",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "かげふみ",
+    "nature": "ランダム",
+    "heldItem": "ミラクルメール",
+    "moves": [
+      "カウンター",
+      "ミラーコート",
+      "しんぴのまもり",
+      "みちづれ"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03042",
+    "pokemonName": "レジスチル",
+    "dexNo": 379,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "Hadō legendary giants / Registeel",
+    "distributionMethod": "未確認",
+    "startDate": "2005-09-01",
+    "endDate": "2005-09-25",
+    "ot": "ハドウ",
+    "trainerId": "50901",
+    "ball": "モンスターボール",
+    "level": 40,
+    "ability": "クリアボディ",
+    "nature": "ランダム",
+    "moves": [
+      "のろい",
+      "ばかぢから",
+      "げんしのちから",
+      "はかいこうせん"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03043",
+    "pokemonName": "レジアイス",
+    "dexNo": 378,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "Hadō legendary giants / Regice",
+    "distributionMethod": "未確認",
+    "startDate": "2005-09-01",
+    "endDate": "2005-09-25",
+    "ot": "ハドウ",
+    "trainerId": "50901",
+    "ball": "モンスターボール",
+    "level": 40,
+    "ability": "クリアボディ",
+    "nature": "ランダム",
+    "moves": [
+      "のろい",
+      "ばかぢから",
+      "げんしのちから",
+      "はかいこうせん"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03044",
+    "pokemonName": "レジロック",
+    "dexNo": 377,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "Hadō legendary giants / Regirock",
+    "distributionMethod": "未確認",
+    "startDate": "2005-09-01",
+    "endDate": "2005-09-25",
+    "ot": "ハドウ",
+    "trainerId": "50901",
+    "ball": "モンスターボール",
+    "level": 40,
+    "ability": "クリアボディ",
+    "nature": "ランダム",
+    "moves": [
+      "のろい",
+      "ばかぢから",
+      "げんしのちから",
+      "はかいこうせん"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03045",
+    "pokemonName": "ミュウ",
+    "dexNo": 151,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "PokéPark Mew",
+    "distributionMethod": "未確認",
+    "startDate": "2006-05-10",
+    "endDate": "2006-06-04",
+    "ot": "ポケパーク",
+    "trainerId": "60510",
+    "ball": "モンスターボール",
+    "level": 30,
+    "ability": "シンクロ",
+    "nature": "ランダム",
+    "moves": [
+      "はたく",
+      "へんしん",
+      "メガトンパンチ",
+      "ゆびをふる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "region": "台湾",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03046",
+    "pokemonName": "セレビィ",
+    "dexNo": 251,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "PokéPark Celebi",
+    "distributionMethod": "未確認",
+    "startDate": "2006-06-23",
+    "endDate": "2006-09-24",
+    "ot": "ポケパーク",
+    "trainerId": "60623",
+    "ball": "モンスターボール",
+    "level": 30,
+    "ability": "しぜんかいふく",
+    "nature": "ランダム",
+    "moves": [
+      "いやしのすず",
+      "しんぴのまもり",
+      "げんしのちから",
+      "みらいよち"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "region": "台湾",
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03047",
+    "pokemonName": "ジラーチ",
+    "dexNo": 385,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "2006 Tanabata Jirachi",
+    "distributionMethod": "未確認",
+    "startDate": "2006-07-15",
+    "endDate": "2006-07-31",
+    "ot": "タナバタ",
+    "trainerId": "60707",
+    "ball": "モンスターボール",
+    "level": 5,
+    "ability": "てんのめぐみ",
+    "nature": "ランダム",
+    "heldItem": "カムラのみ / リュガのみ",
+    "moves": [
+      "ねがいごと",
+      "ねんりき",
+      "ねむる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03048",
+    "pokemonName": "セレビィ",
+    "dexNo": 251,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "Mitsurin Celebi",
+    "distributionMethod": "未確認",
+    "startDate": "2006-07-20",
+    "endDate": "2006-09-03",
+    "ot": "ミツリン",
+    "trainerId": "60720",
+    "ball": "モンスターボール",
+    "level": 10,
+    "ability": "しぜんかいふく",
+    "nature": "ランダム",
+    "moves": [
+      "やどりぎのタネ",
+      "じこさいせい",
+      "いやしのすず",
+      "しんぴのまもり"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "ivs": "ランダム"
+  },
+  {
+    "managementId": "03049",
+    "pokemonName": "ジラーチ",
+    "dexNo": 385,
+    "generation": 3,
+    "game": "ルビー, サファイア, ファイアレッド, リーフグリーン, エメラルド",
+    "eventName": "PokéPark Jirachi",
+    "distributionMethod": "未確認",
+    "startDate": "2006-07-24",
+    "endDate": "2006-08-30",
+    "ot": "ポケパーク",
+    "trainerId": "60731/60830",
+    "ball": "モンスターボール",
+    "level": 30,
+    "ability": "てんのめぐみ",
+    "nature": "ランダム",
+    "moves": [
+      "ねがいごと",
+      "サイコキネシス",
+      "てだすけ",
+      "ねむる"
+    ],
+    "notes": "配布方式は未確認（テンプレートから抽出できないため）。 配布期間は連続ではなく、各期間: 2006-07-24〜2006-07-31 / 2006-08-23〜2006-08-30。開始日・終了日は全期間の外縁。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
+    "references": [
+      {
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "label": "Bulbapedia（日本語版向け配信一覧）"
+      }
+    ],
+    "region": "台湾",
+    "ivs": "ランダム"
+  },
+  {
     "managementId": "04001",
     "pokemonName": "ペラップ",
     "dexNo": 441,

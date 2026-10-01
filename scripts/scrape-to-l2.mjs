@@ -26,7 +26,7 @@
 //   - scraped の id（managementId）は matching にも採番にも使わない捨て値（前段Phase Aの暫定値）。
 //   - 既存entriesは as-parsed のまま保持（byte往復同一）。書き込みは新規追加が1件以上あるときだけ。
 //
-// 実行: node scripts/scrape-to-l2.mjs <flat.json> [--dry-run] [--dist-dir <dir>] [--report <path>] [--accept-near-dup]
+// 実行: node scripts/scrape-to-l2.mjs <flat.json> [--dry-run] [--dist-dir <dir>] [--report <path>] [--accept-near-dup] [--accept-multi-variant]
 // （distribution-scraper 側は `uv run python -m scripts.main --gen 9 --json <flat.json>` で生成）
 // 旧 Phase A の第2引数 out.json（staging出力）は廃止。
 
@@ -39,13 +39,14 @@ const readJson = (relativePath) => JSON.parse(fs.readFileSync(path.join(root, re
 
 // ---- CLI引数パース ----
 // 位置引数は <flat.json> のみ。--dist-dir/--report はオプション値を伴うフラグ。
-// --accept-near-dup は値を伴わないフラグ（--dry-run と同様）。
+// --accept-near-dup / --accept-multi-variant は値を伴わない明示承認フラグ。
 function parseArgs(argv) {
   let flatPathArg = null;
   let dryRun = false;
   let distDirArg = "distributions";
   let reportPathArg = null;
   let acceptNearDup = false;
+  let acceptMultiVariant = false;
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === "--dry-run") {
@@ -58,19 +59,21 @@ function parseArgs(argv) {
       if (reportPathArg === undefined) throw new Error("--report には値が必要です");
     } else if (a === "--accept-near-dup") {
       acceptNearDup = true;
+    } else if (a === "--accept-multi-variant") {
+      acceptMultiVariant = true;
     } else if (flatPathArg === null) {
       flatPathArg = a;
     } else {
       throw new Error(`未知の引数: "${a}"`);
     }
   }
-  return { flatPathArg, dryRun, distDirArg, reportPathArg, acceptNearDup };
+  return { flatPathArg, dryRun, distDirArg, reportPathArg, acceptNearDup, acceptMultiVariant };
 }
 
-const { flatPathArg, dryRun, distDirArg, reportPathArg, acceptNearDup } = parseArgs(process.argv.slice(2));
+const { flatPathArg, dryRun, distDirArg, reportPathArg, acceptNearDup, acceptMultiVariant } = parseArgs(process.argv.slice(2));
 if (!flatPathArg) {
   console.error(
-    "使い方: node scripts/scrape-to-l2.mjs <flat.json> [--dry-run] [--dist-dir <dir>] [--report <path>] [--accept-near-dup]"
+    "使い方: node scripts/scrape-to-l2.mjs <flat.json> [--dry-run] [--dist-dir <dir>] [--report <path>] [--accept-near-dup] [--accept-multi-variant]"
   );
   process.exit(1);
 }
@@ -189,7 +192,7 @@ function convertGames(rawGameField, managementId) {
 // ---- migrate-gen5-7.mjs から移植（形状不変のためそのまま） ----
 
 const FORM_RE = /^(.+?)（(.+)）$/;
-const OT_PLAYER_MARKER = "(プレイヤーのもの)";
+const PLAYER_MARKERS = new Set(["(プレイヤーのもの)", "(孵化した人のもの)"]);
 const OT_LANG_FIELDS = [
   ["JPN", "ot_JPN"],
   ["ENG", "ot_ENG"],
@@ -275,7 +278,7 @@ function convertShiny(rawShiny, managementId) {
 }
 
 function convertOt(entry) {
-  if (entry.ot === OT_PLAYER_MARKER) {
+  if (PLAYER_MARKERS.has(entry.ot)) {
     return { otFromPlayer: true };
   }
   const ot = {};
@@ -449,7 +452,7 @@ function convertEntry(entry) {
 
   Object.assign(out, convertOt(entry));
 
-  if (entry.trainerId !== "") out.trainerId = entry.trainerId;
+  if (entry.trainerId !== "" && !PLAYER_MARKERS.has(entry.trainerId)) out.trainerId = entry.trainerId;
 
   const moves = splitCommaList(entry.moves);
   if (moves.length > 0) out.moves = moves;
@@ -817,18 +820,54 @@ for (const m of scrapedEntries) {
   scrapedGroups.get(key).push(m);
 }
 
+// 明示承認でも、名前・出典・備考などの違いだけでは別個体として追加しない。
+// 配列順・オブジェクトキー順と provisional id による見かけ上の違いも除く。
+const VARIANT_FIELDS = [
+  "form", "level", "levelNote", "gender", "nature", "ability", "ball", "metLocation",
+  "heldItem", "teraType", "shiny", "ot", "otFromPlayer", "trainerId", "moves",
+  "specialMoves", "ribbons", "ivs", "ivsGuaranteed", "evs", "gigantamax", "alpha",
+];
+/** 比較時に配列順とオブジェクトキー順を正規化する。 */
+function canonicalVariantValue(value) {
+  if (Array.isArray(value)) return value.map(canonicalVariantValue).sort();
+  if (value !== null && typeof value === "object") {
+    return Object.fromEntries(Object.keys(value).sort().map((key) => [key, canonicalVariantValue(value[key])]));
+  }
+  return value;
+}
+/** provisional idとイベントのメタ情報を除いた個体情報の署名。 */
+function variantSignature(entry) {
+  return JSON.stringify(canonicalVariantValue(Object.fromEntries(
+    VARIANT_FIELDS.filter((field) => field in entry).map((field) => [field, entry[field]])
+  )));
+}
+if (acceptMultiVariant) {
+  for (const members of scrapedGroups.values()) {
+    const seen = new Set();
+    for (const member of members) {
+      const signature = variantSignature(member);
+      if (seen.has(signature)) {
+        throw new Error(`multi-variant に同一個体の重複があります: ${describeAnchor(member)}（個体情報の違いが必要です）`);
+      }
+      seen.add(signature);
+    }
+  }
+}
+
 // ---- 分類 ----
 const addCandidates = []; // ADD予定のscraped entry（idはこの後で採番。scraped初出順）
 const buckets = {
   nearDup: [], // 要確認・既存に酷似（--accept-near-dup 未指定時のnear-dup行はここ）
   nearDupAccepted: [], // --accept-near-dup 指定時、near-dup判定されたが承認して追加した行
   multiVariant: [], // 新規・多バリアント
+  multiVariantAccepted: [], // 明示承認された別個体のグループ
   protectedSkip: [], // 保護スキップ
   updateCandidate: [], // 更新候補(report-only)
 };
 // --accept-near-dup 時、near-dup判定を経て追加経路に合流した scraped member を識別するための集合。
 // additions 生成時（オブジェクトはspreadでコピーされ参照が変わる）より前の段階で参照を保持しておく。
 const nearDupAcceptedMembers = new Set();
+const multiVariantAcceptedMembers = new Set();
 
 for (const [key, members] of scrapedGroups.entries()) {
   const existingGroup = anchorIndex.get(key);
@@ -904,10 +943,22 @@ for (const [key, members] of scrapedGroups.entries()) {
   if (withoutNearDup.length === 1) {
     addCandidates.push(withoutNearDup[0]);
   } else if (withoutNearDup.length > 1) {
-    buckets.multiVariant.push({
+    const group = {
       anchor: describeAnchor(withoutNearDup[0]),
+      count: withoutNearDup.length,
       members: withoutNearDup.map((m) => ({ label: labelEntry(m), eventName: m.eventName })),
-    });
+    };
+    if (acceptMultiVariant) {
+      group.members = withoutNearDup.map((m) => ({
+        label: labelEntry(m), eventName: m.eventName,
+        phenotype: Object.fromEntries(VARIANT_FIELDS.filter((field) => field in m).map((field) => [field, m[field]])),
+      }));
+      buckets.multiVariantAccepted.push(group);
+      for (const member of withoutNearDup) multiVariantAcceptedMembers.add(member);
+      addCandidates.push(...withoutNearDup);
+    } else {
+      buckets.multiVariant.push(group);
+    }
   }
   // withoutNearDup.length === 0 → 全員near-dup。ADDなし。
 }
@@ -919,7 +970,9 @@ for (const [key, members] of scrapedGroups.entries()) {
 const survivingAdds = [];
 for (let i = 0; i < addCandidates.length; i++) {
   const cand = addCandidates[i];
-  const siblings = addCandidates.filter((other, j) => j !== i && isNearDup(other, cand));
+  const siblings = addCandidates.filter((other, j) => j !== i && isNearDup(other, cand) && !(
+    multiVariantAcceptedMembers.has(cand) && multiVariantAcceptedMembers.has(other) && anchorKey(other) === anchorKey(cand)
+  ));
   if (siblings.length === 0) {
     survivingAdds.push(cand);
     continue;
@@ -981,6 +1034,7 @@ if (prefixedIds.length > 0) {
 
 const additions = [];
 const nearDupAcceptedIds = []; // --accept-near-dup 経由で追加されたentryのid（ログ/レポート用）
+const multiVariantAcceptedIds = [];
 let nextSuffix = maxSuffix + 1;
 for (const member of survivingAdds) {
   if (nextSuffix >= 10 ** suffixWidth) {
@@ -989,6 +1043,7 @@ for (const member of survivingAdds) {
   const newId = prefix + String(nextSuffix).padStart(suffixWidth, "0");
   nextSuffix += 1;
   if (nearDupAcceptedMembers.has(member)) nearDupAcceptedIds.push(newId);
+  if (multiVariantAcceptedMembers.has(member)) multiVariantAcceptedIds.push(newId);
   additions.push(orderEntry({ ...member, id: newId, source: { kind: "bulbapedia" } }));
 }
 
@@ -1068,6 +1123,12 @@ for (const g of buckets.multiVariant) {
   }
 }
 
+console.log(`\n[多バリアント承認] ${buckets.multiVariantAccepted.length}グループ / 追加${multiVariantAcceptedIds.length}件`);
+for (const g of buckets.multiVariantAccepted) {
+  console.log(`  - A=${g.anchor} scraped ${g.count}件`);
+  for (const m of g.members) console.log(`      ${m.label} ev="${m.eventName}"`);
+}
+
 console.log(`\n[保護スキップ] ${buckets.protectedSkip.length}件`);
 for (const p of buckets.protectedSkip) {
   const diffParts = [...formatDiffParts(p.conflicts), ...formatDiffParts(p.info)];
@@ -1097,8 +1158,9 @@ for (const r of skippedRows) {
 }
 
 const nearDupAcceptedSummary = acceptNearDup ? ` (うちnear-dup承認${nearDupAcceptedIds.length})` : "";
+const multiVariantAcceptedSummary = acceptMultiVariant ? ` (うち多バリアント承認${multiVariantAcceptedIds.length})` : "";
 console.log(
-  `\nサマリ: 追加${additions.length}${nearDupAcceptedSummary} / 酷似${buckets.nearDup.length} / 多バリアント${buckets.multiVariant.length} / 保護${buckets.protectedSkip.length} / 更新${buckets.updateCandidate.length} / 取込不可${skippedRows.length}`
+  `\nサマリ: 追加${additions.length}${nearDupAcceptedSummary}${multiVariantAcceptedSummary} / 酷似${buckets.nearDup.length} / 多バリアント${buckets.multiVariant.length} / 保護${buckets.protectedSkip.length} / 更新${buckets.updateCandidate.length} / 取込不可${skippedRows.length}`
 );
 
 const writeStatusLabel =
@@ -1113,11 +1175,14 @@ if (reportPathArg) {
     scrapedCount: scrapedEntries.length,
     existingCount: existingEntries.length,
     acceptNearDup,
+    acceptMultiVariant,
     summary: {
       added: additions.length,
       nearDupAccepted: nearDupAcceptedIds.length,
       nearDup: buckets.nearDup.length,
       multiVariant: buckets.multiVariant.length,
+      multiVariantAccepted: multiVariantAcceptedIds.length,
+      multiVariantAcceptedGroups: buckets.multiVariantAccepted.length,
       protectedSkip: buckets.protectedSkip.length,
       updateCandidate: buckets.updateCandidate.length,
       skipped: skippedRows.length,
@@ -1129,10 +1194,12 @@ if (reportPathArg) {
       form: a.form,
       eventName: a.eventName,
       nearDupAccepted: nearDupAcceptedIds.includes(a.id),
+      multiVariantAccepted: multiVariantAcceptedIds.includes(a.id),
     })),
     nearDup: buckets.nearDup,
     nearDupAccepted: buckets.nearDupAccepted,
     multiVariant: buckets.multiVariant,
+    multiVariantAccepted: buckets.multiVariantAccepted,
     protectedSkip: buckets.protectedSkip,
     updateCandidate: buckets.updateCandidate,
     skipped: skippedRows.map((r) => ({

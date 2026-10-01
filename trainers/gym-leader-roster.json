@@ -1,0 +1,567 @@
+{
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Gym_Leader",
+  "scope": "本編のバッジを渡すジムリーダーとその後任。アニメ・マイナーリーグ・元職のみは除外。",
+  "trainers": [
+    {
+      "page": "Brock",
+      "ja": "タケシ",
+      "region": "カントー",
+      "order": 1,
+      "type_en": "Rock"
+    },
+    {
+      "page": "Misty",
+      "ja": "カスミ",
+      "region": "カントー",
+      "order": 2,
+      "type_en": "Water"
+    },
+    {
+      "page": "Lt. Surge",
+      "ja": "マチス",
+      "region": "カントー",
+      "order": 3,
+      "type_en": "Electric"
+    },
+    {
+      "page": "Erika",
+      "ja": "エリカ",
+      "region": "カントー",
+      "order": 4,
+      "type_en": "Grass"
+    },
+    {
+      "page": "Koga",
+      "ja": "キョウ",
+      "region": "カントー",
+      "order": 5,
+      "type_en": "Poison"
+    },
+    {
+      "page": "Janine",
+      "ja": "アンズ",
+      "region": "カントー",
+      "order": 6,
+      "type_en": "Poison"
+    },
+    {
+      "page": "Sabrina",
+      "ja": "ナツメ",
+      "region": "カントー",
+      "order": 7,
+      "type_en": "Psychic"
+    },
+    {
+      "page": "Blaine",
+      "ja": "カツラ",
+      "region": "カントー",
+      "order": 8,
+      "type_en": "Fire"
+    },
+    {
+      "page": "Giovanni",
+      "ja": "サカキ",
+      "region": "カントー",
+      "order": 9,
+      "type_en": "Ground"
+    },
+    {
+      "page": "Blue (game)",
+      "ja": "グリーン",
+      "region": "カントー",
+      "order": 10,
+      "type_en": "Various"
+    },
+    {
+      "page": "Falkner",
+      "ja": "ハヤト",
+      "region": "ジョウト",
+      "order": 1,
+      "type_en": "Flying"
+    },
+    {
+      "page": "Bugsy",
+      "ja": "ツクシ",
+      "region": "ジョウト",
+      "order": 2,
+      "type_en": "Bug"
+    },
+    {
+      "page": "Whitney",
+      "ja": "アカネ",
+      "region": "ジョウト",
+      "order": 3,
+      "type_en": "Normal"
+    },
+    {
+      "page": "Morty",
+      "ja": "マツバ",
+      "region": "ジョウト",
+      "order": 4,
+      "type_en": "Ghost"
+    },
+    {
+      "page": "Chuck",
+      "ja": "シジマ",
+      "region": "ジョウト",
+      "order": 5,
+      "type_en": "Fighting"
+    },
+    {
+      "page": "Jasmine",
+      "ja": "ミカン",
+      "region": "ジョウト",
+      "order": 6,
+      "type_en": "Steel"
+    },
+    {
+      "page": "Pryce",
+      "ja": "ヤナギ",
+      "region": "ジョウト",
+      "order": 7,
+      "type_en": "Ice"
+    },
+    {
+      "page": "Clair",
+      "ja": "イブキ",
+      "region": "ジョウト",
+      "order": 8,
+      "type_en": "Dragon"
+    },
+    {
+      "page": "Roxanne",
+      "ja": "ツツジ",
+      "region": "ホウエン",
+      "order": 1,
+      "type_en": "Rock"
+    },
+    {
+      "page": "Brawly",
+      "ja": "トウキ",
+      "region": "ホウエン",
+      "order": 2,
+      "type_en": "Fighting"
+    },
+    {
+      "page": "Wattson",
+      "ja": "テッセン",
+      "region": "ホウエン",
+      "order": 3,
+      "type_en": "Electric"
+    },
+    {
+      "page": "Flannery",
+      "ja": "アスナ",
+      "region": "ホウエン",
+      "order": 4,
+      "type_en": "Fire"
+    },
+    {
+      "page": "Norman",
+      "ja": "センリ",
+      "region": "ホウエン",
+      "order": 5,
+      "type_en": "Normal"
+    },
+    {
+      "page": "Winona",
+      "ja": "ナギ",
+      "region": "ホウエン",
+      "order": 6,
+      "type_en": "Flying"
+    },
+    {
+      "page": "Tate and Liza",
+      "ja": "フウとラン",
+      "region": "ホウエン",
+      "order": 7,
+      "type_en": "Psychic"
+    },
+    {
+      "page": "Wallace",
+      "ja": "ミクリ",
+      "region": "ホウエン",
+      "order": 8,
+      "type_en": "Water"
+    },
+    {
+      "page": "Juan",
+      "ja": "アダン",
+      "region": "ホウエン",
+      "order": 9,
+      "type_en": "Water"
+    },
+    {
+      "page": "Roark",
+      "ja": "ヒョウタ",
+      "region": "シンオウ",
+      "order": 1,
+      "type_en": "Rock"
+    },
+    {
+      "page": "Gardenia",
+      "ja": "ナタネ",
+      "region": "シンオウ",
+      "order": 2,
+      "type_en": "Grass"
+    },
+    {
+      "page": "Maylene",
+      "ja": "スモモ",
+      "region": "シンオウ",
+      "order": 3,
+      "type_en": "Fighting"
+    },
+    {
+      "page": "Crasher Wake",
+      "ja": "マキシマム仮面",
+      "region": "シンオウ",
+      "order": 4,
+      "type_en": "Water"
+    },
+    {
+      "page": "Fantina",
+      "ja": "メリッサ",
+      "region": "シンオウ",
+      "order": 5,
+      "type_en": "Ghost"
+    },
+    {
+      "page": "Byron",
+      "ja": "トウガン",
+      "region": "シンオウ",
+      "order": 6,
+      "type_en": "Steel"
+    },
+    {
+      "page": "Candice",
+      "ja": "スズナ",
+      "region": "シンオウ",
+      "order": 7,
+      "type_en": "Ice"
+    },
+    {
+      "page": "Volkner",
+      "ja": "デンジ",
+      "region": "シンオウ",
+      "order": 8,
+      "type_en": "Electric"
+    },
+    {
+      "page": "Cilan",
+      "ja": "デント",
+      "region": "イッシュ",
+      "order": 1,
+      "type_en": "Grass"
+    },
+    {
+      "page": "Chili",
+      "ja": "ポッド",
+      "region": "イッシュ",
+      "order": 2,
+      "type_en": "Fire"
+    },
+    {
+      "page": "Cress",
+      "ja": "コーン",
+      "region": "イッシュ",
+      "order": 3,
+      "type_en": "Water"
+    },
+    {
+      "page": "Lenora",
+      "ja": "アロエ",
+      "region": "イッシュ",
+      "order": 4,
+      "type_en": "Normal"
+    },
+    {
+      "page": "Burgh",
+      "ja": "アーティ",
+      "region": "イッシュ",
+      "order": 5,
+      "type_en": "Bug"
+    },
+    {
+      "page": "Elesa",
+      "ja": "カミツレ",
+      "region": "イッシュ",
+      "order": 6,
+      "type_en": "Electric"
+    },
+    {
+      "page": "Clay",
+      "ja": "ヤーコン",
+      "region": "イッシュ",
+      "order": 7,
+      "type_en": "Ground"
+    },
+    {
+      "page": "Skyla",
+      "ja": "フウロ",
+      "region": "イッシュ",
+      "order": 8,
+      "type_en": "Flying"
+    },
+    {
+      "page": "Brycen",
+      "ja": "ハチク",
+      "region": "イッシュ",
+      "order": 9,
+      "type_en": "Ice"
+    },
+    {
+      "page": "Iris",
+      "ja": "アイリス",
+      "region": "イッシュ",
+      "order": 10,
+      "type_en": "Dragon"
+    },
+    {
+      "page": "Cheren",
+      "ja": "チェレン",
+      "region": "イッシュ",
+      "order": 11,
+      "type_en": "Normal"
+    },
+    {
+      "page": "Roxie",
+      "ja": "ホミカ",
+      "region": "イッシュ",
+      "order": 12,
+      "type_en": "Poison"
+    },
+    {
+      "page": "Drayden",
+      "ja": "シャガ",
+      "region": "イッシュ",
+      "order": 13,
+      "type_en": "Dragon"
+    },
+    {
+      "page": "Marlon",
+      "ja": "シズイ",
+      "region": "イッシュ",
+      "order": 14,
+      "type_en": "Water"
+    },
+    {
+      "page": "Viola",
+      "ja": "ビオラ",
+      "region": "カロス",
+      "order": 1,
+      "type_en": "Bug"
+    },
+    {
+      "page": "Grant",
+      "ja": "ザクロ",
+      "region": "カロス",
+      "order": 2,
+      "type_en": "Rock"
+    },
+    {
+      "page": "Korrina",
+      "ja": "コルニ",
+      "region": "カロス",
+      "order": 3,
+      "type_en": "Fighting"
+    },
+    {
+      "page": "Ramos",
+      "ja": "フクジ",
+      "region": "カロス",
+      "order": 4,
+      "type_en": "Grass"
+    },
+    {
+      "page": "Clemont",
+      "ja": "シトロン",
+      "region": "カロス",
+      "order": 5,
+      "type_en": "Electric"
+    },
+    {
+      "page": "Valerie",
+      "ja": "マーシュ",
+      "region": "カロス",
+      "order": 6,
+      "type_en": "Fairy"
+    },
+    {
+      "page": "Olympia",
+      "ja": "ゴジカ",
+      "region": "カロス",
+      "order": 7,
+      "type_en": "Psychic"
+    },
+    {
+      "page": "Wulfric",
+      "ja": "ウルップ",
+      "region": "カロス",
+      "order": 8,
+      "type_en": "Ice"
+    },
+    {
+      "page": "Milo",
+      "ja": "ヤロー",
+      "region": "ガラル",
+      "order": 1,
+      "type_en": "Grass"
+    },
+    {
+      "page": "Nessa",
+      "ja": "ルリナ",
+      "region": "ガラル",
+      "order": 2,
+      "type_en": "Water"
+    },
+    {
+      "page": "Kabu",
+      "ja": "カブ",
+      "region": "ガラル",
+      "order": 3,
+      "type_en": "Fire"
+    },
+    {
+      "page": "Bea",
+      "ja": "サイトウ",
+      "region": "ガラル",
+      "order": 4,
+      "type_en": "Fighting"
+    },
+    {
+      "page": "Allister",
+      "ja": "オニオン",
+      "region": "ガラル",
+      "order": 5,
+      "type_en": "Ghost"
+    },
+    {
+      "page": "Opal",
+      "ja": "ポプラ",
+      "region": "ガラル",
+      "order": 6,
+      "type_en": "Fairy",
+      "allowed_rematches": [
+        {
+          "section": "Galarian Star Tournament",
+          "location": "Wyndon Stadium"
+        }
+      ]
+    },
+    {
+      "page": "Bede",
+      "ja": "ビート",
+      "region": "ガラル",
+      "order": 7,
+      "type_en": "Fairy"
+    },
+    {
+      "page": "Gordie",
+      "ja": "マクワ",
+      "region": "ガラル",
+      "order": 8,
+      "type_en": "Rock"
+    },
+    {
+      "page": "Melony",
+      "ja": "メロン",
+      "region": "ガラル",
+      "order": 9,
+      "type_en": "Ice"
+    },
+    {
+      "page": "Piers",
+      "ja": "ネズ",
+      "region": "ガラル",
+      "order": 10,
+      "type_en": "Dark",
+      "allowed_rematches": [
+        {
+          "section": "Champion tournaments",
+          "location": "Wyndon Stadium"
+        },
+        {
+          "section": "Galarian Star Tournament",
+          "location": "Wyndon Stadium"
+        }
+      ]
+    },
+    {
+      "page": "Marnie",
+      "ja": "マリィ",
+      "region": "ガラル",
+      "order": 11,
+      "type_en": "Dark",
+      "allowed_rematches": [
+        {
+          "section": "Rematch",
+          "location": "Spikemuth"
+        }
+      ]
+    },
+    {
+      "page": "Raihan",
+      "ja": "キバナ",
+      "region": "ガラル",
+      "order": 12,
+      "type_en": "Dragon"
+    },
+    {
+      "page": "Katy",
+      "ja": "カエデ",
+      "region": "パルデア",
+      "order": 1,
+      "type_en": "Bug"
+    },
+    {
+      "page": "Brassius",
+      "ja": "コルサ",
+      "region": "パルデア",
+      "order": 2,
+      "type_en": "Grass"
+    },
+    {
+      "page": "Iono",
+      "ja": "ナンジャモ",
+      "region": "パルデア",
+      "order": 3,
+      "type_en": "Electric"
+    },
+    {
+      "page": "Kofu",
+      "ja": "ハイダイ",
+      "region": "パルデア",
+      "order": 4,
+      "type_en": "Water"
+    },
+    {
+      "page": "Larry",
+      "ja": "アオキ",
+      "region": "パルデア",
+      "order": 5,
+      "type_en": "Normal"
+    },
+    {
+      "page": "Ryme",
+      "ja": "ライム",
+      "region": "パルデア",
+      "order": 6,
+      "type_en": "Ghost"
+    },
+    {
+      "page": "Tulip",
+      "ja": "リップ",
+      "region": "パルデア",
+      "order": 7,
+      "type_en": "Psychic"
+    },
+    {
+      "page": "Grusha",
+      "ja": "グルーシャ",
+      "region": "パルデア",
+      "order": 8,
+      "type_en": "Ice"
+    }
+  ]
+}

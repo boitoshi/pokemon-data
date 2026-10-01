@@ -1,10 +1,11 @@
 {
   "scripts": {
-    "validate": "node scripts/validate-data.mjs && node scripts/validate-distributions.mjs && node scripts/validate-ribbons.mjs && node scripts/validate-game-compatibility.mjs",
+    "validate": "node scripts/validate-data.mjs && node scripts/validate-distributions.mjs && node scripts/validate-ribbons.mjs && node scripts/validate-game-compatibility.mjs && node scripts/validate-gym-leaders.mjs",
     "validate:master": "node scripts/validate-data.mjs",
     "validate:distributions": "node scripts/validate-distributions.mjs",
     "validate:ribbons": "node scripts/validate-ribbons.mjs",
     "validate:game-compatibility": "node scripts/validate-game-compatibility.mjs",
+    "validate:gym-leaders": "node scripts/validate-gym-leaders.mjs",
     "build": "node scripts/build-distributions.mjs && node scripts/build-abbreviations.mjs",
     "build:abbreviations": "node scripts/build-abbreviations.mjs",
     "test:build-compat": "node scripts/test-build-compat.mjs"

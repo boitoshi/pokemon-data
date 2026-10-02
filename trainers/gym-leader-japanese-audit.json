@@ -21897,8 +21897,8 @@
       "evidence_recorded_at": "2026-10-02T03:42:19.145979+00:00"
     }
   ],
-  "replayed": false,
-  "audited_at": "2026-10-02T03:42:21.705883+00:00",
+  "replayed": true,
+  "audited_at": "2026-10-02T09:33:18.255626+00:00",
   "audit_policy": {
     "version": 1,
     "matched_meaning": "Agreement of explicitly compared fields within stated source scope only",
@@ -30213,7 +30213,7 @@
       "evidence_recorded_at": "2026-10-02T03:42:19.145979+00:00"
     }
   ],
-  "canonical_sha256": "ff3c8d9c1a3e5dfd6c8290ab119d173d1e348990fa2d30ce93a7a3d72abb3bc9",
+  "canonical_sha256": "740a9d364b59f5650351e6f8aadc78dd72c2da5af66ee0a88d40083e34bd70e8",
   "move_name_normalization": "ASCII fullwidth characters mapped to halfwidth only",
   "scope": "Japanese website table extraction; matched is field-limited, not publication verification",
   "game_aliases": {
@@ -30277,7 +30277,7 @@
       "trainer": "タケシ",
       "page": "Brock",
       "party_index": 0,
-      "party_sha256": "46033051eaa28c655f9bcf3c085bd5166f5eff9ef8ebe559d288fbe76434c69d",
+      "party_sha256": "9fbc9e29d2bf00ccd63d783f3dd596e5a83ce3262f03bc30a18df7f6579f73f1",
       "game": "RGB",
       "section_path": [
         "In the core series games",
@@ -30373,7 +30373,7 @@
       "trainer": "タケシ",
       "page": "Brock",
       "party_index": 1,
-      "party_sha256": "cad4675ed2fcf90de0726a9e2de38de80a249b8707ab781960962d830dc259d5",
+      "party_sha256": "0ad4a881d68851df5ea894820ba8e1a462e4c62c9c99a0ec3349352f69651220",
       "game": "Y",
       "section_path": [
         "In the core series games",
@@ -30394,7 +30394,7 @@
       "trainer": "タケシ",
       "page": "Brock",
       "party_index": 2,
-      "party_sha256": "da3c8dbfb2ca7e117900a9aef939627b96b025885de8aaf6d77ef08fb2f649ec",
+      "party_sha256": "f078292385b2271f0151c49f99a66028bb438f494139b42eb563d3eb84369c0a",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -30482,7 +30482,7 @@
       "trainer": "タケシ",
       "page": "Brock",
       "party_index": 3,
-      "party_sha256": "9932e7e3e30fb1dffbc5f4b55cfc516069b8bf65f215e2da3b8ca51ac949fc65",
+      "party_sha256": "10544c4a6ad7f2d2403d2ab22ca36dfb4ba887ae041c5c764d03a8c27ff92452",
       "game": "FRLG",
       "section_path": [
         "In the core series games",
@@ -30604,7 +30604,7 @@
       "trainer": "タケシ",
       "page": "Brock",
       "party_index": 4,
-      "party_sha256": "88e98c9ec2661c95965e0844b9c79d7e003ece90a9d74f56027663a733346f35",
+      "party_sha256": "2daf9b64fe85467f144f09cd64e776e30979b455a38e6eecea1bce8ca5b3026b",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -30670,7 +30670,7 @@
       "trainer": "タケシ",
       "page": "Brock",
       "party_index": 5,
-      "party_sha256": "ece21191087dce82304cb93dcdcb4885e08e41c392e0b92fb38e9ddae2581c45",
+      "party_sha256": "14a726e318921eb0d3a5d790fa141b169d6b21eea66c53b2c18715a30848ad66",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -30736,7 +30736,7 @@
       "trainer": "タケシ",
       "page": "Brock",
       "party_index": 6,
-      "party_sha256": "32da71c0950e4a8c685fb45667518552fb2b858e106f13f045c3cb151382fc10",
+      "party_sha256": "0a210e61f7dfddbf1818a74df2782b591fba93a90312f50a7c0e74d1235cfb1b",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -30798,7 +30798,7 @@
       "trainer": "タケシ",
       "page": "Brock",
       "party_index": 7,
-      "party_sha256": "30d4dca197dd55b8b6dbff0649b620adb97432fee309286f31a62e63bb360712",
+      "party_sha256": "978c5dc99646bc3321c0ed31c07aefa867cffb85ae872801e5c587d7bcb96fa3",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -30860,7 +30860,7 @@
       "trainer": "カスミ",
       "page": "Misty",
       "party_index": 0,
-      "party_sha256": "8ea0017be9862b03f7ce4518dae738118a88d0064a5a4993b7a4547835138763",
+      "party_sha256": "bc99fb831beecc4748ef2b21447ef625833d30b8b5b2deaa112c621485c989ac",
       "game": "RGB",
       "section_path": [
         "In the core series games",
@@ -30958,7 +30958,7 @@
       "trainer": "カスミ",
       "page": "Misty",
       "party_index": 1,
-      "party_sha256": "13d10c540bcc65729d16744832a509fd177c4fcdbb700a46afb69ec05f8630d3",
+      "party_sha256": "0931b191749a9fcde0dbfba52874482b9ee505799a98afeec67c486f8d9b7390",
       "game": "Y",
       "section_path": [
         "In the core series games",
@@ -30979,7 +30979,7 @@
       "trainer": "カスミ",
       "page": "Misty",
       "party_index": 2,
-      "party_sha256": "655f5e599e1233d099c89c6ca6449068a6d5977084d7886a6948364fc7c2c016",
+      "party_sha256": "e39376ebd3cba592be2753b0906af404552b6a89b0710768b5078f0076cc4521",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -31069,7 +31069,7 @@
       "trainer": "カスミ",
       "page": "Misty",
       "party_index": 3,
-      "party_sha256": "cb216f3a1b97bff65cd9ca8c824708aeb4e206b8733da93e4be013e487ec020e",
+      "party_sha256": "db851ec5459b68cf47141460f8188c9b41e20f422129d7822440bea5d4579d2e",
       "game": "FRLG",
       "section_path": [
         "In the core series games",
@@ -31181,7 +31181,7 @@
       "trainer": "カスミ",
       "page": "Misty",
       "party_index": 4,
-      "party_sha256": "2aaa7055c3a69b73b08c06a20d8b181b40f017c7d095c3bd51bac4545bc37383",
+      "party_sha256": "f3cb6276749c0ac85682fe2de1e39aa4fc0f82ae6c5f0962e9f54b998023734c",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -31249,7 +31249,7 @@
       "trainer": "カスミ",
       "page": "Misty",
       "party_index": 5,
-      "party_sha256": "1bb8ee2fb4a9026cd572f256c65e02d6ba407070fb4019408b69847fc633c075",
+      "party_sha256": "010bd5053d81dea2bb82a07fa3d10061b82dd8aac702fa8881b01641d075f323",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -31317,7 +31317,7 @@
       "trainer": "カスミ",
       "page": "Misty",
       "party_index": 6,
-      "party_sha256": "8cbca85176dd58afb009c511541bc7dfbe6e81fa98aa5dc010e558631739eb89",
+      "party_sha256": "e874eaaa4ff9cf0ecfc0fe5acb8be908f9df1a5a00174a5def2617f7154eeaeb",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -31381,7 +31381,7 @@
       "trainer": "カスミ",
       "page": "Misty",
       "party_index": 7,
-      "party_sha256": "a899c364bbae766843dded88b1d4865e305a013dd8a03d14f2e34ef40b55b9b4",
+      "party_sha256": "94ad3cf24340ffb559ea3a1e729dfdecb8ea2319cd38e2278a24c4bf59a3fef1",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -31445,7 +31445,7 @@
       "trainer": "マチス",
       "page": "Lt. Surge",
       "party_index": 0,
-      "party_sha256": "b77054066e886186b9e955625998b7f2b2cfab20c83d3f7936db84e8d56f1fbd",
+      "party_sha256": "c31a1cac278c4efed50279faff97e0cd1a480aca8cbf0873b058a68d4ca2e758",
       "game": "RGB",
       "section_path": [
         "In the core series games",
@@ -31543,7 +31543,7 @@
       "trainer": "マチス",
       "page": "Lt. Surge",
       "party_index": 1,
-      "party_sha256": "61d4f7363d16a2a3cddaace7cc4cf5e64c83c57a9f3a5f07352591b7f31791c1",
+      "party_sha256": "353c29811834397872d17d8e62230f8fb68c9e9bbd18bb790a2098a9ff3066b6",
       "game": "Y",
       "section_path": [
         "In the core series games",
@@ -31564,7 +31564,7 @@
       "trainer": "マチス",
       "page": "Lt. Surge",
       "party_index": 2,
-      "party_sha256": "8a7b23e1db5cedc8b25fdfd1e36cadb8a508093adb0c8c9692bd045535d7c99d",
+      "party_sha256": "4e237e719d92b7c7371ac9df1a091bb2a8b86ca4a4feda3d7e405f1fba8bf1f8",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -31654,7 +31654,7 @@
       "trainer": "マチス",
       "page": "Lt. Surge",
       "party_index": 3,
-      "party_sha256": "245ccda71b64f116842a477bd24bc71b4129179e9aaf982eb14e49936d2417e1",
+      "party_sha256": "92ccd167148c69d5ab241cec8186bb97fcf0744323274ac5a5fea554e76b9520",
       "game": "FRLG",
       "section_path": [
         "In the core series games",
@@ -31767,7 +31767,7 @@
       "trainer": "マチス",
       "page": "Lt. Surge",
       "party_index": 4,
-      "party_sha256": "2d321142952cce482ccdf3da2069c60296b36b2c57539a66184f3ad77d1492df",
+      "party_sha256": "1dbbd5ce90021d8590d132f268a05491cbf6fd56289b7e1d4f28aab9817235a3",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -31833,7 +31833,7 @@
       "trainer": "マチス",
       "page": "Lt. Surge",
       "party_index": 5,
-      "party_sha256": "772aaf611b25bfb14ffc6cc20c604dc30a95a47294f59c86eacc6990130464f2",
+      "party_sha256": "7ceaddb6c7dc82a5397eb87296f7542984e41ccaee2d54094dc7a1b5b4119749",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -31901,7 +31901,7 @@
       "trainer": "マチス",
       "page": "Lt. Surge",
       "party_index": 6,
-      "party_sha256": "b57c77faf0c22784950a4bd9684e287aa69a53761648299e2a0d593fde48b266",
+      "party_sha256": "2bf1fb5653a6fde08a73f80b65db387a11b5d17bc7cde7d7d1fa0cc4a12c5106",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -31965,7 +31965,7 @@
       "trainer": "マチス",
       "page": "Lt. Surge",
       "party_index": 7,
-      "party_sha256": "66754f1f23d365f243b556f89b4541bb804e2cda57568342b257c9b2256225c4",
+      "party_sha256": "4f4afd4286cf89625ce2722a03a6b3630dbf055f3a7e73db6a1b78ddcadf3250",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -32029,7 +32029,7 @@
       "trainer": "エリカ",
       "page": "Erika",
       "party_index": 0,
-      "party_sha256": "b255d7aff5900aaec88ca145da260e9fe410f7278a3a3bf28051df22369b0b4d",
+      "party_sha256": "ffcf8ee6e702f663b89dbf53dd2ebd1d789bd702f6ea0644954ad398291fc105",
       "game": "RGB",
       "section_path": [
         "In the core series games",
@@ -32092,7 +32092,7 @@
       "trainer": "エリカ",
       "page": "Erika",
       "party_index": 1,
-      "party_sha256": "afac31f8252b1276f5a36435c9f6aa11d8f7a996f7e18d2e6f5ea0212a178e4d",
+      "party_sha256": "eb954f5e3914cbc566301aca8602f412199445990c7e2f9f15804db3510e562c",
       "game": "Y",
       "section_path": [
         "In the core series games",
@@ -32113,7 +32113,7 @@
       "trainer": "エリカ",
       "page": "Erika",
       "party_index": 2,
-      "party_sha256": "86ebe75186cad987594fe48956903e93a877b7f6be18a901a4cf6644bdda7fc6",
+      "party_sha256": "752dd347dcb9fb3522fcdca3eeccb0e505c21aa330bcf13bb87f307cb7a15207",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -32200,7 +32200,7 @@
       "trainer": "エリカ",
       "page": "Erika",
       "party_index": 3,
-      "party_sha256": "e16cd7c69e2c9ba153f8a6a09add6428988014e8943e76fbc8375411b22c74a0",
+      "party_sha256": "0ea1a10873e6bc885f8f9498fa6442188aae27f6299917a69d45b10fa6dfbbff",
       "game": "FRLG",
       "section_path": [
         "In the core series games",
@@ -32384,7 +32384,7 @@
       "trainer": "エリカ",
       "page": "Erika",
       "party_index": 4,
-      "party_sha256": "d7edb55c923972b548b4f46df9f590e2ec60338f3cea73673bba27aa984db39a",
+      "party_sha256": "4a346eb3a05ce3aec113b7edfa3309db7dd421fd91cee31c552fa5ee4ec6d4cf",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -32487,7 +32487,7 @@
       "trainer": "エリカ",
       "page": "Erika",
       "party_index": 5,
-      "party_sha256": "85818a966f0b978763e4b36e02bb365b67cc80c513b3333a0d6874750895081d",
+      "party_sha256": "d5023fe7b027359b000a8a20705696108ba41dce1a1b3d12b6e9a0844e70ae0e",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -32570,7 +32570,7 @@
       "trainer": "エリカ",
       "page": "Erika",
       "party_index": 6,
-      "party_sha256": "66e37a2b47d87faa81df7752245b50a482f1b2a4223ced073e50c63150e434aa",
+      "party_sha256": "07736f204feb675456b0a1a5144ee363974dd760cbfce59a9ce7f3529b284c7d",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -32632,7 +32632,7 @@
       "trainer": "エリカ",
       "page": "Erika",
       "party_index": 7,
-      "party_sha256": "3ee6e60bb230a230bfea177fba2962d579f71f1c6c3743b974798d47c283427c",
+      "party_sha256": "6a46d72b0870f99edbc9331f3bf888e05a3776aae42719eb672bf0b1058a5502",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -32694,7 +32694,7 @@
       "trainer": "キョウ",
       "page": "Koga",
       "party_index": 0,
-      "party_sha256": "d33ad342f8c816d35b62e8b5d96774049f4d90a67dc40835a76e7ec9e29619b9",
+      "party_sha256": "cfa93e1ea104ad8c1fd4c3f700c1e8bd98b322d0bb56668e6c2c34484538285f",
       "game": "RGB",
       "section_path": [
         "In the core series games",
@@ -32794,7 +32794,7 @@
       "trainer": "キョウ",
       "page": "Koga",
       "party_index": 1,
-      "party_sha256": "ce368f1df22953c559c738f67cadf6530e94312a9c0d820b05899695e70a02a0",
+      "party_sha256": "5d90d2b435a6da4136d9f5f2b76d58437c5f683da22e53c88fb78c8291b7e73e",
       "game": "Y",
       "section_path": [
         "In the core series games",
@@ -32815,7 +32815,7 @@
       "trainer": "キョウ",
       "page": "Koga",
       "party_index": 2,
-      "party_sha256": "e7ba831cb93061c29d230ad96304ff11dce0dbb22cc57fcf84901c743c1d3230",
+      "party_sha256": "9712fa9e7d40bc138eea8380e6c5426d76eeab9d6c02742f442f70555f10e31b",
       "game": "FRLG",
       "section_path": [
         "In the core series games",
@@ -32927,7 +32927,7 @@
       "trainer": "キョウ",
       "page": "Koga",
       "party_index": 3,
-      "party_sha256": "4b3a6043b919cdb0233f2b0640dd1e9ded923345fa13a46e6745fedd4766fd78",
+      "party_sha256": "2ba21e8993ce14e8eaa6c7f207782ec8b5d4fda04fd99bcd153afcb24855be1d",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -32989,7 +32989,7 @@
       "trainer": "キョウ",
       "page": "Koga",
       "party_index": 4,
-      "party_sha256": "a940b8b268802beeae75462d12b4b8ef49a6a6140f667f62051d8a16cb62d56a",
+      "party_sha256": "c59ea2d28af6bc65924e70f3f8ce935118a6173c956e50729c687fa538efd719",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -33051,7 +33051,7 @@
       "trainer": "アンズ",
       "page": "Janine",
       "party_index": 0,
-      "party_sha256": "c894ca0d84f1b171d1ce26860280f10d2b4551b7bb1061badb4a145d1fb6a543",
+      "party_sha256": "26fe3d85e428a4497d1bffd276e74dfa60177543a254c49f782a2bb6b0a71f35",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -33175,7 +33175,7 @@
       "trainer": "アンズ",
       "page": "Janine",
       "party_index": 1,
-      "party_sha256": "65c175d8eec5698772b80957b3589b9250019309e8fe0b10e58984f3532b37de",
+      "party_sha256": "a451013eb3b7d6eea4367f465e6222c95e5ac119343e31796ffef1a21e3fca88",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -33241,7 +33241,7 @@
       "trainer": "アンズ",
       "page": "Janine",
       "party_index": 2,
-      "party_sha256": "43135e930760948400ff95269b6d9cadd8292a1837fe18f5d568a3accad8b6f5",
+      "party_sha256": "967a03ef8e7dbd958c51284667b3fe532f756daae808cbf477f54df02498195a",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -33307,7 +33307,7 @@
       "trainer": "ナツメ",
       "page": "Sabrina",
       "party_index": 0,
-      "party_sha256": "ba2b47c80076d7de98dba8e31adc24a1e3ecec2ff6b65ea65b3da3fbf71ca234",
+      "party_sha256": "b15f5d6a4329d747c41163fa7e37d8548d3c5e9ee1ba3d9ce9ce590e5cd4b1e0",
       "game": "RGB",
       "section_path": [
         "In the core series games",
@@ -33370,7 +33370,7 @@
       "trainer": "ナツメ",
       "page": "Sabrina",
       "party_index": 1,
-      "party_sha256": "3071ed14be583a5b76a5dd7d062b645d96a747cdf1cdd0842ff0f26580e20f83",
+      "party_sha256": "b1ca45cf1da2c1310189a0b05594d5593ca946a189edd8473bef06bceb226f57",
       "game": "Y",
       "section_path": [
         "In the core series games",
@@ -33391,7 +33391,7 @@
       "trainer": "ナツメ",
       "page": "Sabrina",
       "party_index": 2,
-      "party_sha256": "1a7450454e61fd75117db1d23adfa4d1f3ff3214f80da179703c71049878aebb",
+      "party_sha256": "137293f9c9ebbe6bda2f53bc319d609c661fdefa9a0757c1b2a76bf0fd8921bd",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -33530,7 +33530,7 @@
       "trainer": "ナツメ",
       "page": "Sabrina",
       "party_index": 3,
-      "party_sha256": "6d8d098d381f6e825fb5d2dda81fa044927baf612f0162f3a348d74816d156b4",
+      "party_sha256": "d1912c1b8fea7ea1a5b262cc77c7b874e3d06e75830d6ade7d9b8071d958f500",
       "game": "FRLG",
       "section_path": [
         "In the core series games",
@@ -33642,7 +33642,7 @@
       "trainer": "ナツメ",
       "page": "Sabrina",
       "party_index": 4,
-      "party_sha256": "be78a18a7facb9200bfcd99b22f9837267b68a3115b62c518b3e4d22615da7c1",
+      "party_sha256": "5040e8d7f79cfb668eacc57535bc545489187cc9d4e0ed94bcb089cb2e4ba510",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -33745,7 +33745,7 @@
       "trainer": "ナツメ",
       "page": "Sabrina",
       "party_index": 5,
-      "party_sha256": "266ab2f7bbdf2e10bb71a28abd58d26f5d99e5d108b019a0cdab706adbabfaed",
+      "party_sha256": "9787adb7b899a1403304c71d61798e0485564f8d1a9859ea50067c5af2d98423",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -33811,7 +33811,7 @@
       "trainer": "ナツメ",
       "page": "Sabrina",
       "party_index": 6,
-      "party_sha256": "de95a755e2aea524b616e95c0ad8dfb5a843b4f7471819dcb50f73c922412024",
+      "party_sha256": "8bb94fea4b31ff8ce04def859442890d85dc613f376dc56a70d2933bb48457e9",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -33873,7 +33873,7 @@
       "trainer": "ナツメ",
       "page": "Sabrina",
       "party_index": 7,
-      "party_sha256": "2b0774c777439cb325672dd6065235ec8fee5dcc63132a340da3f276c778199e",
+      "party_sha256": "fea18178c7ed05804a454d946286bb75c23f4638cb1bd1760017d7f2b8713685",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -33935,7 +33935,7 @@
       "trainer": "カツラ",
       "page": "Blaine",
       "party_index": 0,
-      "party_sha256": "66b619ba9309459105bd9c476e60e8c1b7a1a2a1288485a5c7cbc47f4af7bf13",
+      "party_sha256": "a4aa5fa76833446cd7080f83085fa64dcca8e6f0e77bcba667263bf8646373ff",
       "game": "RGB",
       "section_path": [
         "In the core series games",
@@ -33998,7 +33998,7 @@
       "trainer": "カツラ",
       "page": "Blaine",
       "party_index": 1,
-      "party_sha256": "d630874669f5957050cadc2a69e5748037c969c60ee35a215166b2f3d35faf94",
+      "party_sha256": "388a847ad14bc12fc67886fcda901d4bea087fbc9e5178e85a63d89d4f88174f",
       "game": "Y",
       "section_path": [
         "In the core series games",
@@ -34019,7 +34019,7 @@
       "trainer": "カツラ",
       "page": "Blaine",
       "party_index": 2,
-      "party_sha256": "5d96665168f5acb320e9c55eb8d452d6ef82c184bcd2abb1650c5022fd4ed367",
+      "party_sha256": "75b5f1e283a1dce5ed4d65e3f9b0fed6cfa79f07c8288b5793d395a6b11f087d",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -34082,7 +34082,7 @@
       "trainer": "カツラ",
       "page": "Blaine",
       "party_index": 3,
-      "party_sha256": "e5467e350a61570a8afeff648c181faee9b9e939c55f05ae86021f7b70d594c0",
+      "party_sha256": "95d3816da2f7a9b8a8695371675955ae2aadfb30b17956651e8cd306dae769cf",
       "game": "FRLG",
       "section_path": [
         "In the core series games",
@@ -34266,7 +34266,7 @@
       "trainer": "カツラ",
       "page": "Blaine",
       "party_index": 4,
-      "party_sha256": "62739797398c9bae92aa3661182ac8a76c918cd998a1611787014895e2d8d062",
+      "party_sha256": "878b51ed84076ab3f8123d46041e249ba54b28ca4532afa061b43477adc43cd2",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -34330,7 +34330,7 @@
       "trainer": "カツラ",
       "page": "Blaine",
       "party_index": 5,
-      "party_sha256": "6231a76278970379671388177f42a659c47d44a0890f609606901ee36201ba4c",
+      "party_sha256": "10192037c2bb843e582fcd6398707e97a3e1062d1f8e4c41fd3d9731aa2ec8f8",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -34413,7 +34413,7 @@
       "trainer": "カツラ",
       "page": "Blaine",
       "party_index": 6,
-      "party_sha256": "02123c38c3f264bcaf1e3ec8ad880b1c23003328addfb41f9b66e8058985ec54",
+      "party_sha256": "4c7b1a57f5ae8f91f017825e487292d77272d7ac82b1acbccdc63c7f8454abc6",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -34475,7 +34475,7 @@
       "trainer": "カツラ",
       "page": "Blaine",
       "party_index": 7,
-      "party_sha256": "6a4fc84364d90a7d6eabefcb6b42c4563512a4f377ccb1ecf8902c03c0be4849",
+      "party_sha256": "4617f72666dac964b3f686826e0e6892f92b9eb683ddc97e3ed05639f1992434",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -34554,7 +34554,7 @@
       "trainer": "サカキ",
       "page": "Giovanni",
       "party_index": 0,
-      "party_sha256": "e74bbb00438eace6c21e6d00555802ebe57a4b95ca5d329e2f87be6e95fa4923",
+      "party_sha256": "944a5327c47f8832b69da49c8ac0708e075818ad656607fe42c7fc74bd6d25d6",
       "game": "RGB",
       "section_path": [
         "In the core series games",
@@ -34618,7 +34618,7 @@
       "trainer": "サカキ",
       "page": "Giovanni",
       "party_index": 1,
-      "party_sha256": "99f5ac00b665d4e85ef41eef176aa6caebeddb94e338613648253d789788db5e",
+      "party_sha256": "d499261ee3355e57abe5fd5cbe74b935b18f5d43fa1326f74fa1abff7b57434c",
       "game": "Y",
       "section_path": [
         "In the core series games",
@@ -34640,7 +34640,7 @@
       "trainer": "サカキ",
       "page": "Giovanni",
       "party_index": 2,
-      "party_sha256": "740c67ffca7082026e3200041449bafc6118ed364da9e03ff42b84562bf7c902",
+      "party_sha256": "eb6f39d494f481fdfd22edbe9ec5bee834efe3564372cf82f9f58401935c6475",
       "game": "FRLG",
       "section_path": [
         "In the core series games",
@@ -34860,7 +34860,7 @@
       "trainer": "サカキ",
       "page": "Giovanni",
       "party_index": 3,
-      "party_sha256": "966cd78e25328bb51a732ec18a8905c55d5581a92daebdaa5e9db4ae416304cc",
+      "party_sha256": "d3bb835705986eef1d3f7d6b65906665ce056288ec434c3e59b80a87d52d1cd2",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -34881,7 +34881,7 @@
       "trainer": "グリーン",
       "page": "Blue (game)",
       "party_index": 0,
-      "party_sha256": "a6a3e7b14d434924ddaf01111658f3f87a5e4629331306879a877df9ede6a27b",
+      "party_sha256": "da62918f3d47a5c5ac34b23c7ef63c180582bbe8ee29aab85903c69f63db3195",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -34968,7 +34968,7 @@
       "trainer": "グリーン",
       "page": "Blue (game)",
       "party_index": 1,
-      "party_sha256": "fcdad2adb8da33a1106864d0d3a31268dd447070275192c46df881db0cb0e43d",
+      "party_sha256": "bba5e04170df98f6570ff9a2b38adbf7fd072f8521694a231ca7c299f9a21da7",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -35034,7 +35034,7 @@
       "trainer": "グリーン",
       "page": "Blue (game)",
       "party_index": 2,
-      "party_sha256": "fa812edd3631987f9927dc161e8e889096669d465d3d94dd47cedbc330e1d40f",
+      "party_sha256": "0530dd41c31df4e2cacbb88103bc159d3507a3a017e5085c8d22c54c1cf38efc",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -35100,7 +35100,7 @@
       "trainer": "グリーン",
       "page": "Blue (game)",
       "party_index": 3,
-      "party_sha256": "439494a634f7f72ea1730a4a3924b2c85951a1b5582dd591b3a3b4f6411c7557",
+      "party_sha256": "f3d49702a38cb157f55a1a68529aac9b2f9b7a2974e2cd7b0af73d2f7dbc3d44",
       "game": "PE",
       "section_path": [
         "In the core series games",
@@ -35162,7 +35162,7 @@
       "trainer": "ハヤト",
       "page": "Falkner",
       "party_index": 0,
-      "party_sha256": "a2e795bd57f729162cabe21bd36fc00466974dc8398d9a3211c5a16848b594eb",
+      "party_sha256": "e3b52686f98400fc7be117cff2ca8778e67550c72bcd683ac051117b9eacf480",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -35249,7 +35249,7 @@
       "trainer": "ハヤト",
       "page": "Falkner",
       "party_index": 1,
-      "party_sha256": "75106251457a4420520fe7a825e3414d2a403686e3b4bf0b658a0e3c73353f43",
+      "party_sha256": "018a37c5cba472d5b93bcede930a061d0a9519c4324f82a2a3c7696611f2ba01",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -35313,7 +35313,7 @@
       "trainer": "ハヤト",
       "page": "Falkner",
       "party_index": 2,
-      "party_sha256": "0e2241013424dbe7111fc9902f7087aae0a5dec67c4c38c85a49d2229bc3ff05",
+      "party_sha256": "0ed77571677a31c735ad32568b928c4b0d873008ae44f0f28a9b3287d0f9ce56",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -35397,7 +35397,7 @@
       "trainer": "ツクシ",
       "page": "Bugsy",
       "party_index": 0,
-      "party_sha256": "63a62147a711775791ce2827be961704a0e88b94bb945833d15259cd0e8b70fc",
+      "party_sha256": "7c7fbff0784bcdaca1e622f2554d09071baefcd1605d9ffa9206d1fab49f10c0",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -35484,7 +35484,7 @@
       "trainer": "ツクシ",
       "page": "Bugsy",
       "party_index": 1,
-      "party_sha256": "58a636a53fd0dc37c5f0728cd3e38a966f376b1a91a2bacad8136277ee57c368",
+      "party_sha256": "080a1729ffde6d5d5cf0e687ef96eaef56bcf0557fcce19ea0356e68d99a0545",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -35548,7 +35548,7 @@
       "trainer": "ツクシ",
       "page": "Bugsy",
       "party_index": 2,
-      "party_sha256": "0d5e68806f3ada357e4592a88c2931e619d4146802f3ef700ddc3348ac80337c",
+      "party_sha256": "3d5dd290a03c0fb70a497c4605228eecf425aa8043ad58ff31f8e6ce8c6b35db",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -35616,7 +35616,7 @@
       "trainer": "アカネ",
       "page": "Whitney",
       "party_index": 0,
-      "party_sha256": "5a6481af8ba5433a1ef88d4898656049339253a67954c54c27f9d354f95339d5",
+      "party_sha256": "689acf67f30a174af22ba6ae9d1549682a55be3ace966a3155aff2ca5028f213",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -35703,7 +35703,7 @@
       "trainer": "アカネ",
       "page": "Whitney",
       "party_index": 1,
-      "party_sha256": "f35a7f538aadabb2a5e202f575fc38c98ee3ee3ae59b7a7ec643f55418d01b8c",
+      "party_sha256": "7c2bf034a776e6ceca087c4cbbc699fa66a6ec35ce1fd8e16d08db2c61fb2739",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -35769,7 +35769,7 @@
       "trainer": "アカネ",
       "page": "Whitney",
       "party_index": 2,
-      "party_sha256": "2f69407386c33ae451ff88e96c6f7dd98de30aeb4c6c16e8a0f6a3f8a99b51a7",
+      "party_sha256": "96a78ac86d4e1698af349216c9bca6fc773c2fcc4a16e4a6e7d66d287e926dfb",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -35853,7 +35853,7 @@
       "trainer": "マツバ",
       "page": "Morty",
       "party_index": 0,
-      "party_sha256": "fc6e8f19fd555549f4c97d0c0ae1af51500d8860f2bc502e77a92d9c6a2caa24",
+      "party_sha256": "c38b2f16f199d74a9866e2c8f7df9c0680ea4950de11ccff204a93d8fcb1de6d",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -35940,7 +35940,7 @@
       "trainer": "マツバ",
       "page": "Morty",
       "party_index": 1,
-      "party_sha256": "70cd4abe383c47515262d6f04d7a6e2a24c08caafd350bc136ea1451ef8f3577",
+      "party_sha256": "bd294b335fd7aff797b3e195c384722e03f5c7ef44d60183319b5ea373af8b81",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -36008,7 +36008,7 @@
       "trainer": "マツバ",
       "page": "Morty",
       "party_index": 2,
-      "party_sha256": "c14587aee1e2678bdb097864429aedca7d23b88a2fcccc73f6cf01698815da03",
+      "party_sha256": "16f5f796c58b566202cbf419941648685ad7bbb4856935001dfe9a64d1c98e66",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -36074,7 +36074,7 @@
       "trainer": "シジマ",
       "page": "Chuck",
       "party_index": 0,
-      "party_sha256": "7a5dfc2fd3bb730af528136932bfd5eecc3683e2ab472900eb2c2f6ee52cb17e",
+      "party_sha256": "0b74143dc399cef43eb6f8688f33a22ec23dbe66f2965ac5d00cdc8a2748fa2c",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -36161,7 +36161,7 @@
       "trainer": "シジマ",
       "page": "Chuck",
       "party_index": 1,
-      "party_sha256": "d579f46ba19ef00b3fefd5e0f3be7f91dced64b72e3fd722f52ca2e753adf7f5",
+      "party_sha256": "fed8900905ed5dd14c9b27f74dba815b9757e26d712b4afbef68c35647493879",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -36227,7 +36227,7 @@
       "trainer": "シジマ",
       "page": "Chuck",
       "party_index": 2,
-      "party_sha256": "f9e990d7ec329e56157dfa2bfd9e2b27d7d1c9b3eed23df5287ee53af1ab5022",
+      "party_sha256": "759c57f333c845bedd90680d5a63e89aa3c8ebacb10b33c793306a80c538c3ac",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -36293,7 +36293,7 @@
       "trainer": "ミカン",
       "page": "Jasmine",
       "party_index": 0,
-      "party_sha256": "cb3e6f83384af5e9617afa1198e48d6402a35e53fbdc25b44dc0a89e83511bfd",
+      "party_sha256": "cdac2b9d0ea055061e5cac63405bb39ee5521307db2e9fbcf0b475f723ecaba5",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -36383,7 +36383,7 @@
       "trainer": "ミカン",
       "page": "Jasmine",
       "party_index": 1,
-      "party_sha256": "f273a0d9689b4758099cc602563e97f325db46018a3e0500e44b4699917f9901",
+      "party_sha256": "d78596c6bbef707df59826302197aeb192b36c4b8051bf3db946996679bea20a",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -36451,7 +36451,7 @@
       "trainer": "ミカン",
       "page": "Jasmine",
       "party_index": 2,
-      "party_sha256": "618ff93ba1780ef814bb983e47eb15b9c09988bb220d85379e7a9ffe7a31b7d0",
+      "party_sha256": "d19d64c80a48d6aa568da572e59970d8eca720ddb26acba44e9e7059580c57c2",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -36517,7 +36517,7 @@
       "trainer": "ヤナギ",
       "page": "Pryce",
       "party_index": 0,
-      "party_sha256": "fb21391a9dce668d54b3d97c48e144810c572cf874bd0fad26a0888d8d584620",
+      "party_sha256": "5737a871c4a6a9545488f258cc7927726fa500c4c83fa60dcbbf95b1f9cf076e",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -36604,7 +36604,7 @@
       "trainer": "ヤナギ",
       "page": "Pryce",
       "party_index": 1,
-      "party_sha256": "59c4ae2dce8133dda869e11ad9f37540e4805061c29bf62c6efc83596e185e1e",
+      "party_sha256": "62d10eda16397ed0cfe684336441f460300041a6660afacbeac453e2985d965a",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -36668,7 +36668,7 @@
       "trainer": "ヤナギ",
       "page": "Pryce",
       "party_index": 2,
-      "party_sha256": "46bda24e0fe77d144dde235a82d392b5222f9c2ca8b88c163c1c19191447d6ce",
+      "party_sha256": "afe0b6263300d53b8c70ec62eaeb0917c776711c6abd844f5f184582abd0ef65",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -36734,7 +36734,7 @@
       "trainer": "イブキ",
       "page": "Clair",
       "party_index": 0,
-      "party_sha256": "d42b9b4d76add69386231857f0a02024a0cc1375345080c3beb4a84997be2cbb",
+      "party_sha256": "343e5c2c9ce6495ddcde06169b2660c8de4df4a75aa141352d8a9d8263a984e9",
       "game": "GSC",
       "section_path": [
         "In the core series games",
@@ -36821,7 +36821,7 @@
       "trainer": "イブキ",
       "page": "Clair",
       "party_index": 1,
-      "party_sha256": "4f37ca75b38368f22fdc63b2f0c5238d9cea5ebaee5c279fe6b3c259205d02df",
+      "party_sha256": "2619012f1dd44921b0f88a4fde0509f5ef22738ed5b05a90f50e184a8f602212",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -36885,7 +36885,7 @@
       "trainer": "イブキ",
       "page": "Clair",
       "party_index": 2,
-      "party_sha256": "54ccbb9845fbfa8a08e01a4719e92945ef7941c57e067a099f4dd09acd3ae556",
+      "party_sha256": "5a5a2adc1377baf89476e1b73126db1896a4b37e984d285a6f4a93b9c2c40928",
       "game": "HGSS",
       "section_path": [
         "In the core series games",
@@ -36951,7 +36951,7 @@
       "trainer": "ツツジ",
       "page": "Roxanne",
       "party_index": 0,
-      "party_sha256": "5a7137aaa3bee617055df04008559b80b39e457916d2511e82104ec1ff545f5d",
+      "party_sha256": "a0e7bd731ead66956b95f3c4f32a51facd112437547109c35b43e7781e4f222f",
       "game": "RS",
       "section_path": [
         "In the core series games",
@@ -37014,7 +37014,7 @@
       "trainer": "ツツジ",
       "page": "Roxanne",
       "party_index": 1,
-      "party_sha256": "9c830620d8cdb5e7c5ee784cd9aa694f61828f80b8df75cb798ea7cc34e7952f",
+      "party_sha256": "0b27a3c2cb63798f27dab715052f77198fbb7db72bd58608d60d18ddd2d48c68",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37080,7 +37080,7 @@
       "trainer": "ツツジ",
       "page": "Roxanne",
       "party_index": 2,
-      "party_sha256": "2642a7dd7356e3b06d0a40d393858c99f382a6be03dbd9eb3eba204df5e37414",
+      "party_sha256": "da20a5476768cc4a9002a3d8dfc30462f80b4c7b05432eb321464c6ab42cc25e",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37101,7 +37101,7 @@
       "trainer": "ツツジ",
       "page": "Roxanne",
       "party_index": 3,
-      "party_sha256": "9af7f93a64432c6d5eb24477d8e26a90e6492d992f0aad97bd73e5d0b9da64ad",
+      "party_sha256": "66abd8a6810612ccf596324dcc329e0d2eaedf0d9ff770150d67c0e1d27d5213",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37122,7 +37122,7 @@
       "trainer": "ツツジ",
       "page": "Roxanne",
       "party_index": 4,
-      "party_sha256": "814920d8246331cc11b64434aff538898ffac963f33d08b082ffccac32db546f",
+      "party_sha256": "b7be7511ffdca1247a5c27454c06e363e4e9e5b298780cd55919b2cc8a7235aa",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37143,7 +37143,7 @@
       "trainer": "ツツジ",
       "page": "Roxanne",
       "party_index": 5,
-      "party_sha256": "54e5e3fcc52cb77075a651ab12028c3968dd88fc6afe6831e45eeb74e9bd9257",
+      "party_sha256": "ad24e508bfcf298b4c9bf5aa0973ecd15249dcbb64bbf87c1ece3162648b1b9f",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37164,7 +37164,7 @@
       "trainer": "ツツジ",
       "page": "Roxanne",
       "party_index": 6,
-      "party_sha256": "842b83bc6f8f530af8016cc397097930f654e0554a9b0a959cc2aaf8ee8f131a",
+      "party_sha256": "b42135c0a9e33d2dbe021deb1c296e2103ece57540a79b7e10d147f71eaa07d9",
       "game": "ORAS",
       "section_path": [
         "In the core series games",
@@ -37225,7 +37225,7 @@
       "trainer": "トウキ",
       "page": "Brawly",
       "party_index": 0,
-      "party_sha256": "58eb29ccb412807a7546d06d74df7ba60c3297e35280ec168fe0b31d3b56da24",
+      "party_sha256": "896882dad3cd60020d91dac3bbe7cde8458555ec73edc2b960ca3474c09c53e1",
       "game": "RS",
       "section_path": [
         "In the core series games",
@@ -37347,7 +37347,7 @@
       "trainer": "トウキ",
       "page": "Brawly",
       "party_index": 1,
-      "party_sha256": "e0c0655b9888ee8e33a500874fd39f998c398c12e58a1fd7d74470067eea1722",
+      "party_sha256": "ab13ae42d6e093a53b8674c31131296b8668bde0981fc00a865728fc79c0f872",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37413,7 +37413,7 @@
       "trainer": "トウキ",
       "page": "Brawly",
       "party_index": 2,
-      "party_sha256": "7bee825385de1de0c8939663cee0ad3c5b9bea6d1f58e0954515c96b7e487ade",
+      "party_sha256": "4037192990ea88bba2281de9d2702e6a3b1e4bf7521f988368aac917f44bcc33",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37434,7 +37434,7 @@
       "trainer": "トウキ",
       "page": "Brawly",
       "party_index": 3,
-      "party_sha256": "fa9fd483657d2bfe4af54b23962c20463a03a92ed1d77c1509511d2cfda4a948",
+      "party_sha256": "3e3cb0f5c0483fc75b5b86d868d2f777c8d2558e0e8c317ecf6840bbc21313d1",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37455,7 +37455,7 @@
       "trainer": "トウキ",
       "page": "Brawly",
       "party_index": 4,
-      "party_sha256": "7a79960277660eac1e81a328674dae63520e233b0cfeea2e565cb59414722515",
+      "party_sha256": "5f3a56c74d17f1f48f9d4a37955bd7cb449e1a3bae994cef73d90a0b92c3be65",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37476,7 +37476,7 @@
       "trainer": "トウキ",
       "page": "Brawly",
       "party_index": 5,
-      "party_sha256": "31798abf8533d2e2d693a7dde4fbdaa1991a7d1b82b0b907b9619009847becfb",
+      "party_sha256": "2193bcc72802256190c96ee4bd4b1b29069d89dd4c0ebbe0f7595e5cc6538e7c",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37497,7 +37497,7 @@
       "trainer": "トウキ",
       "page": "Brawly",
       "party_index": 6,
-      "party_sha256": "c90dfb8013dff7ee10117679506073e2247f51a404542ae792ed77c189c6bbb3",
+      "party_sha256": "40a41cd059c2d9c4e9d70cbf41f8c9b98e6a477a4fff2cec1ee17adda810f727",
       "game": "ORAS",
       "section_path": [
         "In the core series games",
@@ -37558,7 +37558,7 @@
       "trainer": "テッセン",
       "page": "Wattson",
       "party_index": 0,
-      "party_sha256": "6f8d49cba8550f32ffc49c603ee4e58373aeb97e5e11a997d0d0725668dfd101",
+      "party_sha256": "26e207370d0b6799ce84a2a20539224e756bbdf9910b6ba934fbb3f080586a45",
       "game": "RS",
       "section_path": [
         "In the core series games",
@@ -37645,7 +37645,7 @@
       "trainer": "テッセン",
       "page": "Wattson",
       "party_index": 1,
-      "party_sha256": "25351d43f06202e8735a9e39baa8572396904e7ee07eec58ecab0ae686762b48",
+      "party_sha256": "04b983c14b115243ca6c312cb76af60d903e45d58815511e7723594065c6d980",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37713,7 +37713,7 @@
       "trainer": "テッセン",
       "page": "Wattson",
       "party_index": 2,
-      "party_sha256": "3390d5ad10adc856b4bb04407cc6b5a631bcc227e3362a4714c239c772794d1e",
+      "party_sha256": "d04aeb633b70e477a227b717f9343f1ad2425a750591ae70a74cc7f7bf974556",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37734,7 +37734,7 @@
       "trainer": "テッセン",
       "page": "Wattson",
       "party_index": 3,
-      "party_sha256": "f3580f73f6210db60eabe9fb13597c08f61e60254c9330ecdd14837f425ac86d",
+      "party_sha256": "3888ae4a28c7eb52eb35bae4166eac43d895f81dde303cae82d9eeaae6e9bcf1",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37755,7 +37755,7 @@
       "trainer": "テッセン",
       "page": "Wattson",
       "party_index": 4,
-      "party_sha256": "49c62c7a5ccc6915afbceabca8d1c1901ab632fd07a71dcfe2a19691ecb74640",
+      "party_sha256": "35dfcd8c9cbb46fe421c5d6acc23971f1667f7db22a9387ce3449ec806c31b6a",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37776,7 +37776,7 @@
       "trainer": "テッセン",
       "page": "Wattson",
       "party_index": 5,
-      "party_sha256": "f4dc0925a2eb3400dbc703d68f3cc57b55b5f24321082311e73f08a2a7a0fbe4",
+      "party_sha256": "6098251cd06f46dfcadc74ec3b3add575e888087d703205111ed907e8aa5c7ed",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -37797,7 +37797,7 @@
       "trainer": "テッセン",
       "page": "Wattson",
       "party_index": 6,
-      "party_sha256": "754d3661624f8301068b2cee23db259bc7427d60782fbcb0e16247cb6ebfa866",
+      "party_sha256": "cb4801ae1f15615f6b8f75effc4b535860c44ec513146543214aaeb1abe98149",
       "game": "ORAS",
       "section_path": [
         "In the core series games",
@@ -37858,7 +37858,7 @@
       "trainer": "アスナ",
       "page": "Flannery",
       "party_index": 0,
-      "party_sha256": "496680fb35593d6c36ea343d2f03a6fac7deee017fba7cfc940c0b1f60aafa6a",
+      "party_sha256": "a702150ab1b0a64dda91ac58876afb52b302b1348698c32f032da04459a1faac",
       "game": "RS",
       "section_path": [
         "In the core series games",
@@ -37945,7 +37945,7 @@
       "trainer": "アスナ",
       "page": "Flannery",
       "party_index": 1,
-      "party_sha256": "02050a03bc3969441b4adf245e0ca3b8b802202d5be20fc08a73f2ff30d773b6",
+      "party_sha256": "6aad49308ef23f3e9b63504f344e2c515ff92d552e66ab69e97247969c0a6e56",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38011,7 +38011,7 @@
       "trainer": "アスナ",
       "page": "Flannery",
       "party_index": 2,
-      "party_sha256": "a03ba48052d13f965888dd27cd1fa0885871751cd2660a81dc7c76f51910778b",
+      "party_sha256": "d74c902f5430e639a757f96b16e30b5ca9ed2e068afd8d77b10f89ed0dd8eb1e",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38032,7 +38032,7 @@
       "trainer": "アスナ",
       "page": "Flannery",
       "party_index": 3,
-      "party_sha256": "2e527556566954f1716c8268d4933152ff856b964a31f9deb723fc52d8c255f0",
+      "party_sha256": "61293d5e36f58d89158565b67564a41661f258e06ff8b186dc4773da84af0643",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38053,7 +38053,7 @@
       "trainer": "アスナ",
       "page": "Flannery",
       "party_index": 4,
-      "party_sha256": "e84580d65a31da455115acce49f02bc21a60344a6d947770f555a691995f6894",
+      "party_sha256": "db2e53774af93ea9973b81de9cfb929d3aaebb11e7d0602444b67c2236c68de5",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38074,7 +38074,7 @@
       "trainer": "アスナ",
       "page": "Flannery",
       "party_index": 5,
-      "party_sha256": "ae2ef776049d71b7f5fea503765974a059381255811f3099c4ba673be4af7aad",
+      "party_sha256": "9a3ac9ff58c5c010f1f1d57d985a0690b6299563585022a33e9d26612dfa4532",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38095,7 +38095,7 @@
       "trainer": "アスナ",
       "page": "Flannery",
       "party_index": 6,
-      "party_sha256": "81a9aeab4e45d580395f28448a5c56cbfb4bb87b4910ffaafe2cd4db521f437f",
+      "party_sha256": "f840316fea5c0db2387f06eef3cc210877ad532394212c79db4ed80fae97585f",
       "game": "ORAS",
       "section_path": [
         "In the core series games",
@@ -38156,7 +38156,7 @@
       "trainer": "センリ",
       "page": "Norman",
       "party_index": 0,
-      "party_sha256": "c458711233add23492747d776edf39e412d9fb74863c036e1b39910c79b5a117",
+      "party_sha256": "5df255c8e5f32847b117102d8faee6746e8c7963f0fe636d906514b94d818432",
       "game": "RS",
       "section_path": [
         "In the core series games",
@@ -38244,7 +38244,7 @@
       "trainer": "センリ",
       "page": "Norman",
       "party_index": 1,
-      "party_sha256": "85d3aef034b0809e20801c760d49a17cdcde38adc35826c51553ab2ee0f0d8df",
+      "party_sha256": "9350149582bb4ed42e4f027f6197d3bc501c6b2572b04cfda1030b3fa7236ec7",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38312,7 +38312,7 @@
       "trainer": "センリ",
       "page": "Norman",
       "party_index": 2,
-      "party_sha256": "27af47e16bd7c52b48e606f41a0382168d8b3d721a2f5755dc8df7fab69764eb",
+      "party_sha256": "1ae678b9af01594bbe7742a13fbefc57e5ea2797badf3f4b87d3eb36913a4663",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38333,7 +38333,7 @@
       "trainer": "センリ",
       "page": "Norman",
       "party_index": 3,
-      "party_sha256": "5809e4c33e839f9596462ea62af62e33f7e4cffd1c80312d6fc18fbe255afd19",
+      "party_sha256": "544d14e9acc7f57b3e0e362ee1593d4db7ed557fb0b0aa8299bc24b735f878d0",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38354,7 +38354,7 @@
       "trainer": "センリ",
       "page": "Norman",
       "party_index": 4,
-      "party_sha256": "18c0b806605eb7c6dae51bf4818e48f6c5178444bdf4b65106a7502da9fd21d3",
+      "party_sha256": "e9ef9393c103f8ec19131510c3b61a68163474e77d17abd0c9b29508eba5d289",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38375,7 +38375,7 @@
       "trainer": "センリ",
       "page": "Norman",
       "party_index": 5,
-      "party_sha256": "c250319faf19f66a0fc0ffb2ebacb12c51beb79b1512fd726173620870618a9b",
+      "party_sha256": "da75087d19b4dd145690eea2d786a13c823397cf122a9366a165790355a117cc",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38396,7 +38396,7 @@
       "trainer": "センリ",
       "page": "Norman",
       "party_index": 6,
-      "party_sha256": "93999d0d94e7738a2ffb6403386f634cd1909ab26656c690ad6e6531f48225e4",
+      "party_sha256": "6696c92f6747ecc856492118293e1a10a15562e5e6d4add0faec15a2f47231d0",
       "game": "ORAS",
       "section_path": [
         "In the core series games",
@@ -38458,7 +38458,7 @@
       "trainer": "ナギ",
       "page": "Winona",
       "party_index": 0,
-      "party_sha256": "d80d97f02477d7c0f0fd0bd1434489122ffb321da6247841fa5d8a595f503258",
+      "party_sha256": "91a1e95ad59074f04f65aaa97778173f7b8dd71e80a2e9258e7eeca671e31037",
       "game": "RS",
       "section_path": [
         "In the core series games",
@@ -38545,7 +38545,7 @@
       "trainer": "ナギ",
       "page": "Winona",
       "party_index": 1,
-      "party_sha256": "21e3521db5de972fab57ece45190bbc021bc7e94b6f76454279066155800c6c7",
+      "party_sha256": "443fb064f70723b7e469c90a9939a185eaf3b40c8bc4e3c03ea2eda941f6428c",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38611,7 +38611,7 @@
       "trainer": "ナギ",
       "page": "Winona",
       "party_index": 2,
-      "party_sha256": "eb1d5e57aeeeca842edf5f31d8e3092020957ccbea3f89f1397fd40041e4617a",
+      "party_sha256": "5e3e66a7f2b83627ef2442a61d2a106b19260fe38568bd55ab865a764511f153",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38632,7 +38632,7 @@
       "trainer": "ナギ",
       "page": "Winona",
       "party_index": 3,
-      "party_sha256": "af0168bb63fbb36dd55be4aa607ca8f61ff718c2f76e74425133971a37a3418c",
+      "party_sha256": "782b2e917b56dcc4024a8fd0f82ba964518db9edbf9660019188c2288afea900",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38653,7 +38653,7 @@
       "trainer": "ナギ",
       "page": "Winona",
       "party_index": 4,
-      "party_sha256": "669d727e6f24f0b39347c4b66623f1230792abf5d260b4c88e2045910a4866ec",
+      "party_sha256": "701ddfdf50223743bebdb495e196d1f0815545db77af0ef3ac21489e59e4bd79",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38674,7 +38674,7 @@
       "trainer": "ナギ",
       "page": "Winona",
       "party_index": 5,
-      "party_sha256": "93638510fb3785a12cfa49dfc79e6f00164f472c5a4ab88278ad26f51958c13f",
+      "party_sha256": "c94030df0e000e9e9c962977ac93bd33ef66218c9189a04bee9ec9cf18cc3562",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38695,7 +38695,7 @@
       "trainer": "ナギ",
       "page": "Winona",
       "party_index": 6,
-      "party_sha256": "1bf2287466fd6607a4a248291f61976ac9a924e7bdbed5267977721371b2a7a9",
+      "party_sha256": "5ed4bbf7629d5c07667618a24594ee178f743855733e8bc91cdc4a6abb595477",
       "game": "ORAS",
       "section_path": [
         "In the core series games",
@@ -38756,7 +38756,7 @@
       "trainer": "フウとラン",
       "page": "Tate and Liza",
       "party_index": 0,
-      "party_sha256": "01ad6291a215974288cfb9a29885f1b64a03dc3e1f2f6749fb14fcfbc91dda4d",
+      "party_sha256": "b48f01ce92f6e00e07b03a0f695e89430d9ef52308386d14c1a4935ea0ff334b",
       "game": "RS",
       "section_path": [
         "In the core series games",
@@ -38843,7 +38843,7 @@
       "trainer": "フウとラン",
       "page": "Tate and Liza",
       "party_index": 1,
-      "party_sha256": "1a2040fa3b8567d789edc852ff1c1eaeb65a78a8943e84c64fdfd866be73b521",
+      "party_sha256": "9cb6f77688c3e2aaf2f9b55d48c1c668f63cd7a896a3bd6e32097e9e36b75d87",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38911,7 +38911,7 @@
       "trainer": "フウとラン",
       "page": "Tate and Liza",
       "party_index": 2,
-      "party_sha256": "94b25aaf55b447c7590d6e8188cd0a43864f39d9cc9b81948cd928bbafeda152",
+      "party_sha256": "2b7a89f0d03b7741f3ff871b110b6d04f3df8ef9426e1ea561f92b82c8bb6a1c",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38932,7 +38932,7 @@
       "trainer": "フウとラン",
       "page": "Tate and Liza",
       "party_index": 3,
-      "party_sha256": "1321156a3e230c772c33a6078c9ceeefda7db93c483a4ffa4c78eebecd879741",
+      "party_sha256": "a870873d5b4a31fb5c7341531702b574beec1e3f47e7294402816a98111d7c5c",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38953,7 +38953,7 @@
       "trainer": "フウとラン",
       "page": "Tate and Liza",
       "party_index": 4,
-      "party_sha256": "4a5e97e9db622038a41040feec4e2e22fc67d70c5d060d77fba13459842cd367",
+      "party_sha256": "64512d1f2cda1246e685f4a4648d73961cc3d7be3ec0ed16c1e9442b086ef46c",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38974,7 +38974,7 @@
       "trainer": "フウとラン",
       "page": "Tate and Liza",
       "party_index": 5,
-      "party_sha256": "e403b79a9f1dab146213d045009e04b0075ad22e5f24727b561477176cb97fa8",
+      "party_sha256": "e76de060e2d95c9bdb907b5005037aef813d23789db1b912491e9ce9474e541f",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -38995,7 +38995,7 @@
       "trainer": "フウとラン",
       "page": "Tate and Liza",
       "party_index": 6,
-      "party_sha256": "583dbaf9bea5433e84861ce1cfdfc29735780bbf744d3f86fa159386fa789f2d",
+      "party_sha256": "e5d3d62660881d6423bc09ff0978716cf6a3bbbd26a6248d9f4cb0583ed5f52e",
       "game": "ORAS",
       "section_path": [
         "In the core series games",
@@ -39056,7 +39056,7 @@
       "trainer": "ミクリ",
       "page": "Wallace",
       "party_index": 0,
-      "party_sha256": "eb3d5c6dd28dcfec789902bd59b3f32e7c5b186f7e02667114ac60e3e880bca8",
+      "party_sha256": "86437e7705e861e6a9745ccffc2123f09cfcec1e715627f808147ba678d322a4",
       "game": "RS",
       "section_path": [
         "In the core series games",
@@ -39143,7 +39143,7 @@
       "trainer": "ミクリ",
       "page": "Wallace",
       "party_index": 1,
-      "party_sha256": "446f0ef60f472eaab0f0c87af8631ec7f1abf0edd130c0a6eec3444cdacce938",
+      "party_sha256": "849a93f0025feb78b790f4dd655dc34ee87a71f4eb87b84da153333772e541d1",
       "game": "ORAS",
       "section_path": [
         "In the core series games",
@@ -39205,7 +39205,7 @@
       "trainer": "アダン",
       "page": "Juan",
       "party_index": 0,
-      "party_sha256": "6ccafdfc8be8c0c744434476967ae18e4a3a0e22a6a8bb40ac2c5aa24e1505f4",
+      "party_sha256": "cdad6821f93759cb8ee5811f21211a550d96b0d65512dfb6a9382d3fff1bf676",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -39271,7 +39271,7 @@
       "trainer": "アダン",
       "page": "Juan",
       "party_index": 1,
-      "party_sha256": "fc3416344b435d45d5804b71fe502b0a335ca52fe4fc7b36e72b0f03321a74cd",
+      "party_sha256": "00774346cf8c8bb8f3c893d7f5f06bf6321624a3b33e89172ad8e8d31121b756",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -39292,7 +39292,7 @@
       "trainer": "アダン",
       "page": "Juan",
       "party_index": 2,
-      "party_sha256": "2e6a5e67b15b234c67baf615b2733492fc634e516b813a6fe1ec76f9706845aa",
+      "party_sha256": "d2111210c1b04cc85b63a418b87c93ce95ed1f276484ac0d5d90a040477a606f",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -39313,7 +39313,7 @@
       "trainer": "アダン",
       "page": "Juan",
       "party_index": 3,
-      "party_sha256": "5239fe729e5de11f8a47ab5efac61cc5648c2bcbc8f106ac2ce2be223562c597",
+      "party_sha256": "b5b2467cd3cdf834b3167978be792e8ab0196e7a8e8436af02decf659cf65fae",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -39334,7 +39334,7 @@
       "trainer": "アダン",
       "page": "Juan",
       "party_index": 4,
-      "party_sha256": "f9ea79c804ccebbbcb6ae1fc1f579c5a1dc9786bad8bcec3d9b8c1ff31cc02c0",
+      "party_sha256": "d6bb0ebb33bf2f965aa09eb0a02537dbb35e4d1e94996a6edd6a97a15c7240cc",
       "game": "E",
       "section_path": [
         "In the core series games",
@@ -39355,7 +39355,7 @@
       "trainer": "ヒョウタ",
       "page": "Roark",
       "party_index": 0,
-      "party_sha256": "6d6efd874a7b93a8e91ff9c58d1b0387a685ee8d69d6ccb6d959d6951863a0d2",
+      "party_sha256": "ca1518a5c43f1061aa48e4215c3dc01f9ffffd7b4979186c06710941e6b29f30",
       "game": "DP",
       "section_path": [
         "In the core series games",
@@ -39418,7 +39418,7 @@
       "trainer": "ヒョウタ",
       "page": "Roark",
       "party_index": 1,
-      "party_sha256": "6dc68ad0f8f9c1550b86fa37f5d8ffb3f530accacedf1dd0fd3b1a893657bbf0",
+      "party_sha256": "748c0e74ce321cf49c191d7fe4de76e0eaf0b0191b543e8e340d86e0453eba3f",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -39482,7 +39482,7 @@
       "trainer": "ヒョウタ",
       "page": "Roark",
       "party_index": 2,
-      "party_sha256": "4624d8800b1620e68888b888eb294e3aeedbf4fcf41fbbfe991522f1597f4487",
+      "party_sha256": "776d65ca29f69a716c758f92f8a3ef5fa4c537b6b89f3a28aa1b2e431b1d5f58",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -39503,7 +39503,7 @@
       "trainer": "ヒョウタ",
       "page": "Roark",
       "party_index": 3,
-      "party_sha256": "1eb4cea384b5590cce7d77f7b61c9d0aec73633f77ed29f66b81de7f6a2b0c73",
+      "party_sha256": "898b4bad05adf10b107bc4a6c645db487b2ad599e10e31e4bdae74cd4992fcc3",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -39565,7 +39565,7 @@
       "trainer": "ヒョウタ",
       "page": "Roark",
       "party_index": 4,
-      "party_sha256": "0d909e3254936f96d699caae8ad1a6fa0b151d29da49e2ce3d962f98ce1c2a1b",
+      "party_sha256": "05e841ad93a6f0dfb98a76da78e2f773b1524b6f811fcf3cf6130673261f7288",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -39627,7 +39627,7 @@
       "trainer": "ナタネ",
       "page": "Gardenia",
       "party_index": 0,
-      "party_sha256": "0e914041d7c399b9a63905918ba76a6920342e56b31511fb0441e4816078b979",
+      "party_sha256": "82aa4d5d58062d1c22ce8295a42c54857ebe6f1de04b696fba107b561dc2bc94",
       "game": "DP",
       "section_path": [
         "In the core series games",
@@ -39715,7 +39715,7 @@
       "trainer": "ナタネ",
       "page": "Gardenia",
       "party_index": 1,
-      "party_sha256": "7329238f7235ddd931e19df55313965df7e3827052eb4e6c8c60180874856c82",
+      "party_sha256": "856a29276af1faa5e86bf32a23b8a55799ede96214617746ca6fd115219ceb44",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -39781,7 +39781,7 @@
       "trainer": "ナタネ",
       "page": "Gardenia",
       "party_index": 2,
-      "party_sha256": "5c0a507fa4713cadb7ae377e673e7473c9cf2e8b4421281191bdfb5071269cfc",
+      "party_sha256": "c05e3493e24fd8ee8b6bd72582e97bc9492a0785077ec0762fa42068d110f5a0",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -39802,7 +39802,7 @@
       "trainer": "ナタネ",
       "page": "Gardenia",
       "party_index": 3,
-      "party_sha256": "6d4383d7bb377dcb34be071940a6690e2c2efba5e65982a2e3343981c5e822b8",
+      "party_sha256": "94c48a1b678ae995e3f34ce27aeaeea86b8fe30e4a9c53ac0aa8f32a11d237d1",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -39866,7 +39866,7 @@
       "trainer": "ナタネ",
       "page": "Gardenia",
       "party_index": 4,
-      "party_sha256": "dabbf6c10fefd4643a1fc7197cbd3a5342f482fa7b40b434cc8460cf099cbba2",
+      "party_sha256": "e1379ac2b1feba0e2df760b50ab35e04c5210b1f669fcd4194c8ff3842e020cd",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -39928,7 +39928,7 @@
       "trainer": "スモモ",
       "page": "Maylene",
       "party_index": 0,
-      "party_sha256": "e61aceafc802d9a4e007726f0d969f7032fcd0f2028f6304659c631c6c68354f",
+      "party_sha256": "1e011eed590f9feebce5e830d126322190b7ad2cf00f70306d43dc57dad3cd4c",
       "game": "DP",
       "section_path": [
         "In the core series games",
@@ -39993,7 +39993,7 @@
       "trainer": "スモモ",
       "page": "Maylene",
       "party_index": 1,
-      "party_sha256": "4a88cd0336f8f8a85e29eea6e4a63b7351e7336afbbfc6180aa0e2c848253166",
+      "party_sha256": "dc4f4d0e4e69d2731b4210087c990ebd659f682b285ca14ef6089feb83a4ff31",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -40057,7 +40057,7 @@
       "trainer": "スモモ",
       "page": "Maylene",
       "party_index": 2,
-      "party_sha256": "dc023c8866cc6590699a2cb400ea74585337e2b0774ce6d711cfc971b3e61b11",
+      "party_sha256": "bc580ea68dd3edcd709b1ef8ed9d1a25855369fe3e553177e133922bedc74460",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -40078,7 +40078,7 @@
       "trainer": "スモモ",
       "page": "Maylene",
       "party_index": 3,
-      "party_sha256": "4eecb2acfd722de95e0f43461391fddf7a9d502981fa10e883530292305094ab",
+      "party_sha256": "a78b016febfc981eb1e8ecc30c3a6cb8f5abbc0cd6bba7cdbc3c8c5e4a9224c7",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -40140,7 +40140,7 @@
       "trainer": "スモモ",
       "page": "Maylene",
       "party_index": 4,
-      "party_sha256": "cf45936a831f050e227d2e204c5b1131298a31ff93e3d176fa77a477c4df7633",
+      "party_sha256": "167a4a9f005a0b5045ae260127ce713481bba9a0c811a4b11cab56e639153597",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -40202,7 +40202,7 @@
       "trainer": "マキシマム仮面",
       "page": "Crasher Wake",
       "party_index": 0,
-      "party_sha256": "748992c7a103ef319b74211613eb207831826fdfb7f33a85d58ecdfc2eb23e22",
+      "party_sha256": "a86e9c8b24e48ce577d8ecd5aec654578f6dee24e59ef3b96a2ca47928500be4",
       "game": "DP",
       "section_path": [
         "In the core series games",
@@ -40267,7 +40267,7 @@
       "trainer": "マキシマム仮面",
       "page": "Crasher Wake",
       "party_index": 1,
-      "party_sha256": "def50ac4fc5124361f19697931c1fcacf0904b4ff718da4ce68095b423b390e1",
+      "party_sha256": "5ee8c4124dbb8333d6996f7f44b43717ee29f0c00570580071fc64d5fcd3772c",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -40333,7 +40333,7 @@
       "trainer": "マキシマム仮面",
       "page": "Crasher Wake",
       "party_index": 2,
-      "party_sha256": "b339f9b61b0f2860a8ae7c79e31d4c8833748a7250d7f997ce3fdeecd50cb59e",
+      "party_sha256": "ce1f1b96f6b1abb52fec73a03ae06bf2685d384d8acfae18d3ed023dedc527c8",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -40354,7 +40354,7 @@
       "trainer": "マキシマム仮面",
       "page": "Crasher Wake",
       "party_index": 3,
-      "party_sha256": "c8ae280d95efd7f8d40364c317fbbddfa9d65a0d5d673ad3649965a3f0bfe629",
+      "party_sha256": "0fbfdcd9b98a09b849861e1e52344790364bb441c007201d5f7a668c9771150b",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -40416,7 +40416,7 @@
       "trainer": "マキシマム仮面",
       "page": "Crasher Wake",
       "party_index": 4,
-      "party_sha256": "6fc9dd31a63e74daaedb116b17238d66614184d5b8d2761a7294501ec5a19a96",
+      "party_sha256": "c6457295f4dca9dc9ba770520b355b6060f9bf24986d25cc17f78c77c80421b6",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -40478,7 +40478,7 @@
       "trainer": "メリッサ",
       "page": "Fantina",
       "party_index": 0,
-      "party_sha256": "cf9fbdba39254cc71abb1bb31b2e7a57029f5b4f04536e2cd760c735bb709f3f",
+      "party_sha256": "3da65a66295e36bdba7dc86624ed7683a4ad6d5ae75d4770a2f8f611cef49d9c",
       "game": "DP",
       "section_path": [
         "In the core series games",
@@ -40543,7 +40543,7 @@
       "trainer": "メリッサ",
       "page": "Fantina",
       "party_index": 1,
-      "party_sha256": "3ab77faf0cacf363d106b579b2cba4ecad20ee918964b4d0d0a64bdff6cc5703",
+      "party_sha256": "862326512f2dbfa2b3db57c9d195d1166028fc1e695410f027f08374a4acf336",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -40609,7 +40609,7 @@
       "trainer": "メリッサ",
       "page": "Fantina",
       "party_index": 2,
-      "party_sha256": "c4fe21b2b7a95508def6aff4dcd78bc6374adfafd95a3f00092e63e7f4ded1c1",
+      "party_sha256": "a0cd2285547721af4585dabb063d0d550c912ddebb4b6c40ce90d2479b88781c",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -40630,7 +40630,7 @@
       "trainer": "メリッサ",
       "page": "Fantina",
       "party_index": 3,
-      "party_sha256": "7107aa15c828516bad476acfe44c79fb048dd0a25f278a138a40013efd6b362b",
+      "party_sha256": "65eca4e57a22b96e8348acb9eb51a25b573dd8f96572081dc64ac8399cbfe04d",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -40692,7 +40692,7 @@
       "trainer": "メリッサ",
       "page": "Fantina",
       "party_index": 4,
-      "party_sha256": "e4541125fbfffb654ea1cd4400172214ba014cda5268794170d47931d07cfe60",
+      "party_sha256": "4320d611964bdd00ca38e0ab5b8c18ad3c18ed0a3e13067cb8bb14973beb26f6",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -40791,7 +40791,7 @@
       "trainer": "トウガン",
       "page": "Byron",
       "party_index": 0,
-      "party_sha256": "fa7e30ec981b4f61511246b9db771f8844e008f77d4ca850672a3bcac6fbba3f",
+      "party_sha256": "a00321e7b04589580a48f58cc327301a2b81df9964a68d5323aad1aad71fbab7",
       "game": "DP",
       "section_path": [
         "In the core series games",
@@ -40880,7 +40880,7 @@
       "trainer": "トウガン",
       "page": "Byron",
       "party_index": 1,
-      "party_sha256": "0fa27b29b9d15679581aa09e28ca347222844f24f68115b514cd04f9808db4ee",
+      "party_sha256": "b0f79172ea27951f6cbcfe482e837aab6e3ecec7ac35a1fe5859df3af93bbf68",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -40948,7 +40948,7 @@
       "trainer": "トウガン",
       "page": "Byron",
       "party_index": 2,
-      "party_sha256": "692af4b6d30fd1b0ab7ac26c7a1aacc38b945517e0ae9684592870d91aff0e95",
+      "party_sha256": "4853640bfc4637ec9965d101524a8ed3820f7962bd1145780925974dec73fa40",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -40969,7 +40969,7 @@
       "trainer": "トウガン",
       "page": "Byron",
       "party_index": 3,
-      "party_sha256": "ce5dd3fb7ca716788b7585587e388ecdaf182c85e45fafe6dacec1aa85900bdf",
+      "party_sha256": "7e73e4114e4ba2e3580aa5ed9699fad162739e26de6b682b3bd37ce432e70c4d",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -41035,7 +41035,7 @@
       "trainer": "トウガン",
       "page": "Byron",
       "party_index": 4,
-      "party_sha256": "d54e39d4fc17b1d59f4d5fae76c20b7e7a13a67c299544cc6463f1f1ef64bc0b",
+      "party_sha256": "6bd06cf071bd0e07c0054513499aae87e45b974cafbd9292759ad46d324d01b9",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -41114,7 +41114,7 @@
       "trainer": "スズナ",
       "page": "Candice",
       "party_index": 0,
-      "party_sha256": "4be1b83fd33971e5edb12ba4b4005f7fa737ffc44b60159fe279211c72bb129f",
+      "party_sha256": "5f9edcab99397264e0b18ef4183bae1d482a1ec0ec1ad79f179f8b9da778322b",
       "game": "DP",
       "section_path": [
         "In the core series games",
@@ -41177,7 +41177,7 @@
       "trainer": "スズナ",
       "page": "Candice",
       "party_index": 1,
-      "party_sha256": "a078cab37d9768c473d48d519b34fae102f2fe3c07a9dee31d21d2780689f736",
+      "party_sha256": "1a40dbfa2cfbfea045c02aa05a18ef798856d6e3ecc3ddeb45456ed12bff542e",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -41243,7 +41243,7 @@
       "trainer": "スズナ",
       "page": "Candice",
       "party_index": 2,
-      "party_sha256": "396c73d8355485f9b74808c3402bd148d758a94a5c2a7f1faddc493906dbe8e6",
+      "party_sha256": "a0271a9ef5867f8311898175db0823cf1f2fe285b9954d5bf2e0917aee042253",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -41264,7 +41264,7 @@
       "trainer": "スズナ",
       "page": "Candice",
       "party_index": 3,
-      "party_sha256": "c43347a51cdae3501b8018adc64b7c5851d314990aa43a9bd2b791fde402b394",
+      "party_sha256": "16792d33ef94118dd6f9243cb9b9ce9de594f9d8654f6c67e291e0be7b1adfa6",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -41326,7 +41326,7 @@
       "trainer": "スズナ",
       "page": "Candice",
       "party_index": 4,
-      "party_sha256": "1c1fe959ecae1ea453b17f6fc425bf9db4b672b0f9ebd64ff705f8c27e11e8d4",
+      "party_sha256": "6f115bc147ac80cd08c50cc3716f1b02f3b73ba2826d4a7835d76b4c82d58eb4",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -41388,7 +41388,7 @@
       "trainer": "デンジ",
       "page": "Volkner",
       "party_index": 0,
-      "party_sha256": "a72ceeccdd41e9f222c103a56030f26894b4f7723aaadd7160e2877f9fbf1d97",
+      "party_sha256": "c3f4eed7adc94f3fbe75f9052e4e8193b34fa503b095a8ab2e809dbb39e3ad47",
       "game": "DP",
       "section_path": [
         "In the core series games",
@@ -41451,7 +41451,7 @@
       "trainer": "デンジ",
       "page": "Volkner",
       "party_index": 1,
-      "party_sha256": "05a63aaed5c1ff456c969bef264ecfe4c1544e7bcfa9467925f193d33f6c32df",
+      "party_sha256": "b6d0f714a0013503d7a17dc5b6139f72bdbad4cf9db20cd2c9447975fcd33844",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -41515,7 +41515,7 @@
       "trainer": "デンジ",
       "page": "Volkner",
       "party_index": 2,
-      "party_sha256": "56c9084e4384ef29a63ec6aeda1db703b97f0edddfe3085bcd64d1b2e6f1ad68",
+      "party_sha256": "6ef25b922741721158fc8da76dc70d507fc39e6b726740c9c8678f7f53f7aeb7",
       "game": "Pt",
       "section_path": [
         "In the core series games",
@@ -41536,7 +41536,7 @@
       "trainer": "デンジ",
       "page": "Volkner",
       "party_index": 3,
-      "party_sha256": "177735a5c3fab2645b7eb22a6859ffaa4045c6aa7ee1ea844e5a32206e9ded05",
+      "party_sha256": "206595fa71a3df12586c96a3e040553482680d0c9424615e69881ec4ebc6abe1",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -41598,7 +41598,7 @@
       "trainer": "デンジ",
       "page": "Volkner",
       "party_index": 4,
-      "party_sha256": "d7296e2354e29884e9ccd6ba2bf822c431785918ef842c5300ce4fb4ac537fd6",
+      "party_sha256": "2029f039a8d982598358b77252f5fb262d4cded5969fcd54c174feba5fe93ad3",
       "game": "BDSP",
       "section_path": [
         "In the core series games",
@@ -41697,7 +41697,7 @@
       "trainer": "デント",
       "page": "Cilan",
       "party_index": 0,
-      "party_sha256": "508fdd820c46a56628e56773c1d92d1fb855ffd6cae91267ff406d10f4f0faff",
+      "party_sha256": "62782f3e1c8bdcc9b5dd2f394d1b40539730b4e67871c8c58c65fad1e0f7740d",
       "game": "BW",
       "section_path": [
         "In the core series games",
@@ -41758,7 +41758,7 @@
       "trainer": "ポッド",
       "page": "Chili",
       "party_index": 0,
-      "party_sha256": "dae5597548285b13fdbfb8393d5f72ada7ad015ca8b300be14169c9e01f5d45f",
+      "party_sha256": "419f557a1c2ca15c612f86e836268744ad369371ee50f8847188cf6137f2d239",
       "game": "BW",
       "section_path": [
         "In the core series games",
@@ -41819,7 +41819,7 @@
       "trainer": "コーン",
       "page": "Cress",
       "party_index": 0,
-      "party_sha256": "7b0978cf98cba325bc3cb300ea3960a7ca0ce5496b533f6024a73b08945bc076",
+      "party_sha256": "4a33a5b6bc03ebb73d051099bd0212b6597b01601bfb7d5dfc8f69a188e84371",
       "game": "BW",
       "section_path": [
         "In the core series games",
@@ -41880,7 +41880,7 @@
       "trainer": "アロエ",
       "page": "Lenora",
       "party_index": 0,
-      "party_sha256": "309dd765415af2d8791ac12aa612edf1f362cb77a95e1294dc6762b5617d77a1",
+      "party_sha256": "c0ded314dbabc666374e8dab177e96683f4d102b08d4039643542554ffac192f",
       "game": "BW",
       "section_path": [
         "In the core series games",
@@ -41941,7 +41941,7 @@
       "trainer": "アーティ",
       "page": "Burgh",
       "party_index": 0,
-      "party_sha256": "482b27fd7f83af58ddd5428f3d45970aff9f5668493c482bb7e68ceaa218efeb",
+      "party_sha256": "a4267fc818a00c4fcadd90ff034bd74915ac15e7f0fd678b0e9e4c6c455fc6af",
       "game": "BW",
       "section_path": [
         "In the core series games",
@@ -42002,7 +42002,7 @@
       "trainer": "アーティ",
       "page": "Burgh",
       "party_index": 1,
-      "party_sha256": "9f4b288a4195d9620d12cb94fac39f2176e27528d3a921383b4a4f861bbfd6e0",
+      "party_sha256": "93b097156ae61774d526be5aff19ac149b315eeda442c6966c80f79bde827d1e",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -42101,7 +42101,7 @@
       "trainer": "アーティ",
       "page": "Burgh",
       "party_index": 2,
-      "party_sha256": "26d89d4696f3a46832be7e0dd12219cda29dd508bfb778bbb6b4019b6c7f3056",
+      "party_sha256": "2b8557060217fc54127bcaa48c229a784f3f289654ee964f14d06932c34a812e",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -42123,7 +42123,7 @@
       "trainer": "カミツレ",
       "page": "Elesa",
       "party_index": 0,
-      "party_sha256": "55d8710b7a6a0f1a6b756e075f108f278e124d1e9bebb17b83aa76837200d853",
+      "party_sha256": "887c5afe8b41c3bb892596dcc9c831e0d391383695aaf15b3ae902589b977d2f",
       "game": "BW",
       "section_path": [
         "In the core series games",
@@ -42184,7 +42184,7 @@
       "trainer": "カミツレ",
       "page": "Elesa",
       "party_index": 1,
-      "party_sha256": "b73f715c369b235da6b29dd9ff1abfaa522f91962b0ac2baf37588ef301df700",
+      "party_sha256": "a0fa541156d18d2f3b77c25fcbddcd098d71e776259748efb7e2bf679ee03dd6",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -42453,7 +42453,7 @@
       "trainer": "カミツレ",
       "page": "Elesa",
       "party_index": 2,
-      "party_sha256": "bf558609e1ec1ec0a388cce2285206fbd7235255f7d606b49d619b8e841f09b5",
+      "party_sha256": "70498ac6e093d2481262ab328f90a36a28e7f02c0d406a94f4fbfdfecf275dae",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -42475,7 +42475,7 @@
       "trainer": "ヤーコン",
       "page": "Clay",
       "party_index": 0,
-      "party_sha256": "5db63548793e8eb3ca34514c706532c02c6298bbbdd836c4316fcfc8c62d7c53",
+      "party_sha256": "92ffca183bca0293fd2073664cc48e0f74aeb65dd086663533e6e6fed41ac3a7",
       "game": "BW",
       "section_path": [
         "In the core series games",
@@ -42536,7 +42536,7 @@
       "trainer": "ヤーコン",
       "page": "Clay",
       "party_index": 1,
-      "party_sha256": "30bdf7545d2b84be22db3ef48fbf3a9dae23cc27853c9c2da0bc8e20310f5f6b",
+      "party_sha256": "ea9917d9192581ed40739b553deadb890de3c14ef46dea9c099d76c2adeaac28",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -42635,7 +42635,7 @@
       "trainer": "ヤーコン",
       "page": "Clay",
       "party_index": 2,
-      "party_sha256": "6ae2fb3f3e40c751e50c3221998bbf0e63daf12de887a39802b7a99906227e15",
+      "party_sha256": "de5db726c72fd8768221b5609dd29257c64c66723706787c90f4a2bf464cdb65",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -42657,7 +42657,7 @@
       "trainer": "フウロ",
       "page": "Skyla",
       "party_index": 0,
-      "party_sha256": "035bb680b53f68c50523eea9a46e1df3793e30a04d0a8ed964d5a13985739188",
+      "party_sha256": "038efe2df14ef7c5c2559718519298d37deb1dbf3356dc4239228fb0b0e4e213",
       "game": "BW",
       "section_path": [
         "In the core series games",
@@ -42718,7 +42718,7 @@
       "trainer": "フウロ",
       "page": "Skyla",
       "party_index": 1,
-      "party_sha256": "c8e16b2be66430b5e092baa44ea1cff2f25bde9d1050d2b10c841218a2efeaa5",
+      "party_sha256": "fe90327e6a07c18b72d81ba40936d99a482cd24a6e17d51e8bd57db32f8ea3f8",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -42815,7 +42815,7 @@
       "trainer": "フウロ",
       "page": "Skyla",
       "party_index": 2,
-      "party_sha256": "34d6e0bc875af93dc3c54d6ff9393a2db0e950fb38c2aca49ae57526c4e8878c",
+      "party_sha256": "afc7a8e8ece3ae44b1e8fb6b3ebea98795b099ef0cd6856b44c32a4e40f5ab37",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -42837,7 +42837,7 @@
       "trainer": "ハチク",
       "page": "Brycen",
       "party_index": 0,
-      "party_sha256": "605acd7f72648cc7c1f21f83eefe4614562e963e29f67672ee8504b766231c48",
+      "party_sha256": "ba54ef5fa0c3837b4c61c236f24ad1e0671d9d0bbd1e9329ed27b6059f28bdb7",
       "game": "BW",
       "section_path": [
         "In the core series games",
@@ -42900,7 +42900,7 @@
       "trainer": "アイリス",
       "page": "Iris",
       "party_index": 0,
-      "party_sha256": "fd098e9a145d603d8d25dfd0bb17db1c9ac3692852e33d17f5f377a7d6794cda",
+      "party_sha256": "29458eecf53f563429a044c5b306ed30122bf45e97026cddb85b40c3120d0542",
       "game": "W",
       "section_path": [
         "In the core series games",
@@ -42962,7 +42962,7 @@
       "trainer": "チェレン",
       "page": "Cheren",
       "party_index": 0,
-      "party_sha256": "fab78c0ef3206f59eb5771dc95f87f3a2730ddb838d2eebcebf2246c8aafe1e3",
+      "party_sha256": "5be8e6c7e84350d1dd9bf6c8c18590d404726101b9037b3d2acc6396e9c4ebb4",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -43193,7 +43193,7 @@
       "trainer": "チェレン",
       "page": "Cheren",
       "party_index": 1,
-      "party_sha256": "73cf729bc739a5abdf372f7731163701c79a4c564a4d2dacc8ce5e2604de24f8",
+      "party_sha256": "3a760b377190551dd2ffd7c814caa5509056630785f134acb536a476b8ffdc04",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -43215,7 +43215,7 @@
       "trainer": "ホミカ",
       "page": "Roxie",
       "party_index": 0,
-      "party_sha256": "8f4360db761c897f9b130f9ac4828bcbdf4497d00a59fa28cc0c75f94bef916f",
+      "party_sha256": "be290dc0d826378243529696df4c0dde416260c337674445ce2443cbe5ced477",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -43378,7 +43378,7 @@
       "trainer": "ホミカ",
       "page": "Roxie",
       "party_index": 1,
-      "party_sha256": "59b53d93322fd0b1150d3a40be3488ef5dd39ddd2a9b64466b5767dabd387a1b",
+      "party_sha256": "ccb5f1c0abbd8375ea29d13967e65e16645aec3a52eaa71e3dd6ac7509e38079",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -43400,7 +43400,7 @@
       "trainer": "シャガ",
       "page": "Drayden",
       "party_index": 0,
-      "party_sha256": "5b5423e7c7679d0dc9de217ac185812564ceaa1c0b550dd04b50ec9cbd1b5697",
+      "party_sha256": "3b9a5d8d9420719cf4c9f8398bd6e55fd0cb319b16464a5768dfa47c3de45d2f",
       "game": "Bl",
       "section_path": [
         "In the core series games",
@@ -43462,7 +43462,7 @@
       "trainer": "シャガ",
       "page": "Drayden",
       "party_index": 1,
-      "party_sha256": "6877a2b8db275aacb00486ccca13744181ca91fa49839012bf4b38b343765eb0",
+      "party_sha256": "6085d9a35b1a1b3b49bd713308768f01452f6b9f91fc4b345cdae245235c4942",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -43561,7 +43561,7 @@
       "trainer": "シャガ",
       "page": "Drayden",
       "party_index": 2,
-      "party_sha256": "ee36b6a76dd67a56f8aecf5b77e0f40e52493b6b17bac70f612065935f94ea1b",
+      "party_sha256": "0dfed203c7f0140b9924d22cb686eb0163dc7dee5e1b57668c546b7caa49567e",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -43583,7 +43583,7 @@
       "trainer": "シズイ",
       "page": "Marlon",
       "party_index": 0,
-      "party_sha256": "2d824debc65e6f017d23a92af44ea94b69d343a78fba22bb789e9618c0d5162d",
+      "party_sha256": "882399689576bf36eb546fc8d28452b25c146cf9f1aaa91bd93f30e65f11b772",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -43682,7 +43682,7 @@
       "trainer": "シズイ",
       "page": "Marlon",
       "party_index": 1,
-      "party_sha256": "a478cd7b409e407916752651e5018cd574a0a4db6c9548e79d61cc2544afd0c2",
+      "party_sha256": "c895559b8c46055b5be934bb6d6aea129660303e225ba914a2895161432e4391",
       "game": "B2W2",
       "section_path": [
         "In the core series games",
@@ -43704,7 +43704,7 @@
       "trainer": "ビオラ",
       "page": "Viola",
       "party_index": 0,
-      "party_sha256": "733072fa54bef0146fcd89e37a733e786fc5a3134965280af911fed265003d22",
+      "party_sha256": "7ecf430eb4c03a9b3dc96a2d5ab3a7fd5e1778d57bc64b5e149fa8943e89aba6",
       "game": "XY",
       "section_path": [
         "In the core series games",
@@ -43766,7 +43766,7 @@
       "trainer": "ザクロ",
       "page": "Grant",
       "party_index": 0,
-      "party_sha256": "71728b1059fc43bd53dcce3a0ca7dc21a4fb1cc14a1f8e2493fb806d27092b06",
+      "party_sha256": "f14257150ee529c65e54a4fae3fea11f8bf479c64a01766b57144e0e7d956e68",
       "game": "XY",
       "section_path": [
         "In the core series games",
@@ -43828,7 +43828,7 @@
       "trainer": "コルニ",
       "page": "Korrina",
       "party_index": 0,
-      "party_sha256": "244fd49ff99fe94fa0e881ca1ae5be3797b3e84f95c6f440135ab808da333305",
+      "party_sha256": "3e67259d4b42ece629316ac3ff5d1579461c4827bf3b08f18720ed833e42744d",
       "game": "XY",
       "section_path": [
         "In the core series games",
@@ -43892,7 +43892,7 @@
       "trainer": "コルニ",
       "page": "Korrina",
       "party_index": 1,
-      "party_sha256": "31fac376721a2ab85e0dda158386afd9b92b473db9898c95a32ba0f5f72b5625",
+      "party_sha256": "2a04f9a8a1e49a82876ea88df442e123cbb18e9725302a17e59dba995d92e4a8",
       "game": "XY",
       "section_path": [
         "In the core series games",
@@ -43954,7 +43954,7 @@
       "trainer": "コルニ",
       "page": "Korrina",
       "party_index": 2,
-      "party_sha256": "7051687feefde755979675f2f45688ea23fdf415aa574a7929555619d8236ba6",
+      "party_sha256": "d00149b0a424c78e075697b4b5cbcc3058511c13fce97cad6451640c45fbbe1c",
       "game": "ZA",
       "section_path": [
         "In the core series games",
@@ -43976,7 +43976,7 @@
       "trainer": "フクジ",
       "page": "Ramos",
       "party_index": 0,
-      "party_sha256": "839f8b00ad91e15995e6cfc35e95f2d2c5a42dc12a1d9291657770144308c2e8",
+      "party_sha256": "4443223a85f5f42b5e810413d1b7677ee99d3ada32d8b2b5e0acb184db7a11f2",
       "game": "XY",
       "section_path": [
         "In the core series games",
@@ -44038,7 +44038,7 @@
       "trainer": "シトロン",
       "page": "Clemont",
       "party_index": 0,
-      "party_sha256": "1f9305ed98ea6fc5cbc99f63330393066f882e9de290648e49daef464878874c",
+      "party_sha256": "f7b80ff41d843c85aae6b69a97497d13fa50f008d10f5651918f09de849ad0bb",
       "game": "XY",
       "section_path": [
         "In the core series games",
@@ -44102,7 +44102,7 @@
       "trainer": "マーシュ",
       "page": "Valerie",
       "party_index": 0,
-      "party_sha256": "4f689870effb09c7cac089333442a0a1a78659eaeaf68470a86ff3671b529f45",
+      "party_sha256": "0c0a90e1fbf301290a2832420405b9228c53857209259c94da581b7517aac684",
       "game": "XY",
       "section_path": [
         "In the core series games",
@@ -44164,7 +44164,7 @@
       "trainer": "ゴジカ",
       "page": "Olympia",
       "party_index": 0,
-      "party_sha256": "b2fc05eefe8e64158099c0a8b532d23840d23232b725e732e0fa9d9aad352f3e",
+      "party_sha256": "e24efe5540b1e8751b24fa9408fca5f15a97de0e31930277f532cb047e52233c",
       "game": "XY",
       "section_path": [
         "In the core series games",
@@ -44226,7 +44226,7 @@
       "trainer": "ウルップ",
       "page": "Wulfric",
       "party_index": 0,
-      "party_sha256": "0de34e6d943fe96d283469733ff4ef4326ce110547018a50c702ac5ce855feb2",
+      "party_sha256": "a817170d86da74c6679bfd11f705bfa759b5ae03898a60814ee620edd7c84594",
       "game": "XY",
       "section_path": [
         "In the core series games",
@@ -44305,7 +44305,7 @@
       "trainer": "ヤロー",
       "page": "Milo",
       "party_index": 0,
-      "party_sha256": "1ee9f371ac7c196b8fc41f0a8d707243e7ac8ef943a38ae8283c1ef645e363a8",
+      "party_sha256": "db6b79801db8613e3372c0d13ec092288958e1900b81cff5b06057d0b7535923",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -44366,7 +44366,7 @@
       "trainer": "ヤロー",
       "page": "Milo",
       "party_index": 1,
-      "party_sha256": "2acd4b68be684cd6b23f55681f76c429e64235582fbf8ee325be7c361a6a58e3",
+      "party_sha256": "7349fcd20c075a02fd0a51754bcf3c35e9e2e65c3a87e7525ed9181b1cb75198",
       "game": "Sw",
       "section_path": [
         "In the core series games",
@@ -44429,7 +44429,7 @@
       "trainer": "ヤロー",
       "page": "Milo",
       "party_index": 2,
-      "party_sha256": "5a2e3fe295c305a4608b33579e4be533bbac58034bf364a70e0923bbdfac802e",
+      "party_sha256": "4b8688ec317191bd9dba9c9810985c0c17b16867176d81f2378350c46ff684dc",
       "game": "Sh",
       "section_path": [
         "In the core series games",
@@ -44492,7 +44492,7 @@
       "trainer": "ヤロー",
       "page": "Milo",
       "party_index": 3,
-      "party_sha256": "708e406bebbc5d1261e75c78456ab989c2150ad5f305a375d62e04cb508e5d02",
+      "party_sha256": "fb3bf09e1f301e17a5ae240e46667911320d2e100e870062baac0e4385ea2156",
       "game": "Sw",
       "section_path": [
         "In the core series games",
@@ -44555,7 +44555,7 @@
       "trainer": "ヤロー",
       "page": "Milo",
       "party_index": 4,
-      "party_sha256": "e947cf210e85909265e72a29e9f49540c570bed9022be6b824a972c2746577dc",
+      "party_sha256": "2340af1a90c8b6f23ee8ad74f82bc4b0c8c48de698dce573e4a70d51ec1516ea",
       "game": "Sh",
       "section_path": [
         "In the core series games",
@@ -44618,7 +44618,7 @@
       "trainer": "ヤロー",
       "page": "Milo",
       "party_index": 5,
-      "party_sha256": "a7d8608217c60c68a140cb16a23d58c9dee416c47471990a6ad86792cbeb01c9",
+      "party_sha256": "ede2e09075efd265dd0e02999bbe8d7f3e4cd43313e654e30f546db9e7f0a1fb",
       "game": "Sw",
       "section_path": [
         "In the core series games",
@@ -44680,7 +44680,7 @@
       "trainer": "ヤロー",
       "page": "Milo",
       "party_index": 6,
-      "party_sha256": "7114fb17251ba5af04851756a0f7e7c4db7ebeb375a1709e8cc387117544ec22",
+      "party_sha256": "74324e5cb33d120bbbcdbe2213d5a80b66870b90e2b4f7c2a72a62f5ad878e01",
       "game": "Sh",
       "section_path": [
         "In the core series games",
@@ -44742,7 +44742,7 @@
       "trainer": "ルリナ",
       "page": "Nessa",
       "party_index": 0,
-      "party_sha256": "aada32b425bd93490a92d1e7012d39b18bd85799bcd4dbbb8ef36f04e6920056",
+      "party_sha256": "9ba3e0dafcbc35b21ba49c14c37f7759bbf70cbc2c34b2f1d2d75d584612f2b5",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -44804,7 +44804,7 @@
       "trainer": "ルリナ",
       "page": "Nessa",
       "party_index": 1,
-      "party_sha256": "943dc87f8582a71ccffc3ba6013748578e18bfc85fe9c21fdb0b81feaad7fafa",
+      "party_sha256": "bf20e09597b3ac1dd14c801325591942d81b34b953959267bb2b2fa8ae411645",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -44851,7 +44851,7 @@
       "trainer": "ルリナ",
       "page": "Nessa",
       "party_index": 2,
-      "party_sha256": "5f5100dd85caab05a13d121d5b66632ff88523fcbebbdb51674c41c71b00be5f",
+      "party_sha256": "f7229b0a4e3a6f879ed4176094da74abf416f09d67f704afbabb9fb8f2e1ec86",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -44898,7 +44898,7 @@
       "trainer": "ルリナ",
       "page": "Nessa",
       "party_index": 3,
-      "party_sha256": "336c8c4840b64649a77fdbe9ef35b05a528e1bf9e84409cff6e1e671062cf0cf",
+      "party_sha256": "98ce2c5b33208d4b2e958ffd3951c2f72cba208e1f6a73b7056c85ffd9939f07",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -44960,7 +44960,7 @@
       "trainer": "カブ",
       "page": "Kabu",
       "party_index": 0,
-      "party_sha256": "db33c4c678888408ceb2ef15f99b7803978c3378c62c46a7774eb6369218d9c9",
+      "party_sha256": "384c8489799ed477ac2bef1103e326a5ceddf7dbc8c82045fea54ef80e4dc25e",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -45022,7 +45022,7 @@
       "trainer": "カブ",
       "page": "Kabu",
       "party_index": 1,
-      "party_sha256": "245ef2706bb6735426332d6fc8c25886d5523fb6b14c2ba0a8ab0f43200e9507",
+      "party_sha256": "dfe7c91967c58f96a4ed5e01071162af543995fe8a9603c850010acd477d0d2f",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -45061,7 +45061,7 @@
       "trainer": "カブ",
       "page": "Kabu",
       "party_index": 2,
-      "party_sha256": "9748a0744cbd5f4be4f8d4e42cc760830aeea0bf66209507dd6fa8b0f4552354",
+      "party_sha256": "c0deedaa9d5d0832a17ddd9464ac2b1e49bdade9e01bf3c13c1211a457cb88cf",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -45123,7 +45123,7 @@
       "trainer": "サイトウ",
       "page": "Bea",
       "party_index": 0,
-      "party_sha256": "e9b5f0b6bac1014610bf66c40b2da0dbe8ab8ef9ae4cceaa742c8faac20182e1",
+      "party_sha256": "05799f36e598f1273624a8b0e717cf429bff3f33904e292351f87fc7980b4dc7",
       "game": "Sw",
       "section_path": [
         "In the core series games",
@@ -45185,7 +45185,7 @@
       "trainer": "サイトウ",
       "page": "Bea",
       "party_index": 1,
-      "party_sha256": "a68b2a028cd3f278a49729e5a33836711e98bbf3a767aef63790a0dd1c4fb3e4",
+      "party_sha256": "bba357d913bee421bafb89f224c8235a40d01242dcef09a8653aa2deae8cbfb6",
       "game": "Sw",
       "section_path": [
         "In the core series games",
@@ -45249,7 +45249,7 @@
       "trainer": "サイトウ",
       "page": "Bea",
       "party_index": 2,
-      "party_sha256": "550d41956e56d61607b96983d7a84e3f2b41053280087ac8516553df9ca38f99",
+      "party_sha256": "96cf1485998692ffd00043be71807fcfb71dd5b5fcdcca92c20f814dc6e8dd05",
       "game": "Sw",
       "section_path": [
         "In the core series games",
@@ -45296,7 +45296,7 @@
       "trainer": "サイトウ",
       "page": "Bea",
       "party_index": 3,
-      "party_sha256": "6ec7bd55800664876988ce8498b0bdda0e5dec2ac4662cb7b33715f512ce9137",
+      "party_sha256": "6698a7bde14d5ec62f056c5598bc9c0eb141569a8de4b2c8c7d8bc7042681b50",
       "game": "Sw",
       "section_path": [
         "In the core series games",
@@ -45360,7 +45360,7 @@
       "trainer": "オニオン",
       "page": "Allister",
       "party_index": 0,
-      "party_sha256": "9f8877fb5fb0004dd895f30194e466bec1bca86277979d363108b92c34d4bc8a",
+      "party_sha256": "da27f49aaed959b14ecd0a97f7f380b446457237e684e80ba12ded872feb2bb1",
       "game": "Sh",
       "section_path": [
         "In the core series games",
@@ -45422,7 +45422,7 @@
       "trainer": "オニオン",
       "page": "Allister",
       "party_index": 1,
-      "party_sha256": "b09d83738ac27d7fbba0b2d4b20970bafd57889e225cda16e7d62a3d70a11103",
+      "party_sha256": "993298f8a452c745ba662c3febd685cf3f06391e18182c1e27ad3b6209b2b4e0",
       "game": "Sh",
       "section_path": [
         "In the core series games",
@@ -45523,7 +45523,7 @@
       "trainer": "オニオン",
       "page": "Allister",
       "party_index": 2,
-      "party_sha256": "65534d63738f14d3c117821284892f7e0b2670f1f7332cfe1fb35b5d8bf861d2",
+      "party_sha256": "31221969e677a3b3123ed3be7b6dd4ec8389cf4d55cbc0c58e038ea036f318c1",
       "game": "Sh",
       "section_path": [
         "In the core series games",
@@ -45570,7 +45570,7 @@
       "trainer": "オニオン",
       "page": "Allister",
       "party_index": 3,
-      "party_sha256": "5d1ac6b143d59090fab15ed9d11a86d958503cabd1f0c6d50bb4d7b2e9222571",
+      "party_sha256": "76205d8cc9262db481bbcb8628cfc0cea9eb12bee1725fc6cd146459f8d86ed2",
       "game": "Sh",
       "section_path": [
         "In the core series games",
@@ -45669,7 +45669,7 @@
       "trainer": "ポプラ",
       "page": "Opal",
       "party_index": 0,
-      "party_sha256": "bf5f7dd03cd97962367ad89093725c60b36727a864d5d7c14269b08fb4ad5969",
+      "party_sha256": "430c5bf81dcc024f6fbf5c3460220a8bccdc664004107825cb965cbd63633d1d",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -45731,7 +45731,7 @@
       "trainer": "ポプラ",
       "page": "Opal",
       "party_index": 1,
-      "party_sha256": "a60b88cef9d7e4a763616ae75e6fa437af25973298bc742e5df19f2d9714fc04",
+      "party_sha256": "e2272a86aa02bdab0bf9f6fc1579ec7184ebb196fb2c261665827f45337e6474",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -45793,7 +45793,7 @@
       "trainer": "ビート",
       "page": "Bede",
       "party_index": 0,
-      "party_sha256": "e1431fa487beda07c71031f906285d26437eadffd5746c57b4feaa903ac23aca",
+      "party_sha256": "23933a9dabb027484b605c04664eff093db73f20ac843230f437d311ca414c16",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -45814,7 +45814,7 @@
       "trainer": "ビート",
       "page": "Bede",
       "party_index": 1,
-      "party_sha256": "5b1cb636db5b34a1aa4995b3633330457a069ac9d7c2c7ae1665c0fb0f5abe51",
+      "party_sha256": "8032cbfb56dcc0dff1fe1bfb838d5691d9223cfd4469f8789f29e2eb08e066bf",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -45835,7 +45835,7 @@
       "trainer": "ビート",
       "page": "Bede",
       "party_index": 2,
-      "party_sha256": "51fdea6f2fc9c7729545c2e973a46b010174c6e26b3a3b04b9a6a978e6ebb5f0",
+      "party_sha256": "8594ce0b00bc58f4328cfcffb65a8f3e84b3a8547fbf38e62f243d760b5f3857",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -45856,7 +45856,7 @@
       "trainer": "ビート",
       "page": "Bede",
       "party_index": 3,
-      "party_sha256": "ec251a01bb9d9bdbd9a8a271f5cb55ba86e2f34cc3ed1b302312432c1556ddeb",
+      "party_sha256": "04efcbf24c79e022b065ab77c4acf4b6208029527328f729ba70e1fce75407a7",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -45877,7 +45877,7 @@
       "trainer": "マクワ",
       "page": "Gordie",
       "party_index": 0,
-      "party_sha256": "34bd2cf48f182559e6ef529bcc4f0624c1229e43d34ae0cb28952072a2e6e7c6",
+      "party_sha256": "8b0ac12a3c583748d99739b87a41168f7a4179712ee655aae1c4fb4e4c7618de",
       "game": "Sw",
       "section_path": [
         "In the core series games",
@@ -45939,7 +45939,7 @@
       "trainer": "マクワ",
       "page": "Gordie",
       "party_index": 1,
-      "party_sha256": "4f41060926fa4f807fc4b24a0df1a0f11e827e82be7f696f2a101dd0cc5f6b65",
+      "party_sha256": "2ae6554bd8c54d8ebb70691d435114720c1a1b1793a4aff6236a54b60b0f7cf4",
       "game": "Sw",
       "section_path": [
         "In the core series games",
@@ -45978,7 +45978,7 @@
       "trainer": "マクワ",
       "page": "Gordie",
       "party_index": 2,
-      "party_sha256": "5d8e4414622d47dad27ffb07a42bc7c172fa46b47dad8131d736e9e66de74464",
+      "party_sha256": "825f85fe166b1d9ea3e3c451549ebc461a596393e9581b010c652e86f3f63585",
       "game": "Sw",
       "section_path": [
         "In the core series games",
@@ -46040,7 +46040,7 @@
       "trainer": "メロン",
       "page": "Melony",
       "party_index": 0,
-      "party_sha256": "56fb557817ca022f96799b77ea7b86f0439d13e182857e4e139951d288eaf93c",
+      "party_sha256": "ddaed14fcd507428b2a87a4de90cfc4e4b881d3f0f6b9a9e9b470c99ca3580d4",
       "game": "Sh",
       "section_path": [
         "In the core series games",
@@ -46102,7 +46102,7 @@
       "trainer": "メロン",
       "page": "Melony",
       "party_index": 1,
-      "party_sha256": "a3e62f603b1b45b7bfbdc8a35d4d8de28b84dc1c9aad41d3de3d0d565aa2d4b0",
+      "party_sha256": "0e49413d4126a236d08f273a6c30ffc2bf87e16178737826c3bf5b37ccb2817b",
       "game": "Sh",
       "section_path": [
         "In the core series games",
@@ -46141,7 +46141,7 @@
       "trainer": "メロン",
       "page": "Melony",
       "party_index": 2,
-      "party_sha256": "d341642208b58436ae50a35ad80db039d549391f2aae6b729b362275a3067a0b",
+      "party_sha256": "8d420b7229e25a23f705f1c091c0d4d8203292e7ab661c2675b72d75eeffd791",
       "game": "Sh",
       "section_path": [
         "In the core series games",
@@ -46203,7 +46203,7 @@
       "trainer": "ネズ",
       "page": "Piers",
       "party_index": 0,
-      "party_sha256": "6206a6b33e47dc48f00a56c39299ccfaf8fd1af9cffcb417484dcf0e78c2e5c1",
+      "party_sha256": "9531d77bf72dd7c5a2483d25c970aa8152376d65f8d28c9b27f53104b73a1b21",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -46265,7 +46265,7 @@
       "trainer": "ネズ",
       "page": "Piers",
       "party_index": 1,
-      "party_sha256": "d049479ca136cc78b27380e622aa8f6e60da4e055cbda81cd6b79274845b7a24",
+      "party_sha256": "48fd21cad4b9b8406eceeddd2e9ecfc4762c60ca370044204f642482fcb93811",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -46304,7 +46304,7 @@
       "trainer": "ネズ",
       "page": "Piers",
       "party_index": 2,
-      "party_sha256": "47e9ede051c227953ed6a0a66edea71f98a5562b9a2bebf9d3051b5b7d1cf1b7",
+      "party_sha256": "add04b0c1825d55a4c806264655dd48b15be104416b9426ce7834a3f05589cc2",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -46366,7 +46366,7 @@
       "trainer": "マリィ",
       "page": "Marnie",
       "party_index": 0,
-      "party_sha256": "a0d86787a0d508fc77adba5166f7684627249d933eb0f43adda3bb845ce89f7c",
+      "party_sha256": "cb2026e992c23f778d7b50f3f95b8e69e08030f95842b4b60a4fceefc7410d59",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -46387,7 +46387,7 @@
       "trainer": "マリィ",
       "page": "Marnie",
       "party_index": 1,
-      "party_sha256": "4c458c52d531e4cf4d72392dccf7b377ba118830b6f2e99f3a0cb66f6ad962c5",
+      "party_sha256": "a8c1968cb5392748d2363ce81784e85bfb33a30a183cccc34b09f4da9ed76c79",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -46408,7 +46408,7 @@
       "trainer": "マリィ",
       "page": "Marnie",
       "party_index": 2,
-      "party_sha256": "b9f765476acd0f610c5bf9c39f643342e3b1ab36e4a41f6da6f89dbcaef660ef",
+      "party_sha256": "ff0ac17e865b8559e557cc63540c0973131b6b4ffd977c43f8fff20ba147222e",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -46429,7 +46429,7 @@
       "trainer": "キバナ",
       "page": "Raihan",
       "party_index": 0,
-      "party_sha256": "94d8b7ff98bccbae9bc3cf5a4e6616bc06a5f1d15f9d3b5c3e031103e9212888",
+      "party_sha256": "098b27c023f4b9cbac8a7e4ba88258532e9e1bceebaaf5898f5b07e5065308d9",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -46491,7 +46491,7 @@
       "trainer": "キバナ",
       "page": "Raihan",
       "party_index": 1,
-      "party_sha256": "d12dc16961a3bd051e34dc4ba810d92c5d498cd36dc084f888a07df4923d012f",
+      "party_sha256": "2fdd2c3c32d66e7f839016b2fb22bceb3c97f90b12900114e2e2e7c0d0164ca4",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -46553,7 +46553,7 @@
       "trainer": "キバナ",
       "page": "Raihan",
       "party_index": 2,
-      "party_sha256": "3521148f4aa9a838ae15cdf5638f7cdcc024afeb911944bfb8e6289c70d6c112",
+      "party_sha256": "057a8e41abe0be1162e1b5a6c8acd6be03feb606797fe885fa9c3e0f0563b544",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -46600,7 +46600,7 @@
       "trainer": "キバナ",
       "page": "Raihan",
       "party_index": 3,
-      "party_sha256": "a055096d4d5f15bd6aaf16923273161dec0378c4505be2ab3063cad59c10cd85",
+      "party_sha256": "4e0f70980baaef9a6f284b8c5a8af4d2cfe7625ed8fcac81081d5c6cfc5f58a9",
       "game": "SwSh",
       "section_path": [
         "In the core series games",
@@ -46662,7 +46662,7 @@
       "trainer": "カエデ",
       "page": "Katy",
       "party_index": 0,
-      "party_sha256": "a51368aa3acb3fe1b18fe77e768709dfe1feff05a8386fecb10f192e7877cf52",
+      "party_sha256": "314eb68aee7e71a6e5f64562bc747601bc800b0e703945bee10ee2179cd7e936",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -46723,7 +46723,7 @@
       "trainer": "カエデ",
       "page": "Katy",
       "party_index": 1,
-      "party_sha256": "626afca43d55964613073b3ebee6788b361dd18ca307219a36639a0eff6b5558",
+      "party_sha256": "a0e75f2ff504f9075b66bbb1798ba8bf8c855934eefd9e32d6fad857ce94409f",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -46801,7 +46801,7 @@
       "trainer": "カエデ",
       "page": "Katy",
       "party_index": 2,
-      "party_sha256": "85cfefc294afe5470f36b2f6a2e3bc22ca2b8a44edeb3597efd10e697f006426",
+      "party_sha256": "016f624eca19f5c0b2005ac5142cb89514d9d6a515f90e890b5eb1f5a50f0a44",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -46883,7 +46883,7 @@
       "trainer": "コルサ",
       "page": "Brassius",
       "party_index": 0,
-      "party_sha256": "0241e2265d4903f28492579b1b2f4c55b3e83365508f9269f892e0d446454996",
+      "party_sha256": "a4cc0966ccb98b04b69e5fc7296657806d1b3282a42c55ed6b3692aa118e1bb2",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -46944,7 +46944,7 @@
       "trainer": "コルサ",
       "page": "Brassius",
       "party_index": 1,
-      "party_sha256": "edfca9ccd614f0c9b6b5fd078f0bc54ec6f204522ea3ce3eac18648cd4d6d08b",
+      "party_sha256": "113b96bd527e5a2c33571d951bd0ce6aedc543ebf5780a31af081bbc072e0878",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47005,7 +47005,7 @@
       "trainer": "コルサ",
       "page": "Brassius",
       "party_index": 2,
-      "party_sha256": "77ade8d006eaef8a217703efa03a83b9602589e5dd03517e10217b911dc3d9c0",
+      "party_sha256": "2b0654eefe9980a35ea3d613fab4b8c7818a5032d1b0adb675a7f7f376cff414",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47103,7 +47103,7 @@
       "trainer": "ナンジャモ",
       "page": "Iono",
       "party_index": 0,
-      "party_sha256": "5cc67cbc28862d3ab231ba84870484fda714c1a9a12c54cce43b333878b58192",
+      "party_sha256": "2089f99d264d051e7b18ce5622d4d41de7efe1d3be8a607c3b1d47ea124a8b63",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47164,7 +47164,7 @@
       "trainer": "ナンジャモ",
       "page": "Iono",
       "party_index": 1,
-      "party_sha256": "bcbf18e4b5b6d7c93794e1ac8eab792b9ad39606a0e3ba5ff056664e59db1fec",
+      "party_sha256": "d8418d512c8a6c1675d57f774ea26cea2c703fc1bfccbb3314dc9ad1c9d36151",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47227,7 +47227,7 @@
       "trainer": "ナンジャモ",
       "page": "Iono",
       "party_index": 2,
-      "party_sha256": "91fbba7404637e12f5487bbff7faa4682c5434c7472aa0af153cfd427b520eb4",
+      "party_sha256": "ed2a9b359734d2c38b27a67c8dd7f063a946edb174186f669c8f098adfc65778",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47290,7 +47290,7 @@
       "trainer": "ハイダイ",
       "page": "Kofu",
       "party_index": 0,
-      "party_sha256": "cae1e70d4d7783cab0c7e3846f3434626a4f861f1b94e629c6d006f685ab2e76",
+      "party_sha256": "0bf8f13784ef1c1a9b10ff6fb64b043d48d9543ca5e4008268f130ad3da1d866",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47351,7 +47351,7 @@
       "trainer": "ハイダイ",
       "page": "Kofu",
       "party_index": 1,
-      "party_sha256": "0a236bd9e1d6d79b0427a460f52ab6a97198bd5dd89670752532463cf878cec8",
+      "party_sha256": "f050f3eefd420d27259f757c82a41a085ef80d24aa9bdb4297ff3dc0a34f26fb",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47412,7 +47412,7 @@
       "trainer": "ハイダイ",
       "page": "Kofu",
       "party_index": 2,
-      "party_sha256": "cca6a05aed252664bd41b4454b851f626d73db0d9d78949ceb0d1930d74f3100",
+      "party_sha256": "e42b6b9605b2e2803ca30d68d0cebc0678e3547c07ca6cb5d6f05ce83319f03a",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47473,7 +47473,7 @@
       "trainer": "アオキ",
       "page": "Larry",
       "party_index": 0,
-      "party_sha256": "6be8e1d08a8fceb12d30db68fd0bbe1725fd6201a3b060ecc22821f507f4f82c",
+      "party_sha256": "7ef6606b370db1b100fdc3644281abfe3d6a63ccda3965d144bd45e90b8b8e7f",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47534,7 +47534,7 @@
       "trainer": "アオキ",
       "page": "Larry",
       "party_index": 1,
-      "party_sha256": "1f8076ea5c2466223bb0e8d440205a60d41eb23903bfece11318a063f56e5a16",
+      "party_sha256": "5683ad364ef919999d752058df9638e7d2afcc49ba6e06ad24ab80e858b11522",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47595,7 +47595,7 @@
       "trainer": "アオキ",
       "page": "Larry",
       "party_index": 2,
-      "party_sha256": "c6417d86de325f179de685799eb6cd47e9474065036ed6445d4ca7713242e433",
+      "party_sha256": "78e986f92bc8456b27c1f8396cd6b8a4d44a55dda10124745662af4d6739f90c",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47656,7 +47656,7 @@
       "trainer": "ライム",
       "page": "Ryme",
       "party_index": 0,
-      "party_sha256": "119a02b8e6bd4c12cdf61024898e22de40c15fad2e8431cda1d13aeb296a057f",
+      "party_sha256": "5a86968bbd3d88ac58162a7417d31cae38b0649f0485ffbdc44b3668d3eb2683",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47717,7 +47717,7 @@
       "trainer": "ライム",
       "page": "Ryme",
       "party_index": 1,
-      "party_sha256": "d71efbda5a7598abbe994e487f13032abd2f29f438136f980c4def327de8c448",
+      "party_sha256": "b4732fe45b4b91b0bcc7224cc73356f37b1cf0da7870d265c44e428fdf0b6d7e",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47791,7 +47791,7 @@
       "trainer": "ライム",
       "page": "Ryme",
       "party_index": 2,
-      "party_sha256": "90fa07f67ce4c6b766045bd3fedfe6d0d370211110255a8850127e683181b627",
+      "party_sha256": "a2d79fdf305ef48de83065cce9b3da83573b535824bf4dc2e83214fd83ef034c",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47854,7 +47854,7 @@
       "trainer": "リップ",
       "page": "Tulip",
       "party_index": 0,
-      "party_sha256": "e4f696526af8bc061adce9086d6b3ef4e2c2a254986fa3035b45206790a23706",
+      "party_sha256": "8f41a2f1125fd7b2ba2bcdd47d3b8b36af7d7133d87c69dda5a23ca292f23586",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47915,7 +47915,7 @@
       "trainer": "リップ",
       "page": "Tulip",
       "party_index": 1,
-      "party_sha256": "29067776748e4633bb2e8318654adb86eba1df6fb4a9c94c4c5ed18070920334",
+      "party_sha256": "a8f88f52ee7b6a02bfaccea89f9da64b41c530a2088c39df8af4e8b5b9029fd6",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -47976,7 +47976,7 @@
       "trainer": "リップ",
       "page": "Tulip",
       "party_index": 2,
-      "party_sha256": "2cff90104b06b81f4ffafba3953a04591f69434e51bf74a1719b50150a1cadec",
+      "party_sha256": "7efe0e5c25fc2031c895924c7ab67921a83085822d8af14e6a005bafa59b9390",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -48037,7 +48037,7 @@
       "trainer": "グルーシャ",
       "page": "Grusha",
       "party_index": 0,
-      "party_sha256": "9c076e3b643b74fa9de88258724498553c27bac2ee434d433edbce29acc526c7",
+      "party_sha256": "8a63d0c02349b57d7d26dbeaf6216e28199262e098100458d451ee96bd8fed4f",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -48098,7 +48098,7 @@
       "trainer": "グルーシャ",
       "page": "Grusha",
       "party_index": 1,
-      "party_sha256": "ad322e3fde8cd2d08e21114e3c28b0e4b0336c97a63ace0879336613e3c48bcd",
+      "party_sha256": "efdc60fa1d89db2932fd0ca22a78f2df2b261a50701d33064935de196791ff8c",
       "game": "SV",
       "section_path": [
         "In the core series games",
@@ -48159,7 +48159,7 @@
       "trainer": "グルーシャ",
       "page": "Grusha",
       "party_index": 2,
-      "party_sha256": "1fed3775c4d680289d3f66d24d837bcae691ea6b61e703ef1addaef8dbb8ef8b",
+      "party_sha256": "221b9a0c54d3e38d54757a665435964ecd5cb4e8cb03f75a93bbedc752b0b281",
       "game": "SV",
       "section_path": [
         "In the core series games",

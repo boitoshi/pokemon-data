@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "scope": "gym-leaders",
+  "note": "原文の見出しに対応する日本語の表示名。日本語化は手持ちの事実照合を意味しません。",
+  "sections": {
+    "In the core series games": "本編",
+    "Pokémon": "手持ちポケモン",
+    "Red and Blue": {
+      "groups": [
+        "RG",
+        "Blue"
+      ]
+    },
+    "Yellow": {
+      "group": "Yellow"
+    },
+    "Gold|Silver|Crystal": {
+      "groups": [
+        "GS",
+        "Crystal"
+      ]
+    },
+    "FireRed and LeafGreen": {
+      "group": "FRLG"
+    },
+    "Ruby and Sapphire": {
+      "group": "RS"
+    },
+    "Emerald": {
+      "group": "Emerald"
+    },
+    "HeartGold and SoulSilver": {
+      "group": "HGSS"
+    },
+    "Omega Ruby and Alpha Sapphire": {
+      "group": "ORAS"
+    },
+    "Pokémon Omega Ruby and Alpha Sapphire": {
+      "group": "ORAS"
+    },
+    "Diamond and Pearl": {
+      "group": "DP"
+    },
+    "Platinum": {
+      "group": "Pt"
+    },
+    "Brilliant Diamond and Shining Pearl": {
+      "group": "BDSP"
+    },
+    "Black and White": {
+      "group": "BW"
+    },
+    "Black and White|Pokémon Black": {
+      "group": "BW",
+      "title": "black"
+    },
+    "Black and White|Pokémon White": {
+      "group": "BW",
+      "title": "white"
+    },
+    "B2W2": {
+      "group": "B2W2"
+    },
+    "X and Y": {
+      "group": "XY"
+    },
+    "Pokémon X and Y": {
+      "group": "XY"
+    },
+    "Pokémon Legends: Z-A": {
+      "group": "ZA"
+    },
+    "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!": {
+      "group": "LPLE"
+    },
+    "Sword and Shield": {
+      "group": "SwSh"
+    },
+    "Pokémon Sword": {
+      "title": "sword"
+    },
+    "Pokémon Shield": {
+      "title": "shield"
+    },
+    "Sword and Shield|Pokémon Sword": {
+      "group": "SwSh",
+      "title": "sword"
+    },
+    "Sword and Shield|Pokémon Shield": {
+      "group": "SwSh",
+      "title": "shield"
+    },
+    "Gym battle": "ジム戦",
+    "Rematch": "再戦",
+    "First battle": "初戦",
+    "Second battle": "2戦目",
+    "Fourth battle": "4戦目",
+    "Fifth battle": "5戦目",
+    "First rematch": "再戦（1回目）",
+    "Second rematch": "再戦（2回目）",
+    "Third rematch": "再戦（3回目）",
+    "Fourth rematch onwards": "再戦（4回目以降）",
+    "Easy Mode/Normal Mode": "アシスト／ノーマルモード",
+    "Challenge Mode": "チャレンジモード",
+    "Champion tournament": "チャンピオン戦（トーナメント）",
+    "Champion tournaments": "チャンピオン戦（トーナメント）",
+    "Champion Cup": "チャンピオンカップ",
+    "Champion Cup Finals": "チャンピオンカップ決勝戦",
+    "Galarian Star Tournament": "ガラルスタートーナメント",
+    "Before Galarian Star Tournament": "ガラルスタートーナメント前",
+    "After Galarian Star Tournament": "ガラルスタートーナメント後",
+    "League Club Room": "リーグ部",
+    "Stow-on-Side Stadium": "ラテラルスタジアム"
+  },
+  "locations": {
+    "Fighting Dojo": "格闘道場"
+  },
+  "forms": {
+    "-Alola": "アローラのすがた",
+    "-Galar": "ガラルのすがた",
+    "-Low Key": "ローなすがた",
+    "-Full": "まんぷくもよう"
+  },
+  "items": {
+    "Crabominite": {
+      "dexNo": 740,
+      "formName": "メガケケンカニ"
+    },
+    "Hawluchanite": {
+      "dexNo": 701,
+      "formName": "メガルチャブル"
+    },
+    "Chesnaughtite": {
+      "dexNo": 652,
+      "formName": "メガブリガロン"
+    },
+    "Lucarionite Z": {
+      "dexNo": 448,
+      "formName": "メガルカリオZ"
+    }
+  },
+  "sources": {
+    "gameNames": [
+      "games/groups.json",
+      "games/titles.json"
+    ],
+    "itemNames": "forms/special-forms.json の requiredItem を参照",
+    "formNames": [
+      "https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/csv/pokemon_form_names.csv",
+      "https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/csv/pokemon_forms.csv"
+    ],
+    "battleLabels": "原資料の対戦条件の日本語訳。初戦・再戦回数・難易度・版を保持。",
+    "locationLabels": "Fighting Dojo の表示用の日本語訳。公式の施設名表記との照合は未完了。",
+    "battleModeNames": "https://www.pokemon.co.jp/ex/b2w2/system/system06.html"
+  }
+}

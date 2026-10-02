@@ -258,12 +258,7 @@
     "GYM EXCLUDED (pokémon world tournament): Whitney: in the core series games / pokémon / b2w2 / type expert/world leaders tournament / pokémon world tournament",
     "GYM EXCLUDED (pokémon world tournament): Winona: in the core series games / pokémon / b2w2 / pokémon world tournament / hoenn leaders tournament / pokémon world tournament",
     "GYM EXCLUDED (pokémon world tournament): Winona: in the core series games / pokémon / b2w2 / pokémon world tournament / the battle between legendary pokémon / pokémon world tournament",
-    "GYM EXCLUDED (pokémon world tournament): Winona: in the core series games / pokémon / b2w2 / pokémon world tournament / type expert/world leaders tournament / pokémon world tournament",
-    "ITEM UNMAPPED: Chesnaughtite",
-    "ITEM UNMAPPED: Crabominite",
-    "ITEM UNMAPPED: Hawluchanite",
-    "ITEM UNMAPPED: Lucarionite Z",
-    "JPNAME MISSING: Fighting Dojo"
+    "GYM EXCLUDED (pokémon world tournament): Winona: in the core series games / pokémon / b2w2 / pokémon world tournament / type expert/world leaders tournament / pokémon world tournament"
   ],
   "trainers": [
     {
@@ -363,8 +358,8 @@
           "section_ja": "赤・緑・青",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "赤・緑・青",
+            "本編",
+            "手持ちポケモン",
             "赤・緑・青"
           ]
         },
@@ -457,8 +452,8 @@
           "section_ja": "ピカチュウ",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ピカチュウ",
+            "本編",
+            "手持ちポケモン",
             "ピカチュウ"
           ]
         },
@@ -686,8 +681,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -784,8 +779,8 @@
           "section_ja": "ファイアレッド・リーフグリーン",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ファイアレッド・リーフグリーン",
+            "本編",
+            "手持ちポケモン",
             "ファイアレッド・リーフグリーン"
           ]
         },
@@ -1014,9 +1009,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -1280,13 +1275,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         },
@@ -1376,9 +1371,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "ジム戦"
           ]
         },
@@ -1607,9 +1602,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "再戦"
           ]
         }
@@ -1713,8 +1708,8 @@
           "section_ja": "赤・緑・青",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "赤・緑・青",
+            "本編",
+            "手持ちポケモン",
             "赤・緑・青"
           ]
         },
@@ -1809,8 +1804,8 @@
           "section_ja": "ピカチュウ",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ピカチュウ",
+            "本編",
+            "手持ちポケモン",
             "ピカチュウ"
           ]
         },
@@ -1995,8 +1990,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -2099,8 +2094,8 @@
           "section_ja": "ファイアレッド・リーフグリーン",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ファイアレッド・リーフグリーン",
+            "本編",
+            "手持ちポケモン",
             "ファイアレッド・リーフグリーン"
           ]
         },
@@ -2286,9 +2281,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -2550,13 +2545,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         },
@@ -2648,9 +2643,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "ジム戦"
           ]
         },
@@ -2875,9 +2870,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "再戦"
           ]
         }
@@ -3022,8 +3017,8 @@
           "section_ja": "赤・緑・青",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "赤・緑・青",
+            "本編",
+            "手持ちポケモン",
             "赤・緑・青"
           ]
         },
@@ -3085,8 +3080,8 @@
           "section_ja": "ピカチュウ",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ピカチュウ",
+            "本編",
+            "手持ちポケモン",
             "ピカチュウ"
           ]
         },
@@ -3306,8 +3301,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -3447,8 +3442,8 @@
           "section_ja": "ファイアレッド・リーフグリーン",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ファイアレッド・リーフグリーン",
+            "本編",
+            "手持ちポケモン",
             "ファイアレッド・リーフグリーン"
           ]
         },
@@ -3669,9 +3664,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -3927,13 +3922,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         },
@@ -4060,9 +4055,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "ジム戦"
           ]
         },
@@ -4283,9 +4278,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "再戦"
           ]
         }
@@ -4434,8 +4429,8 @@
           "section_ja": "赤・緑・青",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "赤・緑・青",
+            "本編",
+            "手持ちポケモン",
             "赤・緑・青"
           ]
         },
@@ -4579,8 +4574,8 @@
           "section_ja": "ピカチュウ",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ピカチュウ",
+            "本編",
+            "手持ちポケモン",
             "ピカチュウ"
           ]
         },
@@ -4763,8 +4758,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -4908,8 +4903,8 @@
           "section_ja": "ファイアレッド・リーフグリーン",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ファイアレッド・リーフグリーン",
+            "本編",
+            "手持ちポケモン",
             "ファイアレッド・リーフグリーン"
           ]
         },
@@ -5093,9 +5088,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -5357,13 +5352,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         },
@@ -5488,9 +5483,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "ジム戦"
           ]
         },
@@ -5717,9 +5712,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "再戦"
           ]
         }
@@ -5911,8 +5906,8 @@
           "section_ja": "赤・緑・青",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "赤・緑・青",
+            "本編",
+            "手持ちポケモン",
             "赤・緑・青"
           ]
         },
@@ -6099,8 +6094,8 @@
           "section_ja": "ピカチュウ",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ピカチュウ",
+            "本編",
+            "手持ちポケモン",
             "ピカチュウ"
           ]
         },
@@ -6279,8 +6274,8 @@
           "section_ja": "ファイアレッド・リーフグリーン",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ファイアレッド・リーフグリーン",
+            "本編",
+            "手持ちポケモン",
             "ファイアレッド・リーフグリーン"
           ]
         },
@@ -6464,9 +6459,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "ジム戦"
           ]
         },
@@ -6691,9 +6686,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "再戦"
           ]
         }
@@ -6930,8 +6925,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -7158,9 +7153,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -7424,13 +7419,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         }
@@ -7624,8 +7619,8 @@
           "section_ja": "赤・緑・青",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "赤・緑・青",
+            "本編",
+            "手持ちポケモン",
             "赤・緑・青"
           ]
         },
@@ -7753,8 +7748,8 @@
           "section_ja": "ピカチュウ",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ピカチュウ",
+            "本編",
+            "手持ちポケモン",
             "ピカチュウ"
           ]
         },
@@ -7894,8 +7889,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -8076,8 +8071,8 @@
           "section_ja": "ファイアレッド・リーフグリーン",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ファイアレッド・リーフグリーン",
+            "本編",
+            "手持ちポケモン",
             "ファイアレッド・リーフグリーン"
           ]
         },
@@ -8218,9 +8213,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -8478,13 +8473,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         },
@@ -8658,9 +8653,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "ジム戦"
           ]
         },
@@ -8885,9 +8880,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "再戦"
           ]
         }
@@ -9079,8 +9074,8 @@
           "section_ja": "赤・緑・青",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "赤・緑・青",
+            "本編",
+            "手持ちポケモン",
             "赤・緑・青"
           ]
         },
@@ -9220,8 +9215,8 @@
           "section_ja": "ピカチュウ",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ピカチュウ",
+            "本編",
+            "手持ちポケモン",
             "ピカチュウ"
           ]
         },
@@ -9363,8 +9358,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -9543,8 +9538,8 @@
           "section_ja": "ファイアレッド・リーフグリーン",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ファイアレッド・リーフグリーン",
+            "本編",
+            "手持ちポケモン",
             "ファイアレッド・リーフグリーン"
           ]
         },
@@ -9687,9 +9682,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -9949,13 +9944,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         },
@@ -10115,9 +10110,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "ジム戦"
           ]
         },
@@ -10336,9 +10331,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "再戦"
           ]
         }
@@ -10578,8 +10573,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "赤・緑・青",
+            "本編",
+            "手持ちポケモン",
             "赤・緑・青",
             "ジム戦"
           ]
@@ -10805,8 +10800,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ピカチュウ",
+            "本編",
+            "手持ちポケモン",
             "ピカチュウ",
             "ジム戦"
           ]
@@ -11034,8 +11029,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ファイアレッド・リーフグリーン",
+            "本編",
+            "手持ちポケモン",
             "ファイアレッド・リーフグリーン",
             "ジム戦"
           ]
@@ -11210,9 +11205,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "ジム戦"
           ]
         }
@@ -11490,8 +11485,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -11757,9 +11752,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -12021,13 +12016,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         },
@@ -12293,9 +12288,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "Let's Go! ピカチュウ・イーブイ",
-            "Pokémon: Lets Go, Pikachu! and Lets Go, Eevee!",
             "再戦"
           ]
         }
@@ -12401,8 +12396,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -12496,9 +12491,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -12764,13 +12759,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         }
@@ -12915,8 +12910,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -13037,9 +13032,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -13303,13 +13298,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         }
@@ -13423,8 +13418,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -13526,9 +13521,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -13786,13 +13781,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         }
@@ -13992,8 +13987,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -14181,9 +14176,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -14445,13 +14440,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         }
@@ -14567,8 +14562,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -14672,9 +14667,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -14934,13 +14929,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         }
@@ -15099,8 +15094,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -15247,9 +15242,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -15515,13 +15510,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         }
@@ -15678,8 +15673,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -15824,9 +15819,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -16090,13 +16085,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         }
@@ -16290,8 +16285,8 @@
           "section_ja": "金・銀・クリスタル",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "金・銀・クリスタル",
+            "本編",
+            "手持ちポケモン",
             "金・銀・クリスタル"
           ]
         },
@@ -16475,9 +16470,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "ジム戦"
           ]
         },
@@ -16741,13 +16736,13 @@
             "Rematch"
           ],
           "game_ja": "ハートゴールド・ソウルシルバー",
-          "location_ja": null,
+          "location_ja": "格闘道場",
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ハートゴールド・ソウルシルバー",
-            "HeartGold and SoulSilver",
             "再戦"
           ]
         }
@@ -16863,8 +16858,8 @@
           "section_ja": "ルビー・サファイア",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ルビー・サファイア",
+            "本編",
+            "手持ちポケモン",
             "ルビー・サファイア"
           ]
         },
@@ -17009,8 +17004,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "エメラルド",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
             "ジム戦"
           ]
@@ -17194,13 +17189,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "カナズミジム",
-          "section_ja": "First 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（1回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "First 再戦"
+            "再戦（1回目）"
           ]
         },
         {
@@ -17423,13 +17418,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "カナズミジム",
-          "section_ja": "Second 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（2回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Second 再戦"
+            "再戦（2回目）"
           ]
         },
         {
@@ -17652,13 +17647,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "カナズミジム",
-          "section_ja": "Third 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（3回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Third 再戦"
+            "再戦（3回目）"
           ]
         },
         {
@@ -17922,13 +17917,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "カナズミジム",
-          "section_ja": "Fourth 再戦 onwards",
-          "section_needs_review": true,
+          "section_ja": "再戦（4回目以降）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Fourth 再戦 onwards"
+            "再戦（4回目以降）"
           ]
         },
         {
@@ -18019,12 +18014,12 @@
           ],
           "game_ja": "オメガルビー・アルファサファイア",
           "location_ja": "カナズミジム",
-          "section_ja": "Pokémon Omega Ruby and Alpha Sapphire",
-          "section_needs_review": true,
+          "section_ja": "オメガルビー・アルファサファイア",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "オメガルビー・アルファサファイア",
-            "Pokémon Omega Ruby and Alpha Sapphire"
+            "本編",
+            "手持ちポケモン",
+            "オメガルビー・アルファサファイア"
           ]
         }
       ],
@@ -18137,8 +18132,8 @@
           "section_ja": "ルビー・サファイア",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ルビー・サファイア",
+            "本編",
+            "手持ちポケモン",
             "ルビー・サファイア"
           ]
         },
@@ -18281,8 +18276,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "エメラルド",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
             "ジム戦"
           ]
@@ -18462,13 +18457,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ムロジム",
-          "section_ja": "First 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（1回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "First 再戦"
+            "再戦（1回目）"
           ]
         },
         {
@@ -18646,13 +18641,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ムロジム",
-          "section_ja": "Second 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（2回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Second 再戦"
+            "再戦（2回目）"
           ]
         },
         {
@@ -18869,13 +18864,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ムロジム",
-          "section_ja": "Third 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（3回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Third 再戦"
+            "再戦（3回目）"
           ]
         },
         {
@@ -19131,13 +19126,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ムロジム",
-          "section_ja": "Fourth 再戦 onwards",
-          "section_needs_review": true,
+          "section_ja": "再戦（4回目以降）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Fourth 再戦 onwards"
+            "再戦（4回目以降）"
           ]
         },
         {
@@ -19234,12 +19229,12 @@
           ],
           "game_ja": "オメガルビー・アルファサファイア",
           "location_ja": "ムロジム",
-          "section_ja": "Omega Ruby and Alpha Sapphire",
-          "section_needs_review": true,
+          "section_ja": "オメガルビー・アルファサファイア",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "オメガルビー・アルファサファイア",
-            "Omega Ruby and Alpha Sapphire"
+            "本編",
+            "手持ちポケモン",
+            "オメガルビー・アルファサファイア"
           ]
         }
       ],
@@ -19395,8 +19390,8 @@
           "section_ja": "ルビー・サファイア",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ルビー・サファイア",
+            "本編",
+            "手持ちポケモン",
             "ルビー・サファイア"
           ]
         },
@@ -19578,8 +19573,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "エメラルド",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
             "ジム戦"
           ]
@@ -19759,13 +19754,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "キンセツジム",
-          "section_ja": "First 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（1回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "First 再戦"
+            "再戦（1回目）"
           ]
         },
         {
@@ -19982,13 +19977,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "キンセツジム",
-          "section_ja": "Second 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（2回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Second 再戦"
+            "再戦（2回目）"
           ]
         },
         {
@@ -20205,13 +20200,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "キンセツジム",
-          "section_ja": "Third 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（3回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Third 再戦"
+            "再戦（3回目）"
           ]
         },
         {
@@ -20467,13 +20462,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "キンセツジム",
-          "section_ja": "Fourth 再戦 onwards",
-          "section_needs_review": true,
+          "section_ja": "再戦（4回目以降）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Fourth 再戦 onwards"
+            "再戦（4回目以降）"
           ]
         },
         {
@@ -20601,12 +20596,12 @@
           ],
           "game_ja": "オメガルビー・アルファサファイア",
           "location_ja": "キンセツジム",
-          "section_ja": "Omega Ruby and Alpha Sapphire",
-          "section_needs_review": true,
+          "section_ja": "オメガルビー・アルファサファイア",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "オメガルビー・アルファサファイア",
-            "Omega Ruby and Alpha Sapphire"
+            "本編",
+            "手持ちポケモン",
+            "オメガルビー・アルファサファイア"
           ]
         }
       ],
@@ -20758,8 +20753,8 @@
           "section_ja": "ルビー・サファイア",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ルビー・サファイア",
+            "本編",
+            "手持ちポケモン",
             "ルビー・サファイア"
           ]
         },
@@ -20943,8 +20938,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "エメラルド",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
             "ジム戦"
           ]
@@ -21126,13 +21121,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "フエンジム",
-          "section_ja": "First 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（1回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "First 再戦"
+            "再戦（1回目）"
           ]
         },
         {
@@ -21351,13 +21346,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "フエンジム",
-          "section_ja": "Second 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（2回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Second 再戦"
+            "再戦（2回目）"
           ]
         },
         {
@@ -21617,13 +21612,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "フエンジム",
-          "section_ja": "Third 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（3回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Third 再戦"
+            "再戦（3回目）"
           ]
         },
         {
@@ -21883,13 +21878,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "フエンジム",
-          "section_ja": "Fourth 再戦 onwards",
-          "section_needs_review": true,
+          "section_ja": "再戦（4回目以降）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Fourth 再戦 onwards"
+            "再戦（4回目以降）"
           ]
         },
         {
@@ -22027,12 +22022,12 @@
           ],
           "game_ja": "オメガルビー・アルファサファイア",
           "location_ja": "フエンジム",
-          "section_ja": "Omega Ruby and Alpha Sapphire",
-          "section_needs_review": true,
+          "section_ja": "オメガルビー・アルファサファイア",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "オメガルビー・アルファサファイア",
-            "Omega Ruby and Alpha Sapphire"
+            "本編",
+            "手持ちポケモン",
+            "オメガルビー・アルファサファイア"
           ]
         }
       ],
@@ -22185,8 +22180,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ルビー・サファイア",
+            "本編",
+            "手持ちポケモン",
             "ルビー・サファイア",
             "ジム戦"
           ]
@@ -22367,8 +22362,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "エメラルド",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
             "ジム戦"
           ]
@@ -22546,13 +22541,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "トウカジム",
-          "section_ja": "First 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（1回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "First 再戦"
+            "再戦（1回目）"
           ]
         },
         {
@@ -22767,13 +22762,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "トウカジム",
-          "section_ja": "Second 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（2回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Second 再戦"
+            "再戦（2回目）"
           ]
         },
         {
@@ -22988,13 +22983,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "トウカジム",
-          "section_ja": "Third 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（3回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Third 再戦"
+            "再戦（3回目）"
           ]
         },
         {
@@ -23248,13 +23243,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "トウカジム",
-          "section_ja": "Fourth 再戦 onwards",
-          "section_needs_review": true,
+          "section_ja": "再戦（4回目以降）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Fourth 再戦 onwards"
+            "再戦（4回目以降）"
           ]
         },
         {
@@ -23394,9 +23389,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "オメガルビー・アルファサファイア",
-            "Omega Ruby and Alpha Sapphire",
             "ジム戦"
           ]
         }
@@ -23596,8 +23591,8 @@
           "section_ja": "ルビー・サファイア",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ルビー・サファイア",
+            "本編",
+            "手持ちポケモン",
             "ルビー・サファイア"
           ]
         },
@@ -23826,8 +23821,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "エメラルド",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
             "ジム戦"
           ]
@@ -24052,13 +24047,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ヒワマキジム",
-          "section_ja": "First 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（1回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "First 再戦"
+            "再戦（1回目）"
           ]
         },
         {
@@ -24322,13 +24317,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ヒワマキジム",
-          "section_ja": "Second 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（2回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Second 再戦"
+            "再戦（2回目）"
           ]
         },
         {
@@ -24592,13 +24587,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ヒワマキジム",
-          "section_ja": "Third 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（3回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Third 再戦"
+            "再戦（3回目）"
           ]
         },
         {
@@ -24864,13 +24859,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ヒワマキジム",
-          "section_ja": "Fourth 再戦 onwards",
-          "section_needs_review": true,
+          "section_ja": "再戦（4回目以降）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Fourth 再戦 onwards"
+            "再戦（4回目以降）"
           ]
         },
         {
@@ -25053,12 +25048,12 @@
           ],
           "game_ja": "オメガルビー・アルファサファイア",
           "location_ja": "ヒワマキジム",
-          "section_ja": "Omega Ruby and Alpha Sapphire",
-          "section_needs_review": true,
+          "section_ja": "オメガルビー・アルファサファイア",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "オメガルビー・アルファサファイア",
-            "Omega Ruby and Alpha Sapphire"
+            "本編",
+            "手持ちポケモン",
+            "オメガルビー・アルファサファイア"
           ]
         }
       ],
@@ -25175,8 +25170,8 @@
           "section_ja": "ルビー・サファイア",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ルビー・サファイア",
+            "本編",
+            "手持ちポケモン",
             "ルビー・サファイア"
           ]
         },
@@ -25364,8 +25359,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "エメラルド",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
             "ジム戦"
           ]
@@ -25592,13 +25587,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "トクサネジム",
-          "section_ja": "First 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（1回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "First 再戦"
+            "再戦（1回目）"
           ]
         },
         {
@@ -25862,13 +25857,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "トクサネジム",
-          "section_ja": "Second 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（2回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Second 再戦"
+            "再戦（2回目）"
           ]
         },
         {
@@ -26132,13 +26127,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "トクサネジム",
-          "section_ja": "Third 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（3回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Third 再戦"
+            "再戦（3回目）"
           ]
         },
         {
@@ -26402,13 +26397,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "トクサネジム",
-          "section_ja": "Fourth 再戦 onwards",
-          "section_needs_review": true,
+          "section_ja": "再戦（4回目以降）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Fourth 再戦 onwards"
+            "再戦（4回目以降）"
           ]
         },
         {
@@ -26509,12 +26504,12 @@
           ],
           "game_ja": "オメガルビー・アルファサファイア",
           "location_ja": "トクサネジム",
-          "section_ja": "Omega Ruby and Alpha Sapphire",
-          "section_needs_review": true,
+          "section_ja": "オメガルビー・アルファサファイア",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "オメガルビー・アルファサファイア",
-            "Omega Ruby and Alpha Sapphire"
+            "本編",
+            "手持ちポケモン",
+            "オメガルビー・アルファサファイア"
           ]
         }
       ],
@@ -26748,8 +26743,8 @@
           "section_ja": "ルビー・サファイア",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ルビー・サファイア",
+            "本編",
+            "手持ちポケモン",
             "ルビー・サファイア"
           ]
         },
@@ -26972,9 +26967,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "オメガルビー・アルファサファイア",
-            "Omega Ruby and Alpha Sapphire",
             "ジム戦"
           ]
         }
@@ -27214,8 +27209,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "エメラルド",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
             "ジム戦"
           ]
@@ -27440,13 +27435,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ルネジム",
-          "section_ja": "First 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（1回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "First 再戦"
+            "再戦（1回目）"
           ]
         },
         {
@@ -27669,13 +27664,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ルネジム",
-          "section_ja": "Second 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（2回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Second 再戦"
+            "再戦（2回目）"
           ]
         },
         {
@@ -27939,13 +27934,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ルネジム",
-          "section_ja": "Third 再戦",
-          "section_needs_review": true,
+          "section_ja": "再戦（3回目）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Third 再戦"
+            "再戦（3回目）"
           ]
         },
         {
@@ -28209,13 +28204,13 @@
           ],
           "game_ja": "エメラルド",
           "location_ja": "ルネジム",
-          "section_ja": "Fourth 再戦 onwards",
-          "section_needs_review": true,
+          "section_ja": "再戦（4回目以降）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "エメラルド",
-            "エメラルド",
-            "Fourth 再戦 onwards"
+            "再戦（4回目以降）"
           ]
         }
       ],
@@ -28355,8 +28350,8 @@
           "section_ja": "ダイヤモンド・パール",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ダイヤモンド・パール",
+            "本編",
+            "手持ちポケモン",
             "ダイヤモンド・パール"
           ]
         },
@@ -28485,8 +28480,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "ジム戦"
           ]
@@ -28714,8 +28709,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "再戦"
           ]
@@ -28849,9 +28844,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "ジム戦"
           ]
         },
@@ -29107,9 +29102,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "再戦"
           ]
         }
@@ -29264,8 +29259,8 @@
           "section_ja": "ダイヤモンド・パール",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ダイヤモンド・パール",
+            "本編",
+            "手持ちポケモン",
             "ダイヤモンド・パール"
           ]
         },
@@ -29408,8 +29403,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "ジム戦"
           ]
@@ -29635,8 +29630,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "再戦"
           ]
@@ -29780,9 +29775,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "ジム戦"
           ]
         },
@@ -30036,9 +30031,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "再戦"
           ]
         }
@@ -30195,8 +30190,8 @@
           "section_ja": "ダイヤモンド・パール",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ダイヤモンド・パール",
+            "本編",
+            "手持ちポケモン",
             "ダイヤモンド・パール"
           ]
         },
@@ -30341,8 +30336,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "ジム戦"
           ]
@@ -30568,8 +30563,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "再戦"
           ]
@@ -30715,9 +30710,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "ジム戦"
           ]
         },
@@ -30985,9 +30980,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "再戦"
           ]
         }
@@ -31144,8 +31139,8 @@
           "section_ja": "ダイヤモンド・パール",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ダイヤモンド・パール",
+            "本編",
+            "手持ちポケモン",
             "ダイヤモンド・パール"
           ]
         },
@@ -31290,8 +31285,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "ジム戦"
           ]
@@ -31519,8 +31514,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "再戦"
           ]
@@ -31666,9 +31661,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "ジム戦"
           ]
         },
@@ -31932,9 +31927,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "再戦"
           ]
         }
@@ -32091,8 +32086,8 @@
           "section_ja": "ダイヤモンド・パール",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ダイヤモンド・パール",
+            "本編",
+            "手持ちポケモン",
             "ダイヤモンド・パール"
           ]
         },
@@ -32235,8 +32230,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "ジム戦"
           ]
@@ -32460,8 +32455,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "再戦"
           ]
@@ -32607,9 +32602,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "ジム戦"
           ]
         },
@@ -32873,9 +32868,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "再戦"
           ]
         }
@@ -33034,8 +33029,8 @@
           "section_ja": "ダイヤモンド・パール",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ダイヤモンド・パール",
+            "本編",
+            "手持ちポケモン",
             "ダイヤモンド・パール"
           ]
         },
@@ -33182,8 +33177,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "ジム戦"
           ]
@@ -33413,8 +33408,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "再戦"
           ]
@@ -33562,9 +33557,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "ジム戦"
           ]
         },
@@ -33822,9 +33817,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "再戦"
           ]
         }
@@ -34024,8 +34019,8 @@
           "section_ja": "ダイヤモンド・パール",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ダイヤモンド・パール",
+            "本編",
+            "手持ちポケモン",
             "ダイヤモンド・パール"
           ]
         },
@@ -34213,8 +34208,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "ジム戦"
           ]
@@ -34442,8 +34437,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "再戦"
           ]
@@ -34632,9 +34627,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "ジム戦"
           ]
         },
@@ -34902,9 +34897,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "再戦"
           ]
         }
@@ -35096,8 +35091,8 @@
           "section_ja": "ダイヤモンド・パール",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ダイヤモンド・パール",
+            "本編",
+            "手持ちポケモン",
             "ダイヤモンド・パール"
           ]
         },
@@ -35277,8 +35272,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "ジム戦"
           ]
@@ -35500,8 +35495,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "プラチナ",
+            "本編",
+            "手持ちポケモン",
             "プラチナ",
             "再戦"
           ]
@@ -35682,9 +35677,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "ジム戦"
           ]
         },
@@ -35946,9 +35941,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ブリリアントダイヤモンド・シャイニングパール",
-            "Brilliant Diamond and Shining Pearl",
             "再戦"
           ]
         }
@@ -36046,8 +36041,8 @@
           "section_ja": "ブラック・ホワイト",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック・ホワイト",
+            "本編",
+            "手持ちポケモン",
             "ブラック・ホワイト"
           ]
         }
@@ -36145,8 +36140,8 @@
           "section_ja": "ブラック・ホワイト",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック・ホワイト",
+            "本編",
+            "手持ちポケモン",
             "ブラック・ホワイト"
           ]
         }
@@ -36244,8 +36239,8 @@
           "section_ja": "ブラック・ホワイト",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック・ホワイト",
+            "本編",
+            "手持ちポケモン",
             "ブラック・ホワイト"
           ]
         }
@@ -36359,8 +36354,8 @@
           "section_ja": "ブラック・ホワイト",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック・ホワイト",
+            "本編",
+            "手持ちポケモン",
             "ブラック・ホワイト"
           ]
         }
@@ -36519,8 +36514,8 @@
           "section_ja": "ブラック・ホワイト",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック・ホワイト",
+            "本編",
+            "手持ちポケモン",
             "ブラック・ホワイト"
           ]
         },
@@ -36665,14 +36660,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "ヒウンジム",
-          "section_ja": "かんたん／ふつうモード",
+          "section_ja": "アシスト／ノーマルモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "かんたん／ふつうモード"
+            "アシスト／ノーマルモード"
           ]
         },
         {
@@ -36853,14 +36848,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "ヒウンジム",
-          "section_ja": "むずかしいモード",
+          "section_ja": "チャレンジモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "むずかしいモード"
+            "チャレンジモード"
           ]
         }
       ],
@@ -37016,8 +37011,8 @@
           "section_ja": "ブラック・ホワイト",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック・ホワイト",
+            "本編",
+            "手持ちポケモン",
             "ブラック・ホワイト"
           ]
         },
@@ -37150,14 +37145,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "ライモンジム",
-          "section_ja": "かんたん／ふつうモード",
+          "section_ja": "アシスト／ノーマルモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "かんたん／ふつうモード"
+            "アシスト／ノーマルモード"
           ]
         },
         {
@@ -37338,14 +37333,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "ライモンジム",
-          "section_ja": "むずかしいモード",
+          "section_ja": "チャレンジモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "むずかしいモード"
+            "チャレンジモード"
           ]
         }
       ],
@@ -37503,8 +37498,8 @@
           "section_ja": "ブラック・ホワイト",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック・ホワイト",
+            "本編",
+            "手持ちポケモン",
             "ブラック・ホワイト"
           ]
         },
@@ -37647,14 +37642,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "ホドモエジム",
-          "section_ja": "かんたん／ふつうモード",
+          "section_ja": "アシスト／ノーマルモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "かんたん／ふつうモード"
+            "アシスト／ノーマルモード"
           ]
         },
         {
@@ -37837,14 +37832,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "ホドモエジム",
-          "section_ja": "むずかしいモード",
+          "section_ja": "チャレンジモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "むずかしいモード"
+            "チャレンジモード"
           ]
         }
       ],
@@ -38002,8 +37997,8 @@
           "section_ja": "ブラック・ホワイト",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック・ホワイト",
+            "本編",
+            "手持ちポケモン",
             "ブラック・ホワイト"
           ]
         },
@@ -38148,14 +38143,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "フキヨセジム",
-          "section_ja": "かんたん／ふつうモード",
+          "section_ja": "アシスト／ノーマルモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "かんたん／ふつうモード"
+            "アシスト／ノーマルモード"
           ]
         },
         {
@@ -38340,14 +38335,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "フキヨセジム",
-          "section_ja": "むずかしいモード",
+          "section_ja": "チャレンジモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "むずかしいモード"
+            "チャレンジモード"
           ]
         }
       ],
@@ -38499,8 +38494,8 @@
           "section_ja": "ブラック・ホワイト",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック・ホワイト",
+            "本編",
+            "手持ちポケモン",
             "ブラック・ホワイト"
           ]
         }
@@ -38653,8 +38648,8 @@
           "section_ja": "ブラック・ホワイト（ホワイト）",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ホワイト",
+            "本編",
+            "手持ちポケモン",
             "ブラック・ホワイト（ホワイト）"
           ]
         }
@@ -38759,14 +38754,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "ヒオウギジム",
-          "section_ja": "かんたん／ふつうモード",
+          "section_ja": "アシスト／ノーマルモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "かんたん／ふつうモード"
+            "アシスト／ノーマルモード"
           ]
         },
         {
@@ -38906,14 +38901,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "ヒオウギジム",
-          "section_ja": "むずかしいモード",
+          "section_ja": "チャレンジモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "むずかしいモード"
+            "チャレンジモード"
           ]
         }
       ],
@@ -39023,14 +39018,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "タチワキジム",
-          "section_ja": "かんたん／ふつうモード",
+          "section_ja": "アシスト／ノーマルモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "かんたん／ふつうモード"
+            "アシスト／ノーマルモード"
           ]
         },
         {
@@ -39170,14 +39165,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "タチワキジム",
-          "section_ja": "むずかしいモード",
+          "section_ja": "チャレンジモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "むずかしいモード"
+            "チャレンジモード"
           ]
         }
       ],
@@ -39326,12 +39321,12 @@
           ],
           "game_ja": "ブラック",
           "location_ja": "ソウリュウジム",
-          "section_ja": "ブラック・ホワイト・Pokémon Black",
-          "section_needs_review": true,
+          "section_ja": "ブラック・ホワイト（ブラック）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック",
-            "ブラック・ホワイト・Pokémon Black"
+            "本編",
+            "手持ちポケモン",
+            "ブラック・ホワイト（ブラック）"
           ]
         },
         {
@@ -39471,14 +39466,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "ソウリュウジム",
-          "section_ja": "かんたん／ふつうモード",
+          "section_ja": "アシスト／ノーマルモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "かんたん／ふつうモード"
+            "アシスト／ノーマルモード"
           ]
         },
         {
@@ -39659,14 +39654,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "ソウリュウジム",
-          "section_ja": "むずかしいモード",
+          "section_ja": "チャレンジモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "むずかしいモード"
+            "チャレンジモード"
           ]
         }
       ],
@@ -39821,14 +39816,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "セイガイハジム",
-          "section_ja": "かんたん／ふつうモード",
+          "section_ja": "アシスト／ノーマルモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "かんたん／ふつうモード"
+            "アシスト／ノーマルモード"
           ]
         },
         {
@@ -40011,14 +40006,14 @@
           ],
           "game_ja": "ブラック2・ホワイト2",
           "location_ja": "セイガイハジム",
-          "section_ja": "むずかしいモード",
+          "section_ja": "チャレンジモード",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ブラック2・ホワイト2",
+            "本編",
+            "手持ちポケモン",
             "ブラック2・ホワイト2",
             "ジム戦",
-            "むずかしいモード"
+            "チャレンジモード"
           ]
         }
       ],
@@ -40128,9 +40123,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "X・Y",
-            "X and Y",
             "ジム戦"
           ]
         }
@@ -40245,9 +40240,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "X・Y",
-            "X and Y",
             "ジム戦"
           ]
         }
@@ -40366,9 +40361,9 @@
           "section_ja": "初戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "X・Y",
-            "X and Y",
             "初戦"
           ]
         },
@@ -40499,9 +40494,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "X・Y",
-            "X and Y",
             "ジム戦"
           ]
         },
@@ -40593,7 +40588,7 @@
                 "こおり"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": "ケケンカニナイト"
             },
             {
               "ndex": "0308",
@@ -40675,7 +40670,7 @@
                 "ひこう"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": "ルチャブルナイト"
             },
             {
               "ndex": "0652",
@@ -40716,7 +40711,7 @@
                 "かくとう"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": "ブリガロナイト"
             },
             {
               "ndex": "0448",
@@ -40757,7 +40752,7 @@
                 "はがね"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": "ルカリオナイトZ"
             }
           ],
           "section_path": [
@@ -40771,9 +40766,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "LEGENDS Z-A",
-            "Pokémon Legends: Z-A",
             "再戦"
           ]
         }
@@ -40923,9 +40918,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "X・Y",
-            "X and Y",
             "ジム戦"
           ]
         }
@@ -41073,9 +41068,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "X・Y",
-            "X and Y",
             "ジム戦"
           ]
         }
@@ -41229,9 +41224,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "X・Y",
-            "X and Y",
             "ジム戦"
           ]
         }
@@ -41389,9 +41384,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "X・Y",
-            "Pokémon X and Y",
             "ジム戦"
           ]
         }
@@ -41543,9 +41538,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "X・Y",
-            "X and Y",
             "ジム戦"
           ]
         }
@@ -41651,8 +41646,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ソード・シールド",
+            "本編",
+            "手持ちポケモン",
             "ジム戦"
           ]
         },
@@ -41873,14 +41868,14 @@
           ],
           "game_ja": "ソード",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Pokémon Sword",
-          "section_needs_review": true,
+          "section_ja": "ソード",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ソード",
+            "本編",
+            "手持ちポケモン",
             "チャンピオン戦（トーナメント）",
-            "前 ガラルスタートーナメント",
-            "Pokémon Sword"
+            "ガラルスタートーナメント前",
+            "ソード"
           ]
         },
         {
@@ -42100,14 +42095,14 @@
           ],
           "game_ja": "シールド",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Pokémon Shield",
-          "section_needs_review": true,
+          "section_ja": "シールド",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "シールド",
+            "本編",
+            "手持ちポケモン",
             "チャンピオン戦（トーナメント）",
-            "前 ガラルスタートーナメント",
-            "Pokémon Shield"
+            "ガラルスタートーナメント前",
+            "シールド"
           ]
         },
         {
@@ -42327,14 +42322,14 @@
           ],
           "game_ja": "ソード",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Pokémon Sword",
-          "section_needs_review": true,
+          "section_ja": "ソード",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ソード",
+            "本編",
+            "手持ちポケモン",
             "チャンピオン戦（トーナメント）",
-            "後 ガラルスタートーナメント",
-            "Pokémon Sword"
+            "ガラルスタートーナメント後",
+            "ソード"
           ]
         },
         {
@@ -42554,14 +42549,14 @@
           ],
           "game_ja": "シールド",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Pokémon Shield",
-          "section_needs_review": true,
+          "section_ja": "シールド",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "シールド",
+            "本編",
+            "手持ちポケモン",
             "チャンピオン戦（トーナメント）",
-            "後 ガラルスタートーナメント",
-            "Pokémon Shield"
+            "ガラルスタートーナメント後",
+            "シールド"
           ]
         },
         {
@@ -42702,13 +42697,13 @@
           ],
           "game_ja": "ソード",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Pokémon Sword",
-          "section_needs_review": true,
+          "section_ja": "ソード",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ソード",
+            "本編",
+            "手持ちポケモン",
             "ガラルスタートーナメント",
-            "Pokémon Sword"
+            "ソード"
           ]
         },
         {
@@ -42849,13 +42844,13 @@
           ],
           "game_ja": "シールド",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Pokémon Shield",
-          "section_needs_review": true,
+          "section_ja": "シールド",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "シールド",
+            "本編",
+            "手持ちポケモン",
             "ガラルスタートーナメント",
-            "Pokémon Shield"
+            "シールド"
           ]
         }
       ],
@@ -43010,9 +43005,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ジム戦"
           ]
         },
@@ -43237,9 +43232,9 @@
           "section_ja": "2戦目",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "2戦目"
           ]
         },
@@ -43465,13 +43460,13 @@
           ],
           "game_ja": "ソード・シールド",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Champion tournament",
-          "section_needs_review": true,
+          "section_ja": "チャンピオン戦（トーナメント）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
-            "Champion tournament"
+            "チャンピオン戦（トーナメント）"
           ]
         },
         {
@@ -43617,9 +43612,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ガラルスタートーナメント"
           ]
         }
@@ -43775,9 +43770,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ジム戦"
           ]
         },
@@ -43997,13 +43992,13 @@
           ],
           "game_ja": "ソード・シールド",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Champion tournament",
-          "section_needs_review": true,
+          "section_ja": "チャンピオン戦（トーナメント）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
-            "Champion tournament"
+            "チャンピオン戦（トーナメント）"
           ]
         },
         {
@@ -44145,9 +44140,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ガラルスタートーナメント"
           ]
         }
@@ -44339,13 +44334,13 @@
           ],
           "game_ja": "ソード",
           "location_ja": "ラテラルスタジアム",
-          "section_ja": "Stow-on-Side Stadium",
-          "section_needs_review": true,
+          "section_ja": "ラテラルスタジアム",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ソード",
-            "Sword and Shield・Pokémon Sword",
-            "Stow-on-Side Stadium"
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（ソード）",
+            "ラテラルスタジアム"
           ]
         },
         {
@@ -44558,13 +44553,13 @@
           ],
           "game_ja": "ソード",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Champion Cup Finals",
-          "section_needs_review": true,
+          "section_ja": "チャンピオンカップ決勝戦",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ソード",
-            "Sword and Shield・Pokémon Sword",
-            "Champion Cup Finals"
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（ソード）",
+            "チャンピオンカップ決勝戦"
           ]
         },
         {
@@ -44781,13 +44776,13 @@
           ],
           "game_ja": "ソード",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Champion tournament",
-          "section_needs_review": true,
+          "section_ja": "チャンピオン戦（トーナメント）",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ソード",
-            "Sword and Shield・Pokémon Sword",
-            "Champion tournament"
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（ソード）",
+            "チャンピオン戦（トーナメント）"
           ]
         },
         {
@@ -44929,9 +44924,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "ソード",
-            "Sword and Shield・Pokémon Sword",
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（ソード）",
             "ガラルスタートーナメント"
           ]
         }
@@ -44991,7 +44986,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0778",
@@ -45119,13 +45115,13 @@
           ],
           "game_ja": "シールド",
           "location_ja": "ラテラルスタジアム",
-          "section_ja": "Stow-on-Side Stadium",
-          "section_needs_review": true,
+          "section_ja": "ラテラルスタジアム",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "シールド",
-            "Sword and Shield・Pokémon Shield",
-            "Stow-on-Side Stadium"
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（シールド）",
+            "ラテラルスタジアム"
           ]
         },
         {
@@ -45340,13 +45336,13 @@
           ],
           "game_ja": "シールド",
           "location_ja": "シュートスタジアム",
-          "section_ja": "Champion Cup",
-          "section_needs_review": true,
+          "section_ja": "チャンピオンカップ",
+          "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "シールド",
-            "Sword and Shield・Pokémon Shield",
-            "Champion Cup"
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（シールド）",
+            "チャンピオンカップ"
           ]
         },
         {
@@ -45570,9 +45566,9 @@
           "section_ja": "チャンピオン戦（トーナメント）",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "シールド",
-            "Sword and Shield・Pokémon Shield",
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（シールド）",
             "チャンピオン戦（トーナメント）"
           ]
         },
@@ -45715,9 +45711,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "シールド",
-            "Sword and Shield・Pokémon Shield",
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（シールド）",
             "ガラルスタートーナメント"
           ]
         }
@@ -45777,7 +45773,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0303",
@@ -45904,9 +45901,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ジム戦"
           ]
         },
@@ -45957,7 +45954,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0468",
@@ -46051,9 +46049,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ガラルスタートーナメント"
           ]
         }
@@ -46195,7 +46193,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0858",
@@ -46250,9 +46249,9 @@
           "section_ja": "4戦目",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "4戦目"
           ]
         },
@@ -46385,7 +46384,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0858",
@@ -46440,9 +46440,9 @@
           "section_ja": "5戦目",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "5戦目"
           ]
         },
@@ -46575,7 +46575,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0700",
@@ -46669,9 +46670,9 @@
           "section_ja": "チャンピオン戦（トーナメント）",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "チャンピオン戦（トーナメント）"
           ]
         },
@@ -46763,7 +46764,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0858",
@@ -46818,9 +46820,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ガラルスタートーナメント"
           ]
         }
@@ -47015,9 +47017,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード",
-            "Pokémon Sword",
             "ジム戦"
           ]
         },
@@ -47244,9 +47246,9 @@
           "section_ja": "チャンピオン戦（トーナメント）",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード",
-            "Pokémon Sword",
             "チャンピオン戦（トーナメント）"
           ]
         },
@@ -47393,9 +47395,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード",
-            "Pokémon Sword",
             "ガラルスタートーナメント"
           ]
         }
@@ -47498,7 +47500,8 @@
                 "こおり"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0875",
@@ -47592,9 +47595,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "シールド",
-            "Sword and Shield・Pokémon Shield",
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（シールド）",
             "ジム戦"
           ]
         },
@@ -47764,7 +47767,8 @@
                 "こおり"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0131",
@@ -47819,9 +47823,9 @@
           "section_ja": "チャンピオン戦（トーナメント）",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "シールド",
-            "Sword and Shield・Pokémon Shield",
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（シールド）",
             "チャンピオン戦（トーナメント）"
           ]
         },
@@ -47911,7 +47915,8 @@
                 "こおり"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0131",
@@ -47966,9 +47971,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "シールド",
-            "Sword and Shield・Pokémon Shield",
+            "本編",
+            "手持ちポケモン",
+            "ソード・シールド（シールド）",
             "ガラルスタートーナメント"
           ]
         }
@@ -48169,9 +48174,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ジム戦"
           ]
         },
@@ -48345,7 +48350,8 @@
                 "どく"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ローなすがた"
             },
             {
               "ndex": "0862",
@@ -48400,9 +48406,9 @@
           "section_ja": "チャンピオン戦（トーナメント）",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "チャンピオン戦（トーナメント）"
           ]
         },
@@ -48494,7 +48500,8 @@
                 "どく"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ローなすがた"
             },
             {
               "ndex": "0862",
@@ -48549,9 +48556,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ガラルスタートーナメント"
           ]
         }
@@ -48736,7 +48743,8 @@
                 "あく"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "まんぷくもよう"
             },
             {
               "ndex": "0861",
@@ -48791,9 +48799,9 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "再戦"
           ]
         },
@@ -48965,7 +48973,8 @@
                 "あく"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "まんぷくもよう"
             },
             {
               "ndex": "0861",
@@ -49020,9 +49029,9 @@
           "section_ja": "チャンピオン戦（トーナメント）",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "チャンピオン戦（トーナメント）"
           ]
         },
@@ -49073,7 +49082,8 @@
                 "あく"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "まんぷくもよう"
             },
             {
               "ndex": "0560",
@@ -49169,9 +49179,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ガラルスタートーナメント"
           ]
         }
@@ -49368,9 +49378,9 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ジム戦"
           ]
         },
@@ -49595,9 +49605,9 @@
           "section_ja": "2戦目",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "2戦目"
           ]
         },
@@ -49822,9 +49832,9 @@
           "section_ja": "チャンピオン戦（トーナメント）",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "チャンピオン戦（トーナメント）"
           ]
         },
@@ -49969,9 +49979,9 @@
           "section_ja": "ガラルスタートーナメント",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
+            "本編",
+            "手持ちポケモン",
             "ソード・シールド",
-            "Sword and Shield",
             "ガラルスタートーナメント"
           ]
         }
@@ -50100,8 +50110,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "ジム戦"
           ]
         },
@@ -50325,8 +50335,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "再戦"
           ]
         },
@@ -50591,8 +50601,8 @@
           "section_ja": "リーグ部",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "リーグ部"
           ]
         }
@@ -50723,8 +50733,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "ジム戦"
           ]
         },
@@ -50946,8 +50956,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "再戦"
           ]
         },
@@ -51210,8 +51220,8 @@
           "section_ja": "リーグ部",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "リーグ部"
           ]
         }
@@ -51381,8 +51391,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "ジム戦"
           ]
         },
@@ -51602,8 +51612,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "再戦"
           ]
         },
@@ -51862,8 +51872,8 @@
           "section_ja": "リーグ部",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "リーグ部"
           ]
         }
@@ -52008,8 +52018,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "ジム戦"
           ]
         },
@@ -52233,8 +52243,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "再戦"
           ]
         },
@@ -52497,8 +52507,8 @@
           "section_ja": "リーグ部",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "リーグ部"
           ]
         }
@@ -52637,8 +52647,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "ジム戦"
           ]
         },
@@ -52860,8 +52870,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "再戦"
           ]
         },
@@ -53124,8 +53134,8 @@
           "section_ja": "リーグ部",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "リーグ部"
           ]
         }
@@ -53292,7 +53302,8 @@
                 "どく"
               ],
               "tera_ja": "ゴースト",
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ローなすがた"
             }
           ],
           "section_path": [
@@ -53305,8 +53316,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "ジム戦"
           ]
         },
@@ -53517,7 +53528,8 @@
                 "どく"
               ],
               "tera_ja": "ゴースト",
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ローなすがた"
             }
           ],
           "section_path": [
@@ -53530,8 +53542,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "再戦"
           ]
         },
@@ -53783,7 +53795,8 @@
                 "どく"
               ],
               "tera_ja": "ゴースト",
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ローなすがた"
             }
           ],
           "section_path": [
@@ -53796,8 +53809,8 @@
           "section_ja": "リーグ部",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "リーグ部"
           ]
         }
@@ -53977,8 +53990,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "ジム戦"
           ]
         },
@@ -54202,8 +54215,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "再戦"
           ]
         },
@@ -54468,8 +54481,8 @@
           "section_ja": "リーグ部",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "リーグ部"
           ]
         }
@@ -54653,8 +54666,8 @@
           "section_ja": "ジム戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "ジム戦"
           ]
         },
@@ -54870,8 +54883,8 @@
           "section_ja": "再戦",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "再戦"
           ]
         },
@@ -54922,7 +54935,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0614",
@@ -55136,8 +55150,8 @@
           "section_ja": "リーグ部",
           "section_needs_review": false,
           "section_path_ja": [
-            "In the core series games",
-            "スカーレット・バイオレット",
+            "本編",
+            "手持ちポケモン",
             "リーグ部"
           ]
         }

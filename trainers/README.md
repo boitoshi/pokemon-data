@@ -74,3 +74,19 @@ uv run scripts/audit_gym_japanese_sources.py --replay ../pokemon-data/trainers/g
 ```
 
 後続の調査では固定した観測を手修正せず、新たな取得記録と比較結果を生成し、変更をレビューします。
+
+## 日本語の表示名
+
+`gym-leader-localization.json` はジム専用の見出し・場所・フォームの日本語表示名と、持ち物の参照対応の正本です。
+作品名・初戦／再戦回数・難易度・版の区別を保って日本語化します。原文の `section_path` や英語名、手持ちの個体属性は保持します。
+ゲーム名を含む `sections` の値は参照オブジェクトです。`group` は `games/groups.json` の `name_ja`、
+`groups` は指定順の `name_ja` を「・」で連結、`title` は `games/titles.json` の `shortName` を参照します。
+`group` と `title` がある場合は「グループ名（タイトル短名）」、`title` だけなら短名を表示します。
+対戦条件などゲーム名以外の値は日本語文字列です。BW2のモード名は `sources.battleModeNames` の公式資料に基づきます。
+ゲームやフォームの事実は `games/`・`forms/` の既存正本を参照し、このファイルへ再取得・複製しません。
+
+`items` は英語の持ち物名を `dexNo` と `formName` に対応付け、`forms/special-forms.json` の該当フォームの
+`requiredItem` から日本語名を参照します。持ち物名の別コピーは保持しません。
+`forms` の対訳は表示用の `form_ja` に適用します。`form` の原文は残します。
+表示名の日本語化は手持ちの事実照合を意味せず、対訳・施設名の公式表記との照合も未完了です。
+`gym-leader-japanese-audit.json` の未評価範囲を日本語化によって検証済みに変更しません。

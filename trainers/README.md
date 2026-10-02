@@ -51,3 +51,26 @@ node scripts/test-validate-gym-leaders.mjs
 検証は名簿の参照・重複・地方・並び順・専門タイプを確認し、手持ちが生成済みなら名簿との集合一致、
 空の手持ち、PWT混入、種族名と全国図鑑番号の不一致、日本語の技名の欠落を検出します。
 技の日本語表記が正しいことや資料上の数値との一致まで保証するものではありません。
+
+## 日本語資料との一次突合記録
+
+`gym-leader-japanese-audit.json` は取得時点の資料観測と照合結果を固定した証拠記録です。
+ゲームの事実の正本は引き続き `gym-leaders.json`。この記録の `source_observations`・生の資料表記を
+正本として扱ったり、差分を自動で正本へ上書きしたりしません。
+資料URL・見出し・取得日時・資料SHA、各正本行のSHAを保持しており、公開前には正本の変更有無を確認し、再実行・レビューしてください。
+
+`matched` は種族・レベルと資料に明記された比較項目だけの一致です。技・性別・特性・持ち物は
+資料にある場合だけ比較し、欠落項目は `gaps` に残します。フォーム・テラスタイプ・タイプなどは未評価です。
+`scope` が partial の行は作品・モードの一部しか比較していません。
+`difference` は資料との食い違いであり、正本の誤り確定ではありません。
+`candidate_only` の差分行は編成が完全一致しない候補で、項目比較は未実施です。
+`ambiguous` は候補の特定が未決、`unavailable` は今回の資料では照合できなかった行です。
+公式・実機での検証や全項目の確認を意味せず、verified フラグを付けません。
+
+content-hub の `scripts/audit_gym_japanese_sources.py` で、ネットワーク・キャッシュに触れず保存済み証拠から再計算できます。
+
+```bash
+uv run scripts/audit_gym_japanese_sources.py --replay ../pokemon-data/trainers/gym-leader-japanese-audit.json --out /tmp/gym-ja-audit-replay.json
+```
+
+後続の調査では固定した観測を手修正せず、新たな取得記録と比較結果を生成し、変更をレビューします。

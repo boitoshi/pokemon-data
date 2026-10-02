@@ -7,7 +7,8 @@
     "日本語版向けの配信一覧を対象とし、海外で配信されたものも含みます。",
     "配布方式はテンプレートから抽出できないため「未確認」としています。",
     "配信名や日付は資料に基づいており、公式資料・実機との照合は未完了です。",
-    "この一覧は配信の網羅性を保証するものではありません。"
+    "この一覧は配信の網羅性を保証するものではありません。",
+    "配信名には原資料を日本語化した表示名を含みます。当時の公式名称との照合は未完了です。"
   ],
   "entries": [
     {
@@ -18,7 +19,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Pokémon Center 5th Anniversary Eggs / Wish Bagon",
+      "eventName": "ポケモンセンター5周年記念タマゴ／タツベイ（ねがいごと）",
       "distributionMethod": "未確認",
       "startDate": "2003-04-25",
       "endDate": "2003-05-18",
@@ -37,7 +38,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Center 5th Anniversary Eggs / Wish Bagon"
       },
       "references": [
         {
@@ -54,7 +56,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Pokémon Center 5th Anniversary Eggs / Iron Defense Bagon",
+      "eventName": "ポケモンセンター5周年記念タマゴ／タツベイ（てっぺき）",
       "distributionMethod": "未確認",
       "startDate": "2003-04-25",
       "endDate": "2003-05-18",
@@ -73,7 +75,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Center 5th Anniversary Eggs / Iron Defense Bagon"
       },
       "references": [
         {
@@ -90,7 +93,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Pokémon Center 5th Anniversary Eggs / Wish Absol",
+      "eventName": "ポケモンセンター5周年記念タマゴ／アブソル（ねがいごと）",
       "distributionMethod": "未確認",
       "startDate": "2003-04-25",
       "endDate": "2003-05-18",
@@ -109,7 +112,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Center 5th Anniversary Eggs / Wish Absol"
       },
       "references": [
         {
@@ -126,7 +130,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Pokémon Center 5th Anniversary Eggs / Spite Absol",
+      "eventName": "ポケモンセンター5周年記念タマゴ／アブソル（うらみ）",
       "distributionMethod": "未確認",
       "startDate": "2003-04-25",
       "endDate": "2003-05-18",
@@ -145,7 +149,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Center 5th Anniversary Eggs / Spite Absol"
       },
       "references": [
         {
@@ -162,7 +167,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Pokémon Center 5th Anniversary Eggs / Wish Ralts",
+      "eventName": "ポケモンセンター5周年記念タマゴ／ラルトス（ねがいごと）",
       "distributionMethod": "未確認",
       "startDate": "2003-04-25",
       "endDate": "2003-05-18",
@@ -180,7 +185,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Center 5th Anniversary Eggs / Wish Ralts"
       },
       "references": [
         {
@@ -197,7 +203,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Pokémon Center 5th Anniversary Eggs / Charm Ralts",
+      "eventName": "ポケモンセンター5周年記念タマゴ／ラルトス（あまえる）",
       "distributionMethod": "未確認",
       "startDate": "2003-04-25",
       "endDate": "2003-05-18",
@@ -215,7 +221,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Center 5th Anniversary Eggs / Charm Ralts"
       },
       "references": [
         {
@@ -232,7 +239,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Pokémon Center 5th Anniversary Eggs / Wish Pichu",
+      "eventName": "ポケモンセンター5周年記念タマゴ／ピチュー（ねがいごと）",
       "distributionMethod": "未確認",
       "startDate": "2003-04-25",
       "endDate": "2003-05-18",
@@ -251,7 +258,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Center 5th Anniversary Eggs / Wish Pichu"
       },
       "references": [
         {
@@ -268,7 +276,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Pokémon Center 5th Anniversary Eggs / Teeter Dance Pichu",
+      "eventName": "ポケモンセンター5周年記念タマゴ／ピチュー（フラフラダンス）",
       "distributionMethod": "未確認",
       "startDate": "2003-04-25",
       "endDate": "2003-05-18",
@@ -287,7 +295,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 出会った場所は孵化した場所（具体的な場所は未確認）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Center 5th Anniversary Eggs / Teeter Dance Pichu"
       },
       "references": [
         {
@@ -304,7 +313,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Wishing Star Jirachi",
+      "eventName": "ネガイボシのジラーチ",
       "distributionMethod": "未確認",
       "startDate": "2003-06-21",
       "endDate": "2003-08-24",
@@ -325,7 +334,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 配布期間は連続ではなく、各期間: 2003-06-21〜2003-06-22 / 2003-07-19〜2003-08-24。開始日・終了日は全期間の外縁。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Wishing Star Jirachi"
       },
       "references": [
         {
@@ -342,7 +352,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Pokémon Stamp Ruby and Sapphire Absol",
+      "eventName": "ポケモンスタンプ ルビー・サファイア／アブソル",
       "distributionMethod": "未確認",
       "startDate": "2003-10-03",
       "endDate": "2003-10-03",
@@ -360,7 +370,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Stamp Ruby and Sapphire Absol"
       },
       "references": [
         {
@@ -377,7 +388,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Pokémon Stamp Ruby and Sapphire Contest Pichu",
+      "eventName": "ポケモンスタンプ ルビー・サファイア／コンテストのピチュー",
       "distributionMethod": "未確認",
       "startDate": "2003-12-29",
       "endDate": "2003-12-29",
@@ -394,7 +405,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Stamp Ruby and Sapphire Contest Pichu"
       },
       "references": [
         {
@@ -411,7 +423,7 @@
         "ruby",
         "sapphire"
       ],
-      "eventName": "Berry Program Update Zigzagoon",
+      "eventName": "きのみプログラム更新のジグザグマ",
       "distributionMethod": "未確認",
       "startDate": "2003-12-29",
       "endDate": "2004-03-31",
@@ -434,7 +446,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Berry Program Update Zigzagoon"
       },
       "references": [
         {
@@ -594,7 +607,7 @@
         "firered",
         "leafgreen"
       ],
-      "eventName": "2004 Tanabata Jirachi",
+      "eventName": "七夕ジラーチ（2004年）",
       "distributionMethod": "未確認",
       "startDate": "2004-07-01",
       "endDate": "2004-08-15",
@@ -619,7 +632,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 配布期間は連続ではなく、各期間: 2004-07-01〜2004-07-07 / 2004-07-17〜2004-08-15。開始日・終了日は全期間の外縁。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: 2004 Tanabata Jirachi"
       },
       "references": [
         {
@@ -639,7 +653,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "All Nippon Airways Pikachu",
+      "eventName": "ANAのピカチュウ",
       "distributionMethod": "未確認",
       "startDate": "2004-12-05",
       "endDate": "2004-12-25",
@@ -665,7 +679,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: All Nippon Airways Pikachu"
       },
       "references": [
         {
@@ -1272,7 +1287,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "PokéPark Meowth",
+      "eventName": "ポケパークのニャース",
       "distributionMethod": "未確認",
       "startDate": "2005-03-18",
       "endDate": "2005-09-25",
@@ -1293,7 +1308,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: PokéPark Meowth"
       },
       "references": [
         {
@@ -1313,7 +1329,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "Yokohama Pikachu",
+      "eventName": "ヨコハマのピカチュウ",
       "distributionMethod": "未確認",
       "startDate": "2005-03-19",
       "endDate": "2005-04-03",
@@ -1336,7 +1352,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Yokohama Pikachu"
       },
       "references": [
         {
@@ -1356,7 +1373,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "Hadō Mew",
+      "eventName": "ハドウのミュウ",
       "distributionMethod": "未確認",
       "startDate": "2005-06-25",
       "endDate": "2005-08-31",
@@ -1375,7 +1392,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Hadō Mew"
       },
       "references": [
         {
@@ -1395,7 +1413,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "GW Pikachu",
+      "eventName": "GWのピカチュウ",
       "distributionMethod": "未確認",
       "startDate": "2005-04-25",
       "endDate": "2005-05-08",
@@ -1418,7 +1436,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: GW Pikachu"
       },
       "references": [
         {
@@ -1438,7 +1457,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "Sapporo Pikachu",
+      "eventName": "サッポロのピカチュウ",
       "distributionMethod": "未確認",
       "startDate": "2005-07-01",
       "endDate": "2005-08-21",
@@ -1461,7 +1480,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Sapporo Pikachu"
       },
       "references": [
         {
@@ -1481,7 +1501,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "Pokémon Festa 2005 Pokémon / 2005 Tanabata Jirachi",
+      "eventName": "ポケモンフェスタ2005／七夕ジラーチ（2005年）",
       "distributionMethod": "未確認",
       "startDate": "2005-07-17",
       "endDate": "2005-08-21",
@@ -1502,7 +1522,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Festa 2005 Pokémon / 2005 Tanabata Jirachi"
       },
       "references": [
         {
@@ -1522,7 +1543,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "Pokémon Festa 2005 Pokémon / Festa Metang",
+      "eventName": "ポケモンフェスタ2005／フェスタのメタング",
       "distributionMethod": "未確認",
       "startDate": "2005-07-17",
       "endDate": "2005-08-21",
@@ -1546,7 +1567,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Festa 2005 Pokémon / Festa Metang"
       },
       "references": [
         {
@@ -1566,7 +1588,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "Pokémon Festa 2005 Pokémon / Pokémon Sunday Wobbuffet",
+      "eventName": "ポケモンフェスタ2005／ポケモンサンデーのソーナンス",
       "distributionMethod": "未確認",
       "startDate": "2005-07-17",
       "endDate": "2005-08-21",
@@ -1589,7 +1611,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Pokémon Festa 2005 Pokémon / Pokémon Sunday Wobbuffet"
       },
       "references": [
         {
@@ -1609,7 +1632,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "Hadō legendary giants / Registeel",
+      "eventName": "ハドウのレジスチル",
       "distributionMethod": "未確認",
       "startDate": "2005-09-01",
       "endDate": "2005-09-25",
@@ -1630,7 +1653,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Hadō legendary giants / Registeel"
       },
       "references": [
         {
@@ -1650,7 +1674,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "Hadō legendary giants / Regice",
+      "eventName": "ハドウのレジアイス",
       "distributionMethod": "未確認",
       "startDate": "2005-09-01",
       "endDate": "2005-09-25",
@@ -1671,7 +1695,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Hadō legendary giants / Regice"
       },
       "references": [
         {
@@ -1691,7 +1716,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "Hadō legendary giants / Regirock",
+      "eventName": "ハドウのレジロック",
       "distributionMethod": "未確認",
       "startDate": "2005-09-01",
       "endDate": "2005-09-25",
@@ -1712,7 +1737,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Hadō legendary giants / Regirock"
       },
       "references": [
         {
@@ -1732,7 +1758,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "PokéPark Mew",
+      "eventName": "ポケパークのミュウ",
       "distributionMethod": "未確認",
       "startDate": "2006-05-10",
       "endDate": "2006-06-04",
@@ -1756,7 +1782,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: PokéPark Mew"
       },
       "references": [
         {
@@ -1776,7 +1803,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "PokéPark Celebi",
+      "eventName": "ポケパークのセレビィ",
       "distributionMethod": "未確認",
       "startDate": "2006-06-23",
       "endDate": "2006-09-24",
@@ -1800,7 +1827,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: PokéPark Celebi"
       },
       "references": [
         {
@@ -1820,7 +1848,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "2006 Tanabata Jirachi",
+      "eventName": "七夕ジラーチ（2006年）",
       "distributionMethod": "未確認",
       "startDate": "2006-07-15",
       "endDate": "2006-07-31",
@@ -1841,7 +1869,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: 2006 Tanabata Jirachi"
       },
       "references": [
         {
@@ -1861,7 +1890,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "Mitsurin Celebi",
+      "eventName": "ミツリンのセレビィ",
       "distributionMethod": "未確認",
       "startDate": "2006-07-20",
       "endDate": "2006-09-03",
@@ -1882,7 +1911,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: Mitsurin Celebi"
       },
       "references": [
         {
@@ -1902,7 +1932,7 @@
         "leafgreen",
         "emerald"
       ],
-      "eventName": "PokéPark Jirachi",
+      "eventName": "ポケパークのジラーチ",
       "distributionMethod": "未確認",
       "startDate": "2006-07-24",
       "endDate": "2006-08-30",
@@ -1926,7 +1956,8 @@
       "notes": "配布方式は未確認（テンプレートから抽出できないため）。 配布期間は連続ではなく、各期間: 2006-07-24〜2006-07-31 / 2006-08-23〜2006-08-30。開始日・終了日は全期間の外縁。 親名・ID・持ち物の複数候補は配布条件による違いを含む。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_in_Generation_III",
+        "note": "原資料の配信名: PokéPark Jirachi"
       },
       "references": [
         {

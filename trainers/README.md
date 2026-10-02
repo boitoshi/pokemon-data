@@ -90,3 +90,25 @@ uv run scripts/audit_gym_japanese_sources.py --replay ../pokemon-data/trainers/g
 `forms` の対訳は表示用の `form_ja` に適用します。`form` の原文は残します。
 表示名の日本語化は手持ちの事実照合を意味せず、対訳・施設名の公式表記との照合も未完了です。
 `gym-leader-japanese-audit.json` の未評価範囲を日本語化によって検証済みに変更しません。
+
+## ポケモンWikiによる追加照合
+
+`gym-leader-pokemon-wiki-audit.json` は、ポケモンWikiから取得した表と正本を比較した別の証拠記録です。
+`gym-leader-pokemon-wiki-audit.md` は同じJSONから生成する閲覧用一覧で、手編集しません。
+以前の `gym-leader-japanese-audit.json` の記録を置換したり、他資料との食い違いを解決済みにしたりしません。
+
+`source_tables` は原文の表HTML・テキストをハッシュ単位で保持し、`source_observations` は表の各戦闘条件を参照します。
+`rows` は正本の人物・party index・party hashを持ちます。`matched` は比較した項目だけの一致です。
+`candidate_difference` は種族・レベルが一致せず対応自体が未確定の候補、`unavailable` は今回の条件付き照合で表を特定できなかった行です。
+取得拒否や資料が存在しないという意味にはしません。未記載の持ち物・特性等は「なし」にせず未照合に残します。
+資料の対戦条件・難易度・版を区別し、フォーム・タイプ・テラスタイプは未照合として保持します。
+正本の手持ちの事実値はこの照合で自動修正しません。公式・実機の確認とは別です。
+
+content-hubで保存済み証拠を再比較できます（ネットワーク・取得キャッシュを使用しません）。
+
+```bash
+uv run scripts/audit_gym_pokemon_wiki.py --replay ../pokemon-data/trainers/gym-leader-pokemon-wiki-audit.json --out /tmp/gym-wiki-replay.json --markdown /tmp/gym-wiki-replay.md
+```
+
+初回取得は `--fetch`（既存キャッシュがないページだけaxで取得）、通常の取得済み表の再抽出は `--cache` を使います。
+閲覧用Markdownは上のコマンドの `--markdown` でJSONと一緒に生成します。

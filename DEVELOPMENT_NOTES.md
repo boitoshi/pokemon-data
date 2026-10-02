@@ -187,8 +187,7 @@ pokemon-data/
 
 ### route の項目（2026-09-29 追加）
 
-決定の経緯は ADR（ribbon-tracker リポジトリ `docs/adr/0001-pokemon-data-ribbon-availability.md` に暫定配置。
-後日 content-hub の ADR へ移す）。
+決定の経緯は [content-hub ADR 0018](../pokebros-content-hub/docs/adr/0018-ribbon-availability-services-and-ports.md)（2026-10-03 に tracker の ADR 0001 から移設）。
 
 | 項目 | 必須 | 内容 |
 |---|---|---|

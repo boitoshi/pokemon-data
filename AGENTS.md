@@ -33,7 +33,7 @@
 - `notes` は読者向けの備考だけ。確認日は `verified`、出典URLは `references`、統合などの作業メモは git 履歴に残す
 - catalog の route には `timing`（必須）と、ソフトで取り方が違うときだけ `methods[]`（`availability` / `requiresServices` 等）を書く。
   出典は `references`、資料を読んで確認した日は `checkedAt`、`verified` は実機（公式画像）で確かめたときだけ（詳細は `DEVELOPMENT_NOTES.md`。
-  決定の経緯は ribbon-tracker の `docs/adr/0001-pokemon-data-ribbon-availability.md` に暫定配置）
+  決定の経緯は `../pokebros-content-hub/docs/adr/0018-ribbon-availability-services-and-ports.md`）
 - 移植版（`portOf` を持つ title）は catalog に明示的に書く（生成時に展開しない）。移植元を含む route は、移植版を `games` に入れるか
   `excludedPorts` に書くかを決める。決めていないと `npm run validate:ribbons` が一覧を出して止める
 - `mappings/` を参照する他リポジトリ（distribution-scraper 等）は symlink 経由。実体はここだけ

@@ -810,7 +810,7 @@
     "region": "ヒスイ",
     "home": {
       "send": true,
-      "receive": false
+      "receive": true
     }
   },
   {

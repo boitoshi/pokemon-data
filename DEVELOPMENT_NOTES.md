@@ -167,7 +167,7 @@ pokemon-data/
 ### HOME連携の注意点
 
 - Gen1〜Gen7 3DSタイトル: 直接HOME接続なし（Pokémon Bank経由のみ）→ `send/receive: false`
-- レジェンズアルセウス: HOMEへ出せるが、HOMEから受け取れない → `send: true, receive: false`
+- レジェンズアルセウス: HOMEとの間で預ける・引き出すの両方ができる → `send: true, receive: true`。剣盾・BDSP で捕まえた子も連れて行ける（ストレンジボールで表示）。出典: 公式 https://www.pokemon.co.jp/ex/pokemonhome/ja/titles/legends_arceus/ （2026-10-04 確認）
 - Let's Go系以降のSwitchタイトル: 基本的に `send/receive: true`
 
 ---
@@ -463,7 +463,7 @@ brief も「今日まで（終了時刻は未確認）」と出すので、空�
 - `form_id` はPokeAPI命名規則に準拠（将来的な英語ソースとの照合用）
 - `gigantamax` はタイプ変化なしでも収録（`gmax_move` 情報が有用なため）
 - DLCは親タイトルの `dlc[]` 配列で管理（独立エントリにしない）
-- HOME連携は `home: {send, receive}` で非対称ケース（LA等）に対応
+- HOME連携は `home: {send, receive}` で非対称ケースに対応
 - `availableIn` の粒度はタイトルペア単位を維持（DLC単位には細分化しない）
 
 ---

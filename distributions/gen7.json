@@ -3125,6 +3125,7 @@
       "id": "07090",
       "dexNo": 807,
       "pokemonName": "ゼラオラ",
+      "duplicateOf": "07046",
       "games": [
         "ultra_sun",
         "ultra_moon"
@@ -5018,6 +5019,7 @@
       "id": "07137",
       "dexNo": 773,
       "pokemonName": "シルヴァディ",
+      "duplicateOf": "07028",
       "games": [
         "sun",
         "moon"
@@ -5390,6 +5392,7 @@
       "id": "07098",
       "dexNo": 785,
       "pokemonName": "カプ・コケコ",
+      "duplicateOf": "07015",
       "games": [
         "sun",
         "moon"

@@ -362,6 +362,24 @@ for (const { entry, where } of allEntries) {
   }
 }
 
+// ---- duplicateOf: 参照先が存在し、同じポケモンで、参照先自身は重複でないこと ----
+for (const { entry, where } of allEntries) {
+  if (entry.duplicateOf === undefined) continue;
+  const target = entryById.get(entry.duplicateOf);
+  if (entry.duplicateOf === entry.id) {
+    throw new Error(`${where}: duplicateOf が自分自身を指しています`);
+  }
+  if (!target) {
+    throw new Error(`${where}: duplicateOf "${entry.duplicateOf}" が存在しません`);
+  }
+  if (target.dexNo !== entry.dexNo) {
+    throw new Error(`${where}: duplicateOf "${entry.duplicateOf}" は別のポケモン（${target.pokemonName}）です`);
+  }
+  if (target.duplicateOf !== undefined) {
+    throw new Error(`${where}: duplicateOf "${entry.duplicateOf}" 自身も重複です。本来のエントリを直接指してください`);
+  }
+}
+
 // ---- 結果表示 ----
 console.log("=== ファイル別件数 ===");
 let total = 0;

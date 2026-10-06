@@ -370,6 +370,9 @@ const records = [];
 const counts = {};
 // データセット単位の前提知識（正本: 各 distributions/*.json の datasetNotes）。meta.json 経由で消費側へ渡す
 const datasetNotes = {};
+// 重複エントリ（正本の duplicateOf）は pokemon.json に出さず、重複id→本来のid の対応だけを meta.json へ渡す。
+// 消費側は公開URL /pokemon/{重複id} を本来のidのページへ転送する（正本: distributions/schema.json の duplicateOf）
+const redirects = {};
 
 for (const { dataset, file } of DATASETS) {
   const payload = readJson(path.join("distributions", file));
@@ -395,7 +398,12 @@ for (const { dataset, file } of DATASETS) {
     idSet.add(entry.id);
   }
 
-  const converted = payload.entries.map((entry) => convertEntry(entry, generation));
+  for (const entry of payload.entries) {
+    if (entry.duplicateOf !== undefined) redirects[entry.id] = entry.duplicateOf;
+  }
+  const converted = payload.entries
+    .filter((entry) => entry.duplicateOf === undefined)
+    .map((entry) => convertEntry(entry, generation));
   records.push(...converted);
   counts[dataset] = converted.length;
 }
@@ -441,6 +449,7 @@ const meta = {
   counts,
   byGeneration,
   datasetNotes,
+  redirects,
 };
 
 fs.writeFileSync(pokemonPath, JSON.stringify(records, null, 2) + "\n", "utf8");
@@ -452,4 +461,5 @@ for (const { dataset } of DATASETS) {
   console.log(`    ${dataset}: ${counts[dataset]}件`);
 }
 console.log(`  byGeneration: ${JSON.stringify(byGeneration)}`);
+console.log(`  redirects（重複→本来のid）: ${Object.keys(redirects).length}件`);
 console.log(`  ${path.relative(root, metaPath)} を出力しました`);

@@ -823,7 +823,7 @@
         "moon"
       ],
       "eventName": "まぼろしのポケモン　マーシャドー",
-      "distributionMethod": "未確認",
+      "distributionMethod": "ローカル通信",
       "startDate": "2017-07-15",
       "endDate": "2017-09-30",
       "region": [
@@ -857,7 +857,7 @@
       ],
       "source": {
         "kind": "self",
-        "note": "期間・Lv・リボン・親名は公式リリース（4Gamer転載）。特性・持ち物なし・ボール・技は受け取った人のブログ2件（aokusukitoru3ytn.blog.fc2.com/blog-entry-955.html、pente.koro-pokemon.com/sm/get-marshadow.shtml）で一致。ID・性格・3V・カード名・出会った場所は前者1件だけ（出会った場所は既存07023と同じ表記に揃えた）。受け取り方は未確認"
+        "note": "期間・Lv・リボン・親名は公式リリース（4Gamer転載）。特性・持ち物なし・ボール・技は受け取った人のブログ2件（aokusukitoru3ytn.blog.fc2.com/blog-entry-955.html、pente.koro-pokemon.com/sm/get-marshadow.shtml）で一致。ID・性格・3V・カード名・出会った場所は前者1件だけ（出会った場所は既存07023と同じ表記に揃えた）。受け取り方は映画館で本体を開いて受け取るローカル通信（2026-10-06 ユーザー確認。既存の映画館配信 06193 ゲッコウガ・05084 あかいゲノセクトと同じ）"
       }
     },
     {
@@ -1570,7 +1570,7 @@
         "ultra_moon"
       ],
       "eventName": "まぼろしのポケモン　ゼラオラ",
-      "distributionMethod": "未確認",
+      "distributionMethod": "ローカル通信",
       "startDate": "2018-07-13",
       "endDate": "2018-09-30",
       "region": [
@@ -1599,7 +1599,7 @@
       "notes": "「劇場版ポケットモンスター みんなの物語」を上映する映画館で、上映期間中にプレゼントされた。上映終了日は劇場ごとに違い、プレゼントは最長で2018年9月30日まで。ウルトラサン・ウルトラムーンのみで、サン・ムーンでは受け取れない。",
       "source": {
         "kind": "self",
-        "note": "期間・Lv・特性・ボール・リボン・もちもの・親名・技2つは nikki.koro-pokemon.com/article/183551630.html（公式発表の紹介）と aokusukitoru3ytn.blog.fc2.com/blog-entry-1560.html（受け取った人）で一致。ID・技4つ・性格・3V・カード名・出会った場所は後者1件だけ（出会った場所は既存07046と同じ表記に揃えた）。公式 usum/story/180409_01 は映画に登場することだけを書いている。受け取り方は未確認"
+        "note": "期間・Lv・特性・ボール・リボン・もちもの・親名・技2つは nikki.koro-pokemon.com/article/183551630.html（公式発表の紹介）と aokusukitoru3ytn.blog.fc2.com/blog-entry-1560.html（受け取った人）で一致。ID・技4つ・性格・3V・カード名・出会った場所は後者1件だけ（出会った場所は既存07046と同じ表記に揃えた）。公式 usum/story/180409_01 は映画に登場することだけを書いている。受け取り方は映画館で本体を開いて受け取るローカル通信（2026-10-06 ユーザー確認。既存の映画館配信 06193 ゲッコウガ・05084 あかいゲノセクトと同じ）"
       }
     },
     {

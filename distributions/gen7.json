@@ -1562,6 +1562,47 @@
       ]
     },
     {
+      "id": "07161",
+      "dexNo": 807,
+      "pokemonName": "ゼラオラ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "まぼろしのポケモン　ゼラオラ",
+      "distributionMethod": "未確認",
+      "startDate": "2018-07-13",
+      "endDate": "2018-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "nature": "ランダム",
+      "ivsGuaranteed": 3,
+      "ability": "ちくでん",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンえいが１８",
+      "heldItem": "ふうせん",
+      "ot": {
+        "JPN": "フウラシティ"
+      },
+      "trainerId": "180713",
+      "moves": [
+        "プラズマフィスト",
+        "かみなりパンチ",
+        "インファイト",
+        "かみなり"
+      ],
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "「劇場版ポケットモンスター みんなの物語」を上映する映画館で、上映期間中にプレゼントされた。上映終了日は劇場ごとに違い、プレゼントは最長で2018年9月30日まで。ウルトラサン・ウルトラムーンのみで、サン・ムーンでは受け取れない。",
+      "source": {
+        "kind": "self",
+        "note": "期間・Lv・特性・ボール・リボン・もちもの・親名・技2つは nikki.koro-pokemon.com/article/183551630.html（公式発表の紹介）と aokusukitoru3ytn.blog.fc2.com/blog-entry-1560.html（受け取った人）で一致。ID・技4つ・性格・3V・カード名・出会った場所は後者1件だけ（出会った場所は既存07046と同じ表記に揃えた）。公式 usum/story/180409_01 は映画に登場することだけを書いている。受け取り方は未確認"
+      }
+    },
+    {
       "id": "07044",
       "dexNo": 778,
       "pokemonName": "ミミッキュ",

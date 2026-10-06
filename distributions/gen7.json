@@ -815,6 +815,41 @@
       ]
     },
     {
+      "id": "07160",
+      "dexNo": 802,
+      "pokemonName": "マーシャドー",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "マーシャドー（映画入場者プレゼント）",
+      "distributionMethod": "未確認",
+      "startDate": "2017-07-15",
+      "endDate": "2017-09-30",
+      "region": [
+        "日本"
+      ],
+      "level": 50,
+      "ot": {
+        "JPN": "テンセイざん"
+      },
+      "ribbons": [
+        "ウィッシュリボン"
+      ],
+      "notes": "「劇場版ポケットモンスター キミにきめた！」を上映する映画館で、上映期間中にマーシャドーZと一緒にプレゼントされた。上映終了日は劇場ごとに違い、プレゼントは最長で2017年9月30日まで。ふしぎなカードの名前・IDなどは未確認。",
+      "references": [
+        {
+          "url": "https://www.4gamer.net/games/335/G033525/20170615010/",
+          "label": "4Gamer.net（2017-06-15 公式リリースの転載）"
+        }
+      ],
+      "source": {
+        "kind": "official",
+        "url": "https://www.4gamer.net/games/335/G033525/20170615010/",
+        "note": "pokemon.co.jp の元リリースは未取得。映画公式 history2017 ページにはプレゼント情報の記載なし"
+      }
+    },
+    {
       "id": "07024",
       "dexNo": 337,
       "pokemonName": "ルナトーン",

@@ -295,6 +295,7 @@
       "id": "07009",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "アローラキャップ",
       "games": [
         "sun",
         "moon"
@@ -330,6 +331,7 @@
       "id": "07010",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "カロスキャップ",
       "games": [
         "sun",
         "moon"
@@ -365,6 +367,7 @@
       "id": "07011",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "イッシュキャップ",
       "games": [
         "sun",
         "moon"
@@ -400,6 +403,7 @@
       "id": "07012",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "シンオウキャップ",
       "games": [
         "sun",
         "moon"
@@ -435,6 +439,7 @@
       "id": "07013",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "ホウエンキャップ",
       "games": [
         "sun",
         "moon"
@@ -470,6 +475,7 @@
       "id": "07014",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "オリジナルキャップ",
       "games": [
         "sun",
         "moon"
@@ -1040,6 +1046,7 @@
       "id": "07029",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "オリジナルキャップ",
       "games": [
         "sun",
         "moon"
@@ -1075,6 +1082,7 @@
       "id": "07030",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "オリジナルキャップ",
       "games": [
         "sun",
         "moon"
@@ -1494,6 +1502,7 @@
       "id": "07042",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "オリジナルキャップ",
       "games": [
         "ultra_sun",
         "ultra_moon"
@@ -3182,6 +3191,7 @@
       "id": "07058",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "アローラキャップ",
       "games": [
         "ultra_sun",
         "ultra_moon"
@@ -3222,6 +3232,7 @@
       "id": "07059",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "カロスキャップ",
       "games": [
         "ultra_sun",
         "ultra_moon"
@@ -3262,6 +3273,7 @@
       "id": "07060",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "イッシュキャップ",
       "games": [
         "ultra_sun",
         "ultra_moon"
@@ -3302,6 +3314,7 @@
       "id": "07061",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "シンオウキャップ",
       "games": [
         "ultra_sun",
         "ultra_moon"
@@ -3342,6 +3355,7 @@
       "id": "07062",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "ホウエンキャップ",
       "games": [
         "ultra_sun",
         "ultra_moon"
@@ -4517,6 +4531,7 @@
       "id": "07112",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "アローラキャップ",
       "games": [
         "sun",
         "moon",
@@ -4551,6 +4566,7 @@
       "id": "07113",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "カロスキャップ",
       "games": [
         "sun",
         "moon",
@@ -4585,6 +4601,7 @@
       "id": "07114",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "イッシュキャップ",
       "games": [
         "sun",
         "moon",
@@ -4619,6 +4636,7 @@
       "id": "07115",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "シンオウキャップ",
       "games": [
         "sun",
         "moon",
@@ -4653,6 +4671,7 @@
       "id": "07116",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "ホウエンキャップ",
       "games": [
         "sun",
         "moon",
@@ -4687,6 +4706,7 @@
       "id": "07117",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "オリジナルキャップ",
       "games": [
         "sun",
         "moon",
@@ -5031,6 +5051,7 @@
       "id": "07063",
       "dexNo": 25,
       "pokemonName": "ピカチュウ",
+      "form": "オリジナルキャップ",
       "games": [
         "sun",
         "moon"

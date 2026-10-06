@@ -273,10 +273,7 @@
       "pokemonName": "ピッピ",
       "games": [
         "sword",
-        "shield",
-        "brilliant_diamond",
-        "shining_pearl",
-        "legends_arceus"
+        "shield"
       ],
       "eventName": "おつきみピッピ",
       "distributionMethod": "シリアルコード",
@@ -306,7 +303,13 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "ポケモンセンタースタッフといっしょに「ピッピッピッピ」と言いながらゆびをふるとシリアルコードがもらえる。IDは中秋の名月が由来。"
+      "notes": "ポケモンセンタースタッフといっしょに「ピッピッピッピ」と言いながらゆびをふるとシリアルコードがもらえる。IDは中秋の名月が由来。",
+      "postUrl": "https://www.pokebros.net/ss-bdsp-la-otsukimi-pippi/",
+      "source": {
+        "kind": "self",
+        "url": "https://www.pokebros.net/ss-bdsp-la-otsukimi-pippi/",
+        "note": "pokebros の記事（WP 12037）。シリアルコードは1枚で剣盾・BDSP・LAのどれでも受け取れ、ソフトごとに先頭4桁（J256/J257/J258）が違う。技は剣盾・BDSPとLAで違い、ボール・もちものは剣盾・BDSPのみ"
+      }
     },
     {
       "id": "08089",
@@ -344,7 +347,13 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "ポケモンセンタースタッフといっしょに「ピッピッピッピ」と言いながらゆびをふるとシリアルコードがもらえる。IDは中秋の名月が由来。"
+      "notes": "ポケモンセンタースタッフといっしょに「ピッピッピッピ」と言いながらゆびをふるとシリアルコードがもらえる。IDは中秋の名月が由来。",
+      "postUrl": "https://www.pokebros.net/ss-bdsp-la-otsukimi-pippi/",
+      "source": {
+        "kind": "self",
+        "url": "https://www.pokebros.net/ss-bdsp-la-otsukimi-pippi/",
+        "note": "pokebros の記事（WP 12037）。シリアルコードは1枚で剣盾・BDSP・LAのどれでも受け取れ、ソフトごとに先頭4桁（J256/J257/J258）が違う。技は剣盾・BDSPとLAで違い、ボール・もちものは剣盾・BDSPのみ"
+      }
     },
     {
       "id": "08096",
@@ -367,21 +376,26 @@
       "ability": "メロメロボディ",
       "ball": "モンスターボール（ヒスイ）",
       "metLocation": "すてきなばしょ",
-      "heldItem": "つきのいし",
       "ot": {
         "JPN": "おつきみ２２"
       },
       "trainerId": "220910",
       "moves": [
-        "ゆびをふる",
+        "スピードスター",
         "ムーンフォース",
         "しねんのずつき",
-        "つきのひかり"
+        "シャドーボール"
       ],
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "ポケモンセンタースタッフといっしょに「ピッピッピッピ」と言いながらゆびをふるとシリアルコードがもらえる。IDは中秋の名月が由来。"
+      "notes": "ポケモンセンタースタッフといっしょに「ピッピッピッピ」と言いながらゆびをふるとシリアルコードがもらえる。IDは中秋の名月が由来。",
+      "postUrl": "https://www.pokebros.net/ss-bdsp-la-otsukimi-pippi/",
+      "source": {
+        "kind": "self",
+        "url": "https://www.pokebros.net/ss-bdsp-la-otsukimi-pippi/",
+        "note": "pokebros の記事（WP 12037）。シリアルコードは1枚で剣盾・BDSP・LAのどれでも受け取れ、ソフトごとに先頭4桁（J256/J257/J258）が違う。技は剣盾・BDSPとLAで違い、ボール・もちものは剣盾・BDSPのみ"
+      }
     },
     {
       "id": "08074",

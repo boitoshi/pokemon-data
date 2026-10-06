@@ -1,7 +1,7 @@
 {
   "evidence_recorded_at": "2026-10-02T13:36:05.953576+00:00",
-  "audited_at": "2026-10-02T13:36:08.693667+00:00",
-  "canonical_sha256": "740a9d364b59f5650351e6f8aadc78dd72c2da5af66ee0a88d40083e34bd70e8",
+  "audited_at": "2026-10-06T06:09:49.456703+00:00",
+  "canonical_sha256": "48f40126b75a97905d50ab0d0eff0ff0a303a769821a4ffb6d90b6e523361d93",
   "scope": "Pokemon Wiki secondary-source field-limited comparison; not official/in-game verification",
   "audit_policy": {
     "version": 1,
@@ -239699,14 +239699,14 @@
       "trainer": "ハチク",
       "page": "Brycen",
       "party_index": 0,
-      "party_sha256": "ba54ef5fa0c3837b4c61c236f24ad1e0671d9d0bbd1e9329ed27b6059f28bdb7",
+      "party_sha256": "0c89d4939128ef5dc391aa97da4bd03e8bce048f885c8fb6b2e92be70e86a55a",
       "game": "BW",
       "condition_ja": [
         "本編",
         "手持ちポケモン",
         "ブラック・ホワイト"
       ],
-      "status": "difference",
+      "status": "matched",
       "previous_status": "matched",
       "compared_fields": [
         "ability_ja",
@@ -239716,15 +239716,7 @@
         "species",
         "team_order"
       ],
-      "differences": [
-        {
-          "pokemon": "フリージオ",
-          "level": 37,
-          "field": "gender_ja",
-          "canonical": null,
-          "japanese": "性別不明"
-        }
-      ],
+      "differences": [],
       "gaps": [
         "item_ja は資料から確定できない",
         "タイプは未照合",
@@ -242221,14 +242213,14 @@
       "trainer": "ナンジャモ",
       "page": "Iono",
       "party_index": 2,
-      "party_sha256": "ed2a9b359734d2c38b27a67c8dd7f063a946edb174186f669c8f098adfc65778",
+      "party_sha256": "dd6e34ba2b6415bb8966597dfb7b92bf3319aeafab1cc107161e65c567e84987",
       "game": "SV",
       "condition_ja": [
         "本編",
         "手持ちポケモン",
         "リーグ部"
       ],
-      "status": "difference",
+      "status": "matched",
       "previous_status": "matched",
       "compared_fields": [
         "ability_ja",
@@ -242238,15 +242230,7 @@
         "species",
         "team_order"
       ],
-      "differences": [
-        {
-          "pokemon": "マルマイン",
-          "level": 80,
-          "field": "gender_ja",
-          "canonical": null,
-          "japanese": "性別不明"
-        }
-      ],
+      "differences": [],
       "gaps": [
         "item_ja は資料から確定できない",
         "タイプは未照合",
@@ -243203,8 +243187,8 @@
   ],
   "fetch_failures": [],
   "summary": {
-    "matched": 200,
-    "difference": 73,
+    "matched": 202,
+    "difference": 71,
     "unavailable": 10,
     "candidate_difference": 6
   }

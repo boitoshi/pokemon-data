@@ -38411,7 +38411,7 @@
               "ja": "フリージオ",
               "form": null,
               "level": 37,
-              "gender": null,
+              "gender": "none",
               "ability_en": "Levitate",
               "ability_ja": "ふゆう",
               "item": null,
@@ -38437,7 +38437,7 @@
                   "ja": "こおりのいぶき"
                 }
               ],
-              "gender_ja": null,
+              "gender_ja": "性別不明",
               "types_ja": [
                 "こおり"
               ],
@@ -51672,7 +51672,7 @@
               "ja": "マルマイン",
               "form": null,
               "level": 80,
-              "gender": null,
+              "gender": "none",
               "ability_en": "Static",
               "ability_ja": "せいでんき",
               "item": null,
@@ -51698,7 +51698,7 @@
                   "ja": "エレキフィールド"
                 }
               ],
-              "gender_ja": null,
+              "gender_ja": "性別不明",
               "types_ja": [
                 "でんき"
               ],

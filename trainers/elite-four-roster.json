@@ -1,6 +1,6 @@
 {
   "source": "https://bulbapedia.bulbagarden.net/wiki/Elite_Four",
-  "scope": "本編のポケモンリーグの四天王・チャンピオン、アローラのしまキング・しまクイーン、カントーのライバル（トレース）、Z-A のファーフロウリーグ（非公式）。日本語名は Bulbapedia の索引ページ（Elite Four / Island kahuna）から転記したもので、日本語資料との照合は未完了",
+  "scope": "本編のポケモンリーグの四天王・チャンピオン、アローラのしまキング・しまクイーン、カントーのライバル（トレース）、Z-A のトリミアンリーグ（非公式）。日本語名は Bulbapedia の索引ページ（Elite Four / Island kahuna）から転記したもので、日本語資料との照合は未完了",
   "trainers": [
     {
       "page": "Lorelei",
@@ -273,7 +273,7 @@
     },
     {
       "page": "Furfrou League",
-      "ja": "ソワニエ",
+      "ja": "アカタ",
       "role": "champion_unofficial",
       "region": "カロス(ZA)",
       "order": 5,

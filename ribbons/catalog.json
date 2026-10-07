@@ -38,8 +38,8 @@
               "switch_firered",
               "switch_leafgreen"
             ],
-            "availability": "unconfirmed",
-            "note": "Switch版で付くか・HOME に送った後も残るかは、HOME 連携開始（2026年10月）後に確認"
+            "availability": "available",
+            "note": "ゲーム内では確認できない。HOME に送るとチャンプリボンが付いている（2026-10-07 オーナーが現物確認）"
           }
         ],
         "references": [
@@ -52,7 +52,7 @@
             "label": "『ファイアレッド・リーフグリーン』（Nintendo Switch）と Pokémon HOME の連携"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-10-07"
       }
     ]
   },
@@ -1466,7 +1466,7 @@
               "ultra_moon"
             ],
             "availability": "available",
-            "requirements": "捕まえた・受け取ったときから30レベル以上上がったポケモンを見せる"
+            "requirements": "捕まえた・受け取ったときから30レベル以上上がったポケモンを見せる。捕まえた・受け取ったときのレベルが71以上だと、30レベル上げられないので取れない"
           },
           {
             "games": [
@@ -1474,7 +1474,7 @@
               "shining_pearl"
             ],
             "availability": "available",
-            "requirements": "BDSP で鳴き声の無い種族はレベルに関係なく、ほかは捕まえた・受け取ったときから30レベル以上上がったポケモンを見せる"
+            "requirements": "BDSP で鳴き声の無い種族はレベルに関係なく、ほかは捕まえた・受け取ったときから30レベル以上上がったポケモンを見せる。鳴き声のある種族は、捕まえた・受け取ったときのレベルが71以上だと、30レベル上げられないので取れない"
           }
         ]
       }

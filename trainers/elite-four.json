@@ -1,5 +1,5 @@
 {
-  "source": "Bulbapedia (raw wikitext, core series only) + PokeAPI move_names.csv / item_names.csv",
+  "source": "Bulbapedia (raw wikitext, core series only) + PokeAPI move_names.csv / item_names.csv / フォームの日本語名は PokeAPI pokemon_form_names.csv",
   "note": "レベル・わざ・性別・特性は Bulbapedia 記載値。記事転記前に日本語ソースで要照合。食い違いが確認できたものは MOVE_CORRECTIONS で上書きしている。",
   "warnings": [
     "JPNAME MISSING: Battle Court",
@@ -1234,7 +1234,8 @@
                 "はがね"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0091",
@@ -3261,7 +3262,8 @@
                 "でんき"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0062",
@@ -4509,7 +4511,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0042",
@@ -7190,7 +7193,8 @@
                 "ドラゴン"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0149",
@@ -11930,7 +11934,7 @@
     {
       "page": "Trace (game)",
       "en": "Trace",
-      "ja": "トレース",
+      "ja": "シン",
       "role": "rival",
       "region": "カントー",
       "order": 6,
@@ -29030,7 +29034,8 @@
                 "じめん"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "にしのうみ"
             },
             {
               "ndex": "0448",
@@ -30574,7 +30579,8 @@
                 "じめん"
               ],
               "tera_ja": null,
-              "item_ja": "たべのこし"
+              "item_ja": "たべのこし",
+              "form_ja": "にしのうみ"
             },
             {
               "ndex": "0448",
@@ -40494,7 +40500,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             }
           ],
           "game_ja": "X・Y",
@@ -40590,7 +40597,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             },
             {
               "ndex": "0476",
@@ -40768,7 +40776,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             }
           ],
           "game_ja": "X・Y",
@@ -40905,7 +40914,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             }
           ],
           "game_ja": "X・Y",
@@ -41042,7 +41052,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             }
           ],
           "game_ja": "X・Y",
@@ -41179,7 +41190,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             }
           ],
           "game_ja": "X・Y",
@@ -44731,7 +44743,8 @@
                 "はがね"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "サン・ムーン",
@@ -44827,7 +44840,8 @@
                 "はがね"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0462",
@@ -44950,7 +44964,8 @@
                 "はがね"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "サン・ムーン",
@@ -45169,7 +45184,8 @@
                 "はがね"
               ],
               "tera_ja": null,
-              "item_ja": "ハガネＺ"
+              "item_ja": "ハガネＺ",
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
@@ -45388,7 +45404,8 @@
                 "はがね"
               ],
               "tera_ja": null,
-              "item_ja": "ハガネＺ"
+              "item_ja": "ハガネＺ",
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
@@ -45516,7 +45533,8 @@
                 "いわ"
               ],
               "tera_ja": null,
-              "item_ja": "イワＺ"
+              "item_ja": "イワＺ",
+              "form_ja": "まよなかのすがた"
             }
           ],
           "game_ja": "サン・ムーン",
@@ -45641,7 +45659,8 @@
                 "でんき"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0476",
@@ -45721,7 +45740,8 @@
                 "いわ"
               ],
               "tera_ja": null,
-              "item_ja": "イワＺ"
+              "item_ja": "イワＺ",
+              "form_ja": "まよなかのすがた"
             }
           ],
           "game_ja": "サン・ムーン",
@@ -45858,7 +45878,8 @@
                 "でんき"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0476",
@@ -45938,7 +45959,8 @@
                 "いわ"
               ],
               "tera_ja": null,
-              "item_ja": "イワＺ"
+              "item_ja": "イワＺ",
+              "form_ja": "まよなかのすがた"
             }
           ],
           "game_ja": "サン・ムーン",
@@ -46057,7 +46079,8 @@
                 "いわ"
               ],
               "tera_ja": null,
-              "item_ja": "イワＺ"
+              "item_ja": "イワＺ",
+              "form_ja": "まよなかのすがた"
             }
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
@@ -46260,7 +46283,8 @@
                 "いわ"
               ],
               "tera_ja": null,
-              "item_ja": "イワＺ"
+              "item_ja": "イワＺ",
+              "form_ja": "まよなかのすがた"
             }
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
@@ -46475,7 +46499,8 @@
                 "いわ"
               ],
               "tera_ja": null,
-              "item_ja": "イワＺ"
+              "item_ja": "イワＺ",
+              "form_ja": "まよなかのすがた"
             }
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
@@ -47510,7 +47535,8 @@
                 "ひこう"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "めらめらスタイル"
             },
             {
               "ndex": "0630",
@@ -47729,7 +47755,8 @@
                 "ひこう"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "めらめらスタイル"
             },
             {
               "ndex": "0630",
@@ -47948,7 +47975,8 @@
                 "ひこう"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "めらめらスタイル"
             },
             {
               "ndex": "0630",
@@ -48167,7 +48195,8 @@
                 "ひこう"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "めらめらスタイル"
             },
             {
               "ndex": "0630",
@@ -48511,7 +48540,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0628",
@@ -48767,7 +48797,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0628",
@@ -49023,7 +49054,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0628",
@@ -49279,7 +49311,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0628",
@@ -49535,7 +49568,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0628",
@@ -49791,7 +49825,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0628",
@@ -50202,7 +50237,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0628",
@@ -50458,7 +50494,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0628",
@@ -50714,7 +50751,8 @@
                 "フェアリー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0628",
@@ -52335,7 +52373,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0136",
@@ -52448,7 +52487,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0134",
@@ -52563,7 +52603,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0470",
@@ -52676,7 +52717,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0136",
@@ -52791,7 +52833,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0134",
@@ -52906,7 +52949,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0470",
@@ -53025,7 +53069,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0136",
@@ -53195,7 +53240,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0134",
@@ -53365,7 +53411,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0470",
@@ -53535,7 +53582,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0136",
@@ -53746,7 +53794,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0134",
@@ -53957,7 +54006,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0470",
@@ -56099,7 +56149,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
@@ -56278,7 +56329,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
@@ -56455,7 +56507,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
@@ -56506,7 +56559,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0136",
@@ -56685,7 +56739,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0134",
@@ -56864,7 +56919,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0470",
@@ -57047,7 +57103,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0136",
@@ -57299,7 +57356,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0134",
@@ -57551,7 +57609,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0470",
@@ -57803,7 +57862,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0136",
@@ -58055,7 +58115,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0134",
@@ -58307,7 +58368,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0470",
@@ -58644,7 +58706,8 @@
                 "あく"
               ],
               "tera_ja": null,
-              "item_ja": "アクＺ"
+              "item_ja": "アクＺ",
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "サン・ムーン",
@@ -58859,7 +58922,8 @@
                 "あく"
               ],
               "tera_ja": null,
-              "item_ja": "アクＺ"
+              "item_ja": "アクＺ",
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "サン・ムーン",
@@ -58986,7 +59050,8 @@
                 "あく"
               ],
               "tera_ja": null,
-              "item_ja": "アクＺ"
+              "item_ja": "アクＺ",
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
@@ -59107,7 +59172,8 @@
                 "あく"
               ],
               "tera_ja": null,
-              "item_ja": "アクＺ"
+              "item_ja": "アクＺ",
+              "form_ja": "アローラのすがた"
             }
           ],
           "game_ja": "ウルトラムーン",
@@ -59175,7 +59241,8 @@
                 "はがね"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0423",
@@ -59212,7 +59279,8 @@
                 "じめん"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ひがしのうみ"
             },
             {
               "ndex": "0330",
@@ -59339,7 +59407,8 @@
                 "はがね"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0423",
@@ -59380,7 +59449,8 @@
                 "じめん"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ひがしのうみ"
             },
             {
               "ndex": "0553",
@@ -59593,7 +59663,8 @@
                 "じめん"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ひがしのうみ"
             },
             {
               "ndex": "0330",
@@ -59761,7 +59832,8 @@
                 "じめん"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ひがしのうみ"
             },
             {
               "ndex": "0553",
@@ -59986,7 +60058,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             },
             {
               "ndex": "0887",
@@ -60242,7 +60315,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             },
             {
               "ndex": "0887",
@@ -60498,7 +60572,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             },
             {
               "ndex": "0887",
@@ -60754,7 +60829,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             },
             {
               "ndex": "0887",
@@ -60971,7 +61047,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             },
             {
               "ndex": "0887",
@@ -61188,7 +61265,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             },
             {
               "ndex": "0887",
@@ -61405,7 +61483,8 @@
                 "ゴースト"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "シールドフォルム"
             },
             {
               "ndex": "0887",
@@ -61883,7 +61962,8 @@
                 "みず"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "れんげきのかた"
             }
           ],
           "game_ja": "ソード・シールド",
@@ -62137,7 +62217,8 @@
                 "あく"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "いちげきのかた"
             }
           ],
           "game_ja": "ソード・シールド",
@@ -62272,7 +62353,8 @@
                 "みず"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "れんげきのかた"
             }
           ],
           "game_ja": "ソード・シールド",
@@ -62407,7 +62489,8 @@
                 "あく"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "いちげきのかた"
             }
           ],
           "game_ja": "ソード・シールド",
@@ -64115,7 +64198,8 @@
                 "ひこう"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "ぱちぱちスタイル"
             },
             {
               "ndex": "0334",
@@ -71617,7 +71701,8 @@
                 "ほのお"
               ],
               "tera_ja": null,
-              "item_ja": "ゴツゴツメット"
+              "item_ja": "ゴツゴツメット",
+              "form_ja": "ヒートロトム"
             },
             {
               "ndex": "0663",
@@ -71929,7 +72014,8 @@
                 "はがね"
               ],
               "tera_ja": null,
-              "item_ja": "きあいのタスキ"
+              "item_ja": "きあいのタスキ",
+              "form_ja": "アローラのすがた"
             },
             {
               "ndex": "0212",
@@ -72405,7 +72491,8 @@
                 "エスパー"
               ],
               "tera_ja": null,
-              "item_ja": "オボンのみ"
+              "item_ja": "オボンのみ",
+              "form_ja": "ガラルのすがた"
             },
             {
               "ndex": "0869",
@@ -74824,7 +74911,8 @@
                 "ノーマル"
               ],
               "tera_ja": null,
-              "item_ja": null
+              "item_ja": null,
+              "form_ja": "テラスタルフォルム"
             }
           ],
           "game_ja": "スカーレット・バイオレット",

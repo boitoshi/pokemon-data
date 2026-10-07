@@ -58,7 +58,6 @@ pokemon-data/
     ├── generate_pokemon_names.py   # all.json → mappings/pokemon_names.json 生成
     ├── generate-games-mapping.py   # titles.json → mappings/games.json 生成
     ├── build-distributions.mjs     # L2正本＋L1マスターを join し build/pokemon.json を生成
-    ├── test-build-compat.mjs       # build/pokemon.json と distribution-app 側成果物の互換性検証
     ├── validate-data.mjs           # マスターデータの検証
     ├── validate-distributions.mjs  # 配信正本（distributions/*.json）の検証
     ├── validate-ribbons.mjs        # リボン・あかしデータの検証
@@ -266,7 +265,6 @@ L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・�
 | コマンド | 内容 |
 |---|---|
 | `npm run build`（= `node scripts/build-distributions.mjs`） | L2正本＋L1マスターを join し `build/pokemon.json` を前方向生成。migrate 3本の逆写像。REVERSE_GAME_MAP・ot単一JPN→素文字列/多言語→object・ivs・shiny・form再結合・generation注入。`build/meta.json` サイドカー＋件数単調増加ガード（減少は `ALLOW_BUILD_SHRINK=1` が必要） |
-| `npm run test:build-compat`（= `node scripts/test-build-compat.mjs`） | `build/pokemon.json` を distribution-app committed `pokemon.json` と照合し「文書化済み正規化差分のみ・データロス無し」を機械検証。未登録差分1件でFAIL。sibling不在(CI)は skip |
 | `npm run validate` | 既存のマスター＋配信正本 validate（build 前段の健全性） |
 
 ### build/ をコミットする理由
@@ -278,7 +276,8 @@ L3 成果物    build/pokemon.json（app-runtime schema・両アプリ共通・�
 ### 移行スクリプト（一度きりの seed・逆写像の対）
 
 `scripts/migrate-gen5-7.mjs` / `migrate-from-app.mjs` / `migrate-champions.mjs`。
-`build-distributions.mjs` はこの3本の逆写像で、`test-build-compat.mjs` の allowlist は各 FIX_MAP を共有する。
+`build-distributions.mjs` はこの3本の逆写像。
+<!-- 2026-10-07: 移行時の受入テスト test-build-compat.mjs（build と distribution-app のコピーの照合）を引退。比較相手のアプリが ADR 0017 で summary-pages に一本化・アーカイブ待ちになり、main の時点で説明のつかない差分が37件残って FAIL し続けていたため。 -->
 
 ---
 

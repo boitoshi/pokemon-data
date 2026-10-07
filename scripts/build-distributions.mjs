@@ -82,6 +82,7 @@ const OUTPUT_KEY_ORDER = [
   "dexNo",
   "generation",
   "game",
+  "gameIds",
   "originGame",
   "eventName",
   "tournamentType",
@@ -309,6 +310,8 @@ function convertEntry(entry, generation) {
   out.dexNo = entry.dexNo;
   out.generation = generation;
   out.game = convertGames(entry.games, managementId);
+  // 表示用の game は対訳で潰れる（ピカブイ等）ので、絞り込み用に games/titles.json の id をそのまま持たせる
+  out.gameIds = [...entry.games];
   out.eventName = entry.eventName;
 
   // 大会情報は champions 専用ではない（PJCS/WCS の配信個体は gen5〜9 側にある）

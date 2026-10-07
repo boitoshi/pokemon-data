@@ -7,8 +7,7 @@
     "validate:game-compatibility": "node scripts/validate-game-compatibility.mjs",
     "validate:gym-leaders": "node scripts/validate-gym-leaders.mjs",
     "build": "node scripts/build-distributions.mjs && node scripts/build-abbreviations.mjs",
-    "build:abbreviations": "node scripts/build-abbreviations.mjs",
-    "test:build-compat": "node scripts/test-build-compat.mjs"
+    "build:abbreviations": "node scripts/build-abbreviations.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.15.17"

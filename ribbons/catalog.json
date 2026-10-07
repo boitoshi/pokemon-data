@@ -38,8 +38,8 @@
               "switch_firered",
               "switch_leafgreen"
             ],
-            "availability": "unconfirmed",
-            "note": "Switch版で付くか・HOME に送った後も残るかは、HOME 連携開始（2026年10月）後に確認"
+            "availability": "available",
+            "note": "ゲーム内では確認できない。HOME に送るとチャンプリボンが付いている（2026-10-07 オーナーが現物確認）"
           }
         ],
         "references": [
@@ -52,7 +52,7 @@
             "label": "『ファイアレッド・リーフグリーン』（Nintendo Switch）と Pokémon HOME の連携"
           }
         ],
-        "checkedAt": "2026-09-29"
+        "checkedAt": "2026-10-07"
       }
     ]
   },

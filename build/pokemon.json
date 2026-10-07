@@ -1776,6 +1776,43 @@
     "region": "台湾"
   },
   {
+    "managementId": "03050",
+    "pokemonName": "セレビィ",
+    "dexNo": 251,
+    "generation": 3,
+    "game": "HOME",
+    "gameIds": [
+      "home"
+    ],
+    "originGame": "ファイアレッド（Switch版）, リーフグリーン（Switch版）",
+    "eventName": "ミツリンのセレビィ",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2026-10-07",
+    "ot": "ミツリン",
+    "trainerId": "60720",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "ability": "しぜんかいふく",
+    "nature": "きまぐれ",
+    "moves": [
+      "やどりぎのタネ",
+      "じこさいせい",
+      "いやしのすず",
+      "しんぴのまもり"
+    ],
+    "notes": "ソフト図鑑の「カントー図鑑（GBA）」を完成させるとスマートフォン版 HOME の「ふしぎなおくりもの」で受け取れる。ほかのソフト図鑑完成報酬と違い、色違いではなくメモリアルリボンも付かない。ID と技は 2006 年の「ミツリンのセレビィ」（03048）と同じ。",
+    "references": [
+      {
+        "url": "https://news.pokemon-home.com/ja/page/842.html",
+        "label": "Pokémon HOME アプリ内ニュース"
+      },
+      {
+        "url": "https://www.pokemon.co.jp/ex/switch-frlg/pokemonhome/",
+        "label": "『ファイアレッド・リーフグリーン』（Nintendo Switch）と Pokémon HOME の連携"
+      }
+    ]
+  },
+  {
     "managementId": "04001",
     "pokemonName": "ペラップ",
     "dexNo": 441,

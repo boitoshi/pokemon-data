@@ -1965,6 +1965,52 @@
           "label": "Bulbapedia（日本語版向け配信一覧）"
         }
       ]
+    },
+    {
+      "id": "03050",
+      "dexNo": 251,
+      "pokemonName": "セレビィ",
+      "games": [
+        "home"
+      ],
+      "originGame": [
+        "switch_firered",
+        "switch_leafgreen"
+      ],
+      "eventName": "ミツリンのセレビィ",
+      "distributionMethod": "プレゼントボックス",
+      "startDate": "2026-10-07",
+      "level": 50,
+      "nature": "きまぐれ",
+      "ability": "しぜんかいふく",
+      "ball": "プレシャスボール",
+      "ot": {
+        "JPN": "ミツリン"
+      },
+      "trainerId": "60720",
+      "moves": [
+        "やどりぎのタネ",
+        "じこさいせい",
+        "いやしのすず",
+        "しんぴのまもり"
+      ],
+      "ribbons": [],
+      "source": {
+        "kind": "self",
+        "url": "https://news.pokemon-home.com/ja/page/842.html",
+        "note": "受け取り条件（ソフト図鑑「カントー図鑑（GBA）」の完成・ふしぎなおくりもの・1アカウント1回）と配信名は Pokémon HOME アプリ内ニュース842。Lv・ボール・性格・特性・親名・ID・技・リボンなし・通常色・HOME でソフトは FRLG・マークは GBA と表示されること、ソフト図鑑の分母 150（ミュウ除外）、ポケモンを送らず連携だけで図鑑が完成したことは 2026-10-08 オーナーが実機で確認。開始日はオーナー確認（HOME ver 4.1.0 と同日）。出会った場所・個体値・カード名は未確認"
+      },
+      "references": [
+        {
+          "url": "https://news.pokemon-home.com/ja/page/842.html",
+          "label": "Pokémon HOME アプリ内ニュース"
+        },
+        {
+          "url": "https://www.pokemon.co.jp/ex/switch-frlg/pokemonhome/",
+          "label": "『ファイアレッド・リーフグリーン』（Nintendo Switch）と Pokémon HOME の連携"
+        }
+      ],
+      "notes": "ソフト図鑑の「カントー図鑑（GBA）」を完成させるとスマートフォン版 HOME の「ふしぎなおくりもの」で受け取れる。ほかのソフト図鑑完成報酬と違い、色違いではなくメモリアルリボンも付かない。ID と技は 2006 年の「ミツリンのセレビィ」（03048）と同じ。"
     }
   ]
 }

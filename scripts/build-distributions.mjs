@@ -26,6 +26,8 @@ const REVERSE_GAME_MAP = {
   emerald: "エメラルド",
   firered: "ファイアレッド",
   leafgreen: "リーフグリーン",
+  switch_firered: "ファイアレッド（Switch版）",
+  switch_leafgreen: "リーフグリーン（Switch版）",
   diamond: "ダイヤモンド",
   pearl: "パール",
   platinum: "プラチナ",

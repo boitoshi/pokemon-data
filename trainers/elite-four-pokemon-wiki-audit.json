@@ -1,7 +1,7 @@
 {
   "evidence_recorded_at": "2026-10-07T15:24:58.949059+00:00",
-  "audited_at": "2026-10-07T15:25:07.211931+00:00",
-  "canonical_sha256": "46aeb65dde7b36fe92940fa7e5ca0afd629383fb967395e2862aa03292031297",
+  "audited_at": "2026-10-07T16:06:44.679826+00:00",
+  "canonical_sha256": "aff7bcdf6da73b263b0c9caaf404f69fbd56041ea8873c6cc3dc52f1b57a3f2f",
   "scope": "Pokemon Wiki secondary-source field-limited comparison; not official/in-game verification",
   "audit_policy": {
     "version": 1,
@@ -49110,8 +49110,12 @@
           "オーキドけんきゅうじょ"
         ]
       },
-      "games": [],
-      "game_scope_basis": "game scope not established",
+      "games": [
+        "LGE",
+        "LGP",
+        "PE"
+      ],
+      "game_scope_basis": "page introductory sentence",
       "source_sha256": "a509d044c1b60d21bdc906ce4bcc2936293390c14a1e26bcebd06d5b651bd8f3",
       "evidence_recorded_at": "2026-10-07T15:24:58.949059+00:00"
     },
@@ -49291,8 +49295,12 @@
           "22ばんどうろ"
         ]
       },
-      "games": [],
-      "game_scope_basis": "game scope not established",
+      "games": [
+        "LGE",
+        "LGP",
+        "PE"
+      ],
+      "game_scope_basis": "page introductory sentence",
       "source_sha256": "a509d044c1b60d21bdc906ce4bcc2936293390c14a1e26bcebd06d5b651bd8f3",
       "evidence_recorded_at": "2026-10-07T15:24:58.949059+00:00"
     },
@@ -49531,8 +49539,12 @@
           "ハナダシティ"
         ]
       },
-      "games": [],
-      "game_scope_basis": "game scope not established",
+      "games": [
+        "LGE",
+        "LGP",
+        "PE"
+      ],
+      "game_scope_basis": "page introductory sentence",
       "source_sha256": "a509d044c1b60d21bdc906ce4bcc2936293390c14a1e26bcebd06d5b651bd8f3",
       "evidence_recorded_at": "2026-10-07T15:24:58.949059+00:00"
     },
@@ -49771,8 +49783,12 @@
           "サントアンヌごう"
         ]
       },
-      "games": [],
-      "game_scope_basis": "game scope not established",
+      "games": [
+        "LGE",
+        "LGP",
+        "PE"
+      ],
+      "game_scope_basis": "page introductory sentence",
       "source_sha256": "a509d044c1b60d21bdc906ce4bcc2936293390c14a1e26bcebd06d5b651bd8f3",
       "evidence_recorded_at": "2026-10-07T15:24:58.949059+00:00"
     },
@@ -50011,8 +50027,12 @@
           "ポケモンタワー、すごいキズぐすり使用"
         ]
       },
-      "games": [],
-      "game_scope_basis": "game scope not established",
+      "games": [
+        "LGE",
+        "LGP",
+        "PE"
+      ],
+      "game_scope_basis": "page introductory sentence",
       "source_sha256": "a509d044c1b60d21bdc906ce4bcc2936293390c14a1e26bcebd06d5b651bd8f3",
       "evidence_recorded_at": "2026-10-07T15:24:58.949059+00:00"
     },
@@ -50308,8 +50328,12 @@
           "シルフカンパニー（タッグバトルの仲間）"
         ]
       },
-      "games": [],
-      "game_scope_basis": "game scope not established",
+      "games": [
+        "LGE",
+        "LGP",
+        "PE"
+      ],
+      "game_scope_basis": "page introductory sentence",
       "source_sha256": "a509d044c1b60d21bdc906ce4bcc2936293390c14a1e26bcebd06d5b651bd8f3",
       "evidence_recorded_at": "2026-10-07T15:24:58.949059+00:00"
     },
@@ -50610,8 +50634,12 @@
           "22ばんどうろ、まんたんのくすり使用"
         ]
       },
-      "games": [],
-      "game_scope_basis": "game scope not established",
+      "games": [
+        "LGE",
+        "LGP",
+        "PE"
+      ],
+      "game_scope_basis": "page introductory sentence",
       "source_sha256": "a509d044c1b60d21bdc906ce4bcc2936293390c14a1e26bcebd06d5b651bd8f3",
       "evidence_recorded_at": "2026-10-07T15:24:58.949059+00:00"
     },
@@ -51002,8 +51030,12 @@
           "セキエイこうげん、かいふくのくすり×3使用"
         ]
       },
-      "games": [],
-      "game_scope_basis": "game scope not established",
+      "games": [
+        "LGE",
+        "LGP",
+        "PE"
+      ],
+      "game_scope_basis": "page introductory sentence",
       "source_sha256": "a509d044c1b60d21bdc906ce4bcc2936293390c14a1e26bcebd06d5b651bd8f3",
       "evidence_recorded_at": "2026-10-07T15:24:58.949059+00:00"
     },
@@ -51415,8 +51447,12 @@
           "セキエイこうげん（再戦）、かいふくのくすり使用"
         ]
       },
-      "games": [],
-      "game_scope_basis": "game scope not established",
+      "games": [
+        "LGE",
+        "LGP",
+        "PE"
+      ],
+      "game_scope_basis": "page introductory sentence",
       "source_sha256": "a509d044c1b60d21bdc906ce4bcc2936293390c14a1e26bcebd06d5b651bd8f3",
       "evidence_recorded_at": "2026-10-07T15:24:58.949059+00:00"
     },
@@ -164438,17 +164474,29 @@
       "trainer": "グリーン",
       "page": "Blue (game)",
       "party_index": 5,
-      "party_sha256": "f2dbcaa157e7bbbf6d27978d08cceaa5fef1cac0f5a1ce4beb737529c79c83cc",
-      "game": "Yellow",
+      "party_sha256": "51d950aa8a6a685d506d3468ae3ba736ec05b4da675924325fea6fd926bf0058",
+      "game": "Y",
       "condition_ja": [],
-      "status": "unavailable",
+      "status": "matched",
       "previous_status": null,
-      "compared_fields": [],
+      "compared_fields": [
+        "level",
+        "moves",
+        "species",
+        "team_order"
+      ],
       "differences": [],
       "gaps": [
-        "作品・戦闘条件・種族とレベルが一致する表を特定できない"
+        "ability_ja は資料から確定できない",
+        "gender_ja は資料から確定できない",
+        "item_ja は資料から確定できない",
+        "タイプは未照合",
+        "テラスタイプは未照合",
+        "フォームは未照合"
       ],
-      "evidence": []
+      "evidence": [
+        "グリーン:3:15:2b63eb57b95b"
+      ]
     },
     {
       "trainer": "グリーン",
@@ -164764,7 +164812,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164780,7 +164836,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164796,7 +164860,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164812,7 +164884,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164828,7 +164908,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164844,7 +164932,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164860,7 +164956,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164876,7 +164980,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164892,7 +165004,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164908,7 +165028,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164924,7 +165052,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164940,7 +165076,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164956,7 +165100,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164972,7 +165124,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -164988,7 +165148,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -165004,7 +165172,15 @@
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:1:9eed7f1e45ef",
+        "シン:1:2:9eed7f1e45ef",
+        "シン:1:3:9eed7f1e45ef",
+        "シン:1:4:9eed7f1e45ef",
+        "シン:1:5:9eed7f1e45ef",
+        "シン:1:7:9eed7f1e45ef",
+        "シン:1:8:9eed7f1e45ef"
+      ]
     },
     {
       "trainer": "シン",
@@ -165013,14 +165189,77 @@
       "party_sha256": "cc573c54de7f064870723ff8ee67d1b03216a81b8e76363167d021d0376fe157",
       "game": "LGP",
       "condition_ja": [],
-      "status": "unavailable",
+      "status": "candidate_difference",
       "previous_status": null,
       "compared_fields": [],
-      "differences": [],
+      "differences": [
+        {
+          "field": "team_signature",
+          "canonical": [
+            [
+              "ピジョット",
+              "66"
+            ],
+            [
+              "ラフレシア",
+              "66"
+            ],
+            [
+              "ガラガラ",
+              "66"
+            ],
+            [
+              "ギャロップ",
+              "66"
+            ],
+            [
+              "ヤドラン",
+              "66"
+            ],
+            [
+              "サンダース",
+              "67"
+            ]
+          ],
+          "japanese": [
+            [
+              "ピジョット",
+              "66"
+            ],
+            [
+              "ラフレシア",
+              "66"
+            ],
+            [
+              "ガラガラ",
+              "66"
+            ],
+            [
+              "ギャロップ",
+              "66"
+            ],
+            [
+              "ヤドラン",
+              "66"
+            ],
+            [
+              "サンダース",
+              "67"
+            ],
+            [
+              "ライチュウ",
+              "67"
+            ]
+          ]
+        }
+      ],
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:9:9eed7f1e45ef"
+      ],
+      "candidate_only": true
     },
     {
       "trainer": "シン",
@@ -165029,14 +165268,77 @@
       "party_sha256": "8bb2d1b9dd5353fd4bd8bec6399532a4b1533c74eba44032493aeda91d62628f",
       "game": "LGE",
       "condition_ja": [],
-      "status": "unavailable",
+      "status": "candidate_difference",
       "previous_status": null,
       "compared_fields": [],
-      "differences": [],
+      "differences": [
+        {
+          "field": "team_signature",
+          "canonical": [
+            [
+              "ピジョット",
+              "66"
+            ],
+            [
+              "ラフレシア",
+              "66"
+            ],
+            [
+              "ガラガラ",
+              "66"
+            ],
+            [
+              "ギャロップ",
+              "66"
+            ],
+            [
+              "ヤドラン",
+              "66"
+            ],
+            [
+              "ライチュウ",
+              "67"
+            ]
+          ],
+          "japanese": [
+            [
+              "ピジョット",
+              "66"
+            ],
+            [
+              "ラフレシア",
+              "66"
+            ],
+            [
+              "ガラガラ",
+              "66"
+            ],
+            [
+              "ギャロップ",
+              "66"
+            ],
+            [
+              "ヤドラン",
+              "66"
+            ],
+            [
+              "サンダース",
+              "67"
+            ],
+            [
+              "ライチュウ",
+              "67"
+            ]
+          ]
+        }
+      ],
       "gaps": [
         "作品・戦闘条件・種族とレベルが一致する表を特定できない"
       ],
-      "evidence": []
+      "evidence": [
+        "シン:1:9:9eed7f1e45ef"
+      ],
+      "candidate_only": true
     },
     {
       "trainer": "イツキ",
@@ -168073,17 +168375,85 @@
       "trainer": "シロナ",
       "page": "Cynthia",
       "party_index": 3,
-      "party_sha256": "a8226d129616b64f6b5033400925ed53cdd248856e14c39405e3a6c269312f58",
-      "game": "Black and White",
+      "party_sha256": "5fc3911a3e13c186a555f5e2cda5d6d0cb44d725e9c8a893cf012e0714ed0c1e",
+      "game": "BW",
       "condition_ja": [],
-      "status": "unavailable",
+      "status": "difference",
       "previous_status": null,
-      "compared_fields": [],
-      "differences": [],
-      "gaps": [
-        "作品・戦闘条件・種族とレベルが一致する表を特定できない"
+      "compared_fields": [
+        "ability_ja",
+        "gender_ja",
+        "level",
+        "moves",
+        "species",
+        "team_order"
       ],
-      "evidence": []
+      "differences": [
+        {
+          "field": "team_order",
+          "canonical": [
+            [
+              "ミカルゲ",
+              75
+            ],
+            [
+              "シビルドン",
+              75
+            ],
+            [
+              "ミロカロス",
+              75
+            ],
+            [
+              "ウォーグル",
+              75
+            ],
+            [
+              "ルカリオ",
+              75
+            ],
+            [
+              "ガブリアス",
+              77
+            ]
+          ],
+          "japanese": [
+            [
+              "ミカルゲ",
+              75
+            ],
+            [
+              "ウォーグル",
+              75
+            ],
+            [
+              "シビルドン",
+              75
+            ],
+            [
+              "ルカリオ",
+              75
+            ],
+            [
+              "ミロカロス",
+              75
+            ],
+            [
+              "ガブリアス",
+              77
+            ]
+          ]
+        }
+      ],
+      "gaps": [
+        "item_ja は資料から確定できない",
+        "タイプは未照合",
+        "テラスタイプは未照合",
+        "フォームは未照合"
+      ],
+      "evidence": [
+        "シロナ:3:1:2c124c7571c1"
+      ]
     },
     {
       "trainer": "シロナ",
@@ -176284,7 +176654,6 @@
     "グリーン:3:11:2b63eb57b95b",
     "グリーン:3:12:2b63eb57b95b",
     "グリーン:3:13:2b63eb57b95b",
-    "グリーン:3:15:2b63eb57b95b",
     "グリーン:4:1:28752bb27fb1",
     "グリーン:4:2:28752bb27fb1",
     "グリーン:4:3:28752bb27fb1",
@@ -176378,7 +176747,6 @@
     "ゴヨウ:3:2:ed8310875b18",
     "ゴヨウ:3:3:ed8310875b18",
     "シロナ:2:2:604081c70818",
-    "シロナ:3:1:2c124c7571c1",
     "シロナ:4:1:d6f0ffea1c58",
     "シロナ:4:2:d6f0ffea1c58",
     "シロナ:6:2:32200fc67d22",
@@ -176551,9 +176919,9 @@
     }
   ],
   "summary": {
-    "matched": 108,
-    "difference": 49,
-    "candidate_difference": 31,
-    "unavailable": 211
+    "matched": 109,
+    "difference": 50,
+    "candidate_difference": 33,
+    "unavailable": 207
   }
 }

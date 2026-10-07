@@ -5,10 +5,10 @@
 
 | 状態 | パターン数 |
 |---|---:|
-| 比較項目は一致 | 108 |
-| 差分あり | 49 |
-| 編成差分候補（対応未確定） | 31 |
-| 未照合 | 211 |
+| 比較項目は一致 | 109 |
+| 差分あり | 50 |
+| 編成差分候補（対応未確定） | 33 |
+| 未照合 | 207 |
 
 ## 差分あり
 
@@ -39,6 +39,7 @@
 | リョウ |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%83%AA%E3%83%A7%E3%82%A6) |  編成順: 正本 ドクケイル Lv.53 → アゲハント Lv.53 → ビークイン Lv.54 → ヘラクロス Lv.54 → ドラピオン Lv.57 ／ Wiki ドクケイル Lv.53 → アゲハント Lv.53 → ヘラクロス Lv.54 → ビークイン Lv.54 → ドラピオン Lv.57; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
 | オーバ |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%AA%E3%83%BC%E3%83%90) |  編成順: 正本 ギャロップ Lv.58 → ハガネール Lv.57 → フワライド Lv.58 → ミミロップ Lv.57 → ゴウカザル Lv.61 ／ Wiki ギャロップ Lv.58 → ハガネール Lv.57 → ミミロップ Lv.57 → フワライド Lv.58 → ゴウカザル Lv.61; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
 | ゴヨウ |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B4%E3%83%A8%E3%82%A6) |  編成順: 正本 バリヤード Lv.59 → キリンリキ Lv.59 → チャーレム Lv.60 → フーディン Lv.60 → ドータクン Lv.63 ／ Wiki バリヤード Lv.59 → チャーレム Lv.60 → フーディン Lv.60 → キリンリキ Lv.59 → ドータクン Lv.63; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
+| シロナ |  | [表3-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%AD%E3%83%8A) |  編成順: 正本 ミカルゲ Lv.75 → シビルドン Lv.75 → ミロカロス Lv.75 → ウォーグル Lv.75 → ルカリオ Lv.75 → ガブリアス Lv.77 ／ Wiki ミカルゲ Lv.75 → ウォーグル Lv.75 → シビルドン Lv.75 → ルカリオ Lv.75 → ミロカロス Lv.75 → ガブリアス Lv.77; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
 | シキミ |  | [表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%82%AD%E3%83%9F) |  編成順: 正本 デスカーン Lv.71 → ブルンゲル Lv.71 → ゴルーグ Lv.71 → ユキメノコ Lv.71 → フワライド Lv.71 → シャンデラ Lv.73 ／ Wiki デスカーン Lv.71 → ユキメノコ Lv.71 → ブルンゲル Lv.71 → フワライド Lv.71 → ゴルーグ Lv.71 → シャンデラ Lv.73; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
 | カトレア |  | [表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%AB%E3%83%88%E3%83%AC%E3%82%A2) |  編成順: 正本 ムシャーナ Lv.71 → シンボラー Lv.71 → ランクルス Lv.71 → ゴチルゼル Lv.71 → ドータクン Lv.71 → メタグロス Lv.73 ／ Wiki ムシャーナ Lv.71 → ランクルス Lv.71 → シンボラー Lv.71 → ゴチルゼル Lv.71 → ドータクン Lv.71 → メタグロス Lv.73; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
 | レンブ |  | [表1-2](https://wiki.pokemonwiki.com/wiki/%E3%83%AC%E3%83%B3%E3%83%96) |  編成順: 正本 キノガッサ Lv.71 → ナゲキ Lv.71 → ダゲキ Lv.71 → コジョンド Lv.71 → ドクロッグ Lv.71 → ローブシン Lv.73 ／ Wiki キノガッサ Lv.71 → ナゲキ Lv.71 → ダゲキ Lv.71 → ドクロッグ Lv.71 → コジョンド Lv.71 → ローブシン Lv.73; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
@@ -69,6 +70,8 @@
 | 人物 | 作品・条件 | 資料 | 差分・未確認事項 |
 |---|---|---|---|
 | ワタル |  | [表7-2](https://wiki.pokemonwiki.com/wiki/%E3%83%AF%E3%82%BF%E3%83%AB) | 編成差分候補（対応未確定）;  種族・レベルの組み合わせ: 正本 カイリュー Lv.40 ／ Wiki ギャラドス Lv.46 → カイリュー Lv.49 → カイリュー Lv.49 → プテラ Lv.48 → リザードン Lv.48 → カイリュー Lv.50; 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-9](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 編成差分候補（対応未確定）;  種族・レベルの組み合わせ: 正本 ピジョット Lv.66 → ラフレシア Lv.66 → ガラガラ Lv.66 → ギャロップ Lv.66 → ヤドラン Lv.66 → サンダース Lv.67 ／ Wiki ピジョット Lv.66 → ラフレシア Lv.66 → ガラガラ Lv.66 → ギャロップ Lv.66 → ヤドラン Lv.66 → サンダース Lv.67 → ライチュウ Lv.67; 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-9](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 編成差分候補（対応未確定）;  種族・レベルの組み合わせ: 正本 ピジョット Lv.66 → ラフレシア Lv.66 → ガラガラ Lv.66 → ギャロップ Lv.66 → ヤドラン Lv.66 → ライチュウ Lv.67 ／ Wiki ピジョット Lv.66 → ラフレシア Lv.66 → ガラガラ Lv.66 → ギャロップ Lv.66 → ヤドラン Lv.66 → サンダース Lv.67 → ライチュウ Lv.67; 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | カリン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%AB%E3%83%AA%E3%83%B3) | 編成差分候補（対応未確定）;  種族・レベルの組み合わせ: 正本 ブラッキー Lv.42 → ラフレシア Lv.42 → ゲンガー Lv.45 → ヤミカラス Lv.44 → ヘルガー Lv.47 ／ Wiki ブラッキー Lv.42 → ラフレシア Lv.43 → ゲンガー Lv.45 → ヤミカラス Lv.44 → ヘルガー Lv.47; 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | ダイゴ |  | [表2-2](https://wiki.pokemonwiki.com/wiki/%E3%83%80%E3%82%A4%E3%82%B4) | 編成差分候補（対応未確定）;  種族・レベルの組み合わせ: 正本 メタング Lv.42 → エアームド Lv.43 → ボスゴドラ Lv.44 ／ Wiki エアームド Lv.77 → ネンドール Lv.75 → ボスゴドラ Lv.76 → ユレイドル Lv.76 → アーマルド Lv.76 → メタグロス Lv.78; 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | リョウ |  | [表2-1](https://wiki.pokemonwiki.com/wiki/%E3%83%AA%E3%83%A7%E3%82%A6) | 編成差分候補（対応未確定）;  種族・レベルの組み合わせ: 正本 メガヤンマ Lv.49/65 → ハッサム Lv.49/65 → ヘラクロス Lv.51/67 → ビークイン Lv.50/66 → ドラピオン Lv.53/69 ／ Wiki メガヤンマ Lv.49 → ハッサム Lv.49 → ヘラクロス Lv.50 → ビークイン Lv.50 → ドラピオン Lv.53; 作品・戦闘条件・種族とレベルが一致する表を特定できない |
@@ -113,27 +116,24 @@
 | グリーン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | グリーン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | グリーン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| グリーン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | グリーン |  | [表11-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3)・[表14-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | グリーン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シン |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
+| シン |  | [表1-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-2](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-3](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-4](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-5](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-7](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3)・[表1-8](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%B3) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | キョウ |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%AD%E3%83%A7%E3%82%A6) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | ダイゴ |  | [表5-2](https://wiki.pokemonwiki.com/wiki/%E3%83%80%E3%82%A4%E3%82%B4)・[表5-4](https://wiki.pokemonwiki.com/wiki/%E3%83%80%E3%82%A4%E3%82%B4) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | ダイゴ |  | [表5-2](https://wiki.pokemonwiki.com/wiki/%E3%83%80%E3%82%A4%E3%82%B4)・[表5-4](https://wiki.pokemonwiki.com/wiki/%E3%83%80%E3%82%A4%E3%82%B4) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
@@ -144,7 +144,6 @@
 | オーバ |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%AA%E3%83%BC%E3%83%90) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | ゴヨウ |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B4%E3%83%A8%E3%82%A6) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | ゴヨウ |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B4%E3%83%A8%E3%82%A6) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
-| シロナ |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%AD%E3%83%8A) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | シロナ |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%AD%E3%83%8A) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | シロナ |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%AD%E3%83%8A) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
 | シロナ |  | [人物ページ](https://wiki.pokemonwiki.com/wiki/%E3%82%B7%E3%83%AD%E3%83%8A) | 作品・戦闘条件・種族とレベルが一致する表を特定できない |
@@ -355,6 +354,7 @@
 | グリーン |  | [表2-23](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 特性 は資料から確定できない; 性別 は資料から確定できない; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
 | グリーン |  | [表3-16](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 特性 は資料から確定できない; 性別 は資料から確定できない; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
 | グリーン |  | [表3-14](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 特性 は資料から確定できない; 性別 は資料から確定できない; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
+| グリーン |  | [表3-15](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 特性 は資料から確定できない; 性別 は資料から確定できない; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
 | グリーン |  | [表6-1](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 特性 は資料から確定できない; 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
 | グリーン |  | [表8-24](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |
 | グリーン |  | [表8-22](https://wiki.pokemonwiki.com/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3) | 持ち物 は資料から確定できない; タイプは未照合; テラスタイプは未照合; フォームは未照合 |

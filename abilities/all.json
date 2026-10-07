@@ -2088,28 +2088,28 @@
   {
     "id": 299,
     "name_ja": "おもてなし",
-    "name_en": "Mind’s Eye",
+    "name_en": "Hospitality",
     "description": "場に出たとき、味方のHPを1/4回復する。",
     "generation": 9
   },
   {
     "id": 300,
     "name_ja": "しんがん",
-    "name_en": "Supersweet Syrup",
+    "name_en": "Mind’s Eye",
     "description": "ゴーストタイプにノーマル・かくとうわざが当たるようになる。\n命中率を下げられず、相手の回避率を無視できる。",
     "generation": 9
   },
   {
     "id": 301,
     "name_ja": "おもかげやどし",
-    "name_en": "Hospitality",
+    "name_en": "Embody Aspect",
     "description": "オーガポン (みどりのめん) がテラスタルしたとき、すばやさが1段階上がる。",
     "generation": 9
   },
   {
     "id": 302,
     "name_ja": "おもかげやどし",
-    "name_en": "Toxic Chain",
+    "name_en": "Embody Aspect",
     "description": "オーガポン (かまどのめん) がテラスタルしたとき、こうげきが1段階上がる。",
     "generation": 9
   },
@@ -2123,28 +2123,28 @@
   {
     "id": 304,
     "name_ja": "おもかげやどし",
-    "name_en": "Tera Shift",
+    "name_en": "Embody Aspect",
     "description": "オーガポン (いしずえのめん) がテラスタルしたとき、ぼうぎょが1段階上がる。",
     "generation": 9
   },
   {
     "id": 305,
     "name_ja": "どくのくさり",
-    "name_en": "Tera Shell",
+    "name_en": "Toxic Chain",
     "description": "攻撃技を使ったとき、相手をもうどく状態にすることがある。",
     "generation": 9
   },
   {
     "id": 306,
     "name_ja": "かんろなミツ",
-    "name_en": "Teraform Zero",
+    "name_en": "Supersweet Syrup",
     "description": "場に出たとき、相手の回避率を1段階下げる。",
     "generation": 9
   },
   {
     "id": 307,
     "name_ja": "テラスチェンジ",
-    "name_en": "Poison Puppeteer",
+    "name_en": "Tera Shift",
     "description": "場に出たとき、テラパゴスがテラスタルフォルムにフォルムチェンジする。",
     "generation": 9
   },

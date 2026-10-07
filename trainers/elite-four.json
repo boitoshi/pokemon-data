@@ -27080,7 +27080,7 @@
           ],
           "game_ja": "プラチナ",
           "location_ja": "ポケモンリーグ",
-          "section_ja": "ポケモンリーグ 戦",
+          "section_ja": "ポケモンリーグ",
           "section_needs_review": false
         },
         {
@@ -44065,7 +44065,7 @@
           ],
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
-          "section_ja": "ポケモンリーグ 戦",
+          "section_ja": "ポケモンリーグ 初戦",
           "section_needs_review": false
         },
         {
@@ -45538,7 +45538,7 @@
             }
           ],
           "game_ja": "サン・ムーン",
-          "location_ja": "の",
+          "location_ja": "命の遺跡",
           "section_ja": "大試練",
           "section_needs_review": false
         },
@@ -45746,7 +45746,7 @@
           ],
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
-          "section_ja": "ポケモンリーグ 戦",
+          "section_ja": "ポケモンリーグ 初戦",
           "section_needs_review": false
         },
         {
@@ -46084,7 +46084,7 @@
             }
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
-          "location_ja": "の",
+          "location_ja": "命の遺跡",
           "section_ja": "大試練",
           "section_needs_review": false
         },
@@ -46289,7 +46289,7 @@
           ],
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ポケモンリーグ",
-          "section_ja": "ポケモンリーグ 戦",
+          "section_ja": "ポケモンリーグ 初戦",
           "section_needs_review": false
         },
         {
@@ -59356,7 +59356,7 @@
             }
           ],
           "game_ja": "サン・ムーン",
-          "location_ja": "ポニの",
+          "location_ja": "ポニの大峡谷",
           "section_ja": "大試練",
           "section_needs_review": false
         },

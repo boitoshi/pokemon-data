@@ -8519,7 +8519,7 @@
           "section_needs_review": false
         },
         {
-          "game": "Yellow",
+          "game": "Y",
           "section": "Champion battle",
           "branch": "BlueEevee:Flareon",
           "branch_ja": "イーブイがブースターに進化した場合",
@@ -29681,7 +29681,7 @@
           "section_needs_review": false
         },
         {
-          "game": "Black and White",
+          "game": "BW",
           "section": "Black and White",
           "branch": null,
           "branch_ja": null,

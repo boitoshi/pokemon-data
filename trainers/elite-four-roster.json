@@ -1,0 +1,449 @@
+{
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Elite_Four",
+  "scope": "本編のポケモンリーグの四天王・チャンピオン、アローラのしまキング・しまクイーン、カントーのライバル（トレース）、Z-A のファーフロウリーグ（非公式）。日本語名は Bulbapedia の索引ページ（Elite Four / Island kahuna）から転記したもので、日本語資料との照合は未完了",
+  "trainers": [
+    {
+      "page": "Lorelei",
+      "ja": "カンナ",
+      "role": "elite_four",
+      "region": "カントー",
+      "order": 1
+    },
+    {
+      "page": "Bruno",
+      "ja": "シバ",
+      "role": "elite_four",
+      "region": "カントー",
+      "order": 2
+    },
+    {
+      "page": "Agatha",
+      "ja": "キクコ",
+      "role": "elite_four",
+      "region": "カントー",
+      "order": 3
+    },
+    {
+      "page": "Lance",
+      "ja": "ワタル",
+      "role": "elite_four",
+      "region": "カントー",
+      "order": 4
+    },
+    {
+      "page": "Blue (game)",
+      "ja": "グリーン",
+      "role": "champion",
+      "region": "カントー",
+      "order": 5
+    },
+    {
+      "page": "Trace (game)",
+      "ja": "トレース",
+      "role": "rival",
+      "region": "カントー",
+      "order": 6
+    },
+    {
+      "page": "Will",
+      "ja": "イツキ",
+      "role": "elite_four",
+      "region": "ジョウト",
+      "order": 1
+    },
+    {
+      "page": "Koga",
+      "ja": "キョウ",
+      "role": "elite_four",
+      "region": "ジョウト",
+      "order": 2
+    },
+    {
+      "page": "Karen",
+      "ja": "カリン",
+      "role": "elite_four",
+      "region": "ジョウト",
+      "order": 4
+    },
+    {
+      "page": "Sidney",
+      "ja": "カゲツ",
+      "role": "elite_four",
+      "region": "ホウエン",
+      "order": 1
+    },
+    {
+      "page": "Phoebe",
+      "ja": "フヨウ",
+      "role": "elite_four",
+      "region": "ホウエン",
+      "order": 2
+    },
+    {
+      "page": "Glacia",
+      "ja": "プリム",
+      "role": "elite_four",
+      "region": "ホウエン",
+      "order": 3
+    },
+    {
+      "page": "Drake",
+      "ja": "ゲンジ",
+      "role": "elite_four",
+      "region": "ホウエン",
+      "order": 4
+    },
+    {
+      "page": "Steven Stone",
+      "ja": "ダイゴ",
+      "role": "champion",
+      "region": "ホウエン",
+      "order": 5
+    },
+    {
+      "page": "Wallace",
+      "ja": "ミクリ",
+      "role": "champion",
+      "region": "ホウエン",
+      "order": 6
+    },
+    {
+      "page": "Aaron",
+      "ja": "リョウ",
+      "role": "elite_four",
+      "region": "シンオウ",
+      "order": 1
+    },
+    {
+      "page": "Bertha",
+      "ja": "キクノ",
+      "role": "elite_four",
+      "region": "シンオウ",
+      "order": 2
+    },
+    {
+      "page": "Flint",
+      "ja": "オーバ",
+      "role": "elite_four",
+      "region": "シンオウ",
+      "order": 3
+    },
+    {
+      "page": "Lucian",
+      "ja": "ゴヨウ",
+      "role": "elite_four",
+      "region": "シンオウ",
+      "order": 4
+    },
+    {
+      "page": "Cynthia",
+      "ja": "シロナ",
+      "role": "champion",
+      "region": "シンオウ",
+      "order": 5
+    },
+    {
+      "page": "Shauntal",
+      "ja": "シキミ",
+      "role": "elite_four",
+      "region": "イッシュ",
+      "order": 1
+    },
+    {
+      "page": "Grimsley",
+      "ja": "ギーマ",
+      "role": "elite_four",
+      "region": "イッシュ",
+      "order": 2
+    },
+    {
+      "page": "Caitlin",
+      "ja": "カトレア",
+      "role": "elite_four",
+      "region": "イッシュ",
+      "order": 3
+    },
+    {
+      "page": "Marshal",
+      "ja": "レンブ",
+      "role": "elite_four",
+      "region": "イッシュ",
+      "order": 4
+    },
+    {
+      "page": "Alder",
+      "ja": "アデク",
+      "role": "champion",
+      "region": "イッシュ",
+      "order": 5
+    },
+    {
+      "page": "Iris",
+      "ja": "アイリス",
+      "role": "champion",
+      "region": "イッシュ",
+      "order": 6
+    },
+    {
+      "page": "Malva",
+      "ja": "パキラ",
+      "role": "elite_four",
+      "region": "カロス",
+      "order": 1
+    },
+    {
+      "page": "Siebold",
+      "ja": "ズミ",
+      "role": "elite_four",
+      "region": "カロス",
+      "order": 2
+    },
+    {
+      "page": "Wikstrom",
+      "ja": "ガンピ",
+      "role": "elite_four",
+      "region": "カロス",
+      "order": 3
+    },
+    {
+      "page": "Drasna",
+      "ja": "ドラセナ",
+      "role": "elite_four",
+      "region": "カロス",
+      "order": 4
+    },
+    {
+      "page": "Diantha",
+      "ja": "カルネ",
+      "role": "champion",
+      "region": "カロス",
+      "order": 5
+    },
+    {
+      "page": "Furfrou League",
+      "ja": "ミエ",
+      "role": "elite_four_unofficial",
+      "region": "カロス(ZA)",
+      "order": 1,
+      "options": {
+        "match_name": "Mie",
+        "section_root": true,
+        "en": "Mie",
+        "all_league": true
+      }
+    },
+    {
+      "page": "Furfrou League",
+      "ja": "ブリヤン",
+      "role": "elite_four_unofficial",
+      "region": "カロス(ZA)",
+      "order": 2,
+      "options": {
+        "match_name": "Brill",
+        "section_root": true,
+        "en": "Brill",
+        "all_league": true
+      }
+    },
+    {
+      "page": "Furfrou League",
+      "ja": "コンゴウ",
+      "role": "elite_four_unofficial",
+      "region": "カロス(ZA)",
+      "order": 3,
+      "options": {
+        "match_name": "Diamant",
+        "section_root": true,
+        "en": "Diamant",
+        "all_league": true
+      }
+    },
+    {
+      "page": "Furfrou League",
+      "ja": "マイレ",
+      "role": "elite_four_unofficial",
+      "region": "カロス(ZA)",
+      "order": 4,
+      "options": {
+        "match_name": "Marta",
+        "section_root": true,
+        "en": "Marta",
+        "all_league": true
+      }
+    },
+    {
+      "page": "Furfrou League",
+      "ja": "ソワニエ",
+      "role": "champion_unofficial",
+      "region": "カロス(ZA)",
+      "order": 5,
+      "options": {
+        "match_name": "Soignée",
+        "section_root": true,
+        "en": "Soignée",
+        "all_league": true
+      }
+    },
+    {
+      "page": "Hala",
+      "ja": "ハラ",
+      "role": "elite_four",
+      "region": "アローラ",
+      "order": 1
+    },
+    {
+      "page": "Molayne",
+      "ja": "マーレイン",
+      "role": "elite_four",
+      "region": "アローラ",
+      "order": 2
+    },
+    {
+      "page": "Olivia",
+      "ja": "ライチ",
+      "role": "elite_four",
+      "region": "アローラ",
+      "order": 3
+    },
+    {
+      "page": "Acerola",
+      "ja": "アセロラ",
+      "role": "elite_four",
+      "region": "アローラ",
+      "order": 4
+    },
+    {
+      "page": "Kahili",
+      "ja": "カヒリ",
+      "role": "elite_four",
+      "region": "アローラ",
+      "order": 5
+    },
+    {
+      "page": "Professor Kukui",
+      "ja": "ククイ",
+      "role": "champion",
+      "region": "アローラ",
+      "order": 6
+    },
+    {
+      "page": "Hau",
+      "ja": "ハウ",
+      "role": "champion",
+      "region": "アローラ",
+      "order": 7
+    },
+    {
+      "page": "Nanu",
+      "ja": "クチナシ",
+      "role": "island_kahuna",
+      "region": "アローラ",
+      "order": 3
+    },
+    {
+      "page": "Hapu",
+      "ja": "ハプウ",
+      "role": "island_kahuna",
+      "region": "アローラ",
+      "order": 4
+    },
+    {
+      "page": "Leon",
+      "ja": "ダンデ",
+      "role": "champion",
+      "region": "ガラル",
+      "order": 1
+    },
+    {
+      "page": "Mustard",
+      "ja": "マスタード",
+      "role": "champion",
+      "region": "ガラル",
+      "order": 2
+    },
+    {
+      "page": "Peony",
+      "ja": "ピオニー",
+      "role": "champion",
+      "region": "ガラル",
+      "order": 3
+    },
+    {
+      "page": "Rika",
+      "ja": "チリ",
+      "role": "elite_four",
+      "region": "パルデア",
+      "order": 1
+    },
+    {
+      "page": "Poppy",
+      "ja": "ポピー",
+      "role": "elite_four",
+      "region": "パルデア",
+      "order": 2
+    },
+    {
+      "page": "Larry",
+      "ja": "アオキ",
+      "role": "elite_four",
+      "region": "パルデア",
+      "order": 3
+    },
+    {
+      "page": "Hassel",
+      "ja": "ハッサク",
+      "role": "elite_four",
+      "region": "パルデア",
+      "order": 4
+    },
+    {
+      "page": "Geeta",
+      "ja": "オモダカ",
+      "role": "champion",
+      "region": "パルデア",
+      "order": 5
+    },
+    {
+      "page": "Nemona",
+      "ja": "ネモ",
+      "role": "champion",
+      "region": "パルデア",
+      "order": 6
+    },
+    {
+      "page": "Crispin",
+      "ja": "アカマツ",
+      "role": "elite_four",
+      "region": "ブルーベリー学園",
+      "order": 1
+    },
+    {
+      "page": "Amarys",
+      "ja": "ネリネ",
+      "role": "elite_four",
+      "region": "ブルーベリー学園",
+      "order": 2
+    },
+    {
+      "page": "Lacey",
+      "ja": "タロ",
+      "role": "elite_four",
+      "region": "ブルーベリー学園",
+      "order": 3
+    },
+    {
+      "page": "Drayton",
+      "ja": "カキツバタ",
+      "role": "elite_four",
+      "region": "ブルーベリー学園",
+      "order": 4
+    },
+    {
+      "page": "Kieran",
+      "ja": "スグリ",
+      "role": "champion",
+      "region": "ブルーベリー学園",
+      "order": 5
+    }
+  ]
+}

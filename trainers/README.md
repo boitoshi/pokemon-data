@@ -2,7 +2,7 @@
 
 `gym-leader-roster.json` は対象者の名簿、`gym-leaders.json` は作品別の手持ちの正本です。
 取得元は Bulbapedia。日本語資料との照合は未完了のため、記事を公開する前に照合・レビューしてください。
-既存の四天王・チャンピオンなどのデータ（content-hub の `reference-data/trainer-parties.json`）は今回移設していません。
+四天王・チャンピオンなどは下の「四天王・チャンピオン」を参照（`elite-four-roster.json`・`elite-four.json`）。
 
 ## フィールド
 
@@ -112,3 +112,26 @@ uv run scripts/audit_gym_pokemon_wiki.py --replay ../pokemon-data/trainers/gym-l
 
 初回取得は `--fetch`（既存キャッシュがないページだけaxで取得）、通常の取得済み表の再抽出は `--cache` を使います。
 閲覧用Markdownは上のコマンドの `--markdown` でJSONと一緒に生成します。
+
+## 四天王・チャンピオン
+
+`elite-four-roster.json` は四天王・チャンピオン・しまキング等の名簿、`elite-four.json` は作品別の手持ちの正本です
+（2026-10-07 に content-hub から移設。経緯: `../pokebros-content-hub/docs/adr/0019-elite-four-canonical.md`）。
+取得元は Bulbapedia。**日本語資料との照合は未完了**です。記事やアプリに出す前に照合・レビューしてください。
+
+名簿の各行は `page`（Bulbapedia のページ名）、`ja`、`role`（`elite_four`・`champion`・`island_kahuna`・`rival`・
+`elite_four_unofficial`・`champion_unofficial`）、`region`、`order`（地方内の並び順）を持ちます。
+1ページに複数人が載っている場合（ファーフロウリーグ）は `options` を持ちます。
+`match_name` は Party の名前がこれと一致するものだけを採る条件、`section_root` は本編以外の見出しも許可する指定、
+`en` は英語名、`all_league` はその人の戦闘をすべてリーグ戦（`is_league: true`）として扱う指定です。
+地方をまたぐ人（シバ・ワタル、ハラ・ライチ）は1回だけ載せています。
+
+手持ちのフィールドはジムリーダーの `gym-leaders.json` と同じです（上の「フィールド」）。
+`ja`・`role`・`region`・`order` は名簿と手持ちの両方にあります。**名簿が正本**で、手持ち側は取得時に名簿から写した値です。
+直すときは名簿を直し、手持ち側の同じ値も合わせて直してください。
+
+```bash
+# content-hub で実行。既存の正本は上書きしない（別ファイルへ出して差分を取り込む）
+uv run scripts/fetch_trainer_parties.py --out /tmp/elite-four-review.json
+uv run scripts/generate_trainer_html.py
+```

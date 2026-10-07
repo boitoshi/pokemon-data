@@ -121,7 +121,7 @@ uv run scripts/audit_gym_pokemon_wiki.py --replay ../pokemon-data/trainers/gym-l
 
 名簿の各行は `page`（Bulbapedia のページ名）、`ja`、`role`（`elite_four`・`champion`・`island_kahuna`・`rival`・
 `elite_four_unofficial`・`champion_unofficial`）、`region`、`order`（地方内の並び順）を持ちます。
-1ページに複数人が載っている場合（ファーフロウリーグ）は `options` を持ちます。
+1ページに複数人が載っている場合（トリミアンリーグ）は `options` を持ちます。
 `match_name` は Party の名前がこれと一致するものだけを採る条件、`section_root` は本編以外の見出しも許可する指定、
 `en` は英語名、`all_league` はその人の戦闘をすべてリーグ戦（`is_league: true`）として扱う指定です。
 地方をまたぐ人（シバ・ワタル、ハラ・ライチ）は1回だけ載せています。

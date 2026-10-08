@@ -203,7 +203,7 @@
   },
   {
     "id": "firered",
-    "name": "ポケモン ファイアレッド",
+    "name": "ポケットモンスター ファイアレッド",
     "name_en": "Pokémon FireRed",
     "shortName": "FR",
     "abbrev": "FR",
@@ -224,7 +224,7 @@
   },
   {
     "id": "leafgreen",
-    "name": "ポケモン リーフグリーン",
+    "name": "ポケットモンスター リーフグリーン",
     "name_en": "Pokémon LeafGreen",
     "shortName": "LG",
     "abbrev": "LG",

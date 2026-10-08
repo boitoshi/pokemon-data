@@ -62603,7 +62603,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": null,
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SwSh",
@@ -62818,7 +62819,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": null,
           "section_ja": "再戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SwSh",
@@ -62951,7 +62953,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": "シュートスタジアム",
           "section_ja": "ガラルスタートーナメント",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SwSh",
@@ -63006,7 +63009,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": "カンムリ",
           "section_ja": "マックスレイドバトル",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         }
       ],
       "role_ja": "チャンピオン",

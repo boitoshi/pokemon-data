@@ -48350,7 +48350,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": null,
           "section_ja": "捕獲チュートリアル",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "SM",
@@ -48403,7 +48404,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": null,
           "section_ja": "Zワザのチュートリアル",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "SM",
@@ -48452,7 +48454,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ロイヤルドーム",
           "section_ja": "バトルロイヤルのチュートリアル",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "SM",
@@ -48709,7 +48712,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "チャンピオン戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "SM",
@@ -48966,7 +48970,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "チャンピオン戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "SM",
@@ -49223,7 +49228,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "チャンピオン戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "SM",
@@ -49480,7 +49486,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "SM",
@@ -49737,7 +49744,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "SM",
@@ -49994,7 +50002,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "USUM",
@@ -50047,7 +50056,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": null,
           "section_ja": "捕獲チュートリアル",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "USUM",
@@ -50100,7 +50110,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": null,
           "section_ja": "Zワザのチュートリアル",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "USUM",
@@ -50149,7 +50160,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ロイヤルドーム",
           "section_ja": "バトルロイヤルのチュートリアル",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "USUM",
@@ -50406,7 +50418,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "USUM",
@@ -50663,7 +50676,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         },
         {
           "game": "USUM",
@@ -50920,7 +50934,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモンはかせ"
         }
       ],
       "role_ja": "チャンピオン",
@@ -50982,7 +50997,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "リリィタウン",
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51033,7 +51049,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "リリィタウン",
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51082,7 +51099,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "リリィタウン",
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51166,7 +51184,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "リリィタウン",
           "section_ja": "2戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51252,7 +51271,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "リリィタウン",
           "section_ja": "2戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51336,7 +51356,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "リリィタウン",
           "section_ja": "2戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51428,7 +51449,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51522,7 +51544,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51614,7 +51637,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51694,7 +51718,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "オハナタウン",
           "section_ja": "4戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51776,7 +51801,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "オハナタウン",
           "section_ja": "4戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51856,7 +51882,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "オハナタウン",
           "section_ja": "4戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51905,7 +51932,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ロイヤルドーム",
           "section_ja": "5戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -51956,7 +51984,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ロイヤルドーム",
           "section_ja": "5戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -52005,7 +52034,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ロイヤルドーム",
           "section_ja": "5戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -52112,7 +52142,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ディグダトンネル",
           "section_ja": "マルチバトルの相棒（1回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -52221,7 +52252,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ディグダトンネル",
           "section_ja": "マルチバトルの相棒（1回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -52328,7 +52360,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ディグダトンネル",
           "section_ja": "マルチバトルの相棒（1回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -52442,7 +52475,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "マリエシティ",
           "section_ja": "6戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -52558,7 +52592,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "マリエシティ",
           "section_ja": "6戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -52672,7 +52707,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "マリエシティ",
           "section_ja": "6戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -52788,7 +52824,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "エーテルパラダイス",
           "section_ja": "マルチバトルの相棒（2回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -52904,7 +52941,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "エーテルパラダイス",
           "section_ja": "マルチバトルの相棒（2回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -53020,7 +53058,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "エーテルパラダイス",
           "section_ja": "マルチバトルの相棒（2回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -53191,7 +53230,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ラナキラマウンテン",
           "section_ja": "7戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -53362,7 +53402,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ラナキラマウンテン",
           "section_ja": "7戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -53533,7 +53574,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ラナキラマウンテン",
           "section_ja": "7戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -53745,7 +53787,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -53957,7 +54000,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SM",
@@ -54169,7 +54213,8 @@
           "game_ja": "サン・ムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -54218,7 +54263,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": null,
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -54269,7 +54315,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": null,
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -54318,7 +54365,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": null,
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -54402,7 +54450,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "リリィタウン",
           "section_ja": "2戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -54488,7 +54537,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "リリィタウン",
           "section_ja": "2戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -54572,7 +54622,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "リリィタウン",
           "section_ja": "2戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -54705,7 +54756,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -54840,7 +54892,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -54973,7 +55026,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -55117,7 +55171,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "オハナタウン",
           "section_ja": "4戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -55263,7 +55318,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "オハナタウン",
           "section_ja": "4戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -55407,7 +55463,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "オハナタウン",
           "section_ja": "4戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -55456,7 +55513,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ロイヤルドーム",
           "section_ja": "5戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -55507,7 +55565,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ロイヤルドーム",
           "section_ja": "5戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -55556,7 +55615,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ロイヤルドーム",
           "section_ja": "5戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -55696,7 +55756,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ディグダトンネル",
           "section_ja": "マルチバトルの相棒（1回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -55838,7 +55899,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ディグダトンネル",
           "section_ja": "マルチバトルの相棒（1回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -55978,7 +56040,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ディグダトンネル",
           "section_ja": "マルチバトルの相棒（1回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -56156,7 +56219,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "マリエシティ",
           "section_ja": "6戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -56336,7 +56400,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "マリエシティ",
           "section_ja": "6戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -56514,7 +56579,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "マリエシティ",
           "section_ja": "6戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -56694,7 +56760,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "エーテルパラダイス",
           "section_ja": "マルチバトルの相棒（2回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -56874,7 +56941,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "エーテルパラダイス",
           "section_ja": "マルチバトルの相棒（2回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -57054,7 +57122,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "エーテルパラダイス",
           "section_ja": "マルチバトルの相棒（2回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -57307,7 +57376,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "チャンピオン戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -57560,7 +57630,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "チャンピオン戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -57813,7 +57884,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "チャンピオン戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -58066,7 +58138,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -58319,7 +58392,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "USUM",
@@ -58572,7 +58646,8 @@
           "game_ja": "ウルトラサン・ウルトラムーン",
           "location_ja": "ポケモンリーグ",
           "section_ja": "タイトル防衛戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         }
       ],
       "role_ja": "チャンピオン",
@@ -61665,7 +61740,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": null,
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "どうじょうぬし"
         },
         {
           "game": "SwSh",
@@ -61714,7 +61790,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": null,
           "section_ja": "2戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "どうじょうぬし"
         },
         {
           "game": "SwSh",
@@ -61969,7 +62046,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "どうじょうぬし"
         },
         {
           "game": "SwSh",
@@ -62224,7 +62302,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "どうじょうぬし"
         },
         {
           "game": "SwSh",
@@ -62360,7 +62439,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": "シュートスタジアム",
           "section_ja": "ガラルスタートーナメント",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "どうじょうぬし"
         },
         {
           "game": "SwSh",
@@ -62496,7 +62576,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": "シュートスタジアム",
           "section_ja": "ガラルスタートーナメント",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "どうじょうぬし"
         }
       ],
       "role_ja": "チャンピオン",
@@ -62603,7 +62684,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": null,
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SwSh",
@@ -62818,7 +62900,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": null,
           "section_ja": "再戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SwSh",
@@ -62951,7 +63034,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": "シュートスタジアム",
           "section_ja": "ガラルスタートーナメント",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SwSh",
@@ -63006,7 +63090,8 @@
           "game_ja": "ソード・シールド",
           "location_ja": "カンムリ",
           "section_ja": "マックスレイドバトル",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         }
       ],
       "role_ja": "チャンピオン",
@@ -66122,7 +66207,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "コサジタウン",
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -66171,7 +66257,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "コサジタウン",
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -66220,7 +66307,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "コサジタウン",
           "section_ja": "初戦",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -66300,7 +66388,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "南１番エリア",
           "section_ja": "2戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -66380,7 +66469,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "南１番エリア",
           "section_ja": "2戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -66460,7 +66550,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "南１番エリア",
           "section_ja": "2戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -66591,7 +66682,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -66722,7 +66814,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -66853,7 +66946,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": null,
           "section_ja": "3戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -67015,7 +67109,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": null,
           "section_ja": "4戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -67177,7 +67272,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": null,
           "section_ja": "4戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -67339,7 +67435,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": null,
           "section_ja": "4戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -67505,7 +67602,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": null,
           "section_ja": "5戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -67671,7 +67769,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": null,
           "section_ja": "5戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -67837,7 +67936,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": null,
           "section_ja": "5戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -68089,7 +68189,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "テーブルシティ",
           "section_ja": "6戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "チャンピオン"
         },
         {
           "game": "SV",
@@ -68341,7 +68442,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "テーブルシティ",
           "section_ja": "6戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "チャンピオン"
         },
         {
           "game": "SV",
@@ -68593,7 +68695,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "テーブルシティ",
           "section_ja": "6戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "チャンピオン"
         },
         {
           "game": "SV",
@@ -68845,7 +68948,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "エリアゼロ",
           "section_ja": "エリアゼロのマルチバトルの相棒",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -69097,7 +69201,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "エリアゼロ",
           "section_ja": "エリアゼロのマルチバトルの相棒",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -69349,7 +69454,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "エリアゼロ",
           "section_ja": "エリアゼロのマルチバトルの相棒",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -69601,7 +69707,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "テーブルシティ",
           "section_ja": "学校最強大会",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "チャンピオン"
         },
         {
           "game": "SV",
@@ -69853,7 +69960,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "テーブルシティ",
           "section_ja": "学校最強大会",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "チャンピオン"
         },
         {
           "game": "SV",
@@ -70105,7 +70213,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "テーブルシティ",
           "section_ja": "学校最強大会",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "チャンピオン"
         },
         {
           "game": "SV",
@@ -70361,7 +70470,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ともっこプラザ",
           "section_ja": "7戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -70615,7 +70725,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ともっこプラザ",
           "section_ja": "7戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -70869,7 +70980,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ともっこプラザ",
           "section_ja": "7戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -71127,7 +71239,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ブルーベリー学園",
           "section_ja": "リーグ部/学校最強大会 (後 キビキビパニック)",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -71383,7 +71496,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ブルーベリー学園",
           "section_ja": "リーグ部/学校最強大会 (後 キビキビパニック)",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -71639,7 +71753,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ブルーベリー学園",
           "section_ja": "リーグ部/学校最強大会 (後 キビキビパニック)",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         }
       ],
       "role_ja": "チャンピオン",
@@ -72946,7 +73061,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "スイリョクタウン",
           "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア前",
-          "section_needs_review": true
+          "section_needs_review": true,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -73040,7 +73156,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "スイリョクタウン",
           "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア後",
-          "section_needs_review": true
+          "section_needs_review": true,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -73173,7 +73290,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "恐れ穴",
           "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア前",
-          "section_needs_review": true
+          "section_needs_review": true,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -73306,7 +73424,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "恐れ穴",
           "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア後",
-          "section_needs_review": true
+          "section_needs_review": true,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -73480,7 +73599,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "楽土の荒地",
           "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア前",
-          "section_needs_review": true
+          "section_needs_review": true,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -73656,7 +73776,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "楽土の荒地",
           "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア後",
-          "section_needs_review": true
+          "section_needs_review": true,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -73873,7 +73994,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ともっこプラザ",
           "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア前",
-          "section_needs_review": true
+          "section_needs_review": true,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -74092,7 +74214,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ともっこプラザ",
           "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア後",
-          "section_needs_review": true
+          "section_needs_review": true,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -74352,7 +74475,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "恐れ穴",
           "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア前",
-          "section_needs_review": true
+          "section_needs_review": true,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -74612,7 +74736,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "恐れ穴",
           "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア後",
-          "section_needs_review": true
+          "section_needs_review": true,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -74868,7 +74993,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ブルーベリー学園",
           "section_ja": "6戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ブルベリーグチャンピオン"
         },
         {
           "game": "SV",
@@ -74918,7 +75044,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ゼロの大空洞",
           "section_ja": "7戦目",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -75135,7 +75262,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ゼロの大空洞",
           "section_ja": "マルチバトルの相棒（1回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -75393,7 +75521,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "スイリョクタウン",
           "section_ja": "マルチバトルの相棒（2回目）",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         },
         {
           "game": "SV",
@@ -75649,7 +75778,8 @@
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ブルーベリー学園",
           "section_ja": "リーグ部",
-          "section_needs_review": false
+          "section_needs_review": false,
+          "title_ja": "ポケモントレーナー"
         }
       ],
       "role_ja": "チャンピオン",

@@ -121,6 +121,8 @@ uv run scripts/audit_gym_pokemon_wiki.py --replay ../pokemon-data/trainers/gym-l
 
 名簿の各行は `page`（Bulbapedia のページ名）、`ja`、`role`（`elite_four`・`champion`・`island_kahuna`・`rival`・
 `elite_four_unofficial`・`champion_unofficial`）、`region`、`order`（地方内の並び順）を持ちます。
+`role` は**記事でどの枠に並べるか**（並び順・まとめ記事のチャンピオン欄）で、ゲーム内の肩書きではありません。
+肩書きはストーリーの途中で変わる人がいる（ピオニー・ククイ・ハウ・ネモ・スグリなど）ので、1人1つの値では表せません。
 1ページに複数人が載っている場合（トリミアンリーグ）は `options` を持ちます。
 `match_name` は Party の名前がこれと一致するものだけを採る条件、`section_root` は本編以外の見出しも許可する指定、
 `en` は英語名、`all_league` はその人の戦闘をすべてリーグ戦（`is_league: true`）として扱う指定です。
@@ -129,6 +131,10 @@ uv run scripts/audit_gym_pokemon_wiki.py --replay ../pokemon-data/trainers/gym-l
 手持ちのフィールドはジムリーダーの `gym-leaders.json` と同じです（上の「フィールド」）。
 `ja`・`role`・`region`・`order` は名簿と手持ちの両方にあります。**名簿が正本**で、手持ち側は取得時に名簿から写した値です。
 直すときは名簿を直し、手持ち側の同じ値も合わせて直してください。
+
+ゲーム内の肩書きは、party の `title_ja`（任意）に**その対戦のときの肩書き**として持たせます（例: 「元チャンピオン」）。
+取得元に無い情報なので手で入れ、出典（実機・公式ページ等）は commit メッセージか research-notes に残します。
+わからない対戦には付けません（推測で補完しない）。付いていない対戦では、記事・アプリは肩書きを出しません。
 
 ```bash
 # content-hub で実行。既存の正本は上書きしない（別ファイルへ出して差分を取り込む）

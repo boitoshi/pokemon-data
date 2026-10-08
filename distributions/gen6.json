@@ -8621,10 +8621,11 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "2015年7月24〜27日に北米・欧州でNintendo Networkにより配信されたディアンシー（英名イベント「Get a Dazzling Diancie」／Bulbapedia表記「Hope Diancie」）。親名(OT)=Hope。日本国内では未配信。",
+      "notes": "2015年7月24〜27日に北米・欧州でNintendo Networkにより配信されたディアンシー（英名イベント「Get a Dazzling Diancie」）。親名(OT)=Hope。日本国内では未配信。",
       "source": {
         "kind": "bulbapedia",
-        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI"
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_American_region_Nintendo_Network_event_Pokémon_distributions_in_Generation_VI",
+        "note": "Bulbapedia表記は「Hope Diancie」。"
       }
     },
     {

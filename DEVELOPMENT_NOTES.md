@@ -13,11 +13,11 @@
 ```
 pokemon-data/
 ├── pokemon/
-│   ├── all.json               # ポケモンマスターデータ 1025件 + フォームデータ 199件
+│   ├── all.json               # ポケモンマスターデータ 1025件 + フォームデータ（件数は下記コマンドで確認）
 │   ├── history.json           # 種族・フォームの過去タイプ・フォーム登場ソフトの手書き正本（fetch系は読まない・書かない。ADR 0016）
 │   └── game-compatibility.json # 作品に入れる種族（全国図鑑番号。収集データ正本）
 ├── games/
-│   ├── titles.json           # ゲームタイトル 43件（Gen1〜Gen10/ZA + ぽこ あ ポケモン）。groupフィールド付き
+│   ├── titles.json           # ゲームタイトル（件数は `jq 'length' games/titles.json`）。groupフィールド付き
 │   ├── groups.json           # グループ定義 28件（"SwSh", "SV"等のペア単位キー）
 │   ├── generations.json      # 世代定義 10件
 │   └── progression-gates.json # 交換・転送・コンテスト施設の進行度解放条件（手書き正本）
@@ -102,16 +102,18 @@ pokemon-data/
 
 ### forms カテゴリ一覧
 
-| category | 件数 | 内容 |
-|---|---|---|
-| mega | 89 | ZA新規25件含む |
-| regional | 55 | アローラ・ガラル・ヒスイ・パルデア |
-| gigantamax | 33 | gmax_moveフィールド付き |
-| primal | 2 | グラードン・カイオーガ |
-| zmove | 19 | z_crystal・z_moveフィールド付き（SM/USUM専用Zワザ持ち） |
-| bond | 1 | サトシゲッコウガ（きずなへんげ） |
+| category | 内容 |
+|---|---|
+| mega | ZA新規フォーム含む |
+| regional | アローラ・ガラル・ヒスイ・パルデア |
+| gigantamax | gmax_moveフィールド付き |
+| primal | グラードン・カイオーガ |
+| zmove | z_crystal・z_moveフィールド付き（SM/USUM専用Zワザ持ち） |
+| bond | サトシゲッコウガ（きずなへんげ） |
 
-ソース: `pokebros-tools/tools/summary-pages/src/data/special-forms.json`
+総数・カテゴリ別件数: `jq '[.[] | .forms[]?] | {total:length,categories:(group_by(.category) | map({category:.[0].category,count:length}))}' pokemon/all.json`
+
+ソース: `forms/special-forms.json`（この repo）
 更新時: `uv run scripts/fetch-forms.py --force && uv run scripts/fetch-form-names-en.py`
 
 ---
@@ -430,7 +432,7 @@ brief も「今日まで（終了時刻は未確認）」と出すので、空�
 | 1 | `abilities/all.json` の `name_en` 補完 | `fetch-ability-names.py` で310件全て補完（当時310件／現在316件） |
 | 2 | `game-data/` ディレクトリの削除 | `ability_list.json` を `abilities/all.json` に移行し削除完了 |
 | 3 | `regional` フォームの `form_name_ja` 修正 | "コラッタ（アローラのすがた）" 形式で統一 |
-| 4 | `form_name_en` の追加 | `fetch-form-names-en.py` で178件完全カバー（当時178件／現在199件） |
+| 4 | `form_name_en` の追加 | `fetch-form-names-en.py` で178件完全カバー（当時178件。現在の件数は上記フォーム集計コマンドで確認） |
 | 5 | form_id重複問題の解決 | ケンタロス・ウーラオスのform_id修正 |
 | 6 | `games/titles.json` の補完 | ZA発売日・DLC・HOME連携・groupフィールド追加（全43タイトル） |
 | 7 | `mappings/` の distribution-scraper への正本化 | symlink移行完了（11ファイル）、build_mappings.pyにsymlink guard追加 |
@@ -471,7 +473,7 @@ brief も「今日まで（終了時刻は未確認）」と出すので、空�
 
 | データ | 場所 |
 |---|---|
-| フォームデータ正本（ソース） | `../pokebros-tools/tools/summary-pages/src/data/special-forms.json` |
+| フォームデータ正本（ソース） | `forms/special-forms.json`（この repo） |
 | 配信ポケモンデータ正本 | `distributions/*.json`（この repo。2026-07 に app から移管。P4完了。`../pokemon-distribution-app/public/pokemon.json` は `build/pokemon.json` のコピー（`sync-from-pokemon-data.mjs` で同期）） |
 | ゲームタイトル定義（参照先） | `../pokemon-ribbon-tracker/src/lib/data/games.ts`（`games/titles.json` + `groups.json` から自動生成。games.ts 冒頭に「直接編集禁止」の注記あり） |
 | 旧ポケモン名データ（廃止予定） | `../pokebros-content-hub/reference-data/pokemon-names.json`（削除済み） |
@@ -480,7 +482,7 @@ brief も「今日まで（終了時刻は未確認）」と出すので、空�
 
 ## 大会情報の編集手順
 
-`distributions/*.json` の `event`（`kind`/`year`/`schedule`/`location`/`winner`/`winnerX`。`schema.json` に定義済み）を直接編集する。スプレッドシート＋GAS は2026-07-29に引退済み。現在 `champions.json` の21件が `event` 入力済み。
+`distributions/*.json` の `event`（`kind`/`year`/`schedule`/`location`/`winner`/`winnerX`。`schema.json` に定義済み）を直接編集する。スプレッドシート＋GAS は2026-07-29に引退済み。`champions.json` の `event` 入力済み件数は `jq '[.entries[] | select(.event != null)] | length' distributions/champions.json` で確認する。
 
 ## L2直接取り込みパイプライン
 
@@ -498,7 +500,7 @@ distribution-scraper の `--json` 出力を `scripts/scrape-to-l2.mjs`（provena
 
 ## 下流の消費者
 
-- pokemon-ribbon-tracker（`scripts/generate-ribbons.mjs` 等。https://www.pokebros.net/ribbon-tracker/ で公開中）
+- pokemon-ribbon-tracker（`scripts/generate-ribbons.mjs` 等。https://ribbon.pokebros.net/ で公開中）
 - pokemon-distribution-app（`sync-from-pokemon-data.mjs`）
 - pokebros-tools summary-pages（`sync-from-pokemon-data.mjs`）
 - content-hub `scripts/generate_distribution_html.py`（配信個別記事HTML）

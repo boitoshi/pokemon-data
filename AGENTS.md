@@ -38,7 +38,8 @@
   `excludedPorts` に書くかを決める。決めていないと `npm run validate:ribbons` が一覧を出して止める
 - `mappings/` を参照する他リポジトリ（distribution-scraper 等）は symlink 経由。実体はここだけ
 - 期限表（`poco-a-pokemon/` `raids/`）を更新したら `checkedUntil` も先へ進める。
-  進めないと morning brief が毎朝「表が期限切れ」と鳴り続ける（詳細は `DEVELOPMENT_NOTES.md`）
+  morning brief の期限切れ通知はテラレイド表が対象。ぽこあ表は期限切れ通知の対象外で、
+  `checkedAt` からの確認間隔で通知する（設定は `../morning-status/config.yaml` の `recheck_days`）
 
 ---
 

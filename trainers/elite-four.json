@@ -21112,7 +21112,7 @@
               "ja": "フライゴン",
               "form": null,
               "level": 73,
-              "gender": "male",
+              "gender": "female",
               "ability_en": "Levitate",
               "ability_ja": "ふゆう",
               "item": null,
@@ -21139,7 +21139,7 @@
                   "ja": "いやなおと"
                 }
               ],
-              "gender_ja": "オス",
+              "gender_ja": "メス",
               "types_ja": [
                 "じめん",
                 "ドラゴン"

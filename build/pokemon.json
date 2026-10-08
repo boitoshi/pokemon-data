@@ -24574,7 +24574,8 @@
     "ribbons": [
       "バースデーリボン"
     ],
-    "notes": "日本、シンガポールのポケモンセンターで受取可能。BDSPとPLAでも同個体が受け取り可能とする関係か、恒例の特別な技「おいわい」は覚えていない。",
+    "notes": "日本、シンガポールのポケモンセンターで受取可能。恒例の特別な技「おいわい」は覚えていない。",
+    "postUrl": "https://www.pokebros.net/serialcode-gen8-birthday-happiny/",
     "region": "日本,シンガポール",
     "ivs": "ランダム"
   },
@@ -24590,7 +24591,7 @@
     "eventName": "ポケモンセンターわくわくおたんじょうび",
     "distributionMethod": "シリアルコード",
     "distributionLocation": "ポケモンセンター",
-    "startDate": "2021-11-19",
+    "startDate": "2022-01-28",
     "endDate": "2023-01-31",
     "ot": "ポケセン、Poké Center",
     "trainerId": "211101",
@@ -24609,7 +24610,8 @@
     "ribbons": [
       "バースデーリボン"
     ],
-    "notes": "日本、シンガポールのポケモンセンターで受取可能。BDSPとPLAでも同個体が受け取り可能とする関係か、恒例の特別な技「おいわい」は覚えていない。",
+    "notes": "日本、シンガポールのポケモンセンターで受取可能。恒例の特別な技「おいわい」は覚えていない。",
+    "postUrl": "https://www.pokebros.net/serialcode-gen8-birthday-happiny/",
     "region": "日本,シンガポール",
     "ivs": "ランダム"
   },
@@ -24618,13 +24620,10 @@
     "pokemonName": "ピンプク",
     "dexNo": 440,
     "generation": 8,
-    "game": "ソード, シールド, ブリリアントダイヤモンド, シャイニングパール, Pokémon LEGENDS アルセウス",
+    "game": "ソード, シールド",
     "gameIds": [
       "sword",
-      "shield",
-      "brilliant_diamond",
-      "shining_pearl",
-      "legends_arceus"
+      "shield"
     ],
     "eventName": "ポケモンセンターわくわくおたんじょうび",
     "distributionMethod": "シリアルコード",
@@ -24648,7 +24647,8 @@
     "ribbons": [
       "バースデーリボン"
     ],
-    "notes": "日本、シンガポールのポケモンセンターで受取可能。BDSPとPLAでも同個体が受け取り可能とする関係か、恒例の特別な技「おいわい」は覚えていない。",
+    "notes": "日本、シンガポールのポケモンセンターで受取可能。恒例の特別な技「おいわい」は覚えていない。",
+    "postUrl": "https://www.pokebros.net/serialcode-gen8-birthday-happiny/",
     "region": "日本,シンガポール",
     "ivs": "ランダム"
   },

@@ -19163,26 +19163,60 @@
     "pokemonName": "ミュウ",
     "dexNo": 151,
     "generation": 7,
-    "game": "ピカブイ",
+    "game": "ピカブイ, ソード, シールド",
     "gameIds": [
       "lets_go_pikachu",
-      "lets_go_eevee"
+      "lets_go_eevee",
+      "sword",
+      "shield"
     ],
     "eventName": "モンスターボール Plus特典 ミュウ",
     "distributionMethod": "モンスターボール Plus",
+    "distributionLocation": "モンスターボール Plus",
     "startDate": "2018-11-16",
     "ot": "(プレイヤーのもの)",
     "trainerId": "(プレイヤーのもの)",
     "metLocation": "モンスターボール Plus",
     "ball": "モンスターボール",
     "level": 1,
+    "gender": "なし",
     "ability": "シンクロ",
     "nature": "ランダム",
     "moves": [
       "はたく"
     ],
-    "notes": "モンスターボール Plus 購入特典。",
+    "notes": "モンスターボール Plus 購入特典。ボールに内蔵されたシリアルコードで、ボール1個につき1匹を、ピカブイか剣盾のどちらかで受け取れる（剣盾は発売日の2019-11-15から）。中国本土版（Tencent販売）のピカブイでの受け取りは別エントリ（07162）。",
     "region": "全世界",
+    "ivs": "3V"
+  },
+  {
+    "managementId": "07162",
+    "pokemonName": "ミュウ",
+    "dexNo": 151,
+    "generation": 7,
+    "game": "ピカブイ",
+    "gameIds": [
+      "lets_go_pikachu",
+      "lets_go_eevee"
+    ],
+    "eventName": "モンスターボール Plus特典 ミュウ（中国本土）",
+    "distributionMethod": "モンスターボール Plus",
+    "distributionLocation": "モンスターボール Plus",
+    "startDate": "2024-09-26",
+    "endDate": "2026-05-15",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "モンスターボール Plus",
+    "ball": "モンスターボール",
+    "level": 1,
+    "gender": "なし",
+    "ability": "シンクロ",
+    "nature": "ランダム",
+    "moves": [
+      "はたく"
+    ],
+    "notes": "中国本土版（Tencent販売）のピカブイでの受け取り。中国本土でのピカブイ発売（2024-09-26）から、中国本土の Nintendo Switch オンラインサービス終了（2026-05-15 22:00 UTC+8）まで。ボールは中国本土以外で売られたものと同じで、1個につき1匹。",
+    "region": "中国本土",
     "ivs": "3V"
   },
   {
@@ -26971,35 +27005,6 @@
     "gigantamax": "キョダイマックス"
   },
   {
-    "managementId": "08002",
-    "pokemonName": "ミュウ",
-    "dexNo": 151,
-    "generation": 8,
-    "game": "ソード, シールド",
-    "gameIds": [
-      "sword",
-      "shield"
-    ],
-    "eventName": "モンスターボール Plus",
-    "distributionMethod": "モンスターボール Plus",
-    "distributionLocation": "モンスターボール Plus",
-    "startDate": "2019-11-15",
-    "ot": "(プレイヤーのもの)",
-    "trainerId": "(プレイヤーのもの)",
-    "metLocation": "モンスターボール Plus",
-    "ball": "モンスターボール",
-    "level": 1,
-    "gender": "なし",
-    "ability": "シンクロ",
-    "nature": "ランダム",
-    "moves": [
-      "はたく"
-    ],
-    "notes": "新品のモンスターボールplusにミュウが入っており、ゲーム内に移動することができる。ピカブイにも移動できるが、ボールに入っているミュウは一匹のみ。",
-    "region": "全世界",
-    "ivs": "3V"
-  },
-  {
     "managementId": "08003",
     "pokemonName": "ピカチュウ",
     "dexNo": 25,
@@ -27511,7 +27516,7 @@
     ],
     "eventName": "『Pokémon GO』連携記念",
     "distributionMethod": "プレゼントボックス",
-    "startDate": "2020-11-10",
+    "startDate": "2020-11-11",
     "ot": "HOME",
     "trainerId": "808809",
     "metLocation": "HOME",

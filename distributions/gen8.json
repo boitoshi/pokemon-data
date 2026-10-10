@@ -4193,6 +4193,7 @@
       "id": "08002",
       "dexNo": 151,
       "pokemonName": "ミュウ",
+      "duplicateOf": "07138",
       "games": [
         "sword",
         "shield"
@@ -4761,7 +4762,7 @@
       ],
       "eventName": "『Pokémon GO』連携記念",
       "distributionMethod": "プレゼントボックス",
-      "startDate": "2020-11-10",
+      "startDate": "2020-11-11",
       "level": 100,
       "nature": "ゆうかん",
       "ability": "てつのこぶし",

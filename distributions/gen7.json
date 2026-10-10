@@ -2563,6 +2563,11 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-11-25",
       "endDate": "2020-02-24",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
       "level": 39,
       "gender": "♀",
       "nature": "おっとり",
@@ -2599,6 +2604,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-11-25",
       "endDate": "2020-02-24",
+      "region": [
+        "韓国"
+      ],
       "level": 39,
       "gender": "♀",
       "nature": "おっとり",
@@ -2799,6 +2807,11 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-10-18",
       "endDate": "2019-11-30",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "エレキメイカー",
@@ -2832,6 +2845,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-10-18",
       "endDate": "2019-11-30",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "エレキメイカー",
@@ -2865,6 +2881,11 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-06-11",
       "endDate": "2019-07-30",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "ミストメイカー",
@@ -2898,6 +2919,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-06-11",
       "endDate": "2019-07-30",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "ミストメイカー",
@@ -2931,6 +2955,11 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-03-19",
       "endDate": "2019-04-29",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "グラスメイカー",
@@ -2972,6 +3001,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-03-19",
       "endDate": "2019-04-30",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "グラスメイカー",
@@ -3071,6 +3103,11 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-12-18",
       "endDate": "2019-01-31",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "サイコメイカー",
@@ -3104,6 +3141,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-12-18",
       "endDate": "2019-01-31",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "サイコメイカー",
@@ -4934,6 +4974,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-09-22",
       "endDate": "2018-10-31",
+      "region": [
+        "北米"
+      ],
       "level": 30,
       "nature": "ランダム",
       "ability": "しぜんかいふく",
@@ -4967,6 +5010,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-09-22",
       "endDate": "2018-10-31",
+      "region": [
+        "欧州",
+        "豪州"
+      ],
       "level": 30,
       "nature": "ランダム",
       "ability": "しぜんかいふく",
@@ -5000,6 +5047,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-09-22",
       "endDate": "2018-10-31",
+      "region": [
+        "韓国"
+      ],
       "level": 30,
       "nature": "ランダム",
       "ability": "しぜんかいふく",

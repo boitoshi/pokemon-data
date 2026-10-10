@@ -2742,7 +2742,7 @@
       "eventName": "KIBOのピカチュウ",
       "distributionMethod": "インターネット",
       "distributionLocation": "インターネット",
-      "startDate": "2020-12-31",
+      "startDate": "2021-01-01",
       "endDate": "2021-01-15",
       "region": [
         "全世界"
@@ -3030,7 +3030,8 @@
         "ウィッシュリボン"
       ],
       "ivsGuaranteed": 3,
-      "notes": "PokémonTrainerClubや各国ゲームショップのメールマガジン設定をしているとニュースレターとしてシリアルコードが届いた。親名はゲーム設定言語による。"
+      "notes": "PokémonTrainerClubや各国ゲームショップのメールマガジン設定をしているとニュースレターとしてシリアルコードが届いた。親名はゲーム設定言語による。",
+      "postUrl": "https://www.pokebros.net/ss-america-zarude/"
     },
     {
       "id": "08033",

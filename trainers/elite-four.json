@@ -62749,7 +62749,7 @@
               "ja": "ドータクン",
               "form": null,
               "level": 73,
-              "gender": null,
+              "gender": "none",
               "ability_en": "Heatproof",
               "ability_ja": "たいねつ",
               "item": null,
@@ -62776,7 +62776,7 @@
                   "ja": "シャドーボール"
                 }
               ],
-              "gender_ja": null,
+              "gender_ja": "性別不明",
               "types_ja": [
                 "はがね",
                 "エスパー"
@@ -63910,7 +63910,7 @@
               "ja": "ドータクン",
               "form": null,
               "level": 82,
-              "gender": null,
+              "gender": "none",
               "ability_en": "Levitate",
               "ability_ja": "ふゆう",
               "item": null,
@@ -63937,7 +63937,7 @@
                   "ja": "じしん"
                 }
               ],
-              "gender_ja": null,
+              "gender_ja": "性別不明",
               "types_ja": [
                 "はがね",
                 "エスパー"
@@ -63951,7 +63951,7 @@
               "ja": "ジバコイル",
               "form": null,
               "level": 82,
-              "gender": null,
+              "gender": "none",
               "ability_en": "Sturdy",
               "ability_ja": "がんじょう",
               "item": null,
@@ -63978,7 +63978,7 @@
                   "ja": "トライアタック"
                 }
               ],
-              "gender_ja": null,
+              "gender_ja": "性別不明",
               "types_ja": [
                 "でんき",
                 "はがね"
@@ -75668,7 +75668,7 @@
               "ja": "ポリゴンＺ",
               "form": null,
               "level": 86,
-              "gender": null,
+              "gender": "none",
               "ability_en": "Adaptability",
               "ability_ja": "てきおうりょく",
               "item": "Life Orb",
@@ -75694,7 +75694,7 @@
                   "ja": "シャドーボール"
                 }
               ],
-              "gender_ja": null,
+              "gender_ja": "性別不明",
               "types_ja": [
                 "ノーマル"
               ],

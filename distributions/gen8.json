@@ -4216,7 +4216,13 @@
         "はたく"
       ],
       "ivsGuaranteed": 3,
-      "notes": "新品のモンスターボールplusにミュウが入っており、ゲーム内に移動することができる。ピカブイにも移動できるが、ボールに入っているミュウは一匹のみ。"
+      "notes": "07138 と同じモンスターボール Plus のミュウ。ボール1個につき1回だけ、ピカブイか剣盾のどちらかで受け取れる。剣盾では発売日（2019-11-15）から受け取れる。",
+      "references": [
+        {
+          "url": "https://www.nintendo.co.jp/monsterballplus/",
+          "label": "任天堂 モンスターボール Plus（ミュウの受け取りは1個につき1回）"
+        }
+      ]
     },
     {
       "id": "08003",
@@ -4761,7 +4767,7 @@
       ],
       "eventName": "『Pokémon GO』連携記念",
       "distributionMethod": "プレゼントボックス",
-      "startDate": "2020-11-10",
+      "startDate": "2020-11-11",
       "level": 100,
       "nature": "ゆうかん",
       "ability": "てつのこぶし",
@@ -4791,7 +4797,13 @@
       "source": {
         "kind": "bulbapedia"
       },
-      "postUrl": "https://www.pokebros.net/ss-gigantamax-melmetal/"
+      "postUrl": "https://www.pokebros.net/ss-gigantamax-melmetal/",
+      "references": [
+        {
+          "url": "https://twitter.com/Pokemon_cojp/status/1326389274019819520",
+          "label": "ポケモン公式X『Pokémon HOME』と『Pokémon GO』の連携開始（2020-11-11 14:00 JST）"
+        }
+      ]
     },
     {
       "id": "08113",

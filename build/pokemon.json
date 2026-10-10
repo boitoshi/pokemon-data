@@ -19170,19 +19170,63 @@
     ],
     "eventName": "モンスターボール Plus特典 ミュウ",
     "distributionMethod": "モンスターボール Plus",
+    "distributionLocation": "モンスターボール Plus",
     "startDate": "2018-11-16",
     "ot": "(プレイヤーのもの)",
     "trainerId": "(プレイヤーのもの)",
     "metLocation": "モンスターボール Plus",
     "ball": "モンスターボール",
     "level": 1,
+    "gender": "なし",
     "ability": "シンクロ",
     "nature": "ランダム",
     "moves": [
       "はたく"
     ],
-    "notes": "モンスターボール Plus 購入特典。",
+    "notes": "モンスターボール Plus 購入特典。ボールに入っているミュウは、ボール1個につき1回だけ、ピカブイか剣盾のどちらかで受け取れる（剣盾で受け取る場合は 08002）。中国本土版（Tencent販売）のピカブイでの受け取りは 07162。",
+    "references": [
+      {
+        "url": "https://www.nintendo.co.jp/monsterballplus/",
+        "label": "任天堂 モンスターボール Plus（ミュウの受け取りは1個につき1回）"
+      }
+    ],
     "region": "全世界",
+    "ivs": "3V"
+  },
+  {
+    "managementId": "07162",
+    "pokemonName": "ミュウ",
+    "dexNo": 151,
+    "generation": 7,
+    "game": "ピカブイ",
+    "gameIds": [
+      "lets_go_pikachu",
+      "lets_go_eevee"
+    ],
+    "eventName": "モンスターボール Plus特典 ミュウ（中国本土）",
+    "distributionMethod": "モンスターボール Plus",
+    "distributionLocation": "モンスターボール Plus",
+    "startDate": "2024-09-26",
+    "endDate": "2026-05-15",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "モンスターボール Plus",
+    "ball": "モンスターボール",
+    "level": 1,
+    "gender": "なし",
+    "ability": "シンクロ",
+    "nature": "ランダム",
+    "moves": [
+      "はたく"
+    ],
+    "notes": "中国本土版（Tencent販売）のピカブイでの受け取り。中国本土でのピカブイ発売（2024-09-26）から、中国本土の Nintendo Switch オンラインサービス終了（2026-05-15 22:00 UTC+8）まで。",
+    "references": [
+      {
+        "url": "https://www.nintendoswitch.com.cn/support/software_affected.html",
+        "label": "腾讯 Nintendo Switch 网络服务终止的影响（精灵球Plus のミュウ）"
+      }
+    ],
+    "region": "中国本土",
     "ivs": "3V"
   },
   {
@@ -26995,7 +27039,13 @@
     "moves": [
       "はたく"
     ],
-    "notes": "新品のモンスターボールplusにミュウが入っており、ゲーム内に移動することができる。ピカブイにも移動できるが、ボールに入っているミュウは一匹のみ。",
+    "notes": "07138 と同じモンスターボール Plus のミュウ。ボール1個につき1回だけ、ピカブイか剣盾のどちらかで受け取れる。剣盾では発売日（2019-11-15）から受け取れる。",
+    "references": [
+      {
+        "url": "https://www.nintendo.co.jp/monsterballplus/",
+        "label": "任天堂 モンスターボール Plus（ミュウの受け取りは1個につき1回）"
+      }
+    ],
     "region": "全世界",
     "ivs": "3V"
   },
@@ -27511,7 +27561,7 @@
     ],
     "eventName": "『Pokémon GO』連携記念",
     "distributionMethod": "プレゼントボックス",
-    "startDate": "2020-11-10",
+    "startDate": "2020-11-11",
     "ot": "HOME",
     "trainerId": "808809",
     "metLocation": "HOME",
@@ -27529,6 +27579,12 @@
       "プレミアリボン"
     ],
     "postUrl": "https://www.pokebros.net/ss-gigantamax-melmetal/",
+    "references": [
+      {
+        "url": "https://twitter.com/Pokemon_cojp/status/1326389274019819520",
+        "label": "ポケモン公式X『Pokémon HOME』と『Pokémon GO』の連携開始（2020-11-11 14:00 JST）"
+      }
+    ],
     "ivs": {
       "hp": 31,
       "atk": 31,

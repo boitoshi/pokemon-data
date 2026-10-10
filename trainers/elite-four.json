@@ -12103,7 +12103,7 @@
             }
           ],
           "game_ja": "Let's Go! ピカチュウ",
-          "location_ja": null,
+          "location_ja": "22番道路",
           "section_ja": "2戦目 (任意)",
           "section_needs_review": false
         },
@@ -12181,7 +12181,7 @@
             }
           ],
           "game_ja": "Let's Go! イーブイ",
-          "location_ja": null,
+          "location_ja": "22番道路",
           "section_ja": "2戦目 (任意)",
           "section_needs_review": false
         },
@@ -27508,7 +27508,7 @@
           ],
           "game_ja": "ブリリアントダイヤモンド・シャイニングパール",
           "location_ja": "ポケモンリーグ",
-          "section_ja": "再戦（再強化前）",
+          "section_ja": "再戦 (前 ハードマウンテン)",
           "section_needs_review": false
         },
         {
@@ -27760,7 +27760,7 @@
           ],
           "game_ja": "ブリリアントダイヤモンド・シャイニングパール",
           "location_ja": "ポケモンリーグ",
-          "section_ja": "再戦（再強化後）",
+          "section_ja": "再戦 (後 ハードマウンテン)",
           "section_needs_review": false
         }
       ],

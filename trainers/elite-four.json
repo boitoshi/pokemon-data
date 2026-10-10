@@ -27525,7 +27525,7 @@
               "ja": "キュウコン",
               "form": null,
               "level": 78,
-              "gender": "female",
+              "gender": "male",
               "ability_en": "Drought",
               "ability_ja": "ひでり",
               "item": "Heat Rock",
@@ -27551,7 +27551,7 @@
                   "ja": "わるだくみ"
                 }
               ],
-              "gender_ja": "メス",
+              "gender_ja": "オス",
               "types_ja": [
                 "ほのお"
               ],
@@ -38164,8 +38164,8 @@
                   "ja": "すてみタックル"
                 },
                 {
-                  "en": "Stone Edge",
-                  "ja": "ストーンエッジ"
+                  "en": "Head Smash",
+                  "ja": "もろはのずつき"
                 },
                 {
                   "en": "Autotomize",

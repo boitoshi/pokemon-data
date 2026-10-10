@@ -1901,7 +1901,8 @@
       ],
       "ribbons": [
         "クラシックリボン"
-      ]
+      ],
+      "postUrl": "https://www.pokebros.net/usum-ultrafinal/"
     },
     {
       "id": "07052",
@@ -2115,7 +2116,8 @@
         "spd": 30,
         "spe": 31
       },
-      "notes": "日本でのシリアルコード配布。"
+      "notes": "日本でのシリアルコード配布。",
+      "postUrl": "https://www.pokebros.net/mewtwo-uketori/"
     },
     {
       "id": "07141",
@@ -5021,6 +5023,7 @@
       "id": "07137",
       "dexNo": 773,
       "pokemonName": "シルヴァディ",
+      "duplicateOf": "07028",
       "games": [
         "sun",
         "moon"
@@ -5393,6 +5396,7 @@
       "id": "07098",
       "dexNo": 785,
       "pokemonName": "カプ・コケコ",
+      "duplicateOf": "07015",
       "games": [
         "sun",
         "moon"

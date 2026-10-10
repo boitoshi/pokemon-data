@@ -4792,7 +4792,13 @@
       "source": {
         "kind": "bulbapedia"
       },
-      "postUrl": "https://www.pokebros.net/ss-gigantamax-melmetal/"
+      "postUrl": "https://www.pokebros.net/ss-gigantamax-melmetal/",
+      "references": [
+        {
+          "url": "https://twitter.com/Pokemon_cojp/status/1326389274019819520",
+          "label": "ポケモン公式X『Pokémon HOME』と『Pokémon GO』の連携開始（2020-11-11 14:00 JST）"
+        }
+      ]
     },
     {
       "id": "08113",

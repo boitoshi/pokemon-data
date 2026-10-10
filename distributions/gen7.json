@@ -2046,7 +2046,13 @@
         "はたく"
       ],
       "ivsGuaranteed": 3,
-      "notes": "モンスターボール Plus 購入特典。ボールに内蔵されたシリアルコードで、ボール1個につき1匹を、ピカブイか剣盾のどちらかで受け取れる（剣盾は発売日の2019-11-15から）。中国本土版（Tencent販売）のピカブイでの受け取りは別エントリ（07162）。"
+      "notes": "モンスターボール Plus 購入特典。ボールに入っているミュウは、ボール1個につき1回だけ、ピカブイか剣盾のどちらかで受け取れる（剣盾は発売日の2019-11-15から）。中国本土版（Tencent販売）のピカブイでの受け取りは別エントリ（07162）。",
+      "references": [
+        {
+          "url": "https://www.nintendo.co.jp/monsterballplus/",
+          "label": "任天堂 モンスターボール Plus（ミュウの受け取りは1個につき1回）"
+        }
+      ]
     },
     {
       "id": "07162",
@@ -2076,11 +2082,17 @@
         "はたく"
       ],
       "ivsGuaranteed": 3,
-      "notes": "中国本土版（Tencent販売）のピカブイでの受け取り。中国本土でのピカブイ発売（2024-09-26）から、中国本土の Nintendo Switch オンラインサービス終了（2026-05-15 22:00 UTC+8）まで。ボールは中国本土以外で売られたものと同じで、1個につき1匹。",
+      "notes": "中国本土版（Tencent販売）のピカブイでの受け取り。中国本土でのピカブイ発売（2024-09-26）から、中国本土の Nintendo Switch オンラインサービス終了（2026-05-15 22:00 UTC+8）まで。",
       "source": {
         "kind": "bulbapedia",
         "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_mainland_China_region_event_Pok%C3%A9mon_distributions_in_Pok%C3%A9mon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!#Pok%C3%A9_Ball_Plus_Mew"
-      }
+      },
+      "references": [
+        {
+          "url": "https://www.nintendoswitch.com.cn/support/software_affected.html",
+          "label": "腾讯 Nintendo Switch 网络服务终止的影响（精灵球Plus のミュウ）"
+        }
+      ]
     },
     {
       "id": "07139",

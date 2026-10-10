@@ -103,7 +103,8 @@
         "spd": 31,
         "spe": 31
       },
-      "notes": "世界各国のゲームショップでシリアルコードを配布。有効期間Aから始まるコード2022/9/16-11/17、EとUから始まるコード2022/9/18-2023/1/1、Kから始まるコード2022/9/30-12/31、Jから始まるコード2022/10/21-11/24。日付は日本国内のJから始まるコードの受け取り期間を採用（公式: 実施日時2022/10/21-11/17、シリアルコード有効期限2022/11/24）"
+      "notes": "世界各国のゲームショップでシリアルコードを配布。有効期間Aから始まるコード2022/9/16-11/17、EとUから始まるコード2022/9/18-2023/1/1、Kから始まるコード2022/9/30-12/31、Jから始まるコード2022/10/21-11/24。日付は日本国内のJから始まるコードの受け取り期間を採用（公式: 実施日時2022/10/21-11/17、シリアルコード有効期限2022/11/24）",
+      "postUrl": "https://www.pokebros.net/ss-shiny-eternatus-us/"
     },
     {
       "id": "08075",
@@ -748,7 +749,8 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "韓国で「ポケットモンスター 神とよばれし アルセウス」のVOD配信記念。購入特典でシリアルコードを受信。"
+      "notes": "韓国で「ポケットモンスター 神とよばれし アルセウス」のVOD配信記念。購入特典でシリアルコードを受信。",
+      "postUrl": "https://www.pokebros.net/la-hisuian-growlithe-korea/"
     },
     {
       "id": "08072",
@@ -1338,7 +1340,8 @@
         "クラシックリボン"
       ],
       "ivsGuaranteed": 3,
-      "notes": "大会参加賞。受取データの言語で親名が異なる。鎧の孤島が由来。"
+      "notes": "大会参加賞。受取データの言語で親名が異なる。鎧の孤島が由来。",
+      "postUrl": "https://www.pokebros.net/ss-shiny-g-moltres/"
     },
     {
       "id": "08060",
@@ -1385,7 +1388,8 @@
         "クラシックリボン"
       ],
       "ivsGuaranteed": 3,
-      "notes": "大会参加賞。受取データの言語で親名が異なる。ワイルドエリアが由来。"
+      "notes": "大会参加賞。受取データの言語で親名が異なる。ワイルドエリアが由来。",
+      "postUrl": "https://www.pokebros.net/ss-shiny-g-zapdos/"
     },
     {
       "id": "08092",
@@ -1423,7 +1427,8 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "ポケカ「スターバース」発売記念。フェザーボール20個が受け取れるシリアルコードもついていた。"
+      "notes": "ポケカ「スターバース」発売記念。フェザーボール20個が受け取れるシリアルコードもついていた。",
+      "postUrl": "https://www.pokebros.net/la-hisuian-growlithe/"
     },
     {
       "id": "08059",
@@ -1470,7 +1475,8 @@
         "クラシックリボン"
       ],
       "ivsGuaranteed": 3,
-      "notes": "大会参加賞。受取データの言語で親名が異なる。冠の雪原が由来。"
+      "notes": "大会参加賞。受取データの言語で親名が異なる。冠の雪原が由来。",
+      "postUrl": "https://www.pokebros.net/ss-shiny-g-articuno/"
     },
     {
       "id": "08086",
@@ -1515,7 +1521,8 @@
         "spd": 28,
         "spe": 20
       },
-      "notes": "プロジェクトポッチャマでの記念配布"
+      "notes": "プロジェクトポッチャマでの記念配布",
+      "postUrl": "https://www.pokebros.net/bdsp-la-pochamarche-pochama/"
     },
     {
       "id": "08091",
@@ -1559,7 +1566,8 @@
         "spd": 28,
         "spe": 20
       },
-      "notes": "プロジェクトポッチャマでの記念配布"
+      "notes": "プロジェクトポッチャマでの記念配布",
+      "postUrl": "https://www.pokebros.net/bdsp-la-pochamarche-pochama/"
     },
     {
       "id": "08017",
@@ -1970,7 +1978,8 @@
         "spd": 31,
         "spe": 31
       },
-      "notes": "BDSP、PLA発売記念に全世界のゲームショップ・オンラインストアでシリアルコードが配布。ショップによりシリアルコードの配布条件・期間が異なる場合があり、シリアルコードの頭文字アルファベットにより受取期間が異なる。また、受取データの言語に親名が異なる。"
+      "notes": "BDSP、PLA発売記念に全世界のゲームショップ・オンラインストアでシリアルコードが配布。ショップによりシリアルコードの配布条件・期間が異なる場合があり、シリアルコードの頭文字アルファベットにより受取期間が異なる。また、受取データの言語に親名が異なる。",
+      "postUrl": "https://www.pokebros.net/ss-shiny-zamazenta/"
     },
     {
       "id": "08056",
@@ -2025,7 +2034,8 @@
         "spd": 31,
         "spe": 31
       },
-      "notes": "BDSP、PLA発売記念に全世界のゲームショップ・オンラインストアでシリアルコードが配布。ショップによりシリアルコードの配布条件・期間が異なる場合があり、シリアルコードの頭文字アルファベットにより受取期間が異なる。また、受取データの言語に親名が異なる。"
+      "notes": "BDSP、PLA発売記念に全世界のゲームショップ・オンラインストアでシリアルコードが配布。ショップによりシリアルコードの配布条件・期間が異なる場合があり、シリアルコードの頭文字アルファベットにより受取期間が異なる。また、受取データの言語に親名が異なる。",
+      "postUrl": "https://www.pokebros.net/ss-shiny-zacian/"
     },
     {
       "id": "08053",
@@ -2317,7 +2327,8 @@
       },
       "evs": "H6/C252/S252",
       "password": "1STPTCCHAMP",
-      "notes": "2020年同大会チャンピオン使用個体。"
+      "notes": "2020年同大会チャンピオン使用個体。",
+      "postUrl": "https://www.pokebros.net/ss-trainerscup2020-porygonz/"
     },
     {
       "id": "08048",
@@ -2468,7 +2479,8 @@
         "spe": 30
       },
       "gigantamax": true,
-      "notes": "フシギバナに進化させるとキョダイマックスできる。スマホ版PokémonHOMEでも同じ個体が配信された（id: 08123）。"
+      "notes": "フシギバナに進化させるとキョダイマックスできる。スマホ版PokémonHOMEでも同じ個体が配信された（id: 08123）。",
+      "postUrl": "https://www.pokebros.net/ss-pokemonhome-bulbasaur/"
     },
     {
       "id": "08046",
@@ -2514,7 +2526,8 @@
         "spe": 30
       },
       "gigantamax": true,
-      "notes": "カメックスに進化させるとキョダイマックスできる。スマホアプリ版PokémonHOMEでも同じ個体が配信された（id: 08122）。"
+      "notes": "カメックスに進化させるとキョダイマックスできる。スマホアプリ版PokémonHOMEでも同じ個体が配信された（id: 08122）。",
+      "postUrl": "https://www.pokebros.net/ss-pokemonhome-squirtle/"
     },
     {
       "id": "08042",
@@ -2729,7 +2742,7 @@
       "eventName": "KIBOのピカチュウ",
       "distributionMethod": "インターネット",
       "distributionLocation": "インターネット",
-      "startDate": "2020-12-31",
+      "startDate": "2021-01-01",
       "endDate": "2021-01-15",
       "region": [
         "全世界"
@@ -2758,7 +2771,8 @@
       "ribbons": [
         "スペシャルリボン"
       ],
-      "notes": "国際宇宙ステーション(ISS)とポケモンのコラボレーション企画の一環として行われた生放送中に配信された。ねがいごと、おいわいは特別な技。※ねがいごとは第9世代でタマゴ技となった。"
+      "notes": "国際宇宙ステーション(ISS)とポケモンのコラボレーション企画の一環として行われた生放送中に配信された。ねがいごと、おいわいは特別な技。※ねがいごとは第9世代でタマゴ技となった。",
+      "postUrl": "https://www.pokebros.net/ss-kibo-pikachu/"
     },
     {
       "id": "08016",
@@ -3016,7 +3030,8 @@
         "ウィッシュリボン"
       ],
       "ivsGuaranteed": 3,
-      "notes": "PokémonTrainerClubや各国ゲームショップのメールマガジン設定をしているとニュースレターとしてシリアルコードが届いた。親名はゲーム設定言語による。"
+      "notes": "PokémonTrainerClubや各国ゲームショップのメールマガジン設定をしているとニュースレターとしてシリアルコードが届いた。親名はゲーム設定言語による。",
+      "postUrl": "https://www.pokebros.net/ss-america-zarude/"
     },
     {
       "id": "08033",
@@ -3633,7 +3648,8 @@
         "spe": 0
       },
       "evs": "H252/B252/D4",
-      "notes": "Battle-Ready Porygon2として配布。PokémonPlayersCupは新型コロナウイルスの世界的なパンデミックのため特別に開催された招待制のオンライン大会。"
+      "notes": "Battle-Ready Porygon2として配布。PokémonPlayersCupは新型コロナウイルスの世界的なパンデミックのため特別に開催された招待制のオンライン大会。",
+      "postUrl": "https://www.pokebros.net/ss-vgcporygon2/"
     },
     {
       "id": "08020",
@@ -3682,7 +3698,8 @@
       },
       "evs": "H236/B116/D156",
       "password": "TRA1NERSCUP",
-      "notes": "2019年WCSシニアカテゴリTOP4となったプレイヤーの使用個体。"
+      "notes": "2019年WCSシニアカテゴリTOP4となったプレイヤーの使用個体。",
+      "postUrl": "https://www.pokebros.net/ss-pwcs2019amoonguss/"
     },
     {
       "id": "08014",
@@ -3815,7 +3832,8 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "隠れ特性で配布。同時にでかいきんのたま50個、けいけんあめL100個を受け取ることができた。"
+      "notes": "隠れ特性で配布。同時にでかいきんのたま50個、けいけんあめL100個を受け取ることができた。",
+      "postUrl": "https://www.pokebros.net/ss-internet-meowth/"
     },
     {
       "id": "08012",
@@ -3851,7 +3869,8 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "隠れ特性で配布。同時にあまいかじつ、すっぱいかじつ、かけたポット、われたポット、においぶくろ、ホイップポップを受け取ることができた。"
+      "notes": "隠れ特性で配布。同時にあまいかじつ、すっぱいかじつ、かけたポット、われたポット、においぶくろ、ホイップポップを受け取ることができた。",
+      "postUrl": "https://www.pokebros.net/ss-internet-corsola/"
     },
     {
       "id": "08011",
@@ -3887,7 +3906,8 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "隠れ特性で配布。同時にレベルボール、スピードボール、ラブラブボール、フレンドボール、ウルトラボールを受け取ることができた。"
+      "notes": "隠れ特性で配布。同時にレベルボール、スピードボール、ラブラブボール、フレンドボール、ウルトラボールを受け取ることができた。",
+      "postUrl": "https://www.pokebros.net/ss-internet-ponyta/"
     },
     {
       "id": "08010",
@@ -3923,7 +3943,8 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "notes": "隠れ特性で配布。同時にルアーボール、ムーンボールヘビーボール、ドリームボールを受け取ることができた。"
+      "notes": "隠れ特性で配布。同時にルアーボール、ムーンボールヘビーボール、ドリームボールを受け取ることができた。",
+      "postUrl": "https://www.pokebros.net/ss-internet-mrmime/"
     },
     {
       "id": "08008",
@@ -4165,7 +4186,8 @@
         "クラシックリボン"
       ],
       "ivsGuaranteed": 3,
-      "gigantamax": true
+      "gigantamax": true,
+      "postUrl": "https://www.pokebros.net/gigantamax-meowth/"
     },
     {
       "id": "08002",
@@ -4577,7 +4599,8 @@
       },
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/ss-home-magearna/"
     },
     {
       "id": "08108",
@@ -4611,7 +4634,8 @@
       },
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/ss-pokemonhome-sobble/"
     },
     {
       "id": "08109",
@@ -4645,7 +4669,8 @@
       },
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/ss-pokemonhome-scorbunny/"
     },
     {
       "id": "08110",
@@ -4679,7 +4704,8 @@
       },
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/ss-pokemonhome-grookey/"
     },
     {
       "id": "08111",
@@ -4723,7 +4749,8 @@
         "kind": "official",
         "url": "https://www.pokemon.co.jp/info/2020/06/200630_gm01.html",
         "note": "受け取り期間は6月30日9時〜7月7日8時59分。6月18日0時〜7月7日8時59分は「HOMEとソード・シールドの間でポケモンを預ける/引き出す」という条件の期間で、受け取り期間とは別物。Bulbapedia の PST 表記（June 29, 5:00 PM）を換算せずに入れていたため1日ズレていた"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/ss-pokemonhome-shinyzeraora/"
     },
     {
       "id": "08112",
@@ -4763,7 +4790,8 @@
       "gigantamax": true,
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/ss-gigantamax-melmetal/"
     },
     {
       "id": "08113",
@@ -5027,7 +5055,8 @@
       },
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-manaphy/"
     },
     {
       "id": "08120",
@@ -5071,7 +5100,8 @@
       },
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-enamorus/"
     },
     {
       "id": "08121",
@@ -5116,7 +5146,8 @@
       },
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-keldeo/"
     },
     {
       "id": "08122",
@@ -5160,7 +5191,8 @@
       "notes": "同一個体が『ポケモン ソード・シールド』本体でのインターネット配信でも配布された（id: 08046）。",
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/ss-pokemonhome-squirtle/"
     },
     {
       "id": "08123",
@@ -5204,7 +5236,8 @@
       "notes": "同一個体が『ポケモン ソード・シールド』本体でのインターネット配信でも配布された（id: 08045）。",
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/ss-pokemonhome-bulbasaur/"
     }
   ]
 }

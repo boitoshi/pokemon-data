@@ -1901,7 +1901,8 @@
       ],
       "ribbons": [
         "クラシックリボン"
-      ]
+      ],
+      "postUrl": "https://www.pokebros.net/usum-ultrafinal/"
     },
     {
       "id": "07052",
@@ -2115,7 +2116,8 @@
         "spd": 30,
         "spe": 31
       },
-      "notes": "日本でのシリアルコード配布。"
+      "notes": "日本でのシリアルコード配布。",
+      "postUrl": "https://www.pokebros.net/mewtwo-uketori/"
     },
     {
       "id": "07141",
@@ -2348,7 +2350,8 @@
         "じこさいせい"
       ],
       "ivsGuaranteed": 3,
-      "notes": "米国での配布。"
+      "notes": "米国での配布。",
+      "postUrl": "https://www.pokebros.net/american-pokemon-pass-mewtwo/"
     },
     {
       "id": "07148",
@@ -2388,7 +2391,8 @@
         "spd": 30,
         "spe": 31
       },
-      "notes": "韓国での配布。"
+      "notes": "韓国での配布。",
+      "postUrl": "https://www.pokebros.net/pikavi-mewtwo-korea/"
     },
     {
       "id": "07149",
@@ -2559,6 +2563,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-11-25",
       "endDate": "2020-02-24",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 39,
       "gender": "♀",
       "nature": "おっとり",
@@ -2595,6 +2603,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-11-25",
       "endDate": "2020-02-24",
+      "region": [
+        "韓国"
+      ],
       "level": 39,
       "gender": "♀",
       "nature": "おっとり",
@@ -2627,6 +2638,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-11-15",
       "endDate": "2019-12-31",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "メタルプロテクト",
@@ -2660,6 +2674,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-11-15",
       "endDate": "2019-12-31",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "ファントムガード",
@@ -2695,6 +2712,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-11-15",
       "endDate": "2019-12-31",
+      "region": [
+        "韓国"
+      ],
       "level": 75,
       "nature": "ランダム",
       "ability": "プリズムアーマー",
@@ -2727,6 +2747,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-10-21",
       "endDate": "2020-01-15",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "メタルプロテクト",
@@ -2746,7 +2770,8 @@
       ],
       "ribbons": [
         "クラシックリボン"
-      ]
+      ],
+      "postUrl": "https://www.pokebros.net/american-shinysolgaleo/"
     },
     {
       "id": "07095",
@@ -2760,6 +2785,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-10-21",
       "endDate": "2020-01-15",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "ファントムガード",
@@ -2779,7 +2808,8 @@
       ],
       "ribbons": [
         "クラシックリボン"
-      ]
+      ],
+      "postUrl": "https://www.pokebros.net/american-shinylunala/"
     },
     {
       "id": "07096",
@@ -2793,6 +2823,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-10-18",
       "endDate": "2019-11-30",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "エレキメイカー",
@@ -2826,6 +2860,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-10-18",
       "endDate": "2019-11-30",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "エレキメイカー",
@@ -2859,6 +2896,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-06-11",
       "endDate": "2019-07-30",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "ミストメイカー",
@@ -2892,6 +2933,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-06-11",
       "endDate": "2019-07-30",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "ミストメイカー",
@@ -2925,6 +2969,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-03-19",
       "endDate": "2019-04-29",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "グラスメイカー",
@@ -2966,6 +3014,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2019-03-19",
       "endDate": "2019-04-30",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "グラスメイカー",
@@ -3001,6 +3052,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-12-19",
       "endDate": "2019-02-28",
+      "region": [
+        "韓国"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "マルチスケイル",
@@ -3033,6 +3087,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-12-19",
       "endDate": "2019-02-28",
+      "region": [
+        "韓国"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "ちくでん",
@@ -3065,6 +3122,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-12-18",
       "endDate": "2019-01-31",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "サイコメイカー",
@@ -3098,6 +3159,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-12-18",
       "endDate": "2019-01-31",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "サイコメイカー",
@@ -3164,6 +3228,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-11-13",
       "endDate": "2018-12-30",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -3199,6 +3267,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-11-09",
       "endDate": "2018-11-30",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 19,
       "gender": "♂",
       "nature": "がんばりや",
@@ -3240,6 +3312,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-11-09",
       "endDate": "2018-11-30",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 17,
       "gender": "♂",
       "nature": "がんばりや",
@@ -3281,6 +3357,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-11-09",
       "endDate": "2018-11-30",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 13,
       "gender": "♂",
       "nature": "がんばりや",
@@ -3322,6 +3402,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-11-09",
       "endDate": "2018-11-30",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 9,
       "gender": "♂",
       "nature": "がんばりや",
@@ -3363,6 +3447,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-11-09",
       "endDate": "2018-11-30",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 6,
       "gender": "♂",
       "nature": "がんばりや",
@@ -3402,6 +3490,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-11-02",
       "endDate": "2019-02-28",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "プレッシャー",
@@ -3441,6 +3533,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-11-02",
       "endDate": "2019-02-28",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "プレッシャー",
@@ -3481,6 +3577,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-10-19",
       "endDate": "2019-01-24",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "ちくでん",
@@ -3514,6 +3614,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-10-12",
       "endDate": "2019-01-28",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "ターボブレイズ",
@@ -3553,6 +3656,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-10-12",
       "endDate": "2019-01-28",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "テラボルテージ",
@@ -3593,6 +3699,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-09-17",
       "endDate": "2018-12-20",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 40,
       "nature": "ひかえめ",
       "ability": "ビーストブースト",
@@ -3624,6 +3734,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-09-02",
       "endDate": "2018-12-21",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "gender": "♂",
       "nature": "ランダム",
@@ -3664,6 +3777,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-09-02",
       "endDate": "2018-12-21",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "gender": "♀",
       "nature": "ランダム",
@@ -3704,6 +3820,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-08-03",
       "endDate": "2018-11-28",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "ひでり",
@@ -3743,6 +3863,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-08-03",
       "endDate": "2018-11-28",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "あめふらし",
@@ -3782,6 +3906,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-07-01",
       "endDate": "2018-10-29",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "gender": "♂",
       "nature": "ランダム",
@@ -3822,6 +3949,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-07-01",
       "endDate": "2018-10-29",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "gender": "♂",
       "nature": "ランダム",
@@ -3863,6 +3993,9 @@
       "distributionMethod": "あいことば",
       "startDate": "2018-06-20",
       "endDate": "2018-08-31",
+      "region": [
+        "韓国"
+      ],
       "level": 70,
       "nature": "ランダム",
       "ability": "オーラブレイク",
@@ -3897,6 +4030,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-06-06",
       "endDate": "2018-08-31",
+      "region": [
+        "韓国"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "ナイトメア",
@@ -3928,6 +4064,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-06-06",
       "endDate": "2018-08-31",
+      "region": [
+        "韓国"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "プレッシャー",
@@ -3959,6 +4098,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-06-06",
       "endDate": "2018-08-31",
+      "region": [
+        "韓国"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "プレッシャー",
@@ -3990,6 +4132,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-06-01",
       "endDate": "2018-09-27",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "オーラブレイク",
@@ -4030,6 +4175,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-05-04",
       "endDate": "2018-08-28",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "フェアリーオーラ",
@@ -4069,6 +4218,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-05-04",
       "endDate": "2018-08-28",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "ダークオーラ",
@@ -4111,6 +4264,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-05-02",
       "endDate": "2018-07-31",
+      "region": [
+        "韓国"
+      ],
       "level": 30,
       "nature": "ランダム",
       "ability": "しぜんかいふく",
@@ -4145,6 +4301,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-04-13",
       "endDate": "2018-04-30",
+      "region": [
+        "韓国"
+      ],
       "level": 40,
       "nature": "ひかえめ",
       "ability": "ビーストブースト",
@@ -4176,6 +4335,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-04-02",
       "endDate": "2018-07-23",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "プレッシャー",
@@ -4215,6 +4377,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-04-02",
       "endDate": "2018-07-23",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "プレッシャー",
@@ -4254,6 +4419,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-03-16",
       "endDate": "2018-06-28",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -4294,6 +4462,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-03-16",
       "endDate": "2018-06-28",
+      "region": [
+        "北米"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "スロースタート",
@@ -4333,6 +4504,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-02-14",
       "endDate": "2018-03-14",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "ひでり",
@@ -4364,6 +4538,9 @@
       "distributionMethod": "あいことば",
       "startDate": "2018-02-14",
       "endDate": "2018-03-14",
+      "region": [
+        "韓国"
+      ],
       "level": 60,
       "nature": "ランダム",
       "ability": "あめふらし",
@@ -4396,6 +4573,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-02-02",
       "endDate": "2018-05-28",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "プレッシャー",
@@ -4435,6 +4616,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2018-02-02",
       "endDate": "2018-05-28",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "プレッシャー",
@@ -4475,6 +4660,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-12-21",
       "endDate": "2018-01-31",
+      "region": [
+        "韓国"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "プレッシャー",
@@ -4507,6 +4695,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-12-21",
       "endDate": "2018-02-28",
+      "region": [
+        "韓国"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "テクニシャン",
@@ -4541,6 +4732,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-12-21",
       "endDate": "2018-02-28",
+      "region": [
+        "韓国"
+      ],
       "level": 20,
       "gender": "♂",
       "nature": "がんばりや",
@@ -4576,6 +4770,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-12-21",
       "endDate": "2018-02-28",
+      "region": [
+        "韓国"
+      ],
       "level": 20,
       "gender": "♂",
       "nature": "がんばりや",
@@ -4611,6 +4808,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-12-21",
       "endDate": "2018-02-28",
+      "region": [
+        "韓国"
+      ],
       "level": 20,
       "gender": "♂",
       "nature": "がんばりや",
@@ -4646,6 +4846,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-12-21",
       "endDate": "2018-02-28",
+      "region": [
+        "韓国"
+      ],
       "level": 20,
       "gender": "♂",
       "nature": "がんばりや",
@@ -4681,6 +4884,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-12-21",
       "endDate": "2018-02-28",
+      "region": [
+        "韓国"
+      ],
       "level": 20,
       "gender": "♂",
       "nature": "がんばりや",
@@ -4716,6 +4922,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-12-21",
       "endDate": "2018-02-28",
+      "region": [
+        "韓国"
+      ],
       "level": 20,
       "gender": "♂",
       "nature": "がんばりや",
@@ -4750,6 +4959,9 @@
       "distributionMethod": "あいことば",
       "startDate": "2017-12-09",
       "endDate": "2018-01-31",
+      "region": [
+        "韓国"
+      ],
       "level": 40,
       "gender": "♂",
       "nature": "まじめ",
@@ -4783,6 +4995,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-10-23",
       "endDate": "2018-02-13",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "ARシステム",
@@ -4824,6 +5040,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-10-14",
       "endDate": "2017-11-30",
+      "region": [
+        "韓国"
+      ],
       "level": 100,
       "nature": "ランダム",
       "ability": "ARシステム",
@@ -4854,6 +5073,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-10-09",
       "endDate": "2018-02-23",
+      "region": [
+        "北米"
+      ],
       "level": 50,
       "nature": "ランダム",
       "ability": "テクニシャン",
@@ -4893,6 +5115,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-10-01",
       "endDate": "2018-02-04",
+      "region": [
+        "北米"
+      ],
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -4928,6 +5153,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-09-22",
       "endDate": "2018-10-31",
+      "region": [
+        "北米"
+      ],
       "level": 30,
       "nature": "ランダム",
       "ability": "しぜんかいふく",
@@ -4961,6 +5189,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-09-22",
       "endDate": "2018-10-31",
+      "region": [
+        "欧州"
+      ],
       "level": 30,
       "nature": "ランダム",
       "ability": "しぜんかいふく",
@@ -4994,6 +5225,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-09-22",
       "endDate": "2018-10-31",
+      "region": [
+        "韓国"
+      ],
       "level": 30,
       "nature": "ランダム",
       "ability": "しぜんかいふく",
@@ -5017,6 +5251,7 @@
       "id": "07137",
       "dexNo": 773,
       "pokemonName": "シルヴァディ",
+      "duplicateOf": "07028",
       "games": [
         "sun",
         "moon"
@@ -5059,6 +5294,11 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-09-19",
       "endDate": "2017-09-25",
+      "region": [
+        "北米",
+        "欧州",
+        "台湾"
+      ],
       "level": 1,
       "gender": "♂",
       "nature": "がんばりや",
@@ -5099,6 +5339,9 @@
       "distributionMethod": "あいことば",
       "startDate": "2017-09-19",
       "endDate": "2017-10-31",
+      "region": [
+        "韓国"
+      ],
       "level": 20,
       "gender": "♀",
       "nature": "むじゃき",
@@ -5166,6 +5409,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-08-14",
       "endDate": "2017-12-04",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 50,
       "gender": "♀",
       "nature": "ランダム",
@@ -5199,6 +5446,9 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-08-12",
       "endDate": "2017-09-30",
+      "region": [
+        "韓国"
+      ],
       "level": 30,
       "gender": "♂",
       "nature": "ゆうかん",
@@ -5231,6 +5481,10 @@
       "distributionMethod": "ニンテンドーネットワーク",
       "startDate": "2017-07-14",
       "endDate": "2017-08-14",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 60,
       "nature": "おくびょう",
       "ability": "エレキメイカー",
@@ -5265,6 +5519,10 @@
       "distributionMethod": "シリアルコード",
       "startDate": "2017-05-15",
       "endDate": "2017-08-04",
+      "region": [
+        "北米",
+        "欧州"
+      ],
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -5298,6 +5556,9 @@
       "distributionMethod": "あいことば",
       "startDate": "2017-05-09",
       "endDate": "2017-06-30",
+      "region": [
+        "韓国"
+      ],
       "level": 10,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -5331,6 +5592,9 @@
       "distributionMethod": "あいことば",
       "startDate": "2017-05-02",
       "endDate": "2017-06-30",
+      "region": [
+        "韓国"
+      ],
       "level": 10,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -5364,6 +5628,9 @@
       "distributionMethod": "あいことば",
       "startDate": "2017-05-02",
       "endDate": "2017-06-30",
+      "region": [
+        "韓国"
+      ],
       "level": 10,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -5389,6 +5656,7 @@
       "id": "07098",
       "dexNo": 785,
       "pokemonName": "カプ・コケコ",
+      "duplicateOf": "07015",
       "games": [
         "sun",
         "moon"
@@ -5466,6 +5734,9 @@
       "eventName": "『ポケットモンスター サン・ムーン 特別体験版』サトシゲッコウガ",
       "distributionMethod": "SM体験版",
       "startDate": "2016-11-18",
+      "region": [
+        "全世界"
+      ],
       "level": 36,
       "gender": "♂",
       "nature": "ランダム",
@@ -5509,6 +5780,9 @@
       "distributionMethod": "バンク",
       "startDate": "2018-03-09",
       "endDate": "2018-10-31",
+      "region": [
+        "全世界"
+      ],
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -5544,6 +5818,9 @@
       "distributionMethod": "バンク",
       "startDate": "2018-03-09",
       "endDate": "2018-10-31",
+      "region": [
+        "全世界"
+      ],
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -5579,6 +5856,9 @@
       "distributionMethod": "バンク",
       "startDate": "2018-03-09",
       "endDate": "2018-10-31",
+      "region": [
+        "全世界"
+      ],
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -5614,6 +5894,9 @@
       "distributionMethod": "バンク",
       "startDate": "2019-03-29",
       "endDate": "2019-10-31",
+      "region": [
+        "全世界"
+      ],
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -5633,7 +5916,8 @@
       ],
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/hiddenabilitypassimian/"
     },
     {
       "id": "07158",
@@ -5649,6 +5933,9 @@
       "distributionMethod": "バンク",
       "startDate": "2019-03-29",
       "endDate": "2019-10-31",
+      "region": [
+        "全世界"
+      ],
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
@@ -5668,7 +5955,8 @@
       ],
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/hiddenabilityoranguru/"
     },
     {
       "id": "07159",
@@ -5684,6 +5972,9 @@
       "eventName": "ソフト図鑑完成記念！④",
       "distributionMethod": "プレゼントボックス",
       "startDate": "2025-02-12",
+      "region": [
+        "全世界"
+      ],
       "level": 50,
       "nature": "いじっぱり",
       "ability": "じりょく",
@@ -5713,7 +6004,8 @@
       },
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-meltan/"
     }
   ]
 }

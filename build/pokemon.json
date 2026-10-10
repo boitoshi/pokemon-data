@@ -19163,12 +19163,10 @@
     "pokemonName": "ミュウ",
     "dexNo": 151,
     "generation": 7,
-    "game": "ピカブイ, ソード, シールド",
+    "game": "ピカブイ",
     "gameIds": [
       "lets_go_pikachu",
-      "lets_go_eevee",
-      "sword",
-      "shield"
+      "lets_go_eevee"
     ],
     "eventName": "モンスターボール Plus特典 ミュウ",
     "distributionMethod": "モンスターボール Plus",
@@ -19185,7 +19183,7 @@
     "moves": [
       "はたく"
     ],
-    "notes": "モンスターボール Plus 購入特典。ボールに入っているミュウは、ボール1個につき1回だけ、ピカブイか剣盾のどちらかで受け取れる（剣盾は発売日の2019-11-15から）。中国本土版（Tencent販売）のピカブイでの受け取りは別エントリ（07162）。",
+    "notes": "モンスターボール Plus 購入特典。ボールに入っているミュウは、ボール1個につき1回だけ、ピカブイか剣盾のどちらかで受け取れる（剣盾で受け取る場合は 08002）。中国本土版（Tencent販売）のピカブイでの受け取りは 07162。",
     "references": [
       {
         "url": "https://www.nintendo.co.jp/monsterballplus/",
@@ -27015,6 +27013,41 @@
     "region": "全世界",
     "ivs": "3V",
     "gigantamax": "キョダイマックス"
+  },
+  {
+    "managementId": "08002",
+    "pokemonName": "ミュウ",
+    "dexNo": 151,
+    "generation": 8,
+    "game": "ソード, シールド",
+    "gameIds": [
+      "sword",
+      "shield"
+    ],
+    "eventName": "モンスターボール Plus",
+    "distributionMethod": "モンスターボール Plus",
+    "distributionLocation": "モンスターボール Plus",
+    "startDate": "2019-11-15",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "モンスターボール Plus",
+    "ball": "モンスターボール",
+    "level": 1,
+    "gender": "なし",
+    "ability": "シンクロ",
+    "nature": "ランダム",
+    "moves": [
+      "はたく"
+    ],
+    "notes": "07138 と同じモンスターボール Plus のミュウ。ボール1個につき1回だけ、ピカブイか剣盾のどちらかで受け取れる。剣盾では発売日（2019-11-15）から受け取れる。",
+    "references": [
+      {
+        "url": "https://www.nintendo.co.jp/monsterballplus/",
+        "label": "任天堂 モンスターボール Plus（ミュウの受け取りは1個につき1回）"
+      }
+    ],
+    "region": "全世界",
+    "ivs": "3V"
   },
   {
     "managementId": "08003",

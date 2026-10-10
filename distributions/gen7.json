@@ -2023,9 +2023,7 @@
       "pokemonName": "ミュウ",
       "games": [
         "lets_go_pikachu",
-        "lets_go_eevee",
-        "sword",
-        "shield"
+        "lets_go_eevee"
       ],
       "eventName": "モンスターボール Plus特典 ミュウ",
       "distributionMethod": "モンスターボール Plus",
@@ -2046,7 +2044,7 @@
         "はたく"
       ],
       "ivsGuaranteed": 3,
-      "notes": "モンスターボール Plus 購入特典。ボールに入っているミュウは、ボール1個につき1回だけ、ピカブイか剣盾のどちらかで受け取れる（剣盾は発売日の2019-11-15から）。中国本土版（Tencent販売）のピカブイでの受け取りは別エントリ（07162）。",
+      "notes": "モンスターボール Plus 購入特典。ボールに入っているミュウは、ボール1個につき1回だけ、ピカブイか剣盾のどちらかで受け取れる（剣盾で受け取る場合は 08002）。中国本土版（Tencent販売）のピカブイでの受け取りは 07162。",
       "references": [
         {
           "url": "https://www.nintendo.co.jp/monsterballplus/",

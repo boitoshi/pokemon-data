@@ -150,21 +150,13 @@ function convertGames(games, managementId) {
   if (idSet.size === 1 && idSet.has("lets_go_eevee")) {
     return "イーブイ（Let's Go）";
   }
-  // ピカブイ2本と別のソフトにまたがる配信（モンスターボール Plus のミュウ: ピカブイ＋剣盾）は、
-  // ピカブイ2本を「ピカブイ」1つにまとめ、残りは通常どおり map する
-  const hasLetsGoPair = idSet.has("lets_go_pikachu") && idSet.has("lets_go_eevee");
-  const names = [];
-  for (const id of games) {
-    if (hasLetsGoPair && (id === "lets_go_pikachu" || id === "lets_go_eevee")) {
-      if (!names.includes("ピカブイ")) names.push("ピカブイ");
-      continue;
-    }
+  const names = games.map((id) => {
     const mapped = REVERSE_GAME_MAP[id];
     if (!mapped) {
       throw new Error(`未知の games id "${id}" (managementId=${managementId})`);
     }
-    names.push(mapped);
-  }
+    return mapped;
+  });
   return names.join(", ");
 }
 

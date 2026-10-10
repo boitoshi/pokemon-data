@@ -2348,7 +2348,8 @@
         "じこさいせい"
       ],
       "ivsGuaranteed": 3,
-      "notes": "米国での配布。"
+      "notes": "米国での配布。",
+      "postUrl": "https://www.pokebros.net/american-pokemon-pass-mewtwo/"
     },
     {
       "id": "07148",
@@ -2388,7 +2389,8 @@
         "spd": 30,
         "spe": 31
       },
-      "notes": "韓国での配布。"
+      "notes": "韓国での配布。",
+      "postUrl": "https://www.pokebros.net/pikavi-mewtwo-korea/"
     },
     {
       "id": "07149",
@@ -2746,7 +2748,8 @@
       ],
       "ribbons": [
         "クラシックリボン"
-      ]
+      ],
+      "postUrl": "https://www.pokebros.net/american-shinysolgaleo/"
     },
     {
       "id": "07095",
@@ -2779,7 +2782,8 @@
       ],
       "ribbons": [
         "クラシックリボン"
-      ]
+      ],
+      "postUrl": "https://www.pokebros.net/american-shinylunala/"
     },
     {
       "id": "07096",
@@ -5633,7 +5637,8 @@
       ],
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/hiddenabilitypassimian/"
     },
     {
       "id": "07158",
@@ -5668,7 +5673,8 @@
       ],
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/hiddenabilityoranguru/"
     },
     {
       "id": "07159",
@@ -5713,7 +5719,8 @@
       },
       "source": {
         "kind": "bulbapedia"
-      }
+      },
+      "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-meltan/"
     }
   ]
 }

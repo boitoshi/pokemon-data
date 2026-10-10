@@ -19476,6 +19476,7 @@
       "じこさいせい"
     ],
     "notes": "米国での配布。",
+    "postUrl": "https://www.pokebros.net/american-pokemon-pass-mewtwo/",
     "region": "アメリカ",
     "ivs": "3V"
   },
@@ -19507,6 +19508,7 @@
       "めいそう"
     ],
     "notes": "韓国での配布。",
+    "postUrl": "https://www.pokebros.net/pikavi-mewtwo-korea/",
     "region": "韓国",
     "ivs": {
       "hp": 30,
@@ -19873,6 +19875,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "postUrl": "https://www.pokebros.net/american-shinysolgaleo/",
     "shiny": "あり",
     "ivs": "ランダム"
   },
@@ -19907,6 +19910,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "postUrl": "https://www.pokebros.net/american-shinylunala/",
     "shiny": "あり",
     "ivs": "ランダム"
   },
@@ -22843,6 +22847,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "postUrl": "https://www.pokebros.net/hiddenabilitypassimian/",
     "ivs": "ランダム"
   },
   {
@@ -22878,6 +22883,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "postUrl": "https://www.pokebros.net/hiddenabilityoranguru/",
     "ivs": "ランダム"
   },
   {
@@ -22909,6 +22915,7 @@
     "ribbons": [
       "メモリアルリボン"
     ],
+    "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-meltan/",
     "shiny": "あり",
     "ivs": {
       "hp": 31,
@@ -23007,6 +23014,7 @@
       "クラシックリボン"
     ],
     "notes": "世界各国のゲームショップでシリアルコードを配布。有効期間Aから始まるコード2022/9/16-11/17、EとUから始まるコード2022/9/18-2023/1/1、Kから始まるコード2022/9/30-12/31、Jから始まるコード2022/10/21-11/24。日付は日本国内のJから始まるコードの受け取り期間を採用（公式: 実施日時2022/10/21-11/17、シリアルコード有効期限2022/11/24）",
+    "postUrl": "https://www.pokebros.net/ss-shiny-eternatus-us/",
     "region": "全世界",
     "shiny": "あり",
     "ivs": {
@@ -23618,6 +23626,7 @@
       "クラシックリボン"
     ],
     "notes": "韓国で「ポケットモンスター 神とよばれし アルセウス」のVOD配信記念。購入特典でシリアルコードを受信。",
+    "postUrl": "https://www.pokebros.net/la-hisuian-growlithe-korea/",
     "region": "韓国",
     "ivs": "ランダム"
   },
@@ -24180,6 +24189,7 @@
       "クラシックリボン"
     ],
     "notes": "大会参加賞。受取データの言語で親名が異なる。鎧の孤島が由来。",
+    "postUrl": "https://www.pokebros.net/ss-shiny-g-moltres/",
     "region": "全世界",
     "shiny": "あり",
     "ivs": "3V"
@@ -24226,6 +24236,7 @@
       "クラシックリボン"
     ],
     "notes": "大会参加賞。受取データの言語で親名が異なる。ワイルドエリアが由来。",
+    "postUrl": "https://www.pokebros.net/ss-shiny-g-zapdos/",
     "region": "全世界",
     "shiny": "あり",
     "ivs": "3V"
@@ -24262,6 +24273,7 @@
       "クラシックリボン"
     ],
     "notes": "ポケカ「スターバース」発売記念。フェザーボール20個が受け取れるシリアルコードもついていた。",
+    "postUrl": "https://www.pokebros.net/la-hisuian-growlithe/",
     "region": "北米,欧州",
     "ivs": "ランダム"
   },
@@ -24307,6 +24319,7 @@
       "クラシックリボン"
     ],
     "notes": "大会参加賞。受取データの言語で親名が異なる。冠の雪原が由来。",
+    "postUrl": "https://www.pokebros.net/ss-shiny-g-articuno/",
     "region": "全世界",
     "shiny": "あり",
     "ivs": "3V"
@@ -24344,6 +24357,7 @@
       "クラシックリボン"
     ],
     "notes": "プロジェクトポッチャマでの記念配布",
+    "postUrl": "https://www.pokebros.net/bdsp-la-pochamarche-pochama/",
     "region": "日本",
     "ivs": {
       "hp": 20,
@@ -24386,6 +24400,7 @@
       "クラシックリボン"
     ],
     "notes": "プロジェクトポッチャマでの記念配布",
+    "postUrl": "https://www.pokebros.net/bdsp-la-pochamarche-pochama/",
     "region": "日本",
     "ivs": {
       "hp": 20,
@@ -24771,6 +24786,7 @@
       "クラシックリボン"
     ],
     "notes": "BDSP、PLA発売記念に全世界のゲームショップ・オンラインストアでシリアルコードが配布。ショップによりシリアルコードの配布条件・期間が異なる場合があり、シリアルコードの頭文字アルファベットにより受取期間が異なる。また、受取データの言語に親名が異なる。",
+    "postUrl": "https://www.pokebros.net/ss-shiny-zamazenta/",
     "region": "全世界",
     "shiny": "あり",
     "ivs": {
@@ -24825,6 +24841,7 @@
       "クラシックリボン"
     ],
     "notes": "BDSP、PLA発売記念に全世界のゲームショップ・オンラインストアでシリアルコードが配布。ショップによりシリアルコードの配布条件・期間が異なる場合があり、シリアルコードの頭文字アルファベットにより受取期間が異なる。また、受取データの言語に親名が異なる。",
+    "postUrl": "https://www.pokebros.net/ss-shiny-zacian/",
     "region": "全世界",
     "shiny": "あり",
     "ivs": {
@@ -25113,6 +25130,7 @@
     ],
     "password": "1STPTCCHAMP",
     "notes": "2020年同大会チャンピオン使用個体。",
+    "postUrl": "https://www.pokebros.net/ss-trainerscup2020-porygonz/",
     "region": "全世界",
     "ivs": {
       "hp": 31,
@@ -25256,6 +25274,7 @@
       "プレミアリボン"
     ],
     "notes": "フシギバナに進化させるとキョダイマックスできる。スマホ版PokémonHOMEでも同じ個体が配信された（id: 08123）。",
+    "postUrl": "https://www.pokebros.net/ss-pokemonhome-bulbasaur/",
     "region": "全世界",
     "ivs": {
       "hp": 30,
@@ -25300,6 +25319,7 @@
       "プレミアリボン"
     ],
     "notes": "カメックスに進化させるとキョダイマックスできる。スマホアプリ版PokémonHOMEでも同じ個体が配信された（id: 08122）。",
+    "postUrl": "https://www.pokebros.net/ss-pokemonhome-squirtle/",
     "region": "全世界",
     "ivs": {
       "hp": 30,
@@ -25541,6 +25561,7 @@
       "スペシャルリボン"
     ],
     "notes": "国際宇宙ステーション(ISS)とポケモンのコラボレーション企画の一環として行われた生放送中に配信された。ねがいごと、おいわいは特別な技。※ねがいごとは第9世代でタマゴ技となった。",
+    "postUrl": "https://www.pokebros.net/ss-kibo-pikachu/",
     "region": "全世界",
     "ivs": "ランダム"
   },
@@ -26387,6 +26408,7 @@
       "イベントリボン"
     ],
     "notes": "Battle-Ready Porygon2として配布。PokémonPlayersCupは新型コロナウイルスの世界的なパンデミックのため特別に開催された招待制のオンライン大会。",
+    "postUrl": "https://www.pokebros.net/ss-vgcporygon2/",
     "region": "全世界",
     "ivs": {
       "hp": 31,
@@ -26430,6 +26452,7 @@
     ],
     "password": "TRA1NERSCUP",
     "notes": "2019年WCSシニアカテゴリTOP4となったプレイヤーの使用個体。",
+    "postUrl": "https://www.pokebros.net/ss-pwcs2019amoonguss/",
     "region": "全世界",
     "shiny": "あり",
     "ivs": {
@@ -26572,6 +26595,7 @@
       "クラシックリボン"
     ],
     "notes": "隠れ特性で配布。同時にでかいきんのたま50個、けいけんあめL100個を受け取ることができた。",
+    "postUrl": "https://www.pokebros.net/ss-internet-meowth/",
     "region": "全世界",
     "ivs": "ランダム"
   },
@@ -26608,6 +26632,7 @@
       "クラシックリボン"
     ],
     "notes": "隠れ特性で配布。同時にあまいかじつ、すっぱいかじつ、かけたポット、われたポット、においぶくろ、ホイップポップを受け取ることができた。",
+    "postUrl": "https://www.pokebros.net/ss-internet-corsola/",
     "region": "全世界",
     "ivs": "ランダム"
   },
@@ -26644,6 +26669,7 @@
       "クラシックリボン"
     ],
     "notes": "隠れ特性で配布。同時にレベルボール、スピードボール、ラブラブボール、フレンドボール、ウルトラボールを受け取ることができた。",
+    "postUrl": "https://www.pokebros.net/ss-internet-ponyta/",
     "region": "全世界",
     "ivs": "ランダム"
   },
@@ -26680,6 +26706,7 @@
       "クラシックリボン"
     ],
     "notes": "隠れ特性で配布。同時にルアーボール、ムーンボールヘビーボール、ドリームボールを受け取ることができた。",
+    "postUrl": "https://www.pokebros.net/ss-internet-mrmime/",
     "region": "全世界",
     "ivs": "ランダム"
   },
@@ -26919,6 +26946,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "postUrl": "https://www.pokebros.net/gigantamax-meowth/",
     "region": "全世界",
     "ivs": "3V",
     "gigantamax": "キョダイマックス"
@@ -27302,6 +27330,7 @@
     "ribbons": [
       "メモリアルリボン"
     ],
+    "postUrl": "https://www.pokebros.net/ss-home-magearna/",
     "ivs": {
       "hp": 31,
       "atk": 30,
@@ -27334,6 +27363,7 @@
       "はたく",
       "なきごえ"
     ],
+    "postUrl": "https://www.pokebros.net/ss-pokemonhome-sobble/",
     "ivs": {
       "hp": 20,
       "atk": 20,
@@ -27367,6 +27397,7 @@
       "たいあたり",
       "なきごえ"
     ],
+    "postUrl": "https://www.pokebros.net/ss-pokemonhome-scorbunny/",
     "ivs": {
       "hp": 20,
       "atk": 31,
@@ -27400,6 +27431,7 @@
       "ひっかく",
       "なきごえ"
     ],
+    "postUrl": "https://www.pokebros.net/ss-pokemonhome-grookey/",
     "ivs": {
       "hp": 31,
       "atk": 31,
@@ -27438,6 +27470,7 @@
     "ribbons": [
       "クラシックリボン"
     ],
+    "postUrl": "https://www.pokebros.net/ss-pokemonhome-shinyzeraora/",
     "shiny": "あり",
     "ivs": {
       "hp": 31,
@@ -27476,6 +27509,7 @@
     "ribbons": [
       "プレミアリボン"
     ],
+    "postUrl": "https://www.pokebros.net/ss-gigantamax-melmetal/",
     "ivs": {
       "hp": 31,
       "atk": 31,
@@ -27727,6 +27761,7 @@
     "ribbons": [
       "メモリアルリボン"
     ],
+    "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-manaphy/",
     "shiny": "あり",
     "ivs": {
       "hp": 31,
@@ -27766,6 +27801,7 @@
     "ribbons": [
       "メモリアルリボン"
     ],
+    "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-enamorus/",
     "shiny": "あり",
     "ivs": {
       "hp": 20,
@@ -27805,6 +27841,7 @@
     "ribbons": [
       "メモリアルリボン"
     ],
+    "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-keldeo/",
     "shiny": "あり",
     "ivs": {
       "hp": 31,
@@ -27846,6 +27883,7 @@
       "プレミアリボン"
     ],
     "notes": "同一個体が『ポケモン ソード・シールド』本体でのインターネット配信でも配布された（id: 08046）。",
+    "postUrl": "https://www.pokebros.net/ss-pokemonhome-squirtle/",
     "ivs": {
       "hp": 30,
       "atk": 30,
@@ -27887,6 +27925,7 @@
       "プレミアリボン"
     ],
     "notes": "同一個体が『ポケモン ソード・シールド』本体でのインターネット配信でも配布された（id: 08045）。",
+    "postUrl": "https://www.pokebros.net/ss-pokemonhome-bulbasaur/",
     "ivs": {
       "hp": 30,
       "atk": 30,
@@ -31779,6 +31818,7 @@
     "ribbons": [
       "メモリアルリボン"
     ],
+    "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-meloetta/",
     "shiny": "あり",
     "teraType": "ノーマル",
     "ivs": {
@@ -31903,6 +31943,7 @@
     "ribbons": [
       "メモリアルリボン"
     ],
+    "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-volcanion/",
     "shiny": "あり",
     "ivs": {
       "hp": 20,

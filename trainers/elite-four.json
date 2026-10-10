@@ -13421,8 +13421,8 @@
             }
           ],
           "game_ja": "Let's Go! ピカチュウ",
-          "location_ja": null,
-          "section_ja": "6戦目",
+          "location_ja": "22番道路",
+          "section_ja": "ポケモンリーグ挑戦前",
           "section_needs_review": false
         },
         {
@@ -13591,8 +13591,8 @@
             }
           ],
           "game_ja": "Let's Go! イーブイ",
-          "location_ja": null,
-          "section_ja": "6戦目",
+          "location_ja": "22番道路",
+          "section_ja": "ポケモンリーグ挑戦前",
           "section_needs_review": false
         },
         {
@@ -27508,7 +27508,7 @@
           ],
           "game_ja": "ブリリアントダイヤモンド・シャイニングパール",
           "location_ja": "ポケモンリーグ",
-          "section_ja": "再戦 (前 ハードマウンテン)",
+          "section_ja": "再戦（再強化前）",
           "section_needs_review": false
         },
         {
@@ -27760,7 +27760,7 @@
           ],
           "game_ja": "ブリリアントダイヤモンド・シャイニングパール",
           "location_ja": "ポケモンリーグ",
-          "section_ja": "再戦 (後 ハードマウンテン)",
+          "section_ja": "再戦（再強化後）",
           "section_needs_review": false
         }
       ],
@@ -68197,7 +68197,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "テーブルシティ",
-          "section_ja": "6戦目",
+          "section_ja": "チャンピオンテスト合格後",
           "section_needs_review": false,
           "title_ja": "チャンピオン"
         },
@@ -68450,7 +68450,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "テーブルシティ",
-          "section_ja": "6戦目",
+          "section_ja": "チャンピオンテスト合格後",
           "section_needs_review": false,
           "title_ja": "チャンピオン"
         },
@@ -68703,7 +68703,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "テーブルシティ",
-          "section_ja": "6戦目",
+          "section_ja": "チャンピオンテスト合格後",
           "section_needs_review": false,
           "title_ja": "チャンピオン"
         },
@@ -71247,7 +71247,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ブルーベリー学園",
-          "section_ja": "リーグ部/学校最強大会 (後 キビキビパニック)",
+          "section_ja": "リーグ部／学校最強大会（番外編『キビキビパニック』クリア後）",
           "section_needs_review": false,
           "title_ja": "ポケモントレーナー"
         },
@@ -71504,7 +71504,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ブルーベリー学園",
-          "section_ja": "リーグ部/学校最強大会 (後 キビキビパニック)",
+          "section_ja": "リーグ部／学校最強大会（番外編『キビキビパニック』クリア後）",
           "section_needs_review": false,
           "title_ja": "ポケモントレーナー"
         },
@@ -71761,7 +71761,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ブルーベリー学園",
-          "section_ja": "リーグ部/学校最強大会 (後 キビキビパニック)",
+          "section_ja": "リーグ部／学校最強大会（番外編『キビキビパニック』クリア後）",
           "section_needs_review": false,
           "title_ja": "ポケモントレーナー"
         }
@@ -73069,7 +73069,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "スイリョクタウン",
-          "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア前",
+          "section_ja": "本編『ザ・ホームウェイ』クリア前",
           "section_needs_review": true,
           "title_ja": "ポケモントレーナー"
         },
@@ -73164,7 +73164,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "スイリョクタウン",
-          "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア後",
+          "section_ja": "本編『ザ・ホームウェイ』クリア後",
           "section_needs_review": true,
           "title_ja": "ポケモントレーナー"
         },
@@ -73298,7 +73298,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "恐れ穴",
-          "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア前",
+          "section_ja": "本編『ザ・ホームウェイ』クリア前",
           "section_needs_review": true,
           "title_ja": "ポケモントレーナー"
         },
@@ -73432,7 +73432,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "恐れ穴",
-          "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア後",
+          "section_ja": "本編『ザ・ホームウェイ』クリア後",
           "section_needs_review": true,
           "title_ja": "ポケモントレーナー"
         },
@@ -73607,7 +73607,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "楽土の荒地",
-          "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア前",
+          "section_ja": "本編『ザ・ホームウェイ』クリア前",
           "section_needs_review": true,
           "title_ja": "ポケモントレーナー"
         },
@@ -73784,7 +73784,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "楽土の荒地",
-          "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア後",
+          "section_ja": "本編『ザ・ホームウェイ』クリア後",
           "section_needs_review": true,
           "title_ja": "ポケモントレーナー"
         },
@@ -74002,7 +74002,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ともっこプラザ",
-          "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア前",
+          "section_ja": "本編『ザ・ホームウェイ』クリア前",
           "section_needs_review": true,
           "title_ja": "ポケモントレーナー"
         },
@@ -74222,7 +74222,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ともっこプラザ",
-          "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア後",
+          "section_ja": "本編『ザ・ホームウェイ』クリア後",
           "section_needs_review": true,
           "title_ja": "ポケモントレーナー"
         },
@@ -74483,7 +74483,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "恐れ穴",
-          "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア前",
+          "section_ja": "本編『ザ・ホームウェイ』クリア前",
           "section_needs_review": true,
           "title_ja": "ポケモントレーナー"
         },
@@ -74744,7 +74744,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "恐れ穴",
-          "section_ja": "ゼロの秘宝 エピローグ（The Way Home）クリア後",
+          "section_ja": "本編『ザ・ホームウェイ』クリア後",
           "section_needs_review": true,
           "title_ja": "ポケモントレーナー"
         },
@@ -75001,7 +75001,7 @@
           ],
           "game_ja": "スカーレット・バイオレット",
           "location_ja": "ブルーベリー学園",
-          "section_ja": "6戦目",
+          "section_ja": "ブルベリーグ四天王撃破後",
           "section_needs_review": false,
           "title_ja": "ブルベリーグチャンピオン"
         },

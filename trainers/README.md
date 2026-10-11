@@ -143,3 +143,13 @@ uv run scripts/audit_gym_pokemon_wiki.py --replay ../pokemon-data/trainers/gym-l
 uv run scripts/fetch_trainer_parties.py --out /tmp/elite-four-review.json
 uv run scripts/generate_trainer_html.py
 ```
+
+`elite-four-pokemon-wiki-audit.json` は、ジム版と同じ形式でポケモンWikiから取得した表と正本を比較した証拠記録です。
+`elite-four-pokemon-wiki-audit.md` は同じJSONから生成する閲覧用一覧で、手編集しません。
+正本の手持ちの事実値はこの照合で自動修正しません。公式・実機の確認とは別です。
+
+content-hubで保存済み証拠を再比較できます（ネットワーク・取得キャッシュを使用しません）。
+
+```bash
+uv run scripts/audit_gym_pokemon_wiki.py --replay ../pokemon-data/trainers/elite-four-pokemon-wiki-audit.json --data ../pokemon-data/trainers/elite-four.json --out /tmp/elite-four-wiki-replay.json --markdown /tmp/elite-four-wiki-replay.md
+```

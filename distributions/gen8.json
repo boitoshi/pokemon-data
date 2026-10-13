@@ -1593,7 +1593,7 @@
       "ability": "しぜんかいふく",
       "ball": "プレシャスボール",
       "metLocation": "ポケモンえいが２０",
-      "heldItem": "しあわせたまご",
+      "heldItem": "しあわせタマゴ",
       "shiny": "fixed",
       "ot": {
         "JPN": "オコヤのもり",
@@ -2061,7 +2061,7 @@
       "ability": "しぜんかいふく",
       "ball": "プレシャスボール",
       "metLocation": "ポケモンえいが",
-      "heldItem": "しあわせたまご",
+      "heldItem": "しあわせタマゴ",
       "shiny": "fixed",
       "ot": {
         "JPN": "オコヤのもり",
@@ -2159,7 +2159,7 @@
       "ability": "しぜんかいふく",
       "ball": "プレシャスボール",
       "metLocation": "ポケモンえいが",
-      "heldItem": "しあわせたまご",
+      "heldItem": "しあわせタマゴ",
       "shiny": "fixed",
       "ot": {
         "JPN": "オコヤのもり",
@@ -3221,7 +3221,7 @@
       "eventName": "サトピカゲットキャンペーン",
       "distributionMethod": "あいことば",
       "distributionLocation": "ポケットモンスターソード・シールド　エキスパンションパス映像内",
-      "startDate": "2020-09-29",
+      "startDate": "2020-10-29",
       "endDate": "2020-11-30",
       "region": [
         "全世界"
@@ -3276,7 +3276,7 @@
       "eventName": "サトピカゲットキャンペーン",
       "distributionMethod": "あいことば",
       "distributionLocation": "特設サイト内",
-      "startDate": "2020-09-29",
+      "startDate": "2020-10-29",
       "endDate": "2020-11-30",
       "region": [
         "全世界"
@@ -3737,7 +3737,7 @@
       "ability": "しぜんかいふく",
       "ball": "プレシャスボール",
       "metLocation": "ポケモンえいが２０",
-      "heldItem": "しあわせたまご",
+      "heldItem": "しあわせタマゴ",
       "shiny": "fixed",
       "ot": {
         "JPN": "オコヤのもり",

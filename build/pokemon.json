@@ -24508,7 +24508,7 @@
     "gender": "なし",
     "ability": "しぜんかいふく",
     "nature": "きまぐれ",
-    "heldItem": "しあわせたまご",
+    "heldItem": "しあわせタマゴ",
     "moves": [
       "マジカルリーフ",
       "みらいよち",
@@ -24950,7 +24950,7 @@
     "gender": "なし",
     "ability": "しぜんかいふく",
     "nature": "きまぐれ",
-    "heldItem": "しあわせたまご",
+    "heldItem": "しあわせタマゴ",
     "moves": [
       "マジカルリーフ",
       "みらいよち",
@@ -25047,7 +25047,7 @@
     "gender": "なし",
     "ability": "しぜんかいふく",
     "nature": "きまぐれ",
-    "heldItem": "しあわせたまご",
+    "heldItem": "しあわせタマゴ",
     "moves": [
       "マジカルリーフ",
       "みらいよち",
@@ -26058,7 +26058,7 @@
     "eventName": "サトピカゲットキャンペーン",
     "distributionMethod": "あいことば",
     "distributionLocation": "ポケットモンスターソード・シールド　エキスパンションパス映像内",
-    "startDate": "2020-09-29",
+    "startDate": "2020-10-29",
     "endDate": "2020-11-30",
     "ot": {
       "JPN": "サトシ",
@@ -26113,7 +26113,7 @@
     "eventName": "サトピカゲットキャンペーン",
     "distributionMethod": "あいことば",
     "distributionLocation": "特設サイト内",
-    "startDate": "2020-09-29",
+    "startDate": "2020-10-29",
     "endDate": "2020-11-30",
     "ot": {
       "JPN": "サトシ",
@@ -26575,7 +26575,7 @@
     "gender": "なし",
     "ability": "しぜんかいふく",
     "nature": "きまぐれ",
-    "heldItem": "しあわせたまご",
+    "heldItem": "しあわせタマゴ",
     "moves": [
       "マジカルリーフ",
       "みらいよち",
@@ -29896,7 +29896,6 @@
     "metLocation": "バトル大会",
     "ball": "プレシャスボール",
     "level": 50,
-    "gender": "なし",
     "ability": "いかく",
     "nature": "しんちょう",
     "heldItem": "バンジのみ",

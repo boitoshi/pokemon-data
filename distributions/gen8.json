@@ -3219,8 +3219,8 @@
       "eventName": "サトピカゲットキャンペーン",
       "distributionMethod": "あいことば",
       "distributionLocation": "ポケットモンスターソード・シールド　エキスパンションパス映像内",
-      "startDate": "2020-10-29",
-      "endDate": "2020-12-30",
+      "startDate": "2020-09-29",
+      "endDate": "2020-11-30",
       "region": [
         "全世界"
       ],
@@ -3254,7 +3254,13 @@
       ],
       "password": "P1KACHUGET",
       "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。",
-      "postUrl": "https://www.pokebros.net/ss-ashpikachu-original/"
+      "postUrl": "https://www.pokebros.net/ss-ashpikachu-original/",
+      "references": [
+        {
+          "url": "https://www.pokemon.co.jp/ex/sword_shield_expansion/news/200929_01/",
+          "label": "ポケモン公式 サトピカゲットキャンペーン（あいことば有効期限 11月30日 23時59分）"
+        }
+      ]
     },
     {
       "id": "08025",
@@ -3268,8 +3274,8 @@
       "eventName": "サトピカゲットキャンペーン",
       "distributionMethod": "あいことば",
       "distributionLocation": "特設サイト内",
-      "startDate": "2020-10-29",
-      "endDate": "2020-12-30",
+      "startDate": "2020-09-29",
+      "endDate": "2020-11-30",
       "region": [
         "全世界"
       ],
@@ -3303,7 +3309,13 @@
       ],
       "password": "1CH00SEY0U",
       "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。",
-      "postUrl": "https://www.pokebros.net/ss-ashpikachu-ichooseyou/"
+      "postUrl": "https://www.pokebros.net/ss-ashpikachu-ichooseyou/",
+      "references": [
+        {
+          "url": "https://www.pokemon.co.jp/ex/sword_shield_expansion/news/200929_01/",
+          "label": "ポケモン公式 サトピカゲットキャンペーン（あいことば有効期限 11月30日 23時59分）"
+        }
+      ]
     },
     {
       "id": "08030",

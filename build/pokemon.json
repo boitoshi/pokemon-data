@@ -26056,8 +26056,8 @@
     "eventName": "サトピカゲットキャンペーン",
     "distributionMethod": "あいことば",
     "distributionLocation": "ポケットモンスターソード・シールド　エキスパンションパス映像内",
-    "startDate": "2020-10-29",
-    "endDate": "2020-12-30",
+    "startDate": "2020-09-29",
+    "endDate": "2020-11-30",
     "ot": {
       "JPN": "サトシ",
       "ENG": "Ash",
@@ -26089,6 +26089,12 @@
     "password": "P1KACHUGET",
     "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。",
     "postUrl": "https://www.pokebros.net/ss-ashpikachu-original/",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/ex/sword_shield_expansion/news/200929_01/",
+        "label": "ポケモン公式 サトピカゲットキャンペーン（あいことば有効期限 11月30日 23時59分）"
+      }
+    ],
     "region": "全世界",
     "ivs": "ランダム"
   },
@@ -26105,8 +26111,8 @@
     "eventName": "サトピカゲットキャンペーン",
     "distributionMethod": "あいことば",
     "distributionLocation": "特設サイト内",
-    "startDate": "2020-10-29",
-    "endDate": "2020-12-30",
+    "startDate": "2020-09-29",
+    "endDate": "2020-11-30",
     "ot": {
       "JPN": "サトシ",
       "ENG": "Ash",
@@ -26138,6 +26144,12 @@
     "password": "1CH00SEY0U",
     "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。",
     "postUrl": "https://www.pokebros.net/ss-ashpikachu-ichooseyou/",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/ex/sword_shield_expansion/news/200929_01/",
+        "label": "ポケモン公式 サトピカゲットキャンペーン（あいことば有効期限 11月30日 23時59分）"
+      }
+    ],
     "region": "全世界",
     "ivs": "ランダム"
   },
@@ -28112,7 +28124,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "大会ストリーミング",
     "startDate": "2025-11-21",
-    "endDate": "2025-11-30",
+    "endDate": "2025-12-01",
     "ot": "Federico",
     "trainerId": "251121",
     "metLocation": "バトル大会",
@@ -28135,6 +28147,12 @@
     "password": "LA1C26TA1LW1ND",
     "notes": "南米大会2025開催記念での配布。北米2025マスターチャンピオンの個体。",
     "postUrl": "https://www.pokebros.net/gen9-federico-whimsicott/",
+    "references": [
+      {
+        "url": "https://www.pokemon.com/us/news/get-rewards-during-the-2026-latin-america-international-championships-livestream",
+        "label": "Pokémon公式（英語）: expire on November 30, 2025, at 3:59 p.m. PST（日本時間 12月1日 8:59）"
+      }
+    ],
     "region": "全世界",
     "teraType": "みず",
     "ivs": {
@@ -29051,7 +29069,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "大会ストリーミング",
     "startDate": "2025-02-21",
-    "endDate": "2025-02-28",
+    "endDate": "2025-03-01",
     "ot": "Marco",
     "trainerId": "250221",
     "metLocation": "バトル大会",
@@ -29074,6 +29092,12 @@
     "password": "EU1C25SUNNYDAY",
     "notes": "2025年の2025シーズン欧州大会の開催記念での配布。2024年南米大会優勝者が使用していた個体。",
     "postUrl": "https://www.pokebros.net/gen9-marco-jumpluff/",
+    "references": [
+      {
+        "url": "https://www.pokemon.com/us/pokemon-news/get-a-pokemon-during-the-2025-europe-international-championships",
+        "label": "Pokémon公式（英語）: expire on February 28, 2025, at 3:59 p.m. PST（日本時間 3月1日 8:59）"
+      }
+    ],
     "region": "全世界",
     "teraType": "みず",
     "ivs": {
@@ -29428,6 +29452,12 @@
     "password": "W1DEGUARDLA1C25",
     "notes": "2024年の2025シーズン南米大会の開催記念での配布。2024年北米大会優勝者が使用していた個体。",
     "postUrl": "https://www.pokebros.net/gen9-patrickconnor-pelipper/",
+    "references": [
+      {
+        "url": "https://www.pokemon.com/us/play-pokemon/internationals/2025/latin-america/pokemon-distributions",
+        "label": "Pokémon公式（英語）: expire on November 21, 2024, at 4:00 p.m. PST（日本時間 11月22日 9:00）"
+      }
+    ],
     "region": "全世界",
     "shiny": "あり",
     "teraType": "ゴースト",
@@ -29697,7 +29727,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "大会ストリーミング",
     "startDate": "2024-06-07",
-    "endDate": "2024-06-10",
+    "endDate": "2024-06-11",
     "ot": "Nils",
     "trainerId": "240607",
     "metLocation": "バトル大会",
@@ -29720,6 +29750,12 @@
     "password": "NA1CTR1CKR00M",
     "notes": "2024年北米大会の開催記念での配布。2024年ヨーロッパ大会優勝者が使用していた個体。",
     "postUrl": "https://www.pokebros.net/gen9-nils-polygon2/",
+    "references": [
+      {
+        "url": "https://www.pokemon.com/us/play-pokemon/internationals/2024/north-america/pokemon-distributions",
+        "label": "Pokémon公式（英語）: expire on June 10, 2024, at 5:00 p.m. PDT（日本時間 6月11日 9:00）"
+      }
+    ],
     "region": "全世界",
     "teraType": "ひこう",
     "ivs": {
@@ -30545,7 +30581,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "ポケポータルニュース",
     "startDate": "2023-12-07",
-    "endDate": "2023-12-21",
+    "endDate": "2023-12-22",
     "ot": "(プレイヤーのもの)",
     "trainerId": "(プレイヤーのもの)",
     "metLocation": "すてきな場所",
@@ -30566,6 +30602,12 @@
     "password": "NEWM00N1SC0M1NG",
     "notes": "「降臨！ディアルガ＆パルキア〜新月を告げるダークライ〜」キャンペーン",
     "postUrl": "https://www.pokebros.net/gen9-darkrai-last-newmoon-2023/",
+    "references": [
+      {
+        "url": "https://sv-news.pokemon.co.jp/ja/page/154.html",
+        "label": "ポケモン公式 幻のポケモン「ダークライ」プレゼント！（2023年12月7日 23:00〜12月22日 8:59）"
+      }
+    ],
     "region": "全世界",
     "teraType": "あく",
     "ivs": "3V"
@@ -30584,7 +30626,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "ポケポータルニュース",
     "startDate": "2023-12-07",
-    "endDate": "2024-01-03",
+    "endDate": "2024-01-04",
     "ot": "(プレイヤーのもの)",
     "trainerId": "(プレイヤーのもの)",
     "metLocation": "すてきな場所",
@@ -30605,6 +30647,12 @@
     "password": "SH1NYBUDDY",
     "notes": "「かがやくルカリオが助っ人にやってきた！マスターボールも手に入れて伝説のポケモンをゲットしよう！」キャンペーン",
     "postUrl": "https://www.pokebros.net/gen9-shiny-lucario/",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/ex/sv/ja/news/231207_02/",
+        "label": "ポケモン公式（有効期限 2024年1月4日 8:59）"
+      }
+    ],
     "region": "全世界",
     "shiny": "あり",
     "teraType": "はがね",
@@ -31660,6 +31708,12 @@
       "かみつく"
     ],
     "postUrl": "https://www.pokebros.net/gen9-junpfest2023-gyarados/",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/info/2022/12/221216_e01.html",
+        "label": "ポケモン公式 ジャンプフェスタ2023ブース（シリアルコード有効期限 2023年1月31日）"
+      }
+    ],
     "region": "日本",
     "teraType": "じめん",
     "ivs": {

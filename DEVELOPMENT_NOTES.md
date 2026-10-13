@@ -8,7 +8,7 @@
 
 ---
 
-## 現在の構成（2026-09-30時点）
+## 現在の構成（2026-10-13時点）
 
 ```
 pokemon-data/
@@ -16,6 +16,8 @@ pokemon-data/
 │   ├── all.json               # ポケモンマスターデータ 1025件 + フォームデータ（件数は下記コマンドで確認）
 │   ├── history.json           # 種族・フォームの過去タイプ・フォーム登場ソフトの手書き正本（fetch系は読まない・書かない。ADR 0016）
 │   └── game-compatibility.json # 作品に入れる種族（全国図鑑番号。収集データ正本）
+├── forms/
+│   └── special-forms.json    # 特殊フォーム（メガ・ゲンシ・リージョン・キョダイマックス・Zワザ・きずなへんげ）の定義の正本（手書き。fetch-forms.py の入力。ADR 0012）
 ├── games/
 │   ├── titles.json           # ゲームタイトル（件数は `jq 'length' games/titles.json`）。groupフィールド付き
 │   ├── groups.json           # グループ定義 28件（"SwSh", "SV"等のペア単位キー）
@@ -27,6 +29,7 @@ pokemon-data/
 │   ├── pokemon_names.json    # ポケモン名 英日マッピング 1025件（generate_pokemon_names.py で生成）
 │   ├── ribbons.json          # リボン・あかし 英日マッピング（ribbon 49件 + mark 53件）。ribbons/catalog.json のサブセット
 │   ├── distribution-methods.json
+│   ├── method-glossary.json  # distributionMethod の補足 note（英語キーから逆引きできない値だけ。build-abbreviations.mjs が参照）
 │   ├── regions.json
 │   ├── met-locations.json
 │   ├── forms.json
@@ -34,15 +37,26 @@ pokemon-data/
 │   ├── natures.json          # 全25せいかく（上昇/下降ステータス付き）
 │   └── balls.json            # ボール 29種
 ├── ribbons/
-│   └── catalog.json          # リボン・あかし完全カタログ（取得ルート付き）の正本
+│   └── catalog.json          # リボン・あかし完全カタログ（取得ルート付き）の正本。Z-A（legends_za）のルートも収録済み
 ├── services/
 │   └── all.json              # 通信サービス（WFC・PGL・バンク等）の終了日時の正本（手書き）
 ├── distributions/
-│   ├── gen5.json〜gen9.json   # 配信ポケモン L2 正本（世代別）
+│   ├── gen3.json〜gen9.json   # 配信ポケモン L2 正本（世代別）
 │   ├── champions.json        # 大会・チャンピオン系配信の L2 正本
 │   └── schema.json           # distributions/*.json のスキーマ定義
+├── audits/
+│   ├── gen3-distribution-methods.json # 第3世代配信の受け取り経路・通信方式の確認記録（証拠記録。配信正本は変更しない）
+│   └── gen3-distribution-methods.md   # 同・読み物版
+├── trainers/                 # ジムリーダー・四天王の名簿と手持ちの正本（取得元 Bulbapedia。詳細は trainers/README.md）
+│   ├── gym-leader-roster.json / gym-leaders.json
+│   ├── gym-leader-localization.json
+│   ├── elite-four-roster.json / elite-four.json
+│   └── *-audit.json / *-audit.md   # 日本語資料・wiki との突合記録（証拠記録。事実の正本は上のファイル）
+├── tcg/
+│   └── releases.json         # ポケモンカードゲームの発売スケジュール正本（L2・手書き）
 ├── build/
 │   ├── pokemon.json          # L3 成果物（app-runtime schema・両アプリ共通・コミット方式）
+│   ├── abbreviations.json    # L3 成果物（ゲーム名・配布方法の略称対照表。build-abbreviations.mjs で生成）
 │   └── meta.json             # build/pokemon.json のサイドカー（件数等のメタ情報）
 ├── schemas/
 │   └── data-contracts.json   # データ契約定義
@@ -58,10 +72,13 @@ pokemon-data/
     ├── generate_pokemon_names.py   # all.json → mappings/pokemon_names.json 生成
     ├── generate-games-mapping.py   # titles.json → mappings/games.json 生成
     ├── build-distributions.mjs     # L2正本＋L1マスターを join し build/pokemon.json を生成
+    ├── build-abbreviations.mjs     # games/titles.json・distribution-methods.json 等から build/abbreviations.json を生成
     ├── validate-data.mjs           # マスターデータの検証
     ├── validate-distributions.mjs  # 配信正本（distributions/*.json）の検証
     ├── validate-ribbons.mjs        # リボン・あかしデータの検証
     ├── validate-game-compatibility.mjs # 種族対応・進行度ゲートの検証
+    ├── validate-gym-leaders.mjs    # ジムリーダー名簿・手持ち（trainers/）の検証
+    ├── validate-elite-four.mjs     # 四天王・チャンピオン名簿・手持ち（trainers/）の検証
     ├── scrape-to-l2.mjs            # distribution-scraper の出力を L2 正本へ取り込み（provenance-aware upsert）
     ├── anchor.mjs                  # L2 取り込み時のアンカー処理
     ├── verify-anchor.mjs           # アンカーの検証
@@ -442,11 +459,9 @@ brief も「今日まで（終了時刻は未確認）」と出すので、空�
 
 ## 今後の実装予定
 
-### 優先度中
-
-#### 1. `ribbon-tracker` の ZA（legends_za）対応
-- **ZAのリボン・あかし実データ未確認（HOME連携待ち）**
-- HOME連携後に確認してから ribbon-tracker と distribution-scraper を更新する
+<!-- 2026-10-13: 「優先度中 / ribbon-tracker の ZA（legends_za）対応（実データ未確認・HOME連携待ち）」を削除。
+     ribbons/catalog.json に legends_za のルートが入っている（数える: jq '[.[]|.routes[]|select(.games|index("legends_za"))]|length' ribbons/catalog.json）。
+     ただし全ルートで verified は null（実機未確認。資料確認日は checkedAt）。 -->
 
 ### 優先度低（YAGNI: 複数リポジトリから需要が出たら対応）
 
@@ -496,7 +511,8 @@ distribution-scraper の `--json` 出力を `scripts/scrape-to-l2.mjs`（provena
 
 - `champions.json` の `distributionMethod` に `バトルパス Lv.25` と `バトルパス(無料) Lv.25` の2種類があるが、`notes` / `datasetNotes` を読む限りどちらも同じ仕組み（無料枠で Lv.25 到達時の報酬）を指しているように見える。表記ゆれの可能性が高い（2026-08-04 時点で未確認）。揃える場合は `mappings/method-glossary.json` の該当 note も一緒に整理すること
 - `gen7.json` の `07100` の `distributionMethod` が `ALOLA` になっており、`validate-distributions.mjs` が warning を出し続けている。意味不明値のため `mappings/method-glossary.json` でも意図的に扱っていない
-- 配信レコードのうち13件が `eventName` を英語のまま保持している（`07153`〜`07158` / `08097`〜`08099` / `08100`〜`08103`）。Bulbapedia 側に日本語のふしぎなおくりものカード名が存在しないため自動取得できない分で、手動補完が必要（経緯は distribution-scraper の TODO.md）
+- `eventName` に日本語を含まない配信レコードが残っている（英語名のまま。Bulbapedia 側に日本語のふしぎなおくりものカード名が無いものは自動取得できず、手動補完が必要。経緯は distribution-scraper の TODO.md）。数える: `jq -s '[.[].entries[]|select(.eventName|test("[ぁ-んァ-ヶ一-龯]")|not)]|length' distributions/gen*.json distributions/champions.json`
+  <!-- 2026-10-13: 「13件（07153〜07158 / 08097〜08103）が英語のまま」を削除。0dfdc68（2026-08-04）で日本語化済み（08097〜08099 はその後の重複削除で欠番） -->
 
 ## 下流の消費者
 

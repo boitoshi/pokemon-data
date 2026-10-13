@@ -151,7 +151,8 @@
       },
       "password": "H1SSATSUNEG1",
       "notes": "日本での企画。アニメ「ポケットモンスター」でサトシがチャンピオンになったこと記念して配布。ピカチュウは映画記念での配布。IDはアニポケでサトシの手持ちになった放送日による。",
-      "postUrl": "https://www.pokebros.net/ss-anipoke-satoshi-sirfetchd/"
+      "postUrl": "https://www.pokebros.net/ss-anipoke-satoshi-sirfetchd/",
+      "heldItem": "ながねぎ"
     },
     {
       "id": "08080",
@@ -511,7 +512,7 @@
       "ability": "テレパシー",
       "ball": "プレシャスボール",
       "metLocation": "ポケモンえいが２２",
-      "heldItem": "はっきんだま",
+      "heldItem": "しらたま",
       "ot": {
         "JPN": "アラモス"
       },
@@ -594,7 +595,7 @@
       ],
       "level": 70,
       "gender": "なし",
-      "nature": "ひかえめ",
+      "nature": "おくびょう",
       "ability": "てんのめぐみ",
       "ball": "プレシャスボール",
       "metLocation": "ポケモンえいが２２",
@@ -712,7 +713,8 @@
       },
       "evs": "すべてに80ずつ",
       "notes": "ゲーム内言語によって親名が異なる。",
-      "postUrl": "https://www.pokebros.net/ss-wcs2022-victini/"
+      "postUrl": "https://www.pokebros.net/ss-wcs2022-victini/",
+      "password": "W0RLD22V1CT0RY"
     },
     {
       "id": "08095",
@@ -781,7 +783,7 @@
       "moves": [
         "エラがみ",
         "ドラゴンダイブ",
-        "こおりのきば",
+        "こおりのキバ",
         "みずでっぽう"
       ],
       "ribbons": [
@@ -831,7 +833,7 @@
         "１０まんボルト",
         "でんこうせっか",
         "アイアンテール",
-        "でんじは"
+        "エレキネット"
       ],
       "ribbons": [
         "アローラチャンプリボン"
@@ -2299,7 +2301,7 @@
       ],
       "level": 50,
       "gender": "なし",
-      "nature": "ひかえめ",
+      "nature": "おくびょう",
       "ability": "てきおうりょく",
       "ball": "プレシャスボール",
       "metLocation": "バトルたいかい",
@@ -2349,7 +2351,7 @@
       "level": 50,
       "gender": "♀",
       "nature": "ひかえめ",
-      "ability": "ひでり",
+      "ability": "じょうききかん",
       "ball": "プレシャスボール",
       "metLocation": "バトルたいかい",
       "heldItem": "じゃくてんほけん",
@@ -2554,7 +2556,7 @@
       "ot": {
         "JPN": "어드벤처"
       },
-      "trainerId": "201120",
+      "trainerId": "210426",
       "moves": [
         "テクノバスター",
         "シザークロス",
@@ -2593,7 +2595,7 @@
       "ot": {
         "JPN": "어드벤처"
       },
-      "trainerId": "201120",
+      "trainerId": "210426",
       "moves": [
         "スチームバースト",
         "フレアドライブ",
@@ -2632,7 +2634,7 @@
       "ot": {
         "JPN": "어드벤처"
       },
-      "trainerId": "201120",
+      "trainerId": "210426",
       "moves": [
         "シャドースチール",
         "ドレインパンチ",
@@ -4016,7 +4018,7 @@
       ],
       "level": 5,
       "gender": "♂",
-      "nature": "すなおな",
+      "nature": "すなお",
       "ability": "にげあし",
       "ball": "プレシャスボール",
       "metLocation": "ポケモンセンター",
@@ -4295,7 +4297,7 @@
       ],
       "level": 5,
       "gender": "♂",
-      "nature": "すなおな",
+      "nature": "すなお",
       "ability": "にげあし",
       "ball": "プレシャスボール",
       "metLocation": "ポケモンセンター",

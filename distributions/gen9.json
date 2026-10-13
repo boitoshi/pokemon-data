@@ -914,7 +914,7 @@
       "evs": "H252/B124/D132",
       "password": "NA1C25C0NPER1SH",
       "notes": "2025シーズン北米大会の開催記念での配布。2025年欧州チャンピオンが使用していた個体。",
-      "postUrl": "https://www.pokebros.net/gen9-wolfe-Incineroar/"
+      "postUrl": "https://www.pokebros.net/gen9-wolf-iincineroar/"
     },
     {
       "id": "09086",
@@ -1451,7 +1451,7 @@
       "teraType": "ゴースト",
       "shiny": "fixed",
       "ot": {
-        "JPN": "Patrick&ZeroWidthSpace;"
+        "JPN": "Patrick"
       },
       "trainerId": "241115",
       "moves": [
@@ -1475,7 +1475,7 @@
       "evs": "H12/B4/C238/D4/S252",
       "password": "W1DEGUARDLA1C25",
       "notes": "2024年の2025シーズン南米大会の開催記念での配布。2024年北米大会優勝者が使用していた個体。",
-      "postUrl": "https://www.pokebros.net/gen9-patrickconnor-Pelipper/"
+      "postUrl": "https://www.pokebros.net/gen9-patrickconnor-pelipper/"
     },
     {
       "id": "09073",
@@ -1526,7 +1526,7 @@
         "バースデーリボン"
       ],
       "notes": "進化先はランダム。おいわいは特別な技。同一個体がNFCよみとりでも配布された。",
-      "postUrl": "https://www.pokebros.net/gen9-birthday-Tandemaus/",
+      "postUrl": "https://www.pokebros.net/gen9-birthday-tandemaus/",
       "source": {
         "kind": "bulbapedia"
       }
@@ -1683,7 +1683,7 @@
       },
       "password": "909TEAMUP06",
       "notes": "ポケモン番組連動企画で、パルデア御三家が配布。アニポケであいことばが公開。",
-      "postUrl": "https://www.pokebros.net/gen9-Roy-Fuecoco/"
+      "postUrl": "https://www.pokebros.net/gen9-roy-fuecoco/"
     },
     {
       "id": "09069",
@@ -2201,7 +2201,7 @@
         "scarlet",
         "violet"
       ],
-      "eventName": "友情のパラドックスポケモン 第2弾 ハバタクカミ/テツノコウベ",
+      "eventName": "友情のパラドックスポケモン 第2弾 アラブルタケ/テツノイバラ",
       "distributionMethod": "シリアルコード",
       "distributionLocation": "月刊コロコロコミック 2月号",
       "startDate": "2024-01-15",
@@ -2241,7 +2241,7 @@
         "scarlet",
         "violet"
       ],
-      "eventName": "友情のパラドックスポケモン 第2弾 アラブルタケ/テツノイバラ",
+      "eventName": "友情のパラドックスポケモン 第2弾 ハバタクカミ/テツノコウベ",
       "distributionMethod": "シリアルコード",
       "distributionLocation": "月刊コロコロコミック 2月号",
       "startDate": "2024-01-15",
@@ -2510,7 +2510,7 @@
       ],
       "ivsGuaranteed": 3,
       "notes": "「友情のパラドックスポケモンスペシャルプレート」",
-      "postUrl": "https://www.pokebros.net/gen9-corocoro202312-roaringmoon/"
+      "postUrl": "https://www.pokebros.net/gen9-corocoro202312-ironvaliant/"
     },
     {
       "id": "09052",
@@ -2550,7 +2550,7 @@
       ],
       "ivsGuaranteed": 3,
       "notes": "「友情のパラドックスポケモンスペシャルプレート」",
-      "postUrl": "https://www.pokebros.net/gen9-corocoro202312-ironvaliant/"
+      "postUrl": "https://www.pokebros.net/gen9-corocoro202312-roaringmoon/"
     },
     {
       "id": "09050",
@@ -2638,7 +2638,7 @@
       "ivsGuaranteed": 3,
       "password": "NEWM00N1SC0M1NG",
       "notes": "「降臨！ディアルガ＆パルキア〜新月を告げるダークライ〜」キャンペーン",
-      "postUrl": "https://www.pokebros.net/gen9-shiny-lucario/"
+      "postUrl": "https://www.pokebros.net/gen9-darkrai-last-newmoon-2023/"
     },
     {
       "id": "09049",
@@ -2685,7 +2685,7 @@
       },
       "password": "SH1NYBUDDY",
       "notes": "「かがやくルカリオが助っ人にやってきた！マスターボールも手に入れて伝説のポケモンをゲットしよう！」キャンペーン",
-      "postUrl": "https://www.pokebros.net/gen9-darkrai-last-newmoon-2023/"
+      "postUrl": "https://www.pokebros.net/gen9-shiny-lucario/"
     },
     {
       "id": "09047",
@@ -3164,7 +3164,7 @@
         "イベントリボン"
       ],
       "notes": "2023PWCSの開催記念での配布。おいわいは特別な技",
-      "postUrl": "https://www.pokebros.net/gen9-wcs2023-tatsugiri//"
+      "postUrl": "https://www.pokebros.net/gen9-wcs2023-tatsugiri/"
     },
     {
       "id": "09020",

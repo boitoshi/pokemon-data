@@ -11,6 +11,7 @@
 - `games/` — ゲームタイトル・グループ・世代定義の正本
 - `abilities/` — 特性データの正本
 - `mappings/` — リボン・あかし・ボール・性格等の英日マッピング正本
+- `mappings/form-image-suffixes.json` — 姿名 → 画像ファイル名の ASCII サフィックス（日本語→ASCII。content-hub ADR 0020）
 - `ribbons/catalog.json` — リボン・あかし完全カタログの正本（`mappings/ribbons.json` は EN→JA 対訳（配布データ用）で catalog のサブセット。消費者: ribbon-tracker `scripts/generate-ribbons.mjs`）
 - `services/all.json` — 通信サービス（WFC・PGL・ポケモンバンク等）の終了日時の正本（手書き）。catalog の `methods[].requiresServices` と ribbon-tracker の転送ルートが参照する。状態は持たず日付から求める
 - `distributions/*.json` — 配信ポケモンデータの正本（L2）

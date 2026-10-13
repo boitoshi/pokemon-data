@@ -23,6 +23,16 @@ for (const [relativePath, contract] of Object.entries(contracts)) {
   }
 }
 
+const formImageSuffixes = readJson("mappings/form-image-suffixes.json");
+if (!formImageSuffixes.suffixes || typeof formImageSuffixes.suffixes !== "object") {
+  throw new Error("mappings/form-image-suffixes.json must have a suffixes object");
+}
+for (const [formName, suffix] of Object.entries(formImageSuffixes.suffixes)) {
+  if (typeof suffix !== "string" || !/^[a-z0-9_]+$/.test(suffix)) {
+    throw new Error(`mappings/form-image-suffixes.json: invalid suffix for ${formName}: ${suffix}`);
+  }
+}
+
 const pokemon = readJson("pokemon/all.json");
 const pokemonNames = readJson("mappings/pokemon_names.json");
 for (const [apiKey, mapping] of Object.entries(pokemonNames)) {

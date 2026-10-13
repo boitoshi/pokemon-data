@@ -3604,7 +3604,7 @@
     "level": 20,
     "gender": "♂",
     "ability": "せいでんき",
-    "nature": "すなおな",
+    "nature": "すなお",
     "heldItem": "でんきだま",
     "moves": [
       "プレゼント",
@@ -23111,6 +23111,7 @@
     "gender": "♂",
     "ability": "ふくつのこころ",
     "nature": "ゆうかん",
+    "heldItem": "ながねぎ",
     "moves": [
       "スターアサルト",
       "ぶんまわす",
@@ -23461,7 +23462,7 @@
     "gender": "なし",
     "ability": "テレパシー",
     "nature": "せっかち",
-    "heldItem": "はっきんだま",
+    "heldItem": "しらたま",
     "moves": [
       "あくうせつだん",
       "ハイドロポンプ",
@@ -23543,7 +23544,7 @@
     "level": 70,
     "gender": "なし",
     "ability": "てんのめぐみ",
-    "nature": "ひかえめ",
+    "nature": "おくびょう",
     "heldItem": "すいせいのかけら",
     "moves": [
       "コメットパンチ",
@@ -23643,6 +23644,7 @@
     "ribbons": [
       "メモリアルリボン"
     ],
+    "password": "W0RLD22V1CT0RY",
     "notes": "ゲーム内言語によって親名が異なる。",
     "postUrl": "https://www.pokebros.net/ss-wcs2022-victini/",
     "region": "全世界",
@@ -23718,7 +23720,7 @@
     "moves": [
       "エラがみ",
       "ドラゴンダイブ",
-      "こおりのきば",
+      "こおりのキバ",
       "みずでっぽう"
     ],
     "ribbons": [
@@ -23765,7 +23767,7 @@
       "１０まんボルト",
       "でんこうせっか",
       "アイアンテール",
-      "でんじは"
+      "エレキネット"
     ],
     "ribbons": [
       "アローラチャンプリボン"
@@ -24506,7 +24508,7 @@
     "gender": "なし",
     "ability": "しぜんかいふく",
     "nature": "きまぐれ",
-    "heldItem": "しあわせたまご",
+    "heldItem": "しあわせタマゴ",
     "moves": [
       "マジカルリーフ",
       "みらいよち",
@@ -24948,7 +24950,7 @@
     "gender": "なし",
     "ability": "しぜんかいふく",
     "nature": "きまぐれ",
-    "heldItem": "しあわせたまご",
+    "heldItem": "しあわせタマゴ",
     "moves": [
       "マジカルリーフ",
       "みらいよち",
@@ -25045,7 +25047,7 @@
     "gender": "なし",
     "ability": "しぜんかいふく",
     "nature": "きまぐれ",
-    "heldItem": "しあわせたまご",
+    "heldItem": "しあわせタマゴ",
     "moves": [
       "マジカルリーフ",
       "みらいよち",
@@ -25179,7 +25181,7 @@
     "level": 50,
     "gender": "なし",
     "ability": "てきおうりょく",
-    "nature": "ひかえめ",
+    "nature": "おくびょう",
     "heldItem": "シルクのスカーフ",
     "moves": [
       "はかいこうせん",
@@ -25225,7 +25227,7 @@
     "ball": "プレシャスボール",
     "level": 50,
     "gender": "♀",
-    "ability": "ひでり",
+    "ability": "じょうききかん",
     "nature": "ひかえめ",
     "heldItem": "じゃくてんほけん",
     "moves": [
@@ -25409,7 +25411,7 @@
     "startDate": "2021-04-26",
     "endDate": "2021-10-31",
     "ot": "어드벤처",
-    "trainerId": "201120",
+    "trainerId": "210426",
     "metLocation": "すてきなばしょ",
     "ball": "プレシャスボール",
     "level": 60,
@@ -25446,7 +25448,7 @@
     "startDate": "2021-04-26",
     "endDate": "2021-10-31",
     "ot": "어드벤처",
-    "trainerId": "201120",
+    "trainerId": "210426",
     "metLocation": "すてきなばしょ",
     "ball": "プレシャスボール",
     "level": 60,
@@ -25483,7 +25485,7 @@
     "startDate": "2021-04-26",
     "endDate": "2021-10-31",
     "ot": "어드벤처",
-    "trainerId": "201120",
+    "trainerId": "210426",
     "metLocation": "すてきなばしょ",
     "ball": "プレシャスボール",
     "level": 60,
@@ -26057,7 +26059,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "ポケットモンスターソード・シールド　エキスパンションパス映像内",
     "startDate": "2020-10-29",
-    "endDate": "2020-12-30",
+    "endDate": "2020-11-30",
     "ot": {
       "JPN": "サトシ",
       "ENG": "Ash",
@@ -26089,6 +26091,12 @@
     "password": "P1KACHUGET",
     "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。",
     "postUrl": "https://www.pokebros.net/ss-ashpikachu-original/",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/ex/sword_shield_expansion/news/200929_01/",
+        "label": "ポケモン公式 サトピカゲットキャンペーン（あいことば有効期限 11月30日 23時59分）"
+      }
+    ],
     "region": "全世界",
     "ivs": "ランダム"
   },
@@ -26106,7 +26114,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "特設サイト内",
     "startDate": "2020-10-29",
-    "endDate": "2020-12-30",
+    "endDate": "2020-11-30",
     "ot": {
       "JPN": "サトシ",
       "ENG": "Ash",
@@ -26138,6 +26146,12 @@
     "password": "1CH00SEY0U",
     "notes": "わざ思い出しでボルテッカーを思い出せる。親名はゲーム内言語による。",
     "postUrl": "https://www.pokebros.net/ss-ashpikachu-ichooseyou/",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/ex/sword_shield_expansion/news/200929_01/",
+        "label": "ポケモン公式 サトピカゲットキャンペーン（あいことば有効期限 11月30日 23時59分）"
+      }
+    ],
     "region": "全世界",
     "ivs": "ランダム"
   },
@@ -26561,7 +26575,7 @@
     "gender": "なし",
     "ability": "しぜんかいふく",
     "nature": "きまぐれ",
-    "heldItem": "しあわせたまご",
+    "heldItem": "しあわせタマゴ",
     "moves": [
       "マジカルリーフ",
       "みらいよち",
@@ -26834,7 +26848,7 @@
     "level": 5,
     "gender": "♂",
     "ability": "にげあし",
-    "nature": "すなおな",
+    "nature": "すなお",
     "moves": [
       "おいわい",
       "ほしがる",
@@ -27111,7 +27125,7 @@
     "level": 5,
     "gender": "♂",
     "ability": "にげあし",
-    "nature": "すなおな",
+    "nature": "すなお",
     "moves": [
       "おいわい",
       "ほしがる",
@@ -28112,7 +28126,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "大会ストリーミング",
     "startDate": "2025-11-21",
-    "endDate": "2025-11-30",
+    "endDate": "2025-12-01",
     "ot": "Federico",
     "trainerId": "251121",
     "metLocation": "バトル大会",
@@ -28135,6 +28149,12 @@
     "password": "LA1C26TA1LW1ND",
     "notes": "南米大会2025開催記念での配布。北米2025マスターチャンピオンの個体。",
     "postUrl": "https://www.pokebros.net/gen9-federico-whimsicott/",
+    "references": [
+      {
+        "url": "https://www.pokemon.com/us/news/get-rewards-during-the-2026-latin-america-international-championships-livestream",
+        "label": "Pokémon公式（英語）: expire on November 30, 2025, at 3:59 p.m. PST（日本時間 12月1日 8:59）"
+      }
+    ],
     "region": "全世界",
     "teraType": "みず",
     "ivs": {
@@ -28891,7 +28911,7 @@
     ],
     "password": "NA1C25C0NPER1SH",
     "notes": "2025シーズン北米大会の開催記念での配布。2025年欧州チャンピオンが使用していた個体。",
-    "postUrl": "https://www.pokebros.net/gen9-wolfe-Incineroar/",
+    "postUrl": "https://www.pokebros.net/gen9-wolf-iincineroar/",
     "region": "全世界",
     "teraType": "むし",
     "ivs": {
@@ -29051,7 +29071,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "大会ストリーミング",
     "startDate": "2025-02-21",
-    "endDate": "2025-02-28",
+    "endDate": "2025-03-01",
     "ot": "Marco",
     "trainerId": "250221",
     "metLocation": "バトル大会",
@@ -29074,6 +29094,12 @@
     "password": "EU1C25SUNNYDAY",
     "notes": "2025年の2025シーズン欧州大会の開催記念での配布。2024年南米大会優勝者が使用していた個体。",
     "postUrl": "https://www.pokebros.net/gen9-marco-jumpluff/",
+    "references": [
+      {
+        "url": "https://www.pokemon.com/us/pokemon-news/get-a-pokemon-during-the-2025-europe-international-championships",
+        "label": "Pokémon公式（英語）: expire on February 28, 2025, at 3:59 p.m. PST（日本時間 3月1日 8:59）"
+      }
+    ],
     "region": "全世界",
     "teraType": "みず",
     "ivs": {
@@ -29261,7 +29287,7 @@
     "level": 50,
     "gender": "なし",
     "ability": "せいぎのこころ",
-    "nature": "すなおな",
+    "nature": "すなお",
     "moves": [
       "かたきうち",
       "アクアテール",
@@ -29375,7 +29401,7 @@
     "level": 50,
     "gender": "なし",
     "ability": "せいぎのこころ",
-    "nature": "すなおな",
+    "nature": "すなお",
     "moves": [
       "かたきうち",
       "アクアテール",
@@ -29406,7 +29432,7 @@
     "distributionLocation": "大会ストリーミング",
     "startDate": "2024-11-15",
     "endDate": "2024-11-22",
-    "ot": "Patrick&ZeroWidthSpace;",
+    "ot": "Patrick",
     "trainerId": "241115",
     "metLocation": "バトル大会",
     "ball": "プレシャスボール",
@@ -29427,7 +29453,13 @@
     ],
     "password": "W1DEGUARDLA1C25",
     "notes": "2024年の2025シーズン南米大会の開催記念での配布。2024年北米大会優勝者が使用していた個体。",
-    "postUrl": "https://www.pokebros.net/gen9-patrickconnor-Pelipper/",
+    "postUrl": "https://www.pokebros.net/gen9-patrickconnor-pelipper/",
+    "references": [
+      {
+        "url": "https://www.pokemon.com/us/play-pokemon/internationals/2025/latin-america/pokemon-distributions",
+        "label": "Pokémon公式（英語）: expire on November 21, 2024, at 4:00 p.m. PST（日本時間 11月22日 9:00）"
+      }
+    ],
     "region": "全世界",
     "shiny": "あり",
     "teraType": "ゴースト",
@@ -29487,7 +29519,7 @@
       "バースデーリボン"
     ],
     "notes": "進化先はランダム。おいわいは特別な技。同一個体がNFCよみとりでも配布された。",
-    "postUrl": "https://www.pokebros.net/gen9-birthday-Tandemaus/",
+    "postUrl": "https://www.pokebros.net/gen9-birthday-tandemaus/",
     "region": "日本,シンガポール",
     "teraType": "ノーマル",
     "ivs": "ランダム"
@@ -29633,7 +29665,7 @@
     ],
     "password": "909TEAMUP06",
     "notes": "ポケモン番組連動企画で、パルデア御三家が配布。アニポケであいことばが公開。",
-    "postUrl": "https://www.pokebros.net/gen9-Roy-Fuecoco/",
+    "postUrl": "https://www.pokebros.net/gen9-roy-fuecoco/",
     "region": "全世界",
     "teraType": "ほのお",
     "ivs": {
@@ -29697,7 +29729,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "大会ストリーミング",
     "startDate": "2024-06-07",
-    "endDate": "2024-06-10",
+    "endDate": "2024-06-11",
     "ot": "Nils",
     "trainerId": "240607",
     "metLocation": "バトル大会",
@@ -29720,6 +29752,12 @@
     "password": "NA1CTR1CKR00M",
     "notes": "2024年北米大会の開催記念での配布。2024年ヨーロッパ大会優勝者が使用していた個体。",
     "postUrl": "https://www.pokebros.net/gen9-nils-polygon2/",
+    "references": [
+      {
+        "url": "https://www.pokemon.com/us/play-pokemon/internationals/2024/north-america/pokemon-distributions",
+        "label": "Pokémon公式（英語）: expire on June 10, 2024, at 5:00 p.m. PDT（日本時間 6月11日 9:00）"
+      }
+    ],
     "region": "全世界",
     "teraType": "ひこう",
     "ivs": {
@@ -29858,7 +29896,6 @@
     "metLocation": "バトル大会",
     "ball": "プレシャスボール",
     "level": 50,
-    "gender": "なし",
     "ability": "いかく",
     "nature": "しんちょう",
     "heldItem": "バンジのみ",
@@ -30150,7 +30187,7 @@
       "scarlet",
       "violet"
     ],
-    "eventName": "友情のパラドックスポケモン 第2弾 ハバタクカミ/テツノコウベ",
+    "eventName": "友情のパラドックスポケモン 第2弾 アラブルタケ/テツノイバラ",
     "distributionMethod": "シリアルコード",
     "distributionLocation": "月刊コロコロコミック 2月号",
     "startDate": "2024-01-15",
@@ -30188,7 +30225,7 @@
       "scarlet",
       "violet"
     ],
-    "eventName": "友情のパラドックスポケモン 第2弾 アラブルタケ/テツノイバラ",
+    "eventName": "友情のパラドックスポケモン 第2弾 ハバタクカミ/テツノコウベ",
     "distributionMethod": "シリアルコード",
     "distributionLocation": "月刊コロコロコミック 2月号",
     "startDate": "2024-01-15",
@@ -30439,7 +30476,7 @@
       "クラシックリボン"
     ],
     "notes": "「友情のパラドックスポケモンスペシャルプレート」",
-    "postUrl": "https://www.pokebros.net/gen9-corocoro202312-roaringmoon/",
+    "postUrl": "https://www.pokebros.net/gen9-corocoro202312-ironvaliant/",
     "region": "日本",
     "teraType": "フェアリー",
     "ivs": "3V"
@@ -30477,7 +30514,7 @@
       "クラシックリボン"
     ],
     "notes": "「友情のパラドックスポケモンスペシャルプレート」",
-    "postUrl": "https://www.pokebros.net/gen9-corocoro202312-ironvaliant/",
+    "postUrl": "https://www.pokebros.net/gen9-corocoro202312-roaringmoon/",
     "region": "日本",
     "teraType": "ドラゴン",
     "ivs": "3V"
@@ -30545,7 +30582,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "ポケポータルニュース",
     "startDate": "2023-12-07",
-    "endDate": "2023-12-21",
+    "endDate": "2023-12-22",
     "ot": "(プレイヤーのもの)",
     "trainerId": "(プレイヤーのもの)",
     "metLocation": "すてきな場所",
@@ -30565,7 +30602,13 @@
     ],
     "password": "NEWM00N1SC0M1NG",
     "notes": "「降臨！ディアルガ＆パルキア〜新月を告げるダークライ〜」キャンペーン",
-    "postUrl": "https://www.pokebros.net/gen9-shiny-lucario/",
+    "postUrl": "https://www.pokebros.net/gen9-darkrai-last-newmoon-2023/",
+    "references": [
+      {
+        "url": "https://sv-news.pokemon.co.jp/ja/page/154.html",
+        "label": "ポケモン公式 幻のポケモン「ダークライ」プレゼント！（2023年12月7日 23:00〜12月22日 8:59）"
+      }
+    ],
     "region": "全世界",
     "teraType": "あく",
     "ivs": "3V"
@@ -30584,7 +30627,7 @@
     "distributionMethod": "あいことば",
     "distributionLocation": "ポケポータルニュース",
     "startDate": "2023-12-07",
-    "endDate": "2024-01-03",
+    "endDate": "2024-01-04",
     "ot": "(プレイヤーのもの)",
     "trainerId": "(プレイヤーのもの)",
     "metLocation": "すてきな場所",
@@ -30604,7 +30647,13 @@
     ],
     "password": "SH1NYBUDDY",
     "notes": "「かがやくルカリオが助っ人にやってきた！マスターボールも手に入れて伝説のポケモンをゲットしよう！」キャンペーン",
-    "postUrl": "https://www.pokebros.net/gen9-darkrai-last-newmoon-2023/",
+    "postUrl": "https://www.pokebros.net/gen9-shiny-lucario/",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/ex/sv/ja/news/231207_02/",
+        "label": "ポケモン公式（有効期限 2024年1月4日 8:59）"
+      }
+    ],
     "region": "全世界",
     "shiny": "あり",
     "teraType": "はがね",
@@ -30657,7 +30706,7 @@
       "テラバースト"
     ],
     "ribbons": [
-      "ふんぬのあかし"
+      "げきはつのあかし"
     ],
     "password": "TEAMSTAR",
     "notes": "パルデア地方が舞台のオリジナルアニメ「放課後のブレス」第三話公開記念",
@@ -31084,7 +31133,7 @@
       "イベントリボン"
     ],
     "notes": "2023PWCSの開催記念での配布。おいわいは特別な技",
-    "postUrl": "https://www.pokebros.net/gen9-wcs2023-tatsugiri//",
+    "postUrl": "https://www.pokebros.net/gen9-wcs2023-tatsugiri/",
     "region": "日本",
     "teraType": "ドラゴン",
     "ivs": "ランダム"
@@ -31660,6 +31709,12 @@
       "かみつく"
     ],
     "postUrl": "https://www.pokebros.net/gen9-junpfest2023-gyarados/",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/info/2022/12/221216_e01.html",
+        "label": "ポケモン公式 ジャンプフェスタ2023ブース（シリアルコード有効期限 2023年1月31日）"
+      }
+    ],
     "region": "日本",
     "teraType": "じめん",
     "ivs": {

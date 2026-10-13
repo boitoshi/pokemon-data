@@ -106,7 +106,7 @@
       "distributionMethod": "あいことば",
       "distributionLocation": "大会ストリーミング",
       "startDate": "2025-11-21",
-      "endDate": "2025-11-30",
+      "endDate": "2025-12-01",
       "region": [
         "全世界"
       ],
@@ -143,7 +143,13 @@
       "evs": "H252/B52/D206",
       "password": "LA1C26TA1LW1ND",
       "notes": "南米大会2025開催記念での配布。北米2025マスターチャンピオンの個体。",
-      "postUrl": "https://www.pokebros.net/gen9-federico-whimsicott/"
+      "postUrl": "https://www.pokebros.net/gen9-federico-whimsicott/",
+      "references": [
+        {
+          "url": "https://www.pokemon.com/us/news/get-rewards-during-the-2026-latin-america-international-championships-livestream",
+          "label": "Pokémon公式（英語）: expire on November 30, 2025, at 3:59 p.m. PST（日本時間 12月1日 8:59）"
+        }
+      ]
     },
     {
       "id": "09098",
@@ -914,7 +920,7 @@
       "evs": "H252/B124/D132",
       "password": "NA1C25C0NPER1SH",
       "notes": "2025シーズン北米大会の開催記念での配布。2025年欧州チャンピオンが使用していた個体。",
-      "postUrl": "https://www.pokebros.net/gen9-wolfe-Incineroar/"
+      "postUrl": "https://www.pokebros.net/gen9-wolf-iincineroar/"
     },
     {
       "id": "09086",
@@ -1067,7 +1073,7 @@
       "distributionMethod": "あいことば",
       "distributionLocation": "大会ストリーミング",
       "startDate": "2025-02-21",
-      "endDate": "2025-02-28",
+      "endDate": "2025-03-01",
       "region": [
         "全世界"
       ],
@@ -1104,7 +1110,13 @@
       "evs": "H164/B150/S196",
       "password": "EU1C25SUNNYDAY",
       "notes": "2025年の2025シーズン欧州大会の開催記念での配布。2024年南米大会優勝者が使用していた個体。",
-      "postUrl": "https://www.pokebros.net/gen9-marco-jumpluff/"
+      "postUrl": "https://www.pokebros.net/gen9-marco-jumpluff/",
+      "references": [
+        {
+          "url": "https://www.pokemon.com/us/pokemon-news/get-a-pokemon-during-the-2025-europe-international-championships",
+          "label": "Pokémon公式（英語）: expire on February 28, 2025, at 3:59 p.m. PST（日本時間 3月1日 8:59）"
+        }
+      ]
     },
     {
       "id": "09082",
@@ -1283,7 +1295,7 @@
       ],
       "level": 50,
       "gender": "なし",
-      "nature": "すなおな",
+      "nature": "すなお",
       "ability": "せいぎのこころ",
       "ball": "プレシャスボール",
       "metLocation": "すてきな場所",
@@ -1403,7 +1415,7 @@
       ],
       "level": 50,
       "gender": "なし",
-      "nature": "すなおな",
+      "nature": "すなお",
       "ability": "せいぎのこころ",
       "ball": "プレシャスボール",
       "metLocation": "すてきな場所",
@@ -1451,7 +1463,7 @@
       "teraType": "ゴースト",
       "shiny": "fixed",
       "ot": {
-        "JPN": "Patrick&ZeroWidthSpace;"
+        "JPN": "Patrick"
       },
       "trainerId": "241115",
       "moves": [
@@ -1475,7 +1487,13 @@
       "evs": "H12/B4/C238/D4/S252",
       "password": "W1DEGUARDLA1C25",
       "notes": "2024年の2025シーズン南米大会の開催記念での配布。2024年北米大会優勝者が使用していた個体。",
-      "postUrl": "https://www.pokebros.net/gen9-patrickconnor-Pelipper/"
+      "postUrl": "https://www.pokebros.net/gen9-patrickconnor-pelipper/",
+      "references": [
+        {
+          "url": "https://www.pokemon.com/us/play-pokemon/internationals/2025/latin-america/pokemon-distributions",
+          "label": "Pokémon公式（英語）: expire on November 21, 2024, at 4:00 p.m. PST（日本時間 11月22日 9:00）"
+        }
+      ]
     },
     {
       "id": "09073",
@@ -1526,7 +1544,7 @@
         "バースデーリボン"
       ],
       "notes": "進化先はランダム。おいわいは特別な技。同一個体がNFCよみとりでも配布された。",
-      "postUrl": "https://www.pokebros.net/gen9-birthday-Tandemaus/",
+      "postUrl": "https://www.pokebros.net/gen9-birthday-tandemaus/",
       "source": {
         "kind": "bulbapedia"
       }
@@ -1683,7 +1701,7 @@
       },
       "password": "909TEAMUP06",
       "notes": "ポケモン番組連動企画で、パルデア御三家が配布。アニポケであいことばが公開。",
-      "postUrl": "https://www.pokebros.net/gen9-Roy-Fuecoco/"
+      "postUrl": "https://www.pokebros.net/gen9-roy-fuecoco/"
     },
     {
       "id": "09069",
@@ -1734,7 +1752,7 @@
       "distributionMethod": "あいことば",
       "distributionLocation": "大会ストリーミング",
       "startDate": "2024-06-07",
-      "endDate": "2024-06-10",
+      "endDate": "2024-06-11",
       "region": [
         "全世界"
       ],
@@ -1770,7 +1788,13 @@
       "evs": "H252/A4/B126/C92/D36",
       "password": "NA1CTR1CKR00M",
       "notes": "2024年北米大会の開催記念での配布。2024年ヨーロッパ大会優勝者が使用していた個体。",
-      "postUrl": "https://www.pokebros.net/gen9-nils-polygon2/"
+      "postUrl": "https://www.pokebros.net/gen9-nils-polygon2/",
+      "references": [
+        {
+          "url": "https://www.pokemon.com/us/play-pokemon/internationals/2024/north-america/pokemon-distributions",
+          "label": "Pokémon公式（英語）: expire on June 10, 2024, at 5:00 p.m. PDT（日本時間 6月11日 9:00）"
+        }
+      ]
     },
     {
       "id": "09067",
@@ -1900,7 +1924,6 @@
         "全世界"
       ],
       "level": 50,
-      "gender": "なし",
       "nature": "しんちょう",
       "ability": "いかく",
       "ball": "プレシャスボール",
@@ -2201,7 +2224,7 @@
         "scarlet",
         "violet"
       ],
-      "eventName": "友情のパラドックスポケモン 第2弾 ハバタクカミ/テツノコウベ",
+      "eventName": "友情のパラドックスポケモン 第2弾 アラブルタケ/テツノイバラ",
       "distributionMethod": "シリアルコード",
       "distributionLocation": "月刊コロコロコミック 2月号",
       "startDate": "2024-01-15",
@@ -2241,7 +2264,7 @@
         "scarlet",
         "violet"
       ],
-      "eventName": "友情のパラドックスポケモン 第2弾 アラブルタケ/テツノイバラ",
+      "eventName": "友情のパラドックスポケモン 第2弾 ハバタクカミ/テツノコウベ",
       "distributionMethod": "シリアルコード",
       "distributionLocation": "月刊コロコロコミック 2月号",
       "startDate": "2024-01-15",
@@ -2510,7 +2533,7 @@
       ],
       "ivsGuaranteed": 3,
       "notes": "「友情のパラドックスポケモンスペシャルプレート」",
-      "postUrl": "https://www.pokebros.net/gen9-corocoro202312-roaringmoon/"
+      "postUrl": "https://www.pokebros.net/gen9-corocoro202312-ironvaliant/"
     },
     {
       "id": "09052",
@@ -2550,7 +2573,7 @@
       ],
       "ivsGuaranteed": 3,
       "notes": "「友情のパラドックスポケモンスペシャルプレート」",
-      "postUrl": "https://www.pokebros.net/gen9-corocoro202312-ironvaliant/"
+      "postUrl": "https://www.pokebros.net/gen9-corocoro202312-roaringmoon/"
     },
     {
       "id": "09050",
@@ -2613,7 +2636,7 @@
       "distributionMethod": "あいことば",
       "distributionLocation": "ポケポータルニュース",
       "startDate": "2023-12-07",
-      "endDate": "2023-12-21",
+      "endDate": "2023-12-22",
       "region": [
         "全世界"
       ],
@@ -2638,7 +2661,13 @@
       "ivsGuaranteed": 3,
       "password": "NEWM00N1SC0M1NG",
       "notes": "「降臨！ディアルガ＆パルキア〜新月を告げるダークライ〜」キャンペーン",
-      "postUrl": "https://www.pokebros.net/gen9-shiny-lucario/"
+      "postUrl": "https://www.pokebros.net/gen9-darkrai-last-newmoon-2023/",
+      "references": [
+        {
+          "url": "https://sv-news.pokemon.co.jp/ja/page/154.html",
+          "label": "ポケモン公式 幻のポケモン「ダークライ」プレゼント！（2023年12月7日 23:00〜12月22日 8:59）"
+        }
+      ]
     },
     {
       "id": "09049",
@@ -2652,7 +2681,7 @@
       "distributionMethod": "あいことば",
       "distributionLocation": "ポケポータルニュース",
       "startDate": "2023-12-07",
-      "endDate": "2024-01-03",
+      "endDate": "2024-01-04",
       "region": [
         "全世界"
       ],
@@ -2685,7 +2714,13 @@
       },
       "password": "SH1NYBUDDY",
       "notes": "「かがやくルカリオが助っ人にやってきた！マスターボールも手に入れて伝説のポケモンをゲットしよう！」キャンペーン",
-      "postUrl": "https://www.pokebros.net/gen9-darkrai-last-newmoon-2023/"
+      "postUrl": "https://www.pokebros.net/gen9-shiny-lucario/",
+      "references": [
+        {
+          "url": "https://www.pokemon.co.jp/ex/sv/ja/news/231207_02/",
+          "label": "ポケモン公式（有効期限 2024年1月4日 8:59）"
+        }
+      ]
     },
     {
       "id": "09047",
@@ -2729,7 +2764,7 @@
         "テラバースト"
       ],
       "ribbons": [
-        "ふんぬのあかし"
+        "げきはつのあかし"
       ],
       "ivs": {
         "hp": 20,
@@ -3164,7 +3199,7 @@
         "イベントリボン"
       ],
       "notes": "2023PWCSの開催記念での配布。おいわいは特別な技",
-      "postUrl": "https://www.pokebros.net/gen9-wcs2023-tatsugiri//"
+      "postUrl": "https://www.pokebros.net/gen9-wcs2023-tatsugiri/"
     },
     {
       "id": "09020",
@@ -3766,7 +3801,13 @@
         "spd": 31,
         "spe": 20
       },
-      "postUrl": "https://www.pokebros.net/gen9-junpfest2023-gyarados/"
+      "postUrl": "https://www.pokebros.net/gen9-junpfest2023-gyarados/",
+      "references": [
+        {
+          "url": "https://www.pokemon.co.jp/info/2022/12/221216_e01.html",
+          "label": "ポケモン公式 ジャンプフェスタ2023ブース（シリアルコード有効期限 2023年1月31日）"
+        }
+      ]
     },
     {
       "id": "09001",

@@ -5,7 +5,7 @@
   {"id": 4,  "name_en": "Adamant", "name_ja": "いじっぱり", "increased_stat": "こうげき", "decreased_stat": "とくこう"},
   {"id": 5,  "name_en": "Naughty", "name_ja": "やんちゃ",   "increased_stat": "こうげき", "decreased_stat": "とくぼう"},
   {"id": 6,  "name_en": "Bold",    "name_ja": "ずぶとい",   "increased_stat": "ぼうぎょ",  "decreased_stat": "こうげき"},
-  {"id": 7,  "name_en": "Docile",  "name_ja": "すなおな",   "increased_stat": null,       "decreased_stat": null},
+  {"id": 7,  "name_en": "Docile",  "name_ja": "すなお",     "increased_stat": null,       "decreased_stat": null},
   {"id": 8,  "name_en": "Relaxed", "name_ja": "のんき",     "increased_stat": "ぼうぎょ",  "decreased_stat": "すばやさ"},
   {"id": 9,  "name_en": "Impish",  "name_ja": "わんぱく",   "increased_stat": "ぼうぎょ",  "decreased_stat": "とくこう"},
   {"id": 10, "name_en": "Lax",     "name_ja": "のうてんき", "increased_stat": "ぼうぎょ",  "decreased_stat": "とくぼう"},

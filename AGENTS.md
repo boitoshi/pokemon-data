@@ -22,7 +22,7 @@
 ## 主要コマンド
 
 - `uv run scripts/fetch-pokemon.py` — PokeAPIからマスターデータ取得
-- `npm run build`（= `node scripts/build-distributions.mjs`） — `build/pokemon.json` 生成
+- `npm run build`（= `node scripts/build-distributions.mjs && node scripts/build-abbreviations.mjs`） — `build/pokemon.json` と `build/abbreviations.json` 生成
 - `npm run validate` — マスター＋配信正本の健全性チェック
 
 ## 編集ルール

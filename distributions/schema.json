@@ -100,6 +100,16 @@
         "trainerId": { "type": "string", "description": "必ず文字列（先頭ゼロ保護）" },
         "moves": { "type": "array", "items": { "type": "string" } },
         "specialMoves": { "type": "array", "items": { "type": "string" } },
+        "moveByTeraType": {
+          "type": "object",
+          "required": ["slot", "map"],
+          "additionalProperties": false,
+          "description": "テラスタイプで1枠の技が決まる配信（例: キミだけのミュウ）。moves[slot] は目印の「（テラスタイプで変わる）」にし、実際の技は map に持つ",
+          "properties": {
+            "slot": { "type": "integer", "minimum": 0, "maximum": 3, "description": "moves の何番目（0始まり）が変わるか" },
+            "map": { "type": "object", "minProperties": 1, "additionalProperties": { "type": "string" }, "description": "テラスタイプ名（mappings/types.json の日本語名）→ 技名" }
+          }
+        },
         "ribbons": { "type": "array", "items": { "type": "string" }, "description": "mappings/ribbons.json の値集合に存在すること" },
         "ivs": {
           "type": "object",

@@ -188,7 +188,26 @@ for (const fileName of files) {
 
     // ---- moveByTeraType: moves[slot] が目印で、map のキーがテラスタイプ名 ----
     if ("moveByTeraType" in entry) {
-      const { slot, map } = entry.moveByTeraType;
+      const mbt = entry.moveByTeraType;
+      if (mbt === null || typeof mbt !== "object" || Array.isArray(mbt)) {
+        throw new Error(`${where}: moveByTeraType は { slot, map } のオブジェクトである必要があります`);
+      }
+      const extra = Object.keys(mbt).filter((k) => k !== "slot" && k !== "map");
+      if (extra.length > 0) {
+        throw new Error(`${where}: moveByTeraType に未知のキーがあります: ${extra.join(", ")}`);
+      }
+      const { slot, map } = mbt;
+      if (!Number.isInteger(slot) || slot < 0 || slot > 3) {
+        throw new Error(`${where}: moveByTeraType.slot は 0〜3 の整数である必要があります (got: ${JSON.stringify(slot)})`);
+      }
+      if (map === null || typeof map !== "object" || Array.isArray(map) || Object.keys(map).length === 0) {
+        throw new Error(`${where}: moveByTeraType.map は1件以上のオブジェクトである必要があります`);
+      }
+      for (const [t, m] of Object.entries(map)) {
+        if (typeof m !== "string" || m.trim() === "" || m === TERA_MOVE_MARKER) {
+          throw new Error(`${where}: moveByTeraType.map["${t}"] の技名が不正です (got: ${JSON.stringify(m)})`);
+        }
+      }
       if (!Array.isArray(entry.moves) || entry.moves[slot] !== TERA_MOVE_MARKER) {
         throw new Error(`${where}: moveByTeraType があるときは moves[${slot}] を "${TERA_MOVE_MARKER}" にしてください`);
       }

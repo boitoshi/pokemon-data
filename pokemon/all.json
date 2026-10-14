@@ -7558,7 +7558,6 @@
         "hidden_ability": "",
         "required_item": "ミミロップナイト",
         "available_in": [
-          "XY",
           "ORAS",
           "SM",
           "USUM",
@@ -11071,7 +11070,8 @@
         "hidden_ability": "",
         "required_item": "フラエッテナイト",
         "available_in": [
-          "ZA"
+          "ZA",
+          "M-dimension"
         ],
         "debut_game": "ZA"
       }
@@ -14405,9 +14405,10 @@
           "まけんき"
         ],
         "hidden_ability": "",
-        "required_item": "",
+        "required_item": "タイレーツナイト",
         "available_in": [
-          "ZA"
+          "ZA",
+          "M-dimension"
         ],
         "debut_game": "ZA"
       }

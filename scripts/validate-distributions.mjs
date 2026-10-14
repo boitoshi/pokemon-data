@@ -22,6 +22,9 @@ const ribbonsMap = readJson("mappings/ribbons.json");
 const regionsMap = readJson("mappings/regions.json");
 const methodsMap = readJson("mappings/distribution-methods.json");
 const ballsMap = readJson("mappings/balls.json");
+const teraTypeNames = new Set(Object.values(readJson("mappings/types.json")));
+// moveByTeraType を持つエントリの moves[slot] に置く目印
+const TERA_MOVE_MARKER = "（テラスタイプで変わる）";
 const schema = readJson("distributions/schema.json");
 
 // nature / ability の値集合照合における許容センチネル。
@@ -181,6 +184,21 @@ for (const fileName of files) {
       if (key in entry && !Array.isArray(entry[key])) {
         throw new Error(`${where}: "${key}" は配列である必要があります（実際の型: ${typeof entry[key]}）`);
       }
+    }
+
+    // ---- moveByTeraType: moves[slot] が目印で、map のキーがテラスタイプ名 ----
+    if ("moveByTeraType" in entry) {
+      const { slot, map } = entry.moveByTeraType;
+      if (!Array.isArray(entry.moves) || entry.moves[slot] !== TERA_MOVE_MARKER) {
+        throw new Error(`${where}: moveByTeraType があるときは moves[${slot}] を "${TERA_MOVE_MARKER}" にしてください`);
+      }
+      for (const t of Object.keys(map ?? {})) {
+        if (!teraTypeNames.has(t)) {
+          throw new Error(`${where}: moveByTeraType.map のキー "${t}" が mappings/types.json の日本語名にありません`);
+        }
+      }
+    } else if (Array.isArray(entry.moves) && entry.moves.includes(TERA_MOVE_MARKER)) {
+      throw new Error(`${where}: moves に "${TERA_MOVE_MARKER}" があるのに moveByTeraType がありません`);
     }
 
     // ---- ot / otFromPlayer 排他 ----

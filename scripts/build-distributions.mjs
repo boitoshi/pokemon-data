@@ -108,6 +108,7 @@ const OUTPUT_KEY_ORDER = [
   "heldItem",
   "moves",
   "specialMoves",
+  "moveByTeraType",
   "ribbons",
   "password",
   "notes",
@@ -278,6 +279,7 @@ const KNOWN_ENTRY_KEYS = new Set([
   "trainerId",
   "moves",
   "specialMoves",
+  "moveByTeraType",
   "ribbons",
   "ivs",
   "ivsGuaranteed",
@@ -343,6 +345,8 @@ function convertEntry(entry, generation) {
   // specialMoves = 通常プレイでは覚えられない特別な技（技名の配列）。
   // 旧app由来の"あり"フラグ19件は 2026-08-03 に技名配列として正本へ復元済み。
   if (Array.isArray(entry.specialMoves) && entry.specialMoves.length > 0) out.specialMoves = entry.specialMoves;
+  // moveByTeraType = テラスタイプで1枠の技が決まる配信の対応表（moves[slot] は目印）。
+  if (entry.moveByTeraType !== undefined) out.moveByTeraType = entry.moveByTeraType;
   if (Array.isArray(entry.ribbons) && entry.ribbons.length > 0) out.ribbons = entry.ribbons;
 
   if (entry.password !== undefined) out.password = entry.password;

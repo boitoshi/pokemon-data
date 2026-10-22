@@ -17,7 +17,8 @@ build/*
 
 # 環境変数
 .env
-.env.local
+.env.*
+!.env.example
 
 # エディタ設定
 .vscode/

@@ -29,7 +29,7 @@ pokemon-data/
 │   ├── pokemon_names.json    # ポケモン名 英日マッピング 1025件（generate_pokemon_names.py で生成）
 │   ├── ribbons.json          # リボン・あかし 英日マッピング（ribbon 49件 + mark 53件）。ribbons/catalog.json のサブセット
 │   ├── distribution-methods.json
-│   ├── games.json            # ゲーム名の対応表（generate-games-mapping.py で titles.json から生成。scrape-to-l2.mjs が参照）
+│   ├── games.json            # ゲーム名の対応表（generate-games-mapping.py で titles.json から生成。distribution-scraper の converter.py が symlink 経由で読む）
 │   ├── form-image-suffixes.json # 姿名 → 画像ファイル名の ASCII サフィックス（日本語→ASCII。validate-data.mjs が検証。content-hub ADR 0020）
 │   ├── method-glossary.json  # distributionMethod の補足 note（英語キーから逆引きできない値だけ。build-abbreviations.mjs が参照）
 │   ├── regions.json

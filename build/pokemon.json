@@ -32217,6 +32217,7 @@
     "trainerId": "(プレイヤーのもの)",
     "metLocation": "すてきな場所",
     "ball": "モンスターボール",
+    "level": 11,
     "moves": [
       "たいあたり",
       "いとをはく",
@@ -32227,6 +32228,7 @@
     "verified": {
       "method": "in-game",
       "fields": [
+        "level",
         "ball",
         "metLocation",
         "ot",

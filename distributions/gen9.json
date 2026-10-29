@@ -4319,6 +4319,7 @@
       "region": [
         "全世界"
       ],
+      "level": 11,
       "ball": "モンスターボール",
       "metLocation": "すてきな場所",
       "otFromPlayer": true,
@@ -4333,6 +4334,7 @@
       "verified": {
         "method": "in-game",
         "fields": [
+          "level",
           "ball",
           "metLocation",
           "ot",

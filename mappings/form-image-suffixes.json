@@ -109,6 +109,26 @@
     "いどのめん": "wellspring",
     "かまどのめん": "hearthflame",
     "テラスタルフォルム": "terastal",
-    "ステラフォルム": "stellar"
+    "ステラフォルム": "stellar",
+    "はなぞののもよう": "meadow",
+    "ひょうせつのもよう": "icy_snow",
+    "ゆきぐにのもよう": "polar",
+    "せつげんのもよう": "tundra",
+    "たいりくのもよう": "continental",
+    "ていえんのもよう": "garden",
+    "みやびなもよう": "elegant",
+    "モダンなもよう": "modern",
+    "マリンのもよう": "marine",
+    "ぐんとうのもよう": "archipelago",
+    "こうやのもよう": "high_plains",
+    "さじんのもよう": "sandstorm",
+    "たいがのもよう": "river",
+    "スコールのもよう": "monsoon",
+    "サバンナのもよう": "savanna",
+    "たいようのもよう": "sun",
+    "オーシャンのもよう": "ocean",
+    "ジャングルのもよう": "jungle",
+    "ファンシーなもよう": "fancy",
+    "ボールのもよう": "poke_ball"
   }
 }

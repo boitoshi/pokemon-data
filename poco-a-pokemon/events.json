@@ -159,13 +159,24 @@
         "source": "クラフトで「たんざく」を作り、ポケモンの願いごとを叶えると変化"
       },
       "exchangeNpc": null,
-      "exchangeItems": [],
+      "exchangeItems": [
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ジラーチランプ", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "つきのとけい", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ほしのマット", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ほしのカベかざり", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ぼうえんきょう", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "くものうちあげづつ", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ほしがたドレッサー", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "くものテーブル", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ほしぞらのベッド", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ほしのクローゼット", "receiveCount": 1 }
+      ],
       "exchangeTotalNeeded": 0,
       "eventPokemon": [
         { "name": "ジラーチ", "dexNo": 385, "rarity": "" }
       ],
       "eventHabitats": [],
-      "notes": "ポケセン付近のジラーチに話しかけてともだちになり「たんざく」のレシピを入手。クラフトだいで作った「たんざく」でポケモンの願いごとを叶えると「キラキラたんざく」に変化し、星空モチーフの家具と交換できる。ジラーチはイベント終了後も街に残る。交換アイテムの内訳は記事側も未確定。",
+      "notes": "ポケセン付近のジラーチに話しかけてともだちになり「たんざく」のレシピを入手。クラフトだいで作った「たんざく」でポケモンの願いごとを叶えると「キラキラたんざく」に変化し、星空モチーフの家具と交換できる。ジラーチはイベント終了後も街に残る。交換はどのアイテムも何回でもできるため、exchangeTotalNeeded は0のまま。",
       "sourceUrl": "https://www.pocoapokemon.jp/ja/news/102/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#jirachi2026"
     },
@@ -206,14 +217,21 @@
         "source": ""
       },
       "exchangeNpc": null,
-      "exchangeItems": [],
+      "exchangeItems": [
+        { "give": "きれいなウロコ", "giveCount": 10, "receive": "クーラーボックス", "receiveCount": 1 },
+        { "give": "きれいなウロコ", "giveCount": 10, "receive": "ぷかぷかライト", "receiveCount": 1 },
+        { "give": "きれいなウロコ", "giveCount": 10, "receive": "おおきなうきわ", "receiveCount": 1 },
+        { "give": "きれいなウロコ", "giveCount": 5, "receive": "うきわ", "receiveCount": 1 },
+        { "give": "きれいなウロコ", "giveCount": 10, "receive": "すなぶろ", "receiveCount": 1 },
+        { "give": "きれいなウロコ", "giveCount": 15, "receive": "ビーチバレーセット", "receiveCount": 1 }
+      ],
       "exchangeTotalNeeded": 0,
       "eventPokemon": [
         { "name": "ヒンバス", "dexNo": 349, "rarity": "" },
         { "name": "ミロカロス", "dexNo": 350, "rarity": "" }
       ],
       "eventHabitats": [],
-      "notes": "うきわ・ビーチボールなど夏をテーマにした家具等と交換（内訳は記事側も未確定）。ヒンバスはイベント開始時から、ミロカロスはイベントを進めると出現。「ブクブクうみぞこの街」とクラウド島では発生しない。開催期間はゲーム内時間で判定されるため、本体の日時を手動で変えているとズレることがある。",
+      "notes": "夏をテーマにした家具等と交換。交換はどのアイテムも何回でもできるため、exchangeTotalNeeded は0のまま。ヒンバスはイベント開始時から、ミロカロスはイベントを進めると出現。「ブクブクうみぞこの街」とクラウド島では発生しない。開催期間はゲーム内時間で判定されるため、本体の日時を手動で変えているとズレることがある。",
       "sourceUrl": "https://www.pocoapokemon.jp/ja/news/150/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#feebas2026"
     },

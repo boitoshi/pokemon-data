@@ -32200,6 +32200,51 @@
     "ivs": "ランダム"
   },
   {
+    "managementId": "09115",
+    "pokemonName": "コフーライ",
+    "dexNo": 665,
+    "generation": 9,
+    "game": "Pokémon LEGENDS Z-A",
+    "gameIds": [
+      "legends_za"
+    ],
+    "eventName": "さまざまな模様のビビヨンに進化するコフーライ",
+    "distributionMethod": "インターネット",
+    "distributionLocation": "『Pokémon LEGENDS Z-A Nintendo Switch 2 Edition ＋ M次元ラッシュ』パッケージ版発売記念",
+    "startDate": "2026-10-29",
+    "endDate": "2026-11-19",
+    "ot": "(プレイヤーのもの)",
+    "trainerId": "(プレイヤーのもの)",
+    "metLocation": "すてきな場所",
+    "ball": "モンスターボール",
+    "moves": [
+      "たいあたり",
+      "いとをはく",
+      "まもる",
+      "しびれごな"
+    ],
+    "notes": "レベル12でビビヨンに進化し、16種の模様のどれかにランダムで進化する。",
+    "verified": {
+      "method": "in-game",
+      "fields": [
+        "ball",
+        "metLocation",
+        "ot",
+        "trainerId",
+        "moves"
+      ],
+      "date": "2026-10-29"
+    },
+    "references": [
+      {
+        "url": "https://www.nintendo.com/jp/topics/article/e5c65331-dd99-431f-8d4d-d2dabee40279",
+        "label": "任天堂トピックス 2026年10月29日（ふしぎなおくりもので10月29日15:00から配信）"
+      }
+    ],
+    "region": "全世界",
+    "ivs": "ランダム"
+  },
+  {
     "managementId": "CH01",
     "pokemonName": "カイリュー",
     "dexNo": 149,

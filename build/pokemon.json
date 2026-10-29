@@ -18772,7 +18772,8 @@
       "おいわい"
     ],
     "notes": "ポケモンセンターのバースデー特典。",
-    "region": "日本"
+    "region": "日本",
+    "ivs": "ランダム"
   },
   {
     "managementId": "07140",
@@ -18842,7 +18843,8 @@
     ],
     "notes": "韓国での配布。ピカチュウ版で受け取り。",
     "region": "韓国",
-    "shiny": "あり"
+    "shiny": "あり",
+    "ivs": "ランダム"
   },
   {
     "managementId": "07142",
@@ -18873,7 +18875,8 @@
     ],
     "notes": "韓国での配布。イーブイ版で受け取り。",
     "region": "韓国",
-    "shiny": "あり"
+    "shiny": "あり",
+    "ivs": "ランダム"
   },
   {
     "managementId": "07143",
@@ -18904,7 +18907,8 @@
     ],
     "notes": "米国での配布（Target店舗）。ピカチュウ版で受け取り。",
     "region": "アメリカ",
-    "shiny": "あり"
+    "shiny": "あり",
+    "ivs": "ランダム"
   },
   {
     "managementId": "07144",
@@ -18935,7 +18939,8 @@
     ],
     "notes": "米国での配布（Target店舗）。イーブイ版で受け取り。",
     "region": "アメリカ",
-    "shiny": "あり"
+    "shiny": "あり",
+    "ivs": "ランダム"
   },
   {
     "managementId": "07145",
@@ -18999,7 +19004,8 @@
     "notes": "日本での配布。",
     "postUrl": "https://www.pokebros.net/japanese-secretshinykrabby/",
     "region": "日本",
-    "shiny": "あり"
+    "shiny": "あり",
+    "ivs": "ランダム"
   },
   {
     "managementId": "07147",

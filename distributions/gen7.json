@@ -2121,6 +2121,7 @@
         "はたく",
         "おいわい"
       ],
+      "ivsGuaranteed": 0,
       "specialMoves": [
         "おいわい"
       ],
@@ -2198,6 +2199,7 @@
         "アイアンテール",
         "てだすけ"
       ],
+      "ivsGuaranteed": 0,
       "notes": "韓国での配布。ピカチュウ版で受け取り。"
     },
     {
@@ -2231,6 +2233,7 @@
         "アイアンテール",
         "てだすけ"
       ],
+      "ivsGuaranteed": 0,
       "notes": "韓国での配布。イーブイ版で受け取り。"
     },
     {
@@ -2264,6 +2267,7 @@
         "てだすけ",
         "からげんき"
       ],
+      "ivsGuaranteed": 0,
       "notes": "米国での配布（Target店舗）。ピカチュウ版で受け取り。"
     },
     {
@@ -2297,6 +2301,7 @@
         "かげぶんしん",
         "かみなり"
       ],
+      "ivsGuaranteed": 0,
       "notes": "米国での配布（Target店舗）。イーブイ版で受け取り。"
     },
     {
@@ -2364,6 +2369,7 @@
         "からげんき",
         "バブルこうせん"
       ],
+      "ivsGuaranteed": 0,
       "notes": "日本での配布。",
       "postUrl": "https://www.pokebros.net/japanese-secretshinykrabby/"
     },

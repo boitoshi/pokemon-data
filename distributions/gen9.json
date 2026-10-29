@@ -199,6 +199,7 @@
       "ribbons": [
         "バースデーリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。おいわいは特別な技。同一個体がNFCよみとりでも配布された。",
       "postUrl": "https://www.pokebros.net/gen9-birthday-fidough/",
       "source": {
@@ -533,6 +534,7 @@
       "ribbons": [
         "イベントリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "WCS2025会場限定でシリアルコードが配布された。おいわいは特別な技。",
       "postUrl": "https://www.pokebros.net/sv-wcs2025-toedscool/"
     },
@@ -1154,6 +1156,7 @@
       "ribbons": [
         "クラシックリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "PokémonDay2025を記念して配布。",
       "postUrl": "https://www.pokebros.net/gen9-pokemonday2025-eevee/"
     },
@@ -1194,6 +1197,7 @@
         "ウィッシュリボン",
         "カリスマのあかし"
       ],
+      "ivsGuaranteed": 0,
       "notes": "韓国において2025年1月22日に【劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ】が劇場上映されることを記念して、映画入場者特典として配布",
       "postUrl": "https://www.pokebros.net/gen9-korea-movie2025-lucario/"
     },
@@ -1543,6 +1547,7 @@
       "ribbons": [
         "バースデーリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "進化先はランダム。おいわいは特別な技。同一個体がNFCよみとりでも配布された。",
       "postUrl": "https://www.pokebros.net/gen9-birthday-tandemaus/",
       "source": {
@@ -1645,6 +1650,7 @@
       "ribbons": [
         "イベントリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "WCS2024の開催記念での配布。",
       "postUrl": "https://www.pokebros.net/gen9-wcs2024-steenee/"
     },
@@ -1737,6 +1743,7 @@
       "ribbons": [
         "げんきのあかし"
       ],
+      "ivsGuaranteed": 0,
       "notes": "ポケモンとどこいく！？連動企画。イベント会場限定で進化石セットのコードのセットになったチラシが配布された。",
       "postUrl": "https://www.pokebros.net/gen9-genki-eevee/"
     },
@@ -2492,6 +2499,7 @@
       "ribbons": [
         "クラシックリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "韓国における「PokémonWinterfestaTournament」という大会のサブイベントとして配布",
       "postUrl": "https://www.pokebros.net/gen9-korea-winterfesta2023-baxcalibur/"
     },
@@ -2866,6 +2874,7 @@
         "クラシックリボン",
         "ときどきみるあかし"
       ],
+      "ivsGuaranteed": 0,
       "notes": "SV本編とDLC「ゼロの秘宝」のセット販売記念。初のリボンとあかし両方とももっている配信。",
       "postUrl": "https://www.pokebros.net/gen9-korea-pokemonstore-fidough/"
     },
@@ -2917,6 +2926,7 @@
       "ribbons": [
         "バースデーリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "ポケモンセンター店舗はいずれかを選んでもらうことができ、ポケモンセンターオンラインではランダム。おいわいは特別な技。",
       "postUrl": "https://www.pokebros.net/gen9-birthday-charcadet/"
     },
@@ -2968,6 +2978,7 @@
       "ribbons": [
         "バースデーリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "ポケモンセンター店舗はいずれかを選んでもらうことができ、ポケモンセンターオンラインではランダム。おいわいは特別な技。",
       "postUrl": "https://www.pokebros.net/gen9-birthday-pawmi/"
     },
@@ -3009,6 +3020,7 @@
       "ribbons": [
         "クラシックリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "アメリカ・カナダではGameStop店舗でハロウィン記念。ブラジルのサンパウロで開催されたBGS2023（ブラジルゲームショー）のNintendoブースでも配布。",
       "postUrl": "https://www.pokebros.net/gen9-electric-terastal-mimikyu/"
     },
@@ -3056,6 +3068,7 @@
       "ribbons": [
         "ほんのうのあかし"
       ],
+      "ivsGuaranteed": 0,
       "password": "L1KEAFLUTE",
       "notes": "公式YouTubeチャンネルでパルデア地方を舞台にしたオリジナルアニメ「放課後のブレス」の第一話の公開記念。",
       "postUrl": "https://www.pokebros.net/gen9-glaseado-mountain-cetitan/"
@@ -3221,6 +3234,7 @@
       "ribbons": [
         "イベントリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "2023PWCSの開催記念での配布。おいわいは特別な技",
       "postUrl": "https://www.pokebros.net/gen9-wcs2023-tatsugiri/"
     },
@@ -3514,6 +3528,7 @@
       "ribbons": [
         "ウィッシュリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "韓国で【劇場版ポケットモンスター ダイヤモンド&パール アルセウス 超克の時空へ】の劇場上映記念",
       "postUrl": "https://www.pokebros.net/gen9-korea-movie2023-shiny-pichu/"
     },
@@ -3553,6 +3568,7 @@
       "ribbons": [
         "ウィッシュリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "韓国で【劇場版ポケットモンスター ダイヤモンド&パール アルセウス 超克の時空へ】の劇場上映記念",
       "postUrl": "https://www.pokebros.net/gen9-korea-movie2023-bronzong/"
     },
@@ -3692,6 +3708,7 @@
       "ribbons": [
         "クラシックリボン"
       ],
+      "ivsGuaranteed": 0,
       "postUrl": "https://www.pokebros.net/gen9-flying-terastal-lechonk"
     },
     {
@@ -3866,6 +3883,7 @@
       "ribbons": [
         "クラシックリボン"
       ],
+      "ivsGuaranteed": 0,
       "postUrl": "https://www.pokebros.net/gen9-flyingterastal-pikachu/"
     },
     {
@@ -3916,6 +3934,7 @@
       "ribbons": [
         "バースデーリボン"
       ],
+      "ivsGuaranteed": 0,
       "notes": "色はランダム。おいわいは特別な技",
       "postUrl": "https://www.pokebros.net/gen9-birthday-flabebe/"
     },

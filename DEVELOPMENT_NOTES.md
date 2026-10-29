@@ -81,7 +81,7 @@ pokemon-data/
     ├── validate-game-compatibility.mjs # 種族対応・進行度ゲートの検証
     ├── validate-gym-leaders.mjs    # ジムリーダー名簿・手持ち（trainers/）の検証
     ├── validate-elite-four.mjs     # 四天王・チャンピオン名簿・手持ち（trainers/）の検証
-    ├── test-build-gen3-ivs.mjs     # 回帰テスト: 一時repo形状からビルドし Gen3 未収録個体値と既存世代の表示を検証（npm run validate には含まない）
+    ├── test-build-ivs.mjs          # 回帰テスト: 一時repo形状からビルドし、個体値の固定値・保証V数・保証0（ランダム）・不明（省略）の出し分けを検証（npm run validate には含まない）
     ├── test-scrape-multi-variant.mjs # 回帰テスト: scrape-to-l2 の同anchor別個体の取り込みと再実行・重複拒否（同上）
     ├── test-validate-gym-leaders.mjs # 回帰テスト: validate-gym-leaders.mjs が欠落・未翻訳値を拒否すること（同上）
     ├── test-validate-elite-four.mjs  # 回帰テスト: validate-elite-four.mjs の検証関数とCLIの失敗（同上）

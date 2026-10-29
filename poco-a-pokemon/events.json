@@ -159,13 +159,24 @@
         "source": "クラフトで「たんざく」を作り、ポケモンの願いごとを叶えると変化"
       },
       "exchangeNpc": null,
-      "exchangeItems": [],
+      "exchangeItems": [
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ジラーチランプ", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "つきのとけい", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ほしのマット", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ほしのカベかざり", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ぼうえんきょう", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "くものうちあげづつ", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ほしがたドレッサー", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "くものテーブル", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ほしぞらのベッド", "receiveCount": 1 },
+        { "give": "キラキラたんざく", "giveCount": 1, "receive": "ほしのクローゼット", "receiveCount": 1 }
+      ],
       "exchangeTotalNeeded": 0,
       "eventPokemon": [
         { "name": "ジラーチ", "dexNo": 385, "rarity": "" }
       ],
       "eventHabitats": [],
-      "notes": "ポケセン付近のジラーチに話しかけてともだちになり「たんざく」のレシピを入手。クラフトだいで作った「たんざく」でポケモンの願いごとを叶えると「キラキラたんざく」に変化し、星空モチーフの家具と交換できる。ジラーチはイベント終了後も街に残る。交換アイテムの内訳は記事側も未確定。",
+      "notes": "ポケセン付近のジラーチに話しかけてともだちになり「たんざく」のレシピを入手。クラフトだいで作った「たんざく」でポケモンの願いごとを叶えると「キラキラたんざく」に変化し、星空モチーフの家具と交換できる。ジラーチはイベント終了後も街に残る。交換はどのアイテムも何回でもできるため、exchangeTotalNeeded は0のまま。",
       "sourceUrl": "https://www.pocoapokemon.jp/ja/news/102/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#jirachi2026"
     },
@@ -206,14 +217,21 @@
         "source": ""
       },
       "exchangeNpc": null,
-      "exchangeItems": [],
+      "exchangeItems": [
+        { "give": "きれいなウロコ", "giveCount": 10, "receive": "クーラーボックス", "receiveCount": 1 },
+        { "give": "きれいなウロコ", "giveCount": 10, "receive": "ぷかぷかライト", "receiveCount": 1 },
+        { "give": "きれいなウロコ", "giveCount": 10, "receive": "おおきなうきわ", "receiveCount": 1 },
+        { "give": "きれいなウロコ", "giveCount": 5, "receive": "うきわ", "receiveCount": 1 },
+        { "give": "きれいなウロコ", "giveCount": 10, "receive": "すなぶろ", "receiveCount": 1 },
+        { "give": "きれいなウロコ", "giveCount": 15, "receive": "ビーチバレーセット", "receiveCount": 1 }
+      ],
       "exchangeTotalNeeded": 0,
       "eventPokemon": [
         { "name": "ヒンバス", "dexNo": 349, "rarity": "" },
         { "name": "ミロカロス", "dexNo": 350, "rarity": "" }
       ],
       "eventHabitats": [],
-      "notes": "うきわ・ビーチボールなど夏をテーマにした家具等と交換（内訳は記事側も未確定）。ヒンバスはイベント開始時から、ミロカロスはイベントを進めると出現。「ブクブクうみぞこの街」とクラウド島では発生しない。開催期間はゲーム内時間で判定されるため、本体の日時を手動で変えているとズレることがある。",
+      "notes": "夏をテーマにした家具等と交換。交換はどのアイテムも何回でもできるため、exchangeTotalNeeded は0のまま。ヒンバスはイベント開始時から、ミロカロスはイベントを進めると出現。「ブクブクうみぞこの街」とクラウド島では発生しない。開催期間はゲーム内時間で判定されるため、本体の日時を手動で変えているとズレることがある。",
       "sourceUrl": "https://www.pocoapokemon.jp/ja/news/150/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#feebas2026"
     },
@@ -236,11 +254,25 @@
         "location": "ポケモンセンターの前"
       },
       "rewardItems": [],
-      "recordRewards": [],
-      "rewardCondition": "最高記録の回数に応じて「トロフィー」などの特別なアイテム（内訳は公式未公開）",
+      "recordRewards": [
+        { "record": 5, "name": "ヒメリのみ", "count": 3 },
+        { "record": 10, "name": "あまいミツ", "count": 3 },
+        { "record": 11, "name": "ほしのかけら", "count": 1 },
+        { "record": 21, "name": "おおきなおとしもの", "count": 3 },
+        { "record": 31, "name": "にじいろのはね", "count": 3 },
+        { "record": 41, "name": "ぎんいろのはね", "count": 3 },
+        { "record": 51, "name": "おおなわとびトロフィー", "count": 1 },
+        { "record": 76, "name": "ポケメタル", "count": 30 },
+        { "record": 101, "name": "レアポケメタル", "count": 10 },
+        { "record": 111, "name": "レアポケメタル", "count": 10 },
+        { "record": 121, "name": "レアポケメタル", "count": 10 },
+        { "record": 131, "name": "レアポケメタル", "count": 10 },
+        { "record": 141, "name": "レアポケメタル", "count": 10 }
+      ],
+      "rewardCondition": "最高記録の更新で段階報酬。51回以上でトロフィー、141回以上で全報酬コンプ",
       "eventPokemon": [],
       "eventHabitats": [],
-      "notes": "この表には2026年4月の開催（2026-04-oonawatobi）もある。クラウド島でも発生するが「ブクブクうみぞこの街」では発生しない。他プレイヤーの街ではホストのみ、クラウド島では最高記録を出した本人のみに賞品。見学モードでも参加できる。クラウド島で遊ぶにはその島のフシギダネとともだちになる必要がある。じぶんの街で「通信であそぶ」場合は、通信開始前にフシギダネに話しかけておく必要がある。開催期間中に開始条件を満たした場合は、一度別の街へ移るか「ゲームをやめる」必要がある。報酬の内訳が4月と同じかは未確認。",
+      "notes": "この表には2026年4月の開催（2026-04-oonawatobi）もある。クラウド島でも発生するが「ブクブクうみぞこの街」では発生しない。他プレイヤーの街ではホストのみ、クラウド島では最高記録を出した本人のみに賞品。見学モードでも参加できる。クラウド島で遊ぶにはその島のフシギダネとともだちになる必要がある。じぶんの街で「通信であそぶ」場合は、通信開始前にフシギダネに話しかけておく必要がある。開催期間中に開始条件を満たした場合は、一度別の街へ移るか「ゲームをやめる」必要がある。回数ごとの報酬は4月と同じ。おおなわとびトロフィーは名前も4月と同じだが別アイテム扱いなので、4月のものと並べて飾れる。",
       "sourceUrl": "https://www.pocoapokemon.jp/ja/news/168/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#oonawatobi202609"
     },
@@ -258,7 +290,17 @@
         "source": "ポケモンが好きな家具などに変身し、近づいてきたところでおどろかせる"
       },
       "exchangeNpc": null,
-      "exchangeItems": [],
+      "exchangeItems": [
+        { "give": "かぼちゃキャンディ", "giveCount": 3, "receive": "ブキミなぞう", "receiveCount": 1 },
+        { "give": "かぼちゃキャンディ", "giveCount": 3, "receive": "デスカーンロッカー", "receiveCount": 1 },
+        { "give": "かぼちゃキャンディ", "giveCount": 2, "receive": "おかしバケツ", "receiveCount": 1 },
+        { "give": "かぼちゃキャンディ", "giveCount": 2, "receive": "オーロットがいとう", "receiveCount": 1 },
+        { "give": "かぼちゃキャンディ", "giveCount": 3, "receive": "かぼちゃランタン", "receiveCount": 1 },
+        { "give": "かぼちゃキャンディ", "giveCount": 2, "receive": "かぼちゃランタンタワー", "receiveCount": 1 },
+        { "give": "かぼちゃキャンディ", "giveCount": 3, "receive": "ゆうれいスモーク", "receiveCount": 1 },
+        { "give": "かぼちゃキャンディ", "giveCount": 1, "receive": "とくだいテーブル", "receiveCount": 1 },
+        { "give": "かぼちゃキャンディ", "giveCount": 2, "receive": "にぎやかふうせん", "receiveCount": 1 }
+      ],
       "exchangeTotalNeeded": 0,
       "eventPokemon": [
         {
@@ -272,8 +314,11 @@
           "rarity": ""
         }
       ],
-      "eventHabitats": [],
-      "notes": "真夜中のお祭りをモチーフにした家具等と交換（内訳は公式未公開）。交換したアイテムで生息地を作るとパンプジンとともだちになれる。「クラウド島」「ブクブクうみぞこの街」では発生しない。ともだちになったポケモンはイベント終了後も街に残る。通信であそぶ場合は「まっさらな街」で、通信開始前にバケッチャに話しかけておく必要がある（見学モードは不可）。開催期間中に開始条件を満たした場合は、一度別の街へ移るか「ゲームをやめる」必要がある。公式は「条件を満たしたのが11/1当日の場合でも、イベントは発生します」としているが、終了は11/1 4:59。2026-10-17 の開催告知（175）でも予告（174）と同じ内容。",
+      "eventHabitats": [
+        { "name": "ブキミなカボチャ", "pokemon": ["パンプジン"], "materials": [{ "name": "オーロットがいとう", "count": 1 }, { "name": "かぼちゃランタン", "count": 1 }, { "name": "かぼちゃランタンタワー", "count": 1 }] },
+        { "name": "お菓子くれないと？", "pokemon": ["バケッチャ"], "materials": [{ "name": "つくえ（なんでも）", "count": 1 }, { "name": "おかしバケツ", "count": 1 }, { "name": "ゆうれいスモーク", "count": 1 }] }
+      ],
+      "notes": "真夜中のお祭りをモチーフにした家具等と交換。交換したアイテムで生息地を作るとパンプジンとともだちになれる。「クラウド島」「ブクブクうみぞこの街」では発生しない。ともだちになったポケモンはイベント終了後も街に残る。通信であそぶ場合は「まっさらな街」で、通信開始前にバケッチャに話しかけておく必要がある（見学モードは不可）。開催期間中に開始条件を満たした場合は、一度別の街へ移るか「ゲームをやめる」必要がある。公式は「条件を満たしたのが11/1当日の場合でも、イベントは発生します」としているが、終了は11/1 4:59。2026-10-17 の開催告知（175）でも予告（174）と同じ内容。",
       "sourceUrl": "https://www.pocoapokemon.jp/ja/news/175/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#pumpkaboo2026"
     }

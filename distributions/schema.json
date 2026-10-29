@@ -124,7 +124,7 @@
             "spe": { "type": "integer", "minimum": 0, "maximum": 31 }
           }
         },
-        "ivsGuaranteed": { "type": "integer", "minimum": 0, "maximum": 6, "description": "確定V個数（例: 3V→3）。ivs とは排他。省略かつ ivs 無し＝ランダム" },
+        "ivsGuaranteed": { "type": "integer", "minimum": 0, "maximum": 6, "description": "確定V個数（例: 3V→3）。0＝保証なし（ランダム）。ivs とは排他。ivs も ivsGuaranteed も無い＝個体値は不明（ランダムとはみなさない）" },
         "evs": { "type": "string", "description": "努力値（例: 'H36/B4/C214/D28/S228'）。構造化は将来" },
         "gigantamax": { "const": true },
         "alpha": { "const": true, "description": "オヤブン（LA/ZA）" },

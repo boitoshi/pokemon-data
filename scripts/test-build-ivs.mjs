@@ -1,5 +1,5 @@
-// 一時repo形状からビルドし、Gen3未収録個体値と既存世代の表示を検証する。
-// 実行: node scripts/test-build-gen3-ivs.mjs
+// 一時repo形状からビルドし、個体値の出し分け（固定値・保証V数・保証0＝ランダム・省略＝不明）を検証する。
+// 実行: node scripts/test-build-ivs.mjs
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import os from "node:os";
@@ -7,7 +7,7 @@ import path from "node:path";
 import { spawnSync } from "node:child_process";
 
 const root = process.cwd();
-const scratch = fs.mkdtempSync(path.join(os.tmpdir(), "build-gen3-ivs-"));
+const scratch = fs.mkdtempSync(path.join(os.tmpdir(), "build-ivs-"));
 try {
   fs.mkdirSync(path.join(scratch, "games"));
   fs.copyFileSync(path.join(root, "games/titles.json"), path.join(scratch, "games/titles.json"));
@@ -21,7 +21,10 @@ try {
       { ...base, id: "03001" },
       { ...base, id: "03002", ivs: { hp: 31, atk: 0 } },
       { ...base, id: "03003", ivsGuaranteed: 3 },
-    ] : dataset === "gen4" ? [{ ...base, id: "04001", games: ["diamond"] }] : [];
+    ] : dataset === "gen4" ? [
+      { ...base, id: "04001", games: ["diamond"] },
+      { ...base, id: "04002", games: ["diamond"], ivsGuaranteed: 0 },
+    ] : [];
     fs.writeFileSync(path.join(scratch, "distributions", `${dataset}.json`), JSON.stringify({
       schemaVersion: 1, dataset, generation: dataset === "champions" ? 0 : Number(dataset.slice(3)), entries,
     }));
@@ -34,8 +37,9 @@ try {
   assert.equal("ivs" in records[0], false);
   assert.deepEqual(records[1].ivs, { hp: 31, atk: 0 });
   assert.equal(records[2].ivs, "3V");
-  assert.equal(records[3].ivs, "ランダム");
-  console.log("Gen3 IV build validation passed.");
+  assert.equal("ivs" in records[3], false);
+  assert.equal(records[4].ivs, "ランダム");
+  console.log("IV build validation passed.");
 } finally {
   fs.rmSync(scratch, { recursive: true, force: true });
 }

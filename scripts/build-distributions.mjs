@@ -195,17 +195,17 @@ function convertLevel(entry) {
   return {};
 }
 
-// ---- ivs: 固定値・保証V数は保持。Gen3の未収録値は省略し、他世代は従来の表示を維持 ----
-function convertIvs(entry, managementId, generation) {
+// ---- ivs: 固定値・保証V数は保持。保証0は「ランダム」。どちらも無ければ不明として省略（推測で「ランダム」と埋めない） ----
+function convertIvs(entry, managementId) {
   if (entry.ivs !== undefined) {
     if (typeof entry.ivs !== "object" || entry.ivs === null || Array.isArray(entry.ivs)) {
       throw new Error(`未知の ivs 型 (managementId=${managementId}): ${JSON.stringify(entry.ivs)}`);
     }
     return entry.ivs;
   }
+  if (entry.ivsGuaranteed === 0) return "ランダム";
   if (entry.ivsGuaranteed !== undefined) return `${entry.ivsGuaranteed}V`;
-  if (generation === 3) return undefined;
-  return "ランダム";
+  return undefined;
 }
 
 // ---- shiny: "fixed"→"あり" / "conditional"→"条件次第" / 無ければ省略 ----
@@ -363,7 +363,7 @@ function convertEntry(entry, generation) {
 
   if (entry.teraType !== undefined) out.teraType = entry.teraType;
 
-  const ivs = convertIvs(entry, managementId, generation);
+  const ivs = convertIvs(entry, managementId);
   if (ivs !== undefined) out.ivs = ivs;
 
   if (entry.evs !== undefined) out.evs = entry.evs;

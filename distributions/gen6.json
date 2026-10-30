@@ -7776,7 +7776,7 @@
       ],
       "eventName": "Scyther",
       "distributionMethod": "ローカル交換",
-      "startDate": "2014-02-22",
+      "startDate": "2014-02-08",
       "endDate": "2014-02-22",
       "region": [
         "韓国"
@@ -7801,7 +7801,8 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "ivsGuaranteed": 2
+      "ivsGuaranteed": 2,
+      "notes": "韓国のイーマート3店舗で、2014年2月8日・15日・22日に1日ずつ通信交換で配布。期間中の毎日ではない。"
     },
     {
       "id": "06210",
@@ -7813,7 +7814,7 @@
       ],
       "eventName": "Haunter",
       "distributionMethod": "ローカル交換",
-      "startDate": "2014-02-22",
+      "startDate": "2014-02-08",
       "endDate": "2014-02-22",
       "region": [
         "韓国"
@@ -7837,7 +7838,8 @@
       "ribbons": [
         "クラシックリボン"
       ],
-      "ivsGuaranteed": 2
+      "ivsGuaranteed": 2,
+      "notes": "韓国のイーマート3店舗で、2014年2月8日・15日・22日に1日ずつ通信交換で配布。期間中の毎日ではない。"
     },
     {
       "id": "06211",

@@ -31822,6 +31822,61 @@
     "region": "全世界"
   },
   {
+    "managementId": "09116",
+    "pokemonName": "パピモッチ",
+    "dexNo": 926,
+    "generation": 9,
+    "game": "スカーレット, バイオレット",
+    "gameIds": [
+      "scarlet",
+      "violet"
+    ],
+    "eventName": "わくわくおたんじょうびのパピモッチ（2026-2027）",
+    "distributionMethod": "シリアルコード",
+    "distributionLocation": "ポケモンセンター,ポケモンセンターオンライン",
+    "startDate": "2026-11-01",
+    "endDate": "2028-01-31",
+    "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。2025-2026年のわくわくおたんじょうび（id: 09098）とは別の配信で、そちらで受け取っていても再度受け取れる。",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/shop/pokecen/birthday/",
+        "label": "ポケモンセンター店頭のわくわくおたんじょうび（プレゼント期間 2026年11月1日〜2027年10月31日、シリアルコード有効期間 2026年11月1日〜2028年1月31日）"
+      },
+      {
+        "url": "https://www.pokemoncenter-online.com/feature/birthday.html",
+        "label": "ポケモンセンターオンラインのわくわくおたんじょうび（期間 2026年11月1日〜2027年10月31日）"
+      }
+    ],
+    "region": "日本"
+  },
+  {
+    "managementId": "09117",
+    "pokemonName": "タブンネ",
+    "dexNo": 531,
+    "generation": 9,
+    "game": "Pokémon LEGENDS Z-A",
+    "gameIds": [
+      "legends_za"
+    ],
+    "eventName": "わくわくおたんじょうびのタブンネ（2026-2027）",
+    "distributionMethod": "シリアルコード",
+    "distributionLocation": "ポケモンセンター,ポケモンセンターオンライン",
+    "startDate": "2026-11-01",
+    "endDate": "2028-01-31",
+    "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。2025-2026年のわくわくおたんじょうび（id: 09102）とは別の配信で、そちらで受け取っていても再度受け取れる。",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/shop/pokecen/birthday/",
+        "label": "ポケモンセンター店頭のわくわくおたんじょうび（プレゼント期間 2026年11月1日〜2027年10月31日、シリアルコード有効期間 2026年11月1日〜2028年1月31日）"
+      },
+      {
+        "url": "https://www.pokemoncenter-online.com/feature/birthday.html",
+        "label": "ポケモンセンターオンラインのわくわくおたんじょうび（期間 2026年11月1日〜2027年10月31日）"
+      }
+    ],
+    "region": "日本"
+  },
+  {
     "managementId": "CH01",
     "pokemonName": "カイリュー",
     "dexNo": 149,

@@ -31836,7 +31836,7 @@
     "distributionLocation": "ポケモンセンター,ポケモンセンターオンライン",
     "startDate": "2026-11-01",
     "endDate": "2028-01-31",
-    "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。2025-2026年のわくわくおたんじょうび（id: 09098）とは別の配信で、そちらで受け取っていても再度受け取れる。",
+    "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。2025-2026年のわくわくおたんじょうび（id: 09098）とは別の配信で、そちらで受け取っていても再度受け取れる。店頭にゲーム機本体を持っていけない場合は、スマートフォン版『Pokémon HOME』の「ふしぎなおくりもの」でパピモッチとタブンネを直接受け取れる（ポケモンセンター店頭のわくわくおたんじょうびの案内）。",
     "references": [
       {
         "url": "https://www.pokemon.co.jp/shop/pokecen/birthday/",
@@ -31863,7 +31863,7 @@
     "distributionLocation": "ポケモンセンター,ポケモンセンターオンライン",
     "startDate": "2026-11-01",
     "endDate": "2028-01-31",
-    "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。2025-2026年のわくわくおたんじょうび（id: 09102）とは別の配信で、そちらで受け取っていても再度受け取れる。",
+    "notes": "SVで受け取れるパピモッチのコードとZAで受け取れるタブンネのコードが1枚になっている。2025-2026年のわくわくおたんじょうび（id: 09102）とは別の配信で、そちらで受け取っていても再度受け取れる。店頭にゲーム機本体を持っていけない場合は、スマートフォン版『Pokémon HOME』の「ふしぎなおくりもの」でパピモッチとタブンネを直接受け取れる（ポケモンセンター店頭のわくわくおたんじょうびの案内）。",
     "references": [
       {
         "url": "https://www.pokemon.co.jp/shop/pokecen/birthday/",
@@ -33108,6 +33108,250 @@
       "date": "2026-09-27"
     },
     "region": "日本",
+    "ivs": "6V"
+  },
+  {
+    "managementId": "CH-BP-M7-01",
+    "pokemonName": "セグレイブ",
+    "dexNo": 998,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "gameIds": [
+      "pokemon_champions"
+    ],
+    "eventName": "シーズンM-7 バトルパス",
+    "tournamentType": "Champions",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-10-07〜2026-11-04",
+    "distributionMethod": "プレミアムバトルパス",
+    "distributionLocation": "バトルパス報酬",
+    "startDate": "2026-10-07",
+    "endDate": "2026-11-04",
+    "level": "Lv.50相当(非表示)",
+    "notes": "プレミアムバトルパス購入で解放される報酬。同じパスの報酬にメガストーン「セグレイブナイト」「アブソルナイトＺ」もある。期間は2026-11-04 10:59まで。",
+    "references": [
+      {
+        "url": "https://champions-news.pokemon-home.com/ja/page/846.html"
+      }
+    ],
+    "region": "全世界",
+    "ivs": "6V"
+  },
+  {
+    "managementId": "CH-BP-M7-02",
+    "pokemonName": "アブソル",
+    "dexNo": 359,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "gameIds": [
+      "pokemon_champions"
+    ],
+    "eventName": "シーズンM-7 バトルパス",
+    "tournamentType": "Champions",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-10-07〜2026-11-04",
+    "distributionMethod": "プレミアムバトルパス",
+    "distributionLocation": "バトルパス報酬",
+    "startDate": "2026-10-07",
+    "endDate": "2026-11-04",
+    "level": "Lv.50相当(非表示)",
+    "notes": "プレミアムバトルパス購入で解放される報酬。同じパスの報酬にメガストーン「セグレイブナイト」「アブソルナイトＺ」もある。期間は2026-11-04 10:59まで。",
+    "references": [
+      {
+        "url": "https://champions-news.pokemon-home.com/ja/page/846.html"
+      }
+    ],
+    "region": "全世界",
+    "ivs": "6V"
+  },
+  {
+    "managementId": "CH-BP-M7-03",
+    "pokemonName": "エースバーン",
+    "dexNo": 815,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "gameIds": [
+      "pokemon_champions"
+    ],
+    "eventName": "シーズンM-7 バトルパス",
+    "tournamentType": "Champions",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-10-07〜2026-11-04",
+    "distributionMethod": "バトルパス",
+    "distributionLocation": "バトルパス報酬",
+    "startDate": "2026-10-07",
+    "endDate": "2026-11-04",
+    "level": "Lv.50相当(非表示)",
+    "notes": "無料のバトルパスの報酬。期間は2026-11-04 10:59まで。",
+    "references": [
+      {
+        "url": "https://champions-news.pokemon-home.com/ja/page/846.html"
+      }
+    ],
+    "region": "全世界",
+    "ivs": "6V"
+  },
+  {
+    "managementId": "CH-BP-M8-01",
+    "pokemonName": "ボーマンダ",
+    "dexNo": 373,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "gameIds": [
+      "pokemon_champions"
+    ],
+    "eventName": "シーズンM-8 バトルパス",
+    "tournamentType": "Champions",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-11-04〜2026-12-02",
+    "distributionMethod": "プレミアムバトルパス",
+    "distributionLocation": "バトルパス報酬",
+    "startDate": "2026-11-04",
+    "endDate": "2026-12-02",
+    "level": "Lv.50相当(非表示)",
+    "notes": "プレミアムバトルパス購入で解放される報酬。同じパスの報酬にメガストーン「ボーマンダナイト」「ガブリアスナイトＺ」もある。期間は2026-12-02 10:59まで。",
+    "references": [
+      {
+        "url": "https://champions-news.pokemon-home.com/ja/page/868.html"
+      }
+    ],
+    "region": "全世界",
+    "ivs": "6V"
+  },
+  {
+    "managementId": "CH-BP-M8-02",
+    "pokemonName": "ガブリアス",
+    "dexNo": 445,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "gameIds": [
+      "pokemon_champions"
+    ],
+    "eventName": "シーズンM-8 バトルパス",
+    "tournamentType": "Champions",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-11-04〜2026-12-02",
+    "distributionMethod": "プレミアムバトルパス",
+    "distributionLocation": "バトルパス報酬",
+    "startDate": "2026-11-04",
+    "endDate": "2026-12-02",
+    "level": "Lv.50相当(非表示)",
+    "notes": "プレミアムバトルパス購入で解放される報酬。同じパスの報酬にメガストーン「ボーマンダナイト」「ガブリアスナイトＺ」もある。期間は2026-12-02 10:59まで。",
+    "references": [
+      {
+        "url": "https://champions-news.pokemon-home.com/ja/page/868.html"
+      }
+    ],
+    "region": "全世界",
+    "ivs": "6V"
+  },
+  {
+    "managementId": "CH-BP-M8-03",
+    "pokemonName": "インテレオン",
+    "dexNo": 818,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "gameIds": [
+      "pokemon_champions"
+    ],
+    "eventName": "シーズンM-8 バトルパス",
+    "tournamentType": "Champions",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-11-04〜2026-12-02",
+    "distributionMethod": "バトルパス",
+    "distributionLocation": "バトルパス報酬",
+    "startDate": "2026-11-04",
+    "endDate": "2026-12-02",
+    "level": "Lv.50相当(非表示)",
+    "notes": "無料のバトルパスの報酬。期間は2026-12-02 10:59まで。",
+    "references": [
+      {
+        "url": "https://champions-news.pokemon-home.com/ja/page/868.html"
+      }
+    ],
+    "region": "全世界",
+    "ivs": "6V"
+  },
+  {
+    "managementId": "CH18",
+    "pokemonName": "ネギガナイト",
+    "dexNo": 865,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "gameIds": [
+      "pokemon_champions"
+    ],
+    "eventName": "マンスリーチャレンジシリーズ 2026.10 参加賞",
+    "tournamentType": "Champions",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-10-23〜2026-10-26",
+    "distributionMethod": "大会参加賞",
+    "distributionLocation": "メールボックス",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-26",
+    "level": "Lv.50相当(非表示)",
+    "notes": "公式オンライン大会（シングルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。ファストクーポン100枚・称号も付与。開催期間は2026-10-23 11:00〜2026-10-26 10:59（エントリーは2026-10-16 11:00から）。",
+    "references": [
+      {
+        "url": "https://champions-news.pokemon-home.com/ja/page/847.html"
+      }
+    ],
+    "region": "全世界",
+    "ivs": "6V"
+  },
+  {
+    "managementId": "CH19",
+    "pokemonName": "イダイトウ",
+    "dexNo": 902,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "gameIds": [
+      "pokemon_champions"
+    ],
+    "eventName": "グローバルチャレンジ2027 II 参加賞",
+    "tournamentType": "Champions",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-10-30〜2026-11-02",
+    "distributionMethod": "大会参加賞",
+    "distributionLocation": "メールボックス",
+    "startDate": "2026-10-30",
+    "endDate": "2026-11-02",
+    "level": "Lv.50相当(非表示)",
+    "gender": "♂",
+    "notes": "公式オンライン大会（ダブルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。公式表記は「イダイトウ（オスのすがた）」。開催期間は2026-10-30 11:00〜2026-11-02 10:59（エントリーは2026-10-23 11:00から）。",
+    "references": [
+      {
+        "url": "https://champions-news.pokemon-home.com/ja/page/848.html"
+      }
+    ],
+    "region": "全世界",
+    "ivs": "6V"
+  },
+  {
+    "managementId": "CH20",
+    "pokemonName": "パーモット",
+    "dexNo": 923,
+    "generation": 0,
+    "game": "Pokémon Champions",
+    "gameIds": [
+      "pokemon_champions"
+    ],
+    "eventName": "マンスリーチャレンジシリーズ 2026.11 参加賞",
+    "tournamentType": "Champions",
+    "tournamentYear": 2026,
+    "tournamentSchedule": "2026-11-20〜2026-11-23",
+    "distributionMethod": "大会参加賞",
+    "distributionLocation": "メールボックス",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-23",
+    "level": "Lv.50相当(非表示)",
+    "notes": "公式オンライン大会（シングルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。ファストクーポン100枚・称号も付与。開催期間は2026-11-20 11:00〜2026-11-23 10:59（エントリーは2026-11-13 11:00から）。",
+    "references": [
+      {
+        "url": "https://champions-news.pokemon-home.com/ja/page/869.html"
+      }
+    ],
+    "region": "全世界",
     "ivs": "6V"
   }
 ]

@@ -929,6 +929,22 @@
     "group": "PocoPoke",
     "paired_with": [],
     "region": null,
+    "dlc": [
+      {
+        "id": "bubbly-basin",
+        "name": "ブクブクうみぞこの街",
+        "name_en": "Bubbly Basin",
+        "releaseDate_jp": "2026-08-05",
+        "releaseDate_us": null
+      },
+      {
+        "id": "dazzling-decorations",
+        "name": "どきどきデコレーション",
+        "name_en": "Dazzling Decorations",
+        "releaseDate_jp": "2026-12-09",
+        "releaseDate_us": null
+      }
+    ],
     "home": {
       "send": false,
       "receive": false

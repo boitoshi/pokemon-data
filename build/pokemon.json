@@ -1798,6 +1798,31 @@
     ]
   },
   {
+    "managementId": "03051",
+    "pokemonName": "セレビィ",
+    "dexNo": 251,
+    "generation": 3,
+    "game": "HOME",
+    "gameIds": [
+      "home"
+    ],
+    "eventName": "ミツリンのセレビィ（ファイアレッド・リーフグリーン Switch版のソフト図鑑完成）",
+    "distributionMethod": "プレゼントボックス",
+    "startDate": "2026-10-07",
+    "ot": "ミツリン",
+    "notes": "スマートフォン版『Pokémon HOME』で、Nintendo Switch 版『ファイアレッド・リーフグリーン』のソフト図鑑「カントー図鑑（GBA）」を完成させて確認すると、「ふしぎなおくりもの」で受け取れる。すでに完成済みでも受け取れる。1つのニンテンドーアカウントにつき1回。",
+    "references": [
+      {
+        "url": "https://news.pokemon-home.com/ja/page/842.html",
+        "label": "Pokémon HOME お知らせ 2026年10月7日（『ファイアレッド・リーフグリーン』の「ソフト図鑑」完成でプレゼント。親名「ミツリン」のセレビィ）"
+      },
+      {
+        "url": "https://www.pokemon.co.jp/ex/pokemonhome/ja/topics/2026/1007_01.html",
+        "label": "Pokémon HOME トピックス（ソフト図鑑を完成させてミツリンの「セレビィ」を受け取ろう！）"
+      }
+    ]
+  },
+  {
     "managementId": "04001",
     "pokemonName": "ペラップ",
     "dexNo": 441,
@@ -31902,6 +31927,98 @@
       }
     ],
     "region": "全世界"
+  },
+  {
+    "managementId": "09119",
+    "pokemonName": "ワッカネズミ",
+    "dexNo": 924,
+    "generation": 9,
+    "game": "HOME",
+    "gameIds": [
+      "home"
+    ],
+    "eventName": "わくわくおたんじょうびのワッカネズミ（HOME受け取り）",
+    "distributionMethod": "プレゼントボックス",
+    "distributionLocation": "ポケモンセンター",
+    "startDate": "2024-11-01",
+    "endDate": "2025-10-31",
+    "notes": "ポケモンセンター店頭に Nintendo Switch 本体を持っていくのが難しい場合、スマートフォン版『Pokémon HOME』の「ふしぎなおくりもの」で店頭で直接受け取れた。シリアルコードの配信（id: 09073）との併用はできない。もらえるのはお誕生月の1か月間。",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/info/2024/10/241004_p01.html",
+        "label": "「ポケモンセンターわくわくおたんじょうび」がリニューアル！（2024年11月1日〜。HOMEの「ふしぎなおくりもの」で店頭で直接受け取り、シリアルコードとの併用不可）"
+      }
+    ],
+    "region": "日本"
+  },
+  {
+    "managementId": "09120",
+    "pokemonName": "パピモッチ",
+    "dexNo": 926,
+    "generation": 9,
+    "game": "HOME",
+    "gameIds": [
+      "home"
+    ],
+    "eventName": "わくわくおたんじょうびのパピモッチ（2025-2026・HOME受け取り）",
+    "distributionMethod": "プレゼントボックス",
+    "distributionLocation": "ポケモンセンター",
+    "startDate": "2025-11-01",
+    "endDate": "2026-10-31",
+    "notes": "ポケモンセンター店頭にゲーム機本体を持っていくのが難しい場合、スマートフォン版『Pokémon HOME』の「ふしぎなおくりもの」で直接受け取れた。シリアルコードの配信（id: 09098）との併用はできない。同じ年のタブンネは HOME の「ふしぎなカード」でシリアルコードを受け取り Z-A で使う方式で、HOME への直接配信ではない。もらえるのはお誕生月の1か月間。",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/info/2025/10/251003_p02.html",
+        "label": "わくわくおたんじょうび 2025-2026（パピモッチはHOMEの「ふしぎなおくりもの」で直接受け取り、シリアルコードのカードとの併用不可）"
+      }
+    ],
+    "region": "日本"
+  },
+  {
+    "managementId": "09121",
+    "pokemonName": "パピモッチ",
+    "dexNo": 926,
+    "generation": 9,
+    "game": "HOME",
+    "gameIds": [
+      "home"
+    ],
+    "eventName": "わくわくおたんじょうびのパピモッチ（2026-2027・HOME受け取り）",
+    "distributionMethod": "プレゼントボックス",
+    "distributionLocation": "ポケモンセンター",
+    "startDate": "2026-11-01",
+    "endDate": "2027-10-31",
+    "notes": "ポケモンセンター店頭にゲーム機本体を持っていくのが難しい場合、スマートフォン版『Pokémon HOME』の「ふしぎなおくりもの」で直接受け取れる。シリアルコードの配信は id: 09116。もらえるのはお誕生月の1か月間。",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/shop/pokecen/birthday/",
+        "label": "ポケモンセンター店頭のわくわくおたんじょうび（プレゼント期間 2026年11月1日〜2027年10月31日。HOMEの「ふしぎなおくりもの」で直接受け取り）"
+      }
+    ],
+    "region": "日本"
+  },
+  {
+    "managementId": "09122",
+    "pokemonName": "タブンネ",
+    "dexNo": 531,
+    "generation": 9,
+    "game": "HOME",
+    "gameIds": [
+      "home"
+    ],
+    "eventName": "わくわくおたんじょうびのタブンネ（2026-2027・HOME受け取り）",
+    "distributionMethod": "プレゼントボックス",
+    "distributionLocation": "ポケモンセンター",
+    "startDate": "2026-11-01",
+    "endDate": "2027-10-31",
+    "notes": "ポケモンセンター店頭にゲーム機本体を持っていくのが難しい場合、スマートフォン版『Pokémon HOME』の「ふしぎなおくりもの」で直接受け取れる。シリアルコードの配信は id: 09117。もらえるのはお誕生月の1か月間。",
+    "references": [
+      {
+        "url": "https://www.pokemon.co.jp/shop/pokecen/birthday/",
+        "label": "ポケモンセンター店頭のわくわくおたんじょうび（プレゼント期間 2026年11月1日〜2027年10月31日。HOMEの「ふしぎなおくりもの」で直接受け取り）"
+      }
+    ],
+    "region": "日本"
   },
   {
     "managementId": "CH01",

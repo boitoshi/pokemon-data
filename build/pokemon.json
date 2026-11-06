@@ -31877,6 +31877,33 @@
     "region": "日本"
   },
   {
+    "managementId": "09118",
+    "pokemonName": "ビビヨン（ボールのもよう）",
+    "dexNo": 666,
+    "generation": 9,
+    "game": "Pokémon LEGENDS Z-A",
+    "gameIds": [
+      "legends_za"
+    ],
+    "eventName": "ボールのもようのビビヨン",
+    "distributionMethod": "インターネット",
+    "distributionLocation": "Vivillon Challenge! の目標達成記念",
+    "startDate": "2026-11-06",
+    "endDate": "2027-02-26",
+    "notes": "世界中のトレーナーの力でたくさんのコフーライがビビヨンに進化し、目標を達成した記念の配信。1つのセーブデータにつき1回受け取れる。",
+    "references": [
+      {
+        "url": "https://plza-news.pokemon-home.com/ja/page/50.html",
+        "label": "Z-A ゲーム内ニュース 2026年11月6日（目標達成・プレゼント中。ふしぎなおくりものの「インターネットで受け取る」から、2027年2月26日（金）10:59まで）"
+      },
+      {
+        "url": "https://www.pokemon.co.jp/ex/legends_z-a/ja/news/261029_02/",
+        "label": "Z-A公式サイト 2026年10月29日（ビビヨンポイントが目標に達したら「ボールのもよう」のビビヨンをプレゼント。開始のタイミングは別途お知らせ）"
+      }
+    ],
+    "region": "全世界"
+  },
+  {
     "managementId": "CH01",
     "pokemonName": "カイリュー",
     "dexNo": 149,

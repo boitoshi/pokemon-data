@@ -1,7 +1,7 @@
 {
   "$schema": "tera-raids-v1",
-  "checkedUntil": "2026-10-30",
-  "checkedAt": "2026-10-27",
+  "checkedUntil": "2026-11-13",
+  "checkedAt": "2026-11-07",
   "commonNotes": [
     "★7の黒い結晶のテラレイドバトルで出会えるポケモンは、1つのセーブデータにつき1匹だけ捕まえられる。捕まえたあとも期間内なら参加して報酬は受け取れる。"
   ],
@@ -926,6 +926,44 @@
       "reward": "さいきょうのあかし",
       "notes": "再登場。最強のメタグロスの翌週の開催。★7黒い結晶。過去のイベントテラレイドバトルで「最強のガブリアス」を捕まえたことがあるセーブデータでは捕まえられない。",
       "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/484.html"
+    },
+    {
+      "id": "sv-2026-10-hydreigon",
+      "raidType": "mightiest",
+      "eventName": "最強のサザンドラ",
+      "pokemonName": "サザンドラ",
+      "dexNo": 635,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "どく",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-06",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "notes": "再登場。最強のガブリアスの翌週の開催。★7黒い結晶。過去のイベントテラレイドバトルで「最強のサザンドラ」を捕まえたことがあるセーブデータでは捕まえられない。",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/485.html"
+    },
+    {
+      "id": "sv-2026-11-goodra",
+      "raidType": "mightiest",
+      "eventName": "最強のヌメルゴン",
+      "pokemonName": "ヌメルゴン",
+      "dexNo": 706,
+      "games": [
+        "scarlet",
+        "violet"
+      ],
+      "teraType": "みず",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-13",
+      "startTime": "09:00",
+      "endTime": "08:59",
+      "reward": "さいきょうのあかし",
+      "notes": "再登場。最強のサザンドラの翌週の開催。★7黒い結晶。過去のイベントテラレイドバトルで「最強のヌメルゴン」を捕まえたことがあるセーブデータでは捕まえられない。",
+      "sourceUrl": "https://sv-news.pokemon.co.jp/ja/page/486.html"
     }
   ]
 }

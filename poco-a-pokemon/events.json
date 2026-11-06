@@ -1,7 +1,7 @@
 {
   "$schema": "poco-a-pokemon-events-v1",
-  "checkedUntil": "2026-11-01",
-  "checkedAt": "2026-10-27",
+  "checkedUntil": "2026-12-01",
+  "checkedAt": "2026-11-07",
   "events": [
     {
       "id": "2026-03-hoppip-watage",
@@ -321,6 +321,54 @@
       "notes": "真夜中のお祭りをモチーフにした家具等と交換。交換はどのアイテムも何回でもできるため、exchangeTotalNeeded は0のまま。交換したアイテムで生息地を作るとパンプジンとともだちになれる。「クラウド島」「ブクブクうみぞこの街」では発生しない。ともだちになったポケモンはイベント終了後も街に残る。通信であそぶ場合は「まっさらな街」で、通信開始前にバケッチャに話しかけておく必要がある（見学モードは不可）。開催期間中に開始条件を満たした場合は、一度別の街へ移るか「ゲームをやめる」必要がある。公式は「条件を満たしたのが11/1当日の場合でも、イベントは発生します」としているが、終了は11/1 4:59。2026-10-17 の開催告知（175）でも予告（174）と同じ内容。",
       "sourceUrl": "https://www.pocoapokemon.jp/ja/news/175/",
       "postUrl": "https://www.pokebros.net/pocopoke-event-list/#pumpkaboo2026"
+    },
+    {
+      "id": "2026-11-applin-apple",
+      "eventName": "カジッチュのみついりりんごあつめ",
+      "eventType": "dream-island",
+      "startDate": "2026-11-16",
+      "endDate": "2026-12-01",
+      "startTime": "05:00",
+      "endTime": "04:59",
+      "participationCondition": "ソフト更新Ver.2.0.1以上 ＋ 街の「大事なおねがいごと」をクリアしてポケモンセンターを建て直す ＋ 本体の日時を現実の日時に合わせる ＋ インターネットに接続した状態でソフトを起動する",
+      "specialItem": {
+        "name": "みついりりんご",
+        "source": "ゆめしまの特別な木"
+      },
+      "exchangeNpc": null,
+      "exchangeItems": [],
+      "exchangeTotalNeeded": 0,
+      "eventPokemon": [
+        {
+          "name": "カジッチュ",
+          "dexNo": 840,
+          "rarity": ""
+        },
+        {
+          "name": "アップリュー",
+          "dexNo": 841,
+          "rarity": ""
+        },
+        {
+          "name": "タルップル",
+          "dexNo": 842,
+          "rarity": ""
+        },
+        {
+          "name": "カミッチュ",
+          "dexNo": 1011,
+          "rarity": ""
+        },
+        {
+          "name": "カミツオロチ",
+          "dexNo": 1019,
+          "rarity": ""
+        }
+      ],
+      "eventHabitats": [],
+      "notes": "ポケモンセンターの近くにいるカジッチュのおねがいをきいてともだちになる。ゆめしまで集めた「みついりりんご」をポケモンセンターでりんごをモチーフにした家具等と交換し、交換したアイテムで生息地を作るとアップリュー・タルップル・カミッチュ・カミツオロチとともだちになれる。「クラウド島」「ブクブクうみぞこの街」では発生しない。ともだちになったポケモンはイベント終了後も街に残る。開催期間中に開始条件を満たした場合は、一度別の街へ移動するか「ゲームをやめる」必要がある。「通信であそぶ」場合は「まっさらな街」で、通信開始前にカジッチュに話しかける必要がある。見学モードでは遊べない。",
+      "sourceUrl": "https://www.pocoapokemon.jp/ja/news/193/",
+      "postUrl": "https://www.pokebros.net/pocopoke-event-list/#applin2026"
     }
   ]
 }

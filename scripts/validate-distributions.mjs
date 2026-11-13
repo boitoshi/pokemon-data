@@ -26,6 +26,7 @@ const teraTypeNames = new Set(Object.values(readJson("mappings/types.json")));
 // moveByTeraType を持つエントリの moves[slot] に置く目印
 const TERA_MOVE_MARKER = "（テラスタイプで変わる）";
 const schema = readJson("distributions/schema.json");
+const eventKinds = new Set(schema.$defs.entry.properties.event.properties.kind.enum);
 
 // nature / ability の値集合照合における許容センチネル。
 // "ランダム" ＝ 固定ネイチャー/特性無しと判明した場合の明示値（省略＝不明とは区別）。
@@ -141,6 +142,10 @@ for (const fileName of files) {
       if (!entryPropertyNames.has(key)) {
         throw new Error(`${where}: 未知のフィールド "${key}" があります（distributions/schema.json の entry.properties に未定義）`);
       }
+    }
+
+    if ("event" in entry && !eventKinds.has(entry.event?.kind)) {
+      throw new Error(`${where}: event.kind "${entry.event?.kind}" が distributions/schema.json の enum にありません`);
     }
 
     allEntries.push({ entry, where });
@@ -377,7 +382,7 @@ for (const fileName of files) {
 // ---- id 重複（ファイル間） ----
 for (const [id, fileNames] of idToFiles.entries()) {
   if (fileNames.length > 1) {
-    warn("id-duplicate-across-files", `id "${id}" が複数ファイルに存在します: ${fileNames.join(", ")}`);
+    throw new Error(`id "${id}" が複数ファイルに存在します: ${fileNames.join(", ")}`);
   }
 }
 

@@ -12,6 +12,8 @@ try {
   fs.mkdirSync(path.join(scratch, "games"));
   fs.copyFileSync(path.join(root, "games/titles.json"), path.join(scratch, "games/titles.json"));
   fs.mkdirSync(path.join(scratch, "distributions"));
+  // build-distributions は event.kind の enum を schema から読む
+  fs.copyFileSync(path.join(root, "distributions/schema.json"), path.join(scratch, "distributions/schema.json"));
   const base = {
     dexNo: 25, pokemonName: "ピカチュウ", games: ["ruby"], eventName: "テスト個体",
     distributionMethod: "未確認", startDate: "2003-04-25",

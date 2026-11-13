@@ -4440,6 +4440,29 @@
       "region": [
         "全世界"
       ],
+      "level": 66,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "ot": {
+        "JPN": "カロス",
+        "ENG": "Kalos",
+        "SPA": "Kalos",
+        "FRE": "Kalos",
+        "GER": "Kalos",
+        "ITA": "Kalos",
+        "KOR": "칼로스",
+        "CHS": "卡洛斯",
+        "CHT": "卡洛斯"
+      },
+      "trainerId": "261029",
+      "moves": [
+        "むしのさざめき",
+        "ぼうふう",
+        "しんぴのまもり",
+        "ふきとばし"
+      ],
       "notes": "世界中のトレーナーの力でたくさんのコフーライがビビヨンに進化し、目標を達成した記念の配信。1つのセーブデータにつき1回受け取れる。",
       "references": [
         {
@@ -4449,8 +4472,13 @@
         {
           "url": "https://www.pokemon.co.jp/ex/legends_z-a/ja/news/261029_02/",
           "label": "Z-A公式サイト 2026年10月29日（ビビヨンポイントが目標に達したら「ボールのもよう」のビビヨンをプレゼント。開始のタイミングは別途お知らせ）"
+        },
+        {
+          "url": "https://www.serebii.net/legendsz-a/internetevents.shtml",
+          "label": "Serebii.net Pokémon Legends: Z-A Internet Events（個体情報: レベル66・親名Kalos・ID 261029・わざ4種）"
         }
-      ]
+      ],
+      "postUrl": "https://www.pokebros.net/za-pokeball-vivillon/"
     },
     {
       "id": "09119",
@@ -4543,6 +4571,85 @@
           "label": "ポケモンセンター店頭のわくわくおたんじょうび（プレゼント期間 2026年11月1日〜2027年10月31日。HOMEの「ふしぎなおくりもの」で直接受け取り）"
         }
       ]
+    },
+    {
+      "id": "09123",
+      "dexNo": 716,
+      "pokemonName": "ゼルネアス",
+      "games": [
+        "legends_za"
+      ],
+      "eventName": "色違いのゼルネアス",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "ポケモン30周年キャンペーン（第1弾）",
+      "startDate": "2026-11-12",
+      "endDate": "2027-01-07",
+      "region": [
+        "全世界"
+      ],
+      "level": 100,
+      "gender": "なし",
+      "nature": "ひかえめ",
+      "ability": "フェアリーオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきな場所",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "カロス",
+        "ENG": "Kalos",
+        "SPA": "Kalos",
+        "FRE": "Kalos",
+        "GER": "Kalos",
+        "ITA": "Kalos",
+        "KOR": "칼로스",
+        "CHS": "卡洛斯",
+        "CHT": "卡洛斯"
+      },
+      "trainerId": "261112",
+      "moves": [
+        "ジオコントロール",
+        "ムーンフォース",
+        "10まんボルト",
+        "きあいだま"
+      ],
+      "password": "CELEBRATE30TH",
+      "notes": "ポケモン30周年キャンペーンの第1弾。あいことばは『ぽこ あ ポケモン』と共通で、そちらでは家具セット「おしゃれキラキラセット」が受け取れる。1つのセーブデータにつき1回だけ受け取れる。2015年にアニメ『ポケットモンスター XY&Z』の放送開始記念で配られた色違いゼルネアス（06052）とは、親名・わざ・性格が異なる。",
+      "references": [
+        {
+          "url": "https://www.pokemon.co.jp/info/2026/11/261112_gm01.html",
+          "label": "ポケモン公式サイト 2026年11月12日（あいことばキャンペーン概要・配信期間・CELEBRATE30TH）"
+        },
+        {
+          "url": "https://www.serebii.net/legendsz-a/serialcode.shtml",
+          "label": "Serebii.net Pokémon Legends: Z-A Serial Code Events（個体情報: レベル100・親名Kalos・ID 261112・性格ひかえめ）"
+        }
+      ],
+      "postUrl": "https://www.pokebros.net/za-shiny-xerneas/"
+    },
+    {
+      "id": "09124",
+      "dexNo": 717,
+      "pokemonName": "イベルタル",
+      "games": [
+        "legends_za"
+      ],
+      "eventName": "色違いのイベルタル",
+      "distributionMethod": "あいことば",
+      "distributionLocation": "ポケモン30周年キャンペーン（第2弾）",
+      "startDate": "2026-12-10",
+      "endDate": "2027-02-04",
+      "region": [
+        "全世界"
+      ],
+      "shiny": "fixed",
+      "notes": "ポケモン30周年キャンペーンの第2弾。あいことばは2026年12月10日に公開予定で、『ぽこ あ ポケモン』と共通（そちらでは家具セット「あったかぬくぬくセット」が受け取れる）。個体の詳細は2026年11月13日時点で未発表。",
+      "references": [
+        {
+          "url": "https://www.pokemon.co.jp/info/2026/11/261112_gm01.html",
+          "label": "ポケモン公式サイト 2026年11月12日（あいことばキャンペーン概要・配信期間・CELEBRATE30TH）"
+        }
+      ],
+      "postUrl": "https://www.pokebros.net/za-shiny-yveltal/"
     }
   ]
 }

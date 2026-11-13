@@ -11583,6 +11583,1468 @@
           "section_needs_review": false
         },
         {
+          "game": "SMUSUM",
+          "section": "Battle Tree (20th battle)",
+          "branch": null,
+          "branch_ja": null,
+          "location": "Battle Tree",
+          "is_league": false,
+          "team": [
+            {
+              "ndex": "0018",
+              "en": "Pidgeot",
+              "ja": "ピジョット",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Charti Berry",
+              "tera": null,
+              "types": [
+                "Normal",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Aerial Ace",
+                  "ja": "つばめがえし"
+                },
+                {
+                  "en": "Steel Wing",
+                  "ja": "はがねのつばさ"
+                },
+                {
+                  "en": "Thief",
+                  "ja": "どろぼう"
+                },
+                {
+                  "en": "Roost",
+                  "ja": "はねやすめ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "ヨロギのみ"
+            },
+            {
+              "ndex": "0065",
+              "en": "Alakazam",
+              "ja": "フーディン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Twisted Spoon",
+              "tera": null,
+              "types": [
+                "Psychic"
+              ],
+              "moves": [
+                {
+                  "en": "Energy Ball",
+                  "ja": "エナジーボール"
+                },
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                },
+                {
+                  "en": "Telekinesis",
+                  "ja": "テレキネシス"
+                },
+                {
+                  "en": "Guard Split",
+                  "ja": "ガードシェア"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "エスパー"
+              ],
+              "tera_ja": null,
+              "item_ja": "まがったスプーン"
+            },
+            {
+              "ndex": "0068",
+              "en": "Machamp",
+              "ja": "カイリキー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Rawst Berry",
+              "tera": null,
+              "types": [
+                "Fighting"
+              ],
+              "moves": [
+                {
+                  "en": "Dynamic Punch",
+                  "ja": "ばくれつパンチ"
+                },
+                {
+                  "en": "Payback",
+                  "ja": "しっぺがえし"
+                },
+                {
+                  "en": "Foresight",
+                  "ja": "みやぶる"
+                },
+                {
+                  "en": "Wide Guard",
+                  "ja": "ワイドガード"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "かくとう"
+              ],
+              "tera_ja": null,
+              "item_ja": "チーゴのみ"
+            },
+            {
+              "ndex": "0142",
+              "en": "Aerodactyl",
+              "ja": "プテラ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Choice Scarf",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "こだわりスカーフ"
+            },
+            {
+              "ndex": "0142",
+              "en": "Aerodactyl",
+              "ja": "プテラ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Choice Scarf",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Iron Head",
+                  "ja": "アイアンヘッド"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Ice Fang",
+                  "ja": "こおりのキバ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "こだわりスカーフ"
+            },
+            {
+              "ndex": "0103",
+              "en": "Exeggutor",
+              "ja": "ナッシー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Petaya Berry",
+              "tera": null,
+              "types": [
+                "Grass",
+                "Psychic"
+              ],
+              "moves": [
+                {
+                  "en": "Psyshock",
+                  "ja": "サイコショック"
+                },
+                {
+                  "en": "Grass Knot",
+                  "ja": "くさむすび"
+                },
+                {
+                  "en": "Light Screen",
+                  "ja": "ひかりのかべ"
+                },
+                {
+                  "en": "Synthesis",
+                  "ja": "こうごうせい"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "くさ",
+                "エスパー"
+              ],
+              "tera_ja": null,
+              "item_ja": "ヤタピのみ"
+            },
+            {
+              "ndex": "0464",
+              "en": "Rhyperior",
+              "ja": "ドサイドン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Zoom Lens",
+              "tera": null,
+              "types": [
+                "Ground",
+                "Rock"
+              ],
+              "moves": [
+                {
+                  "en": "Payback",
+                  "ja": "しっぺがえし"
+                },
+                {
+                  "en": "Rock Blast",
+                  "ja": "ロックブラスト"
+                },
+                {
+                  "en": "Stone Edge",
+                  "ja": "ストーンエッジ"
+                },
+                {
+                  "en": "Protect",
+                  "ja": "まもる"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "じめん",
+                "いわ"
+              ],
+              "tera_ja": null,
+              "item_ja": "フォーカスレンズ"
+            },
+            {
+              "ndex": "0130",
+              "en": "Gyarados",
+              "ja": "ギャラドス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Muscle Band",
+              "tera": null,
+              "types": [
+                "Water",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Ice Fang",
+                  "ja": "こおりのキバ"
+                },
+                {
+                  "en": "Aqua Tail",
+                  "ja": "アクアテール"
+                },
+                {
+                  "en": "Thunder Wave",
+                  "ja": "でんじは"
+                },
+                {
+                  "en": "Dragon Dance",
+                  "ja": "りゅうのまい"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "ちからのハチマキ"
+            },
+            {
+              "ndex": "0059",
+              "en": "Arcanine",
+              "ja": "ウインディ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Firium Z",
+              "tera": null,
+              "types": [
+                "Fire"
+              ],
+              "moves": [
+                {
+                  "en": "Flamethrower",
+                  "ja": "かえんほうしゃ"
+                },
+                {
+                  "en": "Solar Beam",
+                  "ja": "ソーラービーム"
+                },
+                {
+                  "en": "Burn Up",
+                  "ja": "もえつきる"
+                },
+                {
+                  "en": "Sunny Day",
+                  "ja": "にほんばれ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお"
+              ],
+              "tera_ja": null,
+              "item_ja": "ホノオＺ"
+            },
+            {
+              "ndex": "0248",
+              "en": "Tyranitar",
+              "ja": "バンギラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Iron Ball",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Stealth Rock",
+                  "ja": "ステルスロック"
+                },
+                {
+                  "en": "Thunder Wave",
+                  "ja": "でんじは"
+                },
+                {
+                  "en": "Fling",
+                  "ja": "なげつける"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "くろいてっきゅう"
+            },
+            {
+              "ndex": "0018",
+              "en": "Pidgeot",
+              "ja": "ピジョット",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Flyinium Z",
+              "tera": null,
+              "types": [
+                "Normal",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Mirror Move",
+                  "ja": "オウムがえし"
+                },
+                {
+                  "en": "Twister",
+                  "ja": "たつまき"
+                },
+                {
+                  "en": "Sand Attack",
+                  "ja": "すなかけ"
+                },
+                {
+                  "en": "Double Team",
+                  "ja": "かげぶんしん"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "ヒコウＺ"
+            },
+            {
+              "ndex": "0065",
+              "en": "Alakazam",
+              "ja": "フーディン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Focus Sash",
+              "tera": null,
+              "types": [
+                "Psychic"
+              ],
+              "moves": [
+                {
+                  "en": "Psych Up",
+                  "ja": "じこあんじ"
+                },
+                {
+                  "en": "Encore",
+                  "ja": "アンコール"
+                },
+                {
+                  "en": "Protect",
+                  "ja": "まもる"
+                },
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "エスパー"
+              ],
+              "tera_ja": null,
+              "item_ja": "きあいのタスキ"
+            },
+            {
+              "ndex": "0068",
+              "en": "Machamp",
+              "ja": "カイリキー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Expert Belt",
+              "tera": null,
+              "types": [
+                "Fighting"
+              ],
+              "moves": [
+                {
+                  "en": "Ice Punch",
+                  "ja": "れいとうパンチ"
+                },
+                {
+                  "en": "Cross Chop",
+                  "ja": "クロスチョップ"
+                },
+                {
+                  "en": "Fire Punch",
+                  "ja": "ほのおのパンチ"
+                },
+                {
+                  "en": "Focus Energy",
+                  "ja": "きあいだめ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "かくとう"
+              ],
+              "tera_ja": null,
+              "item_ja": "たつじんのおび"
+            },
+            {
+              "ndex": "0142",
+              "en": "Aerodactyl",
+              "ja": "プテラ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Passho Berry",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Roost",
+                  "ja": "はねやすめ"
+                },
+                {
+                  "en": "Sky Drop",
+                  "ja": "フリーフォール"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "イトケのみ"
+            },
+            {
+              "ndex": "0464",
+              "en": "Rhyperior",
+              "ja": "ドサイドン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Hard Stone",
+              "tera": null,
+              "types": [
+                "Ground",
+                "Rock"
+              ],
+              "moves": [
+                {
+                  "en": "Rock Wrecker",
+                  "ja": "がんせきほう"
+                },
+                {
+                  "en": "Rock Polish",
+                  "ja": "ロックカット"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "じめん",
+                "いわ"
+              ],
+              "tera_ja": null,
+              "item_ja": "かたいいし"
+            },
+            {
+              "ndex": "0464",
+              "en": "Rhyperior",
+              "ja": "ドサイドン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Hard Stone",
+              "tera": null,
+              "types": [
+                "Ground",
+                "Rock"
+              ],
+              "moves": [
+                {
+                  "en": "Rock Wrecker",
+                  "ja": "がんせきほう"
+                },
+                {
+                  "en": "Rock Polish",
+                  "ja": "ロックカット"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Ice Punch",
+                  "ja": "れいとうパンチ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "じめん",
+                "いわ"
+              ],
+              "tera_ja": null,
+              "item_ja": "かたいいし"
+            },
+            {
+              "ndex": "0130",
+              "en": "Gyarados",
+              "ja": "ギャラドス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Normalium Z",
+              "tera": null,
+              "types": [
+                "Water",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Waterfall",
+                  "ja": "たきのぼり"
+                },
+                {
+                  "en": "Rest",
+                  "ja": "ねむる"
+                },
+                {
+                  "en": "Bulldoze",
+                  "ja": "じならし"
+                },
+                {
+                  "en": "Giga Impact",
+                  "ja": "ギガインパクト"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "ノーマルＺ"
+            },
+            {
+              "ndex": "0059",
+              "en": "Arcanine",
+              "ja": "ウインディ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Weakness Policy",
+              "tera": null,
+              "types": [
+                "Fire"
+              ],
+              "moves": [
+                {
+                  "en": "Extreme Speed",
+                  "ja": "しんそく"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Overheat",
+                  "ja": "オーバーヒート"
+                },
+                {
+                  "en": "Roar",
+                  "ja": "ほえる"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお"
+              ],
+              "tera_ja": null,
+              "item_ja": "じゃくてんほけん"
+            },
+            {
+              "ndex": "0248",
+              "en": "Tyranitar",
+              "ja": "バンギラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "King's Rock",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Ice Beam",
+                  "ja": "れいとうビーム"
+                },
+                {
+                  "en": "Dragon Dance",
+                  "ja": "りゅうのまい"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "おうじゃのしるし"
+            }
+          ],
+          "game_ja": "サン・ムーン／ウルトラサン・ウルトラムーン",
+          "location_ja": "バトルツリー",
+          "section_ja": "バトルツリー（20戦目）",
+          "section_needs_review": false,
+          "note_ja": "バトルツリーの通常コース20戦目に登場するバトルレジェンドです。下の19セットから4体が選ばれます。マルチではレッドと同時に登場し、2体が選ばれます。性別と特性は対戦ごとにランダムです。プテラとドサイドンのセットは、サン・ムーンとウルトラサン・ウルトラムーンで一部異なります。"
+        },
+{
+          "game": "SMUSUM",
+          "section": "Battle Tree (50th battle)",
+          "branch": null,
+          "branch_ja": null,
+          "location": "Battle Tree",
+          "is_league": false,
+          "team": [
+            {
+              "ndex": "0018",
+              "en": "Pidgeot",
+              "ja": "ピジョット",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Pidgeotite",
+              "tera": null,
+              "types": [
+                "Normal",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Hurricane",
+                  "ja": "ぼうふう"
+                },
+                {
+                  "en": "Hyper Beam",
+                  "ja": "はかいこうせん"
+                },
+                {
+                  "en": "Tailwind",
+                  "ja": "おいかぜ"
+                },
+                {
+                  "en": "Quick Attack",
+                  "ja": "でんこうせっか"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "ピジョットナイト"
+            },
+            {
+              "ndex": "0065",
+              "en": "Alakazam",
+              "ja": "フーディン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Alakazite",
+              "tera": null,
+              "types": [
+                "Psychic"
+              ],
+              "moves": [
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                },
+                {
+                  "en": "Focus Blast",
+                  "ja": "きあいだま"
+                },
+                {
+                  "en": "Shadow Ball",
+                  "ja": "シャドーボール"
+                },
+                {
+                  "en": "Grass Knot",
+                  "ja": "くさむすび"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "エスパー"
+              ],
+              "tera_ja": null,
+              "item_ja": "フーディナイト"
+            },
+            {
+              "ndex": "0068",
+              "en": "Machamp",
+              "ja": "カイリキー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Choice Scarf",
+              "tera": null,
+              "types": [
+                "Fighting"
+              ],
+              "moves": [
+                {
+                  "en": "Dynamic Punch",
+                  "ja": "ばくれつパンチ"
+                },
+                {
+                  "en": "Ice Punch",
+                  "ja": "れいとうパンチ"
+                },
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "かくとう"
+              ],
+              "tera_ja": null,
+              "item_ja": "こだわりスカーフ"
+            },
+            {
+              "ndex": "0142",
+              "en": "Aerodactyl",
+              "ja": "プテラ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Aerodactylite",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Sky Drop",
+                  "ja": "フリーフォール"
+                },
+                {
+                  "en": "Iron Head",
+                  "ja": "アイアンヘッド"
+                },
+                {
+                  "en": "Fire Fang",
+                  "ja": "ほのおのキバ"
+                },
+                {
+                  "en": "Thunder Fang",
+                  "ja": "かみなりのキバ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "プテラナイト"
+            },
+            {
+              "ndex": "0103",
+              "en": "Exeggutor",
+              "ja": "ナッシー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Grassium Z",
+              "tera": null,
+              "types": [
+                "Grass",
+                "Psychic"
+              ],
+              "moves": [
+                {
+                  "en": "Leaf Storm",
+                  "ja": "リーフストーム"
+                },
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                },
+                {
+                  "en": "Sludge Bomb",
+                  "ja": "ヘドロばくだん"
+                },
+                {
+                  "en": "Grassy Terrain",
+                  "ja": "グラスフィールド"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "くさ",
+                "エスパー"
+              ],
+              "tera_ja": null,
+              "item_ja": "クサＺ"
+            },
+            {
+              "ndex": "0464",
+              "en": "Rhyperior",
+              "ja": "ドサイドン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Focus Sash",
+              "tera": null,
+              "types": [
+                "Ground",
+                "Rock"
+              ],
+              "moves": [
+                {
+                  "en": "Horn Drill",
+                  "ja": "つのドリル"
+                },
+                {
+                  "en": "Reversal",
+                  "ja": "きしかいせい"
+                },
+                {
+                  "en": "Payback",
+                  "ja": "しっぺがえし"
+                },
+                {
+                  "en": "Metal Burst",
+                  "ja": "メタルバースト"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "じめん",
+                "いわ"
+              ],
+              "tera_ja": null,
+              "item_ja": "きあいのタスキ"
+            },
+            {
+              "ndex": "0130",
+              "en": "Gyarados",
+              "ja": "ギャラドス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Wacan Berry",
+              "tera": null,
+              "types": [
+                "Water",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Dragon Dance",
+                  "ja": "りゅうのまい"
+                },
+                {
+                  "en": "Waterfall",
+                  "ja": "たきのぼり"
+                },
+                {
+                  "en": "Ice Fang",
+                  "ja": "こおりのキバ"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "ソクノのみ"
+            },
+            {
+              "ndex": "0059",
+              "en": "Arcanine",
+              "ja": "ウインディ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "White Herb",
+              "tera": null,
+              "types": [
+                "Fire"
+              ],
+              "moves": [
+                {
+                  "en": "Overheat",
+                  "ja": "オーバーヒート"
+                },
+                {
+                  "en": "Sunny Day",
+                  "ja": "にほんばれ"
+                },
+                {
+                  "en": "Solar Beam",
+                  "ja": "ソーラービーム"
+                },
+                {
+                  "en": "Extreme Speed",
+                  "ja": "しんそく"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお"
+              ],
+              "tera_ja": null,
+              "item_ja": "しろいハーブ"
+            },
+            {
+              "ndex": "0248",
+              "en": "Tyranitar",
+              "ja": "バンギラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Chople Berry",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Dragon Dance",
+                  "ja": "りゅうのまい"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "ヨプのみ"
+            },
+            {
+              "ndex": "0018",
+              "en": "Pidgeot",
+              "ja": "ピジョット",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Pidgeotite",
+              "tera": null,
+              "types": [
+                "Normal",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Hurricane",
+                  "ja": "ぼうふう"
+                },
+                {
+                  "en": "Feather Dance",
+                  "ja": "フェザーダンス"
+                },
+                {
+                  "en": "Roost",
+                  "ja": "はねやすめ"
+                },
+                {
+                  "en": "Hyper Beam",
+                  "ja": "はかいこうせん"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "ピジョットナイト"
+            },
+            {
+              "ndex": "0065",
+              "en": "Alakazam",
+              "ja": "フーディン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Choice Specs",
+              "tera": null,
+              "types": [
+                "Psychic"
+              ],
+              "moves": [
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                },
+                {
+                  "en": "Focus Blast",
+                  "ja": "きあいだま"
+                },
+                {
+                  "en": "Dazzling Gleam",
+                  "ja": "マジカルシャイン"
+                },
+                {
+                  "en": "Trick",
+                  "ja": "トリック"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "エスパー"
+              ],
+              "tera_ja": null,
+              "item_ja": "こだわりメガネ"
+            },
+            {
+              "ndex": "0068",
+              "en": "Machamp",
+              "ja": "カイリキー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Flame Orb",
+              "tera": null,
+              "types": [
+                "Fighting"
+              ],
+              "moves": [
+                {
+                  "en": "Protect",
+                  "ja": "まもる"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Close Combat",
+                  "ja": "インファイト"
+                },
+                {
+                  "en": "Payback",
+                  "ja": "しっぺがえし"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "かくとう"
+              ],
+              "tera_ja": null,
+              "item_ja": "かえんだま"
+            },
+            {
+              "ndex": "0142",
+              "en": "Aerodactyl",
+              "ja": "プテラ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Choice Band",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Stone Edge",
+                  "ja": "ストーンエッジ"
+                },
+                {
+                  "en": "Aerial Ace",
+                  "ja": "つばめがえし"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "こだわりハチマキ"
+            },
+            {
+              "ndex": "0464",
+              "en": "Rhyperior",
+              "ja": "ドサイドン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Rockium Z",
+              "tera": null,
+              "types": [
+                "Ground",
+                "Rock"
+              ],
+              "moves": [
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Hammer Arm",
+                  "ja": "アームハンマー"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Protect",
+                  "ja": "まもる"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "じめん",
+                "いわ"
+              ],
+              "tera_ja": null,
+              "item_ja": "イワＺ"
+            },
+            {
+              "ndex": "0130",
+              "en": "Gyarados",
+              "ja": "ギャラドス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Gyaradosite",
+              "tera": null,
+              "types": [
+                "Water",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Dragon Dance",
+                  "ja": "りゅうのまい"
+                },
+                {
+                  "en": "Waterfall",
+                  "ja": "たきのぼり"
+                },
+                {
+                  "en": "Stone Edge",
+                  "ja": "ストーンエッジ"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "ギャラドスナイト"
+            },
+            {
+              "ndex": "0059",
+              "en": "Arcanine",
+              "ja": "ウインディ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Fightinium Z",
+              "tera": null,
+              "types": [
+                "Fire"
+              ],
+              "moves": [
+                {
+                  "en": "Close Combat",
+                  "ja": "インファイト"
+                },
+                {
+                  "en": "Flare Blitz",
+                  "ja": "フレアドライブ"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Extreme Speed",
+                  "ja": "しんそく"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお"
+              ],
+              "tera_ja": null,
+              "item_ja": "カクトウＺ"
+            },
+            {
+              "ndex": "0248",
+              "en": "Tyranitar",
+              "ja": "バンギラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Tyranitarite",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Stone Edge",
+                  "ja": "ストーンエッジ"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Ice Fang",
+                  "ja": "こおりのキバ"
+                },
+                {
+                  "en": "Payback",
+                  "ja": "しっぺがえし"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "バンギラスナイト"
+            }
+          ],
+          "game_ja": "サン・ムーン／ウルトラサン・ウルトラムーン",
+          "location_ja": "バトルツリー",
+          "section_ja": "バトルツリー（50戦目）",
+          "section_needs_review": false,
+          "note_ja": "バトルツリーのスーパーコース50戦目に登場するバトルレジェンドです。下の17セットから4体が選ばれます。マルチではレッドと同時に登場し、2体が選ばれます。性別と特性は対戦ごとにランダムです。"
+        },
+{
           "game": "PE",
           "section": "First battle",
           "branch": null,
@@ -11930,6 +13392,1361 @@
       "role_ja": "チャンピオン",
       "type_en": null,
       "type_ja": null
+    },
+    {
+      "page": "Red (game)",
+      "en": "Red",
+      "ja": "レッド",
+      "role": "champion",
+      "region": "カントー",
+      "order": 7,
+      "role_ja": "チャンピオン",
+      "type_en": null,
+      "type_ja": null,
+      "parties": [
+        {
+          "game": "SM",
+          "section": "First possible battle",
+          "branch": null,
+          "branch_ja": null,
+          "location": "Battle Tree",
+          "is_league": false,
+          "team": [
+            {
+              "ndex": "0025",
+              "en": "Pikachu",
+              "ja": "ピカチュウ",
+              "form": null,
+              "level": 70,
+              "gender": "male",
+              "ability_en": "Static",
+              "ability_ja": "せいでんき",
+              "item": "Light Ball",
+              "tera": null,
+              "types": [
+                "Electric"
+              ],
+              "moves": [
+                {
+                  "en": "Volt Tackle",
+                  "ja": "ボルテッカー"
+                },
+                {
+                  "en": "Quick Attack",
+                  "ja": "でんこうせっか"
+                },
+                {
+                  "en": "Light Screen",
+                  "ja": "ひかりのかべ"
+                },
+                {
+                  "en": "Nuzzle",
+                  "ja": "ほっぺすりすり"
+                }
+              ],
+              "gender_ja": "オス",
+              "types_ja": [
+                "でんき"
+              ],
+              "tera_ja": null,
+              "item_ja": "でんきだま"
+            },
+            {
+              "ndex": "0003",
+              "en": "Venusaur",
+              "ja": "フシギバナ",
+              "form": null,
+              "level": 66,
+              "gender": "male",
+              "ability_en": "Overgrow",
+              "ability_ja": "しんりょく",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Grass",
+                "Poison"
+              ],
+              "moves": [
+                {
+                  "en": "Bulldoze",
+                  "ja": "じならし"
+                },
+                {
+                  "en": "Leech Seed",
+                  "ja": "やどりぎのタネ"
+                },
+                {
+                  "en": "Leaf Storm",
+                  "ja": "リーフストーム"
+                },
+                {
+                  "en": "Sludge Bomb",
+                  "ja": "ヘドロばくだん"
+                }
+              ],
+              "gender_ja": "オス",
+              "types_ja": [
+                "くさ",
+                "どく"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0006",
+              "en": "Charizard",
+              "ja": "リザードン",
+              "form": null,
+              "level": 66,
+              "gender": "male",
+              "ability_en": "Blaze",
+              "ability_ja": "もうか",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Fire",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Will-O-Wisp",
+                  "ja": "おにび"
+                },
+                {
+                  "en": "Fire Blast",
+                  "ja": "だいもんじ"
+                },
+                {
+                  "en": "Air Slash",
+                  "ja": "エアスラッシュ"
+                },
+                {
+                  "en": "Focus Blast",
+                  "ja": "きあいだま"
+                }
+              ],
+              "gender_ja": "オス",
+              "types_ja": [
+                "ほのお",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0009",
+              "en": "Blastoise",
+              "ja": "カメックス",
+              "form": null,
+              "level": 66,
+              "gender": "male",
+              "ability_en": "Torrent",
+              "ability_ja": "げきりゅう",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Water"
+              ],
+              "moves": [
+                {
+                  "en": "Hydro Pump",
+                  "ja": "ハイドロポンプ"
+                },
+                {
+                  "en": "Flash Cannon",
+                  "ja": "ラスターカノン"
+                },
+                {
+                  "en": "Dark Pulse",
+                  "ja": "あくのはどう"
+                },
+                {
+                  "en": "Ice Beam",
+                  "ja": "れいとうビーム"
+                }
+              ],
+              "gender_ja": "オス",
+              "types_ja": [
+                "みず"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0131",
+              "en": "Lapras",
+              "ja": "ラプラス",
+              "form": null,
+              "level": 65,
+              "gender": "female",
+              "ability_en": "Water Absorb",
+              "ability_ja": "ちょすい",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Water",
+                "Ice"
+              ],
+              "moves": [
+                {
+                  "en": "Surf",
+                  "ja": "なみのり"
+                },
+                {
+                  "en": "Blizzard",
+                  "ja": "ふぶき"
+                },
+                {
+                  "en": "Ice Shard",
+                  "ja": "こおりのつぶて"
+                },
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                }
+              ],
+              "gender_ja": "メス",
+              "types_ja": [
+                "みず",
+                "こおり"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0143",
+              "en": "Snorlax",
+              "ja": "カビゴン",
+              "form": null,
+              "level": 65,
+              "gender": "male",
+              "ability_en": "Thick Fat",
+              "ability_ja": "あついしぼう",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Normal"
+              ],
+              "moves": [
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Heavy Slam",
+                  "ja": "ヘビーボンバー"
+                },
+                {
+                  "en": "High Horsepower",
+                  "ja": "１０まんばりき"
+                },
+                {
+                  "en": "Body Slam",
+                  "ja": "のしかかり"
+                }
+              ],
+              "gender_ja": "オス",
+              "types_ja": [
+                "ノーマル"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            }
+          ],
+          "game_ja": "サン・ムーン",
+          "location_ja": "バトルツリー",
+          "section_ja": "最初に戦えるタイミング",
+          "section_needs_review": false
+        },
+        {
+          "game": "USUM",
+          "section": "First possible battle",
+          "branch": null,
+          "branch_ja": null,
+          "location": "Battle Tree",
+          "is_league": false,
+          "team": [
+            {
+              "ndex": "0025",
+              "en": "Pikachu",
+              "ja": "ピカチュウ",
+              "form": null,
+              "level": 74,
+              "gender": "male",
+              "ability_en": "Static",
+              "ability_ja": "せいでんき",
+              "item": "Light Ball",
+              "tera": null,
+              "types": [
+                "Electric"
+              ],
+              "moves": [
+                {
+                  "en": "Volt Tackle",
+                  "ja": "ボルテッカー"
+                },
+                {
+                  "en": "Quick Attack",
+                  "ja": "でんこうせっか"
+                },
+                {
+                  "en": "Light Screen",
+                  "ja": "ひかりのかべ"
+                },
+                {
+                  "en": "Nuzzle",
+                  "ja": "ほっぺすりすり"
+                }
+              ],
+              "gender_ja": "オス",
+              "types_ja": [
+                "でんき"
+              ],
+              "tera_ja": null,
+              "item_ja": "でんきだま"
+            },
+            {
+              "ndex": "0003",
+              "en": "Venusaur",
+              "ja": "フシギバナ",
+              "form": null,
+              "level": 70,
+              "gender": "male",
+              "ability_en": "Overgrow",
+              "ability_ja": "しんりょく",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Grass",
+                "Poison"
+              ],
+              "moves": [
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Leech Seed",
+                  "ja": "やどりぎのタネ"
+                },
+                {
+                  "en": "Leaf Storm",
+                  "ja": "リーフストーム"
+                },
+                {
+                  "en": "Sludge Bomb",
+                  "ja": "ヘドロばくだん"
+                }
+              ],
+              "gender_ja": "オス",
+              "types_ja": [
+                "くさ",
+                "どく"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0006",
+              "en": "Charizard",
+              "ja": "リザードン",
+              "form": null,
+              "level": 70,
+              "gender": "male",
+              "ability_en": "Blaze",
+              "ability_ja": "もうか",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Fire",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Will-O-Wisp",
+                  "ja": "おにび"
+                },
+                {
+                  "en": "Fire Blast",
+                  "ja": "だいもんじ"
+                },
+                {
+                  "en": "Air Slash",
+                  "ja": "エアスラッシュ"
+                },
+                {
+                  "en": "Focus Blast",
+                  "ja": "きあいだま"
+                }
+              ],
+              "gender_ja": "オス",
+              "types_ja": [
+                "ほのお",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0009",
+              "en": "Blastoise",
+              "ja": "カメックス",
+              "form": null,
+              "level": 70,
+              "gender": "male",
+              "ability_en": "Torrent",
+              "ability_ja": "げきりゅう",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Water"
+              ],
+              "moves": [
+                {
+                  "en": "Hydro Pump",
+                  "ja": "ハイドロポンプ"
+                },
+                {
+                  "en": "Flash Cannon",
+                  "ja": "ラスターカノン"
+                },
+                {
+                  "en": "Dark Pulse",
+                  "ja": "あくのはどう"
+                },
+                {
+                  "en": "Ice Beam",
+                  "ja": "れいとうビーム"
+                }
+              ],
+              "gender_ja": "オス",
+              "types_ja": [
+                "みず"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0131",
+              "en": "Lapras",
+              "ja": "ラプラス",
+              "form": null,
+              "level": 69,
+              "gender": "female",
+              "ability_en": "Water Absorb",
+              "ability_ja": "ちょすい",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Water",
+                "Ice"
+              ],
+              "moves": [
+                {
+                  "en": "Surf",
+                  "ja": "なみのり"
+                },
+                {
+                  "en": "Blizzard",
+                  "ja": "ふぶき"
+                },
+                {
+                  "en": "Ice Shard",
+                  "ja": "こおりのつぶて"
+                },
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                }
+              ],
+              "gender_ja": "メス",
+              "types_ja": [
+                "みず",
+                "こおり"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0143",
+              "en": "Snorlax",
+              "ja": "カビゴン",
+              "form": null,
+              "level": 69,
+              "gender": "male",
+              "ability_en": "Thick Fat",
+              "ability_ja": "あついしぼう",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Normal"
+              ],
+              "moves": [
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Heavy Slam",
+                  "ja": "ヘビーボンバー"
+                },
+                {
+                  "en": "High Horsepower",
+                  "ja": "１０まんばりき"
+                },
+                {
+                  "en": "Body Slam",
+                  "ja": "のしかかり"
+                }
+              ],
+              "gender_ja": "オス",
+              "types_ja": [
+                "ノーマル"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            }
+          ],
+          "game_ja": "ウルトラサン・ウルトラムーン",
+          "location_ja": "バトルツリー",
+          "section_ja": "最初に戦えるタイミング",
+          "section_needs_review": false
+        },
+        {
+          "game": "SMUSUM",
+          "section": "Battle Tree (20th battle)",
+          "branch": null,
+          "branch_ja": null,
+          "location": "Battle Tree",
+          "is_league": false,
+          "team": [
+            {
+              "ndex": "0003",
+              "en": "Venusaur",
+              "ja": "フシギバナ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Big Root",
+              "tera": null,
+              "types": [
+                "Grass",
+                "Poison"
+              ],
+              "moves": [
+                {
+                  "en": "Leech Seed",
+                  "ja": "やどりぎのタネ"
+                },
+                {
+                  "en": "Toxic",
+                  "ja": "どくどく"
+                },
+                {
+                  "en": "Synthesis",
+                  "ja": "こうごうせい"
+                },
+                {
+                  "en": "Ingrain",
+                  "ja": "ねをはる"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "くさ",
+                "どく"
+              ],
+              "tera_ja": null,
+              "item_ja": "おおきなねっこ"
+            },
+            {
+              "ndex": "0006",
+              "en": "Charizard",
+              "ja": "リザードン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Salac Berry",
+              "tera": null,
+              "types": [
+                "Fire",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Dragon Claw",
+                  "ja": "ドラゴンクロー"
+                },
+                {
+                  "en": "Fire Fang",
+                  "ja": "ほのおのキバ"
+                },
+                {
+                  "en": "Belly Drum",
+                  "ja": "はらだいこ"
+                },
+                {
+                  "en": "Shadow Claw",
+                  "ja": "シャドークロー"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "カムラのみ"
+            },
+            {
+              "ndex": "0009",
+              "en": "Blastoise",
+              "ja": "カメックス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Zoom Lens",
+              "tera": null,
+              "types": [
+                "Water"
+              ],
+              "moves": [
+                {
+                  "en": "Aqua Ring",
+                  "ja": "アクアリング"
+                },
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Aqua Tail",
+                  "ja": "アクアテール"
+                },
+                {
+                  "en": "Iron Defense",
+                  "ja": "てっぺき"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず"
+              ],
+              "tera_ja": null,
+              "item_ja": "フォーカスレンズ"
+            },
+            {
+              "ndex": "0131",
+              "en": "Lapras",
+              "ja": "ラプラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Damp Rock",
+              "tera": null,
+              "types": [
+                "Water",
+                "Ice"
+              ],
+              "moves": [
+                {
+                  "en": "Rain Dance",
+                  "ja": "あまごい"
+                },
+                {
+                  "en": "Thunder",
+                  "ja": "かみなり"
+                },
+                {
+                  "en": "Ice Shard",
+                  "ja": "こおりのつぶて"
+                },
+                {
+                  "en": "Confuse Ray",
+                  "ja": "あやしいひかり"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "こおり"
+              ],
+              "tera_ja": null,
+              "item_ja": "しめったいわ"
+            },
+            {
+              "ndex": "0143",
+              "en": "Snorlax",
+              "ja": "カビゴン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Sitrus Berry",
+              "tera": null,
+              "types": [
+                "Normal"
+              ],
+              "moves": [
+                {
+                  "en": "Return",
+                  "ja": "おんがえし"
+                },
+                {
+                  "en": "Wild Charge",
+                  "ja": "ワイルドボルト"
+                },
+                {
+                  "en": "Counter",
+                  "ja": "カウンター"
+                },
+                {
+                  "en": "Recycle",
+                  "ja": "リサイクル"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル"
+              ],
+              "tera_ja": null,
+              "item_ja": "オボンのみ"
+            },
+            {
+              "ndex": "0003",
+              "en": "Venusaur",
+              "ja": "フシギバナ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Grassium Z",
+              "tera": null,
+              "types": [
+                "Grass",
+                "Poison"
+              ],
+              "moves": [
+                {
+                  "en": "Roar",
+                  "ja": "ほえる"
+                },
+                {
+                  "en": "Venoshock",
+                  "ja": "ベノムショック"
+                },
+                {
+                  "en": "Power Whip",
+                  "ja": "パワーウィップ"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "くさ",
+                "どく"
+              ],
+              "tera_ja": null,
+              "item_ja": "クサＺ"
+            },
+            {
+              "ndex": "0006",
+              "en": "Charizard",
+              "ja": "リザードン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Charti Berry",
+              "tera": null,
+              "types": [
+                "Fire",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Dragon Claw",
+                  "ja": "ドラゴンクロー"
+                },
+                {
+                  "en": "Shadow Claw",
+                  "ja": "シャドークロー"
+                },
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Dragon Dance",
+                  "ja": "りゅうのまい"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "ヨロギのみ"
+            },
+            {
+              "ndex": "0009",
+              "en": "Blastoise",
+              "ja": "カメックス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Blastoisinite",
+              "tera": null,
+              "types": [
+                "Water"
+              ],
+              "moves": [
+                {
+                  "en": "Water Pulse",
+                  "ja": "みずのはどう"
+                },
+                {
+                  "en": "Aura Sphere",
+                  "ja": "はどうだん"
+                },
+                {
+                  "en": "Dark Pulse",
+                  "ja": "あくのはどう"
+                },
+                {
+                  "en": "Dragon Pulse",
+                  "ja": "りゅうのはどう"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず"
+              ],
+              "tera_ja": null,
+              "item_ja": "カメックスナイト"
+            },
+            {
+              "ndex": "0131",
+              "en": "Lapras",
+              "ja": "ラプラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Normalium Z",
+              "tera": null,
+              "types": [
+                "Water",
+                "Ice"
+              ],
+              "moves": [
+                {
+                  "en": "Surf",
+                  "ja": "なみのり"
+                },
+                {
+                  "en": "Ice Beam",
+                  "ja": "れいとうビーム"
+                },
+                {
+                  "en": "Rest",
+                  "ja": "ねむる"
+                },
+                {
+                  "en": "Sleep Talk",
+                  "ja": "ねごと"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "こおり"
+              ],
+              "tera_ja": null,
+              "item_ja": "ノーマルＺ"
+            },
+            {
+              "ndex": "0143",
+              "en": "Snorlax",
+              "ja": "カビゴン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Sitrus Berry",
+              "tera": null,
+              "types": [
+                "Normal"
+              ],
+              "moves": [
+                {
+                  "en": "Return",
+                  "ja": "おんがえし"
+                },
+                {
+                  "en": "Protect",
+                  "ja": "まもる"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Belly Drum",
+                  "ja": "はらだいこ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル"
+              ],
+              "tera_ja": null,
+              "item_ja": "オボンのみ"
+            }
+          ],
+          "game_ja": "サン・ムーン／ウルトラサン・ウルトラムーン",
+          "location_ja": "バトルツリー",
+          "section_ja": "バトルツリー（20戦目）",
+          "section_needs_review": false,
+          "note_ja": "バトルツリーの通常コース20戦目に登場するバトルレジェンドです。下の10セットから3体が選ばれます。マルチではグリーンと同時に登場し、2体が選ばれます。性別と特性は対戦ごとにランダムです。"
+        },
+        {
+          "game": "SMUSUM",
+          "section": "Battle Tree (50th battle)",
+          "branch": null,
+          "branch_ja": null,
+          "location": "Battle Tree",
+          "is_league": false,
+          "team": [
+            {
+              "ndex": "0003",
+              "en": "Venusaur",
+              "ja": "フシギバナ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Salac Berry",
+              "tera": null,
+              "types": [
+                "Grass",
+                "Poison"
+              ],
+              "moves": [
+                {
+                  "en": "Energy Ball",
+                  "ja": "エナジーボール"
+                },
+                {
+                  "en": "Sludge Bomb",
+                  "ja": "ヘドロばくだん"
+                },
+                {
+                  "en": "Grass Knot",
+                  "ja": "くさむすび"
+                },
+                {
+                  "en": "Protect",
+                  "ja": "まもる"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "くさ",
+                "どく"
+              ],
+              "tera_ja": null,
+              "item_ja": "カムラのみ"
+            },
+            {
+              "ndex": "0006",
+              "en": "Charizard",
+              "ja": "リザードン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Charizardite Y",
+              "tera": null,
+              "types": [
+                "Fire",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Heat Wave",
+                  "ja": "ねっぷう"
+                },
+                {
+                  "en": "Solar Beam",
+                  "ja": "ソーラービーム"
+                },
+                {
+                  "en": "Air Slash",
+                  "ja": "エアスラッシュ"
+                },
+                {
+                  "en": "Focus Blast",
+                  "ja": "きあいだま"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "リザードナイトY"
+            },
+            {
+              "ndex": "0009",
+              "en": "Blastoise",
+              "ja": "カメックス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Leftovers",
+              "tera": null,
+              "types": [
+                "Water"
+              ],
+              "moves": [
+                {
+                  "en": "Fake Out",
+                  "ja": "ねこだまし"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Aqua Tail",
+                  "ja": "アクアテール"
+                },
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず"
+              ],
+              "tera_ja": null,
+              "item_ja": "たべのこし"
+            },
+            {
+              "ndex": "0131",
+              "en": "Lapras",
+              "ja": "ラプラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Bright Powder",
+              "tera": null,
+              "types": [
+                "Water",
+                "Ice"
+              ],
+              "moves": [
+                {
+                  "en": "Surf",
+                  "ja": "なみのり"
+                },
+                {
+                  "en": "Ice Beam",
+                  "ja": "れいとうビーム"
+                },
+                {
+                  "en": "Thunderbolt",
+                  "ja": "１０まんボルト"
+                },
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "こおり"
+              ],
+              "tera_ja": null,
+              "item_ja": "ひかりのこな"
+            },
+            {
+              "ndex": "0143",
+              "en": "Snorlax",
+              "ja": "カビゴン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Life Orb",
+              "tera": null,
+              "types": [
+                "Normal"
+              ],
+              "moves": [
+                {
+                  "en": "Double-Edge",
+                  "ja": "すてみタックル"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Protect",
+                  "ja": "まもる"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル"
+              ],
+              "tera_ja": null,
+              "item_ja": "いのちのたま"
+            },
+            {
+              "ndex": "0003",
+              "en": "Venusaur",
+              "ja": "フシギバナ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Venusaurite",
+              "tera": null,
+              "types": [
+                "Grass",
+                "Poison"
+              ],
+              "moves": [
+                {
+                  "en": "Synthesis",
+                  "ja": "こうごうせい"
+                },
+                {
+                  "en": "Substitute",
+                  "ja": "みがわり"
+                },
+                {
+                  "en": "Sludge Bomb",
+                  "ja": "ヘドロばくだん"
+                },
+                {
+                  "en": "Giga Drain",
+                  "ja": "ギガドレイン"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "くさ",
+                "どく"
+              ],
+              "tera_ja": null,
+              "item_ja": "フシギバナイト"
+            },
+            {
+              "ndex": "0006",
+              "en": "Charizard",
+              "ja": "リザードン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Charizardite X",
+              "tera": null,
+              "types": [
+                "Fire",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Dragon Rush",
+                  "ja": "ドラゴンダイブ"
+                },
+                {
+                  "en": "Flare Blitz",
+                  "ja": "フレアドライブ"
+                },
+                {
+                  "en": "Dragon Dance",
+                  "ja": "りゅうのまい"
+                },
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "リザードナイトX"
+            },
+            {
+              "ndex": "0009",
+              "en": "Blastoise",
+              "ja": "カメックス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Custap Berry",
+              "tera": null,
+              "types": [
+                "Water"
+              ],
+              "moves": [
+                {
+                  "en": "Yawn",
+                  "ja": "あくび"
+                },
+                {
+                  "en": "Hydro Pump",
+                  "ja": "ハイドロポンプ"
+                },
+                {
+                  "en": "Blizzard",
+                  "ja": "ふぶき"
+                },
+                {
+                  "en": "Dark Pulse",
+                  "ja": "あくのはどう"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず"
+              ],
+              "tera_ja": null,
+              "item_ja": "イバンのみ"
+            },
+            {
+              "ndex": "0131",
+              "en": "Lapras",
+              "ja": "ラプラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Psychium Z",
+              "tera": null,
+              "types": [
+                "Water",
+                "Ice"
+              ],
+              "moves": [
+                {
+                  "en": "Blizzard",
+                  "ja": "ふぶき"
+                },
+                {
+                  "en": "Hydro Pump",
+                  "ja": "ハイドロポンプ"
+                },
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                },
+                {
+                  "en": "Ice Shard",
+                  "ja": "こおりのつぶて"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "こおり"
+              ],
+              "tera_ja": null,
+              "item_ja": "エスパーＺ"
+            },
+            {
+              "ndex": "0143",
+              "en": "Snorlax",
+              "ja": "カビゴン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Assault Vest",
+              "tera": null,
+              "types": [
+                "Normal"
+              ],
+              "moves": [
+                {
+                  "en": "Body Slam",
+                  "ja": "のしかかり"
+                },
+                {
+                  "en": "Fissure",
+                  "ja": "じわれ"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル"
+              ],
+              "tera_ja": null,
+              "item_ja": "とつげきチョッキ"
+            }
+          ],
+          "game_ja": "サン・ムーン／ウルトラサン・ウルトラムーン",
+          "location_ja": "バトルツリー",
+          "section_ja": "バトルツリー（50戦目）",
+          "section_needs_review": false,
+          "note_ja": "バトルツリーのスーパーコース50戦目に登場するバトルレジェンドです。下の10セットから3体が選ばれます。マルチではグリーンと同時に登場し、2体が選ばれます。性別と特性は対戦ごとにランダムです。"
+        }
+      ]
     },
     {
       "page": "Trace (game)",
@@ -30451,6 +33268,427 @@
           "section_needs_review": false
         },
         {
+          "game": "SMUSUM",
+          "section": "Battle Tree (Super courses)",
+          "branch": null,
+          "branch_ja": null,
+          "location": "Battle Tree",
+          "is_league": false,
+          "team": [
+            {
+              "ndex": "0442",
+              "en": "Spiritomb",
+              "ja": "ミカルゲ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Leftovers",
+              "tera": null,
+              "types": [
+                "Ghost",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Will-O-Wisp",
+                  "ja": "おにび"
+                },
+                {
+                  "en": "Shadow Sneak",
+                  "ja": "かげうち"
+                },
+                {
+                  "en": "Swagger",
+                  "ja": "いばる"
+                },
+                {
+                  "en": "Psych Up",
+                  "ja": "じこあんじ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ゴースト",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "たべのこし"
+            },
+            {
+              "ndex": "0448",
+              "en": "Lucario",
+              "ja": "ルカリオ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Lucarionite",
+              "tera": null,
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "moves": [
+                {
+                  "en": "Close Combat",
+                  "ja": "インファイト"
+                },
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Blaze Kick",
+                  "ja": "ブレイズキック"
+                },
+                {
+                  "en": "Bullet Punch",
+                  "ja": "バレットパンチ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "かくとう",
+                "はがね"
+              ],
+              "tera_ja": null,
+              "item_ja": "ルカリオナイト"
+            },
+            {
+              "ndex": "0350",
+              "en": "Milotic",
+              "ja": "ミロカロス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Wide Lens",
+              "tera": null,
+              "types": [
+                "Water"
+              ],
+              "moves": [
+                {
+                  "en": "Hydro Pump",
+                  "ja": "ハイドロポンプ"
+                },
+                {
+                  "en": "Blizzard",
+                  "ja": "ふぶき"
+                },
+                {
+                  "en": "Mirror Coat",
+                  "ja": "ミラーコート"
+                },
+                {
+                  "en": "Recover",
+                  "ja": "じこさいせい"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず"
+              ],
+              "tera_ja": null,
+              "item_ja": "こうかくレンズ"
+            },
+            {
+              "ndex": "0468",
+              "en": "Togekiss",
+              "ja": "トゲキッス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "King's Rock",
+              "tera": null,
+              "types": [
+                "Normal",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Grass Knot",
+                  "ja": "くさむすび"
+                },
+                {
+                  "en": "Thunder Wave",
+                  "ja": "でんじは"
+                },
+                {
+                  "en": "Air Slash",
+                  "ja": "エアスラッシュ"
+                },
+                {
+                  "en": "Shadow Ball",
+                  "ja": "シャドーボール"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "おうじゃのしるし"
+            },
+            {
+              "ndex": "0445",
+              "en": "Garchomp",
+              "ja": "ガブリアス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Garchompite",
+              "tera": null,
+              "types": [
+                "Dragon",
+                "Ground"
+              ],
+              "moves": [
+                {
+                  "en": "Sandstorm",
+                  "ja": "すなあらし"
+                },
+                {
+                  "en": "Stone Edge",
+                  "ja": "ストーンエッジ"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Dragon Claw",
+                  "ja": "ドラゴンクロー"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ドラゴン",
+                "じめん"
+              ],
+              "tera_ja": null,
+              "item_ja": "ガブリアスナイト"
+            },
+            {
+              "ndex": "0442",
+              "en": "Spiritomb",
+              "ja": "ミカルゲ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Custap Berry",
+              "tera": null,
+              "types": [
+                "Ghost",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Will-O-Wisp",
+                  "ja": "おにび"
+                },
+                {
+                  "en": "Sucker Punch",
+                  "ja": "ふいうち"
+                },
+                {
+                  "en": "Substitute",
+                  "ja": "みがわり"
+                },
+                {
+                  "en": "Pain Split",
+                  "ja": "いたみわけ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ゴースト",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "イバンのみ"
+            },
+            {
+              "ndex": "0448",
+              "en": "Lucario",
+              "ja": "ルカリオ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Weakness Policy",
+              "tera": null,
+              "types": [
+                "Fighting",
+                "Steel"
+              ],
+              "moves": [
+                {
+                  "en": "Aura Sphere",
+                  "ja": "はどうだん"
+                },
+                {
+                  "en": "Dragon Pulse",
+                  "ja": "りゅうのはどう"
+                },
+                {
+                  "en": "Stone Edge",
+                  "ja": "ストーンエッジ"
+                },
+                {
+                  "en": "Extreme Speed",
+                  "ja": "しんそく"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "かくとう",
+                "はがね"
+              ],
+              "tera_ja": null,
+              "item_ja": "じゃくてんほけん"
+            },
+            {
+              "ndex": "0350",
+              "en": "Milotic",
+              "ja": "ミロカロス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Leftovers",
+              "tera": null,
+              "types": [
+                "Water"
+              ],
+              "moves": [
+                {
+                  "en": "Ice Beam",
+                  "ja": "れいとうビーム"
+                },
+                {
+                  "en": "Rest",
+                  "ja": "ねむる"
+                },
+                {
+                  "en": "Sleep Talk",
+                  "ja": "ねごと"
+                },
+                {
+                  "en": "Surf",
+                  "ja": "なみのり"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず"
+              ],
+              "tera_ja": null,
+              "item_ja": "たべのこし"
+            },
+            {
+              "ndex": "0468",
+              "en": "Togekiss",
+              "ja": "トゲキッス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Expert Belt",
+              "tera": null,
+              "types": [
+                "Normal",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Aura Sphere",
+                  "ja": "はどうだん"
+                },
+                {
+                  "en": "Air Slash",
+                  "ja": "エアスラッシュ"
+                },
+                {
+                  "en": "Grass Knot",
+                  "ja": "くさむすび"
+                },
+                {
+                  "en": "Dazzling Gleam",
+                  "ja": "マジカルシャイン"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "たつじんのおび"
+            },
+            {
+              "ndex": "0445",
+              "en": "Garchomp",
+              "ja": "ガブリアス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Choice Scarf",
+              "tera": null,
+              "types": [
+                "Dragon",
+                "Ground"
+              ],
+              "moves": [
+                {
+                  "en": "Outrage",
+                  "ja": "げきりん"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Fire Fang",
+                  "ja": "ほのおのキバ"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ドラゴン",
+                "じめん"
+              ],
+              "tera_ja": null,
+              "item_ja": "こだわりスカーフ"
+            }
+          ],
+          "game_ja": "サン・ムーン／ウルトラサン・ウルトラムーン",
+          "location_ja": "バトルツリー",
+          "section_ja": "バトルツリー（スーパーコース）",
+          "section_needs_review": false,
+          "note_ja": "バトルツリーのスーパーコースで、10戦ごとにランダムで登場します。下の10セットから、シングルでは3体、ダブルでは4体、マルチでは2体が選ばれます。性別と特性は対戦ごとにランダムです。"
+        },
+{
           "game": "BDSP",
           "section": "Champion battle",
           "branch": null,
@@ -33930,6 +37168,710 @@
           "location_ja": "ポケモンリーグ",
           "section_ja": "再戦 (チャレンジモード)",
           "section_needs_review": false
+        },
+        {
+          "game": "SMUSUM",
+          "section": "Battle Tree (Super courses)",
+          "branch": null,
+          "branch_ja": null,
+          "location": "Battle Tree",
+          "is_league": false,
+          "team": [
+            {
+              "ndex": "0359",
+              "en": "Absol",
+              "ja": "アブソル",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Focus Sash",
+              "tera": null,
+              "types": [
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Night Slash",
+                  "ja": "つじぎり"
+                },
+                {
+                  "en": "Zen Headbutt",
+                  "ja": "しねんのずつき"
+                },
+                {
+                  "en": "Sucker Punch",
+                  "ja": "ふいうち"
+                },
+                {
+                  "en": "Play Rough",
+                  "ja": "じゃれつく"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "きあいのタスキ"
+            },
+            {
+              "ndex": "0319",
+              "en": "Sharpedo",
+              "ja": "サメハダー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Sharpedonite",
+              "tera": null,
+              "types": [
+                "Water",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Ice Fang",
+                  "ja": "こおりのキバ"
+                },
+                {
+                  "en": "Aqua Jet",
+                  "ja": "アクアジェット"
+                },
+                {
+                  "en": "Poison Jab",
+                  "ja": "どくづき"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "サメハダナイト"
+            },
+            {
+              "ndex": "0560",
+              "en": "Scrafty",
+              "ja": "ズルズキン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Fightinium Z",
+              "tera": null,
+              "types": [
+                "Dark",
+                "Fighting"
+              ],
+              "moves": [
+                {
+                  "en": "Substitute",
+                  "ja": "みがわり"
+                },
+                {
+                  "en": "Payback",
+                  "ja": "しっぺがえし"
+                },
+                {
+                  "en": "High Jump Kick",
+                  "ja": "とびひざげり"
+                },
+                {
+                  "en": "Focus Punch",
+                  "ja": "きあいパンチ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく",
+                "かくとう"
+              ],
+              "tera_ja": null,
+              "item_ja": "カクトウＺ"
+            },
+            {
+              "ndex": "0625",
+              "en": "Bisharp",
+              "ja": "キリキザン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Chople Berry",
+              "tera": null,
+              "types": [
+                "Dark",
+                "Steel"
+              ],
+              "moves": [
+                {
+                  "en": "Iron Head",
+                  "ja": "アイアンヘッド"
+                },
+                {
+                  "en": "Night Slash",
+                  "ja": "つじぎり"
+                },
+                {
+                  "en": "Low Sweep",
+                  "ja": "ローキック"
+                },
+                {
+                  "en": "Sucker Punch",
+                  "ja": "ふいうち"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく",
+                "はがね"
+              ],
+              "tera_ja": null,
+              "item_ja": "ヨプのみ"
+            },
+            {
+              "ndex": "0229",
+              "en": "Houndoom",
+              "ja": "ヘルガー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Air Balloon",
+              "tera": null,
+              "types": [
+                "Dark",
+                "Fire"
+              ],
+              "moves": [
+                {
+                  "en": "Flamethrower",
+                  "ja": "かえんほうしゃ"
+                },
+                {
+                  "en": "Shadow Ball",
+                  "ja": "シャドーボール"
+                },
+                {
+                  "en": "Sludge Bomb",
+                  "ja": "ヘドロばくだん"
+                },
+                {
+                  "en": "Will-O-Wisp",
+                  "ja": "おにび"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく",
+                "ほのお"
+              ],
+              "tera_ja": null,
+              "item_ja": "ふうせん"
+            },
+            {
+              "ndex": "0452",
+              "en": "Drapion",
+              "ja": "ドラピオン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Scope Lens",
+              "tera": null,
+              "types": [
+                "Poison",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Cross Poison",
+                  "ja": "クロスポイズン"
+                },
+                {
+                  "en": "Night Slash",
+                  "ja": "つじぎり"
+                },
+                {
+                  "en": "Fire Fang",
+                  "ja": "ほのおのキバ"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "どく",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "ピントレンズ"
+            },
+            {
+              "ndex": "0430",
+              "en": "Honchkrow",
+              "ja": "ドンカラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Darkinium Z",
+              "tera": null,
+              "types": [
+                "Dark",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                },
+                {
+                  "en": "Dark Pulse",
+                  "ja": "あくのはどう"
+                },
+                {
+                  "en": "Swagger",
+                  "ja": "いばる"
+                },
+                {
+                  "en": "Shadow Ball",
+                  "ja": "シャドーボール"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "アクＺ"
+            },
+            {
+              "ndex": "0510",
+              "en": "Liepard",
+              "ja": "レパルダス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Red Card",
+              "tera": null,
+              "types": [
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Foul Play",
+                  "ja": "イカサマ"
+                },
+                {
+                  "en": "Sucker Punch",
+                  "ja": "ふいうち"
+                },
+                {
+                  "en": "Sand Attack",
+                  "ja": "すなかけ"
+                },
+                {
+                  "en": "Thunder Wave",
+                  "ja": "でんじは"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "レッドカード"
+            },
+            {
+              "ndex": "0248",
+              "en": "Tyranitar",
+              "ja": "バンギラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Chople Berry",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Dragon Dance",
+                  "ja": "りゅうのまい"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "ヨプのみ"
+            },
+            {
+              "ndex": "0359",
+              "en": "Absol",
+              "ja": "アブソル",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Absolite",
+              "tera": null,
+              "types": [
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Sucker Punch",
+                  "ja": "ふいうち"
+                },
+                {
+                  "en": "Megahorn",
+                  "ja": "メガホーン"
+                },
+                {
+                  "en": "Play Rough",
+                  "ja": "じゃれつく"
+                },
+                {
+                  "en": "Stone Edge",
+                  "ja": "ストーンエッジ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "アブソルナイト"
+            },
+            {
+              "ndex": "0319",
+              "en": "Sharpedo",
+              "ja": "サメハダー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Focus Sash",
+              "tera": null,
+              "types": [
+                "Water",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Ice Beam",
+                  "ja": "れいとうビーム"
+                },
+                {
+                  "en": "Hydro Pump",
+                  "ja": "ハイドロポンプ"
+                },
+                {
+                  "en": "Dark Pulse",
+                  "ja": "あくのはどう"
+                },
+                {
+                  "en": "Protect",
+                  "ja": "まもる"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "きあいのタスキ"
+            },
+            {
+              "ndex": "0560",
+              "en": "Scrafty",
+              "ja": "ズルズキン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Leftovers",
+              "tera": null,
+              "types": [
+                "Dark",
+                "Fighting"
+              ],
+              "moves": [
+                {
+                  "en": "Bulk Up",
+                  "ja": "ビルドアップ"
+                },
+                {
+                  "en": "Payback",
+                  "ja": "しっぺがえし"
+                },
+                {
+                  "en": "Protect",
+                  "ja": "まもる"
+                },
+                {
+                  "en": "Drain Punch",
+                  "ja": "ドレインパンチ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく",
+                "かくとう"
+              ],
+              "tera_ja": null,
+              "item_ja": "たべのこし"
+            },
+            {
+              "ndex": "0625",
+              "en": "Bisharp",
+              "ja": "キリキザン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Focus Sash",
+              "tera": null,
+              "types": [
+                "Dark",
+                "Steel"
+              ],
+              "moves": [
+                {
+                  "en": "Taunt",
+                  "ja": "ちょうはつ"
+                },
+                {
+                  "en": "Sucker Punch",
+                  "ja": "ふいうち"
+                },
+                {
+                  "en": "Metal Burst",
+                  "ja": "メタルバースト"
+                },
+                {
+                  "en": "Iron Head",
+                  "ja": "アイアンヘッド"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく",
+                "はがね"
+              ],
+              "tera_ja": null,
+              "item_ja": "きあいのタスキ"
+            },
+            {
+              "ndex": "0229",
+              "en": "Houndoom",
+              "ja": "ヘルガー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Houndoominite",
+              "tera": null,
+              "types": [
+                "Dark",
+                "Fire"
+              ],
+              "moves": [
+                {
+                  "en": "Fire Blast",
+                  "ja": "だいもんじ"
+                },
+                {
+                  "en": "Dark Pulse",
+                  "ja": "あくのはどう"
+                },
+                {
+                  "en": "Solar Beam",
+                  "ja": "ソーラービーム"
+                },
+                {
+                  "en": "Sunny Day",
+                  "ja": "にほんばれ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく",
+                "ほのお"
+              ],
+              "tera_ja": null,
+              "item_ja": "ヘルガナイト"
+            },
+            {
+              "ndex": "0452",
+              "en": "Drapion",
+              "ja": "ドラピオン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Razor Claw",
+              "tera": null,
+              "types": [
+                "Poison",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Cross Poison",
+                  "ja": "クロスポイズン"
+                },
+                {
+                  "en": "Night Slash",
+                  "ja": "つじぎり"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Swords Dance",
+                  "ja": "つるぎのまい"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "どく",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "するどいツメ"
+            },
+            {
+              "ndex": "0510",
+              "en": "Liepard",
+              "ja": "レパルダス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Focus Sash",
+              "tera": null,
+              "types": [
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Dark Pulse",
+                  "ja": "あくのはどう"
+                },
+                {
+                  "en": "Shadow Ball",
+                  "ja": "シャドーボール"
+                },
+                {
+                  "en": "Grass Knot",
+                  "ja": "くさむすび"
+                },
+                {
+                  "en": "Nasty Plot",
+                  "ja": "わるだくみ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "きあいのタスキ"
+            },
+            {
+              "ndex": "0248",
+              "en": "Tyranitar",
+              "ja": "バンギラス",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Tyranitarite",
+              "tera": null,
+              "types": [
+                "Rock",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Stone Edge",
+                  "ja": "ストーンエッジ"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Ice Fang",
+                  "ja": "こおりのキバ"
+                },
+                {
+                  "en": "Payback",
+                  "ja": "しっぺがえし"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "バンギラスナイト"
+            }
+          ],
+          "game_ja": "サン・ムーン／ウルトラサン・ウルトラムーン",
+          "location_ja": "バトルツリー",
+          "section_ja": "バトルツリー（スーパーコース）",
+          "section_needs_review": false,
+          "note_ja": "バトルツリーのスーパーコースで、10戦ごとにランダムで登場します。下の17セットから、シングルでは3体、ダブルでは4体、マルチでは2体が選ばれます。性別と特性は対戦ごとにランダムです。"
         }
       ],
       "role_ja": "四天王",
@@ -50945,6 +54887,747 @@
           "section_ja": "チャンピオン防衛戦",
           "section_needs_review": false,
           "title_ja": "ポケモンはかせ"
+        },
+        {
+          "game": "USUM",
+          "section": "Battle Tree (Super courses)",
+          "branch": null,
+          "branch_ja": null,
+          "location": "Battle Tree",
+          "is_league": false,
+          "team": [
+            {
+              "ndex": "0745",
+              "en": "Lycanroc",
+              "ja": "ルガルガン",
+              "form": "-Midday",
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Life Orb",
+              "tera": null,
+              "types": [
+                "Rock"
+              ],
+              "moves": [
+                {
+                  "en": "Quick Attack",
+                  "ja": "でんこうせっか"
+                },
+                {
+                  "en": "Thunder Fang",
+                  "ja": "かみなりのキバ"
+                },
+                {
+                  "en": "Accelerock",
+                  "ja": "アクセルロック"
+                },
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ"
+              ],
+              "tera_ja": null,
+              "item_ja": "いのちのたま"
+            },
+            {
+              "ndex": "0724",
+              "en": "Decidueye",
+              "ja": "ジュナイパー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Life Orb",
+              "tera": null,
+              "types": [
+                "Grass",
+                "Ghost"
+              ],
+              "moves": [
+                {
+                  "en": "Spirit Shackle",
+                  "ja": "かげぬい"
+                },
+                {
+                  "en": "Leaf Blade",
+                  "ja": "リーフブレード"
+                },
+                {
+                  "en": "Sucker Punch",
+                  "ja": "ふいうち"
+                },
+                {
+                  "en": "Smack Down",
+                  "ja": "うちおとす"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "くさ",
+                "ゴースト"
+              ],
+              "tera_ja": null,
+              "item_ja": "いのちのたま"
+            },
+            {
+              "ndex": "0727",
+              "en": "Incineroar",
+              "ja": "ガオガエン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Firium Z",
+              "tera": null,
+              "types": [
+                "Fire",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Darkest Lariat",
+                  "ja": "ＤＤラリアット"
+                },
+                {
+                  "en": "Throat Chop",
+                  "ja": "じごくづき"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Flare Blitz",
+                  "ja": "フレアドライブ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "ホノオＺ"
+            },
+            {
+              "ndex": "0730",
+              "en": "Primarina",
+              "ja": "アシレーヌ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Kebia Berry",
+              "tera": null,
+              "types": [
+                "Water",
+                "Fairy"
+              ],
+              "moves": [
+                {
+                  "en": "Hydro Pump",
+                  "ja": "ハイドロポンプ"
+                },
+                {
+                  "en": "Moonblast",
+                  "ja": "ムーンフォース"
+                },
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                },
+                {
+                  "en": "Baby-Doll Eyes",
+                  "ja": "つぶらなひとみ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "フェアリー"
+              ],
+              "tera_ja": null,
+              "item_ja": "ビアーのみ"
+            },
+            {
+              "ndex": "0745",
+              "en": "Lycanroc",
+              "ja": "ルガルガン",
+              "form": "-Midday",
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Expert Belt",
+              "tera": null,
+              "types": [
+                "Rock"
+              ],
+              "moves": [
+                {
+                  "en": "Sucker Punch",
+                  "ja": "ふいうち"
+                },
+                {
+                  "en": "Stone Edge",
+                  "ja": "ストーンエッジ"
+                },
+                {
+                  "en": "Thunder Fang",
+                  "ja": "かみなりのキバ"
+                },
+                {
+                  "en": "Fire Fang",
+                  "ja": "ほのおのキバ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "いわ"
+              ],
+              "tera_ja": null,
+              "item_ja": "たつじんのおび"
+            },
+            {
+              "ndex": "0724",
+              "en": "Decidueye",
+              "ja": "ジュナイパー",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Bright Powder",
+              "tera": null,
+              "types": [
+                "Grass",
+                "Ghost"
+              ],
+              "moves": [
+                {
+                  "en": "Nasty Plot",
+                  "ja": "わるだくみ"
+                },
+                {
+                  "en": "Shadow Ball",
+                  "ja": "シャドーボール"
+                },
+                {
+                  "en": "Grass Knot",
+                  "ja": "くさむすび"
+                },
+                {
+                  "en": "Baton Pass",
+                  "ja": "バトンタッチ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "くさ",
+                "ゴースト"
+              ],
+              "tera_ja": null,
+              "item_ja": "ひかりのこな"
+            },
+            {
+              "ndex": "0727",
+              "en": "Incineroar",
+              "ja": "ガオガエン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Quick Claw",
+              "tera": null,
+              "types": [
+                "Fire",
+                "Dark"
+              ],
+              "moves": [
+                {
+                  "en": "Flare Blitz",
+                  "ja": "フレアドライブ"
+                },
+                {
+                  "en": "Cross Chop",
+                  "ja": "クロスチョップ"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "U-turn",
+                  "ja": "とんぼがえり"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお",
+                "あく"
+              ],
+              "tera_ja": null,
+              "item_ja": "せんせいのツメ"
+            },
+            {
+              "ndex": "0730",
+              "en": "Primarina",
+              "ja": "アシレーヌ",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Waterium Z",
+              "tera": null,
+              "types": [
+                "Water",
+                "Fairy"
+              ],
+              "moves": [
+                {
+                  "en": "Sparkling Aria",
+                  "ja": "うたかたのアリア"
+                },
+                {
+                  "en": "Dazzling Gleam",
+                  "ja": "マジカルシャイン"
+                },
+                {
+                  "en": "Blizzard",
+                  "ja": "ふぶき"
+                },
+                {
+                  "en": "Aqua Jet",
+                  "ja": "アクアジェット"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "みず",
+                "フェアリー"
+              ],
+              "tera_ja": null,
+              "item_ja": "ミズＺ"
+            },
+            {
+              "ndex": "0038",
+              "en": "Ninetales",
+              "ja": "キュウコン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Passho Berry",
+              "tera": null,
+              "types": [
+                "Fire"
+              ],
+              "moves": [
+                {
+                  "en": "Will-O-Wisp",
+                  "ja": "おにび"
+                },
+                {
+                  "en": "Hex",
+                  "ja": "たたりめ"
+                },
+                {
+                  "en": "Confuse Ray",
+                  "ja": "あやしいひかり"
+                },
+                {
+                  "en": "Flame Burst",
+                  "ja": "はじけるほのお"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお"
+              ],
+              "tera_ja": null,
+              "item_ja": "イトケのみ"
+            },
+            {
+              "ndex": "0038",
+              "en": "Ninetales",
+              "ja": "キュウコン",
+              "form": "-Alola",
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Icium Z",
+              "tera": null,
+              "types": [
+                "Ice",
+                "Fairy"
+              ],
+              "moves": [
+                {
+                  "en": "Aurora Veil",
+                  "ja": "オーロラベール"
+                },
+                {
+                  "en": "Hypnosis",
+                  "ja": "さいみんじゅつ"
+                },
+                {
+                  "en": "Dream Eater",
+                  "ja": "ゆめくい"
+                },
+                {
+                  "en": "Blizzard",
+                  "ja": "ふぶき"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "こおり",
+                "フェアリー"
+              ],
+              "tera_ja": null,
+              "item_ja": "コオリＺ"
+            },
+            {
+              "ndex": "0038",
+              "en": "Ninetales",
+              "ja": "キュウコン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Wide Lens",
+              "tera": null,
+              "types": [
+                "Fire"
+              ],
+              "moves": [
+                {
+                  "en": "Fire Blast",
+                  "ja": "だいもんじ"
+                },
+                {
+                  "en": "Dark Pulse",
+                  "ja": "あくのはどう"
+                },
+                {
+                  "en": "Hypnosis",
+                  "ja": "さいみんじゅつ"
+                },
+                {
+                  "en": "Energy Ball",
+                  "ja": "エナジーボール"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ほのお"
+              ],
+              "tera_ja": null,
+              "item_ja": "こうかくレンズ"
+            },
+            {
+              "ndex": "0628",
+              "en": "Braviary",
+              "ja": "ウォーグル",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Choice Scarf",
+              "tera": null,
+              "types": [
+                "Normal",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Brave Bird",
+                  "ja": "ブレイブバード"
+                },
+                {
+                  "en": "Return",
+                  "ja": "おんがえし"
+                },
+                {
+                  "en": "U-turn",
+                  "ja": "とんぼがえり"
+                },
+                {
+                  "en": "Rock Slide",
+                  "ja": "いわなだれ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "こだわりスカーフ"
+            },
+            {
+              "ndex": "0462",
+              "en": "Magnezone",
+              "ja": "ジバコイル",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Bright Powder",
+              "tera": null,
+              "types": [
+                "Electric",
+                "Steel"
+              ],
+              "moves": [
+                {
+                  "en": "Thunder",
+                  "ja": "かみなり"
+                },
+                {
+                  "en": "Flash Cannon",
+                  "ja": "ラスターカノン"
+                },
+                {
+                  "en": "Magnet Rise",
+                  "ja": "でんじふゆう"
+                },
+                {
+                  "en": "Thunder Wave",
+                  "ja": "でんじは"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "でんき",
+                "はがね"
+              ],
+              "tera_ja": null,
+              "item_ja": "ひかりのこな"
+            },
+            {
+              "ndex": "0143",
+              "en": "Snorlax",
+              "ja": "カビゴン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Life Orb",
+              "tera": null,
+              "types": [
+                "Normal"
+              ],
+              "moves": [
+                {
+                  "en": "Double-Edge",
+                  "ja": "すてみタックル"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                },
+                {
+                  "en": "Protect",
+                  "ja": "まもる"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル"
+              ],
+              "tera_ja": null,
+              "item_ja": "いのちのたま"
+            },
+            {
+              "ndex": "0038",
+              "en": "Ninetales",
+              "ja": "キュウコン",
+              "form": "-Alola",
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Psychium Z",
+              "tera": null,
+              "types": [
+                "Ice",
+                "Fairy"
+              ],
+              "moves": [
+                {
+                  "en": "Freeze-Dry",
+                  "ja": "フリーズドライ"
+                },
+                {
+                  "en": "Dazzling Gleam",
+                  "ja": "マジカルシャイン"
+                },
+                {
+                  "en": "Extrasensory",
+                  "ja": "じんつうりき"
+                },
+                {
+                  "en": "Ice Shard",
+                  "ja": "こおりのつぶて"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "こおり",
+                "フェアリー"
+              ],
+              "tera_ja": null,
+              "item_ja": "エスパーＺ"
+            },
+            {
+              "ndex": "0628",
+              "en": "Braviary",
+              "ja": "ウォーグル",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Wacan Berry",
+              "tera": null,
+              "types": [
+                "Normal",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Brave Bird",
+                  "ja": "ブレイブバード"
+                },
+                {
+                  "en": "Tailwind",
+                  "ja": "おいかぜ"
+                },
+                {
+                  "en": "Superpower",
+                  "ja": "ばかぢから"
+                },
+                {
+                  "en": "Giga Impact",
+                  "ja": "ギガインパクト"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": "ソクノのみ"
+            },
+            {
+              "ndex": "0462",
+              "en": "Magnezone",
+              "ja": "ジバコイル",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Assault Vest",
+              "tera": null,
+              "types": [
+                "Electric",
+                "Steel"
+              ],
+              "moves": [
+                {
+                  "en": "Thunderbolt",
+                  "ja": "１０まんボルト"
+                },
+                {
+                  "en": "Flash Cannon",
+                  "ja": "ラスターカノン"
+                },
+                {
+                  "en": "Tri Attack",
+                  "ja": "トライアタック"
+                },
+                {
+                  "en": "Volt Switch",
+                  "ja": "ボルトチェンジ"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "でんき",
+                "はがね"
+              ],
+              "tera_ja": null,
+              "item_ja": "とつげきチョッキ"
+            },
+            {
+              "ndex": "0143",
+              "en": "Snorlax",
+              "ja": "カビゴン",
+              "form": null,
+              "level": 50,
+              "gender": null,
+              "ability_en": null,
+              "ability_ja": null,
+              "item": "Assault Vest",
+              "tera": null,
+              "types": [
+                "Normal"
+              ],
+              "moves": [
+                {
+                  "en": "Body Slam",
+                  "ja": "のしかかり"
+                },
+                {
+                  "en": "Fissure",
+                  "ja": "じわれ"
+                },
+                {
+                  "en": "Earthquake",
+                  "ja": "じしん"
+                },
+                {
+                  "en": "Crunch",
+                  "ja": "かみくだく"
+                }
+              ],
+              "gender_ja": null,
+              "types_ja": [
+                "ノーマル"
+              ],
+              "tera_ja": null,
+              "item_ja": "とつげきチョッキ"
+            }
+          ],
+          "game_ja": "ウルトラサン・ウルトラムーン",
+          "location_ja": "バトルツリー",
+          "section_ja": "バトルツリー（スーパーコース）",
+          "section_needs_review": false,
+          "note_ja": "バトルツリーのスーパーコースで、10戦ごとにランダムで登場します（ウルトラサン・ウルトラムーンのみ）。下の18セットから、シングルでは3体、ダブルでは4体、マルチでは2体が選ばれます。性別と特性は対戦ごとにランダムです。"
         }
       ],
       "role_ja": "チャンピオン",

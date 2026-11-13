@@ -38,6 +38,13 @@
       "order": 5
     },
     {
+      "page": "Red (game)",
+      "ja": "レッド",
+      "role": "champion",
+      "region": "カントー",
+      "order": 7
+    },
+    {
       "page": "Trace (game)",
       "ja": "シン",
       "role": "rival",

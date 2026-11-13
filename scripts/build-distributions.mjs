@@ -15,6 +15,8 @@ import path from "node:path";
 const root = process.cwd();
 const readJson = (relativePath) => JSON.parse(fs.readFileSync(path.join(root, relativePath), "utf8"));
 
+const schema = readJson("distributions/schema.json");
+const eventKinds = new Set(schema.$defs.entry.properties.event.properties.kind.enum);
 const titles = readJson("games/titles.json");
 const titleIds = new Set(titles.map((t) => t.id));
 
@@ -222,7 +224,7 @@ function convertRegion(entry) {
   return entry.region.join(",");
 }
 
-// entry.event の kind → 表示用ラベル。未知の kind はそのまま通す
+// entry.event の kind → 表示用ラベル。許容値は schema の enum で検証する
 // 消費側がラベル一致で絞り込むため（summary-pages の /regional/ は 'Regional' で比較する）、
 // schema の kind enum は全部ここに載せる。載せ漏れると素通しになり、ページから静かに消える
 const TOURNAMENT_TYPE_LABEL = {
@@ -238,7 +240,14 @@ const TOURNAMENT_TYPE_LABEL = {
 // ---- tournament系: entry.event から展開（champions に限らず全データセット） ----
 function convertTournamentFields(entry, managementId) {
   const event = entry.event;
-  if (!event) return {};
+  if (!("event" in entry)) return {};
+  // schema の event は type: object で、kind は必須ではない。kind があるときだけ enum で検証する
+  if (event === null || typeof event !== "object" || Array.isArray(event)) {
+    throw new Error(`managementId=${managementId}: event はオブジェクトでなければなりません（distributions/schema.json）`);
+  }
+  if ("kind" in event && !eventKinds.has(event.kind)) {
+    throw new Error(`managementId=${managementId}: event.kind "${event.kind}" が distributions/schema.json の enum にありません`);
+  }
   const out = {};
   out.tournamentType = TOURNAMENT_TYPE_LABEL[event.kind] ?? event.kind;
   if (event.year !== undefined) out.tournamentYear = event.year;
@@ -382,6 +391,7 @@ const datasetNotes = {};
 // 重複エントリ（正本の duplicateOf）は pokemon.json に出さず、重複id→本来のid の対応だけを meta.json へ渡す。
 // 消費側は公開URL /pokemon/{重複id} を本来のidのページへ転送する（正本: distributions/schema.json の duplicateOf）
 const redirects = {};
+const idToFile = new Map();
 
 for (const { dataset, file } of DATASETS) {
   const payload = readJson(path.join("distributions", file));
@@ -398,13 +408,14 @@ for (const { dataset, file } of DATASETS) {
     throw new Error(`${file}: generation が数値ではありません (${JSON.stringify(payload.generation)})`);
   }
 
-  // ファイル内id一意性の防御的検査
-  const idSet = new Set();
+  // 出力から除く duplicateOf も含め、全ファイルで id を一意にする
   for (const entry of payload.entries) {
-    if (idSet.has(entry.id)) {
-      throw new Error(`${file}: id "${entry.id}" が重複しています`);
+    if (idToFile.has(entry.id)) {
+      throw new Error(`${file}: id "${entry.id}" が重複しています（先のファイル: ${idToFile.get(entry.id)}）`);
     }
-    idSet.add(entry.id);
+    idToFile.set(entry.id, file);
+    // duplicateOf のエントリも enum 検査を省略しない。
+    convertTournamentFields(entry, entry.id);
   }
 
   for (const entry of payload.entries) {

@@ -46,12 +46,27 @@ for (const [apiKey, mapping] of Object.entries(pokemonNames)) {
   }
 }
 
-for (const entry of Object.values(pokemon)) {
-  if (!Array.isArray(entry.types) || entry.types.length === 0) {
-    throw new Error(`pokemon/all.json has pokemon without types: ${entry.name_ja}`);
+const validTypes = new Set(Object.values(readJson("mappings/types.json")));
+function validateTypes(types, label) {
+  if (!Array.isArray(types) || types.length < 1 || types.length > 2) {
+    throw new Error(`pokemon/all.json ${label}: types must be an array of length 1-2`);
   }
+  if (new Set(types).size !== types.length) {
+    throw new Error(`pokemon/all.json ${label}: types contains duplicates`);
+  }
+  for (const type of types) {
+    if (!validTypes.has(type)) {
+      throw new Error(`pokemon/all.json ${label}: unknown type '${type}'`);
+    }
+  }
+}
+
+for (const entry of Object.values(pokemon)) {
+  validateTypes(entry.types, entry.name_ja);
 
   for (const form of entry.forms ?? []) {
+    // フォームの types は省略できる（必須キーではない）。あるときだけ検証する
+    if ("types" in form) validateTypes(form.types, `${entry.name_ja} form ${form.form_id}`);
     for (const key of ["form_id", "form_name_ja", "form_name_en", "category"]) {
       if (!(key in form)) {
         throw new Error(`pokemon/all.json form is missing required key: ${key}`);
@@ -64,7 +79,6 @@ for (const entry of Object.values(pokemon)) {
 const history = readJson("pokemon/history.json");
 const groups = readJson("games/groups.json");
 const validDebutGames = new Set(groups.map((g) => g.id));
-const validTypes = new Set(Object.values(readJson("mappings/types.json")));
 
 if (typeof history._note !== "string" || !history._note) {
   throw new Error("pokemon/history.json is missing _note");

@@ -1,0 +1,268 @@
+{
+  "_description": "地名・施設名の英日対比表。四天王データ（trainers/elite-four.json）の location 英日ペアを、2026-11-14 の公式名監査（T-071）で1件ずつ出典確認した値のみ収録する。日本語名はゲーム内表記に合わせる（ひらがなの地名はひらがなのまま。SV 以降の地名は漢字固定の公式表記）。固有名詞が存在しない説明的表記（Third Gym 等）は入れない。",
+  "_source": "ポケモンWiki 各地名ページ / Bulbapedia 地名一覧（監査ノート: pokebros-content-hub/research-notes/20261114-location-ja-audit.md）",
+  "aether-house": {
+    "en": "Aether House",
+    "ja": "エーテルハウス"
+  },
+  "aether-paradise": {
+    "en": "Aether Paradise",
+    "ja": "エーテルパラダイス"
+  },
+  "area-zero": {
+    "en": "Area Zero",
+    "ja": "エリアゼロ"
+  },
+  "area-zero-underdepths": {
+    "en": "Area Zero Underdepths",
+    "ja": "ゼロの大空洞"
+  },
+  "battle-chateau": {
+    "en": "Battle Chateau",
+    "ja": "バトルシャトー"
+  },
+  "battle-court": {
+    "en": "Battle Court",
+    "ja": "バトルコート"
+  },
+  "battle-maison": {
+    "en": "Battle Maison",
+    "ja": "バトルハウス"
+  },
+  "battle-royal-dome": {
+    "en": "Battle Royal Dome",
+    "ja": "ロイヤルドーム"
+  },
+  "battle-tree": {
+    "en": "Battle Tree",
+    "ja": "バトルツリー"
+  },
+  "blueberry-academy": {
+    "en": "Blueberry Academy",
+    "ja": "ブルーベリー学園"
+  },
+  "cabo-poco": {
+    "en": "Cabo Poco",
+    "ja": "コサジタウン"
+  },
+  "cafe-woof": {
+    "en": "Café Woof",
+    "ja": "カフェ・トウトウ"
+  },
+  "cerulean-city": {
+    "en": "Cerulean City",
+    "ja": "ハナダシティ"
+  },
+  "crown-tundra": {
+    "en": "Crown Tundra",
+    "ja": "カンムリせつげん"
+  },
+  "diglett-s-tunnel": {
+    "en": "Diglett's Tunnel",
+    "ja": "ディグダトンネル"
+  },
+  "dreaded-den": {
+    "en": "Dreaded Den",
+    "ja": "恐れ穴"
+  },
+  "ever-grande-city": {
+    "en": "Ever Grande City",
+    "ja": "サイユウシティ"
+  },
+  "exeggutor-island": {
+    "en": "Exeggutor Island",
+    "ja": "ナッシー・アイランド"
+  },
+  "fighting-dojo": {
+    "en": "Fighting Dojo",
+    "ja": "格闘道場"
+  },
+  "floccesy-town": {
+    "en": "Floccesy Town",
+    "ja": "サンギタウン"
+  },
+  "fuchsia-gym": {
+    "en": "Fuchsia Gym",
+    "ja": "セキチクジム"
+  },
+  "hoenn": {
+    "en": "Hoenn",
+    "ja": "ホウエン地方"
+  },
+  "hotel-richissime": {
+    "en": "Hotel Richissime",
+    "ja": "グランドホテル シュールリッシュ"
+  },
+  "iki-town": {
+    "en": "Iki Town",
+    "ja": "リリィタウン"
+  },
+  "indigo-plateau": {
+    "en": "Indigo Plateau",
+    "ja": "セキエイこうげん"
+  },
+  "loyalty-plaza": {
+    "en": "Loyalty Plaza",
+    "ja": "ともっこプラザ"
+  },
+  "malie-city": {
+    "en": "Malie City",
+    "ja": "マリエシティ"
+  },
+  "master-dojo": {
+    "en": "Master Dojo",
+    "ja": "マスター道場"
+  },
+  "max-lair": {
+    "en": "Max Lair",
+    "ja": "マックスダイすあな"
+  },
+  "medali-gym": {
+    "en": "Medali Gym",
+    "ja": "チャンプルジム"
+  },
+  "mesagoza": {
+    "en": "Mesagoza",
+    "ja": "テーブルシティ"
+  },
+  "meteor-falls": {
+    "en": "Meteor Falls",
+    "ja": "りゅうせいのたき"
+  },
+  "mossdeep-space-center": {
+    "en": "Mossdeep Space Center",
+    "ja": "トクサネうちゅうセンター"
+  },
+  "mossui-town": {
+    "en": "Mossui Town",
+    "ja": "スイリョクタウン"
+  },
+  "mount-hokulani": {
+    "en": "Mount Hokulani",
+    "ja": "ホクラニ岳"
+  },
+  "mount-lanakila": {
+    "en": "Mount Lanakila",
+    "ja": "ラナキラマウンテン"
+  },
+  "opelucid-gym": {
+    "en": "Opelucid Gym",
+    "ja": "ソウリュウジム"
+  },
+  "paniola-town": {
+    "en": "Paniola Town",
+    "ja": "オハナタウン"
+  },
+  "paradise-barrens": {
+    "en": "Paradise Barrens",
+    "ja": "楽土の荒地"
+  },
+  "pokemon-league": {
+    "en": "Pokémon League",
+    "ja": "ポケモンリーグ"
+  },
+  "pokemon-tower": {
+    "en": "Pokémon Tower",
+    "ja": "ポケモンタワー"
+  },
+  "pokemon-world-tournament": {
+    "en": "Pokémon World Tournament",
+    "ja": "ポケモンワールドトーナメント"
+  },
+  "professor-oak-s-laboratory": {
+    "en": "Professor Oak's Laboratory",
+    "ja": "オーキド研究所"
+  },
+  "restaurant-le-nah": {
+    "en": "Restaurant Le Nah",
+    "ja": "レストラン・ド・フツー"
+  },
+  "restaurant-le-wow": {
+    "en": "Restaurant Le Wow",
+    "ja": "レストラン・ド・キワミ"
+  },
+  "restaurant-le-yeah": {
+    "en": "Restaurant Le Yeah",
+    "ja": "リストランテ ニ・リュー"
+  },
+  "route-1": {
+    "en": "Route 1",
+    "ja": "１番道路"
+  },
+  "route-131": {
+    "en": "Route 131",
+    "ja": "１３１番水道"
+  },
+  "route-2": {
+    "en": "Route 2",
+    "ja": "２番道路"
+  },
+  "route-22": {
+    "en": "Route 22",
+    "ja": "22番道路"
+  },
+  "route-3": {
+    "en": "Route 3",
+    "ja": "３番道路"
+  },
+  "ruins-of-life": {
+    "en": "Ruins of Life",
+    "ja": "いのちのいせき"
+  },
+  "s-s-anne": {
+    "en": "S.S. Anne",
+    "ja": "サント・アンヌ号"
+  },
+  "seafolk-village": {
+    "en": "Seafolk Village",
+    "ja": "うみのたみのむら"
+  },
+  "silph-co": {
+    "en": "Silph Co.",
+    "ja": "シルフカンパニー"
+  },
+  "slippery-slope": {
+    "en": "Slippery Slope",
+    "ja": "すべりだしせつげん"
+  },
+  "sootopolis-gym": {
+    "en": "Sootopolis Gym",
+    "ja": "ルネジム"
+  },
+  "south-province-area-one": {
+    "en": "South Province (Area One)",
+    "ja": "南１番エリア"
+  },
+  "southern-island": {
+    "en": "Southern Island",
+    "ja": "みなみのことう"
+  },
+  "sushi-high-roller": {
+    "en": "Sushi High Roller",
+    "ja": "レストラン ローリングドリーマー"
+  },
+  "team-rocket-hq": {
+    "en": "Team Rocket HQ",
+    "ja": "ロケットだんアジト"
+  },
+  "tower-of-darkness": {
+    "en": "Tower of Darkness",
+    "ja": "あくの塔"
+  },
+  "undella-town": {
+    "en": "Undella Town",
+    "ja": "サザナミタウン"
+  },
+  "vast-poni-canyon": {
+    "en": "Vast Poni Canyon",
+    "ja": "ポニのだいきょうこく"
+  },
+  "viridian-gym": {
+    "en": "Viridian Gym",
+    "ja": "トキワジム"
+  },
+  "wyndon-stadium": {
+    "en": "Wyndon Stadium",
+    "ja": "シュートスタジアム"
+  }
+}

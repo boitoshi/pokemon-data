@@ -209,6 +209,15 @@ L3 成果物    build/pokemon.json（app-runtime schema・消費側共通・コ�
 - 成果物は `build/*` を `.gitignore` 除外（`!build/pokemon.json` `!build/meta.json` `!build/abbreviations.json`）＝**コミット方式**。
 - 既存 CI が兄弟 repo を checkout しない前提のため、consumer は生成物をそのまま参照できる。
 
+## 移行スクリプト（一度きりの seed・逆写像の対）
+
+`scripts/migrate-gen5-7.mjs` / `migrate-from-app.mjs` / `migrate-champions.mjs`。
+`build-distributions.mjs` はこの3本の逆写像。
+<!-- 2026-10-07: 移行時の受入テスト test-build-compat.mjs（build と distribution-app のコピーの照合）を引退。比較相手のアプリが ADR 0017 で summary-pages に一本化・アーカイブ待ちになり、main の時点で説明のつかない差分が37件残って FAIL し続けていたため。 -->
+<!-- 2026-11-14 T-068 S1: 「現在の構成」節の削除で一緒に消えていたが、時点の状態ではなく再実行の事故を防ぐ記述なので、節として残す（migrate-from-app.mjs は gen8/9 を毎回フル再生成する作り） -->
+
+---
+
 ## 期限表（イベント期限データ・2026-08-08）
 
 「開催期間があるイベント」を手書きで持つ表。

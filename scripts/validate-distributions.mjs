@@ -144,8 +144,15 @@ for (const fileName of files) {
       }
     }
 
-    if ("event" in entry && !eventKinds.has(entry.event?.kind)) {
-      throw new Error(`${where}: event.kind "${entry.event?.kind}" が distributions/schema.json の enum にありません`);
+    // schema の event は type: object で、kind は必須ではない。kind があるときだけ enum で検証する
+    if ("event" in entry) {
+      const ev = entry.event;
+      if (ev === null || typeof ev !== "object" || Array.isArray(ev)) {
+        throw new Error(`${where}: event はオブジェクトでなければなりません（distributions/schema.json）`);
+      }
+      if ("kind" in ev && !eventKinds.has(ev.kind)) {
+        throw new Error(`${where}: event.kind "${ev.kind}" が distributions/schema.json の enum にありません`);
+      }
     }
 
     allEntries.push({ entry, where });

@@ -36,7 +36,11 @@ try {
       return copy;
     }
     for (const valid of [[types[0]], types.slice(0, 2)]) check(withTypes(valid), 0);
-    for (const invalid of [undefined, null, types[0], [], types.slice(0, 3), [types[0], types[0]], ["INVALID_TYPE"]]) {
+    // フォームの types は省略できる（undefined は JSON に書くとキーごと消える）
+    if (target === "form") check(withTypes(undefined), 0);
+    const invalids = [null, types[0], [], types.slice(0, 3), [types[0], types[0]], ["INVALID_TYPE"]];
+    if (target === "species") invalids.unshift(undefined);
+    for (const invalid of invalids) {
       check(withTypes(invalid), 1, /types|unknown type/);
     }
   }

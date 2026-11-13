@@ -241,8 +241,12 @@ const TOURNAMENT_TYPE_LABEL = {
 function convertTournamentFields(entry, managementId) {
   const event = entry.event;
   if (!("event" in entry)) return {};
-  if (!eventKinds.has(event?.kind)) {
-    throw new Error(`managementId=${managementId}: event.kind "${event?.kind}" が distributions/schema.json の enum にありません`);
+  // schema の event は type: object で、kind は必須ではない。kind があるときだけ enum で検証する
+  if (event === null || typeof event !== "object" || Array.isArray(event)) {
+    throw new Error(`managementId=${managementId}: event はオブジェクトでなければなりません（distributions/schema.json）`);
+  }
+  if ("kind" in event && !eventKinds.has(event.kind)) {
+    throw new Error(`managementId=${managementId}: event.kind "${event.kind}" が distributions/schema.json の enum にありません`);
   }
   const out = {};
   out.tournamentType = TOURNAMENT_TYPE_LABEL[event.kind] ?? event.kind;

@@ -65,7 +65,8 @@ for (const entry of Object.values(pokemon)) {
   validateTypes(entry.types, entry.name_ja);
 
   for (const form of entry.forms ?? []) {
-    validateTypes(form.types, `${entry.name_ja} form ${form.form_id}`);
+    // フォームの types は省略できる（必須キーではない）。あるときだけ検証する
+    if ("types" in form) validateTypes(form.types, `${entry.name_ja} form ${form.form_id}`);
     for (const key of ["form_id", "form_name_ja", "form_name_en", "category"]) {
       if (!(key in form)) {
         throw new Error(`pokemon/all.json form is missing required key: ${key}`);

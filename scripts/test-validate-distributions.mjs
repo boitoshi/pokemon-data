@@ -43,11 +43,18 @@ try {
     write("distributions/gen9.json", copy);
     check(0);
   }
-  for (const event of [{ kind: "INVALID_KIND" }, {}, null]) {
+  // kind の無い event は schema が許すので通る
+  for (const event of [{}, { year: 2027 }]) {
     const copy = structuredClone(gen9);
     copy.entries[0].event = event;
     write("distributions/gen9.json", copy);
-    check(1, /event\.kind/);
+    check(0);
+  }
+  for (const event of [{ kind: "INVALID_KIND" }, null, "x"]) {
+    const copy = structuredClone(gen9);
+    copy.entries[0].event = event;
+    write("distributions/gen9.json", copy);
+    check(1, /event/);
   }
   write("distributions/gen9.json", gen9);
   const duplicate = structuredClone(gen8);

@@ -1,0 +1,182 @@
+{
+  "_description": "主要人物（博士・ライバル）の英日対比表。英語名は Bulbapedia の当該人物ページ、日本語名はポケモンWiki の当該人物ページ（またはポケモン公式サイト）で1名ずつ照合した値のみを収録する（2026-11-13 照合）。両側を確認できなかった人物は入れない。",
+  "_source": "Bulbapedia 各人物ページ（英語名・本名・初登場世代） / ポケモンWiki 各人物ページ、ポケモン公式サイト（日本語名）",
+  "arven": {
+    "en": "Arven",
+    "generation": 9,
+    "ja": "ペパー",
+    "role": "rival"
+  },
+  "barry": {
+    "en": "Barry",
+    "generation": 4,
+    "ja": "ジュン",
+    "role": "rival"
+  },
+  "bede": {
+    "en": "Bede",
+    "generation": 8,
+    "ja": "ビート",
+    "role": "rival"
+  },
+  "bianca": {
+    "en": "Bianca",
+    "generation": 5,
+    "ja": "ベル",
+    "role": "rival"
+  },
+  "brendan": {
+    "en": "Brendan",
+    "generation": 3,
+    "ja": "ユウキ",
+    "role": "rival"
+  },
+  "calem": {
+    "en": "Calem",
+    "generation": 6,
+    "ja": "カルム",
+    "role": "rival"
+  },
+  "cheren": {
+    "en": "Cheren",
+    "generation": 5,
+    "ja": "チェレン",
+    "role": "rival"
+  },
+  "gladion": {
+    "en": "Gladion",
+    "generation": 7,
+    "ja": "グラジオ",
+    "role": "rival"
+  },
+  "hop": {
+    "en": "Hop",
+    "generation": 8,
+    "ja": "ホップ",
+    "role": "rival"
+  },
+  "hugh": {
+    "en": "Hugh",
+    "generation": 5,
+    "ja": "ヒュウ",
+    "role": "rival"
+  },
+  "marnie": {
+    "en": "Marnie",
+    "generation": 8,
+    "ja": "マリィ",
+    "role": "rival"
+  },
+  "may": {
+    "en": "May",
+    "generation": 3,
+    "ja": "ハルカ",
+    "role": "rival"
+  },
+  "penny": {
+    "en": "Penny",
+    "generation": 9,
+    "ja": "ボタン",
+    "role": "rival"
+  },
+  "professor-birch": {
+    "en": "Professor Birch",
+    "generation": 3,
+    "ja": "オダマキ博士",
+    "role": "professor"
+  },
+  "professor-elm": {
+    "en": "Professor Elm",
+    "generation": 2,
+    "ja": "ウツギ博士",
+    "role": "professor"
+  },
+  "professor-juniper": {
+    "en": "Professor Juniper",
+    "full_name_en": "Aurea Juniper",
+    "generation": 5,
+    "ja": "アララギ博士",
+    "role": "professor"
+  },
+  "professor-magnolia": {
+    "en": "Professor Magnolia",
+    "generation": 8,
+    "ja": "マグノリア博士",
+    "role": "professor"
+  },
+  "professor-oak": {
+    "en": "Professor Oak",
+    "full_name_en": "Samuel Oak",
+    "full_name_ja": "オーキド・ユキナリ",
+    "generation": 1,
+    "ja": "オーキド博士",
+    "role": "professor"
+  },
+  "professor-rowan": {
+    "en": "Professor Rowan",
+    "generation": 4,
+    "ja": "ナナカマド博士",
+    "role": "professor"
+  },
+  "professor-sada": {
+    "en": "Professor Sada",
+    "generation": 9,
+    "ja": "オーリム博士",
+    "role": "professor"
+  },
+  "professor-sycamore": {
+    "en": "Professor Sycamore",
+    "full_name_en": "Augustine Sycamore",
+    "generation": 6,
+    "ja": "プラターヌ博士",
+    "role": "professor"
+  },
+  "professor-turo": {
+    "en": "Professor Turo",
+    "generation": 9,
+    "ja": "フトゥー博士",
+    "role": "professor"
+  },
+  "serena": {
+    "en": "Serena",
+    "generation": 6,
+    "ja": "セレナ",
+    "role": "rival"
+  },
+  "shauna": {
+    "en": "Shauna",
+    "generation": 6,
+    "ja": "サナ",
+    "role": "rival"
+  },
+  "silver": {
+    "en": "Silver",
+    "generation": 2,
+    "ja": "シルバー",
+    "role": "rival"
+  },
+  "sonia": {
+    "en": "Sonia",
+    "generation": 8,
+    "ja": "ソニア",
+    "role": "professor"
+  },
+  "tierno": {
+    "en": "Tierno",
+    "generation": 6,
+    "ja": "ティエルノ",
+    "role": "rival"
+  },
+  "trevor": {
+    "en": "Trevor",
+    "generation": 6,
+    "ja": "トロバ",
+    "role": "rival"
+  },
+  "wally": {
+    "en": "Wally",
+    "generation": 3,
+    "ja": "ミツル",
+    "role": "rival"
+  }
+}

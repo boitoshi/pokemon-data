@@ -38984,7 +38984,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／青の挑戦状",
+          "section_ja": "バトルシャトー／青い挑戦状",
           "section_needs_review": false
         },
         {
@@ -39258,7 +39258,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／赤の挑戦状",
+          "section_ja": "バトルシャトー／赤い挑戦状",
           "section_needs_review": false
         },
         {
@@ -39395,7 +39395,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／黒の挑戦状",
+          "section_ja": "バトルシャトー／黒い挑戦状",
           "section_needs_review": false
         },
         {
@@ -39909,7 +39909,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／青の挑戦状",
+          "section_ja": "バトルシャトー／青い挑戦状",
           "section_needs_review": false
         },
         {
@@ -40179,7 +40179,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／赤の挑戦状",
+          "section_ja": "バトルシャトー／赤い挑戦状",
           "section_needs_review": false
         },
         {
@@ -40314,7 +40314,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／黒の挑戦状",
+          "section_ja": "バトルシャトー／黒い挑戦状",
           "section_needs_review": false
         }
       ],
@@ -40782,7 +40782,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／青の挑戦状",
+          "section_ja": "バトルシャトー／青い挑戦状",
           "section_needs_review": false
         },
         {
@@ -41058,7 +41058,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／赤の挑戦状",
+          "section_ja": "バトルシャトー／赤い挑戦状",
           "section_needs_review": false
         },
         {
@@ -41196,7 +41196,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／黒の挑戦状",
+          "section_ja": "バトルシャトー／黒い挑戦状",
           "section_needs_review": false
         }
       ],
@@ -41659,7 +41659,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／青の挑戦状",
+          "section_ja": "バトルシャトー／青い挑戦状",
           "section_needs_review": false
         },
         {
@@ -41933,7 +41933,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／赤の挑戦状",
+          "section_ja": "バトルシャトー／赤い挑戦状",
           "section_needs_review": false
         },
         {
@@ -42070,7 +42070,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／黒の挑戦状",
+          "section_ja": "バトルシャトー／黒い挑戦状",
           "section_needs_review": false
         }
       ],
@@ -42522,6 +42522,182 @@
         },
         {
           "game": "XY",
+          "section": "Battle Chateau - Blue Writ of Challenge",
+          "branch": null,
+          "branch_ja": null,
+          "location": "Battle Chateau",
+          "is_league": false,
+          "team": [
+            {
+              "ndex": "0701",
+              "en": "Hawlucha",
+              "ja": "ルチャブル",
+              "form": null,
+              "level": 50,
+              "gender": "female",
+              "ability_en": "Limber",
+              "ability_ja": "じゅうなん",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Fighting",
+                "Flying"
+              ],
+              "moves": [
+                {
+                  "en": "Endeavor",
+                  "ja": "がむしゃら"
+                },
+                {
+                  "en": "Feather Dance",
+                  "ja": "フェザーダンス"
+                },
+                {
+                  "en": "High Jump Kick",
+                  "ja": "とびひざげり"
+                },
+                {
+                  "en": "Sky Attack",
+                  "ja": "ゴッドバード"
+                }
+              ],
+              "gender_ja": "メス",
+              "types_ja": [
+                "かくとう",
+                "ひこう"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0711",
+              "en": "Gourgeist",
+              "ja": "パンプジン",
+              "form": null,
+              "level": 50,
+              "gender": "female",
+              "ability_en": "Pickup",
+              "ability_ja": "ものひろい",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Ghost",
+                "Grass"
+              ],
+              "moves": [
+                {
+                  "en": "Shadow Ball",
+                  "ja": "シャドーボール"
+                },
+                {
+                  "en": "Trick-or-Treat",
+                  "ja": "ハロウィン"
+                },
+                {
+                  "en": "Pain Split",
+                  "ja": "いたみわけ"
+                },
+                {
+                  "en": "Seed Bomb",
+                  "ja": "タネばくだん"
+                }
+              ],
+              "gender_ja": "メス",
+              "types_ja": [
+                "ゴースト",
+                "くさ"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0706",
+              "en": "Goodra",
+              "ja": "ヌメルゴン",
+              "form": null,
+              "level": 50,
+              "gender": "female",
+              "ability_en": "Sap Sipper",
+              "ability_ja": "そうしょく",
+              "item": null,
+              "tera": null,
+              "types": [
+                "Dragon"
+              ],
+              "moves": [
+                {
+                  "en": "Body Slam",
+                  "ja": "のしかかり"
+                },
+                {
+                  "en": "Muddy Water",
+                  "ja": "だくりゅう"
+                },
+                {
+                  "en": "Dragon Pulse",
+                  "ja": "りゅうのはどう"
+                },
+                {
+                  "en": "Aqua Tail",
+                  "ja": "アクアテール"
+                }
+              ],
+              "gender_ja": "メス",
+              "types_ja": [
+                "ドラゴン"
+              ],
+              "tera_ja": null,
+              "item_ja": null
+            },
+            {
+              "ndex": "0282",
+              "en": "Gardevoir",
+              "ja": "サーナイト",
+              "form": null,
+              "level": 50,
+              "gender": "female",
+              "ability_en": "Trace",
+              "ability_ja": "トレース",
+              "item": "Gardevoirite",
+              "tera": null,
+              "types": [
+                "Psychic",
+                "Fairy"
+              ],
+              "moves": [
+                {
+                  "en": "Heal Pulse",
+                  "ja": "いやしのはどう"
+                },
+                {
+                  "en": "Calm Mind",
+                  "ja": "めいそう"
+                },
+                {
+                  "en": "Psychic",
+                  "ja": "サイコキネシス"
+                },
+                {
+                  "en": "Imprison",
+                  "ja": "ふういん"
+                }
+              ],
+              "gender_ja": "メス",
+              "types_ja": [
+                "エスパー",
+                "フェアリー"
+              ],
+              "tera_ja": null,
+              "item_ja": "サーナイトナイト"
+            }
+          ],
+          "game_ja": "X・Y",
+          "location_ja": "バトルシャトー",
+          "section_ja": "バトルシャトー／青い挑戦状",
+          "section_needs_review": false
+        },
+        {
+          "game": "XY",
           "section": "Battle Chateau - Writ of Challenge",
           "branch": null,
           "branch_ja": null,
@@ -42698,182 +42874,6 @@
         },
         {
           "game": "XY",
-          "section": "Battle Chateau - Blue Writ of Challenge",
-          "branch": null,
-          "branch_ja": null,
-          "location": "Battle Chateau",
-          "is_league": false,
-          "team": [
-            {
-              "ndex": "0701",
-              "en": "Hawlucha",
-              "ja": "ルチャブル",
-              "form": null,
-              "level": 50,
-              "gender": "female",
-              "ability_en": "Limber",
-              "ability_ja": "じゅうなん",
-              "item": null,
-              "tera": null,
-              "types": [
-                "Fighting",
-                "Flying"
-              ],
-              "moves": [
-                {
-                  "en": "Endeavor",
-                  "ja": "がむしゃら"
-                },
-                {
-                  "en": "Feather Dance",
-                  "ja": "フェザーダンス"
-                },
-                {
-                  "en": "High Jump Kick",
-                  "ja": "とびひざげり"
-                },
-                {
-                  "en": "Sky Attack",
-                  "ja": "ゴッドバード"
-                }
-              ],
-              "gender_ja": "メス",
-              "types_ja": [
-                "かくとう",
-                "ひこう"
-              ],
-              "tera_ja": null,
-              "item_ja": null
-            },
-            {
-              "ndex": "0711",
-              "en": "Gourgeist",
-              "ja": "パンプジン",
-              "form": null,
-              "level": 50,
-              "gender": "female",
-              "ability_en": "Pickup",
-              "ability_ja": "ものひろい",
-              "item": null,
-              "tera": null,
-              "types": [
-                "Ghost",
-                "Grass"
-              ],
-              "moves": [
-                {
-                  "en": "Shadow Ball",
-                  "ja": "シャドーボール"
-                },
-                {
-                  "en": "Trick-or-Treat",
-                  "ja": "ハロウィン"
-                },
-                {
-                  "en": "Pain Split",
-                  "ja": "いたみわけ"
-                },
-                {
-                  "en": "Seed Bomb",
-                  "ja": "タネばくだん"
-                }
-              ],
-              "gender_ja": "メス",
-              "types_ja": [
-                "ゴースト",
-                "くさ"
-              ],
-              "tera_ja": null,
-              "item_ja": null
-            },
-            {
-              "ndex": "0706",
-              "en": "Goodra",
-              "ja": "ヌメルゴン",
-              "form": null,
-              "level": 50,
-              "gender": "female",
-              "ability_en": "Sap Sipper",
-              "ability_ja": "そうしょく",
-              "item": null,
-              "tera": null,
-              "types": [
-                "Dragon"
-              ],
-              "moves": [
-                {
-                  "en": "Body Slam",
-                  "ja": "のしかかり"
-                },
-                {
-                  "en": "Muddy Water",
-                  "ja": "だくりゅう"
-                },
-                {
-                  "en": "Dragon Pulse",
-                  "ja": "りゅうのはどう"
-                },
-                {
-                  "en": "Aqua Tail",
-                  "ja": "アクアテール"
-                }
-              ],
-              "gender_ja": "メス",
-              "types_ja": [
-                "ドラゴン"
-              ],
-              "tera_ja": null,
-              "item_ja": null
-            },
-            {
-              "ndex": "0282",
-              "en": "Gardevoir",
-              "ja": "サーナイト",
-              "form": null,
-              "level": 50,
-              "gender": "female",
-              "ability_en": "Trace",
-              "ability_ja": "トレース",
-              "item": "Gardevoirite",
-              "tera": null,
-              "types": [
-                "Psychic",
-                "Fairy"
-              ],
-              "moves": [
-                {
-                  "en": "Heal Pulse",
-                  "ja": "いやしのはどう"
-                },
-                {
-                  "en": "Calm Mind",
-                  "ja": "めいそう"
-                },
-                {
-                  "en": "Psychic",
-                  "ja": "サイコキネシス"
-                },
-                {
-                  "en": "Imprison",
-                  "ja": "ふういん"
-                }
-              ],
-              "gender_ja": "メス",
-              "types_ja": [
-                "エスパー",
-                "フェアリー"
-              ],
-              "tera_ja": null,
-              "item_ja": "サーナイトナイト"
-            }
-          ],
-          "game_ja": "X・Y",
-          "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／青の挑戦状",
-          "section_needs_review": false
-        },
-        {
-          "game": "XY",
           "section": "Battle Chateau - Red Writ of Challenge",
           "branch": null,
           "branch_ja": null,
@@ -43045,7 +43045,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／赤の挑戦状",
+          "section_ja": "バトルシャトー／赤い挑戦状",
           "section_needs_review": false
         },
         {
@@ -43221,7 +43221,7 @@
           ],
           "game_ja": "X・Y",
           "location_ja": "バトルシャトー",
-          "section_ja": "バトルシャトー／黒の挑戦状",
+          "section_ja": "バトルシャトー／黒い挑戦状",
           "section_needs_review": false
         }
       ],

@@ -352,6 +352,9 @@ brief も「今日まで（終了時刻は未確認）」と出すので、空�
 ---
 
 ## 今後の実装予定
+<!-- 2026-10-13: 「優先度中 / ribbon-tracker の ZA（legends_za）対応（実データ未確認・HOME連携待ち）」を削除。
+     ribbons/catalog.json に legends_za のルートが入っている（数える: jq '[.[]|.routes[]|select(.games|index("legends_za"))]|length' ribbons/catalog.json）。
+     ただし全ルートで verified は null（実機未確認。資料確認日は checkedAt）。 -->
 
 
 ### 優先度低（YAGNI: 複数リポジトリから需要が出たら対応）
@@ -402,6 +405,7 @@ distribution-scraper の `--json` 出力を `scripts/scrape-to-l2.mjs`（provena
 - `champions.json` の `distributionMethod` に `バトルパス Lv.25` と `バトルパス(無料) Lv.25` の2種類があるが、`notes` / `datasetNotes` を読む限りどちらも同じ仕組み（無料枠で Lv.25 到達時の報酬）を指しているように見える。表記ゆれの可能性が高い（2026-08-04 時点で未確認）。揃える場合は `mappings/method-glossary.json` の該当 note も一緒に整理すること
 - `gen7.json` の `07100` の `distributionMethod` が `ALOLA` になっており、`validate-distributions.mjs` が warning を出し続けている。意味不明値のため `mappings/method-glossary.json` でも意図的に扱っていない
 - `eventName` に日本語を含まない配信レコードが残っている（英語名のまま。Bulbapedia 側に日本語のふしぎなおくりものカード名が無いものは自動取得できず、手動補完が必要。経緯は distribution-scraper の TODO.md）。数える: `jq -s '[.[].entries[]|select(.eventName|test("[ぁ-んァ-ヶ一-龯]")|not)]|length' distributions/gen*.json distributions/champions.json`
+  <!-- 2026-10-13: 「13件（07153〜07158 / 08097〜08103）が英語のまま」を削除。0dfdc68（2026-08-04）で日本語化済み（08097〜08099 はその後の重複削除で欠番） -->
 
 ## 下流の消費者
 

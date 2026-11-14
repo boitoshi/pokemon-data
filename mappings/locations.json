@@ -1,6 +1,6 @@
 {
-  "_description": "地名・施設名の英日対比表。四天王データ（trainers/elite-four.json）の location 英日ペアを、2026-11-14 の公式名監査（T-071）で1件ずつ出典確認した値のみ収録する。日本語名はゲーム内表記に合わせる（ひらがなの地名はひらがなのまま。SV 以降の地名は漢字固定の公式表記）。固有名詞が存在しない説明的表記（Third Gym 等）は入れない。",
-  "_source": "ポケモンWiki 各地名ページ / Bulbapedia 地名一覧（監査ノート: pokebros-content-hub/research-notes/20261114-location-ja-audit.md）",
+  "_description": "地名・施設名の英日対比表。四天王データ（trainers/elite-four.json）とジムリーダーデータ（trainers/gym-leaders.json）の location 英日ペアを、公式名監査（T-071: 2026-11-14、T-072: 2026-11-15）で1件ずつ出典確認した値のみ収録する。日本語名はゲーム内表記に合わせる（ひらがなの地名はひらがなのまま。SV 以降の地名は漢字固定の公式表記）。固有名詞が存在しない説明的表記（Third Gym 等）は入れない。",
+  "_source": "ポケモンWiki 各地名ページ / Bulbapedia 地名一覧・各ジム記事（監査ノート: pokebros-content-hub/research-notes/20261114-location-ja-audit.md、20261115-gym-location-ja-audit.md）",
   "aether-house": {
     "en": "Aether House",
     "ja": "エーテルハウス"
@@ -9,6 +9,14 @@
     "en": "Aether Paradise",
     "ja": "エーテルパラダイス"
   },
+  "alfornada-gym": {
+    "en": "Alfornada Gym",
+    "ja": "ベイクジム"
+  },
+  "anistar-gym": {
+    "en": "Anistar Gym",
+    "ja": "ヒャッコクジム"
+  },
   "area-zero": {
     "en": "Area Zero",
     "ja": "エリアゼロ"
@@ -16,6 +24,22 @@
   "area-zero-underdepths": {
     "en": "Area Zero Underdepths",
     "ja": "ゼロの大空洞"
+  },
+  "artazon-gym": {
+    "en": "Artazon Gym",
+    "ja": "ボウルジム"
+  },
+  "aspertia-gym": {
+    "en": "Aspertia Gym",
+    "ja": "ヒオウギジム"
+  },
+  "azalea-gym": {
+    "en": "Azalea Gym",
+    "ja": "ヒワダジム"
+  },
+  "ballonlea-stadium": {
+    "en": "Ballonlea Stadium",
+    "ja": "アラベスクスタジアム"
   },
   "battle-chateau": {
     "en": "Battle Chateau",
@@ -37,6 +61,14 @@
     "en": "Battle Tree",
     "ja": "バトルツリー"
   },
+  "battleground": {
+    "en": "Battleground",
+    "ja": "しょうぶどころ"
+  },
+  "blackthorn-gym": {
+    "en": "Blackthorn Gym",
+    "ja": "フスベジム"
+  },
   "blueberry-academy": {
     "en": "Blueberry Academy",
     "ja": "ブルーベリー学園"
@@ -49,13 +81,61 @@
     "en": "Café Woof",
     "ja": "カフェ・トウトウ"
   },
+  "canalave-gym": {
+    "en": "Canalave Gym",
+    "ja": "ミオジム"
+  },
+  "cascarrafa-gym": {
+    "en": "Cascarrafa Gym",
+    "ja": "カラフジム"
+  },
+  "castelia-gym": {
+    "en": "Castelia Gym",
+    "ja": "ヒウンジム"
+  },
+  "celadon-gym": {
+    "en": "Celadon Gym",
+    "ja": "タマムシジム"
+  },
   "cerulean-city": {
     "en": "Cerulean City",
     "ja": "ハナダシティ"
   },
+  "cerulean-gym": {
+    "en": "Cerulean Gym",
+    "ja": "ハナダジム"
+  },
+  "cianwood-gym": {
+    "en": "Cianwood Gym",
+    "ja": "タンバジム"
+  },
+  "cinnabar-gym": {
+    "en": "Cinnabar Gym",
+    "ja": "グレンじまポケモンジム"
+  },
+  "circhester-stadium": {
+    "en": "Circhester Stadium",
+    "ja": "キルクススタジアム"
+  },
+  "cortondo-gym": {
+    "en": "Cortondo Gym",
+    "ja": "セルクルジム"
+  },
+  "coumarine-gym": {
+    "en": "Coumarine Gym",
+    "ja": "ヒヨクジム"
+  },
   "crown-tundra": {
     "en": "Crown Tundra",
     "ja": "カンムリせつげん"
+  },
+  "cyllage-gym": {
+    "en": "Cyllage Gym",
+    "ja": "ショウヨウジム"
+  },
+  "dewford-gym": {
+    "en": "Dewford Gym",
+    "ja": "ムロジム"
   },
   "diglett-s-tunnel": {
     "en": "Diglett's Tunnel",
@@ -64,6 +144,18 @@
   "dreaded-den": {
     "en": "Dreaded Den",
     "ja": "恐れ穴"
+  },
+  "driftveil-gym": {
+    "en": "Driftveil Gym",
+    "ja": "ホドモエジム"
+  },
+  "ecruteak-gym": {
+    "en": "Ecruteak Gym",
+    "ja": "エンジュジム"
+  },
+  "eterna-gym": {
+    "en": "Eterna Gym",
+    "ja": "ハクタイジム"
   },
   "ever-grande-city": {
     "en": "Ever Grande City",
@@ -81,9 +173,33 @@
     "en": "Floccesy Town",
     "ja": "サンギタウン"
   },
+  "fortree-gym": {
+    "en": "Fortree Gym",
+    "ja": "ヒワマキジム"
+  },
   "fuchsia-gym": {
     "en": "Fuchsia Gym",
     "ja": "セキチクジム"
+  },
+  "geosenge-town": {
+    "en": "Geosenge Town",
+    "ja": "セキタイタウン"
+  },
+  "glaseado-gym": {
+    "en": "Glaseado Gym",
+    "ja": "ナッペ山ジム"
+  },
+  "goldenrod-gym": {
+    "en": "Goldenrod Gym",
+    "ja": "コガネジム"
+  },
+  "hammerlocke-stadium": {
+    "en": "Hammerlocke Stadium",
+    "ja": "ナックルスタジアム"
+  },
+  "hearthome-gym": {
+    "en": "Hearthome Gym",
+    "ja": "ヨスガジム"
   },
   "hoenn": {
     "en": "Hoenn",
@@ -93,6 +209,18 @@
     "en": "Hotel Richissime",
     "ja": "グランドホテル シュールリッシュ"
   },
+  "hulbury-stadium": {
+    "en": "Hulbury Stadium",
+    "ja": "バウスタジアム"
+  },
+  "humilau-gym": {
+    "en": "Humilau Gym",
+    "ja": "セイガイハジム"
+  },
+  "icirrus-gym": {
+    "en": "Icirrus Gym",
+    "ja": "セッカジム"
+  },
   "iki-town": {
     "en": "Iki Town",
     "ja": "リリィタウン"
@@ -101,9 +229,29 @@
     "en": "Indigo Plateau",
     "ja": "セキエイこうげん"
   },
+  "lavaridge-gym": {
+    "en": "Lavaridge Gym",
+    "ja": "フエンジム"
+  },
+  "laverre-gym": {
+    "en": "Laverre Gym",
+    "ja": "クノエジム"
+  },
+  "levincia-gym": {
+    "en": "Levincia Gym",
+    "ja": "ハッコウジム"
+  },
   "loyalty-plaza": {
     "en": "Loyalty Plaza",
     "ja": "ともっこプラザ"
+  },
+  "lumiose-gym": {
+    "en": "Lumiose Gym",
+    "ja": "ミアレジム"
+  },
+  "mahogany-gym": {
+    "en": "Mahogany Gym",
+    "ja": "チョウジジム"
   },
   "malie-city": {
     "en": "Malie City",
@@ -112,6 +260,10 @@
   "master-dojo": {
     "en": "Master Dojo",
     "ja": "マスター道場"
+  },
+  "mauville-gym": {
+    "en": "Mauville Gym",
+    "ja": "キンセツジム"
   },
   "max-lair": {
     "en": "Max Lair",
@@ -129,6 +281,18 @@
     "en": "Meteor Falls",
     "ja": "りゅうせいのたき"
   },
+  "mistralton-gym": {
+    "en": "Mistralton Gym",
+    "ja": "フキヨセジム"
+  },
+  "montenevera-gym": {
+    "en": "Montenevera Gym",
+    "ja": "フリッジジム"
+  },
+  "mossdeep-gym": {
+    "en": "Mossdeep Gym",
+    "ja": "トクサネジム"
+  },
   "mossdeep-space-center": {
     "en": "Mossdeep Space Center",
     "ja": "トクサネうちゅうセンター"
@@ -136,6 +300,10 @@
   "mossui-town": {
     "en": "Mossui Town",
     "ja": "スイリョクタウン"
+  },
+  "motostoke-stadium": {
+    "en": "Motostoke Stadium",
+    "ja": "エンジンスタジアム"
   },
   "mount-hokulani": {
     "en": "Mount Hokulani",
@@ -145,9 +313,25 @@
     "en": "Mount Lanakila",
     "ja": "ラナキラマウンテン"
   },
+  "nacrene-gym": {
+    "en": "Nacrene Gym",
+    "ja": "シッポウジム"
+  },
+  "nimbasa-gym": {
+    "en": "Nimbasa Gym",
+    "ja": "ライモンジム"
+  },
+  "olivine-gym": {
+    "en": "Olivine Gym",
+    "ja": "アサギジム"
+  },
   "opelucid-gym": {
     "en": "Opelucid Gym",
     "ja": "ソウリュウジム"
+  },
+  "oreburgh-gym": {
+    "en": "Oreburgh Gym",
+    "ja": "クロガネジム"
   },
   "paniola-town": {
     "en": "Paniola Town",
@@ -156,6 +340,18 @@
   "paradise-barrens": {
     "en": "Paradise Barrens",
     "ja": "楽土の荒地"
+  },
+  "pastoria-gym": {
+    "en": "Pastoria Gym",
+    "ja": "ノモセジム"
+  },
+  "petalburg-gym": {
+    "en": "Petalburg Gym",
+    "ja": "トウカジム"
+  },
+  "pewter-gym": {
+    "en": "Pewter Gym",
+    "ja": "ニビジム"
   },
   "pokemon-league": {
     "en": "Pokémon League",
@@ -172,6 +368,10 @@
   "professor-oak-s-laboratory": {
     "en": "Professor Oak's Laboratory",
     "ja": "オーキド研究所"
+  },
+  "quasartico-inc": {
+    "en": "Quasartico Inc.",
+    "ja": "クエーサー社"
   },
   "restaurant-le-nah": {
     "en": "Restaurant Le Nah",
@@ -209,13 +409,29 @@
     "en": "Ruins of Life",
     "ja": "いのちのいせき"
   },
+  "rustboro-gym": {
+    "en": "Rustboro Gym",
+    "ja": "カナズミジム"
+  },
   "s-s-anne": {
     "en": "S.S. Anne",
     "ja": "サント・アンヌ号"
   },
+  "saffron-gym": {
+    "en": "Saffron Gym",
+    "ja": "ヤマブキジム"
+  },
+  "santalune-gym": {
+    "en": "Santalune Gym",
+    "ja": "ハクダンジム"
+  },
   "seafolk-village": {
     "en": "Seafolk Village",
     "ja": "うみのたみのむら"
+  },
+  "shalour-gym": {
+    "en": "Shalour Gym",
+    "ja": "シャラジム"
   },
   "silph-co": {
     "en": "Silph Co.",
@@ -224,6 +440,14 @@
   "slippery-slope": {
     "en": "Slippery Slope",
     "ja": "すべりだしせつげん"
+  },
+  "snowbelle-gym": {
+    "en": "Snowbelle Gym",
+    "ja": "エイセツジム"
+  },
+  "snowpoint-gym": {
+    "en": "Snowpoint Gym",
+    "ja": "キッサキジム"
   },
   "sootopolis-gym": {
     "en": "Sootopolis Gym",
@@ -237,6 +461,22 @@
     "en": "Southern Island",
     "ja": "みなみのことう"
   },
+  "spikemuth": {
+    "en": "Spikemuth",
+    "ja": "スパイクタウン"
+  },
+  "stow-on-side-stadium": {
+    "en": "Stow-on-Side Stadium",
+    "ja": "ラテラルスタジアム"
+  },
+  "striaton-gym": {
+    "en": "Striaton Gym",
+    "ja": "サンヨウジム"
+  },
+  "sunyshore-gym": {
+    "en": "Sunyshore Gym",
+    "ja": "ナギサジム"
+  },
   "sushi-high-roller": {
     "en": "Sushi High Roller",
     "ja": "レストラン ローリングドリーマー"
@@ -249,6 +489,10 @@
     "en": "Tower of Darkness",
     "ja": "あくの塔"
   },
+  "turffield-stadium": {
+    "en": "Turffield Stadium",
+    "ja": "ターフスタジアム"
+  },
   "undella-town": {
     "en": "Undella Town",
     "ja": "サザナミタウン"
@@ -256,6 +500,22 @@
   "vast-poni-canyon": {
     "en": "Vast Poni Canyon",
     "ja": "ポニのだいきょうこく"
+  },
+  "veilstone-gym": {
+    "en": "Veilstone Gym",
+    "ja": "トバリジム"
+  },
+  "vermilion-gym": {
+    "en": "Vermilion Gym",
+    "ja": "クチバジム"
+  },
+  "violet-gym": {
+    "en": "Violet Gym",
+    "ja": "キキョウジム"
+  },
+  "virbank-gym": {
+    "en": "Virbank Gym",
+    "ja": "タチワキジム"
   },
   "viridian-gym": {
     "en": "Viridian Gym",

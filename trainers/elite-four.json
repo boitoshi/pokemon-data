@@ -33408,7 +33408,7 @@
               "item": "King's Rock",
               "tera": null,
               "types": [
-                "Normal",
+                "Fairy",
                 "Flying"
               ],
               "moves": [
@@ -33431,7 +33431,7 @@
               ],
               "gender_ja": null,
               "types_ja": [
-                "ノーマル",
+                "フェアリー",
                 "ひこう"
               ],
               "tera_ja": null,
@@ -33611,7 +33611,7 @@
               "item": "Expert Belt",
               "tera": null,
               "types": [
-                "Normal",
+                "Fairy",
                 "Flying"
               ],
               "moves": [
@@ -33634,7 +33634,7 @@
               ],
               "gender_ja": null,
               "types_ja": [
-                "ノーマル",
+                "フェアリー",
                 "ひこう"
               ],
               "tera_ja": null,
@@ -54933,7 +54933,8 @@
                 "いわ"
               ],
               "tera_ja": null,
-              "item_ja": "いのちのたま"
+              "item_ja": "いのちのたま",
+              "form_ja": "まひるのすがた"
             },
             {
               "ndex": "0724",
@@ -55095,7 +55096,8 @@
                 "いわ"
               ],
               "tera_ja": null,
-              "item_ja": "たつじんのおび"
+              "item_ja": "たつじんのおび",
+              "form_ja": "まひるのすがた"
             },
             {
               "ndex": "0724",

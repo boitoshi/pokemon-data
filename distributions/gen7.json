@@ -6060,6 +6060,214 @@
         "kind": "bulbapedia"
       },
       "postUrl": "https://www.pokebros.net/home-how-to-get-shiny-meltan/"
+    },
+    {
+      "id": "07163",
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Shiny Zygarde",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2018-06-01",
+      "endDate": "2018-09-27",
+      "region": [
+        "北米"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "オーラブレイク",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "2018 Legends",
+        "ITA": "2018 Legends",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "060218",
+      "moves": [
+        "グランドフォース",
+        "へびにらみ",
+        "しんぴのまもり",
+        "りゅうのいぶき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "北米 GameStop 等のシリアルコードで配布。SM では Lv60（USUM 版は 07076）。「2018 Legends」の一環。"
+    },
+    {
+      "id": "07164",
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Shiny Zygarde",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2018-06-01",
+      "endDate": "2018-06-22",
+      "region": [
+        "欧州",
+        "豪州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "オーラブレイク",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "Legenden2018",
+        "ITA": "Leggende2018",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "060218",
+      "moves": [
+        "サウザンアロー",
+        "げきりん",
+        "しんそく",
+        "りゅうのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "欧州・豪州ではニンテンドーネットワーク（インターネット）で配信。「2018 Legends」の一環。"
+    },
+    {
+      "id": "07165",
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Shiny Zygarde",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2018-06-01",
+      "endDate": "2018-06-22",
+      "region": [
+        "欧州",
+        "豪州"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "オーラブレイク",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "2018 Legends",
+        "ENG": "2018 Legends",
+        "SPA": "Leyendas2018",
+        "FRE": "Légendes2018",
+        "GER": "Legenden2018",
+        "ITA": "Leggende2018",
+        "KOR": "2018 Legends",
+        "CHS": "2018 Legends",
+        "CHT": "2018 Legends"
+      },
+      "trainerId": "060218",
+      "moves": [
+        "グランドフォース",
+        "へびにらみ",
+        "しんぴのまもり",
+        "りゅうのいぶき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "欧州・豪州ではニンテンドーネットワーク（インターネット）で配信。SM では Lv60。「2018 Legends」の一環。"
+    },
+    {
+      "id": "07166",
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "games": [
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "Shiny Zygarde",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2018-06-01",
+      "endDate": "2018-06-22",
+      "region": [
+        "台湾"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "オーラブレイク",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "きんのおうかん",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "2018 Legends"
+      },
+      "trainerId": "060218",
+      "moves": [
+        "サウザンアロー",
+        "げきりん",
+        "しんそく",
+        "りゅうのまい"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "台湾でもニンテンドーネットワーク（インターネット）で同時期に配信。「2018 Legends」の一環。"
+    },
+    {
+      "id": "07167",
+      "dexNo": 718,
+      "pokemonName": "ジガルデ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "Shiny Zygarde",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2018-06-01",
+      "endDate": "2018-06-22",
+      "region": [
+        "台湾"
+      ],
+      "level": 60,
+      "nature": "ランダム",
+      "ability": "オーラブレイク",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "2018 Legends"
+      },
+      "trainerId": "060218",
+      "moves": [
+        "グランドフォース",
+        "へびにらみ",
+        "しんぴのまもり",
+        "りゅうのいぶき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "台湾でもニンテンドーネットワーク（インターネット）で同時期に配信。SM では Lv60。「2018 Legends」の一環。"
     }
   ]
 }

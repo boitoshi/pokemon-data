@@ -4375,6 +4375,255 @@
       "ribbons": [
         "ウィッシュリボン"
       ]
+    },
+    {
+      "id": "05119",
+      "dexNo": 483,
+      "pokemonName": "ディアルガ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "Summer 2013 Shiny Dialga",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-19",
+      "endDate": "2013-09-08",
+      "region": [
+        "北米"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SUM2013"
+      },
+      "trainerId": "08193",
+      "moves": [
+        "りゅうのはどう",
+        "りゅうせいぐん",
+        "ときのほうこう",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "notes": "アメリカの GameStop 店舗で配布。『ポケットモンスター X・Y』の発売を記念した色違い配布。"
+    },
+    {
+      "id": "05120",
+      "dexNo": 484,
+      "pokemonName": "パルキア",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "Summer 2013 Shiny Palkia",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-09-09",
+      "endDate": "2013-09-29",
+      "region": [
+        "北米"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SUM2013"
+      },
+      "trainerId": "09093",
+      "moves": [
+        "ハイドロポンプ",
+        "りゅうせいぐん",
+        "あくうせつだん",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "notes": "アメリカの GameStop 店舗で配布。『ポケットモンスター X・Y』の発売を記念した色違い配布。"
+    },
+    {
+      "id": "05121",
+      "dexNo": 487,
+      "pokemonName": "ギラティナ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "Summer 2013 Shiny Giratina",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-09-30",
+      "endDate": "2013-10-20",
+      "region": [
+        "北米"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SUM2013"
+      },
+      "trainerId": "09303",
+      "moves": [
+        "りゅうのはどう",
+        "ドラゴンクロー",
+        "はどうだん",
+        "シャドーダイブ"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "notes": "アメリカの GameStop 店舗で配布。『ポケットモンスター X・Y』の発売を記念した色違い配布。"
+    },
+    {
+      "id": "05122",
+      "dexNo": 483,
+      "pokemonName": "ディアルガ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "International Summer 2013 Shiny Dialga",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-08-30",
+      "endDate": "2013-09-12",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SUM2013",
+        "ENG": "SUM2013",
+        "SPA": "VER2013",
+        "FRE": "ÉTÉ2013",
+        "GER": "SOM2013",
+        "ITA": "EST2013"
+      },
+      "trainerId": "08303",
+      "moves": [
+        "りゅうのはどう",
+        "りゅうせいぐん",
+        "ときのほうこう",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "notes": "イギリス GAME、カナダ・オーストラリア EB Games など各国の店舗で配布（国により日程は異なる）。『ポケットモンスター X・Y』の発売を記念した色違い配布。"
+    },
+    {
+      "id": "05123",
+      "dexNo": 484,
+      "pokemonName": "パルキア",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "International Summer 2013 Shiny Palkia",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-09-13",
+      "endDate": "2013-09-26",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SUM2013",
+        "ENG": "SUM2013",
+        "SPA": "VER2013",
+        "FRE": "ÉTÉ2013",
+        "GER": "SOM2013",
+        "ITA": "EST2013"
+      },
+      "trainerId": "09133",
+      "moves": [
+        "ハイドロポンプ",
+        "りゅうせいぐん",
+        "あくうせつだん",
+        "はどうだん"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "notes": "イギリス GAME、カナダ・オーストラリア EB Games など各国の店舗で配布（国により日程は異なる）。『ポケットモンスター X・Y』の発売を記念した色違い配布。"
+    },
+    {
+      "id": "05124",
+      "dexNo": 487,
+      "pokemonName": "ギラティナ",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "International Summer 2013 Shiny Giratina",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-09-27",
+      "endDate": "2013-10-11",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SUM2013",
+        "ENG": "SUM2013",
+        "SPA": "VER2013",
+        "FRE": "ÉTÉ2013",
+        "GER": "SOM2013",
+        "ITA": "EST2013"
+      },
+      "trainerId": "09273",
+      "moves": [
+        "りゅうのはどう",
+        "ドラゴンクロー",
+        "はどうだん",
+        "シャドーダイブ"
+      ],
+      "ribbons": [
+        "メモリアルリボン"
+      ],
+      "notes": "イギリス GAME、カナダ・オーストラリア EB Games など各国の店舗で配布（国により日程は異なる）。『ポケットモンスター X・Y』の発売を記念した色違い配布。"
     }
   ]
 }

@@ -7977,6 +7977,243 @@
     "region": "日本"
   },
   {
+    "managementId": "05119",
+    "pokemonName": "ディアルガ",
+    "dexNo": 483,
+    "generation": 5,
+    "game": "ブラック, ホワイト, ブラック2, ホワイト2",
+    "gameIds": [
+      "black",
+      "white",
+      "black2",
+      "white2"
+    ],
+    "eventName": "Summer 2013 Shiny Dialga",
+    "distributionMethod": "ローカル通信",
+    "startDate": "2013-08-19",
+    "endDate": "2013-09-08",
+    "ot": "SUM2013",
+    "trainerId": "08193",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "プレッシャー",
+    "nature": "ランダム",
+    "moves": [
+      "りゅうのはどう",
+      "りゅうせいぐん",
+      "ときのほうこう",
+      "はどうだん"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "notes": "アメリカの GameStop 店舗で配布。『ポケットモンスター X・Y』の発売を記念した色違い配布。",
+    "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "05120",
+    "pokemonName": "パルキア",
+    "dexNo": 484,
+    "generation": 5,
+    "game": "ブラック, ホワイト, ブラック2, ホワイト2",
+    "gameIds": [
+      "black",
+      "white",
+      "black2",
+      "white2"
+    ],
+    "eventName": "Summer 2013 Shiny Palkia",
+    "distributionMethod": "ローカル通信",
+    "startDate": "2013-09-09",
+    "endDate": "2013-09-29",
+    "ot": "SUM2013",
+    "trainerId": "09093",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "プレッシャー",
+    "nature": "ランダム",
+    "moves": [
+      "ハイドロポンプ",
+      "りゅうせいぐん",
+      "あくうせつだん",
+      "はどうだん"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "notes": "アメリカの GameStop 店舗で配布。『ポケットモンスター X・Y』の発売を記念した色違い配布。",
+    "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "05121",
+    "pokemonName": "ギラティナ",
+    "dexNo": 487,
+    "generation": 5,
+    "game": "ブラック, ホワイト, ブラック2, ホワイト2",
+    "gameIds": [
+      "black",
+      "white",
+      "black2",
+      "white2"
+    ],
+    "eventName": "Summer 2013 Shiny Giratina",
+    "distributionMethod": "ローカル通信",
+    "startDate": "2013-09-30",
+    "endDate": "2013-10-20",
+    "ot": "SUM2013",
+    "trainerId": "09303",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "プレッシャー",
+    "nature": "ランダム",
+    "moves": [
+      "りゅうのはどう",
+      "ドラゴンクロー",
+      "はどうだん",
+      "シャドーダイブ"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "notes": "アメリカの GameStop 店舗で配布。『ポケットモンスター X・Y』の発売を記念した色違い配布。",
+    "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "05122",
+    "pokemonName": "ディアルガ",
+    "dexNo": 483,
+    "generation": 5,
+    "game": "ブラック, ホワイト, ブラック2, ホワイト2",
+    "gameIds": [
+      "black",
+      "white",
+      "black2",
+      "white2"
+    ],
+    "eventName": "International Summer 2013 Shiny Dialga",
+    "distributionMethod": "ローカル通信",
+    "startDate": "2013-08-30",
+    "endDate": "2013-09-12",
+    "ot": {
+      "JPN": "SUM2013",
+      "ENG": "SUM2013",
+      "SPA": "VER2013",
+      "FRE": "ÉTÉ2013",
+      "GER": "SOM2013",
+      "ITA": "EST2013"
+    },
+    "trainerId": "08303",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "プレッシャー",
+    "nature": "ランダム",
+    "moves": [
+      "りゅうのはどう",
+      "りゅうせいぐん",
+      "ときのほうこう",
+      "はどうだん"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "notes": "イギリス GAME、カナダ・オーストラリア EB Games など各国の店舗で配布（国により日程は異なる）。『ポケットモンスター X・Y』の発売を記念した色違い配布。",
+    "region": "北米,欧州,豪州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "05123",
+    "pokemonName": "パルキア",
+    "dexNo": 484,
+    "generation": 5,
+    "game": "ブラック, ホワイト, ブラック2, ホワイト2",
+    "gameIds": [
+      "black",
+      "white",
+      "black2",
+      "white2"
+    ],
+    "eventName": "International Summer 2013 Shiny Palkia",
+    "distributionMethod": "ローカル通信",
+    "startDate": "2013-09-13",
+    "endDate": "2013-09-26",
+    "ot": {
+      "JPN": "SUM2013",
+      "ENG": "SUM2013",
+      "SPA": "VER2013",
+      "FRE": "ÉTÉ2013",
+      "GER": "SOM2013",
+      "ITA": "EST2013"
+    },
+    "trainerId": "09133",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "プレッシャー",
+    "nature": "ランダム",
+    "moves": [
+      "ハイドロポンプ",
+      "りゅうせいぐん",
+      "あくうせつだん",
+      "はどうだん"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "notes": "イギリス GAME、カナダ・オーストラリア EB Games など各国の店舗で配布（国により日程は異なる）。『ポケットモンスター X・Y』の発売を記念した色違い配布。",
+    "region": "北米,欧州,豪州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "05124",
+    "pokemonName": "ギラティナ",
+    "dexNo": 487,
+    "generation": 5,
+    "game": "ブラック, ホワイト, ブラック2, ホワイト2",
+    "gameIds": [
+      "black",
+      "white",
+      "black2",
+      "white2"
+    ],
+    "eventName": "International Summer 2013 Shiny Giratina",
+    "distributionMethod": "ローカル通信",
+    "startDate": "2013-09-27",
+    "endDate": "2013-10-11",
+    "ot": {
+      "JPN": "SUM2013",
+      "ENG": "SUM2013",
+      "SPA": "VER2013",
+      "FRE": "ÉTÉ2013",
+      "GER": "SOM2013",
+      "ITA": "EST2013"
+    },
+    "trainerId": "09273",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "プレッシャー",
+    "nature": "ランダム",
+    "moves": [
+      "りゅうのはどう",
+      "ドラゴンクロー",
+      "はどうだん",
+      "シャドーダイブ"
+    ],
+    "ribbons": [
+      "メモリアルリボン"
+    ],
+    "notes": "イギリス GAME、カナダ・オーストラリア EB Games など各国の店舗で配布（国により日程は異なる）。『ポケットモンスター X・Y』の発売を記念した色違い配布。",
+    "region": "北米,欧州,豪州",
+    "shiny": "あり"
+  },
+  {
     "managementId": "06001",
     "pokemonName": "アチャモ",
     "dexNo": 255,
@@ -22592,6 +22829,208 @@
       "spd": 20,
       "spe": 20
     }
+  },
+  {
+    "managementId": "07163",
+    "pokemonName": "ジガルデ",
+    "dexNo": 718,
+    "generation": 7,
+    "game": "サン, ムーン",
+    "gameIds": [
+      "sun",
+      "moon"
+    ],
+    "eventName": "Shiny Zygarde",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2018-06-01",
+    "endDate": "2018-09-27",
+    "ot": {
+      "JPN": "2018 Legends",
+      "ENG": "2018 Legends",
+      "SPA": "Leyendas2018",
+      "FRE": "Légendes2018",
+      "GER": "2018 Legends",
+      "ITA": "2018 Legends",
+      "KOR": "2018 Legends",
+      "CHS": "2018 Legends",
+      "CHT": "2018 Legends"
+    },
+    "trainerId": "060218",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 60,
+    "ability": "オーラブレイク",
+    "nature": "ランダム",
+    "moves": [
+      "グランドフォース",
+      "へびにらみ",
+      "しんぴのまもり",
+      "りゅうのいぶき"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "北米 GameStop 等のシリアルコードで配布。SM では Lv60（USUM 版は 07076）。「2018 Legends」の一環。",
+    "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "07164",
+    "pokemonName": "ジガルデ",
+    "dexNo": 718,
+    "generation": 7,
+    "game": "ウルトラサン, ウルトラムーン",
+    "gameIds": [
+      "ultra_sun",
+      "ultra_moon"
+    ],
+    "eventName": "Shiny Zygarde",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2018-06-01",
+    "endDate": "2018-06-22",
+    "ot": {
+      "JPN": "2018 Legends",
+      "ENG": "2018 Legends",
+      "SPA": "Leyendas2018",
+      "FRE": "Légendes2018",
+      "GER": "Legenden2018",
+      "ITA": "Leggende2018",
+      "KOR": "2018 Legends",
+      "CHS": "2018 Legends",
+      "CHT": "2018 Legends"
+    },
+    "trainerId": "060218",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "オーラブレイク",
+    "nature": "ランダム",
+    "heldItem": "きんのおうかん",
+    "moves": [
+      "サウザンアロー",
+      "げきりん",
+      "しんそく",
+      "りゅうのまい"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "欧州・豪州ではニンテンドーネットワーク（インターネット）で配信。「2018 Legends」の一環。",
+    "region": "欧州,豪州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "07165",
+    "pokemonName": "ジガルデ",
+    "dexNo": 718,
+    "generation": 7,
+    "game": "サン, ムーン",
+    "gameIds": [
+      "sun",
+      "moon"
+    ],
+    "eventName": "Shiny Zygarde",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2018-06-01",
+    "endDate": "2018-06-22",
+    "ot": {
+      "JPN": "2018 Legends",
+      "ENG": "2018 Legends",
+      "SPA": "Leyendas2018",
+      "FRE": "Légendes2018",
+      "GER": "Legenden2018",
+      "ITA": "Leggende2018",
+      "KOR": "2018 Legends",
+      "CHS": "2018 Legends",
+      "CHT": "2018 Legends"
+    },
+    "trainerId": "060218",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 60,
+    "ability": "オーラブレイク",
+    "nature": "ランダム",
+    "moves": [
+      "グランドフォース",
+      "へびにらみ",
+      "しんぴのまもり",
+      "りゅうのいぶき"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "欧州・豪州ではニンテンドーネットワーク（インターネット）で配信。SM では Lv60。「2018 Legends」の一環。",
+    "region": "欧州,豪州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "07166",
+    "pokemonName": "ジガルデ",
+    "dexNo": 718,
+    "generation": 7,
+    "game": "ウルトラサン, ウルトラムーン",
+    "gameIds": [
+      "ultra_sun",
+      "ultra_moon"
+    ],
+    "eventName": "Shiny Zygarde",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2018-06-01",
+    "endDate": "2018-06-22",
+    "ot": "2018 Legends",
+    "trainerId": "060218",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "オーラブレイク",
+    "nature": "ランダム",
+    "heldItem": "きんのおうかん",
+    "moves": [
+      "サウザンアロー",
+      "げきりん",
+      "しんそく",
+      "りゅうのまい"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "台湾でもニンテンドーネットワーク（インターネット）で同時期に配信。「2018 Legends」の一環。",
+    "region": "台湾",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "07167",
+    "pokemonName": "ジガルデ",
+    "dexNo": 718,
+    "generation": 7,
+    "game": "サン, ムーン",
+    "gameIds": [
+      "sun",
+      "moon"
+    ],
+    "eventName": "Shiny Zygarde",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2018-06-01",
+    "endDate": "2018-06-22",
+    "ot": "2018 Legends",
+    "trainerId": "060218",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 60,
+    "ability": "オーラブレイク",
+    "nature": "ランダム",
+    "moves": [
+      "グランドフォース",
+      "へびにらみ",
+      "しんぴのまもり",
+      "りゅうのいぶき"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "台湾でもニンテンドーネットワーク（インターネット）で同時期に配信。SM では Lv60。「2018 Legends」の一環。",
+    "region": "台湾",
+    "shiny": "あり"
   },
   {
     "managementId": "08076",

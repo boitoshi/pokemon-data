@@ -378,6 +378,23 @@ for (const fileName of files) {
     }
 
     // ability（"ランダム" は特性未確定と判明した場合の許容センチネルなので対象外）
+    // 新規フィールドの違反は既存 ability の警告と分け、最初からエラーにする。
+    if ("abilityCandidates" in entry) {
+      if ("ability" in entry) throw new Error(`${where}: ability と abilityCandidates は同時に存在できません`);
+      const candidates = entry.abilityCandidates;
+      if (!Array.isArray(candidates) || candidates.length < 2) {
+        throw new Error(`${where}: abilityCandidates は2件以上の配列が必要です`);
+      }
+      if (new Set(candidates).size !== candidates.length) {
+        throw new Error(`${where}: abilityCandidates に重複があります`);
+      }
+      for (const candidate of candidates) {
+        if (typeof candidate !== "string" || !abilityNames.has(candidate)) {
+          throw new Error(`${where}: abilityCandidates の値 "${candidate}" が abilities/all.json の name_ja にありません`);
+        }
+      }
+    }
+
     if ("ability" in entry && !ABILITY_SENTINEL_VALUES.has(entry.ability) && !abilityNames.has(entry.ability)) {
       warn("ability-not-in-master", `${where}: ability "${entry.ability}" が abilities/all.json の name_ja にありません`);
     }

@@ -106,6 +106,7 @@ const OUTPUT_KEY_ORDER = [
   "level",
   "gender",
   "ability",
+  "abilityCandidates",
   "nature",
   "heldItem",
   "moves",
@@ -278,6 +279,7 @@ const KNOWN_ENTRY_KEYS = new Set([
   "gender",
   "nature",
   "ability",
+  "abilityCandidates",
   "ball",
   "metLocation",
   "heldItem",
@@ -347,6 +349,10 @@ function convertEntry(entry, generation) {
 
   if (entry.gender !== undefined) out.gender = entry.gender;
   if (entry.ability !== undefined) out.ability = entry.ability;
+  if (entry.abilityCandidates !== undefined) {
+    out.ability = entry.abilityCandidates.join(" / ");
+    out.abilityCandidates = entry.abilityCandidates;
+  }
   if (entry.nature !== undefined) out.nature = entry.nature;
   if (entry.heldItem !== undefined) out.heldItem = entry.heldItem;
 

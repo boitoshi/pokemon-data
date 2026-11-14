@@ -37,6 +37,7 @@
       "type": "object",
       "required": ["id", "dexNo", "pokemonName", "games", "eventName", "distributionMethod", "startDate"],
       "additionalProperties": false,
+      "not": { "required": ["ability", "abilityCandidates"] },
       "properties": {
         "id": {
           "type": "string",
@@ -86,6 +87,7 @@
         "gender": { "type": "string" },
         "nature": { "type": "string", "description": "mappings/natures.json の name_ja に存在すること。「ランダム」＝固定ネイチャー無しと判明した場合の許容値（省略＝不明とは区別）" },
         "ability": { "type": "string", "description": "abilities/all.json の name_ja に存在すること" },
+        "abilityCandidates": { "type": "array", "minItems": 2, "uniqueItems": true, "items": { "type": "string" }, "description": "固定されていない特性の候補。各要素は abilities/all.json の name_ja と完全一致。ability とは排他" },
         "ball": { "type": "string", "description": "mappings/balls.json の値集合に存在すること" },
         "metLocation": { "type": "string" },
         "heldItem": { "type": "string" },

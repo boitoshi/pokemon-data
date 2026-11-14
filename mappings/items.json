@@ -1,0 +1,559 @@
+{
+  "_description": "もちものの英日対比表。収録範囲は trainers データ（四天王・ジムリーダー）で実際に使われている持ち物に限る。日本語名は PokeAPI のゲームデータ由来の公式名を正とし、PokeAPI に日本語名が無い ZA の新メガストーン4件のみ trainers データ側の表記を採用した。",
+  "_source": "PokeAPI data v2 CSV（items.csv / item_names.csv）と trainers/elite-four.json・gym-leaders.json の (item, item_ja) ペア111種の突き合わせ（2026-11-15）",
+  "cheri-berry": {
+    "en": "Cheri Berry",
+    "ja": "クラボのみ",
+    "id": 126
+  },
+  "chesto-berry": {
+    "en": "Chesto Berry",
+    "ja": "カゴのみ",
+    "id": 127
+  },
+  "rawst-berry": {
+    "en": "Rawst Berry",
+    "ja": "チーゴのみ",
+    "id": 129
+  },
+  "oran-berry": {
+    "en": "Oran Berry",
+    "ja": "オレンのみ",
+    "id": 132
+  },
+  "persim-berry": {
+    "en": "Persim Berry",
+    "ja": "キーのみ",
+    "id": 133
+  },
+  "lum-berry": {
+    "en": "Lum Berry",
+    "ja": "ラムのみ",
+    "id": 134
+  },
+  "sitrus-berry": {
+    "en": "Sitrus Berry",
+    "ja": "オボンのみ",
+    "id": 135
+  },
+  "pinap-berry": {
+    "en": "Pinap Berry",
+    "ja": "パイルのみ",
+    "id": 145
+  },
+  "kelpsy-berry": {
+    "en": "Kelpsy Berry",
+    "ja": "ネコブのみ",
+    "id": 147
+  },
+  "occa-berry": {
+    "en": "Occa Berry",
+    "ja": "オッカのみ",
+    "id": 161
+  },
+  "passho-berry": {
+    "en": "Passho Berry",
+    "ja": "イトケのみ",
+    "id": 162
+  },
+  "wacan-berry": {
+    "en": "Wacan Berry",
+    "ja": "ソクノのみ",
+    "id": 163
+  },
+  "rindo-berry": {
+    "en": "Rindo Berry",
+    "ja": "リンドのみ",
+    "id": 164
+  },
+  "yache-berry": {
+    "en": "Yache Berry",
+    "ja": "ヤチェのみ",
+    "id": 165
+  },
+  "chople-berry": {
+    "en": "Chople Berry",
+    "ja": "ヨプのみ",
+    "id": 166
+  },
+  "kebia-berry": {
+    "en": "Kebia Berry",
+    "ja": "ビアーのみ",
+    "id": 167
+  },
+  "shuca-berry": {
+    "en": "Shuca Berry",
+    "ja": "シュカのみ",
+    "id": 168
+  },
+  "charti-berry": {
+    "en": "Charti Berry",
+    "ja": "ヨロギのみ",
+    "id": 172
+  },
+  "haban-berry": {
+    "en": "Haban Berry",
+    "ja": "ハバンのみ",
+    "id": 174
+  },
+  "colbur-berry": {
+    "en": "Colbur Berry",
+    "ja": "ナモのみ",
+    "id": 175
+  },
+  "salac-berry": {
+    "en": "Salac Berry",
+    "ja": "カムラのみ",
+    "id": 180
+  },
+  "petaya-berry": {
+    "en": "Petaya Berry",
+    "ja": "ヤタピのみ",
+    "id": 181
+  },
+  "custap-berry": {
+    "en": "Custap Berry",
+    "ja": "イバンのみ",
+    "id": 187
+  },
+  "bright-powder": {
+    "en": "Bright Powder",
+    "ja": "ひかりのこな",
+    "id": 190
+  },
+  "white-herb": {
+    "en": "White Herb",
+    "ja": "しろいハーブ",
+    "id": 191
+  },
+  "quick-claw": {
+    "en": "Quick Claw",
+    "ja": "せんせいのツメ",
+    "id": 194
+  },
+  "mental-herb": {
+    "en": "Mental Herb",
+    "ja": "メンタルハーブ",
+    "id": 196
+  },
+  "choice-band": {
+    "en": "Choice Band",
+    "ja": "こだわりハチマキ",
+    "id": 197
+  },
+  "kings-rock": {
+    "en": "King’s Rock",
+    "ja": "おうじゃのしるし",
+    "id": 198
+  },
+  "focus-band": {
+    "en": "Focus Band",
+    "ja": "きあいのハチマキ",
+    "id": 207
+  },
+  "scope-lens": {
+    "en": "Scope Lens",
+    "ja": "ピントレンズ",
+    "id": 209
+  },
+  "leftovers": {
+    "en": "Leftovers",
+    "ja": "たべのこし",
+    "id": 211
+  },
+  "light-ball": {
+    "en": "Light Ball",
+    "ja": "でんきだま",
+    "id": 213
+  },
+  "soft-sand": {
+    "en": "Soft Sand",
+    "ja": "やわらかいすな",
+    "id": 214
+  },
+  "hard-stone": {
+    "en": "Hard Stone",
+    "ja": "かたいいし",
+    "id": 215
+  },
+  "miracle-seed": {
+    "en": "Miracle Seed",
+    "ja": "きせきのタネ",
+    "id": 216
+  },
+  "mystic-water": {
+    "en": "Mystic Water",
+    "ja": "しんぴのしずく",
+    "id": 220
+  },
+  "never-melt-ice": {
+    "en": "Never-Melt Ice",
+    "ja": "とけないこおり",
+    "id": 223
+  },
+  "twisted-spoon": {
+    "en": "Twisted Spoon",
+    "ja": "まがったスプーン",
+    "id": 225
+  },
+  "wide-lens": {
+    "en": "Wide Lens",
+    "ja": "こうかくレンズ",
+    "id": 242
+  },
+  "muscle-band": {
+    "en": "Muscle Band",
+    "ja": "ちからのハチマキ",
+    "id": 243
+  },
+  "wise-glasses": {
+    "en": "Wise Glasses",
+    "ja": "ものしりメガネ",
+    "id": 244
+  },
+  "expert-belt": {
+    "en": "Expert Belt",
+    "ja": "たつじんのおび",
+    "id": 245
+  },
+  "light-clay": {
+    "en": "Light Clay",
+    "ja": "ひかりのねんど",
+    "id": 246
+  },
+  "life-orb": {
+    "en": "Life Orb",
+    "ja": "いのちのたま",
+    "id": 247
+  },
+  "power-herb": {
+    "en": "Power Herb",
+    "ja": "パワフルハーブ",
+    "id": 248
+  },
+  "toxic-orb": {
+    "en": "Toxic Orb",
+    "ja": "どくどくだま",
+    "id": 249
+  },
+  "flame-orb": {
+    "en": "Flame Orb",
+    "ja": "かえんだま",
+    "id": 250
+  },
+  "focus-sash": {
+    "en": "Focus Sash",
+    "ja": "きあいのタスキ",
+    "id": 252
+  },
+  "zoom-lens": {
+    "en": "Zoom Lens",
+    "ja": "フォーカスレンズ",
+    "id": 253
+  },
+  "iron-ball": {
+    "en": "Iron Ball",
+    "ja": "くろいてっきゅう",
+    "id": 255
+  },
+  "black-sludge": {
+    "en": "Black Sludge",
+    "ja": "くろいヘドロ",
+    "id": 258
+  },
+  "icy-rock": {
+    "en": "Icy Rock",
+    "ja": "つめたいいわ",
+    "id": 259
+  },
+  "smooth-rock": {
+    "en": "Smooth Rock",
+    "ja": "さらさらいわ",
+    "id": 260
+  },
+  "heat-rock": {
+    "en": "Heat Rock",
+    "ja": "あついいわ",
+    "id": 261
+  },
+  "damp-rock": {
+    "en": "Damp Rock",
+    "ja": "しめったいわ",
+    "id": 262
+  },
+  "choice-scarf": {
+    "en": "Choice Scarf",
+    "ja": "こだわりスカーフ",
+    "id": 264
+  },
+  "big-root": {
+    "en": "Big Root",
+    "ja": "おおきなねっこ",
+    "id": 273
+  },
+  "choice-specs": {
+    "en": "Choice Specs",
+    "ja": "こだわりメガネ",
+    "id": 274
+  },
+  "razor-claw": {
+    "en": "Razor Claw",
+    "ja": "するどいツメ",
+    "id": 303
+  },
+  "rocky-helmet": {
+    "en": "Rocky Helmet",
+    "ja": "ゴツゴツメット",
+    "id": 583
+  },
+  "air-balloon": {
+    "en": "Air Balloon",
+    "ja": "ふうせん",
+    "id": 584
+  },
+  "red-card": {
+    "en": "Red Card",
+    "ja": "レッドカード",
+    "id": 585
+  },
+  "eject-button": {
+    "en": "Eject Button",
+    "ja": "だっしゅつボタン",
+    "id": 590
+  },
+  "flying-gem": {
+    "en": "Flying Gem",
+    "ja": "ひこうのジュエル",
+    "id": 599
+  },
+  "normal-gem": {
+    "en": "Normal Gem",
+    "ja": "ノーマルジュエル",
+    "id": 669
+  },
+  "weakness-policy": {
+    "en": "Weakness Policy",
+    "ja": "じゃくてんほけん",
+    "id": 682
+  },
+  "assault-vest": {
+    "en": "Assault Vest",
+    "ja": "とつげきチョッキ",
+    "id": 683
+  },
+  "gardevoirite": {
+    "en": "Gardevoirite",
+    "ja": "サーナイトナイト",
+    "id": 696
+  },
+  "venusaurite": {
+    "en": "Venusaurite",
+    "ja": "フシギバナイト",
+    "id": 698
+  },
+  "charizardite-x": {
+    "en": "Charizardite X",
+    "ja": "リザードナイトＸ",
+    "id": 699
+  },
+  "blastoisinite": {
+    "en": "Blastoisinite",
+    "ja": "カメックスナイト",
+    "id": 700
+  },
+  "medichamite": {
+    "en": "Medichamite",
+    "ja": "チャーレムナイト",
+    "id": 704
+  },
+  "houndoominite": {
+    "en": "Houndoominite",
+    "ja": "ヘルガナイト",
+    "id": 705
+  },
+  "tyranitarite": {
+    "en": "Tyranitarite",
+    "ja": "バンギラスナイト",
+    "id": 708
+  },
+  "aerodactylite": {
+    "en": "Aerodactylite",
+    "ja": "プテラナイト",
+    "id": 711
+  },
+  "lucarionite": {
+    "en": "Lucarionite",
+    "ja": "ルカリオナイト",
+    "id": 712
+  },
+  "gyaradosite": {
+    "en": "Gyaradosite",
+    "ja": "ギャラドスナイト",
+    "id": 715
+  },
+  "absolite": {
+    "en": "Absolite",
+    "ja": "アブソルナイト",
+    "id": 716
+  },
+  "charizardite-y": {
+    "en": "Charizardite Y",
+    "ja": "リザードナイトＹ",
+    "id": 717
+  },
+  "alakazite": {
+    "en": "Alakazite",
+    "ja": "フーディナイト",
+    "id": 718
+  },
+  "garchompite": {
+    "en": "Garchompite",
+    "ja": "ガブリアスナイト",
+    "id": 722
+  },
+  "kee-berry": {
+    "en": "Kee Berry",
+    "ja": "アッキのみ",
+    "id": 724
+  },
+  "sablenite": {
+    "en": "Sablenite",
+    "ja": "ヤミラミナイト",
+    "id": 795
+  },
+  "galladite": {
+    "en": "Galladite",
+    "ja": "エルレイドナイト",
+    "id": 797
+  },
+  "metagrossite": {
+    "en": "Metagrossite",
+    "ja": "メタグロスナイト",
+    "id": 799
+  },
+  "sharpedonite": {
+    "en": "Sharpedonite",
+    "ja": "サメハダナイト",
+    "id": 800
+  },
+  "pidgeotite": {
+    "en": "Pidgeotite",
+    "ja": "ピジョットナイト",
+    "id": 803
+  },
+  "glalitite": {
+    "en": "Glalitite",
+    "ja": "オニゴーリナイト",
+    "id": 804
+  },
+  "salamencite": {
+    "en": "Salamencite",
+    "ja": "ボーマンダナイト",
+    "id": 810
+  },
+  "normalium-z--held": {
+    "en": "Normalium Z",
+    "ja": "ノーマルＺ",
+    "id": 817
+  },
+  "firium-z--held": {
+    "en": "Firium Z",
+    "ja": "ホノオＺ",
+    "id": 818
+  },
+  "waterium-z--held": {
+    "en": "Waterium Z",
+    "ja": "ミズＺ",
+    "id": 819
+  },
+  "grassium-z--held": {
+    "en": "Grassium Z",
+    "ja": "クサＺ",
+    "id": 821
+  },
+  "icium-z--held": {
+    "en": "Icium Z",
+    "ja": "コオリＺ",
+    "id": 822
+  },
+  "fightinium-z--held": {
+    "en": "Fightinium Z",
+    "ja": "カクトウＺ",
+    "id": 823
+  },
+  "groundium-z--held": {
+    "en": "Groundium Z",
+    "ja": "ジメンＺ",
+    "id": 825
+  },
+  "flyinium-z--held": {
+    "en": "Flyinium Z",
+    "ja": "ヒコウＺ",
+    "id": 826
+  },
+  "psychium-z--held": {
+    "en": "Psychium Z",
+    "ja": "エスパーＺ",
+    "id": 827
+  },
+  "rockium-z--held": {
+    "en": "Rockium Z",
+    "ja": "イワＺ",
+    "id": 829
+  },
+  "ghostium-z--held": {
+    "en": "Ghostium Z",
+    "ja": "ゴーストＺ",
+    "id": 830
+  },
+  "darkinium-z--held": {
+    "en": "Darkinium Z",
+    "ja": "アクＺ",
+    "id": 832
+  },
+  "steelium-z--held": {
+    "en": "Steelium Z",
+    "ja": "ハガネＺ",
+    "id": 833
+  },
+  "decidium-z--held": {
+    "en": "Decidium Z",
+    "ja": "ジュナイパーＺ",
+    "id": 839
+  },
+  "incinium-z--held": {
+    "en": "Incinium Z",
+    "ja": "ガオガエンＺ",
+    "id": 840
+  },
+  "primarium-z--held": {
+    "en": "Primarium Z",
+    "ja": "アシレーヌＺ",
+    "id": 841
+  },
+  "throat-spray": {
+    "en": "Throat Spray",
+    "ja": "のどスプレー",
+    "id": 1176
+  },
+  "chesnaughtite": {
+    "en": "Chesnaughtite",
+    "ja": "ブリガロナイト",
+    "id": 2249
+  },
+  "hawluchanite": {
+    "en": "Hawluchanite",
+    "ja": "ルチャブルナイト",
+    "id": 2257
+  },
+  "lucarionite-z": {
+    "en": "Lucarionite Z",
+    "ja": "ルカリオナイトZ",
+    "id": 2268
+  },
+  "crabominite": {
+    "en": "Crabominite",
+    "ja": "ケケンカニナイト",
+    "id": 2271
+  }
+}

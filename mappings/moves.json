@@ -1,0 +1,4689 @@
+{
+  "_description": "わざ名の英日対比表。PokeAPI が公開するゲームデータ由来の公式名（英語・日本語）を種として取得し、正本として保持する。全937件（Zワザ・ダイマックスわざ・シャドウわざ等を含む）。",
+  "_source": "PokeAPI data v2 CSV（moves.csv / move_names.csv）。日本語名は local_language_id=1。検証: trainers データ（elite-four.json / gym-leaders.json）内の英日ペア（英名の表記ゆれを正規化して561種）と突き合わせ、照合できた559種は日本語名が全件一致。残り2種（Hi Jump Kick / Faint Attack）は旧世代の英名表記で、現行名で収録（2026-11-15）",
+  "pound": {
+    "en": "Pound",
+    "ja": "はたく",
+    "id": 1
+  },
+  "karate-chop": {
+    "en": "Karate Chop",
+    "ja": "からてチョップ",
+    "id": 2
+  },
+  "double-slap": {
+    "en": "Double Slap",
+    "ja": "おうふくビンタ",
+    "id": 3
+  },
+  "comet-punch": {
+    "en": "Comet Punch",
+    "ja": "れんぞくパンチ",
+    "id": 4
+  },
+  "mega-punch": {
+    "en": "Mega Punch",
+    "ja": "メガトンパンチ",
+    "id": 5
+  },
+  "pay-day": {
+    "en": "Pay Day",
+    "ja": "ネコにこばん",
+    "id": 6
+  },
+  "fire-punch": {
+    "en": "Fire Punch",
+    "ja": "ほのおのパンチ",
+    "id": 7
+  },
+  "ice-punch": {
+    "en": "Ice Punch",
+    "ja": "れいとうパンチ",
+    "id": 8
+  },
+  "thunder-punch": {
+    "en": "Thunder Punch",
+    "ja": "かみなりパンチ",
+    "id": 9
+  },
+  "scratch": {
+    "en": "Scratch",
+    "ja": "ひっかく",
+    "id": 10
+  },
+  "vice-grip": {
+    "en": "Vise Grip",
+    "ja": "はさむ",
+    "id": 11
+  },
+  "guillotine": {
+    "en": "Guillotine",
+    "ja": "ハサミギロチン",
+    "id": 12
+  },
+  "razor-wind": {
+    "en": "Razor Wind",
+    "ja": "かまいたち",
+    "id": 13
+  },
+  "swords-dance": {
+    "en": "Swords Dance",
+    "ja": "つるぎのまい",
+    "id": 14
+  },
+  "cut": {
+    "en": "Cut",
+    "ja": "いあいぎり",
+    "id": 15
+  },
+  "gust": {
+    "en": "Gust",
+    "ja": "かぜおこし",
+    "id": 16
+  },
+  "wing-attack": {
+    "en": "Wing Attack",
+    "ja": "つばさでうつ",
+    "id": 17
+  },
+  "whirlwind": {
+    "en": "Whirlwind",
+    "ja": "ふきとばし",
+    "id": 18
+  },
+  "fly": {
+    "en": "Fly",
+    "ja": "そらをとぶ",
+    "id": 19
+  },
+  "bind": {
+    "en": "Bind",
+    "ja": "しめつける",
+    "id": 20
+  },
+  "slam": {
+    "en": "Slam",
+    "ja": "たたきつける",
+    "id": 21
+  },
+  "vine-whip": {
+    "en": "Vine Whip",
+    "ja": "つるのムチ",
+    "id": 22
+  },
+  "stomp": {
+    "en": "Stomp",
+    "ja": "ふみつけ",
+    "id": 23
+  },
+  "double-kick": {
+    "en": "Double Kick",
+    "ja": "にどげり",
+    "id": 24
+  },
+  "mega-kick": {
+    "en": "Mega Kick",
+    "ja": "メガトンキック",
+    "id": 25
+  },
+  "jump-kick": {
+    "en": "Jump Kick",
+    "ja": "とびげり",
+    "id": 26
+  },
+  "rolling-kick": {
+    "en": "Rolling Kick",
+    "ja": "まわしげり",
+    "id": 27
+  },
+  "sand-attack": {
+    "en": "Sand Attack",
+    "ja": "すなかけ",
+    "id": 28
+  },
+  "headbutt": {
+    "en": "Headbutt",
+    "ja": "ずつき",
+    "id": 29
+  },
+  "horn-attack": {
+    "en": "Horn Attack",
+    "ja": "つのでつく",
+    "id": 30
+  },
+  "fury-attack": {
+    "en": "Fury Attack",
+    "ja": "みだれづき",
+    "id": 31
+  },
+  "horn-drill": {
+    "en": "Horn Drill",
+    "ja": "つのドリル",
+    "id": 32
+  },
+  "tackle": {
+    "en": "Tackle",
+    "ja": "たいあたり",
+    "id": 33
+  },
+  "body-slam": {
+    "en": "Body Slam",
+    "ja": "のしかかり",
+    "id": 34
+  },
+  "wrap": {
+    "en": "Wrap",
+    "ja": "まきつく",
+    "id": 35
+  },
+  "take-down": {
+    "en": "Take Down",
+    "ja": "とっしん",
+    "id": 36
+  },
+  "thrash": {
+    "en": "Thrash",
+    "ja": "あばれる",
+    "id": 37
+  },
+  "double-edge": {
+    "en": "Double-Edge",
+    "ja": "すてみタックル",
+    "id": 38
+  },
+  "tail-whip": {
+    "en": "Tail Whip",
+    "ja": "しっぽをふる",
+    "id": 39
+  },
+  "poison-sting": {
+    "en": "Poison Sting",
+    "ja": "どくばり",
+    "id": 40
+  },
+  "twineedle": {
+    "en": "Twineedle",
+    "ja": "ダブルニードル",
+    "id": 41
+  },
+  "pin-missile": {
+    "en": "Pin Missile",
+    "ja": "ミサイルばり",
+    "id": 42
+  },
+  "leer": {
+    "en": "Leer",
+    "ja": "にらみつける",
+    "id": 43
+  },
+  "bite": {
+    "en": "Bite",
+    "ja": "かみつく",
+    "id": 44
+  },
+  "growl": {
+    "en": "Growl",
+    "ja": "なきごえ",
+    "id": 45
+  },
+  "roar": {
+    "en": "Roar",
+    "ja": "ほえる",
+    "id": 46
+  },
+  "sing": {
+    "en": "Sing",
+    "ja": "うたう",
+    "id": 47
+  },
+  "supersonic": {
+    "en": "Supersonic",
+    "ja": "ちょうおんぱ",
+    "id": 48
+  },
+  "sonic-boom": {
+    "en": "Sonic Boom",
+    "ja": "ソニックブーム",
+    "id": 49
+  },
+  "disable": {
+    "en": "Disable",
+    "ja": "かなしばり",
+    "id": 50
+  },
+  "acid": {
+    "en": "Acid",
+    "ja": "ようかいえき",
+    "id": 51
+  },
+  "ember": {
+    "en": "Ember",
+    "ja": "ひのこ",
+    "id": 52
+  },
+  "flamethrower": {
+    "en": "Flamethrower",
+    "ja": "かえんほうしゃ",
+    "id": 53
+  },
+  "mist": {
+    "en": "Mist",
+    "ja": "しろいきり",
+    "id": 54
+  },
+  "water-gun": {
+    "en": "Water Gun",
+    "ja": "みずでっぽう",
+    "id": 55
+  },
+  "hydro-pump": {
+    "en": "Hydro Pump",
+    "ja": "ハイドロポンプ",
+    "id": 56
+  },
+  "surf": {
+    "en": "Surf",
+    "ja": "なみのり",
+    "id": 57
+  },
+  "ice-beam": {
+    "en": "Ice Beam",
+    "ja": "れいとうビーム",
+    "id": 58
+  },
+  "blizzard": {
+    "en": "Blizzard",
+    "ja": "ふぶき",
+    "id": 59
+  },
+  "psybeam": {
+    "en": "Psybeam",
+    "ja": "サイケこうせん",
+    "id": 60
+  },
+  "bubble-beam": {
+    "en": "Bubble Beam",
+    "ja": "バブルこうせん",
+    "id": 61
+  },
+  "aurora-beam": {
+    "en": "Aurora Beam",
+    "ja": "オーロラビーム",
+    "id": 62
+  },
+  "hyper-beam": {
+    "en": "Hyper Beam",
+    "ja": "はかいこうせん",
+    "id": 63
+  },
+  "peck": {
+    "en": "Peck",
+    "ja": "つつく",
+    "id": 64
+  },
+  "drill-peck": {
+    "en": "Drill Peck",
+    "ja": "ドリルくちばし",
+    "id": 65
+  },
+  "submission": {
+    "en": "Submission",
+    "ja": "じごくぐるま",
+    "id": 66
+  },
+  "low-kick": {
+    "en": "Low Kick",
+    "ja": "けたぐり",
+    "id": 67
+  },
+  "counter": {
+    "en": "Counter",
+    "ja": "カウンター",
+    "id": 68
+  },
+  "seismic-toss": {
+    "en": "Seismic Toss",
+    "ja": "ちきゅうなげ",
+    "id": 69
+  },
+  "strength": {
+    "en": "Strength",
+    "ja": "かいりき",
+    "id": 70
+  },
+  "absorb": {
+    "en": "Absorb",
+    "ja": "すいとる",
+    "id": 71
+  },
+  "mega-drain": {
+    "en": "Mega Drain",
+    "ja": "メガドレイン",
+    "id": 72
+  },
+  "leech-seed": {
+    "en": "Leech Seed",
+    "ja": "やどりぎのタネ",
+    "id": 73
+  },
+  "growth": {
+    "en": "Growth",
+    "ja": "せいちょう",
+    "id": 74
+  },
+  "razor-leaf": {
+    "en": "Razor Leaf",
+    "ja": "はっぱカッター",
+    "id": 75
+  },
+  "solar-beam": {
+    "en": "Solar Beam",
+    "ja": "ソーラービーム",
+    "id": 76
+  },
+  "poison-powder": {
+    "en": "Poison Powder",
+    "ja": "どくのこな",
+    "id": 77
+  },
+  "stun-spore": {
+    "en": "Stun Spore",
+    "ja": "しびれごな",
+    "id": 78
+  },
+  "sleep-powder": {
+    "en": "Sleep Powder",
+    "ja": "ねむりごな",
+    "id": 79
+  },
+  "petal-dance": {
+    "en": "Petal Dance",
+    "ja": "はなびらのまい",
+    "id": 80
+  },
+  "string-shot": {
+    "en": "String Shot",
+    "ja": "いとをはく",
+    "id": 81
+  },
+  "dragon-rage": {
+    "en": "Dragon Rage",
+    "ja": "りゅうのいかり",
+    "id": 82
+  },
+  "fire-spin": {
+    "en": "Fire Spin",
+    "ja": "ほのおのうず",
+    "id": 83
+  },
+  "thunder-shock": {
+    "en": "Thunder Shock",
+    "ja": "でんきショック",
+    "id": 84
+  },
+  "thunderbolt": {
+    "en": "Thunderbolt",
+    "ja": "１０まんボルト",
+    "id": 85
+  },
+  "thunder-wave": {
+    "en": "Thunder Wave",
+    "ja": "でんじは",
+    "id": 86
+  },
+  "thunder": {
+    "en": "Thunder",
+    "ja": "かみなり",
+    "id": 87
+  },
+  "rock-throw": {
+    "en": "Rock Throw",
+    "ja": "いわおとし",
+    "id": 88
+  },
+  "earthquake": {
+    "en": "Earthquake",
+    "ja": "じしん",
+    "id": 89
+  },
+  "fissure": {
+    "en": "Fissure",
+    "ja": "じわれ",
+    "id": 90
+  },
+  "dig": {
+    "en": "Dig",
+    "ja": "あなをほる",
+    "id": 91
+  },
+  "toxic": {
+    "en": "Toxic",
+    "ja": "どくどく",
+    "id": 92
+  },
+  "confusion": {
+    "en": "Confusion",
+    "ja": "ねんりき",
+    "id": 93
+  },
+  "psychic": {
+    "en": "Psychic",
+    "ja": "サイコキネシス",
+    "id": 94
+  },
+  "hypnosis": {
+    "en": "Hypnosis",
+    "ja": "さいみんじゅつ",
+    "id": 95
+  },
+  "meditate": {
+    "en": "Meditate",
+    "ja": "ヨガのポーズ",
+    "id": 96
+  },
+  "agility": {
+    "en": "Agility",
+    "ja": "こうそくいどう",
+    "id": 97
+  },
+  "quick-attack": {
+    "en": "Quick Attack",
+    "ja": "でんこうせっか",
+    "id": 98
+  },
+  "rage": {
+    "en": "Rage",
+    "ja": "いかり",
+    "id": 99
+  },
+  "teleport": {
+    "en": "Teleport",
+    "ja": "テレポート",
+    "id": 100
+  },
+  "night-shade": {
+    "en": "Night Shade",
+    "ja": "ナイトヘッド",
+    "id": 101
+  },
+  "mimic": {
+    "en": "Mimic",
+    "ja": "ものまね",
+    "id": 102
+  },
+  "screech": {
+    "en": "Screech",
+    "ja": "いやなおと",
+    "id": 103
+  },
+  "double-team": {
+    "en": "Double Team",
+    "ja": "かげぶんしん",
+    "id": 104
+  },
+  "recover": {
+    "en": "Recover",
+    "ja": "じこさいせい",
+    "id": 105
+  },
+  "harden": {
+    "en": "Harden",
+    "ja": "かたくなる",
+    "id": 106
+  },
+  "minimize": {
+    "en": "Minimize",
+    "ja": "ちいさくなる",
+    "id": 107
+  },
+  "smokescreen": {
+    "en": "Smokescreen",
+    "ja": "えんまく",
+    "id": 108
+  },
+  "confuse-ray": {
+    "en": "Confuse Ray",
+    "ja": "あやしいひかり",
+    "id": 109
+  },
+  "withdraw": {
+    "en": "Withdraw",
+    "ja": "からにこもる",
+    "id": 110
+  },
+  "defense-curl": {
+    "en": "Defense Curl",
+    "ja": "まるくなる",
+    "id": 111
+  },
+  "barrier": {
+    "en": "Barrier",
+    "ja": "バリアー",
+    "id": 112
+  },
+  "light-screen": {
+    "en": "Light Screen",
+    "ja": "ひかりのかべ",
+    "id": 113
+  },
+  "haze": {
+    "en": "Haze",
+    "ja": "くろいきり",
+    "id": 114
+  },
+  "reflect": {
+    "en": "Reflect",
+    "ja": "リフレクター",
+    "id": 115
+  },
+  "focus-energy": {
+    "en": "Focus Energy",
+    "ja": "きあいだめ",
+    "id": 116
+  },
+  "bide": {
+    "en": "Bide",
+    "ja": "がまん",
+    "id": 117
+  },
+  "metronome": {
+    "en": "Metronome",
+    "ja": "ゆびをふる",
+    "id": 118
+  },
+  "mirror-move": {
+    "en": "Mirror Move",
+    "ja": "オウムがえし",
+    "id": 119
+  },
+  "self-destruct": {
+    "en": "Self-Destruct",
+    "ja": "じばく",
+    "id": 120
+  },
+  "egg-bomb": {
+    "en": "Egg Bomb",
+    "ja": "タマゴばくだん",
+    "id": 121
+  },
+  "lick": {
+    "en": "Lick",
+    "ja": "したでなめる",
+    "id": 122
+  },
+  "smog": {
+    "en": "Smog",
+    "ja": "スモッグ",
+    "id": 123
+  },
+  "sludge": {
+    "en": "Sludge",
+    "ja": "ヘドロこうげき",
+    "id": 124
+  },
+  "bone-club": {
+    "en": "Bone Club",
+    "ja": "ホネこんぼう",
+    "id": 125
+  },
+  "fire-blast": {
+    "en": "Fire Blast",
+    "ja": "だいもんじ",
+    "id": 126
+  },
+  "waterfall": {
+    "en": "Waterfall",
+    "ja": "たきのぼり",
+    "id": 127
+  },
+  "clamp": {
+    "en": "Clamp",
+    "ja": "からではさむ",
+    "id": 128
+  },
+  "swift": {
+    "en": "Swift",
+    "ja": "スピードスター",
+    "id": 129
+  },
+  "skull-bash": {
+    "en": "Skull Bash",
+    "ja": "ロケットずつき",
+    "id": 130
+  },
+  "spike-cannon": {
+    "en": "Spike Cannon",
+    "ja": "とげキャノン",
+    "id": 131
+  },
+  "constrict": {
+    "en": "Constrict",
+    "ja": "からみつく",
+    "id": 132
+  },
+  "amnesia": {
+    "en": "Amnesia",
+    "ja": "ドわすれ",
+    "id": 133
+  },
+  "kinesis": {
+    "en": "Kinesis",
+    "ja": "スプーンまげ",
+    "id": 134
+  },
+  "soft-boiled": {
+    "en": "Soft-Boiled",
+    "ja": "タマゴうみ",
+    "id": 135
+  },
+  "high-jump-kick": {
+    "en": "High Jump Kick",
+    "ja": "とびひざげり",
+    "id": 136
+  },
+  "glare": {
+    "en": "Glare",
+    "ja": "へびにらみ",
+    "id": 137
+  },
+  "dream-eater": {
+    "en": "Dream Eater",
+    "ja": "ゆめくい",
+    "id": 138
+  },
+  "poison-gas": {
+    "en": "Poison Gas",
+    "ja": "どくガス",
+    "id": 139
+  },
+  "barrage": {
+    "en": "Barrage",
+    "ja": "たまなげ",
+    "id": 140
+  },
+  "leech-life": {
+    "en": "Leech Life",
+    "ja": "きゅうけつ",
+    "id": 141
+  },
+  "lovely-kiss": {
+    "en": "Lovely Kiss",
+    "ja": "あくまのキッス",
+    "id": 142
+  },
+  "sky-attack": {
+    "en": "Sky Attack",
+    "ja": "ゴッドバード",
+    "id": 143
+  },
+  "transform": {
+    "en": "Transform",
+    "ja": "へんしん",
+    "id": 144
+  },
+  "bubble": {
+    "en": "Bubble",
+    "ja": "あわ",
+    "id": 145
+  },
+  "dizzy-punch": {
+    "en": "Dizzy Punch",
+    "ja": "ピヨピヨパンチ",
+    "id": 146
+  },
+  "spore": {
+    "en": "Spore",
+    "ja": "キノコのほうし",
+    "id": 147
+  },
+  "flash": {
+    "en": "Flash",
+    "ja": "フラッシュ",
+    "id": 148
+  },
+  "psywave": {
+    "en": "Psywave",
+    "ja": "サイコウェーブ",
+    "id": 149
+  },
+  "splash": {
+    "en": "Splash",
+    "ja": "はねる",
+    "id": 150
+  },
+  "acid-armor": {
+    "en": "Acid Armor",
+    "ja": "とける",
+    "id": 151
+  },
+  "crabhammer": {
+    "en": "Crabhammer",
+    "ja": "クラブハンマー",
+    "id": 152
+  },
+  "explosion": {
+    "en": "Explosion",
+    "ja": "だいばくはつ",
+    "id": 153
+  },
+  "fury-swipes": {
+    "en": "Fury Swipes",
+    "ja": "みだれひっかき",
+    "id": 154
+  },
+  "bonemerang": {
+    "en": "Bonemerang",
+    "ja": "ホネブーメラン",
+    "id": 155
+  },
+  "rest": {
+    "en": "Rest",
+    "ja": "ねむる",
+    "id": 156
+  },
+  "rock-slide": {
+    "en": "Rock Slide",
+    "ja": "いわなだれ",
+    "id": 157
+  },
+  "hyper-fang": {
+    "en": "Hyper Fang",
+    "ja": "ひっさつまえば",
+    "id": 158
+  },
+  "sharpen": {
+    "en": "Sharpen",
+    "ja": "かくばる",
+    "id": 159
+  },
+  "conversion": {
+    "en": "Conversion",
+    "ja": "テクスチャー",
+    "id": 160
+  },
+  "tri-attack": {
+    "en": "Tri Attack",
+    "ja": "トライアタック",
+    "id": 161
+  },
+  "super-fang": {
+    "en": "Super Fang",
+    "ja": "いかりのまえば",
+    "id": 162
+  },
+  "slash": {
+    "en": "Slash",
+    "ja": "きりさく",
+    "id": 163
+  },
+  "substitute": {
+    "en": "Substitute",
+    "ja": "みがわり",
+    "id": 164
+  },
+  "struggle": {
+    "en": "Struggle",
+    "ja": "わるあがき",
+    "id": 165
+  },
+  "sketch": {
+    "en": "Sketch",
+    "ja": "スケッチ",
+    "id": 166
+  },
+  "triple-kick": {
+    "en": "Triple Kick",
+    "ja": "トリプルキック",
+    "id": 167
+  },
+  "thief": {
+    "en": "Thief",
+    "ja": "どろぼう",
+    "id": 168
+  },
+  "spider-web": {
+    "en": "Spider Web",
+    "ja": "クモのす",
+    "id": 169
+  },
+  "mind-reader": {
+    "en": "Mind Reader",
+    "ja": "こころのめ",
+    "id": 170
+  },
+  "nightmare": {
+    "en": "Nightmare",
+    "ja": "あくむ",
+    "id": 171
+  },
+  "flame-wheel": {
+    "en": "Flame Wheel",
+    "ja": "かえんぐるま",
+    "id": 172
+  },
+  "snore": {
+    "en": "Snore",
+    "ja": "いびき",
+    "id": 173
+  },
+  "curse": {
+    "en": "Curse",
+    "ja": "のろい",
+    "id": 174
+  },
+  "flail": {
+    "en": "Flail",
+    "ja": "じたばた",
+    "id": 175
+  },
+  "conversion-2": {
+    "en": "Conversion 2",
+    "ja": "テクスチャー２",
+    "id": 176
+  },
+  "aeroblast": {
+    "en": "Aeroblast",
+    "ja": "エアロブラスト",
+    "id": 177
+  },
+  "cotton-spore": {
+    "en": "Cotton Spore",
+    "ja": "わたほうし",
+    "id": 178
+  },
+  "reversal": {
+    "en": "Reversal",
+    "ja": "きしかいせい",
+    "id": 179
+  },
+  "spite": {
+    "en": "Spite",
+    "ja": "うらみ",
+    "id": 180
+  },
+  "powder-snow": {
+    "en": "Powder Snow",
+    "ja": "こなゆき",
+    "id": 181
+  },
+  "protect": {
+    "en": "Protect",
+    "ja": "まもる",
+    "id": 182
+  },
+  "mach-punch": {
+    "en": "Mach Punch",
+    "ja": "マッハパンチ",
+    "id": 183
+  },
+  "scary-face": {
+    "en": "Scary Face",
+    "ja": "こわいかお",
+    "id": 184
+  },
+  "feint-attack": {
+    "en": "Feint Attack",
+    "ja": "だましうち",
+    "id": 185
+  },
+  "sweet-kiss": {
+    "en": "Sweet Kiss",
+    "ja": "てんしのキッス",
+    "id": 186
+  },
+  "belly-drum": {
+    "en": "Belly Drum",
+    "ja": "はらだいこ",
+    "id": 187
+  },
+  "sludge-bomb": {
+    "en": "Sludge Bomb",
+    "ja": "ヘドロばくだん",
+    "id": 188
+  },
+  "mud-slap": {
+    "en": "Mud-Slap",
+    "ja": "どろかけ",
+    "id": 189
+  },
+  "octazooka": {
+    "en": "Octazooka",
+    "ja": "オクタンほう",
+    "id": 190
+  },
+  "spikes": {
+    "en": "Spikes",
+    "ja": "まきびし",
+    "id": 191
+  },
+  "zap-cannon": {
+    "en": "Zap Cannon",
+    "ja": "でんじほう",
+    "id": 192
+  },
+  "foresight": {
+    "en": "Foresight",
+    "ja": "みやぶる",
+    "id": 193
+  },
+  "destiny-bond": {
+    "en": "Destiny Bond",
+    "ja": "みちづれ",
+    "id": 194
+  },
+  "perish-song": {
+    "en": "Perish Song",
+    "ja": "ほろびのうた",
+    "id": 195
+  },
+  "icy-wind": {
+    "en": "Icy Wind",
+    "ja": "こごえるかぜ",
+    "id": 196
+  },
+  "detect": {
+    "en": "Detect",
+    "ja": "みきり",
+    "id": 197
+  },
+  "bone-rush": {
+    "en": "Bone Rush",
+    "ja": "ボーンラッシュ",
+    "id": 198
+  },
+  "lock-on": {
+    "en": "Lock-On",
+    "ja": "ロックオン",
+    "id": 199
+  },
+  "outrage": {
+    "en": "Outrage",
+    "ja": "げきりん",
+    "id": 200
+  },
+  "sandstorm": {
+    "en": "Sandstorm",
+    "ja": "すなあらし",
+    "id": 201
+  },
+  "giga-drain": {
+    "en": "Giga Drain",
+    "ja": "ギガドレイン",
+    "id": 202
+  },
+  "endure": {
+    "en": "Endure",
+    "ja": "こらえる",
+    "id": 203
+  },
+  "charm": {
+    "en": "Charm",
+    "ja": "あまえる",
+    "id": 204
+  },
+  "rollout": {
+    "en": "Rollout",
+    "ja": "ころがる",
+    "id": 205
+  },
+  "false-swipe": {
+    "en": "False Swipe",
+    "ja": "みねうち",
+    "id": 206
+  },
+  "swagger": {
+    "en": "Swagger",
+    "ja": "いばる",
+    "id": 207
+  },
+  "milk-drink": {
+    "en": "Milk Drink",
+    "ja": "ミルクのみ",
+    "id": 208
+  },
+  "spark": {
+    "en": "Spark",
+    "ja": "スパーク",
+    "id": 209
+  },
+  "fury-cutter": {
+    "en": "Fury Cutter",
+    "ja": "れんぞくぎり",
+    "id": 210
+  },
+  "steel-wing": {
+    "en": "Steel Wing",
+    "ja": "はがねのつばさ",
+    "id": 211
+  },
+  "mean-look": {
+    "en": "Mean Look",
+    "ja": "くろいまなざし",
+    "id": 212
+  },
+  "attract": {
+    "en": "Attract",
+    "ja": "メロメロ",
+    "id": 213
+  },
+  "sleep-talk": {
+    "en": "Sleep Talk",
+    "ja": "ねごと",
+    "id": 214
+  },
+  "heal-bell": {
+    "en": "Heal Bell",
+    "ja": "いやしのすず",
+    "id": 215
+  },
+  "return": {
+    "en": "Return",
+    "ja": "おんがえし",
+    "id": 216
+  },
+  "present": {
+    "en": "Present",
+    "ja": "プレゼント",
+    "id": 217
+  },
+  "frustration": {
+    "en": "Frustration",
+    "ja": "やつあたり",
+    "id": 218
+  },
+  "safeguard": {
+    "en": "Safeguard",
+    "ja": "しんぴのまもり",
+    "id": 219
+  },
+  "pain-split": {
+    "en": "Pain Split",
+    "ja": "いたみわけ",
+    "id": 220
+  },
+  "sacred-fire": {
+    "en": "Sacred Fire",
+    "ja": "せいなるほのお",
+    "id": 221
+  },
+  "magnitude": {
+    "en": "Magnitude",
+    "ja": "マグニチュード",
+    "id": 222
+  },
+  "dynamic-punch": {
+    "en": "Dynamic Punch",
+    "ja": "ばくれつパンチ",
+    "id": 223
+  },
+  "megahorn": {
+    "en": "Megahorn",
+    "ja": "メガホーン",
+    "id": 224
+  },
+  "dragon-breath": {
+    "en": "Dragon Breath",
+    "ja": "りゅうのいぶき",
+    "id": 225
+  },
+  "baton-pass": {
+    "en": "Baton Pass",
+    "ja": "バトンタッチ",
+    "id": 226
+  },
+  "encore": {
+    "en": "Encore",
+    "ja": "アンコール",
+    "id": 227
+  },
+  "pursuit": {
+    "en": "Pursuit",
+    "ja": "おいうち",
+    "id": 228
+  },
+  "rapid-spin": {
+    "en": "Rapid Spin",
+    "ja": "こうそくスピン",
+    "id": 229
+  },
+  "sweet-scent": {
+    "en": "Sweet Scent",
+    "ja": "あまいかおり",
+    "id": 230
+  },
+  "iron-tail": {
+    "en": "Iron Tail",
+    "ja": "アイアンテール",
+    "id": 231
+  },
+  "metal-claw": {
+    "en": "Metal Claw",
+    "ja": "メタルクロー",
+    "id": 232
+  },
+  "vital-throw": {
+    "en": "Vital Throw",
+    "ja": "あてみなげ",
+    "id": 233
+  },
+  "morning-sun": {
+    "en": "Morning Sun",
+    "ja": "あさのひざし",
+    "id": 234
+  },
+  "synthesis": {
+    "en": "Synthesis",
+    "ja": "こうごうせい",
+    "id": 235
+  },
+  "moonlight": {
+    "en": "Moonlight",
+    "ja": "つきのひかり",
+    "id": 236
+  },
+  "hidden-power": {
+    "en": "Hidden Power",
+    "ja": "めざめるパワー",
+    "id": 237
+  },
+  "cross-chop": {
+    "en": "Cross Chop",
+    "ja": "クロスチョップ",
+    "id": 238
+  },
+  "twister": {
+    "en": "Twister",
+    "ja": "たつまき",
+    "id": 239
+  },
+  "rain-dance": {
+    "en": "Rain Dance",
+    "ja": "あまごい",
+    "id": 240
+  },
+  "sunny-day": {
+    "en": "Sunny Day",
+    "ja": "にほんばれ",
+    "id": 241
+  },
+  "crunch": {
+    "en": "Crunch",
+    "ja": "かみくだく",
+    "id": 242
+  },
+  "mirror-coat": {
+    "en": "Mirror Coat",
+    "ja": "ミラーコート",
+    "id": 243
+  },
+  "psych-up": {
+    "en": "Psych Up",
+    "ja": "じこあんじ",
+    "id": 244
+  },
+  "extreme-speed": {
+    "en": "Extreme Speed",
+    "ja": "しんそく",
+    "id": 245
+  },
+  "ancient-power": {
+    "en": "Ancient Power",
+    "ja": "げんしのちから",
+    "id": 246
+  },
+  "shadow-ball": {
+    "en": "Shadow Ball",
+    "ja": "シャドーボール",
+    "id": 247
+  },
+  "future-sight": {
+    "en": "Future Sight",
+    "ja": "みらいよち",
+    "id": 248
+  },
+  "rock-smash": {
+    "en": "Rock Smash",
+    "ja": "いわくだき",
+    "id": 249
+  },
+  "whirlpool": {
+    "en": "Whirlpool",
+    "ja": "うずしお",
+    "id": 250
+  },
+  "beat-up": {
+    "en": "Beat Up",
+    "ja": "ふくろだたき",
+    "id": 251
+  },
+  "fake-out": {
+    "en": "Fake Out",
+    "ja": "ねこだまし",
+    "id": 252
+  },
+  "uproar": {
+    "en": "Uproar",
+    "ja": "さわぐ",
+    "id": 253
+  },
+  "stockpile": {
+    "en": "Stockpile",
+    "ja": "たくわえる",
+    "id": 254
+  },
+  "spit-up": {
+    "en": "Spit Up",
+    "ja": "はきだす",
+    "id": 255
+  },
+  "swallow": {
+    "en": "Swallow",
+    "ja": "のみこむ",
+    "id": 256
+  },
+  "heat-wave": {
+    "en": "Heat Wave",
+    "ja": "ねっぷう",
+    "id": 257
+  },
+  "hail": {
+    "en": "Hail",
+    "ja": "あられ",
+    "id": 258
+  },
+  "torment": {
+    "en": "Torment",
+    "ja": "いちゃもん",
+    "id": 259
+  },
+  "flatter": {
+    "en": "Flatter",
+    "ja": "おだてる",
+    "id": 260
+  },
+  "will-o-wisp": {
+    "en": "Will-O-Wisp",
+    "ja": "おにび",
+    "id": 261
+  },
+  "memento": {
+    "en": "Memento",
+    "ja": "おきみやげ",
+    "id": 262
+  },
+  "facade": {
+    "en": "Facade",
+    "ja": "からげんき",
+    "id": 263
+  },
+  "focus-punch": {
+    "en": "Focus Punch",
+    "ja": "きあいパンチ",
+    "id": 264
+  },
+  "smelling-salts": {
+    "en": "Smelling Salts",
+    "ja": "きつけ",
+    "id": 265
+  },
+  "follow-me": {
+    "en": "Follow Me",
+    "ja": "このゆびとまれ",
+    "id": 266
+  },
+  "nature-power": {
+    "en": "Nature Power",
+    "ja": "しぜんのちから",
+    "id": 267
+  },
+  "charge": {
+    "en": "Charge",
+    "ja": "じゅうでん",
+    "id": 268
+  },
+  "taunt": {
+    "en": "Taunt",
+    "ja": "ちょうはつ",
+    "id": 269
+  },
+  "helping-hand": {
+    "en": "Helping Hand",
+    "ja": "てだすけ",
+    "id": 270
+  },
+  "trick": {
+    "en": "Trick",
+    "ja": "トリック",
+    "id": 271
+  },
+  "role-play": {
+    "en": "Role Play",
+    "ja": "なりきり",
+    "id": 272
+  },
+  "wish": {
+    "en": "Wish",
+    "ja": "ねがいごと",
+    "id": 273
+  },
+  "assist": {
+    "en": "Assist",
+    "ja": "ねこのて",
+    "id": 274
+  },
+  "ingrain": {
+    "en": "Ingrain",
+    "ja": "ねをはる",
+    "id": 275
+  },
+  "superpower": {
+    "en": "Superpower",
+    "ja": "ばかぢから",
+    "id": 276
+  },
+  "magic-coat": {
+    "en": "Magic Coat",
+    "ja": "マジックコート",
+    "id": 277
+  },
+  "recycle": {
+    "en": "Recycle",
+    "ja": "リサイクル",
+    "id": 278
+  },
+  "revenge": {
+    "en": "Revenge",
+    "ja": "リベンジ",
+    "id": 279
+  },
+  "brick-break": {
+    "en": "Brick Break",
+    "ja": "かわらわり",
+    "id": 280
+  },
+  "yawn": {
+    "en": "Yawn",
+    "ja": "あくび",
+    "id": 281
+  },
+  "knock-off": {
+    "en": "Knock Off",
+    "ja": "はたきおとす",
+    "id": 282
+  },
+  "endeavor": {
+    "en": "Endeavor",
+    "ja": "がむしゃら",
+    "id": 283
+  },
+  "eruption": {
+    "en": "Eruption",
+    "ja": "ふんか",
+    "id": 284
+  },
+  "skill-swap": {
+    "en": "Skill Swap",
+    "ja": "スキルスワップ",
+    "id": 285
+  },
+  "imprison": {
+    "en": "Imprison",
+    "ja": "ふういん",
+    "id": 286
+  },
+  "refresh": {
+    "en": "Refresh",
+    "ja": "リフレッシュ",
+    "id": 287
+  },
+  "grudge": {
+    "en": "Grudge",
+    "ja": "おんねん",
+    "id": 288
+  },
+  "snatch": {
+    "en": "Snatch",
+    "ja": "よこどり",
+    "id": 289
+  },
+  "secret-power": {
+    "en": "Secret Power",
+    "ja": "ひみつのちから",
+    "id": 290
+  },
+  "dive": {
+    "en": "Dive",
+    "ja": "ダイビング",
+    "id": 291
+  },
+  "arm-thrust": {
+    "en": "Arm Thrust",
+    "ja": "つっぱり",
+    "id": 292
+  },
+  "camouflage": {
+    "en": "Camouflage",
+    "ja": "ほごしょく",
+    "id": 293
+  },
+  "tail-glow": {
+    "en": "Tail Glow",
+    "ja": "ほたるび",
+    "id": 294
+  },
+  "luster-purge": {
+    "en": "Luster Purge",
+    "ja": "ラスターパージ",
+    "id": 295
+  },
+  "mist-ball": {
+    "en": "Mist Ball",
+    "ja": "ミストボール",
+    "id": 296
+  },
+  "feather-dance": {
+    "en": "Feather Dance",
+    "ja": "フェザーダンス",
+    "id": 297
+  },
+  "teeter-dance": {
+    "en": "Teeter Dance",
+    "ja": "フラフラダンス",
+    "id": 298
+  },
+  "blaze-kick": {
+    "en": "Blaze Kick",
+    "ja": "ブレイズキック",
+    "id": 299
+  },
+  "mud-sport": {
+    "en": "Mud Sport",
+    "ja": "どろあそび",
+    "id": 300
+  },
+  "ice-ball": {
+    "en": "Ice Ball",
+    "ja": "アイスボール",
+    "id": 301
+  },
+  "needle-arm": {
+    "en": "Needle Arm",
+    "ja": "ニードルアーム",
+    "id": 302
+  },
+  "slack-off": {
+    "en": "Slack Off",
+    "ja": "なまける",
+    "id": 303
+  },
+  "hyper-voice": {
+    "en": "Hyper Voice",
+    "ja": "ハイパーボイス",
+    "id": 304
+  },
+  "poison-fang": {
+    "en": "Poison Fang",
+    "ja": "どくどくのキバ",
+    "id": 305
+  },
+  "crush-claw": {
+    "en": "Crush Claw",
+    "ja": "ブレイククロー",
+    "id": 306
+  },
+  "blast-burn": {
+    "en": "Blast Burn",
+    "ja": "ブラストバーン",
+    "id": 307
+  },
+  "hydro-cannon": {
+    "en": "Hydro Cannon",
+    "ja": "ハイドロカノン",
+    "id": 308
+  },
+  "meteor-mash": {
+    "en": "Meteor Mash",
+    "ja": "コメットパンチ",
+    "id": 309
+  },
+  "astonish": {
+    "en": "Astonish",
+    "ja": "おどろかす",
+    "id": 310
+  },
+  "weather-ball": {
+    "en": "Weather Ball",
+    "ja": "ウェザーボール",
+    "id": 311
+  },
+  "aromatherapy": {
+    "en": "Aromatherapy",
+    "ja": "アロマセラピー",
+    "id": 312
+  },
+  "fake-tears": {
+    "en": "Fake Tears",
+    "ja": "うそなき",
+    "id": 313
+  },
+  "air-cutter": {
+    "en": "Air Cutter",
+    "ja": "エアカッター",
+    "id": 314
+  },
+  "overheat": {
+    "en": "Overheat",
+    "ja": "オーバーヒート",
+    "id": 315
+  },
+  "odor-sleuth": {
+    "en": "Odor Sleuth",
+    "ja": "かぎわける",
+    "id": 316
+  },
+  "rock-tomb": {
+    "en": "Rock Tomb",
+    "ja": "がんせきふうじ",
+    "id": 317
+  },
+  "silver-wind": {
+    "en": "Silver Wind",
+    "ja": "ぎんいろのかぜ",
+    "id": 318
+  },
+  "metal-sound": {
+    "en": "Metal Sound",
+    "ja": "きんぞくおん",
+    "id": 319
+  },
+  "grass-whistle": {
+    "en": "Grass Whistle",
+    "ja": "くさぶえ",
+    "id": 320
+  },
+  "tickle": {
+    "en": "Tickle",
+    "ja": "くすぐる",
+    "id": 321
+  },
+  "cosmic-power": {
+    "en": "Cosmic Power",
+    "ja": "コスモパワー",
+    "id": 322
+  },
+  "water-spout": {
+    "en": "Water Spout",
+    "ja": "しおふき",
+    "id": 323
+  },
+  "signal-beam": {
+    "en": "Signal Beam",
+    "ja": "シグナルビーム",
+    "id": 324
+  },
+  "shadow-punch": {
+    "en": "Shadow Punch",
+    "ja": "シャドーパンチ",
+    "id": 325
+  },
+  "extrasensory": {
+    "en": "Extrasensory",
+    "ja": "じんつうりき",
+    "id": 326
+  },
+  "sky-uppercut": {
+    "en": "Sky Uppercut",
+    "ja": "スカイアッパー",
+    "id": 327
+  },
+  "sand-tomb": {
+    "en": "Sand Tomb",
+    "ja": "すなじごく",
+    "id": 328
+  },
+  "sheer-cold": {
+    "en": "Sheer Cold",
+    "ja": "ぜったいれいど",
+    "id": 329
+  },
+  "muddy-water": {
+    "en": "Muddy Water",
+    "ja": "だくりゅう",
+    "id": 330
+  },
+  "bullet-seed": {
+    "en": "Bullet Seed",
+    "ja": "タネマシンガン",
+    "id": 331
+  },
+  "aerial-ace": {
+    "en": "Aerial Ace",
+    "ja": "つばめがえし",
+    "id": 332
+  },
+  "icicle-spear": {
+    "en": "Icicle Spear",
+    "ja": "つららばり",
+    "id": 333
+  },
+  "iron-defense": {
+    "en": "Iron Defense",
+    "ja": "てっぺき",
+    "id": 334
+  },
+  "block": {
+    "en": "Block",
+    "ja": "とおせんぼう",
+    "id": 335
+  },
+  "howl": {
+    "en": "Howl",
+    "ja": "とおぼえ",
+    "id": 336
+  },
+  "dragon-claw": {
+    "en": "Dragon Claw",
+    "ja": "ドラゴンクロー",
+    "id": 337
+  },
+  "frenzy-plant": {
+    "en": "Frenzy Plant",
+    "ja": "ハードプラント",
+    "id": 338
+  },
+  "bulk-up": {
+    "en": "Bulk Up",
+    "ja": "ビルドアップ",
+    "id": 339
+  },
+  "bounce": {
+    "en": "Bounce",
+    "ja": "とびはねる",
+    "id": 340
+  },
+  "mud-shot": {
+    "en": "Mud Shot",
+    "ja": "マッドショット",
+    "id": 341
+  },
+  "poison-tail": {
+    "en": "Poison Tail",
+    "ja": "ポイズンテール",
+    "id": 342
+  },
+  "covet": {
+    "en": "Covet",
+    "ja": "ほしがる",
+    "id": 343
+  },
+  "volt-tackle": {
+    "en": "Volt Tackle",
+    "ja": "ボルテッカー",
+    "id": 344
+  },
+  "magical-leaf": {
+    "en": "Magical Leaf",
+    "ja": "マジカルリーフ",
+    "id": 345
+  },
+  "water-sport": {
+    "en": "Water Sport",
+    "ja": "みずあそび",
+    "id": 346
+  },
+  "calm-mind": {
+    "en": "Calm Mind",
+    "ja": "めいそう",
+    "id": 347
+  },
+  "leaf-blade": {
+    "en": "Leaf Blade",
+    "ja": "リーフブレード",
+    "id": 348
+  },
+  "dragon-dance": {
+    "en": "Dragon Dance",
+    "ja": "りゅうのまい",
+    "id": 349
+  },
+  "rock-blast": {
+    "en": "Rock Blast",
+    "ja": "ロックブラスト",
+    "id": 350
+  },
+  "shock-wave": {
+    "en": "Shock Wave",
+    "ja": "でんげきは",
+    "id": 351
+  },
+  "water-pulse": {
+    "en": "Water Pulse",
+    "ja": "みずのはどう",
+    "id": 352
+  },
+  "doom-desire": {
+    "en": "Doom Desire",
+    "ja": "はめつのねがい",
+    "id": 353
+  },
+  "psycho-boost": {
+    "en": "Psycho Boost",
+    "ja": "サイコブースト",
+    "id": 354
+  },
+  "roost": {
+    "en": "Roost",
+    "ja": "はねやすめ",
+    "id": 355
+  },
+  "gravity": {
+    "en": "Gravity",
+    "ja": "じゅうりょく",
+    "id": 356
+  },
+  "miracle-eye": {
+    "en": "Miracle Eye",
+    "ja": "ミラクルアイ",
+    "id": 357
+  },
+  "wake-up-slap": {
+    "en": "Wake-Up Slap",
+    "ja": "めざましビンタ",
+    "id": 358
+  },
+  "hammer-arm": {
+    "en": "Hammer Arm",
+    "ja": "アームハンマー",
+    "id": 359
+  },
+  "gyro-ball": {
+    "en": "Gyro Ball",
+    "ja": "ジャイロボール",
+    "id": 360
+  },
+  "healing-wish": {
+    "en": "Healing Wish",
+    "ja": "いやしのねがい",
+    "id": 361
+  },
+  "brine": {
+    "en": "Brine",
+    "ja": "しおみず",
+    "id": 362
+  },
+  "natural-gift": {
+    "en": "Natural Gift",
+    "ja": "しぜんのめぐみ",
+    "id": 363
+  },
+  "feint": {
+    "en": "Feint",
+    "ja": "フェイント",
+    "id": 364
+  },
+  "pluck": {
+    "en": "Pluck",
+    "ja": "ついばむ",
+    "id": 365
+  },
+  "tailwind": {
+    "en": "Tailwind",
+    "ja": "おいかぜ",
+    "id": 366
+  },
+  "acupressure": {
+    "en": "Acupressure",
+    "ja": "つぼをつく",
+    "id": 367
+  },
+  "metal-burst": {
+    "en": "Metal Burst",
+    "ja": "メタルバースト",
+    "id": 368
+  },
+  "u-turn": {
+    "en": "U-turn",
+    "ja": "とんぼがえり",
+    "id": 369
+  },
+  "close-combat": {
+    "en": "Close Combat",
+    "ja": "インファイト",
+    "id": 370
+  },
+  "payback": {
+    "en": "Payback",
+    "ja": "しっぺがえし",
+    "id": 371
+  },
+  "assurance": {
+    "en": "Assurance",
+    "ja": "ダメおし",
+    "id": 372
+  },
+  "embargo": {
+    "en": "Embargo",
+    "ja": "さしおさえ",
+    "id": 373
+  },
+  "fling": {
+    "en": "Fling",
+    "ja": "なげつける",
+    "id": 374
+  },
+  "psycho-shift": {
+    "en": "Psycho Shift",
+    "ja": "サイコシフト",
+    "id": 375
+  },
+  "trump-card": {
+    "en": "Trump Card",
+    "ja": "きりふだ",
+    "id": 376
+  },
+  "heal-block": {
+    "en": "Heal Block",
+    "ja": "かいふくふうじ",
+    "id": 377
+  },
+  "wring-out": {
+    "en": "Wring Out",
+    "ja": "しぼりとる",
+    "id": 378
+  },
+  "power-trick": {
+    "en": "Power Trick",
+    "ja": "パワートリック",
+    "id": 379
+  },
+  "gastro-acid": {
+    "en": "Gastro Acid",
+    "ja": "いえき",
+    "id": 380
+  },
+  "lucky-chant": {
+    "en": "Lucky Chant",
+    "ja": "おまじない",
+    "id": 381
+  },
+  "me-first": {
+    "en": "Me First",
+    "ja": "さきどり",
+    "id": 382
+  },
+  "copycat": {
+    "en": "Copycat",
+    "ja": "まねっこ",
+    "id": 383
+  },
+  "power-swap": {
+    "en": "Power Swap",
+    "ja": "パワースワップ",
+    "id": 384
+  },
+  "guard-swap": {
+    "en": "Guard Swap",
+    "ja": "ガードスワップ",
+    "id": 385
+  },
+  "punishment": {
+    "en": "Punishment",
+    "ja": "おしおき",
+    "id": 386
+  },
+  "last-resort": {
+    "en": "Last Resort",
+    "ja": "とっておき",
+    "id": 387
+  },
+  "worry-seed": {
+    "en": "Worry Seed",
+    "ja": "なやみのタネ",
+    "id": 388
+  },
+  "sucker-punch": {
+    "en": "Sucker Punch",
+    "ja": "ふいうち",
+    "id": 389
+  },
+  "toxic-spikes": {
+    "en": "Toxic Spikes",
+    "ja": "どくびし",
+    "id": 390
+  },
+  "heart-swap": {
+    "en": "Heart Swap",
+    "ja": "ハートスワップ",
+    "id": 391
+  },
+  "aqua-ring": {
+    "en": "Aqua Ring",
+    "ja": "アクアリング",
+    "id": 392
+  },
+  "magnet-rise": {
+    "en": "Magnet Rise",
+    "ja": "でんじふゆう",
+    "id": 393
+  },
+  "flare-blitz": {
+    "en": "Flare Blitz",
+    "ja": "フレアドライブ",
+    "id": 394
+  },
+  "force-palm": {
+    "en": "Force Palm",
+    "ja": "はっけい",
+    "id": 395
+  },
+  "aura-sphere": {
+    "en": "Aura Sphere",
+    "ja": "はどうだん",
+    "id": 396
+  },
+  "rock-polish": {
+    "en": "Rock Polish",
+    "ja": "ロックカット",
+    "id": 397
+  },
+  "poison-jab": {
+    "en": "Poison Jab",
+    "ja": "どくづき",
+    "id": 398
+  },
+  "dark-pulse": {
+    "en": "Dark Pulse",
+    "ja": "あくのはどう",
+    "id": 399
+  },
+  "night-slash": {
+    "en": "Night Slash",
+    "ja": "つじぎり",
+    "id": 400
+  },
+  "aqua-tail": {
+    "en": "Aqua Tail",
+    "ja": "アクアテール",
+    "id": 401
+  },
+  "seed-bomb": {
+    "en": "Seed Bomb",
+    "ja": "タネばくだん",
+    "id": 402
+  },
+  "air-slash": {
+    "en": "Air Slash",
+    "ja": "エアスラッシュ",
+    "id": 403
+  },
+  "x-scissor": {
+    "en": "X-Scissor",
+    "ja": "シザークロス",
+    "id": 404
+  },
+  "bug-buzz": {
+    "en": "Bug Buzz",
+    "ja": "むしのさざめき",
+    "id": 405
+  },
+  "dragon-pulse": {
+    "en": "Dragon Pulse",
+    "ja": "りゅうのはどう",
+    "id": 406
+  },
+  "dragon-rush": {
+    "en": "Dragon Rush",
+    "ja": "ドラゴンダイブ",
+    "id": 407
+  },
+  "power-gem": {
+    "en": "Power Gem",
+    "ja": "パワージェム",
+    "id": 408
+  },
+  "drain-punch": {
+    "en": "Drain Punch",
+    "ja": "ドレインパンチ",
+    "id": 409
+  },
+  "vacuum-wave": {
+    "en": "Vacuum Wave",
+    "ja": "しんくうは",
+    "id": 410
+  },
+  "focus-blast": {
+    "en": "Focus Blast",
+    "ja": "きあいだま",
+    "id": 411
+  },
+  "energy-ball": {
+    "en": "Energy Ball",
+    "ja": "エナジーボール",
+    "id": 412
+  },
+  "brave-bird": {
+    "en": "Brave Bird",
+    "ja": "ブレイブバード",
+    "id": 413
+  },
+  "earth-power": {
+    "en": "Earth Power",
+    "ja": "だいちのちから",
+    "id": 414
+  },
+  "switcheroo": {
+    "en": "Switcheroo",
+    "ja": "すりかえ",
+    "id": 415
+  },
+  "giga-impact": {
+    "en": "Giga Impact",
+    "ja": "ギガインパクト",
+    "id": 416
+  },
+  "nasty-plot": {
+    "en": "Nasty Plot",
+    "ja": "わるだくみ",
+    "id": 417
+  },
+  "bullet-punch": {
+    "en": "Bullet Punch",
+    "ja": "バレットパンチ",
+    "id": 418
+  },
+  "avalanche": {
+    "en": "Avalanche",
+    "ja": "ゆきなだれ",
+    "id": 419
+  },
+  "ice-shard": {
+    "en": "Ice Shard",
+    "ja": "こおりのつぶて",
+    "id": 420
+  },
+  "shadow-claw": {
+    "en": "Shadow Claw",
+    "ja": "シャドークロー",
+    "id": 421
+  },
+  "thunder-fang": {
+    "en": "Thunder Fang",
+    "ja": "かみなりのキバ",
+    "id": 422
+  },
+  "ice-fang": {
+    "en": "Ice Fang",
+    "ja": "こおりのキバ",
+    "id": 423
+  },
+  "fire-fang": {
+    "en": "Fire Fang",
+    "ja": "ほのおのキバ",
+    "id": 424
+  },
+  "shadow-sneak": {
+    "en": "Shadow Sneak",
+    "ja": "かげうち",
+    "id": 425
+  },
+  "mud-bomb": {
+    "en": "Mud Bomb",
+    "ja": "どろばくだん",
+    "id": 426
+  },
+  "psycho-cut": {
+    "en": "Psycho Cut",
+    "ja": "サイコカッター",
+    "id": 427
+  },
+  "zen-headbutt": {
+    "en": "Zen Headbutt",
+    "ja": "しねんのずつき",
+    "id": 428
+  },
+  "mirror-shot": {
+    "en": "Mirror Shot",
+    "ja": "ミラーショット",
+    "id": 429
+  },
+  "flash-cannon": {
+    "en": "Flash Cannon",
+    "ja": "ラスターカノン",
+    "id": 430
+  },
+  "rock-climb": {
+    "en": "Rock Climb",
+    "ja": "ロッククライム",
+    "id": 431
+  },
+  "defog": {
+    "en": "Defog",
+    "ja": "きりばらい",
+    "id": 432
+  },
+  "trick-room": {
+    "en": "Trick Room",
+    "ja": "トリックルーム",
+    "id": 433
+  },
+  "draco-meteor": {
+    "en": "Draco Meteor",
+    "ja": "りゅうせいぐん",
+    "id": 434
+  },
+  "discharge": {
+    "en": "Discharge",
+    "ja": "ほうでん",
+    "id": 435
+  },
+  "lava-plume": {
+    "en": "Lava Plume",
+    "ja": "ふんえん",
+    "id": 436
+  },
+  "leaf-storm": {
+    "en": "Leaf Storm",
+    "ja": "リーフストーム",
+    "id": 437
+  },
+  "power-whip": {
+    "en": "Power Whip",
+    "ja": "パワーウィップ",
+    "id": 438
+  },
+  "rock-wrecker": {
+    "en": "Rock Wrecker",
+    "ja": "がんせきほう",
+    "id": 439
+  },
+  "cross-poison": {
+    "en": "Cross Poison",
+    "ja": "クロスポイズン",
+    "id": 440
+  },
+  "gunk-shot": {
+    "en": "Gunk Shot",
+    "ja": "ダストシュート",
+    "id": 441
+  },
+  "iron-head": {
+    "en": "Iron Head",
+    "ja": "アイアンヘッド",
+    "id": 442
+  },
+  "magnet-bomb": {
+    "en": "Magnet Bomb",
+    "ja": "マグネットボム",
+    "id": 443
+  },
+  "stone-edge": {
+    "en": "Stone Edge",
+    "ja": "ストーンエッジ",
+    "id": 444
+  },
+  "captivate": {
+    "en": "Captivate",
+    "ja": "ゆうわく",
+    "id": 445
+  },
+  "stealth-rock": {
+    "en": "Stealth Rock",
+    "ja": "ステルスロック",
+    "id": 446
+  },
+  "grass-knot": {
+    "en": "Grass Knot",
+    "ja": "くさむすび",
+    "id": 447
+  },
+  "chatter": {
+    "en": "Chatter",
+    "ja": "おしゃべり",
+    "id": 448
+  },
+  "judgment": {
+    "en": "Judgment",
+    "ja": "さばきのつぶて",
+    "id": 449
+  },
+  "bug-bite": {
+    "en": "Bug Bite",
+    "ja": "むしくい",
+    "id": 450
+  },
+  "charge-beam": {
+    "en": "Charge Beam",
+    "ja": "チャージビーム",
+    "id": 451
+  },
+  "wood-hammer": {
+    "en": "Wood Hammer",
+    "ja": "ウッドハンマー",
+    "id": 452
+  },
+  "aqua-jet": {
+    "en": "Aqua Jet",
+    "ja": "アクアジェット",
+    "id": 453
+  },
+  "attack-order": {
+    "en": "Attack Order",
+    "ja": "こうげきしれい",
+    "id": 454
+  },
+  "defend-order": {
+    "en": "Defend Order",
+    "ja": "ぼうぎょしれい",
+    "id": 455
+  },
+  "heal-order": {
+    "en": "Heal Order",
+    "ja": "かいふくしれい",
+    "id": 456
+  },
+  "head-smash": {
+    "en": "Head Smash",
+    "ja": "もろはのずつき",
+    "id": 457
+  },
+  "double-hit": {
+    "en": "Double Hit",
+    "ja": "ダブルアタック",
+    "id": 458
+  },
+  "roar-of-time": {
+    "en": "Roar of Time",
+    "ja": "ときのほうこう",
+    "id": 459
+  },
+  "spacial-rend": {
+    "en": "Spacial Rend",
+    "ja": "あくうせつだん",
+    "id": 460
+  },
+  "lunar-dance": {
+    "en": "Lunar Dance",
+    "ja": "みかづきのまい",
+    "id": 461
+  },
+  "crush-grip": {
+    "en": "Crush Grip",
+    "ja": "にぎりつぶす",
+    "id": 462
+  },
+  "magma-storm": {
+    "en": "Magma Storm",
+    "ja": "マグマストーム",
+    "id": 463
+  },
+  "dark-void": {
+    "en": "Dark Void",
+    "ja": "ダークホール",
+    "id": 464
+  },
+  "seed-flare": {
+    "en": "Seed Flare",
+    "ja": "シードフレア",
+    "id": 465
+  },
+  "ominous-wind": {
+    "en": "Ominous Wind",
+    "ja": "あやしいかぜ",
+    "id": 466
+  },
+  "shadow-force": {
+    "en": "Shadow Force",
+    "ja": "シャドーダイブ",
+    "id": 467
+  },
+  "hone-claws": {
+    "en": "Hone Claws",
+    "ja": "つめとぎ",
+    "id": 468
+  },
+  "wide-guard": {
+    "en": "Wide Guard",
+    "ja": "ワイドガード",
+    "id": 469
+  },
+  "guard-split": {
+    "en": "Guard Split",
+    "ja": "ガードシェア",
+    "id": 470
+  },
+  "power-split": {
+    "en": "Power Split",
+    "ja": "パワーシェア",
+    "id": 471
+  },
+  "wonder-room": {
+    "en": "Wonder Room",
+    "ja": "ワンダールーム",
+    "id": 472
+  },
+  "psyshock": {
+    "en": "Psyshock",
+    "ja": "サイコショック",
+    "id": 473
+  },
+  "venoshock": {
+    "en": "Venoshock",
+    "ja": "ベノムショック",
+    "id": 474
+  },
+  "autotomize": {
+    "en": "Autotomize",
+    "ja": "ボディパージ",
+    "id": 475
+  },
+  "rage-powder": {
+    "en": "Rage Powder",
+    "ja": "いかりのこな",
+    "id": 476
+  },
+  "telekinesis": {
+    "en": "Telekinesis",
+    "ja": "テレキネシス",
+    "id": 477
+  },
+  "magic-room": {
+    "en": "Magic Room",
+    "ja": "マジックルーム",
+    "id": 478
+  },
+  "smack-down": {
+    "en": "Smack Down",
+    "ja": "うちおとす",
+    "id": 479
+  },
+  "storm-throw": {
+    "en": "Storm Throw",
+    "ja": "やまあらし",
+    "id": 480
+  },
+  "flame-burst": {
+    "en": "Flame Burst",
+    "ja": "はじけるほのお",
+    "id": 481
+  },
+  "sludge-wave": {
+    "en": "Sludge Wave",
+    "ja": "ヘドロウェーブ",
+    "id": 482
+  },
+  "quiver-dance": {
+    "en": "Quiver Dance",
+    "ja": "ちょうのまい",
+    "id": 483
+  },
+  "heavy-slam": {
+    "en": "Heavy Slam",
+    "ja": "ヘビーボンバー",
+    "id": 484
+  },
+  "synchronoise": {
+    "en": "Synchronoise",
+    "ja": "シンクロノイズ",
+    "id": 485
+  },
+  "electro-ball": {
+    "en": "Electro Ball",
+    "ja": "エレキボール",
+    "id": 486
+  },
+  "soak": {
+    "en": "Soak",
+    "ja": "みずびたし",
+    "id": 487
+  },
+  "flame-charge": {
+    "en": "Flame Charge",
+    "ja": "ニトロチャージ",
+    "id": 488
+  },
+  "coil": {
+    "en": "Coil",
+    "ja": "とぐろをまく",
+    "id": 489
+  },
+  "low-sweep": {
+    "en": "Low Sweep",
+    "ja": "ローキック",
+    "id": 490
+  },
+  "acid-spray": {
+    "en": "Acid Spray",
+    "ja": "アシッドボム",
+    "id": 491
+  },
+  "foul-play": {
+    "en": "Foul Play",
+    "ja": "イカサマ",
+    "id": 492
+  },
+  "simple-beam": {
+    "en": "Simple Beam",
+    "ja": "シンプルビーム",
+    "id": 493
+  },
+  "entrainment": {
+    "en": "Entrainment",
+    "ja": "なかまづくり",
+    "id": 494
+  },
+  "after-you": {
+    "en": "After You",
+    "ja": "おさきにどうぞ",
+    "id": 495
+  },
+  "round": {
+    "en": "Round",
+    "ja": "りんしょう",
+    "id": 496
+  },
+  "echoed-voice": {
+    "en": "Echoed Voice",
+    "ja": "エコーボイス",
+    "id": 497
+  },
+  "chip-away": {
+    "en": "Chip Away",
+    "ja": "なしくずし",
+    "id": 498
+  },
+  "clear-smog": {
+    "en": "Clear Smog",
+    "ja": "クリアスモッグ",
+    "id": 499
+  },
+  "stored-power": {
+    "en": "Stored Power",
+    "ja": "アシストパワー",
+    "id": 500
+  },
+  "quick-guard": {
+    "en": "Quick Guard",
+    "ja": "ファストガード",
+    "id": 501
+  },
+  "ally-switch": {
+    "en": "Ally Switch",
+    "ja": "サイドチェンジ",
+    "id": 502
+  },
+  "scald": {
+    "en": "Scald",
+    "ja": "ねっとう",
+    "id": 503
+  },
+  "shell-smash": {
+    "en": "Shell Smash",
+    "ja": "からをやぶる",
+    "id": 504
+  },
+  "heal-pulse": {
+    "en": "Heal Pulse",
+    "ja": "いやしのはどう",
+    "id": 505
+  },
+  "hex": {
+    "en": "Hex",
+    "ja": "たたりめ",
+    "id": 506
+  },
+  "sky-drop": {
+    "en": "Sky Drop",
+    "ja": "フリーフォール",
+    "id": 507
+  },
+  "shift-gear": {
+    "en": "Shift Gear",
+    "ja": "ギアチェンジ",
+    "id": 508
+  },
+  "circle-throw": {
+    "en": "Circle Throw",
+    "ja": "ともえなげ",
+    "id": 509
+  },
+  "incinerate": {
+    "en": "Incinerate",
+    "ja": "やきつくす",
+    "id": 510
+  },
+  "quash": {
+    "en": "Quash",
+    "ja": "さきおくり",
+    "id": 511
+  },
+  "acrobatics": {
+    "en": "Acrobatics",
+    "ja": "アクロバット",
+    "id": 512
+  },
+  "reflect-type": {
+    "en": "Reflect Type",
+    "ja": "ミラータイプ",
+    "id": 513
+  },
+  "retaliate": {
+    "en": "Retaliate",
+    "ja": "かたきうち",
+    "id": 514
+  },
+  "final-gambit": {
+    "en": "Final Gambit",
+    "ja": "いのちがけ",
+    "id": 515
+  },
+  "bestow": {
+    "en": "Bestow",
+    "ja": "ギフトパス",
+    "id": 516
+  },
+  "inferno": {
+    "en": "Inferno",
+    "ja": "れんごく",
+    "id": 517
+  },
+  "water-pledge": {
+    "en": "Water Pledge",
+    "ja": "みずのちかい",
+    "id": 518
+  },
+  "fire-pledge": {
+    "en": "Fire Pledge",
+    "ja": "ほのおのちかい",
+    "id": 519
+  },
+  "grass-pledge": {
+    "en": "Grass Pledge",
+    "ja": "くさのちかい",
+    "id": 520
+  },
+  "volt-switch": {
+    "en": "Volt Switch",
+    "ja": "ボルトチェンジ",
+    "id": 521
+  },
+  "struggle-bug": {
+    "en": "Struggle Bug",
+    "ja": "むしのていこう",
+    "id": 522
+  },
+  "bulldoze": {
+    "en": "Bulldoze",
+    "ja": "じならし",
+    "id": 523
+  },
+  "frost-breath": {
+    "en": "Frost Breath",
+    "ja": "こおりのいぶき",
+    "id": 524
+  },
+  "dragon-tail": {
+    "en": "Dragon Tail",
+    "ja": "ドラゴンテール",
+    "id": 525
+  },
+  "work-up": {
+    "en": "Work Up",
+    "ja": "ふるいたてる",
+    "id": 526
+  },
+  "electroweb": {
+    "en": "Electroweb",
+    "ja": "エレキネット",
+    "id": 527
+  },
+  "wild-charge": {
+    "en": "Wild Charge",
+    "ja": "ワイルドボルト",
+    "id": 528
+  },
+  "drill-run": {
+    "en": "Drill Run",
+    "ja": "ドリルライナー",
+    "id": 529
+  },
+  "dual-chop": {
+    "en": "Dual Chop",
+    "ja": "ダブルチョップ",
+    "id": 530
+  },
+  "heart-stamp": {
+    "en": "Heart Stamp",
+    "ja": "ハートスタンプ",
+    "id": 531
+  },
+  "horn-leech": {
+    "en": "Horn Leech",
+    "ja": "ウッドホーン",
+    "id": 532
+  },
+  "sacred-sword": {
+    "en": "Sacred Sword",
+    "ja": "せいなるつるぎ",
+    "id": 533
+  },
+  "razor-shell": {
+    "en": "Razor Shell",
+    "ja": "シェルブレード",
+    "id": 534
+  },
+  "heat-crash": {
+    "en": "Heat Crash",
+    "ja": "ヒートスタンプ",
+    "id": 535
+  },
+  "leaf-tornado": {
+    "en": "Leaf Tornado",
+    "ja": "グラスミキサー",
+    "id": 536
+  },
+  "steamroller": {
+    "en": "Steamroller",
+    "ja": "ハードローラー",
+    "id": 537
+  },
+  "cotton-guard": {
+    "en": "Cotton Guard",
+    "ja": "コットンガード",
+    "id": 538
+  },
+  "night-daze": {
+    "en": "Night Daze",
+    "ja": "ナイトバースト",
+    "id": 539
+  },
+  "psystrike": {
+    "en": "Psystrike",
+    "ja": "サイコブレイク",
+    "id": 540
+  },
+  "tail-slap": {
+    "en": "Tail Slap",
+    "ja": "スイープビンタ",
+    "id": 541
+  },
+  "hurricane": {
+    "en": "Hurricane",
+    "ja": "ぼうふう",
+    "id": 542
+  },
+  "head-charge": {
+    "en": "Head Charge",
+    "ja": "アフロブレイク",
+    "id": 543
+  },
+  "gear-grind": {
+    "en": "Gear Grind",
+    "ja": "ギアソーサー",
+    "id": 544
+  },
+  "searing-shot": {
+    "en": "Searing Shot",
+    "ja": "かえんだん",
+    "id": 545
+  },
+  "techno-blast": {
+    "en": "Techno Blast",
+    "ja": "テクノバスター",
+    "id": 546
+  },
+  "relic-song": {
+    "en": "Relic Song",
+    "ja": "いにしえのうた",
+    "id": 547
+  },
+  "secret-sword": {
+    "en": "Secret Sword",
+    "ja": "しんぴのつるぎ",
+    "id": 548
+  },
+  "glaciate": {
+    "en": "Glaciate",
+    "ja": "こごえるせかい",
+    "id": 549
+  },
+  "bolt-strike": {
+    "en": "Bolt Strike",
+    "ja": "らいげき",
+    "id": 550
+  },
+  "blue-flare": {
+    "en": "Blue Flare",
+    "ja": "あおいほのお",
+    "id": 551
+  },
+  "fiery-dance": {
+    "en": "Fiery Dance",
+    "ja": "ほのおのまい",
+    "id": 552
+  },
+  "freeze-shock": {
+    "en": "Freeze Shock",
+    "ja": "フリーズボルト",
+    "id": 553
+  },
+  "ice-burn": {
+    "en": "Ice Burn",
+    "ja": "コールドフレア",
+    "id": 554
+  },
+  "snarl": {
+    "en": "Snarl",
+    "ja": "バークアウト",
+    "id": 555
+  },
+  "icicle-crash": {
+    "en": "Icicle Crash",
+    "ja": "つららおとし",
+    "id": 556
+  },
+  "v-create": {
+    "en": "V-create",
+    "ja": "Ｖジェネレート",
+    "id": 557
+  },
+  "fusion-flare": {
+    "en": "Fusion Flare",
+    "ja": "クロスフレイム",
+    "id": 558
+  },
+  "fusion-bolt": {
+    "en": "Fusion Bolt",
+    "ja": "クロスサンダー",
+    "id": 559
+  },
+  "flying-press": {
+    "en": "Flying Press",
+    "ja": "フライングプレス",
+    "id": 560
+  },
+  "mat-block": {
+    "en": "Mat Block",
+    "ja": "たたみがえし",
+    "id": 561
+  },
+  "belch": {
+    "en": "Belch",
+    "ja": "ゲップ",
+    "id": 562
+  },
+  "rototiller": {
+    "en": "Rototiller",
+    "ja": "たがやす",
+    "id": 563
+  },
+  "sticky-web": {
+    "en": "Sticky Web",
+    "ja": "ねばねばネット",
+    "id": 564
+  },
+  "fell-stinger": {
+    "en": "Fell Stinger",
+    "ja": "とどめばり",
+    "id": 565
+  },
+  "phantom-force": {
+    "en": "Phantom Force",
+    "ja": "ゴーストダイブ",
+    "id": 566
+  },
+  "trick-or-treat": {
+    "en": "Trick-or-Treat",
+    "ja": "ハロウィン",
+    "id": 567
+  },
+  "noble-roar": {
+    "en": "Noble Roar",
+    "ja": "おたけび",
+    "id": 568
+  },
+  "ion-deluge": {
+    "en": "Ion Deluge",
+    "ja": "プラズマシャワー",
+    "id": 569
+  },
+  "parabolic-charge": {
+    "en": "Parabolic Charge",
+    "ja": "パラボラチャージ",
+    "id": 570
+  },
+  "forests-curse": {
+    "en": "Forest’s Curse",
+    "ja": "もりののろい",
+    "id": 571
+  },
+  "petal-blizzard": {
+    "en": "Petal Blizzard",
+    "ja": "はなふぶき",
+    "id": 572
+  },
+  "freeze-dry": {
+    "en": "Freeze-Dry",
+    "ja": "フリーズドライ",
+    "id": 573
+  },
+  "disarming-voice": {
+    "en": "Disarming Voice",
+    "ja": "チャームボイス",
+    "id": 574
+  },
+  "parting-shot": {
+    "en": "Parting Shot",
+    "ja": "すてゼリフ",
+    "id": 575
+  },
+  "topsy-turvy": {
+    "en": "Topsy-Turvy",
+    "ja": "ひっくりかえす",
+    "id": 576
+  },
+  "draining-kiss": {
+    "en": "Draining Kiss",
+    "ja": "ドレインキッス",
+    "id": 577
+  },
+  "crafty-shield": {
+    "en": "Crafty Shield",
+    "ja": "トリックガード",
+    "id": 578
+  },
+  "flower-shield": {
+    "en": "Flower Shield",
+    "ja": "フラワーガード",
+    "id": 579
+  },
+  "grassy-terrain": {
+    "en": "Grassy Terrain",
+    "ja": "グラスフィールド",
+    "id": 580
+  },
+  "misty-terrain": {
+    "en": "Misty Terrain",
+    "ja": "ミストフィールド",
+    "id": 581
+  },
+  "electrify": {
+    "en": "Electrify",
+    "ja": "そうでん",
+    "id": 582
+  },
+  "play-rough": {
+    "en": "Play Rough",
+    "ja": "じゃれつく",
+    "id": 583
+  },
+  "fairy-wind": {
+    "en": "Fairy Wind",
+    "ja": "ようせいのかぜ",
+    "id": 584
+  },
+  "moonblast": {
+    "en": "Moonblast",
+    "ja": "ムーンフォース",
+    "id": 585
+  },
+  "boomburst": {
+    "en": "Boomburst",
+    "ja": "ばくおんぱ",
+    "id": 586
+  },
+  "fairy-lock": {
+    "en": "Fairy Lock",
+    "ja": "フェアリーロック",
+    "id": 587
+  },
+  "kings-shield": {
+    "en": "King’s Shield",
+    "ja": "キングシールド",
+    "id": 588
+  },
+  "play-nice": {
+    "en": "Play Nice",
+    "ja": "なかよくする",
+    "id": 589
+  },
+  "confide": {
+    "en": "Confide",
+    "ja": "ないしょばなし",
+    "id": 590
+  },
+  "diamond-storm": {
+    "en": "Diamond Storm",
+    "ja": "ダイヤストーム",
+    "id": 591
+  },
+  "steam-eruption": {
+    "en": "Steam Eruption",
+    "ja": "スチームバースト",
+    "id": 592
+  },
+  "hyperspace-hole": {
+    "en": "Hyperspace Hole",
+    "ja": "いじげんホール",
+    "id": 593
+  },
+  "water-shuriken": {
+    "en": "Water Shuriken",
+    "ja": "みずしゅりけん",
+    "id": 594
+  },
+  "mystical-fire": {
+    "en": "Mystical Fire",
+    "ja": "マジカルフレイム",
+    "id": 595
+  },
+  "spiky-shield": {
+    "en": "Spiky Shield",
+    "ja": "ニードルガード",
+    "id": 596
+  },
+  "aromatic-mist": {
+    "en": "Aromatic Mist",
+    "ja": "アロマミスト",
+    "id": 597
+  },
+  "eerie-impulse": {
+    "en": "Eerie Impulse",
+    "ja": "かいでんぱ",
+    "id": 598
+  },
+  "venom-drench": {
+    "en": "Venom Drench",
+    "ja": "ベノムトラップ",
+    "id": 599
+  },
+  "powder": {
+    "en": "Powder",
+    "ja": "ふんじん",
+    "id": 600
+  },
+  "geomancy": {
+    "en": "Geomancy",
+    "ja": "ジオコントロール",
+    "id": 601
+  },
+  "magnetic-flux": {
+    "en": "Magnetic Flux",
+    "ja": "じばそうさ",
+    "id": 602
+  },
+  "happy-hour": {
+    "en": "Happy Hour",
+    "ja": "ハッピータイム",
+    "id": 603
+  },
+  "electric-terrain": {
+    "en": "Electric Terrain",
+    "ja": "エレキフィールド",
+    "id": 604
+  },
+  "dazzling-gleam": {
+    "en": "Dazzling Gleam",
+    "ja": "マジカルシャイン",
+    "id": 605
+  },
+  "celebrate": {
+    "en": "Celebrate",
+    "ja": "おいわい",
+    "id": 606
+  },
+  "hold-hands": {
+    "en": "Hold Hands",
+    "ja": "てをつなぐ",
+    "id": 607
+  },
+  "baby-doll-eyes": {
+    "en": "Baby-Doll Eyes",
+    "ja": "つぶらなひとみ",
+    "id": 608
+  },
+  "nuzzle": {
+    "en": "Nuzzle",
+    "ja": "ほっぺすりすり",
+    "id": 609
+  },
+  "hold-back": {
+    "en": "Hold Back",
+    "ja": "てかげん",
+    "id": 610
+  },
+  "infestation": {
+    "en": "Infestation",
+    "ja": "まとわりつく",
+    "id": 611
+  },
+  "power-up-punch": {
+    "en": "Power-Up Punch",
+    "ja": "グロウパンチ",
+    "id": 612
+  },
+  "oblivion-wing": {
+    "en": "Oblivion Wing",
+    "ja": "デスウイング",
+    "id": 613
+  },
+  "thousand-arrows": {
+    "en": "Thousand Arrows",
+    "ja": "サウザンアロー",
+    "id": 614
+  },
+  "thousand-waves": {
+    "en": "Thousand Waves",
+    "ja": "サウザンウェーブ",
+    "id": 615
+  },
+  "lands-wrath": {
+    "en": "Land’s Wrath",
+    "ja": "グランドフォース",
+    "id": 616
+  },
+  "light-of-ruin": {
+    "en": "Light of Ruin",
+    "ja": "はめつのひかり",
+    "id": 617
+  },
+  "origin-pulse": {
+    "en": "Origin Pulse",
+    "ja": "こんげんのはどう",
+    "id": 618
+  },
+  "precipice-blades": {
+    "en": "Precipice Blades",
+    "ja": "だんがいのつるぎ",
+    "id": 619
+  },
+  "dragon-ascent": {
+    "en": "Dragon Ascent",
+    "ja": "ガリョウテンセイ",
+    "id": 620
+  },
+  "hyperspace-fury": {
+    "en": "Hyperspace Fury",
+    "ja": "いじげんラッシュ",
+    "id": 621
+  },
+  "breakneck-blitz--physical": {
+    "en": "Breakneck Blitz",
+    "ja": "ウルトラダッシュアタック",
+    "id": 622
+  },
+  "breakneck-blitz--special": {
+    "en": "Breakneck Blitz",
+    "ja": "ウルトラダッシュアタック",
+    "id": 623
+  },
+  "all-out-pummeling--physical": {
+    "en": "All-Out Pummeling",
+    "ja": "ぜんりょくむそうげきれつけん",
+    "id": 624
+  },
+  "all-out-pummeling--special": {
+    "en": "All-Out Pummeling",
+    "ja": "ぜんりょくむそうげきれつけん",
+    "id": 625
+  },
+  "supersonic-skystrike--physical": {
+    "en": "Supersonic Skystrike",
+    "ja": "ファイナルダイブクラッシュ",
+    "id": 626
+  },
+  "supersonic-skystrike--special": {
+    "en": "Supersonic Skystrike",
+    "ja": "ファイナルダイブクラッシュ",
+    "id": 627
+  },
+  "acid-downpour--physical": {
+    "en": "Acid Downpour",
+    "ja": "アシッドポイズンデリート",
+    "id": 628
+  },
+  "acid-downpour--special": {
+    "en": "Acid Downpour",
+    "ja": "アシッドポイズンデリート",
+    "id": 629
+  },
+  "tectonic-rage--physical": {
+    "en": "Tectonic Rage",
+    "ja": "ライジングランドオーバー",
+    "id": 630
+  },
+  "tectonic-rage--special": {
+    "en": "Tectonic Rage",
+    "ja": "ライジングランドオーバー",
+    "id": 631
+  },
+  "continental-crush--physical": {
+    "en": "Continental Crush",
+    "ja": "ワールズエンドフォール",
+    "id": 632
+  },
+  "continental-crush--special": {
+    "en": "Continental Crush",
+    "ja": "ワールズエンドフォール",
+    "id": 633
+  },
+  "savage-spin-out--physical": {
+    "en": "Savage Spin-Out",
+    "ja": "ぜったいほしょくかいてんざん",
+    "id": 634
+  },
+  "savage-spin-out--special": {
+    "en": "Savage Spin-Out",
+    "ja": "ぜったいほしょくかいてんざん",
+    "id": 635
+  },
+  "never-ending-nightmare--physical": {
+    "en": "Never-Ending Nightmare",
+    "ja": "むげんあんやへのいざない",
+    "id": 636
+  },
+  "never-ending-nightmare--special": {
+    "en": "Never-Ending Nightmare",
+    "ja": "むげんあんやへのいざない",
+    "id": 637
+  },
+  "corkscrew-crash--physical": {
+    "en": "Corkscrew Crash",
+    "ja": "ちょうぜつらせんれんげき",
+    "id": 638
+  },
+  "corkscrew-crash--special": {
+    "en": "Corkscrew Crash",
+    "ja": "ちょうぜつらせんれんげき",
+    "id": 639
+  },
+  "inferno-overdrive--physical": {
+    "en": "Inferno Overdrive",
+    "ja": "ダイナミックフルフレイム",
+    "id": 640
+  },
+  "inferno-overdrive--special": {
+    "en": "Inferno Overdrive",
+    "ja": "ダイナミックフルフレイム",
+    "id": 641
+  },
+  "hydro-vortex--physical": {
+    "en": "Hydro Vortex",
+    "ja": "スーパーアクアトルネード",
+    "id": 642
+  },
+  "hydro-vortex--special": {
+    "en": "Hydro Vortex",
+    "ja": "スーパーアクアトルネード",
+    "id": 643
+  },
+  "bloom-doom--physical": {
+    "en": "Bloom Doom",
+    "ja": "ブルームシャインエクストラ",
+    "id": 644
+  },
+  "bloom-doom--special": {
+    "en": "Bloom Doom",
+    "ja": "ブルームシャインエクストラ",
+    "id": 645
+  },
+  "gigavolt-havoc--physical": {
+    "en": "Gigavolt Havoc",
+    "ja": "スパーキングギガボルト",
+    "id": 646
+  },
+  "gigavolt-havoc--special": {
+    "en": "Gigavolt Havoc",
+    "ja": "スパーキングギガボルト",
+    "id": 647
+  },
+  "shattered-psyche--physical": {
+    "en": "Shattered Psyche",
+    "ja": "マキシマムサイブレイカー",
+    "id": 648
+  },
+  "shattered-psyche--special": {
+    "en": "Shattered Psyche",
+    "ja": "マキシマムサイブレイカー",
+    "id": 649
+  },
+  "subzero-slammer--physical": {
+    "en": "Subzero Slammer",
+    "ja": "レイジングジオフリーズ",
+    "id": 650
+  },
+  "subzero-slammer--special": {
+    "en": "Subzero Slammer",
+    "ja": "レイジングジオフリーズ",
+    "id": 651
+  },
+  "devastating-drake--physical": {
+    "en": "Devastating Drake",
+    "ja": "アルティメットドラゴンバーン",
+    "id": 652
+  },
+  "devastating-drake--special": {
+    "en": "Devastating Drake",
+    "ja": "アルティメットドラゴンバーン",
+    "id": 653
+  },
+  "black-hole-eclipse--physical": {
+    "en": "Black Hole Eclipse",
+    "ja": "ブラックホールイクリプス",
+    "id": 654
+  },
+  "black-hole-eclipse--special": {
+    "en": "Black Hole Eclipse",
+    "ja": "ブラックホールイクリプス",
+    "id": 655
+  },
+  "twinkle-tackle--physical": {
+    "en": "Twinkle Tackle",
+    "ja": "ラブリースターインパクト",
+    "id": 656
+  },
+  "twinkle-tackle--special": {
+    "en": "Twinkle Tackle",
+    "ja": "ラブリースターインパクト",
+    "id": 657
+  },
+  "catastropika": {
+    "en": "Catastropika",
+    "ja": "ひっさつのピカチュート",
+    "id": 658
+  },
+  "shore-up": {
+    "en": "Shore Up",
+    "ja": "すなあつめ",
+    "id": 659
+  },
+  "first-impression": {
+    "en": "First Impression",
+    "ja": "であいがしら",
+    "id": 660
+  },
+  "baneful-bunker": {
+    "en": "Baneful Bunker",
+    "ja": "トーチカ",
+    "id": 661
+  },
+  "spirit-shackle": {
+    "en": "Spirit Shackle",
+    "ja": "かげぬい",
+    "id": 662
+  },
+  "darkest-lariat": {
+    "en": "Darkest Lariat",
+    "ja": "ＤＤラリアット",
+    "id": 663
+  },
+  "sparkling-aria": {
+    "en": "Sparkling Aria",
+    "ja": "うたかたのアリア",
+    "id": 664
+  },
+  "ice-hammer": {
+    "en": "Ice Hammer",
+    "ja": "アイスハンマー",
+    "id": 665
+  },
+  "floral-healing": {
+    "en": "Floral Healing",
+    "ja": "フラワーヒール",
+    "id": 666
+  },
+  "high-horsepower": {
+    "en": "High Horsepower",
+    "ja": "１０まんばりき",
+    "id": 667
+  },
+  "strength-sap": {
+    "en": "Strength Sap",
+    "ja": "ちからをすいとる",
+    "id": 668
+  },
+  "solar-blade": {
+    "en": "Solar Blade",
+    "ja": "ソーラーブレード",
+    "id": 669
+  },
+  "leafage": {
+    "en": "Leafage",
+    "ja": "このは",
+    "id": 670
+  },
+  "spotlight": {
+    "en": "Spotlight",
+    "ja": "スポットライト",
+    "id": 671
+  },
+  "toxic-thread": {
+    "en": "Toxic Thread",
+    "ja": "どくのいと",
+    "id": 672
+  },
+  "laser-focus": {
+    "en": "Laser Focus",
+    "ja": "とぎすます",
+    "id": 673
+  },
+  "gear-up": {
+    "en": "Gear Up",
+    "ja": "アシストギア",
+    "id": 674
+  },
+  "throat-chop": {
+    "en": "Throat Chop",
+    "ja": "じごくづき",
+    "id": 675
+  },
+  "pollen-puff": {
+    "en": "Pollen Puff",
+    "ja": "かふんだんご",
+    "id": 676
+  },
+  "anchor-shot": {
+    "en": "Anchor Shot",
+    "ja": "アンカーショット",
+    "id": 677
+  },
+  "psychic-terrain": {
+    "en": "Psychic Terrain",
+    "ja": "サイコフィールド",
+    "id": 678
+  },
+  "lunge": {
+    "en": "Lunge",
+    "ja": "とびかかる",
+    "id": 679
+  },
+  "fire-lash": {
+    "en": "Fire Lash",
+    "ja": "ほのおのムチ",
+    "id": 680
+  },
+  "power-trip": {
+    "en": "Power Trip",
+    "ja": "つけあがる",
+    "id": 681
+  },
+  "burn-up": {
+    "en": "Burn Up",
+    "ja": "もえつきる",
+    "id": 682
+  },
+  "speed-swap": {
+    "en": "Speed Swap",
+    "ja": "スピードスワップ",
+    "id": 683
+  },
+  "smart-strike": {
+    "en": "Smart Strike",
+    "ja": "スマートホーン",
+    "id": 684
+  },
+  "purify": {
+    "en": "Purify",
+    "ja": "じょうか",
+    "id": 685
+  },
+  "revelation-dance": {
+    "en": "Revelation Dance",
+    "ja": "めざめるダンス",
+    "id": 686
+  },
+  "core-enforcer": {
+    "en": "Core Enforcer",
+    "ja": "コアパニッシャー",
+    "id": 687
+  },
+  "trop-kick": {
+    "en": "Trop Kick",
+    "ja": "トロピカルキック",
+    "id": 688
+  },
+  "instruct": {
+    "en": "Instruct",
+    "ja": "さいはい",
+    "id": 689
+  },
+  "beak-blast": {
+    "en": "Beak Blast",
+    "ja": "くちばしキャノン",
+    "id": 690
+  },
+  "clanging-scales": {
+    "en": "Clanging Scales",
+    "ja": "スケイルノイズ",
+    "id": 691
+  },
+  "dragon-hammer": {
+    "en": "Dragon Hammer",
+    "ja": "ドラゴンハンマー",
+    "id": 692
+  },
+  "brutal-swing": {
+    "en": "Brutal Swing",
+    "ja": "ぶんまわす",
+    "id": 693
+  },
+  "aurora-veil": {
+    "en": "Aurora Veil",
+    "ja": "オーロラベール",
+    "id": 694
+  },
+  "sinister-arrow-raid": {
+    "en": "Sinister Arrow Raid",
+    "ja": "シャドーアローズストライク",
+    "id": 695
+  },
+  "malicious-moonsault": {
+    "en": "Malicious Moonsault",
+    "ja": "ハイパーダーククラッシャー",
+    "id": 696
+  },
+  "oceanic-operetta": {
+    "en": "Oceanic Operetta",
+    "ja": "わだつみのシンフォニア",
+    "id": 697
+  },
+  "guardian-of-alola": {
+    "en": "Guardian of Alola",
+    "ja": "ガーディアン・デ・アローラ",
+    "id": 698
+  },
+  "soul-stealing-7-star-strike": {
+    "en": "Soul-Stealing 7-Star Strike",
+    "ja": "しちせいだっこんたい",
+    "id": 699
+  },
+  "stoked-sparksurfer": {
+    "en": "Stoked Sparksurfer",
+    "ja": "ライトニングサーフライド",
+    "id": 700
+  },
+  "pulverizing-pancake": {
+    "en": "Pulverizing Pancake",
+    "ja": "ほんきをだす　こうげき",
+    "id": 701
+  },
+  "extreme-evoboost": {
+    "en": "Extreme Evoboost",
+    "ja": "ナインエボルブースト",
+    "id": 702
+  },
+  "genesis-supernova": {
+    "en": "Genesis Supernova",
+    "ja": "オリジンズスーパーノヴァ",
+    "id": 703
+  },
+  "shell-trap": {
+    "en": "Shell Trap",
+    "ja": "トラップシェル",
+    "id": 704
+  },
+  "fleur-cannon": {
+    "en": "Fleur Cannon",
+    "ja": "フルールカノン",
+    "id": 705
+  },
+  "psychic-fangs": {
+    "en": "Psychic Fangs",
+    "ja": "サイコファング",
+    "id": 706
+  },
+  "stomping-tantrum": {
+    "en": "Stomping Tantrum",
+    "ja": "じだんだ",
+    "id": 707
+  },
+  "shadow-bone": {
+    "en": "Shadow Bone",
+    "ja": "シャドーボーン",
+    "id": 708
+  },
+  "accelerock": {
+    "en": "Accelerock",
+    "ja": "アクセルロック",
+    "id": 709
+  },
+  "liquidation": {
+    "en": "Liquidation",
+    "ja": "アクアブレイク",
+    "id": 710
+  },
+  "prismatic-laser": {
+    "en": "Prismatic Laser",
+    "ja": "プリズムレーザー",
+    "id": 711
+  },
+  "spectral-thief": {
+    "en": "Spectral Thief",
+    "ja": "シャドースチール",
+    "id": 712
+  },
+  "sunsteel-strike": {
+    "en": "Sunsteel Strike",
+    "ja": "メテオドライブ",
+    "id": 713
+  },
+  "moongeist-beam": {
+    "en": "Moongeist Beam",
+    "ja": "シャドーレイ",
+    "id": 714
+  },
+  "tearful-look": {
+    "en": "Tearful Look",
+    "ja": "なみだめ",
+    "id": 715
+  },
+  "zing-zap": {
+    "en": "Zing Zap",
+    "ja": "びりびりちくちく",
+    "id": 716
+  },
+  "natures-madness": {
+    "en": "Nature’s Madness",
+    "ja": "しぜんのいかり",
+    "id": 717
+  },
+  "multi-attack": {
+    "en": "Multi-Attack",
+    "ja": "マルチアタック",
+    "id": 718
+  },
+  "10-000-000-volt-thunderbolt": {
+    "en": "10,000,000 Volt Thunderbolt",
+    "ja": "１０００まんボルト",
+    "id": 719
+  },
+  "mind-blown": {
+    "en": "Mind Blown",
+    "ja": "ビックリヘッド",
+    "id": 720
+  },
+  "plasma-fists": {
+    "en": "Plasma Fists",
+    "ja": "プラズマフィスト",
+    "id": 721
+  },
+  "photon-geyser": {
+    "en": "Photon Geyser",
+    "ja": "フォトンゲイザー",
+    "id": 722
+  },
+  "light-that-burns-the-sky": {
+    "en": "Light That Burns the Sky",
+    "ja": "てんこがすめつぼうのひかり",
+    "id": 723
+  },
+  "searing-sunraze-smash": {
+    "en": "Searing Sunraze Smash",
+    "ja": "サンシャインスマッシャー",
+    "id": 724
+  },
+  "menacing-moonraze-maelstrom": {
+    "en": "Menacing Moonraze Maelstrom",
+    "ja": "ムーンライトブラスター",
+    "id": 725
+  },
+  "lets-snuggle-forever": {
+    "en": "Let’s Snuggle Forever",
+    "ja": "ぽかぼかフレンドタイム",
+    "id": 726
+  },
+  "splintered-stormshards": {
+    "en": "Splintered Stormshards",
+    "ja": "ラジアルエッジストーム",
+    "id": 727
+  },
+  "clangorous-soulblaze": {
+    "en": "Clangorous Soulblaze",
+    "ja": "ブレイジングソウルビート",
+    "id": 728
+  },
+  "zippy-zap": {
+    "en": "Zippy Zap",
+    "ja": "ばちばちアクセル",
+    "id": 729
+  },
+  "splishy-splash": {
+    "en": "Splishy Splash",
+    "ja": "ざぶざぶサーフ",
+    "id": 730
+  },
+  "floaty-fall": {
+    "en": "Floaty Fall",
+    "ja": "ふわふわフォール",
+    "id": 731
+  },
+  "pika-papow": {
+    "en": "Pika Papow",
+    "ja": "ピカピカサンダー",
+    "id": 732
+  },
+  "bouncy-bubble": {
+    "en": "Bouncy Bubble",
+    "ja": "いきいきバブル",
+    "id": 733
+  },
+  "buzzy-buzz": {
+    "en": "Buzzy Buzz",
+    "ja": "びりびりエレキ",
+    "id": 734
+  },
+  "sizzly-slide": {
+    "en": "Sizzly Slide",
+    "ja": "めらめらバーン",
+    "id": 735
+  },
+  "glitzy-glow": {
+    "en": "Glitzy Glow",
+    "ja": "どばどばオーラ",
+    "id": 736
+  },
+  "baddy-bad": {
+    "en": "Baddy Bad",
+    "ja": "わるわるゾーン",
+    "id": 737
+  },
+  "sappy-seed": {
+    "en": "Sappy Seed",
+    "ja": "すくすくボンバー",
+    "id": 738
+  },
+  "freezy-frost": {
+    "en": "Freezy Frost",
+    "ja": "こちこちフロスト",
+    "id": 739
+  },
+  "sparkly-swirl": {
+    "en": "Sparkly Swirl",
+    "ja": "きらきらストーム",
+    "id": 740
+  },
+  "veevee-volley": {
+    "en": "Veevee Volley",
+    "ja": "ブイブイブレイク",
+    "id": 741
+  },
+  "double-iron-bash": {
+    "en": "Double Iron Bash",
+    "ja": "ダブルパンツァー",
+    "id": 742
+  },
+  "max-guard": {
+    "en": "Max Guard",
+    "ja": "ダイウォール",
+    "id": 743
+  },
+  "dynamax-cannon": {
+    "en": "Dynamax Cannon",
+    "ja": "ダイマックスほう",
+    "id": 744
+  },
+  "snipe-shot": {
+    "en": "Snipe Shot",
+    "ja": "ねらいうち",
+    "id": 745
+  },
+  "jaw-lock": {
+    "en": "Jaw Lock",
+    "ja": "くらいつく",
+    "id": 746
+  },
+  "stuff-cheeks": {
+    "en": "Stuff Cheeks",
+    "ja": "ほおばる",
+    "id": 747
+  },
+  "no-retreat": {
+    "en": "No Retreat",
+    "ja": "はいすいのじん",
+    "id": 748
+  },
+  "tar-shot": {
+    "en": "Tar Shot",
+    "ja": "タールショット",
+    "id": 749
+  },
+  "magic-powder": {
+    "en": "Magic Powder",
+    "ja": "まほうのこな",
+    "id": 750
+  },
+  "dragon-darts": {
+    "en": "Dragon Darts",
+    "ja": "ドラゴンアロー",
+    "id": 751
+  },
+  "teatime": {
+    "en": "Teatime",
+    "ja": "おちゃかい",
+    "id": 752
+  },
+  "octolock": {
+    "en": "Octolock",
+    "ja": "たこがため",
+    "id": 753
+  },
+  "bolt-beak": {
+    "en": "Bolt Beak",
+    "ja": "でんげきくちばし",
+    "id": 754
+  },
+  "fishious-rend": {
+    "en": "Fishious Rend",
+    "ja": "エラがみ",
+    "id": 755
+  },
+  "court-change": {
+    "en": "Court Change",
+    "ja": "コートチェンジ",
+    "id": 756
+  },
+  "max-flare": {
+    "en": "Max Flare",
+    "ja": "ダイバーン",
+    "id": 757
+  },
+  "max-flutterby": {
+    "en": "Max Flutterby",
+    "ja": "ダイワーム",
+    "id": 758
+  },
+  "max-lightning": {
+    "en": "Max Lightning",
+    "ja": "ダイサンダー",
+    "id": 759
+  },
+  "max-strike": {
+    "en": "Max Strike",
+    "ja": "ダイアタック",
+    "id": 760
+  },
+  "max-knuckle": {
+    "en": "Max Knuckle",
+    "ja": "ダイナックル",
+    "id": 761
+  },
+  "max-phantasm": {
+    "en": "Max Phantasm",
+    "ja": "ダイホロウ",
+    "id": 762
+  },
+  "max-hailstorm": {
+    "en": "Max Hailstorm",
+    "ja": "ダイアイス",
+    "id": 763
+  },
+  "max-ooze": {
+    "en": "Max Ooze",
+    "ja": "ダイアシッド",
+    "id": 764
+  },
+  "max-geyser": {
+    "en": "Max Geyser",
+    "ja": "ダイストリーム",
+    "id": 765
+  },
+  "max-airstream": {
+    "en": "Max Airstream",
+    "ja": "ダイジェット",
+    "id": 766
+  },
+  "max-starfall": {
+    "en": "Max Starfall",
+    "ja": "ダイフェアリー",
+    "id": 767
+  },
+  "max-wyrmwind": {
+    "en": "Max Wyrmwind",
+    "ja": "ダイドラグーン",
+    "id": 768
+  },
+  "max-mindstorm": {
+    "en": "Max Mindstorm",
+    "ja": "ダイサイコ",
+    "id": 769
+  },
+  "max-rockfall": {
+    "en": "Max Rockfall",
+    "ja": "ダイロック",
+    "id": 770
+  },
+  "max-quake": {
+    "en": "Max Quake",
+    "ja": "ダイアース",
+    "id": 771
+  },
+  "max-darkness": {
+    "en": "Max Darkness",
+    "ja": "ダイアーク",
+    "id": 772
+  },
+  "max-overgrowth": {
+    "en": "Max Overgrowth",
+    "ja": "ダイソウゲン",
+    "id": 773
+  },
+  "max-steelspike": {
+    "en": "Max Steelspike",
+    "ja": "ダイスチル",
+    "id": 774
+  },
+  "clangorous-soul": {
+    "en": "Clangorous Soul",
+    "ja": "ソウルビート",
+    "id": 775
+  },
+  "body-press": {
+    "en": "Body Press",
+    "ja": "ボディプレス",
+    "id": 776
+  },
+  "decorate": {
+    "en": "Decorate",
+    "ja": "デコレーション",
+    "id": 777
+  },
+  "drum-beating": {
+    "en": "Drum Beating",
+    "ja": "ドラムアタック",
+    "id": 778
+  },
+  "snap-trap": {
+    "en": "Snap Trap",
+    "ja": "トラバサミ",
+    "id": 779
+  },
+  "pyro-ball": {
+    "en": "Pyro Ball",
+    "ja": "かえんボール",
+    "id": 780
+  },
+  "behemoth-blade": {
+    "en": "Behemoth Blade",
+    "ja": "きょじゅうざん",
+    "id": 781
+  },
+  "behemoth-bash": {
+    "en": "Behemoth Bash",
+    "ja": "きょじゅうだん",
+    "id": 782
+  },
+  "aura-wheel": {
+    "en": "Aura Wheel",
+    "ja": "オーラぐるま",
+    "id": 783
+  },
+  "breaking-swipe": {
+    "en": "Breaking Swipe",
+    "ja": "ワイドブレイカー",
+    "id": 784
+  },
+  "branch-poke": {
+    "en": "Branch Poke",
+    "ja": "えだづき",
+    "id": 785
+  },
+  "overdrive": {
+    "en": "Overdrive",
+    "ja": "オーバードライブ",
+    "id": 786
+  },
+  "apple-acid": {
+    "en": "Apple Acid",
+    "ja": "りんごさん",
+    "id": 787
+  },
+  "grav-apple": {
+    "en": "Grav Apple",
+    "ja": "Ｇのちから",
+    "id": 788
+  },
+  "spirit-break": {
+    "en": "Spirit Break",
+    "ja": "ソウルクラッシュ",
+    "id": 789
+  },
+  "strange-steam": {
+    "en": "Strange Steam",
+    "ja": "ワンダースチーム",
+    "id": 790
+  },
+  "life-dew": {
+    "en": "Life Dew",
+    "ja": "いのちのしずく",
+    "id": 791
+  },
+  "obstruct": {
+    "en": "Obstruct",
+    "ja": "ブロッキング",
+    "id": 792
+  },
+  "false-surrender": {
+    "en": "False Surrender",
+    "ja": "どげざつき",
+    "id": 793
+  },
+  "meteor-assault": {
+    "en": "Meteor Assault",
+    "ja": "スターアサルト",
+    "id": 794
+  },
+  "eternabeam": {
+    "en": "Eternabeam",
+    "ja": "ムゲンダイビーム",
+    "id": 795
+  },
+  "steel-beam": {
+    "en": "Steel Beam",
+    "ja": "てっていこうせん",
+    "id": 796
+  },
+  "expanding-force": {
+    "en": "Expanding Force",
+    "ja": "ワイドフォース",
+    "id": 797
+  },
+  "steel-roller": {
+    "en": "Steel Roller",
+    "ja": "アイアンローラー",
+    "id": 798
+  },
+  "scale-shot": {
+    "en": "Scale Shot",
+    "ja": "スケイルショット",
+    "id": 799
+  },
+  "meteor-beam": {
+    "en": "Meteor Beam",
+    "ja": "メテオビーム",
+    "id": 800
+  },
+  "shell-side-arm": {
+    "en": "Shell Side Arm",
+    "ja": "シェルアームズ",
+    "id": 801
+  },
+  "misty-explosion": {
+    "en": "Misty Explosion",
+    "ja": "ミストバースト",
+    "id": 802
+  },
+  "grassy-glide": {
+    "en": "Grassy Glide",
+    "ja": "グラススライダー",
+    "id": 803
+  },
+  "rising-voltage": {
+    "en": "Rising Voltage",
+    "ja": "ライジングボルト",
+    "id": 804
+  },
+  "terrain-pulse": {
+    "en": "Terrain Pulse",
+    "ja": "だいちのはどう",
+    "id": 805
+  },
+  "skitter-smack": {
+    "en": "Skitter Smack",
+    "ja": "はいよるいちげき",
+    "id": 806
+  },
+  "burning-jealousy": {
+    "en": "Burning Jealousy",
+    "ja": "しっとのほのお",
+    "id": 807
+  },
+  "lash-out": {
+    "en": "Lash Out",
+    "ja": "うっぷんばらし",
+    "id": 808
+  },
+  "poltergeist": {
+    "en": "Poltergeist",
+    "ja": "ポルターガイスト",
+    "id": 809
+  },
+  "corrosive-gas": {
+    "en": "Corrosive Gas",
+    "ja": "ふしょくガス",
+    "id": 810
+  },
+  "coaching": {
+    "en": "Coaching",
+    "ja": "コーチング",
+    "id": 811
+  },
+  "flip-turn": {
+    "en": "Flip Turn",
+    "ja": "クイックターン",
+    "id": 812
+  },
+  "triple-axel": {
+    "en": "Triple Axel",
+    "ja": "トリプルアクセル",
+    "id": 813
+  },
+  "dual-wingbeat": {
+    "en": "Dual Wingbeat",
+    "ja": "ダブルウイング",
+    "id": 814
+  },
+  "scorching-sands": {
+    "en": "Scorching Sands",
+    "ja": "ねっさのだいち",
+    "id": 815
+  },
+  "jungle-healing": {
+    "en": "Jungle Healing",
+    "ja": "ジャングルヒール",
+    "id": 816
+  },
+  "wicked-blow": {
+    "en": "Wicked Blow",
+    "ja": "あんこくきょうだ",
+    "id": 817
+  },
+  "surging-strikes": {
+    "en": "Surging Strikes",
+    "ja": "すいりゅうれんだ",
+    "id": 818
+  },
+  "thunder-cage": {
+    "en": "Thunder Cage",
+    "ja": "サンダープリズン",
+    "id": 819
+  },
+  "dragon-energy": {
+    "en": "Dragon Energy",
+    "ja": "ドラゴンエナジー",
+    "id": 820
+  },
+  "freezing-glare": {
+    "en": "Freezing Glare",
+    "ja": "いてつくしせん",
+    "id": 821
+  },
+  "fiery-wrath": {
+    "en": "Fiery Wrath",
+    "ja": "もえあがるいかり",
+    "id": 822
+  },
+  "thunderous-kick": {
+    "en": "Thunderous Kick",
+    "ja": "らいめいげり",
+    "id": 823
+  },
+  "glacial-lance": {
+    "en": "Glacial Lance",
+    "ja": "ブリザードランス",
+    "id": 824
+  },
+  "astral-barrage": {
+    "en": "Astral Barrage",
+    "ja": "アストラルビット",
+    "id": 825
+  },
+  "eerie-spell": {
+    "en": "Eerie Spell",
+    "ja": "ぶきみなじゅもん",
+    "id": 826
+  },
+  "dire-claw": {
+    "en": "Dire Claw",
+    "ja": "フェイタルクロー",
+    "id": 827
+  },
+  "psyshield-bash": {
+    "en": "Psyshield Bash",
+    "ja": "バリアーラッシュ",
+    "id": 828
+  },
+  "power-shift": {
+    "en": "Power Shift",
+    "ja": "パワーシフト",
+    "id": 829
+  },
+  "stone-axe": {
+    "en": "Stone Axe",
+    "ja": "がんせきアックス",
+    "id": 830
+  },
+  "springtide-storm": {
+    "en": "Springtide Storm",
+    "ja": "はるのあらし",
+    "id": 831
+  },
+  "mystical-power": {
+    "en": "Mystical Power",
+    "ja": "しんぴのちから",
+    "id": 832
+  },
+  "raging-fury": {
+    "en": "Raging Fury",
+    "ja": "だいふんげき",
+    "id": 833
+  },
+  "wave-crash": {
+    "en": "Wave Crash",
+    "ja": "ウェーブタックル",
+    "id": 834
+  },
+  "chloroblast": {
+    "en": "Chloroblast",
+    "ja": "クロロブラスト",
+    "id": 835
+  },
+  "mountain-gale": {
+    "en": "Mountain Gale",
+    "ja": "ひょうざんおろし",
+    "id": 836
+  },
+  "victory-dance": {
+    "en": "Victory Dance",
+    "ja": "しょうりのまい",
+    "id": 837
+  },
+  "headlong-rush": {
+    "en": "Headlong Rush",
+    "ja": "ぶちかまし",
+    "id": 838
+  },
+  "barb-barrage": {
+    "en": "Barb Barrage",
+    "ja": "どくばりセンボン",
+    "id": 839
+  },
+  "esper-wing": {
+    "en": "Esper Wing",
+    "ja": "オーラウイング",
+    "id": 840
+  },
+  "bitter-malice": {
+    "en": "Bitter Malice",
+    "ja": "うらみつらみ",
+    "id": 841
+  },
+  "shelter": {
+    "en": "Shelter",
+    "ja": "たてこもる",
+    "id": 842
+  },
+  "triple-arrows": {
+    "en": "Triple Arrows",
+    "ja": "３ぼんのや",
+    "id": 843
+  },
+  "infernal-parade": {
+    "en": "Infernal Parade",
+    "ja": "ひゃっきやこう",
+    "id": 844
+  },
+  "ceaseless-edge": {
+    "en": "Ceaseless Edge",
+    "ja": "ひけん・ちえなみ",
+    "id": 845
+  },
+  "bleakwind-storm": {
+    "en": "Bleakwind Storm",
+    "ja": "こがらしあらし",
+    "id": 846
+  },
+  "wildbolt-storm": {
+    "en": "Wildbolt Storm",
+    "ja": "かみなりあらし",
+    "id": 847
+  },
+  "sandsear-storm": {
+    "en": "Sandsear Storm",
+    "ja": "ねっさのあらし",
+    "id": 848
+  },
+  "lunar-blessing": {
+    "en": "Lunar Blessing",
+    "ja": "みかづきのいのり",
+    "id": 849
+  },
+  "take-heart": {
+    "en": "Take Heart",
+    "ja": "ブレイブチャージ",
+    "id": 850
+  },
+  "tera-blast": {
+    "en": "Tera Blast",
+    "ja": "テラバースト",
+    "id": 851
+  },
+  "silk-trap": {
+    "en": "Silk Trap",
+    "ja": "スレッドトラップ",
+    "id": 852
+  },
+  "axe-kick": {
+    "en": "Axe Kick",
+    "ja": "かかとおとし",
+    "id": 853
+  },
+  "last-respects": {
+    "en": "Last Respects",
+    "ja": "おはかまいり",
+    "id": 854
+  },
+  "lumina-crash": {
+    "en": "Lumina Crash",
+    "ja": "ルミナコリジョン",
+    "id": 855
+  },
+  "order-up": {
+    "en": "Order Up",
+    "ja": "いっちょうあがり",
+    "id": 856
+  },
+  "jet-punch": {
+    "en": "Jet Punch",
+    "ja": "ジェットパンチ",
+    "id": 857
+  },
+  "spicy-extract": {
+    "en": "Spicy Extract",
+    "ja": "ハバネロエキス",
+    "id": 858
+  },
+  "spin-out": {
+    "en": "Spin Out",
+    "ja": "ホイールスピン",
+    "id": 859
+  },
+  "population-bomb": {
+    "en": "Population Bomb",
+    "ja": "ネズミざん",
+    "id": 860
+  },
+  "ice-spinner": {
+    "en": "Ice Spinner",
+    "ja": "アイススピナー",
+    "id": 861
+  },
+  "glaive-rush": {
+    "en": "Glaive Rush",
+    "ja": "きょけんとつげき",
+    "id": 862
+  },
+  "revival-blessing": {
+    "en": "Revival Blessing",
+    "ja": "さいきのいのり",
+    "id": 863
+  },
+  "salt-cure": {
+    "en": "Salt Cure",
+    "ja": "しおづけ",
+    "id": 864
+  },
+  "triple-dive": {
+    "en": "Triple Dive",
+    "ja": "トリプルダイブ",
+    "id": 865
+  },
+  "mortal-spin": {
+    "en": "Mortal Spin",
+    "ja": "キラースピン",
+    "id": 866
+  },
+  "doodle": {
+    "en": "Doodle",
+    "ja": "うつしえ",
+    "id": 867
+  },
+  "fillet-away": {
+    "en": "Fillet Away",
+    "ja": "みをけずる",
+    "id": 868
+  },
+  "kowtow-cleave": {
+    "en": "Kowtow Cleave",
+    "ja": "ドゲザン",
+    "id": 869
+  },
+  "flower-trick": {
+    "en": "Flower Trick",
+    "ja": "トリックフラワー",
+    "id": 870
+  },
+  "torch-song": {
+    "en": "Torch Song",
+    "ja": "フレアソング",
+    "id": 871
+  },
+  "aqua-step": {
+    "en": "Aqua Step",
+    "ja": "アクアステップ",
+    "id": 872
+  },
+  "raging-bull": {
+    "en": "Raging Bull",
+    "ja": "レイジングブル",
+    "id": 873
+  },
+  "make-it-rain": {
+    "en": "Make It Rain",
+    "ja": "ゴールドラッシュ",
+    "id": 874
+  },
+  "psyblade": {
+    "en": "Psyblade",
+    "ja": "サイコブレイド",
+    "id": 875
+  },
+  "hydro-steam": {
+    "en": "Hydro Steam",
+    "ja": "ハイドロスチーム",
+    "id": 876
+  },
+  "ruination": {
+    "en": "Ruination",
+    "ja": "カタストロフィ",
+    "id": 877
+  },
+  "collision-course": {
+    "en": "Collision Course",
+    "ja": "アクセルブレイク",
+    "id": 878
+  },
+  "electro-drift": {
+    "en": "Electro Drift",
+    "ja": "イナズマドライブ",
+    "id": 879
+  },
+  "shed-tail": {
+    "en": "Shed Tail",
+    "ja": "しっぽきり",
+    "id": 880
+  },
+  "chilly-reception": {
+    "en": "Chilly Reception",
+    "ja": "さむいギャグ",
+    "id": 881
+  },
+  "tidy-up": {
+    "en": "Tidy Up",
+    "ja": "おかたづけ",
+    "id": 882
+  },
+  "snowscape": {
+    "en": "Snowscape",
+    "ja": "ゆきげしき",
+    "id": 883
+  },
+  "pounce": {
+    "en": "Pounce",
+    "ja": "とびつく",
+    "id": 884
+  },
+  "trailblaze": {
+    "en": "Trailblaze",
+    "ja": "くさわけ",
+    "id": 885
+  },
+  "chilling-water": {
+    "en": "Chilling Water",
+    "ja": "ひやみず",
+    "id": 886
+  },
+  "hyper-drill": {
+    "en": "Hyper Drill",
+    "ja": "ハイパードリル",
+    "id": 887
+  },
+  "twin-beam": {
+    "en": "Twin Beam",
+    "ja": "ツインビーム",
+    "id": 888
+  },
+  "rage-fist": {
+    "en": "Rage Fist",
+    "ja": "ふんどのこぶし",
+    "id": 889
+  },
+  "armor-cannon": {
+    "en": "Armor Cannon",
+    "ja": "アーマーキャノン",
+    "id": 890
+  },
+  "bitter-blade": {
+    "en": "Bitter Blade",
+    "ja": "むねんのつるぎ",
+    "id": 891
+  },
+  "double-shock": {
+    "en": "Double Shock",
+    "ja": "でんこうそうげき",
+    "id": 892
+  },
+  "gigaton-hammer": {
+    "en": "Gigaton Hammer",
+    "ja": "デカハンマー",
+    "id": 893
+  },
+  "comeuppance": {
+    "en": "Comeuppance",
+    "ja": "ほうふく",
+    "id": 894
+  },
+  "aqua-cutter": {
+    "en": "Aqua Cutter",
+    "ja": "アクアカッター",
+    "id": 895
+  },
+  "blazing-torque": {
+    "en": "Blazing Torque",
+    "ja": "バーンアクセル",
+    "id": 896
+  },
+  "wicked-torque": {
+    "en": "Wicked Torque",
+    "ja": "ダークアクセル",
+    "id": 897
+  },
+  "noxious-torque": {
+    "en": "Noxious Torque",
+    "ja": "ポイズンアクセル",
+    "id": 898
+  },
+  "combat-torque": {
+    "en": "Combat Torque",
+    "ja": "ファイトアクセル",
+    "id": 899
+  },
+  "magical-torque": {
+    "en": "Magical Torque",
+    "ja": "マジカルアクセル",
+    "id": 900
+  },
+  "blood-moon": {
+    "en": "Blood Moon",
+    "ja": "ブラッドムーン",
+    "id": 901
+  },
+  "matcha-gotcha": {
+    "en": "Matcha Gotcha",
+    "ja": "シャカシャカほう",
+    "id": 902
+  },
+  "syrup-bomb": {
+    "en": "Syrup Bomb",
+    "ja": "みずあめボム",
+    "id": 903
+  },
+  "ivy-cudgel": {
+    "en": "Ivy Cudgel",
+    "ja": "ツタこんぼう",
+    "id": 904
+  },
+  "electro-shot": {
+    "en": "Electro Shot",
+    "ja": "エレクトロビーム",
+    "id": 905
+  },
+  "tera-starstorm": {
+    "en": "Tera Starstorm",
+    "ja": "テラクラスター",
+    "id": 906
+  },
+  "fickle-beam": {
+    "en": "Fickle Beam",
+    "ja": "きまぐレーザー",
+    "id": 907
+  },
+  "burning-bulwark": {
+    "en": "Burning Bulwark",
+    "ja": "かえんのまもり",
+    "id": 908
+  },
+  "thunderclap": {
+    "en": "Thunderclap",
+    "ja": "じんらい",
+    "id": 909
+  },
+  "mighty-cleave": {
+    "en": "Mighty Cleave",
+    "ja": "パワフルエッジ",
+    "id": 910
+  },
+  "tachyon-cutter": {
+    "en": "Tachyon Cutter",
+    "ja": "タキオンカッター",
+    "id": 911
+  },
+  "hard-press": {
+    "en": "Hard Press",
+    "ja": "ハードプレス",
+    "id": 912
+  },
+  "dragon-cheer": {
+    "en": "Dragon Cheer",
+    "ja": "ドラゴンエール",
+    "id": 913
+  },
+  "alluring-voice": {
+    "en": "Alluring Voice",
+    "ja": "みわくのボイス",
+    "id": 914
+  },
+  "temper-flare": {
+    "en": "Temper Flare",
+    "ja": "やけっぱち",
+    "id": 915
+  },
+  "supercell-slam": {
+    "en": "Supercell Slam",
+    "ja": "サンダーダイブ",
+    "id": 916
+  },
+  "psychic-noise": {
+    "en": "Psychic Noise",
+    "ja": "サイコノイズ",
+    "id": 917
+  },
+  "upper-hand": {
+    "en": "Upper Hand",
+    "ja": "はやてがえし",
+    "id": 918
+  },
+  "malignant-chain": {
+    "en": "Malignant Chain",
+    "ja": "じゃどくのくさり",
+    "id": 919
+  },
+  "shadow-rush": {
+    "en": "Shadow Rush",
+    "ja": "ダークラッシュ",
+    "id": 10001
+  },
+  "shadow-blast": {
+    "en": "Shadow Blast",
+    "ja": "ダークブラスト",
+    "id": 10002
+  },
+  "shadow-blitz": {
+    "en": "Shadow Blitz",
+    "ja": "ダークアタック",
+    "id": 10003
+  },
+  "shadow-bolt": {
+    "en": "Shadow Bolt",
+    "ja": "ダークサンダー",
+    "id": 10004
+  },
+  "shadow-break": {
+    "en": "Shadow Break",
+    "ja": "ダークブレイク",
+    "id": 10005
+  },
+  "shadow-chill": {
+    "en": "Shadow Chill",
+    "ja": "ダークフリーズ",
+    "id": 10006
+  },
+  "shadow-end": {
+    "en": "Shadow End",
+    "ja": "ダークエンド",
+    "id": 10007
+  },
+  "shadow-fire": {
+    "en": "Shadow Fire",
+    "ja": "ダークファイア",
+    "id": 10008
+  },
+  "shadow-rave": {
+    "en": "Shadow Rave",
+    "ja": "ダークレイブ",
+    "id": 10009
+  },
+  "shadow-storm": {
+    "en": "Shadow Storm",
+    "ja": "ダークストーム",
+    "id": 10010
+  },
+  "shadow-wave": {
+    "en": "Shadow Wave",
+    "ja": "ダークウェーブ",
+    "id": 10011
+  },
+  "shadow-down": {
+    "en": "Shadow Down",
+    "ja": "ダークダウン",
+    "id": 10012
+  },
+  "shadow-half": {
+    "en": "Shadow Half",
+    "ja": "ダークハーフ",
+    "id": 10013
+  },
+  "shadow-hold": {
+    "en": "Shadow Hold",
+    "ja": "ダークホールド",
+    "id": 10014
+  },
+  "shadow-mist": {
+    "en": "Shadow Mist",
+    "ja": "ダークミスト",
+    "id": 10015
+  },
+  "shadow-panic": {
+    "en": "Shadow Panic",
+    "ja": "ダークパニック",
+    "id": 10016
+  },
+  "shadow-shed": {
+    "en": "Shadow Shed",
+    "ja": "ダークリムーブ",
+    "id": 10017
+  },
+  "shadow-sky": {
+    "en": "Shadow Sky",
+    "ja": "ダークウェザー",
+    "id": 10018
+  }
+}

@@ -225,6 +225,7 @@ const OUTPUT_KEY_ORDER = [
   "gender",
   "nature",
   "ability",
+  "abilityCandidates",
   "ball",
   "metLocation",
   "heldItem",
@@ -441,7 +442,14 @@ function convertEntry(entry) {
 
   if (entry.gender !== "") out.gender = entry.gender;
   if (entry.nature !== "") out.nature = entry.nature;
-  if (entry.ability !== "") out.ability = applyFixMap("ability", entry.ability);
+  if (entry.abilityCandidates !== undefined && typeof entry.abilityCandidates !== "string") {
+    throw new Error("abilityCandidates の入力はカンマ区切りの文字列が必要です");
+  }
+  if (entry.abilityCandidates) {
+    if (entry.ability) throw new Error("ability と abilityCandidates は同時に存在できません");
+    // 候補には FIX_MAP を当てず、マスターとの完全一致を要求する。
+    out.abilityCandidates = entry.abilityCandidates.split(", ");
+  } else if (entry.ability !== "") out.ability = applyFixMap("ability", entry.ability);
   if (entry.ball !== "") out.ball = entry.ball;
   if (entry.metLocation !== "") out.metLocation = entry.metLocation;
   if (entry.heldItem !== "") out.heldItem = entry.heldItem;
@@ -619,6 +627,23 @@ function validateEntries(entries, dataset) {
         if (!ribbonValues.has(r)) warn("ribbon-not-in-master", `${where}: ribbon "${r}" が mappings/ribbons.json の値集合にありません`);
       }
     }
+    // 新規フィールドの違反は既存 ability の警告と分け、最初からエラーにする。
+    if ("abilityCandidates" in entry) {
+      if ("ability" in entry) throw new Error(`${where}: ability と abilityCandidates は同時に存在できません`);
+      const candidates = entry.abilityCandidates;
+      if (!Array.isArray(candidates) || candidates.length < 2) {
+        throw new Error(`${where}: abilityCandidates は2件以上の配列が必要です`);
+      }
+      if (new Set(candidates).size !== candidates.length) {
+        throw new Error(`${where}: abilityCandidates に重複があります`);
+      }
+      for (const candidate of candidates) {
+        if (typeof candidate !== "string" || !abilityNames.has(candidate)) {
+          throw new Error(`${where}: abilityCandidates の値 "${candidate}" が abilities/all.json の name_ja にありません`);
+        }
+      }
+    }
+
     if ("ability" in entry && !ABILITY_SENTINEL_VALUES.has(entry.ability) && !abilityNames.has(entry.ability)) {
       warn("ability-not-in-master", `${where}: ability "${entry.ability}" が abilities/all.json の name_ja にありません`);
     }
@@ -681,6 +706,7 @@ const CONFLICT_FIELDS = [
   "level",
   "shiny",
   "ability",
+  "abilityCandidates",
   "nature",
   "ball",
   "teraType",
@@ -690,7 +716,7 @@ const CONFLICT_FIELDS = [
   "moves",
 ];
 const INFO_FIELDS = ["eventName", "region", "form", "metLocation"];
-const ARRAY_COMPARE_FIELDS = new Set(["games", "moves", "region"]);
+const ARRAY_COMPARE_FIELDS = new Set(["games", "moves", "region", "abilityCandidates"]);
 
 function normalizeForCompare(field, value) {
   if (value === undefined) return undefined;
@@ -823,7 +849,7 @@ for (const m of scrapedEntries) {
 // 明示承認でも、名前・出典・備考などの違いだけでは別個体として追加しない。
 // 配列順・オブジェクトキー順と provisional id による見かけ上の違いも除く。
 const VARIANT_FIELDS = [
-  "form", "level", "levelNote", "gender", "nature", "ability", "ball", "metLocation",
+  "form", "level", "levelNote", "gender", "nature", "ability", "abilityCandidates", "ball", "metLocation",
   "heldItem", "teraType", "shiny", "ot", "otFromPlayer", "trainerId", "moves",
   "specialMoves", "ribbons", "ivs", "ivsGuaranteed", "evs", "gigantamax", "alpha",
 ];
@@ -887,8 +913,24 @@ for (const [key, members] of scrapedGroups.entries()) {
       conflicts,
       info,
     };
+    // 兄弟フィールド間の変更は通常の同名比較では拾えない。全組を報告するだけで適用しない。
+    const abilityUpdates = [];
+    for (const existing of existingGroup) {
+      for (const scraped of members) {
+        if ("ability" in existing && "abilityCandidates" in scraped) {
+          abilityUpdates.push({
+            existingId: existing.id,
+            managementId: scraped.id,
+            ledger: existing.ability,
+            scraper: scraped.abilityCandidates,
+          });
+        }
+      }
+    }
+    if (abilityUpdates.length > 0) item.abilityUpdates = abilityUpdates;
     if (anyProtected) {
       buckets.protectedSkip.push(item);
+      if (abilityUpdates.length > 0) buckets.updateCandidate.push(item);
     } else {
       buckets.updateCandidate.push(item);
     }
@@ -1145,6 +1187,9 @@ for (const u of buckets.updateCandidate) {
   const diffParts = [...formatDiffParts(u.conflicts), ...formatDiffParts(u.info)];
   const diffStr = diffParts.length > 0 ? `；${diffParts.join(" / ")}` : "";
   console.log(`  - A=${u.anchor} 既存[${u.existingIds.join(",")}] ⇔ scraped ${u.scrapedCount}件${diffStr}`);
+  for (const update of u.abilityUpdates ?? []) {
+    console.log(`      ${update.existingId}: ability 台帳=${formatVal(update.ledger)} → abilityCandidates scraper=${formatVal(update.scraper)}（適用しない）`);
+  }
   if (u.members) {
     for (const m of u.members) console.log(`      ${m.label} ev="${m.eventName}"`);
   }

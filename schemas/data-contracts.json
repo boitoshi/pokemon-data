@@ -15,6 +15,22 @@
     "requiredKeys": ["en", "ja", "dex_no"],
     "minEntries": 1000
   },
+  "mappings/moves.json": {
+    "requiredKeys": ["en", "ja", "id"],
+    "minEntries": 900
+  },
+  "mappings/items.json": {
+    "requiredKeys": ["en", "ja", "id"],
+    "minEntries": 100
+  },
+  "mappings/locations.json": {
+    "requiredKeys": ["en", "ja"],
+    "minEntries": 60
+  },
+  "mappings/people.json": {
+    "requiredKeys": ["en", "ja"],
+    "minEntries": 25
+  },
   "ribbons/catalog.json": {
     "requiredKeys": ["key", "name_ja", "name_en", "kind", "introduced_gen", "routes"],
     "minEntries": 120

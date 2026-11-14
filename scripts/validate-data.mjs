@@ -9,7 +9,11 @@ const readJson = (relativePath) => JSON.parse(fs.readFileSync(path.join(root, re
 
 for (const [relativePath, contract] of Object.entries(contracts)) {
   const payload = readJson(relativePath);
-  const entries = Array.isArray(payload) ? payload : Object.values(payload);
+  const entries = Array.isArray(payload)
+    ? payload
+    : Object.entries(payload)
+        .filter(([key]) => !key.startsWith("_"))
+        .map(([, value]) => value);
 
   if (entries.length < contract.minEntries) {
     throw new Error(`${relativePath} has too few entries: ${entries.length}`);

@@ -52,6 +52,37 @@ try {
   assert.deepEqual(entry.abilityCandidates, ["せいでんき", "ひらいしん"]);
   assert.equal("ability" in entry, false);
 
+  // ability〜ability3 から候補を導出する。順序を保って重複を除き、単一なら ability。
+  for (const [source, expected] of [
+    [{ ability: "せいでんき", ability2: "ひらいしん" }, { abilityCandidates: ["せいでんき", "ひらいしん"] }],
+    [{ ability: "せいでんき", ability2: "ひらいしん", ability3: "もうか" }, { abilityCandidates: ["せいでんき", "ひらいしん", "もうか"] }],
+    [{ ability: "せいでんき", ability2: "ひらいしん", ability3: "せいでんき" }, { abilityCandidates: ["せいでんき", "ひらいしん"] }],
+    [{ ability: "せいでんき", ability2: "せいでんき", ability3: "" }, { ability: "せいでんき" }],
+    [{ ability: "せいでんき" }, { ability: "せいでんき" }],
+    [{ ability2: "ひらいしん" }, { ability: "ひらいしん" }],
+    // 数値は文字列でも数値型でも従来どおり保持し、候補に変換しない。
+    ...["2", " 3 ", 2, 0].map((ability) => [
+      { ability, ability2: "せいでんき", ability3: "ひらいしん" }, { ability },
+    ]),
+    [{ ability: "せいでんき", ability2: "2" }, { ability: "せいでんき" }],
+  ]) {
+    reset([{ ...base, ...source }]);
+    const result = run();
+    assert.equal(result.status, 0, result.stderr);
+    const converted = JSON.parse(fs.readFileSync(target, "utf8")).entries[0];
+    assert.deepEqual(Object.fromEntries(Object.entries(converted)
+      .filter(([key]) => key === "ability" || key === "abilityCandidates")), expected);
+  }
+  // 導出した候補も完全一致で検証し、不明な名前は書き込まない。
+  for (const ability2 of ["未知", "ＡＲシステム", " ひらいしん"]) {
+    reset([{ ...base, ability: "せいでんき", ability2 }]);
+    const before = fs.readFileSync(target, "utf8");
+    const rejected = run();
+    assert.notEqual(rejected.status, 0);
+    assert.match(rejected.stderr, /abilityCandidates/);
+    assert.equal(fs.readFileSync(target, "utf8"), before);
+  }
+
   // 両候補の順序の違いは差分にせず、候補の集合が違えば conflict にする。
   reset([{ ...base, managementId: "second", abilityCandidates: "ひらいしん, せいでんき" }], [entry]);
   assert.equal(run().status, 0);
@@ -65,8 +96,8 @@ try {
     const existing = { ...entry, ability: "せいでんき", source,
       verified: { method: "in-game", fields: ["ability"] } };
     delete existing.abilityCandidates;
-    reset([{ ...base, abilityCandidates: candidates },
-      { ...base, managementId: "second", abilityCandidates: "せいでんき, もうか" }], [existing]);
+    reset([{ ...base, ability: "せいでんき", ability2: "ひらいしん" },
+      { ...base, managementId: "second", ability: "せいでんき", ability2: "もうか" }], [existing]);
     const before = fs.readFileSync(target, "utf8");
     const matched = run();
     assert.equal(matched.status, 0, matched.stderr);

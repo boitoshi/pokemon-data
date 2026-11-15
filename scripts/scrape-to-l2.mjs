@@ -404,6 +404,22 @@ function splitCommaList(raw) {
     .filter((s) => s !== "");
 }
 
+// 数値の意味は未確認（G3event/G5event）。1つでも含む場合は従来の ability を保つ。
+function deriveAbilities(entry) {
+  const values = [entry.ability, entry.ability2, entry.ability3]
+    .filter((value) => value !== undefined && value !== null && value !== "");
+  const hasNumeric = values.some((value) =>
+    typeof value === "number" ||
+    (typeof value === "string" && value.trim() !== "" && Number.isFinite(Number(value))));
+  if (hasNumeric) {
+    return entry.ability !== "" ? { ability: applyFixMap("ability", entry.ability) } : {};
+  }
+  const names = [...new Set(values)];
+  // 候補は補正せず、後段の検証で name_ja との完全一致を要求する。
+  if (names.length >= 2) return { abilityCandidates: names };
+  return names.length === 1 ? { ability: applyFixMap("ability", names[0]) } : {};
+}
+
 function convertEntry(entry) {
   const out = {};
 
@@ -449,7 +465,7 @@ function convertEntry(entry) {
     if (entry.ability) throw new Error("ability と abilityCandidates は同時に存在できません");
     // 候補には FIX_MAP を当てず、マスターとの完全一致を要求する。
     out.abilityCandidates = entry.abilityCandidates.split(", ");
-  } else if (entry.ability !== "") out.ability = applyFixMap("ability", entry.ability);
+  } else Object.assign(out, deriveAbilities(entry));
   if (entry.ball !== "") out.ball = entry.ball;
   if (entry.metLocation !== "") out.metLocation = entry.metLocation;
   if (entry.heldItem !== "") out.heldItem = entry.heldItem;

@@ -395,6 +395,12 @@ for (const fileName of files) {
       }
     }
 
+    // 区切り表記（"A/B" 等）は候補の列挙と区別できないため、最初からエラーにする。
+    // 候補は abilityCandidates に分ける（T-068 U3 で 07150 を配列化し、再発防止として追加）。
+    if ("ability" in entry && typeof entry.ability === "string" && (entry.ability.includes("/") || entry.ability.includes("／"))) {
+      throw new Error(`${where}: ability "${entry.ability}" に区切り文字（/・／）が含まれています。候補は abilityCandidates に分けてください`);
+    }
+
     if ("ability" in entry && !ABILITY_SENTINEL_VALUES.has(entry.ability) && !abilityNames.has(entry.ability)) {
       warn("ability-not-in-master", `${where}: ability "${entry.ability}" が abilities/all.json の name_ja にありません`);
     }

@@ -59,7 +59,10 @@
       "level": 12,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "りんぷん",
+      "abilityCandidates": [
+        "りんぷん",
+        "ふくがん"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "オンラインプレゼント",
       "ot": {
@@ -459,7 +462,11 @@
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "ものひろい",
+      "abilityCandidates": [
+        "ものひろい",
+        "おみとおし",
+        "ふみん"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンセンター",
       "ot": {
@@ -3698,7 +3705,10 @@
       "level": 10,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "にげあし",
+      "abilityCandidates": [
+        "にげあし",
+        "てきおうりょく"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンセンター",
       "ot": {
@@ -3776,7 +3786,10 @@
       "level": 10,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "あまのじゃく",
+      "abilityCandidates": [
+        "あまのじゃく",
+        "きゅうばん"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ＰＣトウキョーベイ",
       "heldItem": "ナナシのみ",
@@ -3919,7 +3932,10 @@
       "level": 25,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "むしのしらせ",
+      "abilityCandidates": [
+        "むしのしらせ",
+        "テクニシャン"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンセンター",
       "ot": {
@@ -4281,7 +4297,10 @@
       "level": 12,
       "gender": "♂",
       "nature": "ランダム",
-      "ability": "りんぷん",
+      "abilityCandidates": [
+        "りんぷん",
+        "ふくがん"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンセンター",
       "ot": {
@@ -4702,7 +4721,10 @@
       "level": 12,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "りんぷん",
+      "abilityCandidates": [
+        "りんぷん",
+        "ふくがん"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンセンター",
       "ot": {
@@ -5419,7 +5441,10 @@
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "ものひろい",
+      "abilityCandidates": [
+        "ものひろい",
+        "くいしんぼう"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "きあいのタスキ",
@@ -6821,7 +6846,10 @@
       "level": 12,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "りんぷん",
+      "abilityCandidates": [
+        "りんぷん",
+        "ふくがん"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンセンター",
       "ot": {
@@ -7892,7 +7920,10 @@
       "level": 40,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "せいしんりょく",
+      "abilityCandidates": [
+        "せいしんりょく",
+        "アイスボディ"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンリンク",
       "heldItem": "オニゴーリナイト",
@@ -7932,7 +7963,10 @@
       "level": 40,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "いしあたま",
+      "abilityCandidates": [
+        "いしあたま",
+        "がんじょう"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンリンク",
       "heldItem": "ハガネールナイト",

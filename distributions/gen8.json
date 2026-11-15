@@ -2863,7 +2863,10 @@
       "level": 7,
       "gender": "♀",
       "nature": "ランダム",
-      "ability": "ランダム",
+      "abilityCandidates": [
+        "しぜんかいふく",
+        "てんのめぐみ"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "すてきなばしょ",
       "heldItem": "しあわせタマゴ",
@@ -4091,7 +4094,11 @@
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "ランダム",
+      "abilityCandidates": [
+        "じょうききかん",
+        "ほのおのからだ",
+        "もらいび"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンイベント",
       "otFromPlayer": true,
@@ -4133,7 +4140,11 @@
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "ランダム",
+      "abilityCandidates": [
+        "ちょすい",
+        "シェルアーマー",
+        "うるおいボディ"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンイベント",
       "otFromPlayer": true,
@@ -4175,7 +4186,11 @@
       "level": 50,
       "gender": "ランダム",
       "nature": "なまいき",
-      "ability": "ランダム",
+      "abilityCandidates": [
+        "めんえき",
+        "あついしぼう",
+        "くいしんぼう"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンイベント",
       "otFromPlayer": true,

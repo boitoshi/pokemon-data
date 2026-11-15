@@ -171,7 +171,10 @@
       "level": 5,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "シンクロ",
+      "abilityCandidates": [
+        "シンクロ",
+        "トレース"
+      ],
       "ball": "モンスターボール",
       "shiny": "conditional",
       "otFromPlayer": true,
@@ -207,7 +210,10 @@
       "level": 5,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "シンクロ",
+      "abilityCandidates": [
+        "シンクロ",
+        "トレース"
+      ],
       "ball": "モンスターボール",
       "shiny": "conditional",
       "otFromPlayer": true,
@@ -503,7 +509,10 @@
       "level": 5,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "ちょすい",
+      "abilityCandidates": [
+        "ちょすい",
+        "しめりけ"
+      ],
       "ball": "モンスターボール",
       "shiny": "conditional",
       "otFromPlayer": true,
@@ -747,7 +756,10 @@
       "level": 5,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "かいりきバサミ",
+      "abilityCandidates": [
+        "かいりきバサミ",
+        "シェルアーマー"
+      ],
       "ball": "モンスターボール",
       "shiny": "conditional",
       "otFromPlayer": true,
@@ -1147,7 +1159,10 @@
       "level": 5,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "はりきり",
+      "abilityCandidates": [
+        "はりきり",
+        "しぜんかいふく"
+      ],
       "ball": "モンスターボール",
       "shiny": "conditional",
       "otFromPlayer": true,
@@ -1267,7 +1282,10 @@
       "level": 5,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "しめりけ",
+      "abilityCandidates": [
+        "しめりけ",
+        "ノーてんき"
+      ],
       "ball": "モンスターボール",
       "shiny": "conditional",
       "otFromPlayer": true,

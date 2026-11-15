@@ -153,7 +153,11 @@
     "ball": "モンスターボール",
     "level": 5,
     "gender": "ランダム",
-    "ability": "シンクロ",
+    "ability": "シンクロ / トレース",
+    "abilityCandidates": [
+      "シンクロ",
+      "トレース"
+    ],
     "nature": "ランダム",
     "moves": [
       "なきごえ",
@@ -186,7 +190,11 @@
     "ball": "モンスターボール",
     "level": 5,
     "gender": "ランダム",
-    "ability": "シンクロ",
+    "ability": "シンクロ / トレース",
+    "abilityCandidates": [
+      "シンクロ",
+      "トレース"
+    ],
     "nature": "ランダム",
     "moves": [
       "なきごえ",
@@ -454,7 +462,11 @@
     "ball": "モンスターボール",
     "level": 5,
     "gender": "ランダム",
-    "ability": "ちょすい",
+    "ability": "ちょすい / しめりけ",
+    "abilityCandidates": [
+      "ちょすい",
+      "しめりけ"
+    ],
     "nature": "ランダム",
     "moves": [
       "あわ",
@@ -671,7 +683,11 @@
     "ball": "モンスターボール",
     "level": 5,
     "gender": "ランダム",
-    "ability": "かいりきバサミ",
+    "ability": "かいりきバサミ / シェルアーマー",
+    "abilityCandidates": [
+      "かいりきバサミ",
+      "シェルアーマー"
+    ],
     "nature": "ランダム",
     "moves": [
       "あわ",
@@ -1041,7 +1057,11 @@
     "ball": "モンスターボール",
     "level": 5,
     "gender": "ランダム",
-    "ability": "はりきり",
+    "ability": "はりきり / しぜんかいふく",
+    "abilityCandidates": [
+      "はりきり",
+      "しぜんかいふく"
+    ],
     "nature": "ランダム",
     "moves": [
       "たいあたり",
@@ -1152,7 +1172,11 @@
     "ball": "モンスターボール",
     "level": 5,
     "gender": "ランダム",
-    "ability": "しめりけ",
+    "ability": "しめりけ / ノーてんき",
+    "abilityCandidates": [
+      "しめりけ",
+      "ノーてんき"
+    ],
     "nature": "ランダム",
     "moves": [
       "みずあそび",
@@ -3317,7 +3341,11 @@
     "ball": "プレシャスボール",
     "level": 50,
     "gender": "♂",
-    "ability": "てきおうりょく",
+    "ability": "てきおうりょく / にげあし",
+    "abilityCandidates": [
+      "てきおうりょく",
+      "にげあし"
+    ],
     "nature": "がんばりや",
     "heldItem": "きあいのタスキ",
     "moves": [
@@ -3861,7 +3889,11 @@
     "ball": "プレシャスボール",
     "level": 30,
     "gender": "ランダム",
-    "ability": "うるおいボディ",
+    "ability": "うるおいボディ / シェルアーマー",
+    "abilityCandidates": [
+      "うるおいボディ",
+      "シェルアーマー"
+    ],
     "nature": "ランダム",
     "heldItem": "むしのジュエル",
     "moves": [
@@ -3896,7 +3928,11 @@
     "ball": "プレシャスボール",
     "level": 30,
     "gender": "ランダム",
-    "ability": "むしのしらせ",
+    "ability": "むしのしらせ / だっぴ",
+    "abilityCandidates": [
+      "むしのしらせ",
+      "だっぴ"
+    ],
     "nature": "ランダム",
     "heldItem": "むしのジュエル",
     "moves": [
@@ -4001,7 +4037,11 @@
     "ball": "プレシャスボール",
     "level": 30,
     "gender": "ランダム",
-    "ability": "むしのしらせ",
+    "ability": "むしのしらせ / テクニシャン",
+    "abilityCandidates": [
+      "むしのしらせ",
+      "テクニシャン"
+    ],
     "nature": "ランダム",
     "heldItem": "メタルコート",
     "moves": [
@@ -4071,7 +4111,11 @@
     "ball": "プレシャスボール",
     "level": 30,
     "gender": "ランダム",
-    "ability": "どんかん",
+    "ability": "どんかん / マイペース",
+    "abilityCandidates": [
+      "どんかん",
+      "マイペース"
+    ],
     "nature": "ランダム",
     "heldItem": "おうじゃのしるし",
     "moves": [
@@ -4106,7 +4150,11 @@
     "ball": "プレシャスボール",
     "level": 30,
     "gender": "ランダム",
-    "ability": "こんじょう",
+    "ability": "こんじょう / ノーガード",
+    "abilityCandidates": [
+      "こんじょう",
+      "ノーガード"
+    ],
     "nature": "ランダム",
     "heldItem": "かくとうジュエル",
     "moves": [
@@ -4606,7 +4654,11 @@
     "ball": "モンスターボール",
     "level": 1,
     "gender": "ランダム",
-    "ability": "さめはだ",
+    "ability": "さめはだ / ちからずく",
+    "abilityCandidates": [
+      "さめはだ",
+      "ちからずく"
+    ],
     "nature": "ランダム",
     "moves": [
       "にらみつける",
@@ -4692,7 +4744,11 @@
     "ball": "モンスターボール",
     "level": 1,
     "gender": "ランダム",
-    "ability": "かいりきバサミ",
+    "ability": "かいりきバサミ / ありじごく",
+    "abilityCandidates": [
+      "かいりきバサミ",
+      "ありじごく"
+    ],
     "nature": "ランダム",
     "moves": [
       "かみつく"
@@ -4720,7 +4776,11 @@
     "ball": "モンスターボール",
     "level": 1,
     "gender": "ランダム",
-    "ability": "すいすい",
+    "ability": "すいすい / スナイパー",
+    "abilityCandidates": [
+      "すいすい",
+      "スナイパー"
+    ],
     "nature": "ランダム",
     "moves": [
       "あわ"
@@ -5547,7 +5607,11 @@
     "ball": "プレシャスボール",
     "level": 15,
     "gender": "ランダム",
-    "ability": "ハードロック",
+    "ability": "ハードロック / がんじょう",
+    "abilityCandidates": [
+      "ハードロック",
+      "がんじょう"
+    ],
     "nature": "ランダム",
     "heldItem": "ソクノのみ",
     "moves": [
@@ -5727,7 +5791,11 @@
     "ball": "プレシャスボール",
     "level": 15,
     "gender": "ランダム",
-    "ability": "いしあたま",
+    "ability": "いしあたま / プレッシャー",
+    "abilityCandidates": [
+      "いしあたま",
+      "プレッシャー"
+    ],
     "nature": "ランダム",
     "heldItem": "リリバのみ",
     "moves": [
@@ -5763,7 +5831,11 @@
     "ball": "プレシャスボール",
     "level": 15,
     "gender": "ランダム",
-    "ability": "すいすい",
+    "ability": "すいすい / カブトアーマー",
+    "abilityCandidates": [
+      "すいすい",
+      "カブトアーマー"
+    ],
     "nature": "ランダム",
     "heldItem": "ヨプのみ",
     "moves": [
@@ -5799,7 +5871,11 @@
     "ball": "プレシャスボール",
     "level": 15,
     "gender": "ランダム",
-    "ability": "すいすい",
+    "ability": "すいすい / シェルアーマー",
+    "abilityCandidates": [
+      "すいすい",
+      "シェルアーマー"
+    ],
     "nature": "ランダム",
     "heldItem": "リンドのみ",
     "moves": [
@@ -8267,7 +8343,11 @@
     "ball": "プレシャスボール",
     "level": 12,
     "gender": "ランダム",
-    "ability": "りんぷん",
+    "ability": "りんぷん / ふくがん",
+    "abilityCandidates": [
+      "りんぷん",
+      "ふくがん"
+    ],
     "nature": "ランダム",
     "moves": [
       "かぜおこし",
@@ -8644,7 +8724,12 @@
     "ball": "プレシャスボール",
     "level": 50,
     "gender": "ランダム",
-    "ability": "ものひろい",
+    "ability": "ものひろい / おみとおし / ふみん",
+    "abilityCandidates": [
+      "ものひろい",
+      "おみとおし",
+      "ふみん"
+    ],
     "nature": "ランダム",
     "moves": [
       "ハロウィン",
@@ -11696,7 +11781,11 @@
     "ball": "プレシャスボール",
     "level": 10,
     "gender": "ランダム",
-    "ability": "にげあし",
+    "ability": "にげあし / てきおうりょく",
+    "abilityCandidates": [
+      "にげあし",
+      "てきおうりょく"
+    ],
     "nature": "ランダム",
     "moves": [
       "おいわい",
@@ -11770,7 +11859,11 @@
     "ball": "プレシャスボール",
     "level": 10,
     "gender": "ランダム",
-    "ability": "あまのじゃく",
+    "ability": "あまのじゃく / きゅうばん",
+    "abilityCandidates": [
+      "あまのじゃく",
+      "きゅうばん"
+    ],
     "nature": "ランダム",
     "heldItem": "ナナシのみ",
     "moves": [
@@ -11905,7 +11998,11 @@
     "ball": "プレシャスボール",
     "level": 25,
     "gender": "ランダム",
-    "ability": "むしのしらせ",
+    "ability": "むしのしらせ / テクニシャン",
+    "abilityCandidates": [
+      "むしのしらせ",
+      "テクニシャン"
+    ],
     "nature": "ランダム",
     "moves": [
       "メタルクロー",
@@ -12244,7 +12341,11 @@
     "ball": "プレシャスボール",
     "level": 12,
     "gender": "♂",
-    "ability": "りんぷん",
+    "ability": "りんぷん / ふくがん",
+    "abilityCandidates": [
+      "りんぷん",
+      "ふくがん"
+    ],
     "nature": "ランダム",
     "moves": [
       "しびれごな",
@@ -12639,7 +12740,11 @@
     "ball": "モンスターボール",
     "level": 12,
     "gender": "ランダム",
-    "ability": "りんぷん",
+    "ability": "りんぷん / ふくがん",
+    "abilityCandidates": [
+      "りんぷん",
+      "ふくがん"
+    ],
     "nature": "ランダム",
     "moves": [
       "しびれごな",
@@ -13318,7 +13423,11 @@
     "ball": "プレシャスボール",
     "level": 50,
     "gender": "ランダム",
-    "ability": "ものひろい",
+    "ability": "ものひろい / くいしんぼう",
+    "abilityCandidates": [
+      "ものひろい",
+      "くいしんぼう"
+    ],
     "nature": "ランダム",
     "heldItem": "きあいのタスキ",
     "moves": [
@@ -14641,7 +14750,11 @@
     "ball": "モンスターボール",
     "level": 12,
     "gender": "ランダム",
-    "ability": "りんぷん",
+    "ability": "りんぷん / ふくがん",
+    "abilityCandidates": [
+      "りんぷん",
+      "ふくがん"
+    ],
     "nature": "ランダム",
     "moves": [
       "しびれごな",
@@ -15662,7 +15775,11 @@
     "ball": "モンスターボール",
     "level": 40,
     "gender": "ランダム",
-    "ability": "せいしんりょく",
+    "ability": "せいしんりょく / アイスボディ",
+    "abilityCandidates": [
+      "せいしんりょく",
+      "アイスボディ"
+    ],
     "nature": "ランダム",
     "heldItem": "オニゴーリナイト",
     "moves": [
@@ -15702,7 +15819,11 @@
     "ball": "モンスターボール",
     "level": 40,
     "gender": "ランダム",
-    "ability": "いしあたま",
+    "ability": "いしあたま / がんじょう",
+    "abilityCandidates": [
+      "いしあたま",
+      "がんじょう"
+    ],
     "nature": "ランダム",
     "heldItem": "ハガネールナイト",
     "moves": [
@@ -19179,7 +19300,11 @@
     "ball": "プレシャスボール",
     "level": 1,
     "gender": "♀",
-    "ability": "しぜんかいふく",
+    "ability": "しぜんかいふく / てんのめぐみ",
+    "abilityCandidates": [
+      "しぜんかいふく",
+      "てんのめぐみ"
+    ],
     "nature": "おっとり",
     "moves": [
       "はたく",
@@ -19250,7 +19375,11 @@
     "ball": "プレシャスボール",
     "level": 10,
     "gender": "ランダム",
-    "ability": "にげあし",
+    "ability": "にげあし / てきおうりょく",
+    "abilityCandidates": [
+      "にげあし",
+      "てきおうりょく"
+    ],
     "nature": "ランダム",
     "moves": [
       "すてみタックル",
@@ -19314,7 +19443,11 @@
     "ball": "プレシャスボール",
     "level": 10,
     "gender": "ランダム",
-    "ability": "にげあし",
+    "ability": "にげあし / てきおうりょく",
+    "abilityCandidates": [
+      "にげあし",
+      "てきおうりょく"
+    ],
     "nature": "ランダム",
     "moves": [
       "すてみタックル",
@@ -19410,7 +19543,11 @@
     "metLocation": "すてきなばしょ",
     "ball": "プレシャスボール",
     "level": 15,
-    "ability": "かいりきバサミ",
+    "ability": "かいりきバサミ / シェルアーマー",
+    "abilityCandidates": [
+      "かいりきバサミ",
+      "シェルアーマー"
+    ],
     "nature": "ランダム",
     "moves": [
       "クラブハンマー",
@@ -19545,7 +19682,11 @@
     "metLocation": "すてきなばしょ",
     "ball": "プレシャスボール",
     "level": 50,
-    "ability": "いかく/だっぴ",
+    "ability": "いかく / だっぴ",
+    "abilityCandidates": [
+      "いかく",
+      "だっぴ"
+    ],
     "nature": "ランダム",
     "moves": [
       "まきつく",
@@ -25742,7 +25883,11 @@
     "ball": "プレシャスボール",
     "level": 7,
     "gender": "♀",
-    "ability": "ランダム",
+    "ability": "しぜんかいふく / てんのめぐみ",
+    "abilityCandidates": [
+      "しぜんかいふく",
+      "てんのめぐみ"
+    ],
     "nature": "ランダム",
     "heldItem": "しあわせタマゴ",
     "moves": [
@@ -26930,7 +27075,12 @@
     "ball": "モンスターボール",
     "level": 50,
     "gender": "ランダム",
-    "ability": "ランダム",
+    "ability": "じょうききかん / ほのおのからだ / もらいび",
+    "abilityCandidates": [
+      "じょうききかん",
+      "ほのおのからだ",
+      "もらいび"
+    ],
     "nature": "ランダム",
     "moves": [
       "げんしのちから",
@@ -26972,7 +27122,12 @@
     "ball": "モンスターボール",
     "level": 50,
     "gender": "ランダム",
-    "ability": "ランダム",
+    "ability": "ちょすい / シェルアーマー / うるおいボディ",
+    "abilityCandidates": [
+      "ちょすい",
+      "シェルアーマー",
+      "うるおいボディ"
+    ],
     "nature": "ランダム",
     "moves": [
       "なみのり",
@@ -27014,7 +27169,12 @@
     "ball": "モンスターボール",
     "level": 50,
     "gender": "ランダム",
-    "ability": "ランダム",
+    "ability": "めんえき / あついしぼう / くいしんぼう",
+    "abilityCandidates": [
+      "めんえき",
+      "あついしぼう",
+      "くいしんぼう"
+    ],
     "nature": "なまいき",
     "moves": [
       "のしかかり",
@@ -29739,7 +29899,11 @@
     "ball": "モンスターボール",
     "level": 10,
     "gender": "ランダム",
-    "ability": "にげあし",
+    "ability": "にげあし / てきおうりょく",
+    "abilityCandidates": [
+      "にげあし",
+      "てきおうりょく"
+    ],
     "nature": "ランダム",
     "moves": [
       "てだすけ",
@@ -30933,7 +31097,11 @@
     "ball": "プレシャスボール",
     "level": 5,
     "gender": "ランダム",
-    "ability": "せいでんき",
+    "ability": "せいでんき / しぜんかいふく",
+    "abilityCandidates": [
+      "せいでんき",
+      "しぜんかいふく"
+    ],
     "nature": "ランダム",
     "moves": [
       "でんきショック",
@@ -31023,7 +31191,11 @@
     "ball": "モンスターボール",
     "level": 50,
     "gender": "ランダム",
-    "ability": "あついしぼう",
+    "ability": "あついしぼう / ゆきかき",
+    "abilityCandidates": [
+      "あついしぼう",
+      "ゆきかき"
+    ],
     "nature": "ランダム",
     "moves": [
       "のしかかり",

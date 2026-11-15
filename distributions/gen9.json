@@ -1728,7 +1728,10 @@
       "level": 10,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "にげあし",
+      "abilityCandidates": [
+        "にげあし",
+        "てきおうりょく"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンイベント",
       "teraType": "ノーマル",
@@ -2950,7 +2953,10 @@
       "level": 5,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "せいでんき",
+      "abilityCandidates": [
+        "せいでんき",
+        "しぜんかいふく"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンセンター",
       "teraType": "でんき",
@@ -3043,7 +3049,10 @@
       "level": 50,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "あついしぼう",
+      "abilityCandidates": [
+        "あついしぼう",
+        "ゆきかき"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンアニメ",
       "teraType": "こおり",

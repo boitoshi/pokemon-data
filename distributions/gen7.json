@@ -2110,7 +2110,10 @@
       "level": 1,
       "gender": "♀",
       "nature": "おっとり",
-      "ability": "しぜんかいふく",
+      "abilityCandidates": [
+        "しぜんかいふく",
+        "てんのめぐみ"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンセンター",
       "ot": {
@@ -2185,7 +2188,10 @@
       "level": 10,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "にげあし",
+      "abilityCandidates": [
+        "にげあし",
+        "てきおうりょく"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "すてきなばしょ",
       "shiny": "fixed",
@@ -2253,7 +2259,10 @@
       "level": 10,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "にげあし",
+      "abilityCandidates": [
+        "にげあし",
+        "てきおうりょく"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "すてきなばしょ",
       "shiny": "fixed",
@@ -2355,7 +2364,10 @@
       ],
       "level": 15,
       "nature": "ランダム",
-      "ability": "かいりきバサミ",
+      "abilityCandidates": [
+        "かいりきバサミ",
+        "シェルアーマー"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "すてきなばしょ",
       "shiny": "fixed",
@@ -2498,7 +2510,10 @@
       ],
       "level": 50,
       "nature": "ランダム",
-      "ability": "いかく/だっぴ",
+      "abilityCandidates": [
+        "いかく",
+        "だっぴ"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "すてきなばしょ",
       "shiny": "fixed",

@@ -1722,7 +1722,10 @@
       "level": 50,
       "gender": "♂",
       "nature": "がんばりや",
-      "ability": "てきおうりょく",
+      "abilityCandidates": [
+        "てきおうりょく",
+        "にげあし"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "きあいのタスキ",

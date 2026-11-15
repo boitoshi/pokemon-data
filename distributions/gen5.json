@@ -22,7 +22,10 @@
       "level": 30,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "うるおいボディ",
+      "abilityCandidates": [
+        "うるおいボディ",
+        "シェルアーマー"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "むしのジュエル",
@@ -59,7 +62,10 @@
       "level": 30,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "むしのしらせ",
+      "abilityCandidates": [
+        "むしのしらせ",
+        "だっぴ"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "むしのジュエル",
@@ -170,7 +176,10 @@
       "level": 30,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "むしのしらせ",
+      "abilityCandidates": [
+        "むしのしらせ",
+        "テクニシャン"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "メタルコート",
@@ -244,7 +253,10 @@
       "level": 30,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "どんかん",
+      "abilityCandidates": [
+        "どんかん",
+        "マイペース"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "おうじゃのしるし",
@@ -281,7 +293,10 @@
       "level": 30,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "こんじょう",
+      "abilityCandidates": [
+        "こんじょう",
+        "ノーガード"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "かくとうジュエル",
@@ -811,7 +826,10 @@
       "level": 1,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "さめはだ",
+      "abilityCandidates": [
+        "さめはだ",
+        "ちからずく"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンセンター",
       "shiny": "fixed",
@@ -903,7 +921,10 @@
       "level": 1,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "かいりきバサミ",
+      "abilityCandidates": [
+        "かいりきバサミ",
+        "ありじごく"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンセンター",
       "shiny": "fixed",
@@ -933,7 +954,10 @@
       "level": 1,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "すいすい",
+      "abilityCandidates": [
+        "すいすい",
+        "スナイパー"
+      ],
       "ball": "モンスターボール",
       "metLocation": "ポケモンセンター",
       "shiny": "fixed",
@@ -1808,7 +1832,10 @@
       "level": 15,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "ハードロック",
+      "abilityCandidates": [
+        "ハードロック",
+        "がんじょう"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "ソクノのみ",
@@ -1998,7 +2025,10 @@
       "level": 15,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "いしあたま",
+      "abilityCandidates": [
+        "いしあたま",
+        "プレッシャー"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "リリバのみ",
@@ -2036,7 +2066,10 @@
       "level": 15,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "すいすい",
+      "abilityCandidates": [
+        "すいすい",
+        "カブトアーマー"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "ヨプのみ",
@@ -2074,7 +2107,10 @@
       "level": 15,
       "gender": "ランダム",
       "nature": "ランダム",
-      "ability": "すいすい",
+      "abilityCandidates": [
+        "すいすい",
+        "シェルアーマー"
+      ],
       "ball": "プレシャスボール",
       "metLocation": "ポケモンイベント",
       "heldItem": "リンドのみ",

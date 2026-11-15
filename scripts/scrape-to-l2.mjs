@@ -959,7 +959,13 @@ for (const [key, members] of scrapedGroups.entries()) {
   const withNearDup = [];
   const withoutNearDup = [];
   for (const m of members) {
-    const nearDups = existingEntries.filter((e) => isNearDup(e, m));
+    // U4: 従来のnear-dup候補と優先順は維持する。候補がない場合だけ、同じdexNoを
+    // 日付に関係なく要確認へ回す（地域別日程を新IDで自動追加しない）。
+    // 個体の判定粒度は既存ガードと同じ。anchor・バッチ内判定は変更しない。
+    let nearDups = existingEntries.filter((e) => isNearDup(e, m));
+    if (nearDups.length === 0) {
+      nearDups = existingEntries.filter((e) => e.dexNo === m.dexNo);
+    }
     if (nearDups.length > 0) {
       if (acceptNearDup) {
         nearDupAcceptedMembers.add(m);

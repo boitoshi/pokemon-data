@@ -821,8 +821,37 @@ for (const row of flatRows) {
   else skippedRows.push(row);
 }
 
-const scrapedEntries = ingestableRows.map((row) => convertEntry(row));
-const { warnings } = validateEntries(scrapedEntries, dataset);
+// U5: raw行の全列を比較する。変換で捨てる列の相違も黙って潰さない。
+// managementId は暫定の行ID。地域・イベント名・ページ出典だけを比較から除く。
+// anchorKey はこの統合キーではなく、後段の正本照合・レビュー用のまま維持する。
+const MERGE_EXCLUDED_FIELDS = new Set(["managementId", "region", "eventName", "sourcePage", "sourcePages"]);
+function losslessValue(value) {
+  if (Array.isArray(value)) return value.map(losslessValue);
+  if (value !== null && typeof value === "object") {
+    return Object.fromEntries(Object.keys(value).sort().map((key) => [key, losslessValue(value[key])]));
+  }
+  return value;
+}
+const convertedEntries = ingestableRows.map((row) => convertEntry(row));
+const { warnings } = validateEntries(convertedEntries, dataset);
+const losslessGroups = new Map();
+for (const [index, row] of ingestableRows.entries()) {
+  const key = JSON.stringify(losslessValue(Object.fromEntries(
+    Object.entries(row).filter(([field]) => !MERGE_EXCLUDED_FIELDS.has(field))
+  )));
+  if (!losslessGroups.has(key)) {
+    losslessGroups.set(key, { entry: convertedEntries[index], managementIds: [], sourcePages: [], rowCount: 0 });
+  }
+  const group = losslessGroups.get(key);
+  group.managementIds.push(row.managementId);
+  group.rowCount += 1;
+  const pages = [row.sourcePage, ...(Array.isArray(row.sourcePages) ? row.sourcePages : [])];
+  for (const page of pages) {
+    if (page && !group.sourcePages.includes(page)) group.sourcePages.push(page);
+  }
+}
+// 最初の行を代表にする。region を集約せず、sourcePages も entry には付けない。
+const scrapedEntries = [...losslessGroups.values()].map((group) => group.entry);
 
 console.log("=== scrape-to-l2: 変換 ===");
 console.log(`  dataset: ${dataset} / generation: ${generation} / scraped: ${scrapedEntries.length}件` + (skippedRows.length > 0 ? ` / 取り込み不可: ${skippedRows.length}件` : ""));
@@ -1240,6 +1269,9 @@ if (reportPathArg) {
     target: path.relative(root, targetPath),
     mode,
     scrapedCount: scrapedEntries.length,
+    // lossless統合の証跡はレポートだけに出す（正本entryには混ぜない）。
+    inputRowCount: ingestableRows.length,
+    scrapedGroups: [...losslessGroups.values()],
     existingCount: existingEntries.length,
     acceptNearDup,
     acceptMultiVariant,

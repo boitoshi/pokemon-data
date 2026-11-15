@@ -67,8 +67,14 @@ try {
   assert.equal(repeated.payload.summary.added, 0);
   assert.equal(fs.readFileSync(target, "utf8"), populated);
 
+  // 真の重複はU5の無損失統合で1行になり、承認フラグがあっても二重追加しない。
+  reset([twins[0], { ...twins[0], managementId: "duplicate" }]);
+  const merged = run(["--accept-multi-variant"]);
+  assert.equal(merged.status, 0, merged.stderr);
+  assert.equal(merged.payload.summary.added, 1);
+  assert.equal(merged.payload.scrapedCount, 1);
+
   for (const duplicate of [
-    { ...twins[0], managementId: "duplicate" },
     { ...twins[0], managementId: "metadata-only", eventName: "別の表記", notes: "別の備考" },
     { ...twins[0], managementId: "reordered", moves: "でんきショック, なきごえ" },
   ]) {

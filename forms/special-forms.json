@@ -780,7 +780,7 @@
           "formName": "キョダイマックスニャース",
           "debutGame": "SwSh",
           "formTypes": [
-            "はがね"
+            "ノーマル"
           ],
           "formAbilities": [],
           "formHiddenAbility": "",
@@ -789,7 +789,7 @@
             "SwSh"
           ],
           "gmaxMoveName": "キョダイコバン",
-          "notes": "ガラルのすがた（はがねタイプ）"
+          "notes": "カントーのすがた（ノーマルタイプ）"
         }
       ]
     },

@@ -1088,8 +1088,15 @@
         "全世界"
       ],
       "levelNote": "Lv.50相当(非表示)",
+      "nature": "おだやか",
+      "ability": "じきゅうりょく",
       "ivsGuaranteed": 6,
       "notes": "公式オンライン大会（ダブルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。PJCS2027 ビデオゲーム部門の出場権がかかる大会。開催期間は2026-09-25 11:00〜2026-09-28 10:59（エントリーは2026-09-18 11:00から）。",
+      "source": {
+        "kind": "self",
+        "url": "https://pente.koro-pokemon.com/pokemonchampions/haifu-pokemon.shtml",
+        "note": "性格・特性はポケモン王国攻略館「配布ポケモン一覧」（実機確認データ）による二次情報（2026-11-16確認）。公式では性格・特性は公表されておらず、一次未確認のため verified は付けない。"
+      },
       "references": [
         {
           "url": "https://champions-news.pokemon-home.com/ja/page/825.html"
@@ -1333,8 +1340,15 @@
         "全世界"
       ],
       "levelNote": "Lv.50相当(非表示)",
+      "nature": "いじっぱり",
+      "ability": "ねつこうかん",
       "ivsGuaranteed": 6,
       "notes": "プレミアムバトルパス購入で解放される報酬。同じパスの報酬にメガストーン「セグレイブナイト」「アブソルナイトＺ」もある。期間は2026-11-04 10:59まで。",
+      "source": {
+        "kind": "self",
+        "url": "https://pente.koro-pokemon.com/pokemonchampions/haifu-pokemon.shtml",
+        "note": "性格・特性はポケモン王国攻略館「配布ポケモン一覧」（実機確認データ）による二次情報（2026-11-16確認）。公式では性格・特性は公表されておらず、一次未確認のため verified は付けない。"
+      },
       "references": [
         {
           "url": "https://champions-news.pokemon-home.com/ja/page/846.html"
@@ -1362,8 +1376,15 @@
         "全世界"
       ],
       "levelNote": "Lv.50相当(非表示)",
+      "nature": "ようき",
+      "ability": "せいぎのこころ",
       "ivsGuaranteed": 6,
       "notes": "プレミアムバトルパス購入で解放される報酬。同じパスの報酬にメガストーン「セグレイブナイト」「アブソルナイトＺ」もある。期間は2026-11-04 10:59まで。",
+      "source": {
+        "kind": "self",
+        "url": "https://pente.koro-pokemon.com/pokemonchampions/haifu-pokemon.shtml",
+        "note": "性格・特性はポケモン王国攻略館「配布ポケモン一覧」（実機確認データ）による二次情報（2026-11-16確認）。公式では性格・特性は公表されておらず、一次未確認のため verified は付けない。"
+      },
       "references": [
         {
           "url": "https://champions-news.pokemon-home.com/ja/page/846.html"
@@ -1391,8 +1412,15 @@
         "全世界"
       ],
       "levelNote": "Lv.50相当(非表示)",
+      "nature": "ようき",
+      "ability": "リベロ",
       "ivsGuaranteed": 6,
       "notes": "無料のバトルパスの報酬。期間は2026-11-04 10:59まで。",
+      "source": {
+        "kind": "self",
+        "url": "https://pente.koro-pokemon.com/pokemonchampions/haifu-pokemon.shtml",
+        "note": "性格・特性はポケモン王国攻略館「配布ポケモン一覧」（実機確認データ）による二次情報（2026-11-16確認）。公式では性格・特性は公表されておらず、一次未確認のため verified は付けない。"
+      },
       "references": [
         {
           "url": "https://champions-news.pokemon-home.com/ja/page/846.html"
@@ -1420,8 +1448,15 @@
         "全世界"
       ],
       "levelNote": "Lv.50相当(非表示)",
+      "nature": "いじっぱり",
+      "ability": "いかく",
       "ivsGuaranteed": 6,
       "notes": "プレミアムバトルパス購入で解放される報酬。同じパスの報酬にメガストーン「ボーマンダナイト」「ガブリアスナイトＺ」もある。期間は2026-12-02 10:59まで。",
+      "source": {
+        "kind": "self",
+        "url": "https://pente.koro-pokemon.com/pokemonchampions/haifu-pokemon.shtml",
+        "note": "性格・特性はポケモン王国攻略館「配布ポケモン一覧」（実機確認データ）による二次情報（2026-11-16確認）。公式では性格・特性は公表されておらず、一次未確認のため verified は付けない。"
+      },
       "references": [
         {
           "url": "https://champions-news.pokemon-home.com/ja/page/868.html"
@@ -1449,8 +1484,15 @@
         "全世界"
       ],
       "levelNote": "Lv.50相当(非表示)",
+      "nature": "むじゃき",
+      "ability": "さめはだ",
       "ivsGuaranteed": 6,
       "notes": "プレミアムバトルパス購入で解放される報酬。同じパスの報酬にメガストーン「ボーマンダナイト」「ガブリアスナイトＺ」もある。期間は2026-12-02 10:59まで。",
+      "source": {
+        "kind": "self",
+        "url": "https://pente.koro-pokemon.com/pokemonchampions/haifu-pokemon.shtml",
+        "note": "性格・特性はポケモン王国攻略館「配布ポケモン一覧」（実機確認データ）による二次情報（2026-11-16確認）。公式では性格・特性は公表されておらず、一次未確認のため verified は付けない。"
+      },
       "references": [
         {
           "url": "https://champions-news.pokemon-home.com/ja/page/868.html"
@@ -1478,8 +1520,15 @@
         "全世界"
       ],
       "levelNote": "Lv.50相当(非表示)",
+      "nature": "おくびょう",
+      "ability": "スナイパー",
       "ivsGuaranteed": 6,
       "notes": "無料のバトルパスの報酬。期間は2026-12-02 10:59まで。",
+      "source": {
+        "kind": "self",
+        "url": "https://pente.koro-pokemon.com/pokemonchampions/haifu-pokemon.shtml",
+        "note": "性格・特性はポケモン王国攻略館「配布ポケモン一覧」（実機確認データ）による二次情報（2026-11-16確認）。公式では性格・特性は公表されておらず、一次未確認のため verified は付けない。"
+      },
       "references": [
         {
           "url": "https://champions-news.pokemon-home.com/ja/page/868.html"
@@ -1507,8 +1556,15 @@
         "全世界"
       ],
       "levelNote": "Lv.50相当(非表示)",
+      "nature": "いじっぱり",
+      "ability": "きもったま",
       "ivsGuaranteed": 6,
       "notes": "公式オンライン大会（シングルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。ファストクーポン100枚・称号も付与。開催期間は2026-10-23 11:00〜2026-10-26 10:59（エントリーは2026-10-16 11:00から）。",
+      "source": {
+        "kind": "self",
+        "url": "https://pente.koro-pokemon.com/pokemonchampions/haifu-pokemon.shtml",
+        "note": "性格・特性はポケモン王国攻略館「配布ポケモン一覧」（実機確認データ）による二次情報（2026-11-16確認）。公式では性格・特性は公表されておらず、一次未確認のため verified は付けない。"
+      },
       "references": [
         {
           "url": "https://champions-news.pokemon-home.com/ja/page/847.html"
@@ -1537,8 +1593,15 @@
       ],
       "levelNote": "Lv.50相当(非表示)",
       "gender": "♂",
+      "nature": "ようき",
+      "ability": "てきおうりょく",
       "ivsGuaranteed": 6,
       "notes": "公式オンライン大会（ダブルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。公式表記は「イダイトウ（オスのすがた）」。開催期間は2026-10-30 11:00〜2026-11-02 10:59（エントリーは2026-10-23 11:00から）。",
+      "source": {
+        "kind": "self",
+        "url": "https://pente.koro-pokemon.com/pokemonchampions/haifu-pokemon.shtml",
+        "note": "性格・特性はポケモン王国攻略館「配布ポケモン一覧」（実機確認データ）による二次情報（2026-11-16確認）。公式では性格・特性は公表されておらず、一次未確認のため verified は付けない。"
+      },
       "references": [
         {
           "url": "https://champions-news.pokemon-home.com/ja/page/848.html"

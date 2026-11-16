@@ -440,11 +440,19 @@ fs.mkdirSync(buildDir, { recursive: true });
 const pokemonPath = path.join(buildDir, "pokemon.json");
 const metaPath = path.join(buildDir, "meta.json");
 
-// ---- generation別集計（byGeneration） ----
+// ---- 軸別集計（byGeneration / byGameId / byTournamentType） ----
 const byGeneration = {};
+const byGameId = {};
+const byTournamentType = {};
 for (const r of records) {
   const key = String(r.generation);
   byGeneration[key] = (byGeneration[key] ?? 0) + 1;
+  for (const gameId of r.gameIds) {
+    byGameId[gameId] = (byGameId[gameId] ?? 0) + 1;
+  }
+  if (r.tournamentType !== undefined) {
+    byTournamentType[r.tournamentType] = (byTournamentType[r.tournamentType] ?? 0) + 1;
+  }
 }
 
 counts.total = records.length;
@@ -474,6 +482,8 @@ const meta = {
   source: "distributions/*.json",
   counts,
   byGeneration,
+  byGameId,
+  byTournamentType,
   datasetNotes,
   redirects,
 };
@@ -487,5 +497,6 @@ for (const { dataset } of DATASETS) {
   console.log(`    ${dataset}: ${counts[dataset]}件`);
 }
 console.log(`  byGeneration: ${JSON.stringify(byGeneration)}`);
+console.log(`  byGameId: ${JSON.stringify(byGameId)}`);
 console.log(`  redirects（重複→本来のid）: ${Object.keys(redirects).length}件`);
 console.log(`  ${path.relative(root, metaPath)} を出力しました`);

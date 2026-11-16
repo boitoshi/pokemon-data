@@ -27,6 +27,15 @@ const teraTypeNames = new Set(Object.values(readJson("mappings/types.json")));
 const TERA_MOVE_MARKER = "（テラスタイプで変わる）";
 const schema = readJson("distributions/schema.json");
 const eventKinds = new Set(schema.$defs.entry.properties.event.properties.kind.enum);
+const eventPropertyNames = new Set(Object.keys(schema.$defs.entry.properties.event.properties));
+
+// distributionMethod のうち、移行マスター（mappings/distribution-methods.json、
+// 英→日の対訳）を通らず日本語で直接書かれた正本ネイティブの値。
+// Champions データが日本語で新規に書かれたため生まれた集合で、対訳表に
+// 日→日の同一写像を足すと build-abbreviations の逆引きが壊れるので、
+// ここに明示して値集合照合の対象に含める。新しい方法を足すときは
+// 対訳表かこちらのどちらに属すかを決めてから追加すること。
+const METHOD_NATIVE_VALUES = new Set(["大会参加賞", "メールボックス", "プレイ特典"]);
 
 // nature / ability の値集合照合における許容センチネル。
 // "ランダム" ＝ 固定ネイチャー/特性無しと判明した場合の明示値（省略＝不明とは区別）。
@@ -144,14 +153,28 @@ for (const fileName of files) {
       }
     }
 
-    // schema の event は type: object で、kind は必須ではない。kind があるときだけ enum で検証する
+    // schema の event は type: object で、kind は必須ではない。kind があるときだけ enum で検証する。
+    // additionalProperties: false と各プロパティの型（year: integer、他は string）も schema 通りに検証する
     if ("event" in entry) {
       const ev = entry.event;
       if (ev === null || typeof ev !== "object" || Array.isArray(ev)) {
         throw new Error(`${where}: event はオブジェクトでなければなりません（distributions/schema.json）`);
       }
+      for (const key of Object.keys(ev)) {
+        if (!eventPropertyNames.has(key)) {
+          throw new Error(`${where}: event に未知のフィールド "${key}" があります（distributions/schema.json の event.properties に未定義）`);
+        }
+      }
       if ("kind" in ev && !eventKinds.has(ev.kind)) {
         throw new Error(`${where}: event.kind "${ev.kind}" が distributions/schema.json の enum にありません`);
+      }
+      if ("year" in ev && !Number.isInteger(ev.year)) {
+        throw new Error(`${where}: event.year は整数である必要があります (got: ${JSON.stringify(ev.year)})`);
+      }
+      for (const key of ["schedule", "location", "winner", "winnerX"]) {
+        if (key in ev && typeof ev[key] !== "string") {
+          throw new Error(`${where}: event.${key} は文字列である必要があります (got: ${typeof ev[key]})`);
+        }
       }
     }
 
@@ -350,11 +373,15 @@ for (const fileName of files) {
       }
     }
 
-    // distributionMethod
-    if ("distributionMethod" in entry && !methodValues.has(entry.distributionMethod)) {
+    // distributionMethod（対訳マスターの値集合と、正本ネイティブ値のどちらにも無ければ warning）
+    if (
+      "distributionMethod" in entry &&
+      !methodValues.has(entry.distributionMethod) &&
+      !METHOD_NATIVE_VALUES.has(entry.distributionMethod)
+    ) {
       warn(
         "distributionMethod-not-in-master",
-        `${where}: distributionMethod "${entry.distributionMethod}" が mappings/distribution-methods.json の値集合にありません`
+        `${where}: distributionMethod "${entry.distributionMethod}" が mappings/distribution-methods.json の値集合にも正本ネイティブ値にもありません`
       );
     }
 

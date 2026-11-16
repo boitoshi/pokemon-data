@@ -661,6 +661,10 @@
       ],
       "ivsGuaranteed": 0,
       "notes": "大会会場限定第八世代最初で最後のローカル通信でのポケモン配布。真作フォルム。おいわいは特別な技。",
+      "event": {
+        "kind": "wcs",
+        "year": 2022
+      },
       "postUrl": "https://www.pokebros.net/ss-wcs2022-sinistea/"
     },
     {
@@ -717,6 +721,10 @@
       },
       "evs": "すべてに80ずつ",
       "notes": "ゲーム内言語によって親名が異なる。",
+      "event": {
+        "kind": "wcs",
+        "year": 2022
+      },
       "postUrl": "https://www.pokebros.net/ss-wcs2022-victini/",
       "password": "W0RLD22V1CT0RY"
     },
@@ -942,6 +950,10 @@
       "evs": "H180/B140/D188",
       "password": "ER1CSGASTR0D0N",
       "notes": "欧州大会2022チャンピオン使用個体。",
+      "event": {
+        "kind": "regional",
+        "year": 2022
+      },
       "postUrl": "https://www.pokebros.net/ss-europechamp-gastrodon/"
     },
     {
@@ -992,6 +1004,10 @@
       "evs": "H252/B252/D4",
       "password": "APC2021CHAMP",
       "notes": "Pokémon Asia Players Cup 2021チャンピオン使用個体。",
+      "event": {
+        "kind": "regional",
+        "year": 2022
+      },
       "postUrl": "https://www.pokebros.net/ss-papc2021champ-shiny-clefairy/"
     },
     {
@@ -1041,6 +1057,10 @@
       "evs": "H228/A4/B140/D116/S20",
       "password": "K0REACHAMP10N21",
       "notes": "Pokémon Trainers Cup2021チャンピオン使用個体。",
+      "event": {
+        "kind": "regional",
+        "year": 2022
+      },
       "postUrl": "https://www.pokebros.net/ss-trainerscup2021-grimmsnarl/"
     },
     {
@@ -1302,6 +1322,10 @@
       "evs": "H4/A252/D252",
       "password": "EU1C2022G1FT",
       "notes": "2020 Oceania International Championshipsチャンピオン使用個体として配布。努力値はAD252H4で配布されているが、実際に大会で使用されていた努力値振りはAS252H4。",
+      "event": {
+        "kind": "regional",
+        "year": 2022
+      },
       "postUrl": "https://www.pokebros.net/ss-2020champ-marco-dracovish/"
     },
     {
@@ -2341,6 +2365,10 @@
       "evs": "H6/C252/S252",
       "password": "1STPTCCHAMP",
       "notes": "2020年同大会チャンピオン使用個体。",
+      "event": {
+        "kind": "regional",
+        "year": 2021
+      },
       "postUrl": "https://www.pokebros.net/ss-trainerscup2020-porygonz/"
     },
     {
@@ -2391,6 +2419,10 @@
       "gigantamax": true,
       "password": "V1CT0RYENG1NE25",
       "notes": "Pokémon Players CupIIチャンピオン使用個体。",
+      "event": {
+        "kind": "other",
+        "year": 2021
+      },
       "postUrl": "https://www.pokebros.net/ss-playerscup-wolfeglick-coalossal/"
     },
     {
@@ -3692,6 +3724,10 @@
       },
       "evs": "H252/B252/D4",
       "notes": "Battle-Ready Porygon2として配布。PokémonPlayersCupは新型コロナウイルスの世界的なパンデミックのため特別に開催された招待制のオンライン大会。",
+      "event": {
+        "kind": "other",
+        "year": 2020
+      },
       "postUrl": "https://www.pokebros.net/ss-vgcporygon2/"
     },
     {
@@ -3742,6 +3778,10 @@
       "evs": "H236/B116/D156",
       "password": "TRA1NERSCUP",
       "notes": "2019年WCSシニアカテゴリTOP4となったプレイヤーの使用個体。",
+      "event": {
+        "kind": "regional",
+        "year": 2020
+      },
       "postUrl": "https://www.pokebros.net/ss-pwcs2019amoonguss/"
     },
     {

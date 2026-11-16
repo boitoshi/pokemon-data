@@ -972,7 +972,11 @@
       "evs": "H246/B132/D132",
       "password": "N01SUPP0RTPTC24",
       "notes": "韓国トレーナーズカップ2025の開催記念での配布。2024年同大会チャンピオンが使用していた個体。",
-      "postUrl": "https://www.pokebros.net/gen9-juyounghong-porygon2/"
+      "postUrl": "https://www.pokebros.net/gen9-juyounghong-porygon2/",
+      "event": {
+        "kind": "regional",
+        "year": 2025
+      }
     },
     {
       "id": "09085",

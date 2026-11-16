@@ -59,11 +59,11 @@
     "pokemon_champions": 44
   },
   "byTournamentType": {
+    "WCS": 9,
     "PJCS": 11,
-    "WCS": 2,
-    "Champions": 38,
-    "Regional": 1,
-    "Other": 1
+    "Regional": 12,
+    "Other": 3,
+    "Champions": 38
   },
   "datasetNotes": {
     "gen3": [

@@ -397,7 +397,7 @@ brief も「今日まで（終了時刻は未確認）」と出すので、空�
 - `event` は「その配信が紐づく（開催記念の）大会」を指す。**個体の出自大会ではない**（誰がどの大会で使った個体かは `notes` の文章と親名 `ot` が持つ。`winner` はその大会の優勝者であって個体の持ち主ではない）。
 - build が出す `tournamentType` は `event.kind` の表示ラベル写しであり、「イベント種別」であって「受け取り先のゲーム」ではない。ページの所属判定は `games`（build では `gameIds`）だけが正で、tournamentType を所属判定に使わない（例: PJCS2026 記念のリザードンは tournamentType=PJCS のまま、所属はポケモンチャンピオンズ）。
 - `kind` の割り当て: `wcs` = 世界大会（World Championships）本体の記念のみ。`regional` = PJCS 以外の選手権サーキット（Regional / National / International Championships、各国の国内選手権・リーグ、韓国の Trainers Cup を含む）。`other` = サーキット外の特別大会（Players Cup 等）。選手権サーキットと無関係なオンライン大会（バトルコンペティション類）には付けない。
-- 見せ方: PJCS のまとめは WordPress 記事（＋個別記事）が正で、Astro 側は転送のみ（2026-08-06 決定）。Regional は Astro の自動生成ページが受け皿。WCS に専用ページは無い。
+- 見せ方: 正本は pokebros-content-hub の `docs/data-sources.md`（データサイト行）と ADR 0010（ここに再掲して二重管理しない）。大会別では PJCS・WCS は WordPress のまとめ記事（＋個別記事）が正で Astro 側は転送のみ。Regional は Astro の自動生成ページが受け皿。Champions は Astro（所属は gameIds）。
 
 ## L2直接取り込みパイプライン
 

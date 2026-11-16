@@ -1101,6 +1101,10 @@
       "ribbons": [
         "クラシックリボン"
       ],
+      "event": {
+        "kind": "wcs",
+        "year": 2008
+      },
       "source": {
         "kind": "bulbapedia"
       }
@@ -1536,6 +1540,10 @@
       "ribbons": [
         "クラシックリボン"
       ],
+      "event": {
+        "kind": "wcs",
+        "year": 2009
+      },
       "source": {
         "kind": "bulbapedia"
       }
@@ -1994,6 +2002,10 @@
       "ribbons": [
         "クラシックリボン"
       ],
+      "event": {
+        "kind": "wcs",
+        "year": 2010
+      },
       "source": {
         "kind": "bulbapedia"
       }

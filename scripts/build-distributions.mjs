@@ -79,6 +79,19 @@ const DATASETS = [
   { dataset: "champions", file: "champions.json" },
 ];
 
+// distributions/ にあるのに DATASETS 未登録のファイルは、変換対象にならず
+// ページへ一切届かないまま静かに消える。落とさずビルドを止めて気づけるようにする。
+{
+  const registered = new Set(DATASETS.map(({ file }) => file));
+  for (const name of fs.readdirSync(path.join(root, "distributions"))) {
+    if (/^(gen\d+|champions)\.json$/.test(name) && !registered.has(name)) {
+      throw new Error(
+        `distributions/${name} が DATASETS に未登録です。build-distributions.mjs の DATASETS に追加してください`
+      );
+    }
+  }
+}
+
 // ---- app-runtime 出力キー順（P3-build-spec.md 正本。不在は省略、順序はP4差分最小化のため踏襲） ----
 const OUTPUT_KEY_ORDER = [
   "managementId",

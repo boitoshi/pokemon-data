@@ -12120,7 +12120,8 @@
     "ribbons": [
       "イベントリボン"
     ],
-    "region": "欧州,北米,豪州",
+    "notes": "2014年7月13日、メルボルンで開催された豪州ナショナルズの来場者に配布（任天堂豪州の大会サイトで告知）。",
+    "region": "豪州",
     "shiny": "あり"
   },
   {
@@ -15054,7 +15055,8 @@
     "ribbons": [
       "バトルチャンプリボン"
     ],
-    "region": "欧州,北米,豪州",
+    "notes": "2016年7月2日〜3日、豪州ナショナルズの来場者に配布。",
+    "region": "豪州",
     "shiny": "あり"
   },
   {
@@ -17344,6 +17346,150 @@
     ],
     "notes": "2015〜2016年に韓国で配信された映画「光輪の超魔神 フーパ」(デセルシティ)記念のアルセウス。親名(OT)=데세르시티(Dahara City)。既存のシンガポール「Manesh Arceus」(06061)とは別配信。日本国内では未配信。",
     "region": "韓国"
+  },
+  {
+    "managementId": "06257",
+    "pokemonName": "マンムー",
+    "dexNo": 473,
+    "generation": 6,
+    "game": "X, Y",
+    "gameIds": [
+      "x",
+      "y"
+    ],
+    "eventName": "Arash Ommati's Mamoswine",
+    "distributionMethod": "ローカル通信",
+    "startDate": "2014-05-03",
+    "endDate": "2014-06-01",
+    "ot": "Arash",
+    "trainerId": "05034",
+    "metLocation": "ポケモンイベント",
+    "ball": "モンスターボール",
+    "level": 50,
+    "gender": "♂",
+    "ability": "あついしぼう",
+    "nature": "いじっぱり",
+    "heldItem": "こだわりスカーフ",
+    "moves": [
+      "つららばり",
+      "じしん",
+      "つららおとし",
+      "いわなだれ"
+    ],
+    "ribbons": [
+      "イベントリボン"
+    ],
+    "notes": "2014年5月3日〜6月1日、欧州各地で開催されたナショナルズの来場者に配布。",
+    "region": "欧州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06258",
+    "pokemonName": "マンムー",
+    "dexNo": 473,
+    "generation": 6,
+    "game": "X, Y",
+    "gameIds": [
+      "x",
+      "y"
+    ],
+    "eventName": "Arash Ommati's Mamoswine",
+    "distributionMethod": "ローカル通信",
+    "startDate": "2014-07-05",
+    "endDate": "2014-07-06",
+    "ot": "Arash",
+    "trainerId": "05034",
+    "metLocation": "ポケモンイベント",
+    "ball": "モンスターボール",
+    "level": 50,
+    "gender": "♂",
+    "ability": "あついしぼう",
+    "nature": "いじっぱり",
+    "heldItem": "こだわりスカーフ",
+    "moves": [
+      "つららばり",
+      "じしん",
+      "つららおとし",
+      "いわなだれ"
+    ],
+    "ribbons": [
+      "イベントリボン"
+    ],
+    "notes": "2014年7月5日〜6日、米国ナショナルズ（インディアナポリス、大会自体は7月4日〜6日）の来場者に配布。米国公式告知で配布を確認。",
+    "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06259",
+    "pokemonName": "カイリキー",
+    "dexNo": 68,
+    "generation": 6,
+    "game": "オメガルビー, アルファサファイア",
+    "gameIds": [
+      "omegaruby",
+      "alphasapphire"
+    ],
+    "eventName": "Mark McQuillan's Machamp",
+    "distributionMethod": "ローカル通信",
+    "startDate": "2016-05-14",
+    "endDate": "2016-06-12",
+    "ot": "﻿ScreenPeekaz",
+    "trainerId": "05146",
+    "metLocation": "バトルリゾート",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "gender": "♂",
+    "ability": "ノーガード",
+    "nature": "いじっぱり",
+    "heldItem": "オボンのみ",
+    "moves": [
+      "ばくれつパンチ",
+      "ストーンエッジ",
+      "ワイドガード",
+      "はたきおとす"
+    ],
+    "ribbons": [
+      "バトルチャンプリボン"
+    ],
+    "notes": "2016年5月14日〜6月12日、欧州各地のナショナルズ来場者に配布（英国リバプール5月14日・15日は公式告知で確認、ドイツ・カッセル5月21日・22日、イタリア・ミラノ6月11日・12日）。",
+    "region": "欧州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06260",
+    "pokemonName": "カイリキー",
+    "dexNo": 68,
+    "generation": 6,
+    "game": "オメガルビー, アルファサファイア",
+    "gameIds": [
+      "omegaruby",
+      "alphasapphire"
+    ],
+    "eventName": "Mark McQuillan's Machamp",
+    "distributionMethod": "ローカル通信",
+    "startDate": "2016-07-01",
+    "endDate": "2016-07-03",
+    "ot": "﻿ScreenPeekaz",
+    "trainerId": "05146",
+    "metLocation": "バトルリゾート",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "gender": "♂",
+    "ability": "ノーガード",
+    "nature": "いじっぱり",
+    "heldItem": "オボンのみ",
+    "moves": [
+      "ばくれつパンチ",
+      "ストーンエッジ",
+      "ワイドガード",
+      "はたきおとす"
+    ],
+    "ribbons": [
+      "バトルチャンプリボン"
+    ],
+    "notes": "2016年7月1日〜3日、米国ナショナルズの来場者に配布。",
+    "region": "北米",
+    "shiny": "あり"
   },
   {
     "managementId": "07001",

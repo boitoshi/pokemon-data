@@ -23339,6 +23339,26 @@
     "shiny": "あり"
   },
   {
+    "managementId": "07168",
+    "pokemonName": "ミミッキュ",
+    "dexNo": 778,
+    "generation": 7,
+    "game": "サン, ムーン",
+    "gameIds": [
+      "sun",
+      "moon"
+    ],
+    "eventName": "化ける！ピカピカゴーストパーティ！",
+    "distributionMethod": "ローカル通信",
+    "distributionLocation": "ポケモンセンター・ポケモンストア",
+    "startDate": "2017-09-22",
+    "endDate": "2017-11-16",
+    "ability": "ばけのかわ",
+    "notes": "2017年のポケモンセンターのハロウィン企画「化ける！ピカピカゴーストパーティ！」で、色違いのミミッキュをサン・ムーンにプレゼント。店頭配布のみ（インターネットによるプレゼントなし）、期間中1ソフトにつき1回まで。Lv・親名・ID・技などの個体細目と通信方式の内訳は一次資料で未確認のため未記入。",
+    "region": "日本",
+    "shiny": "あり"
+  },
+  {
     "managementId": "08076",
     "pokemonName": "ルカリオ",
     "dexNo": 448,

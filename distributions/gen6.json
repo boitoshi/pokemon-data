@@ -10013,6 +10013,431 @@
         "kind": "self",
         "note": "Serebii イベントDB（events/dex/716）の Europe 分（Descartes、ID 05026、2016-05-13〜07-18）による。Hyper Japan 分は任天堂英国公式記事で存在を確認。"
       }
+    },
+    {
+      "id": "06264",
+      "dexNo": 374,
+      "pokemonName": "ダンバル",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいのダンバル　プレゼント",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2014-11-28",
+      "endDate": "2015-01-14",
+      "region": [
+        "韓国"
+      ],
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "オンラインプレゼント",
+      "heldItem": "メタグロスナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "성호"
+      },
+      "trainerId": "11214",
+      "moves": [
+        "てかげん",
+        "アイアンヘッド",
+        "しねんのずつき",
+        "てっぺき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ORAS 早期購入特典の韓国分。親名は韓国語版のダイゴ（성호）で、ID は他地域分（06003・06261・06262）と同一。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/374）の South Korea 行による。"
+      }
+    },
+    {
+      "id": "06265",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ゲンガー（Phantom Forces 連動・北米）",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "GameStop（米国）／EB Games（カナダ）",
+      "startDate": "2014-10-13",
+      "endDate": "2014-10-26",
+      "region": [
+        "北米"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ゲンガナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "OCT2014"
+      },
+      "trainerId": "10134",
+      "moves": [
+        "シャドーボール",
+        "ヘドロウェーブ",
+        "あやしいひかり",
+        "おどろかす"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンカードゲーム拡張パック「Phantom Forces」連動の店舗コード配布。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/094）の各地域行による。"
+      }
+    },
+    {
+      "id": "06266",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ゲンガー（Phantom Forces 連動・欧州）",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "GAME（英国）ほか欧州各国の店舗",
+      "startDate": "2014-10-15",
+      "endDate": "2014-11-05",
+      "region": [
+        "欧州"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ゲンガナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "OCT2014"
+      },
+      "trainerId": "10134",
+      "moves": [
+        "シャドーボール",
+        "ヘドロウェーブ",
+        "あやしいひかり",
+        "おどろかす"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ポケモンカードゲーム拡張パック「Phantom Forces」連動の店舗コード配布。北米分（06265）と親名・ID は同一で期間が異なる。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/094）の各地域行による。"
+      }
+    },
+    {
+      "id": "06267",
+      "dexNo": 94,
+      "pokemonName": "ゲンガー",
+      "games": [
+        "x",
+        "y"
+      ],
+      "eventName": "ゲンガー（ORAS 予約特典・韓国）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2014-10-11",
+      "endDate": "2014-12-07",
+      "region": [
+        "韓国"
+      ],
+      "level": 25,
+      "gender": "♂",
+      "nature": "ランダム",
+      "ability": "ふゆう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ゲンガナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "ハロウィン"
+      },
+      "trainerId": "09134",
+      "moves": [
+        "シャドーボール",
+        "ヘドロウェーブ",
+        "あやしいひかり",
+        "おどろかす"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "韓国での ORAS 予約特典。日本分（06135）と親名・ID が同一。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/094）の各地域行による。"
+      }
+    },
+    {
+      "id": "06268",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "リザードン（SPRING 2015・英国）",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "GAME（英国）",
+      "startDate": "2015-04-03",
+      "endDate": "2015-07-03",
+      "region": [
+        "欧州"
+      ],
+      "level": 36,
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "リザードナイトY",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SPRING 2015"
+      },
+      "trainerId": "04015",
+      "moves": [
+        "オーバーヒート",
+        "ソーラービーム",
+        "きあいだま",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "英国 GAME の店舗コード配布。ドイツ分（06269）と ID は同一で親名が言語別になる。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/006）の各地域行による。"
+      }
+    },
+    {
+      "id": "06269",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "リザードン（FRÜHL. 2015・ドイツ）",
+      "distributionMethod": "シリアルコード",
+      "distributionLocation": "GameStop（ドイツ）",
+      "startDate": "2015-04-01",
+      "endDate": "2015-07-03",
+      "region": [
+        "欧州"
+      ],
+      "level": 36,
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "リザードナイトY",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "FRÜHL. 2015"
+      },
+      "trainerId": "04015",
+      "moves": [
+        "オーバーヒート",
+        "ソーラービーム",
+        "きあいだま",
+        "てをつなぐ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ドイツ GameStop の店舗コード配布。英国分（06268）と ID は同一で親名が言語別になる。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/006）の各地域行による。"
+      }
+    },
+    {
+      "id": "06270",
+      "dexNo": 6,
+      "pokemonName": "リザードン",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "リザードン（Olleh TV・韓国）",
+      "distributionMethod": "ローカル通信",
+      "distributionLocation": "Olleh TV 配布（韓国）",
+      "startDate": "2015-05-10",
+      "endDate": "2015-06-14",
+      "region": [
+        "韓国"
+      ],
+      "level": 36,
+      "nature": "ランダム",
+      "ability": "もうか",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "リザードナイトY",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "올레 tv"
+      },
+      "trainerId": "04305",
+      "moves": [
+        "オーバーヒート",
+        "ソーラービーム",
+        "きあいだま",
+        "はねやすめ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "韓国の Olleh TV 連動配布。欧州分（06268・06269）と技の一部（はねやすめ）と対象ソフトが異なる。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/006）の各地域行による。"
+      }
+    },
+    {
+      "id": "06271",
+      "dexNo": 716,
+      "pokemonName": "ゼルネアス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "色違いゼルネアス（XYZ・北米）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2016-05-11",
+      "endDate": "2016-05-17",
+      "region": [
+        "北米"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "フェアリーオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "XYZ"
+      },
+      "trainerId": "05116",
+      "moves": [
+        "ジオコントロール",
+        "ムーンフォース",
+        "アロマセラピー",
+        "きあいだま"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "アニメ「XYZ」連動の Fates Collide 配布の北米分。日本分（06052）・韓国分（06248）とは親名・ID が別。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/716）の America 行による。"
+      }
+    },
+    {
+      "id": "06272",
+      "dexNo": 717,
+      "pokemonName": "イベルタル",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "色違いイベルタル（XYZ・北米）",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2016-05-20",
+      "endDate": "2016-05-26",
+      "region": [
+        "北米"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ダークオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンアニメ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "XYZ"
+      },
+      "trainerId": "05206",
+      "moves": [
+        "デスウイング",
+        "ふいうち",
+        "あくのはどう",
+        "イカサマ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "アニメ「XYZ」連動の Fates Collide 配布の北米分。日本分（06053）・韓国分（06249）とは親名・ID が別。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/717）の America 行による。"
+      }
+    },
+    {
+      "id": "06273",
+      "dexNo": 717,
+      "pokemonName": "イベルタル",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "色違いイベルタル（欧州配信・Descartes）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-05-05",
+      "endDate": "2016-09-30",
+      "region": [
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "ダークオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Descartes"
+      },
+      "trainerId": "05026",
+      "moves": [
+        "デスウイング",
+        "ふいうち",
+        "あくのはどう",
+        "イカサマ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "欧州各国の店舗コード配布をまとめた期間（スペインのコミックサロン、ポルトガルの El Corte Inglés、スウェーデンの GameStop 等、国別の日程は異なる）。ゼルネアス分（06263）と対の配布。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/717）の Europe 行による。"
+      }
     }
   ]
 }

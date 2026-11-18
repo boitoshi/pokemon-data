@@ -4709,6 +4709,54 @@
         "kind": "bulbapedia",
         "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_V)"
       }
+    },
+    {
+      "id": "05126",
+      "dexNo": 376,
+      "pokemonName": "メタグロス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "Ray Rizzo's Metagross",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2013-05-11",
+      "endDate": "2013-07-07",
+      "region": [
+        "欧州",
+        "北米"
+      ],
+      "level": 45,
+      "nature": "いじっぱり",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ラムのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Ray"
+      },
+      "trainerId": "05113",
+      "moves": [
+        "コメットパンチ",
+        "じしん",
+        "しねんのずつき",
+        "まもる"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "event": {
+        "kind": "wcs",
+        "year": 2013
+      },
+      "notes": "2012年世界選手権優勝者 Ray Rizzo の使用個体の再現配布。使用個体が色違いだったため配布分も全数が色違い。2013年の各国代表決定戦（ミラノ／ボーフム／バーミンガム）と米国大会（インディアナポリス、07-05〜07）で配布。個体仕様はバルペディア、期間の外枠は Serebii による。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_V)"
+      }
     }
   ]
 }

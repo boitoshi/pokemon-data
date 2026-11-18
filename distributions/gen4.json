@@ -2337,6 +2337,232 @@
           "url": "http://web.archive.org/web/20100815075923/http://www.pokemon-sp.jp/news-sp/2010/08/0806_01.html"
         }
       ]
+    },
+    {
+      "id": "04061",
+      "dexNo": 350,
+      "pokemonName": "ミロカロス",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "2009 Video Game Championships Milotic",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-05-09",
+      "endDate": "2009-06-13",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "おくびょう",
+      "ability": "ふしぎなうろこ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "かえんだま",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "VGC09"
+      },
+      "trainerId": "05099",
+      "moves": [
+        "あまごい",
+        "じこさいせい",
+        "ハイドロポンプ",
+        "こごえるかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "event": {
+        "kind": "wcs",
+        "year": 2009
+      },
+      "notes": "2009年の米国ポケモン VGC 地域予選（シアトル〜ナッシュビル）で大会登録者に配布。存在は一次（米国大会公式）でも確認済み。期間・個体仕様はバルペディアによる。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_IV)"
+      }
+    },
+    {
+      "id": "04062",
+      "dexNo": 350,
+      "pokemonName": "ミロカロス",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "2009 Video Game Championships Milotic",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2009-05-30",
+      "endDate": "2009-05-30",
+      "region": [
+        "欧州"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "おくびょう",
+      "ability": "ふしぎなうろこ",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "かえんだま",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "VGC09"
+      },
+      "trainerId": "05309",
+      "moves": [
+        "あまごい",
+        "じこさいせい",
+        "ハイドロポンプ",
+        "こごえるかぜ"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "event": {
+        "kind": "wcs",
+        "year": 2009
+      },
+      "notes": "2009年の欧州 VGC 予選ロンドン大会（2009-05-30）で大会登録者に配布。同様の配布はベルリン（06-13）・パリ（06-20）の予選でも行われた（一次確認済み）が、国別の個体IDは未確認。期間・個体仕様はバルペディアによる。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_IV)"
+      }
+    },
+    {
+      "id": "04063",
+      "dexNo": 243,
+      "pokemonName": "ライコウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "GameStop Raikou",
+      "distributionMethod": "ローカル通信",
+      "distributionLocation": "GameStop店舗（米国・カナダ）",
+      "startDate": "2011-01-03",
+      "endDate": "2011-01-09",
+      "region": [
+        "北米"
+      ],
+      "level": 30,
+      "nature": "うっかりや",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ミクルのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "GAMESTP"
+      },
+      "trainerId": "01031",
+      "moves": [
+        "でんじほう",
+        "ウェザーボール",
+        "はどうだん",
+        "しんそく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_IV)"
+      }
+    },
+    {
+      "id": "04064",
+      "dexNo": 244,
+      "pokemonName": "エンテイ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "GameStop Entei",
+      "distributionMethod": "ローカル通信",
+      "distributionLocation": "GameStop店舗（米国・カナダ）",
+      "startDate": "2011-01-17",
+      "endDate": "2011-01-23",
+      "region": [
+        "北米"
+      ],
+      "level": 30,
+      "nature": "いじっぱり",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "イバンのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "GAMESTP"
+      },
+      "trainerId": "01171",
+      "moves": [
+        "フレアドライブ",
+        "ブレイククロー",
+        "とおぼえ",
+        "しんそく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_IV)"
+      }
+    },
+    {
+      "id": "04065",
+      "dexNo": 245,
+      "pokemonName": "スイクン",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "GameStop Suicune",
+      "distributionMethod": "ローカル通信",
+      "distributionLocation": "GameStop店舗（米国・カナダ）",
+      "startDate": "2011-01-31",
+      "endDate": "2011-02-06",
+      "region": [
+        "北米"
+      ],
+      "level": 30,
+      "nature": "のんき",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "レンブのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "GAMESTP"
+      },
+      "trainerId": "01311",
+      "moves": [
+        "ぜったいれいど",
+        "アクアリング",
+        "エアスラッシュ",
+        "しんそく"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_IV)"
+      }
     }
   ]
 }

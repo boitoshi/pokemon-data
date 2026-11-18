@@ -4660,6 +4660,55 @@
         "メモリアルリボン"
       ],
       "notes": "イギリス GAME、カナダ・オーストラリア EB Games など各国の店舗で配布（国により日程は異なる）。『ポケットモンスター X・Y』の発売を記念した色違い配布。"
+    },
+    {
+      "id": "05125",
+      "dexNo": 246,
+      "pokemonName": "ヨーギラス",
+      "games": [
+        "black",
+        "white",
+        "black2",
+        "white2"
+      ],
+      "eventName": "Video Game Championships 2012 Larvitar",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2012-03-03",
+      "endDate": "2012-07-01",
+      "region": [
+        "欧州",
+        "北米"
+      ],
+      "level": 5,
+      "gender": "♂",
+      "nature": "いじっぱり",
+      "ability": "こんじょう",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ヨプのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "VGC12"
+      },
+      "trainerId": "03032",
+      "moves": [
+        "かみつく",
+        "にらみつける",
+        "すなあらし",
+        "ばかぢから"
+      ],
+      "ribbons": [
+        "イベントリボン"
+      ],
+      "event": {
+        "kind": "wcs",
+        "year": 2012
+      },
+      "notes": "2012年の VGC 各国代表決定戦の来場者・参加者に配布。国別の日程は英国 2012-03-03、ドイツ 03-10、フランス 03-17、スペイン 03-24、イタリア 04-01、米国 06-30〜07-01。存在・方法・一部仕様は英国公式告知でも確認済み。期間・個体仕様はバルペディアによる。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_V)"
+      }
     }
   ]
 }

@@ -6308,6 +6308,46 @@
         "url": "https://web.archive.org/web/20171106070653id_/http://www.pokemon.co.jp/sp/ghost_party_2017/game/",
         "note": "公式特設サイト（Wayback Machine保存）で、企画名・期間（2017-09-22〜11-16）・実施店舗（全国のポケモンセンター・ポケモンストア）・対象ソフト（サン・ムーン）・色違いミミッキュの店頭プレゼントであることを確認。個体細目と通信方式の内訳は一次未確認。"
       }
+    },
+    {
+      "id": "07169",
+      "dexNo": 423,
+      "pokemonName": "トリトドン",
+      "form": "ひがしのうみ",
+      "games": [
+        "sun",
+        "moon",
+        "ultra_sun",
+        "ultra_moon"
+      ],
+      "eventName": "2018年世界チャンピオン Paulのトリトドン",
+      "distributionMethod": "ローカル通信",
+      "distributionLocation": "Greater Columbus Convention Center（2019年北米国際選手権会場）",
+      "startDate": "2019-06-21",
+      "endDate": "2019-06-23",
+      "region": [
+        "北米"
+      ],
+      "level": 50,
+      "gender": "♀",
+      "nature": "おだやか",
+      "ability": "よびみず",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Paul"
+      },
+      "trainerId": "062219",
+      "moves": [
+        "だいちのちから",
+        "れいとうビーム",
+        "じこさいせい",
+        "まもる"
+      ],
+      "notes": "2018年世界選手権優勝者 Paul Ruiz が大会で実際に使った個体の再現配布。使用個体が色違いだったため、配布分も全数が色違いになる（色違い固定）。存在・会場・Lv・技は公式告知（一次）で確認。親名・ID と色違い固定は Serebii のイベントDB による。ボール・リボン・出会った場所は確認した出典に記載がなく未記入。",
+      "source": {
+        "kind": "self",
+        "note": "公式の配布告知（pokemon.com、Wayback 保存）で存在・会場・期間・Lv・性格・特性・技を確認。個体仕様の残りは Serebii イベントDB（events/dex/423）による。"
+      }
     }
   ]
 }

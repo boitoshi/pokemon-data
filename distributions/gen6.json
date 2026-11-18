@@ -9888,6 +9888,131 @@
         "バトルチャンプリボン"
       ],
       "notes": "2016年7月1日〜3日、米国ナショナルズの来場者に配布。"
+    },
+    {
+      "id": "06261",
+      "dexNo": 374,
+      "pokemonName": "ダンバル",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいのダンバル　プレゼント",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2014-11-21",
+      "endDate": "2015-01-14",
+      "region": [
+        "北米",
+        "豪州"
+      ],
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "オンラインプレゼント",
+      "heldItem": "メタグロスナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Steven"
+      },
+      "trainerId": "11214",
+      "moves": [
+        "てかげん",
+        "アイアンヘッド",
+        "しねんのずつき",
+        "てっぺき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "『オメガルビー・アルファサファイア』発売時の早期購入特典としてインターネット配布された、ダイゴ（Steven）の色違いダンバル。日本分（06003）と同一個体（親名・ID 一致）。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/374）で北米・欧州・豪州の各地域分を確認。英国での実施は任天堂英国の ORAS 商品ページ（一次）でも確認済み。"
+      }
+    },
+    {
+      "id": "06262",
+      "dexNo": 374,
+      "pokemonName": "ダンバル",
+      "games": [
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "いろちがいのダンバル　プレゼント",
+      "distributionMethod": "ニンテンドーネットワーク",
+      "startDate": "2014-11-28",
+      "endDate": "2015-01-14",
+      "region": [
+        "欧州"
+      ],
+      "level": 5,
+      "nature": "ランダム",
+      "ability": "クリアボディ",
+      "ball": "プレシャスボール",
+      "metLocation": "オンラインプレゼント",
+      "heldItem": "メタグロスナイト",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Steven"
+      },
+      "trainerId": "11214",
+      "moves": [
+        "てかげん",
+        "アイアンヘッド",
+        "しねんのずつき",
+        "てっぺき"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "『オメガルビー・アルファサファイア』発売時の早期購入特典としてインターネット配布された、ダイゴ（Steven）の色違いダンバル。日本分（06003）と同一個体（親名・ID 一致）。欧州分は発売日（2014-11-28）に合わせて開始が1週間遅い。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/374）で北米・欧州・豪州の各地域分を確認。英国での実施は任天堂英国の ORAS 商品ページ（一次）でも確認済み。"
+      }
+    },
+    {
+      "id": "06263",
+      "dexNo": 716,
+      "pokemonName": "ゼルネアス",
+      "games": [
+        "x",
+        "y",
+        "omegaruby",
+        "alphasapphire"
+      ],
+      "eventName": "色違いゼルネアス（欧州配信・Descartes）",
+      "distributionMethod": "シリアルコード",
+      "startDate": "2016-05-13",
+      "endDate": "2016-07-18",
+      "region": [
+        "欧州"
+      ],
+      "level": 100,
+      "nature": "ランダム",
+      "ability": "フェアリーオーラ",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "Descartes"
+      },
+      "trainerId": "05026",
+      "moves": [
+        "ジオコントロール",
+        "ムーンフォース",
+        "アロマセラピー",
+        "きあいだま"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "欧州各国の店舗でシリアルコードを配布。イタリア語版での親名は Cartesio。ロンドンの Hyper Japan 2016（2016-07-15〜17）でも色違いゼルネアスのコードが配られた（任天堂英国の告知で一次確認）が、本配布と同一のものかは一次では未確認。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/716）の Europe 分（Descartes、ID 05026、2016-05-13〜07-18）による。Hyper Japan 分は任天堂英国公式記事で存在を確認。"
+      }
     }
   ]
 }

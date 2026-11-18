@@ -2563,6 +2563,285 @@
         "kind": "bulbapedia",
         "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_IV)"
       }
+    },
+    {
+      "id": "04066",
+      "dexNo": 133,
+      "pokemonName": "イーブイ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "2010 Video Game Championships Eevee",
+      "distributionMethod": "ローカル通信",
+      "startDate": "2010-05-08",
+      "endDate": "2010-08-15",
+      "region": [
+        "北米",
+        "欧州"
+      ],
+      "level": 50,
+      "gender": "♂",
+      "nature": "がんばりや",
+      "ability": "てきおうりょく",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "きあいのタスキ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "VGC10"
+      },
+      "trainerId": "05080",
+      "moves": [
+        "アイアンテール",
+        "きりふだ",
+        "じたばた",
+        "でんこうせっか"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "event": {
+        "kind": "wcs",
+        "year": 2010
+      },
+      "notes": "2010年の VGC 各国予選と世界大会で配布。米国の予選日程（05-08〜06-28）はバルペディア、欧州予選（英国 05-29、ドイツ 06-05、フランス 06-12、スペイン 06-19）と全体の終端 08-15 は Serebii による。個体仕様はバルペディア。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_IV)"
+      }
+    },
+    {
+      "id": "04067",
+      "dexNo": 172,
+      "pokemonName": "ピチュー",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "GameStop Pichu",
+      "distributionMethod": "ローカル通信",
+      "distributionLocation": "GameStop店舗（米国）",
+      "startDate": "2010-01-30",
+      "endDate": "2010-02-14",
+      "region": [
+        "北米"
+      ],
+      "level": 30,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "かわらわずのいし",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "GAMESTP"
+      },
+      "trainerId": "01300",
+      "moves": [
+        "じゅうでん",
+        "ボルテッカー",
+        "がむしゃら",
+        "こらえる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ピカチュウカラーのピチュー。HGSS へ送るとギザみみピチューが仲間になる。個体仕様・期間はバルペディアによる。",
+      "source": {
+        "kind": "bulbapedia",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_English_event_Pok%C3%A9mon_distributions_(Generation_IV)"
+      }
+    },
+    {
+      "id": "04068",
+      "dexNo": 172,
+      "pokemonName": "ピチュー",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "eventName": "SPR2010 Pichu",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2010-03-05",
+      "endDate": "2010-03-25",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
+      "level": 30,
+      "gender": "♂",
+      "nature": "ようき",
+      "ability": "せいでんき",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "かわらわずのいし",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SPR2010"
+      },
+      "trainerId": "03050",
+      "moves": [
+        "ボルテッカー",
+        "じゅうでん",
+        "がむしゃら",
+        "こらえる"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "ピカチュウカラーのピチューの Wi-Fi 版。欧州では言語別に PRI2010／FRÜ2010 等の親名になる。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/172）の SPR2010 行（America／Europe／Others）による。"
+      }
+    },
+    {
+      "id": "04069",
+      "dexNo": 243,
+      "pokemonName": "ライコウ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "WIN2011 Raikou",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2011-02-07",
+      "endDate": "2011-02-13",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
+      "level": 30,
+      "nature": "うっかりや",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "ミクルのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "WIN2011"
+      },
+      "trainerId": "02071",
+      "moves": [
+        "でんじほう",
+        "はどうだん",
+        "しんそく",
+        "ウェザーボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "GameStop 店頭版（04063〜04065）と同一個体仕様の Wi-Fi 版。欧州では言語別に INV2011／HVR2011 等の親名になる。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/243）の WIN2011 行（America／Europe／Others）による。"
+      }
+    },
+    {
+      "id": "04070",
+      "dexNo": 244,
+      "pokemonName": "エンテイ",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "WIN2011 Entei",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2011-02-14",
+      "endDate": "2011-02-20",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
+      "level": 30,
+      "nature": "いじっぱり",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "イバンのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "WIN2011"
+      },
+      "trainerId": "02141",
+      "moves": [
+        "フレアドライブ",
+        "とおぼえ",
+        "しんそく",
+        "ブレイククロー"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "GameStop 店頭版（04063〜04065）と同一個体仕様の Wi-Fi 版。欧州では言語別に INV2011／HVR2011 等の親名になる。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/244）の WIN2011 行（America／Europe／Others）による。"
+      }
+    },
+    {
+      "id": "04071",
+      "dexNo": 245,
+      "pokemonName": "スイクン",
+      "games": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "eventName": "WIN2011 Suicune",
+      "distributionMethod": "Wi-Fi",
+      "startDate": "2011-02-21",
+      "endDate": "2011-02-27",
+      "region": [
+        "北米",
+        "欧州",
+        "豪州"
+      ],
+      "level": 30,
+      "nature": "のんき",
+      "ability": "プレッシャー",
+      "ball": "プレシャスボール",
+      "metLocation": "ポケモンイベント",
+      "heldItem": "レンブのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "WIN2011"
+      },
+      "trainerId": "02211",
+      "moves": [
+        "ぜったいれいど",
+        "エアスラッシュ",
+        "しんそく",
+        "アクアリング"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "GameStop 店頭版（04063〜04065）と同一個体仕様の Wi-Fi 版。欧州では言語別に INV2011／HVR2011 等の親名になる。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/245）の WIN2011 行（America／Europe／Others）による。"
+      }
     }
   ]
 }

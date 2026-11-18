@@ -6348,6 +6348,48 @@
         "kind": "self",
         "note": "公式の配布告知（pokemon.com、Wayback 保存）で存在・会場・期間・Lv・性格・特性・技を確認。個体仕様の残りは Serebii イベントDB（events/dex/423）による。"
       }
+    },
+    {
+      "id": "07170",
+      "dexNo": 785,
+      "pokemonName": "カプ・コケコ",
+      "games": [
+        "sun",
+        "moon"
+      ],
+      "eventName": "カプ・コケコ（Spring Pokémon League・韓国）",
+      "distributionMethod": "ローカル通信",
+      "distributionLocation": "Spring Pokémon League 会場（韓国）",
+      "startDate": "2017-04-08",
+      "endDate": "2017-04-09",
+      "region": [
+        "韓国"
+      ],
+      "level": 60,
+      "nature": "おくびょう",
+      "ability": "エレキメイカー",
+      "ball": "プレシャスボール",
+      "metLocation": "すてきなばしょ",
+      "heldItem": "エレキシード",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "멜레멜레"
+      },
+      "trainerId": "170408",
+      "moves": [
+        "しぜんのいかり",
+        "ほうでん",
+        "こうそくいどう",
+        "エレキボール"
+      ],
+      "ribbons": [
+        "クラシックリボン"
+      ],
+      "notes": "韓国の Spring Pokémon League 会場配布。日本分（07008）・台湾分（07015／07098）・北米欧州分（07055）とは親名・ID が別の韓国版。個体仕様・期間は Serebii のイベントDB による。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/785）の South Korea 行による。"
+      }
     }
   ]
 }

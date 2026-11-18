@@ -1847,6 +1847,68 @@
     ]
   },
   {
+    "managementId": "03052",
+    "pokemonName": "ジグザグマ",
+    "dexNo": 263,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "gameIds": [
+      "ruby",
+      "sapphire"
+    ],
+    "eventName": "きのみプログラム更新のジグザグマ",
+    "distributionMethod": "店頭配布",
+    "startDate": "2004-03-17",
+    "endDate": "2007-04-22",
+    "ot": "SAPHIRE / RUBY",
+    "trainerId": "30317",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "ものひろい",
+    "nature": "ランダム",
+    "heldItem": "チイラのみ",
+    "moves": [
+      "たいあたり",
+      "なきごえ",
+      "しっぽをふる"
+    ],
+    "notes": "Berry Fix（きのみプログラム更新）用の色違いジグザグマの米国分。親名は受け取りソフトで SAPHIRE／RUBY の2種。",
+    "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "03053",
+    "pokemonName": "ジグザグマ",
+    "dexNo": 263,
+    "generation": 3,
+    "game": "ルビー, サファイア",
+    "gameIds": [
+      "ruby",
+      "sapphire"
+    ],
+    "eventName": "きのみプログラム更新のジグザグマ",
+    "distributionMethod": "店頭配布",
+    "startDate": "2004-03-17",
+    "endDate": "2007-07-17",
+    "ot": "SAPHIRE",
+    "trainerId": "30317",
+    "ball": "モンスターボール",
+    "level": 5,
+    "gender": "ランダム",
+    "ability": "ものひろい",
+    "nature": "ランダム",
+    "heldItem": "チイラのみ",
+    "moves": [
+      "たいあたり",
+      "なきごえ",
+      "しっぽをふる"
+    ],
+    "notes": "Berry Fix 用の色違いジグザグマのドイツ分。米国分（03052）と親名・ID は同じで、掲載上の終了日が異なる。",
+    "region": "欧州",
+    "shiny": "あり"
+  },
+  {
     "managementId": "04001",
     "pokemonName": "ペラップ",
     "dexNo": 441,
@@ -4065,6 +4127,238 @@
       "クラシックリボン"
     ],
     "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "04066",
+    "pokemonName": "イーブイ",
+    "dexNo": 133,
+    "generation": 4,
+    "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
+    "gameIds": [
+      "diamond",
+      "pearl",
+      "platinum",
+      "heartgold",
+      "soulsilver"
+    ],
+    "eventName": "2010 Video Game Championships Eevee",
+    "tournamentType": "WCS",
+    "tournamentYear": 2010,
+    "distributionMethod": "ローカル通信",
+    "startDate": "2010-05-08",
+    "endDate": "2010-08-15",
+    "ot": "VGC10",
+    "trainerId": "05080",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 50,
+    "gender": "♂",
+    "ability": "てきおうりょく",
+    "nature": "がんばりや",
+    "heldItem": "きあいのタスキ",
+    "moves": [
+      "アイアンテール",
+      "きりふだ",
+      "じたばた",
+      "でんこうせっか"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "2010年の VGC 各国予選と世界大会で配布。米国の予選日程（05-08〜06-28）はバルペディア、欧州予選（英国 05-29、ドイツ 06-05、フランス 06-12、スペイン 06-19）と全体の終端 08-15 は Serebii による。個体仕様はバルペディア。",
+    "region": "北米,欧州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "04067",
+    "pokemonName": "ピチュー",
+    "dexNo": 172,
+    "generation": 4,
+    "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
+    "gameIds": [
+      "diamond",
+      "pearl",
+      "platinum",
+      "heartgold",
+      "soulsilver"
+    ],
+    "eventName": "GameStop Pichu",
+    "distributionMethod": "ローカル通信",
+    "distributionLocation": "GameStop店舗（米国）",
+    "startDate": "2010-01-30",
+    "endDate": "2010-02-14",
+    "ot": "GAMESTP",
+    "trainerId": "01300",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 30,
+    "gender": "♂",
+    "ability": "せいでんき",
+    "nature": "ようき",
+    "heldItem": "かわらわずのいし",
+    "moves": [
+      "じゅうでん",
+      "ボルテッカー",
+      "がむしゃら",
+      "こらえる"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ピカチュウカラーのピチュー。HGSS へ送るとギザみみピチューが仲間になる。個体仕様・期間はバルペディアによる。",
+    "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "04068",
+    "pokemonName": "ピチュー",
+    "dexNo": 172,
+    "generation": 4,
+    "game": "ダイヤモンド, パール, プラチナ",
+    "gameIds": [
+      "diamond",
+      "pearl",
+      "platinum"
+    ],
+    "eventName": "SPR2010 Pichu",
+    "distributionMethod": "Wi-Fi",
+    "startDate": "2010-03-05",
+    "endDate": "2010-03-25",
+    "ot": "SPR2010",
+    "trainerId": "03050",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 30,
+    "gender": "♂",
+    "ability": "せいでんき",
+    "nature": "ようき",
+    "heldItem": "かわらわずのいし",
+    "moves": [
+      "ボルテッカー",
+      "じゅうでん",
+      "がむしゃら",
+      "こらえる"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ピカチュウカラーのピチューの Wi-Fi 版。欧州では言語別に PRI2010／FRÜ2010 等の親名になる。個体仕様・期間は Serebii のイベントDB による。",
+    "region": "北米,欧州,豪州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "04069",
+    "pokemonName": "ライコウ",
+    "dexNo": 243,
+    "generation": 4,
+    "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
+    "gameIds": [
+      "diamond",
+      "pearl",
+      "platinum",
+      "heartgold",
+      "soulsilver"
+    ],
+    "eventName": "WIN2011 Raikou",
+    "distributionMethod": "Wi-Fi",
+    "startDate": "2011-02-07",
+    "endDate": "2011-02-13",
+    "ot": "WIN2011",
+    "trainerId": "02071",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 30,
+    "ability": "プレッシャー",
+    "nature": "うっかりや",
+    "heldItem": "ミクルのみ",
+    "moves": [
+      "でんじほう",
+      "はどうだん",
+      "しんそく",
+      "ウェザーボール"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "GameStop 店頭版（04063〜04065）と同一個体仕様の Wi-Fi 版。欧州では言語別に INV2011／HVR2011 等の親名になる。個体仕様・期間は Serebii のイベントDB による。",
+    "region": "北米,欧州,豪州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "04070",
+    "pokemonName": "エンテイ",
+    "dexNo": 244,
+    "generation": 4,
+    "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
+    "gameIds": [
+      "diamond",
+      "pearl",
+      "platinum",
+      "heartgold",
+      "soulsilver"
+    ],
+    "eventName": "WIN2011 Entei",
+    "distributionMethod": "Wi-Fi",
+    "startDate": "2011-02-14",
+    "endDate": "2011-02-20",
+    "ot": "WIN2011",
+    "trainerId": "02141",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 30,
+    "ability": "プレッシャー",
+    "nature": "いじっぱり",
+    "heldItem": "イバンのみ",
+    "moves": [
+      "フレアドライブ",
+      "とおぼえ",
+      "しんそく",
+      "ブレイククロー"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "GameStop 店頭版（04063〜04065）と同一個体仕様の Wi-Fi 版。欧州では言語別に INV2011／HVR2011 等の親名になる。個体仕様・期間は Serebii のイベントDB による。",
+    "region": "北米,欧州,豪州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "04071",
+    "pokemonName": "スイクン",
+    "dexNo": 245,
+    "generation": 4,
+    "game": "ダイヤモンド, パール, プラチナ, ハートゴールド, ソウルシルバー",
+    "gameIds": [
+      "diamond",
+      "pearl",
+      "platinum",
+      "heartgold",
+      "soulsilver"
+    ],
+    "eventName": "WIN2011 Suicune",
+    "distributionMethod": "Wi-Fi",
+    "startDate": "2011-02-21",
+    "endDate": "2011-02-27",
+    "ot": "WIN2011",
+    "trainerId": "02211",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 30,
+    "ability": "プレッシャー",
+    "nature": "のんき",
+    "heldItem": "レンブのみ",
+    "moves": [
+      "ぜったいれいど",
+      "エアスラッシュ",
+      "しんそく",
+      "アクアリング"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "GameStop 店頭版（04063〜04065）と同一個体仕様の Wi-Fi 版。欧州では言語別に INV2011／HVR2011 等の親名になる。個体仕様・期間は Serebii のイベントDB による。",
+    "region": "北米,欧州,豪州",
     "shiny": "あり"
   },
   {
@@ -8524,6 +8818,45 @@
       "イベントリボン"
     ],
     "notes": "2012年の VGC 各国代表決定戦の来場者・参加者に配布。国別の日程は英国 2012-03-03、ドイツ 03-10、フランス 03-17、スペイン 03-24、イタリア 04-01、米国 06-30〜07-01。存在・方法・一部仕様は英国公式告知でも確認済み。期間・個体仕様はバルペディアによる。",
+    "region": "欧州,北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "05126",
+    "pokemonName": "メタグロス",
+    "dexNo": 376,
+    "generation": 5,
+    "game": "ブラック, ホワイト, ブラック2, ホワイト2",
+    "gameIds": [
+      "black",
+      "white",
+      "black2",
+      "white2"
+    ],
+    "eventName": "Ray Rizzo's Metagross",
+    "tournamentType": "WCS",
+    "tournamentYear": 2013,
+    "distributionMethod": "ローカル通信",
+    "startDate": "2013-05-11",
+    "endDate": "2013-07-07",
+    "ot": "Ray",
+    "trainerId": "05113",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 45,
+    "ability": "クリアボディ",
+    "nature": "いじっぱり",
+    "heldItem": "ラムのみ",
+    "moves": [
+      "コメットパンチ",
+      "じしん",
+      "しねんのずつき",
+      "まもる"
+    ],
+    "ribbons": [
+      "イベントリボン"
+    ],
+    "notes": "2012年世界選手権優勝者 Ray Rizzo の使用個体の再現配布。使用個体が色違いだったため配布分も全数が色違い。2013年の各国代表決定戦（ミラノ／ボーフム／バーミンガム）と米国大会（インディアナポリス、07-05〜07）で配布。個体仕様はバルペディア、期間の外枠は Serebii による。",
     "region": "欧州,北米",
     "shiny": "あり"
   },
@@ -17830,6 +18163,371 @@
     "shiny": "あり"
   },
   {
+    "managementId": "06264",
+    "pokemonName": "ダンバル",
+    "dexNo": 374,
+    "generation": 6,
+    "game": "オメガルビー, アルファサファイア",
+    "gameIds": [
+      "omegaruby",
+      "alphasapphire"
+    ],
+    "eventName": "いろちがいのダンバル　プレゼント",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2014-11-28",
+    "endDate": "2015-01-14",
+    "ot": "성호",
+    "trainerId": "11214",
+    "metLocation": "オンラインプレゼント",
+    "ball": "プレシャスボール",
+    "level": 5,
+    "ability": "クリアボディ",
+    "nature": "ランダム",
+    "heldItem": "メタグロスナイト",
+    "moves": [
+      "てかげん",
+      "アイアンヘッド",
+      "しねんのずつき",
+      "てっぺき"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ORAS 早期購入特典の韓国分。親名は韓国語版のダイゴ（성호）で、ID は他地域分（06003・06261・06262）と同一。個体仕様・期間は Serebii のイベントDB による。",
+    "region": "韓国",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06265",
+    "pokemonName": "ゲンガー",
+    "dexNo": 94,
+    "generation": 6,
+    "game": "X, Y",
+    "gameIds": [
+      "x",
+      "y"
+    ],
+    "eventName": "ゲンガー（Phantom Forces 連動・北米）",
+    "distributionMethod": "シリアルコード",
+    "distributionLocation": "GameStop（米国）／EB Games（カナダ）",
+    "startDate": "2014-10-13",
+    "endDate": "2014-10-26",
+    "ot": "OCT2014",
+    "trainerId": "10134",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 25,
+    "gender": "♂",
+    "ability": "ふゆう",
+    "nature": "ランダム",
+    "heldItem": "ゲンガナイト",
+    "moves": [
+      "シャドーボール",
+      "ヘドロウェーブ",
+      "あやしいひかり",
+      "おどろかす"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモンカードゲーム拡張パック「Phantom Forces」連動の店舗コード配布。",
+    "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06266",
+    "pokemonName": "ゲンガー",
+    "dexNo": 94,
+    "generation": 6,
+    "game": "X, Y",
+    "gameIds": [
+      "x",
+      "y"
+    ],
+    "eventName": "ゲンガー（Phantom Forces 連動・欧州）",
+    "distributionMethod": "シリアルコード",
+    "distributionLocation": "GAME（英国）ほか欧州各国の店舗",
+    "startDate": "2014-10-15",
+    "endDate": "2014-11-05",
+    "ot": "OCT2014",
+    "trainerId": "10134",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 25,
+    "gender": "♂",
+    "ability": "ふゆう",
+    "nature": "ランダム",
+    "heldItem": "ゲンガナイト",
+    "moves": [
+      "シャドーボール",
+      "ヘドロウェーブ",
+      "あやしいひかり",
+      "おどろかす"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ポケモンカードゲーム拡張パック「Phantom Forces」連動の店舗コード配布。北米分（06265）と親名・ID は同一で期間が異なる。",
+    "region": "欧州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06267",
+    "pokemonName": "ゲンガー",
+    "dexNo": 94,
+    "generation": 6,
+    "game": "X, Y",
+    "gameIds": [
+      "x",
+      "y"
+    ],
+    "eventName": "ゲンガー（ORAS 予約特典・韓国）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2014-10-11",
+    "endDate": "2014-12-07",
+    "ot": "ハロウィン",
+    "trainerId": "09134",
+    "metLocation": "ポケモンイベント",
+    "ball": "プレシャスボール",
+    "level": 25,
+    "gender": "♂",
+    "ability": "ふゆう",
+    "nature": "ランダム",
+    "heldItem": "ゲンガナイト",
+    "moves": [
+      "シャドーボール",
+      "ヘドロウェーブ",
+      "あやしいひかり",
+      "おどろかす"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "韓国での ORAS 予約特典。日本分（06135）と親名・ID が同一。",
+    "region": "韓国",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06268",
+    "pokemonName": "リザードン",
+    "dexNo": 6,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "gameIds": [
+      "x",
+      "y",
+      "omegaruby",
+      "alphasapphire"
+    ],
+    "eventName": "リザードン（SPRING 2015・英国）",
+    "distributionMethod": "シリアルコード",
+    "distributionLocation": "GAME（英国）",
+    "startDate": "2015-04-03",
+    "endDate": "2015-07-03",
+    "ot": "SPRING 2015",
+    "trainerId": "04015",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 36,
+    "ability": "もうか",
+    "nature": "ランダム",
+    "heldItem": "リザードナイトY",
+    "moves": [
+      "オーバーヒート",
+      "ソーラービーム",
+      "きあいだま",
+      "てをつなぐ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "英国 GAME の店舗コード配布。ドイツ分（06269）と ID は同一で親名が言語別になる。",
+    "region": "欧州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06269",
+    "pokemonName": "リザードン",
+    "dexNo": 6,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "gameIds": [
+      "x",
+      "y",
+      "omegaruby",
+      "alphasapphire"
+    ],
+    "eventName": "リザードン（FRÜHL. 2015・ドイツ）",
+    "distributionMethod": "シリアルコード",
+    "distributionLocation": "GameStop（ドイツ）",
+    "startDate": "2015-04-01",
+    "endDate": "2015-07-03",
+    "ot": "FRÜHL. 2015",
+    "trainerId": "04015",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 36,
+    "ability": "もうか",
+    "nature": "ランダム",
+    "heldItem": "リザードナイトY",
+    "moves": [
+      "オーバーヒート",
+      "ソーラービーム",
+      "きあいだま",
+      "てをつなぐ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "ドイツ GameStop の店舗コード配布。英国分（06268）と ID は同一で親名が言語別になる。",
+    "region": "欧州",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06270",
+    "pokemonName": "リザードン",
+    "dexNo": 6,
+    "generation": 6,
+    "game": "オメガルビー, アルファサファイア",
+    "gameIds": [
+      "omegaruby",
+      "alphasapphire"
+    ],
+    "eventName": "リザードン（Olleh TV・韓国）",
+    "distributionMethod": "ローカル通信",
+    "distributionLocation": "Olleh TV 配布（韓国）",
+    "startDate": "2015-05-10",
+    "endDate": "2015-06-14",
+    "ot": "올레 tv",
+    "trainerId": "04305",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 36,
+    "ability": "もうか",
+    "nature": "ランダム",
+    "heldItem": "リザードナイトY",
+    "moves": [
+      "オーバーヒート",
+      "ソーラービーム",
+      "きあいだま",
+      "はねやすめ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "韓国の Olleh TV 連動配布。欧州分（06268・06269）と技の一部（はねやすめ）と対象ソフトが異なる。",
+    "region": "韓国",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06271",
+    "pokemonName": "ゼルネアス",
+    "dexNo": 716,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "gameIds": [
+      "x",
+      "y",
+      "omegaruby",
+      "alphasapphire"
+    ],
+    "eventName": "色違いゼルネアス（XYZ・北米）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2016-05-11",
+    "endDate": "2016-05-17",
+    "ot": "XYZ",
+    "trainerId": "05116",
+    "metLocation": "ポケモンアニメ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "フェアリーオーラ",
+    "nature": "ランダム",
+    "moves": [
+      "ジオコントロール",
+      "ムーンフォース",
+      "アロマセラピー",
+      "きあいだま"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "アニメ「XYZ」連動の Fates Collide 配布の北米分。日本分（06052）・韓国分（06248）とは親名・ID が別。個体仕様・期間は Serebii のイベントDB による。",
+    "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06272",
+    "pokemonName": "イベルタル",
+    "dexNo": 717,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "gameIds": [
+      "x",
+      "y",
+      "omegaruby",
+      "alphasapphire"
+    ],
+    "eventName": "色違いイベルタル（XYZ・北米）",
+    "distributionMethod": "ニンテンドーネットワーク",
+    "startDate": "2016-05-20",
+    "endDate": "2016-05-26",
+    "ot": "XYZ",
+    "trainerId": "05206",
+    "metLocation": "ポケモンアニメ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "ダークオーラ",
+    "nature": "ランダム",
+    "moves": [
+      "デスウイング",
+      "ふいうち",
+      "あくのはどう",
+      "イカサマ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "アニメ「XYZ」連動の Fates Collide 配布の北米分。日本分（06053）・韓国分（06249）とは親名・ID が別。個体仕様・期間は Serebii のイベントDB による。",
+    "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "06273",
+    "pokemonName": "イベルタル",
+    "dexNo": 717,
+    "generation": 6,
+    "game": "X, Y, オメガルビー, アルファサファイア",
+    "gameIds": [
+      "x",
+      "y",
+      "omegaruby",
+      "alphasapphire"
+    ],
+    "eventName": "色違いイベルタル（欧州配信・Descartes）",
+    "distributionMethod": "シリアルコード",
+    "startDate": "2016-05-05",
+    "endDate": "2016-09-30",
+    "ot": "Descartes",
+    "trainerId": "05026",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 100,
+    "ability": "ダークオーラ",
+    "nature": "ランダム",
+    "moves": [
+      "デスウイング",
+      "ふいうち",
+      "あくのはどう",
+      "イカサマ"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "欧州各国の店舗コード配布をまとめた期間（スペインのコミックサロン、ポルトガルの El Corte Inglés、スウェーデンの GameStop 等、国別の日程は異なる）。ゼルネアス分（06263）と対の配布。個体仕様・期間は Serebii のイベントDB による。",
+    "region": "欧州",
+    "shiny": "あり"
+  },
+  {
     "managementId": "07001",
     "pokemonName": "ゴンベ",
     "dexNo": 446,
@@ -23727,6 +24425,42 @@
     ],
     "notes": "2018年世界選手権優勝者 Paul Ruiz が大会で実際に使った個体の再現配布。使用個体が色違いだったため、配布分も全数が色違いになる（色違い固定）。存在・会場・Lv・技は公式告知（一次）で確認。親名・ID と色違い固定は Serebii のイベントDB による。ボール・リボン・出会った場所は確認した出典に記載がなく未記入。",
     "region": "北米",
+    "shiny": "あり"
+  },
+  {
+    "managementId": "07170",
+    "pokemonName": "カプ・コケコ",
+    "dexNo": 785,
+    "generation": 7,
+    "game": "サン, ムーン",
+    "gameIds": [
+      "sun",
+      "moon"
+    ],
+    "eventName": "カプ・コケコ（Spring Pokémon League・韓国）",
+    "distributionMethod": "ローカル通信",
+    "distributionLocation": "Spring Pokémon League 会場（韓国）",
+    "startDate": "2017-04-08",
+    "endDate": "2017-04-09",
+    "ot": "멜레멜레",
+    "trainerId": "170408",
+    "metLocation": "すてきなばしょ",
+    "ball": "プレシャスボール",
+    "level": 60,
+    "ability": "エレキメイカー",
+    "nature": "おくびょう",
+    "heldItem": "エレキシード",
+    "moves": [
+      "しぜんのいかり",
+      "ほうでん",
+      "こうそくいどう",
+      "エレキボール"
+    ],
+    "ribbons": [
+      "クラシックリボン"
+    ],
+    "notes": "韓国の Spring Pokémon League 会場配布。日本分（07008）・台湾分（07015／07098）・北米欧州分（07055）とは親名・ID が別の韓国版。個体仕様・期間は Serebii のイベントDB による。",
+    "region": "韓国",
     "shiny": "あり"
   },
   {

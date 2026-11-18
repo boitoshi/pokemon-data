@@ -2055,6 +2055,80 @@
           "label": "Pokémon HOME トピックス（ソフト図鑑を完成させてミツリンの「セレビィ」を受け取ろう！）"
         }
       ]
+    },
+    {
+      "id": "03052",
+      "dexNo": 263,
+      "pokemonName": "ジグザグマ",
+      "games": [
+        "ruby",
+        "sapphire"
+      ],
+      "eventName": "きのみプログラム更新のジグザグマ",
+      "distributionMethod": "店頭配布",
+      "startDate": "2004-03-17",
+      "endDate": "2007-04-22",
+      "region": [
+        "北米"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ものひろい",
+      "ball": "モンスターボール",
+      "heldItem": "チイラのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SAPHIRE / RUBY"
+      },
+      "trainerId": "30317",
+      "moves": [
+        "たいあたり",
+        "なきごえ",
+        "しっぽをふる"
+      ],
+      "notes": "Berry Fix（きのみプログラム更新）用の色違いジグザグマの米国分。親名は受け取りソフトで SAPHIRE／RUBY の2種。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/263）の Berry Fix 行による。日本分（03012）の海外版。"
+      }
+    },
+    {
+      "id": "03053",
+      "dexNo": 263,
+      "pokemonName": "ジグザグマ",
+      "games": [
+        "ruby",
+        "sapphire"
+      ],
+      "eventName": "きのみプログラム更新のジグザグマ",
+      "distributionMethod": "店頭配布",
+      "startDate": "2004-03-17",
+      "endDate": "2007-07-17",
+      "region": [
+        "欧州"
+      ],
+      "level": 5,
+      "gender": "ランダム",
+      "nature": "ランダム",
+      "ability": "ものひろい",
+      "ball": "モンスターボール",
+      "heldItem": "チイラのみ",
+      "shiny": "fixed",
+      "ot": {
+        "JPN": "SAPHIRE"
+      },
+      "trainerId": "30317",
+      "moves": [
+        "たいあたり",
+        "なきごえ",
+        "しっぽをふる"
+      ],
+      "notes": "Berry Fix 用の色違いジグザグマのドイツ分。米国分（03052）と親名・ID は同じで、掲載上の終了日が異なる。",
+      "source": {
+        "kind": "self",
+        "note": "Serebii イベントDB（events/dex/263）の Berry Fix 行による。日本分（03012）の海外版。"
+      }
     }
   ]
 }

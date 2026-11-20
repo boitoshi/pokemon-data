@@ -88,7 +88,7 @@
       "games": [
         "pokemon_champions"
       ],
-      "eventName": "サーナイト大会 参加賞",
+      "eventName": "ウォームアップチャレンジ 参加賞",
       "event": {
         "kind": "champions",
         "year": 2026,
@@ -226,7 +226,7 @@
       "games": [
         "pokemon_champions"
       ],
-      "eventName": "Global Challenge 2026 I 参加賞",
+      "eventName": "グローバルチャレンジ2026 参加賞",
       "event": {
         "kind": "champions",
         "year": 2026,
@@ -1053,6 +1053,7 @@
       "ball": "プレシャスボール",
       "ivsGuaranteed": 6,
       "notes": "公式オンライン大会（シングルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。公式表記は「イエッサン（メスのすがた）」。ファストクーポン100枚・称号も付与。開催期間は2026-09-18 11:00〜2026-09-21 10:59（エントリーは2026-09-11 11:00から）。",
+      "form": "メスのすがた",
       "verified": {
         "method": "in-game",
         "fields": [
@@ -1597,6 +1598,7 @@
       "ability": "てきおうりょく",
       "ivsGuaranteed": 6,
       "notes": "公式オンライン大会（ダブルバトル・レギュレーションM-C）で勝敗のつく対戦3戦以上で参加賞として獲得し、ランキング結果の確認後にメールボックスで受け取る。公式表記は「イダイトウ（オスのすがた）」。開催期間は2026-10-30 11:00〜2026-11-02 10:59（エントリーは2026-10-23 11:00から）。",
+      "form": "オスのすがた",
       "source": {
         "kind": "self",
         "url": "https://pente.koro-pokemon.com/pokemonchampions/haifu-pokemon.shtml",

@@ -34134,7 +34134,7 @@
     "gameIds": [
       "pokemon_champions"
     ],
-    "eventName": "サーナイト大会 参加賞",
+    "eventName": "ウォームアップチャレンジ 参加賞",
     "tournamentType": "Champions",
     "tournamentYear": 2026,
     "tournamentSchedule": "2026-04-10〜2026-04-13",
@@ -34264,7 +34264,7 @@
     "gameIds": [
       "pokemon_champions"
     ],
-    "eventName": "Global Challenge 2026 I 参加賞",
+    "eventName": "グローバルチャレンジ2026 参加賞",
     "tournamentType": "Champions",
     "tournamentYear": 2026,
     "tournamentSchedule": "2026-05-01〜2026-05-04",
@@ -35014,7 +35014,7 @@
   },
   {
     "managementId": "CH11",
-    "pokemonName": "イエッサン",
+    "pokemonName": "イエッサン（メスのすがた）",
     "dexNo": 876,
     "generation": 0,
     "game": "Pokémon Champions",
@@ -35474,7 +35474,7 @@
   },
   {
     "managementId": "CH19",
-    "pokemonName": "イダイトウ",
+    "pokemonName": "イダイトウ（オスのすがた）",
     "dexNo": 902,
     "generation": 0,
     "game": "Pokémon Champions",

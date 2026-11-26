@@ -701,6 +701,14 @@
           "name": "ファイアロー"
         },
         {
+          "dexNo": 666,
+          "name": "ビビヨン"
+        },
+        {
+          "dexNo": 670,
+          "name": "フラエッテ"
+        },
+        {
           "dexNo": 671,
           "name": "フラージェス"
         },
@@ -711,6 +719,10 @@
         {
           "dexNo": 676,
           "name": "トリミアン"
+        },
+        {
+          "dexNo": 678,
+          "name": "ニャオニクス"
         },
         {
           "dexNo": 681,
@@ -765,6 +777,10 @@
           "name": "オーロット"
         },
         {
+          "dexNo": 711,
+          "name": "パンプジン"
+        },
+        {
           "dexNo": 713,
           "name": "クレベース"
         },
@@ -791,6 +807,10 @@
         {
           "dexNo": 740,
           "name": "ケケンカニ"
+        },
+        {
+          "dexNo": 745,
+          "name": "ルガルガン"
         },
         {
           "dexNo": 748,
@@ -885,6 +905,10 @@
           "name": "バサギリ"
         },
         {
+          "dexNo": 902,
+          "name": "イダイトウ"
+        },
+        {
           "dexNo": 903,
           "name": "オオニューラ"
         },
@@ -899,6 +923,10 @@
         {
           "dexNo": 914,
           "name": "ウェーニバル"
+        },
+        {
+          "dexNo": 925,
+          "name": "イッカネズミ"
         },
         {
           "dexNo": 934,
@@ -961,7 +989,7 @@
           "name": "カミツオロチ"
         }
       ],
-      "end": "2026-06-17",
+      "end": "2026-06-17T10:59+09:00",
       "id": "M-A",
       "name": "レギュレーションM-A",
       "references": [
@@ -972,17 +1000,9 @@
             "start",
             "end"
           ]
-        },
-        {
-          "url": "https://victoryroad.pro/champions-regulations/",
-          "checkedAt": "2026-11-26",
-          "fields": [
-            "start",
-            "end"
-          ]
         }
       ],
-      "start": "2026-04-08",
+      "start": "2026-04-08T11:00+09:00",
       "listStatus": "partial",
       "addedForms": [
         {
@@ -1358,7 +1378,7 @@
           "name": "サーフゴー"
         }
       ],
-      "end": "2026-09-09",
+      "end": "2026-09-09T10:59+09:00",
       "id": "M-B",
       "name": "レギュレーションM-B",
       "references": [
@@ -1369,17 +1389,9 @@
             "start",
             "end"
           ]
-        },
-        {
-          "url": "https://victoryroad.pro/champions-regulations/",
-          "checkedAt": "2026-11-26",
-          "fields": [
-            "start",
-            "end"
-          ]
         }
       ],
-      "start": "2026-06-17",
+      "start": "2026-06-17T11:00+09:00",
       "listStatus": "partial",
       "addedForms": [],
       "unlistedForms": [],
@@ -1421,7 +1433,8 @@
           "publishable": true,
           "evidence": "games/champions-verification/M-B.megas.json"
         }
-      }
+      },
+      "listNote": null
     },
     {
       "addedMegas": [
@@ -1500,6 +1513,10 @@
           "name": "フォクスライ"
         },
         {
+          "dexNo": 849,
+          "name": "ストリンダー"
+        },
+        {
           "dexNo": 853,
           "name": "オトスパス"
         },
@@ -1516,12 +1533,20 @@
           "name": "バチンウニ"
         },
         {
+          "dexNo": 876,
+          "name": "イエッサン"
+        },
+        {
           "dexNo": 923,
           "name": "パーモット"
         },
         {
           "dexNo": 930,
           "name": "オリーヴァ"
+        },
+        {
+          "dexNo": 931,
+          "name": "イキリンコ"
         },
         {
           "dexNo": 943,
@@ -1543,17 +1568,9 @@
             "start",
             "end"
           ]
-        },
-        {
-          "url": "https://victoryroad.pro/champions-regulations/",
-          "checkedAt": "2026-11-26",
-          "fields": [
-            "start",
-            "end"
-          ]
         }
       ],
-      "start": "2026-09-09",
+      "start": "2026-09-09T11:00+09:00",
       "listStatus": "partial",
       "addedForms": [
         {
@@ -1696,7 +1713,7 @@
           ]
         }
       ],
-      "start": "2026-12-02",
+      "start": "2026-12-02T11:00+09:00",
       "listStatus": "partial",
       "addedForms": [],
       "unlistedForms": [],

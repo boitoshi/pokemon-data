@@ -1,4 +1,6 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
+import { resolve } from "node:path";
+import { pathToFileURL } from "node:url";
 import assert from "node:assert/strict";
 
 const divisions = ["species", "forms", "megas"];
@@ -257,7 +259,7 @@ function outcome(method, result, coverage, publishable, keys) {
   return { method, result, coverage, publishable, keys };
 }
 
-function derive(division, evidence, secondary, preceding, label, announcedCount) {
+export function derive(division, evidence, secondary, preceding, label, announcedCount) {
   const { file, sources } = evidence;
   if (!file) return outcome("unresearched", "unresearched", "partial", false, new Map());
 
@@ -379,7 +381,7 @@ function regenerateLists(round, division, keys, registry) {
   }
 }
 
-function display(verification, count) {
+export function display(verification, count) {
   const { method, result, coverage } = verification;
   if (coverage === "complete" && count === 0) return "追加なし";
   switch (method) {
@@ -477,19 +479,21 @@ function validateAndDerive(data, registry, write) {
   return summary;
 }
 
-try {
-  const args = process.argv.slice(2);
-  assert(args.every((arg) => arg === "--write" || arg === "--summary"),
-    "Usage: node scripts/validate-champions-regulations.mjs [--write] [--summary]");
-  const write = args.includes("--write");
-  const data = read(canonicalPath);
-  const registry = registries(read("pokemon/all.json"), read("mappings/pokemon_names.json"),
-    read("forms/special-forms.json"), read("mappings/form_keys.json"));
-  const summary = validateAndDerive(data, registry, write);
-  if (write) writeFileSync(new URL(canonicalPath, root), `${JSON.stringify(data, null, 2)}\n`);
-  if (args.includes("--summary")) console.log(JSON.stringify(summary, null, 2));
-  else console.log(`Champions regulations validated: ${summary.length} rounds`);
-} catch (error) {
-  console.error(`Champions regulations: ${error.message}`);
-  process.exitCode = 1;
+if (process.argv[1] && import.meta.url === pathToFileURL(resolve(process.argv[1])).href) {
+  try {
+    const args = process.argv.slice(2);
+    assert(args.every((arg) => arg === "--write" || arg === "--summary"),
+      "Usage: node scripts/validate-champions-regulations.mjs [--write] [--summary]");
+    const write = args.includes("--write");
+    const data = read(canonicalPath);
+    const registry = registries(read("pokemon/all.json"), read("mappings/pokemon_names.json"),
+      read("forms/special-forms.json"), read("mappings/form_keys.json"));
+    const summary = validateAndDerive(data, registry, write);
+    if (write) writeFileSync(new URL(canonicalPath, root), `${JSON.stringify(data, null, 2)}\n`);
+    if (args.includes("--summary")) console.log(JSON.stringify(summary, null, 2));
+    else console.log(`Champions regulations validated: ${summary.length} rounds`);
+  } catch (error) {
+    console.error(`Champions regulations: ${error.message}`);
+    process.exitCode = 1;
+  }
 }

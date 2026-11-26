@@ -69,7 +69,7 @@
         {
           "raw": "0026-001 | Raichu (Alolan Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0036-000 | Clefable",
@@ -88,7 +88,7 @@
         {
           "raw": "0038-001 | Ninetales (Alolan Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0045-000 | Vileplume",
@@ -107,7 +107,7 @@
         {
           "raw": "0059-001 | Arcanine (Hisuian Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0065-000 | Alakazam",
@@ -140,7 +140,7 @@
         {
           "raw": "0080-002 | Slowbro (Galarian Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0094-000 | Gengar",
@@ -180,17 +180,17 @@
         {
           "raw": "0128-001 | Tauros (Paldean Form (Combat Breed))",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0128-002 | Tauros (Paldean Form (Blaze Breed))",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0128-003 | Tauros (Paldean Form (Aqua Breed))",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0130-000 | Gyarados",
@@ -265,7 +265,7 @@
         {
           "raw": "0157-001 | Typhlosion (Hisuian Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0160-000 | Feraligatr",
@@ -326,7 +326,7 @@
         {
           "raw": "0199-001 | Slowking (Galarian Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0205-000 | Forretress",
@@ -702,27 +702,27 @@
         {
           "raw": "0479-001 | Rotom (Heat Rotom)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0479-002 | Rotom (Wash Rotom)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0479-003 | Rotom (Frost Rotom)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0479-004 | Rotom (Fan Rotom)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0479-005 | Rotom (Mow Rotom)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0497-000 | Serperior",
@@ -748,7 +748,7 @@
         {
           "raw": "0503-001 | Samurott (Hisuian Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0505-000 | Watchog",
@@ -865,7 +865,7 @@
         {
           "raw": "0571-001 | Zoroark (Hisuian Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0579-000 | Reuniclus",
@@ -919,7 +919,7 @@
         {
           "raw": "0618-001 | Stunfisk (Galarian Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0623-000 | Golurk",
@@ -979,8 +979,10 @@
         },
         {
           "raw": "0666-018 | Vivillon",
-          "status": "excluded",
-          "reason": "フォルムの行。"
+          "status": "confirmed",
+          "reason": "Eligible Pokémon の掲載コードにある図鑑番号と、姿を含む原表記を図鑑マスターの種に照合。",
+          "name": "Vivillon",
+          "key": 666
         },
         {
           "raw": "0668-000 | Pyroar",
@@ -991,8 +993,10 @@
         },
         {
           "raw": "0670-005 | Floette",
-          "status": "excluded",
-          "reason": "フォルムの行。"
+          "status": "confirmed",
+          "reason": "Eligible Pokémon の掲載コードにある図鑑番号と、姿を含む原表記を図鑑マスターの種に照合。",
+          "name": "Floette",
+          "key": 670
         },
         {
           "raw": "0671-000 | Florges",
@@ -1017,13 +1021,15 @@
         },
         {
           "raw": "0678-000 | Meowstic (Male)",
-          "status": "excluded",
-          "reason": "フォルムの行。"
+          "status": "confirmed",
+          "reason": "Eligible Pokémon の掲載コードにある図鑑番号と、姿を含む原表記を図鑑マスターの種に照合。",
+          "name": "Meowstic",
+          "key": 678
         },
         {
           "raw": "0678-001 | Meowstic (Female)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0681-000 | Aegislash",
@@ -1126,7 +1132,7 @@
         {
           "raw": "0706-001 | Goodra (Hisuian Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0707-000 | Klefki",
@@ -1144,23 +1150,25 @@
         },
         {
           "raw": "0711-000 | Gourgeist (Medium Variety)",
-          "status": "excluded",
-          "reason": "フォルムの行。"
+          "status": "confirmed",
+          "reason": "Eligible Pokémon の掲載コードにある図鑑番号と、姿を含む原表記を図鑑マスターの種に照合。",
+          "name": "Gourgeist",
+          "key": 711
         },
         {
           "raw": "0711-001 | Gourgeist (Small Variety)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0711-002 | Gourgeist (Large Variety)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0711-003 | Gourgeist (Jumbo Variety)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0713-000 | Avalugg",
@@ -1172,7 +1180,7 @@
         {
           "raw": "0713-001 | Avalugg (Hisuian Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0715-000 | Noivern",
@@ -1191,7 +1199,7 @@
         {
           "raw": "0724-001 | Decidueye (Hisuian Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0727-000 | Incineroar",
@@ -1223,18 +1231,20 @@
         },
         {
           "raw": "0745-000 | Lycanroc (Midday Form)",
-          "status": "excluded",
-          "reason": "フォルムの行。"
+          "status": "confirmed",
+          "reason": "Eligible Pokémon の掲載コードにある図鑑番号と、姿を含む原表記を図鑑マスターの種に照合。",
+          "name": "Lycanroc",
+          "key": 745
         },
         {
           "raw": "0745-001 | Lycanroc (Midnight Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0745-002 | Lycanroc (Dusk Form)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0748-000 | Toxapex",
@@ -1413,13 +1423,15 @@
         },
         {
           "raw": "0902-000 | Basculegion (Male)",
-          "status": "excluded",
-          "reason": "フォルムの行。"
+          "status": "confirmed",
+          "reason": "Eligible Pokémon の掲載コードにある図鑑番号と、姿を含む原表記を図鑑マスターの種に照合。",
+          "name": "Basculegion",
+          "key": 902
         },
         {
           "raw": "0902-001 | Basculegion (Female)",
           "status": "excluded",
-          "reason": "フォルムの行。"
+          "reason": "同じ図鑑番号の別の掲載行で種を確定済み。"
         },
         {
           "raw": "0903-000 | Sneasler",
@@ -1458,8 +1470,10 @@
         },
         {
           "raw": "0925-000 | Maushold",
-          "status": "excluded",
-          "reason": "フォルムの行。"
+          "status": "confirmed",
+          "reason": "Eligible Pokémon の掲載コードにある図鑑番号と、姿を含む原表記を図鑑マスターの種に照合。",
+          "name": "Maushold",
+          "key": 925
         },
         {
           "raw": "0934-000 | Garganacl",

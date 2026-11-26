@@ -1,0 +1,121 @@
+{
+  "regulationId": "M-D",
+  "division": "species",
+  "sources": [
+    {
+      "url": "https://champions-news.pokemon-home.com/en/page/878.html",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "species",
+      "role": "official-named",
+      "location": "Eligible Pokémon にある追加対象の例示。",
+      "rows": [
+        {
+          "raw": "Heatran",
+          "status": "confirmed",
+          "key": 485,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Dondozo",
+          "status": "confirmed",
+          "key": 977,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Tatsugiri",
+          "status": "confirmed",
+          "key": 978,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pokemon.com/us/news/regulation-set-m-d-is-coming-to-pokemon-champions",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "species",
+      "role": "official-count",
+      "location": "英語版告知本文。24 newly added Pokémon の集計単位は明記されていない。",
+      "rows": [
+        {
+          "raw": "Heatran",
+          "status": "confirmed",
+          "key": 485,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Dondozo",
+          "status": "confirmed",
+          "key": 977,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Tatsugiri",
+          "status": "confirmed",
+          "key": 978,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        }
+      ],
+      "counts": [
+        {
+          "scope": "total",
+          "count": 24,
+          "reason": "ポケモンの追加総数。原種に限定する旨の記載がない。"
+        }
+      ]
+    },
+    {
+      "url": "https://x.com/Pokemon_cojp/status/2125409141841662143",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "species",
+      "role": "reference",
+      "location": "公式ポストの告知本文（4Gamerにも埋め込み）。",
+      "rows": [
+        {
+          "raw": "メガヒードラン",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "ヘイラッシャ",
+          "status": "confirmed",
+          "key": 977,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "メガシャリタツ",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        }
+      ]
+    },
+    {
+      "url": "https://www.serebii.net/news/2026/25-November-2026.shtml",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "species",
+      "role": "reference",
+      "location": "In The Games Department / Pokémon Champions - Regulation M-D の本文。",
+      "rows": [
+        {
+          "raw": "Mega Heatran",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "Dondozo",
+          "status": "confirmed",
+          "key": 977,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Mega Tatsugiri",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        }
+      ]
+    }
+  ]
+}

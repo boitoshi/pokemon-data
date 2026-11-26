@@ -1,0 +1,72 @@
+{
+  "regulationId": "M-D",
+  "division": "forms",
+  "sources": [
+    {
+      "url": "https://champions-news.pokemon-home.com/en/page/878.html",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "forms",
+      "role": "reference",
+      "location": "Eligible Pokémon と冒頭の後日発表注記。追加対象は種名の例示までで、フォルム一覧なし。",
+      "rows": [
+        {
+          "raw": "Heatran",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Dondozo",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Tatsugiri",
+          "status": "excluded",
+          "reason": "原種の行。"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pokemon.com/us/news/regulation-set-m-d-is-coming-to-pokemon-champions",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "forms",
+      "role": "official-count",
+      "location": "英語版本文。フォルムの個別名や集計単位は記載されていない。",
+      "rows": [
+        {
+          "raw": "Heatran",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Dondozo",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Tatsugiri",
+          "status": "excluded",
+          "reason": "原種の行。"
+        }
+      ],
+      "counts": [
+        {
+          "scope": "total",
+          "count": 24,
+          "reason": "ポケモンの追加総数。フォルムの個別件数は示していない。"
+        }
+      ]
+    },
+    {
+      "url": "https://www.serebii.net/news/2026/25-November-2026.shtml",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "forms",
+      "role": "reference",
+      "location": "M-D の告知本文。フォルムの内訳なし。",
+      "rows": []
+    }
+  ]
+}

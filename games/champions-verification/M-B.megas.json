@@ -1,0 +1,596 @@
+{
+  "regulationId": "M-B",
+  "division": "megas",
+  "sources": [
+    {
+      "url": "https://champions-news.pokemon-home.com/en/page/776.html",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-B",
+      "division": "megas",
+      "role": "official-additions",
+      "location": "Mechanics のメガ一覧。新規追加分の列挙。",
+      "rows": [
+        {
+          "raw": "Mega Raichu X",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 26,
+            "formName": "メガライチュウX"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Raichu Y",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 26,
+            "formName": "メガライチュウY"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Sceptile",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 254,
+            "formName": "メガジュカイン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Blaziken",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 257,
+            "formName": "メガバシャーモ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Swampert",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 260,
+            "formName": "メガラグラージ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Mawile",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 303,
+            "formName": "メガクチート"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Metagross",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 376,
+            "formName": "メガメタグロス"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Staraptor",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 398,
+            "formName": "メガムクホーク"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Scolipede",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 545,
+            "formName": "メガペンドラー"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Scrafty",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 560,
+            "formName": "メガズルズキン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Eelektross",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 604,
+            "formName": "メガシビルドン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Pyroar",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 668,
+            "formName": "メガカエンジシ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Malamar",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 687,
+            "formName": "メガカラマネロ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Barbaracle",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 689,
+            "formName": "メガガメノデス"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Dragalge",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 691,
+            "formName": "メガドラミドロ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Falinks",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 870,
+            "formName": "メガタイレーツ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        }
+      ]
+    },
+    {
+      "url": "https://victoryroad.pro/champions-regulations/",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-B",
+      "division": "megas",
+      "role": "secondary-additions",
+      "location": "M-B節の追加メガ画像 NewMegasRMB.png。",
+      "rows": [
+        {
+          "raw": "Mega Raichu X",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 26,
+            "formName": "メガライチュウX"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Raichu Y",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 26,
+            "formName": "メガライチュウY"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Sceptile",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 254,
+            "formName": "メガジュカイン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Blaziken",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 257,
+            "formName": "メガバシャーモ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Swampert",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 260,
+            "formName": "メガラグラージ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Mawile",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 303,
+            "formName": "メガクチート"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Metagross",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 376,
+            "formName": "メガメタグロス"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Staraptor",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 398,
+            "formName": "メガムクホーク"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Scolipede",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 545,
+            "formName": "メガペンドラー"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Scrafty",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 560,
+            "formName": "メガズルズキン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Eelektross",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 604,
+            "formName": "メガシビルドン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Pyroar",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 668,
+            "formName": "メガカエンジシ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Malamar",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 687,
+            "formName": "メガカラマネロ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Barbaracle",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 689,
+            "formName": "メガガメノデス"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Dragalge",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 691,
+            "formName": "メガドラミドロ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Falinks",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 870,
+            "formName": "メガタイレーツ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        }
+      ],
+      "independenceGroup": "victory-road"
+    },
+    {
+      "url": "https://pokestats.gg/pokedex/champions",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-B",
+      "division": "megas",
+      "role": "secondary-additions",
+      "location": "Added in Regulation M-B の一覧。",
+      "rows": [
+        {
+          "raw": "#0026 Mega Raichu X Raichunite X Electric",
+          "name": "Mega Raichu X",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 26,
+            "formName": "メガライチュウX"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0026 Mega Raichu Y Raichunite Y Electric",
+          "name": "Mega Raichu Y",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 26,
+            "formName": "メガライチュウY"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0045 Vileplume Grass Poison",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0211 Qwilfish Water Poison",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0254 Sceptile Grass",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0254 Mega Sceptile Sceptilite Grass Dragon",
+          "name": "Mega Sceptile",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 254,
+            "formName": "メガジュカイン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0257 Blaziken Fire Fighting",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0257 Mega Blaziken Blazikenite Fire Fighting",
+          "name": "Mega Blaziken",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 257,
+            "formName": "メガバシャーモ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0260 Swampert Water Ground",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0260 Mega Swampert Swampertite Water Ground",
+          "name": "Mega Swampert",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 260,
+            "formName": "メガラグラージ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0303 Mawile Steel Fairy",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0303 Mega Mawile Mawilite Steel Fairy",
+          "name": "Mega Mawile",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 303,
+            "formName": "メガクチート"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0376 Metagross Steel Psychic",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0376 Mega Metagross Metagrossite Steel Psychic",
+          "name": "Mega Metagross",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 376,
+            "formName": "メガメタグロス"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0398 Staraptor Normal Flying",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0398 Mega Staraptor Staraptite Fighting Flying",
+          "name": "Mega Staraptor",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 398,
+            "formName": "メガムクホーク"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0518 Musharna Psychic",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0545 Scolipede Bug Poison",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0545 Mega Scolipede Scolipite Bug Poison",
+          "name": "Mega Scolipede",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 545,
+            "formName": "メガペンドラー"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0560 Scrafty Dark Fighting",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0560 Mega Scrafty Scraftinite Dark Fighting",
+          "name": "Mega Scrafty",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 560,
+            "formName": "メガズルズキン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0604 Eelektross Electric",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0604 Mega Eelektross Eelektrossite Electric",
+          "name": "Mega Eelektross",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 604,
+            "formName": "メガシビルドン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0668 Pyroar Fire Normal",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0668 Mega Pyroar Pyroarite Fire Normal",
+          "name": "Mega Pyroar",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 668,
+            "formName": "メガカエンジシ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0687 Malamar Dark Psychic",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0687 Mega Malamar Malamarite Dark Psychic",
+          "name": "Mega Malamar",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 687,
+            "formName": "メガカラマネロ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0689 Barbaracle Rock Water",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0689 Mega Barbaracle Barbaracite Rock Fighting",
+          "name": "Mega Barbaracle",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 689,
+            "formName": "メガガメノデス"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0691 Dragalge Poison Dragon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0691 Mega Dragalge Dragalgite Poison Dragon",
+          "name": "Mega Dragalge",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 691,
+            "formName": "メガドラミドロ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0861 Grimmsnarl Dark Fairy",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0870 Falinks Fighting",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0870 Mega Falinks Falinksite Fighting",
+          "name": "Mega Falinks",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 870,
+            "formName": "メガタイレーツ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "#0904 Overqwil Dark Poison",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0972 Houndstone Ghost",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0979 Annihilape Fighting Ghost",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#1000 Gholdengo Steel Ghost",
+          "status": "excluded",
+          "reason": "原種の行。"
+        }
+      ],
+      "independenceGroup": "pokestats"
+    }
+  ]
+}

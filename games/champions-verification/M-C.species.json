@@ -1,0 +1,2160 @@
+{
+  "regulationId": "M-C",
+  "division": "species",
+  "sources": [
+    {
+      "url": "https://web-view.app.pokemonchampions.jp/battle/pages/events/rs178713870219xeaaio/en/pokemon.html",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-C",
+      "division": "species",
+      "role": "official-cumulative",
+      "location": "公式のレギュレーション告知（https://champions-news.pokemon-home.com/en/page/816.html）からリンクされる Eligible Pokémon。ページ内スクリプトの pokemons 全行と掲載コード。",
+      "rows": [
+        {
+          "raw": "0003-000 | Venusaur",
+          "name": "Venusaur",
+          "status": "confirmed",
+          "key": 3,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0006-000 | Charizard",
+          "name": "Charizard",
+          "status": "confirmed",
+          "key": 6,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0009-000 | Blastoise",
+          "name": "Blastoise",
+          "status": "confirmed",
+          "key": 9,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0015-000 | Beedrill",
+          "name": "Beedrill",
+          "status": "confirmed",
+          "key": 15,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0018-000 | Pidgeot",
+          "name": "Pidgeot",
+          "status": "confirmed",
+          "key": 18,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0024-000 | Arbok",
+          "name": "Arbok",
+          "status": "confirmed",
+          "key": 24,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0025-000 | Pikachu",
+          "name": "Pikachu",
+          "status": "confirmed",
+          "key": 25,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0026-000 | Raichu",
+          "name": "Raichu",
+          "status": "confirmed",
+          "key": 26,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0026-001 | Raichu (Alolan Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0036-000 | Clefable",
+          "name": "Clefable",
+          "status": "confirmed",
+          "key": 36,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0038-000 | Ninetales",
+          "name": "Ninetales",
+          "status": "confirmed",
+          "key": 38,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0038-001 | Ninetales (Alolan Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0040-000 | Wigglytuff",
+          "name": "Wigglytuff",
+          "status": "confirmed",
+          "key": 40,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0045-000 | Vileplume",
+          "name": "Vileplume",
+          "status": "confirmed",
+          "key": 45,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0053-000 | Persian",
+          "name": "Persian",
+          "status": "confirmed",
+          "key": 53,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0053-001 | Persian (Alolan Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0059-000 | Arcanine",
+          "name": "Arcanine",
+          "status": "confirmed",
+          "key": 59,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0059-001 | Arcanine (Hisuian Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0065-000 | Alakazam",
+          "name": "Alakazam",
+          "status": "confirmed",
+          "key": 65,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0068-000 | Machamp",
+          "name": "Machamp",
+          "status": "confirmed",
+          "key": 68,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0071-000 | Victreebel",
+          "name": "Victreebel",
+          "status": "confirmed",
+          "key": 71,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0080-000 | Slowbro",
+          "name": "Slowbro",
+          "status": "confirmed",
+          "key": 80,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0080-002 | Slowbro (Galarian Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0083-000 | Farfetch’d",
+          "name": "Farfetch’d",
+          "status": "confirmed",
+          "key": 83,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0094-000 | Gengar",
+          "name": "Gengar",
+          "status": "confirmed",
+          "key": 94,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0115-000 | Kangaskhan",
+          "name": "Kangaskhan",
+          "status": "confirmed",
+          "key": 115,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0121-000 | Starmie",
+          "name": "Starmie",
+          "status": "confirmed",
+          "key": 121,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0122-000 | Mr. Mime",
+          "name": "Mr. Mime",
+          "status": "confirmed",
+          "key": 122,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0127-000 | Pinsir",
+          "name": "Pinsir",
+          "status": "confirmed",
+          "key": 127,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0128-000 | Tauros",
+          "name": "Tauros",
+          "status": "confirmed",
+          "key": 128,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0128-001 | Tauros (Paldean Form (Combat Breed))",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0128-002 | Tauros (Paldean Form (Blaze Breed))",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0128-003 | Tauros (Paldean Form (Aqua Breed))",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0130-000 | Gyarados",
+          "name": "Gyarados",
+          "status": "confirmed",
+          "key": 130,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0132-000 | Ditto",
+          "name": "Ditto",
+          "status": "confirmed",
+          "key": 132,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0134-000 | Vaporeon",
+          "name": "Vaporeon",
+          "status": "confirmed",
+          "key": 134,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0135-000 | Jolteon",
+          "name": "Jolteon",
+          "status": "confirmed",
+          "key": 135,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0136-000 | Flareon",
+          "name": "Flareon",
+          "status": "confirmed",
+          "key": 136,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0142-000 | Aerodactyl",
+          "name": "Aerodactyl",
+          "status": "confirmed",
+          "key": 142,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0143-000 | Snorlax",
+          "name": "Snorlax",
+          "status": "confirmed",
+          "key": 143,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0149-000 | Dragonite",
+          "name": "Dragonite",
+          "status": "confirmed",
+          "key": 149,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0154-000 | Meganium",
+          "name": "Meganium",
+          "status": "confirmed",
+          "key": 154,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0157-000 | Typhlosion",
+          "name": "Typhlosion",
+          "status": "confirmed",
+          "key": 157,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0157-001 | Typhlosion (Hisuian Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0160-000 | Feraligatr",
+          "name": "Feraligatr",
+          "status": "confirmed",
+          "key": 160,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0168-000 | Ariados",
+          "name": "Ariados",
+          "status": "confirmed",
+          "key": 168,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0181-000 | Ampharos",
+          "name": "Ampharos",
+          "status": "confirmed",
+          "key": 181,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0184-000 | Azumarill",
+          "name": "Azumarill",
+          "status": "confirmed",
+          "key": 184,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0186-000 | Politoed",
+          "name": "Politoed",
+          "status": "confirmed",
+          "key": 186,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0196-000 | Espeon",
+          "name": "Espeon",
+          "status": "confirmed",
+          "key": 196,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0197-000 | Umbreon",
+          "name": "Umbreon",
+          "status": "confirmed",
+          "key": 197,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0199-000 | Slowking",
+          "name": "Slowking",
+          "status": "confirmed",
+          "key": 199,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0199-001 | Slowking (Galarian Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0205-000 | Forretress",
+          "name": "Forretress",
+          "status": "confirmed",
+          "key": 205,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0208-000 | Steelix",
+          "name": "Steelix",
+          "status": "confirmed",
+          "key": 208,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0211-000 | Qwilfish",
+          "name": "Qwilfish",
+          "status": "confirmed",
+          "key": 211,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0212-000 | Scizor",
+          "name": "Scizor",
+          "status": "confirmed",
+          "key": 212,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0214-000 | Heracross",
+          "name": "Heracross",
+          "status": "confirmed",
+          "key": 214,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0227-000 | Skarmory",
+          "name": "Skarmory",
+          "status": "confirmed",
+          "key": 227,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0229-000 | Houndoom",
+          "name": "Houndoom",
+          "status": "confirmed",
+          "key": 229,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0248-000 | Tyranitar",
+          "name": "Tyranitar",
+          "status": "confirmed",
+          "key": 248,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0254-000 | Sceptile",
+          "name": "Sceptile",
+          "status": "confirmed",
+          "key": 254,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0257-000 | Blaziken",
+          "name": "Blaziken",
+          "status": "confirmed",
+          "key": 257,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0260-000 | Swampert",
+          "name": "Swampert",
+          "status": "confirmed",
+          "key": 260,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0279-000 | Pelipper",
+          "name": "Pelipper",
+          "status": "confirmed",
+          "key": 279,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0282-000 | Gardevoir",
+          "name": "Gardevoir",
+          "status": "confirmed",
+          "key": 282,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0302-000 | Sableye",
+          "name": "Sableye",
+          "status": "confirmed",
+          "key": 302,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0303-000 | Mawile",
+          "name": "Mawile",
+          "status": "confirmed",
+          "key": 303,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0306-000 | Aggron",
+          "name": "Aggron",
+          "status": "confirmed",
+          "key": 306,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0308-000 | Medicham",
+          "name": "Medicham",
+          "status": "confirmed",
+          "key": 308,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0310-000 | Manectric",
+          "name": "Manectric",
+          "status": "confirmed",
+          "key": 310,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0317-000 | Swalot",
+          "name": "Swalot",
+          "status": "confirmed",
+          "key": 317,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0319-000 | Sharpedo",
+          "name": "Sharpedo",
+          "status": "confirmed",
+          "key": 319,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0323-000 | Camerupt",
+          "name": "Camerupt",
+          "status": "confirmed",
+          "key": 323,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0324-000 | Torkoal",
+          "name": "Torkoal",
+          "status": "confirmed",
+          "key": 324,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0334-000 | Altaria",
+          "name": "Altaria",
+          "status": "confirmed",
+          "key": 334,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0350-000 | Milotic",
+          "name": "Milotic",
+          "status": "confirmed",
+          "key": 350,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0351-000 | Castform",
+          "name": "Castform",
+          "status": "confirmed",
+          "key": 351,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0354-000 | Banette",
+          "name": "Banette",
+          "status": "confirmed",
+          "key": 354,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0358-000 | Chimecho",
+          "name": "Chimecho",
+          "status": "confirmed",
+          "key": 358,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0359-000 | Absol",
+          "name": "Absol",
+          "status": "confirmed",
+          "key": 359,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0362-000 | Glalie",
+          "name": "Glalie",
+          "status": "confirmed",
+          "key": 362,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0373-000 | Salamence",
+          "name": "Salamence",
+          "status": "confirmed",
+          "key": 373,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0376-000 | Metagross",
+          "name": "Metagross",
+          "status": "confirmed",
+          "key": 376,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0389-000 | Torterra",
+          "name": "Torterra",
+          "status": "confirmed",
+          "key": 389,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0392-000 | Infernape",
+          "name": "Infernape",
+          "status": "confirmed",
+          "key": 392,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0395-000 | Empoleon",
+          "name": "Empoleon",
+          "status": "confirmed",
+          "key": 395,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0398-000 | Staraptor",
+          "name": "Staraptor",
+          "status": "confirmed",
+          "key": 398,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0405-000 | Luxray",
+          "name": "Luxray",
+          "status": "confirmed",
+          "key": 405,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0407-000 | Roserade",
+          "name": "Roserade",
+          "status": "confirmed",
+          "key": 407,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0409-000 | Rampardos",
+          "name": "Rampardos",
+          "status": "confirmed",
+          "key": 409,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0411-000 | Bastiodon",
+          "name": "Bastiodon",
+          "status": "confirmed",
+          "key": 411,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0428-000 | Lopunny",
+          "name": "Lopunny",
+          "status": "confirmed",
+          "key": 428,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0442-000 | Spiritomb",
+          "name": "Spiritomb",
+          "status": "confirmed",
+          "key": 442,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0445-000 | Garchomp",
+          "name": "Garchomp",
+          "status": "confirmed",
+          "key": 445,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0448-000 | Lucario",
+          "name": "Lucario",
+          "status": "confirmed",
+          "key": 448,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0450-000 | Hippowdon",
+          "name": "Hippowdon",
+          "status": "confirmed",
+          "key": 450,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0454-000 | Toxicroak",
+          "name": "Toxicroak",
+          "status": "confirmed",
+          "key": 454,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0460-000 | Abomasnow",
+          "name": "Abomasnow",
+          "status": "confirmed",
+          "key": 460,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0461-000 | Weavile",
+          "name": "Weavile",
+          "status": "confirmed",
+          "key": 461,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0464-000 | Rhyperior",
+          "name": "Rhyperior",
+          "status": "confirmed",
+          "key": 464,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0470-000 | Leafeon",
+          "name": "Leafeon",
+          "status": "confirmed",
+          "key": 470,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0471-000 | Glaceon",
+          "name": "Glaceon",
+          "status": "confirmed",
+          "key": 471,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0472-000 | Gliscor",
+          "name": "Gliscor",
+          "status": "confirmed",
+          "key": 472,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0473-000 | Mamoswine",
+          "name": "Mamoswine",
+          "status": "confirmed",
+          "key": 473,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0475-000 | Gallade",
+          "name": "Gallade",
+          "status": "confirmed",
+          "key": 475,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0478-000 | Froslass",
+          "name": "Froslass",
+          "status": "confirmed",
+          "key": 478,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0479-000 | Rotom (Rotom)",
+          "name": "Rotom",
+          "status": "confirmed",
+          "key": 479,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0479-001 | Rotom (Heat Rotom)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0479-002 | Rotom (Wash Rotom)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0479-003 | Rotom (Frost Rotom)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0479-004 | Rotom (Fan Rotom)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0479-005 | Rotom (Mow Rotom)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0497-000 | Serperior",
+          "name": "Serperior",
+          "status": "confirmed",
+          "key": 497,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0500-000 | Emboar",
+          "name": "Emboar",
+          "status": "confirmed",
+          "key": 500,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0503-000 | Samurott",
+          "name": "Samurott",
+          "status": "confirmed",
+          "key": 503,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0503-001 | Samurott (Hisuian Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0505-000 | Watchog",
+          "name": "Watchog",
+          "status": "confirmed",
+          "key": 505,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0510-000 | Liepard",
+          "name": "Liepard",
+          "status": "confirmed",
+          "key": 510,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0512-000 | Simisage",
+          "name": "Simisage",
+          "status": "confirmed",
+          "key": 512,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0514-000 | Simisear",
+          "name": "Simisear",
+          "status": "confirmed",
+          "key": 514,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0516-000 | Simipour",
+          "name": "Simipour",
+          "status": "confirmed",
+          "key": 516,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0518-000 | Musharna",
+          "name": "Musharna",
+          "status": "confirmed",
+          "key": 518,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0530-000 | Excadrill",
+          "name": "Excadrill",
+          "status": "confirmed",
+          "key": 530,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0531-000 | Audino",
+          "name": "Audino",
+          "status": "confirmed",
+          "key": 531,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0534-000 | Conkeldurr",
+          "name": "Conkeldurr",
+          "status": "confirmed",
+          "key": 534,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0545-000 | Scolipede",
+          "name": "Scolipede",
+          "status": "confirmed",
+          "key": 545,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0547-000 | Whimsicott",
+          "name": "Whimsicott",
+          "status": "confirmed",
+          "key": 547,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0553-000 | Krookodile",
+          "name": "Krookodile",
+          "status": "confirmed",
+          "key": 553,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0560-000 | Scrafty",
+          "name": "Scrafty",
+          "status": "confirmed",
+          "key": 560,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0563-000 | Cofagrigus",
+          "name": "Cofagrigus",
+          "status": "confirmed",
+          "key": 563,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0569-000 | Garbodor",
+          "name": "Garbodor",
+          "status": "confirmed",
+          "key": 569,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0571-000 | Zoroark",
+          "name": "Zoroark",
+          "status": "confirmed",
+          "key": 571,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0571-001 | Zoroark (Hisuian Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0579-000 | Reuniclus",
+          "name": "Reuniclus",
+          "status": "confirmed",
+          "key": 579,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0584-000 | Vanilluxe",
+          "name": "Vanilluxe",
+          "status": "confirmed",
+          "key": 584,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0587-000 | Emolga",
+          "name": "Emolga",
+          "status": "confirmed",
+          "key": 587,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0604-000 | Eelektross",
+          "name": "Eelektross",
+          "status": "confirmed",
+          "key": 604,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0609-000 | Chandelure",
+          "name": "Chandelure",
+          "status": "confirmed",
+          "key": 609,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0614-000 | Beartic",
+          "name": "Beartic",
+          "status": "confirmed",
+          "key": 614,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0618-000 | Stunfisk",
+          "name": "Stunfisk",
+          "status": "confirmed",
+          "key": 618,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0618-001 | Stunfisk (Galarian Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0623-000 | Golurk",
+          "name": "Golurk",
+          "status": "confirmed",
+          "key": 623,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0635-000 | Hydreigon",
+          "name": "Hydreigon",
+          "status": "confirmed",
+          "key": 635,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0637-000 | Volcarona",
+          "name": "Volcarona",
+          "status": "confirmed",
+          "key": 637,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0652-000 | Chesnaught",
+          "name": "Chesnaught",
+          "status": "confirmed",
+          "key": 652,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0655-000 | Delphox",
+          "name": "Delphox",
+          "status": "confirmed",
+          "key": 655,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0658-000 | Greninja",
+          "name": "Greninja",
+          "status": "confirmed",
+          "key": 658,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0660-000 | Diggersby",
+          "name": "Diggersby",
+          "status": "confirmed",
+          "key": 660,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0663-000 | Talonflame",
+          "name": "Talonflame",
+          "status": "confirmed",
+          "key": 663,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0666-018 | Vivillon",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0668-000 | Pyroar",
+          "name": "Pyroar",
+          "status": "confirmed",
+          "key": 668,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0670-005 | Floette",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0671-000 | Florges",
+          "name": "Florges",
+          "status": "confirmed",
+          "key": 671,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0673-000 | Gogoat",
+          "name": "Gogoat",
+          "status": "confirmed",
+          "key": 673,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0675-000 | Pangoro",
+          "name": "Pangoro",
+          "status": "confirmed",
+          "key": 675,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0676-000 | Furfrou",
+          "name": "Furfrou",
+          "status": "confirmed",
+          "key": 676,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0678-000 | Meowstic (Male)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0678-001 | Meowstic (Female)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0681-000 | Aegislash",
+          "name": "Aegislash",
+          "status": "confirmed",
+          "key": 681,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0683-000 | Aromatisse",
+          "name": "Aromatisse",
+          "status": "confirmed",
+          "key": 683,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0685-000 | Slurpuff",
+          "name": "Slurpuff",
+          "status": "confirmed",
+          "key": 685,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0687-000 | Malamar",
+          "name": "Malamar",
+          "status": "confirmed",
+          "key": 687,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0689-000 | Barbaracle",
+          "name": "Barbaracle",
+          "status": "confirmed",
+          "key": 689,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0691-000 | Dragalge",
+          "name": "Dragalge",
+          "status": "confirmed",
+          "key": 691,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0693-000 | Clawitzer",
+          "name": "Clawitzer",
+          "status": "confirmed",
+          "key": 693,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0695-000 | Heliolisk",
+          "name": "Heliolisk",
+          "status": "confirmed",
+          "key": 695,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0697-000 | Tyrantrum",
+          "name": "Tyrantrum",
+          "status": "confirmed",
+          "key": 697,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0699-000 | Aurorus",
+          "name": "Aurorus",
+          "status": "confirmed",
+          "key": 699,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0700-000 | Sylveon",
+          "name": "Sylveon",
+          "status": "confirmed",
+          "key": 700,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0701-000 | Hawlucha",
+          "name": "Hawlucha",
+          "status": "confirmed",
+          "key": 701,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0702-000 | Dedenne",
+          "name": "Dedenne",
+          "status": "confirmed",
+          "key": 702,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0706-000 | Goodra",
+          "name": "Goodra",
+          "status": "confirmed",
+          "key": 706,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0706-001 | Goodra (Hisuian Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0707-000 | Klefki",
+          "name": "Klefki",
+          "status": "confirmed",
+          "key": 707,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0709-000 | Trevenant",
+          "name": "Trevenant",
+          "status": "confirmed",
+          "key": 709,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0711-000 | Gourgeist (Medium Variety)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0711-001 | Gourgeist (Small Variety)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0711-002 | Gourgeist (Large Variety)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0711-003 | Gourgeist (Jumbo Variety)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0713-000 | Avalugg",
+          "name": "Avalugg",
+          "status": "confirmed",
+          "key": 713,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0713-001 | Avalugg (Hisuian Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0715-000 | Noivern",
+          "name": "Noivern",
+          "status": "confirmed",
+          "key": 715,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0724-000 | Decidueye",
+          "name": "Decidueye",
+          "status": "confirmed",
+          "key": 724,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0724-001 | Decidueye (Hisuian Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0727-000 | Incineroar",
+          "name": "Incineroar",
+          "status": "confirmed",
+          "key": 727,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0730-000 | Primarina",
+          "name": "Primarina",
+          "status": "confirmed",
+          "key": 730,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0733-000 | Toucannon",
+          "name": "Toucannon",
+          "status": "confirmed",
+          "key": 733,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0740-000 | Crabominable",
+          "name": "Crabominable",
+          "status": "confirmed",
+          "key": 740,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0745-000 | Lycanroc (Midday Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0745-001 | Lycanroc (Midnight Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0745-002 | Lycanroc (Dusk Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0748-000 | Toxapex",
+          "name": "Toxapex",
+          "status": "confirmed",
+          "key": 748,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0750-000 | Mudsdale",
+          "name": "Mudsdale",
+          "status": "confirmed",
+          "key": 750,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0752-000 | Araquanid",
+          "name": "Araquanid",
+          "status": "confirmed",
+          "key": 752,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0758-000 | Salazzle",
+          "name": "Salazzle",
+          "status": "confirmed",
+          "key": 758,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0763-000 | Tsareena",
+          "name": "Tsareena",
+          "status": "confirmed",
+          "key": 763,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0765-000 | Oranguru",
+          "name": "Oranguru",
+          "status": "confirmed",
+          "key": 765,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0766-000 | Passimian",
+          "name": "Passimian",
+          "status": "confirmed",
+          "key": 766,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0768-000 | Golisopod",
+          "name": "Golisopod",
+          "status": "confirmed",
+          "key": 768,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0778-000 | Mimikyu",
+          "name": "Mimikyu",
+          "status": "confirmed",
+          "key": 778,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0780-000 | Drampa",
+          "name": "Drampa",
+          "status": "confirmed",
+          "key": 780,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0784-000 | Kommo-o",
+          "name": "Kommo-o",
+          "status": "confirmed",
+          "key": 784,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0812-000 | Rillaboom",
+          "name": "Rillaboom",
+          "status": "confirmed",
+          "key": 812,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0815-000 | Cinderace",
+          "name": "Cinderace",
+          "status": "confirmed",
+          "key": 815,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0818-000 | Inteleon",
+          "name": "Inteleon",
+          "status": "confirmed",
+          "key": 818,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0823-000 | Corviknight",
+          "name": "Corviknight",
+          "status": "confirmed",
+          "key": 823,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0828-000 | Thievul",
+          "name": "Thievul",
+          "status": "confirmed",
+          "key": 828,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0841-000 | Flapple",
+          "name": "Flapple",
+          "status": "confirmed",
+          "key": 841,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0842-000 | Appletun",
+          "name": "Appletun",
+          "status": "confirmed",
+          "key": 842,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0844-000 | Sandaconda",
+          "name": "Sandaconda",
+          "status": "confirmed",
+          "key": 844,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0849-000 | Toxtricity (Amped Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0849-001 | Toxtricity (Low Key Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0853-000 | Grapploct",
+          "name": "Grapploct",
+          "status": "confirmed",
+          "key": 853,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0855-000 | Polteageist",
+          "name": "Polteageist",
+          "status": "confirmed",
+          "key": 855,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0858-000 | Hatterene",
+          "name": "Hatterene",
+          "status": "confirmed",
+          "key": 858,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0861-000 | Grimmsnarl",
+          "name": "Grimmsnarl",
+          "status": "confirmed",
+          "key": 861,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0863-000 | Perrserker",
+          "name": "Perrserker",
+          "status": "confirmed",
+          "key": 863,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0865-000 | Sirfetch’d",
+          "name": "Sirfetch’d",
+          "status": "confirmed",
+          "key": 865,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0866-000 | Mr. Rime",
+          "name": "Mr. Rime",
+          "status": "confirmed",
+          "key": 866,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0867-000 | Runerigus",
+          "name": "Runerigus",
+          "status": "confirmed",
+          "key": 867,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0869-000 | Alcremie",
+          "name": "Alcremie",
+          "status": "confirmed",
+          "key": 869,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0870-000 | Falinks",
+          "name": "Falinks",
+          "status": "confirmed",
+          "key": 870,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0871-000 | Pincurchin",
+          "name": "Pincurchin",
+          "status": "confirmed",
+          "key": 871,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0876-000 | Indeedee (Male)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0876-001 | Indeedee (Female)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0877-000 | Morpeko",
+          "name": "Morpeko",
+          "status": "confirmed",
+          "key": 877,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0887-000 | Dragapult",
+          "name": "Dragapult",
+          "status": "confirmed",
+          "key": 887,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0899-000 | Wyrdeer",
+          "name": "Wyrdeer",
+          "status": "confirmed",
+          "key": 899,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0900-000 | Kleavor",
+          "name": "Kleavor",
+          "status": "confirmed",
+          "key": 900,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0902-000 | Basculegion (Male)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0902-001 | Basculegion (Female)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0903-000 | Sneasler",
+          "name": "Sneasler",
+          "status": "confirmed",
+          "key": 903,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0904-000 | Overqwil",
+          "name": "Overqwil",
+          "status": "confirmed",
+          "key": 904,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0908-000 | Meowscarada",
+          "name": "Meowscarada",
+          "status": "confirmed",
+          "key": 908,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0911-000 | Skeledirge",
+          "name": "Skeledirge",
+          "status": "confirmed",
+          "key": 911,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0914-000 | Quaquaval",
+          "name": "Quaquaval",
+          "status": "confirmed",
+          "key": 914,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0923-000 | Pawmot",
+          "name": "Pawmot",
+          "status": "confirmed",
+          "key": 923,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0925-001 | Maushold",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0930-000 | Arboliva",
+          "name": "Arboliva",
+          "status": "confirmed",
+          "key": 930,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0931-000 | Squawkabilly",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0931-002 | Squawkabilly",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "0934-000 | Garganacl",
+          "name": "Garganacl",
+          "status": "confirmed",
+          "key": 934,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0936-000 | Armarouge",
+          "name": "Armarouge",
+          "status": "confirmed",
+          "key": 936,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0937-000 | Ceruledge",
+          "name": "Ceruledge",
+          "status": "confirmed",
+          "key": 937,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0939-000 | Bellibolt",
+          "name": "Bellibolt",
+          "status": "confirmed",
+          "key": 939,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0943-000 | Mabosstiff",
+          "name": "Mabosstiff",
+          "status": "confirmed",
+          "key": 943,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0952-000 | Scovillain",
+          "name": "Scovillain",
+          "status": "confirmed",
+          "key": 952,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0956-000 | Espathra",
+          "name": "Espathra",
+          "status": "confirmed",
+          "key": 956,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0959-000 | Tinkaton",
+          "name": "Tinkaton",
+          "status": "confirmed",
+          "key": 959,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0964-000 | Palafin",
+          "name": "Palafin",
+          "status": "confirmed",
+          "key": 964,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0968-000 | Orthworm",
+          "name": "Orthworm",
+          "status": "confirmed",
+          "key": 968,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0970-000 | Glimmora",
+          "name": "Glimmora",
+          "status": "confirmed",
+          "key": 970,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0972-000 | Houndstone",
+          "name": "Houndstone",
+          "status": "confirmed",
+          "key": 972,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0979-000 | Annihilape",
+          "name": "Annihilape",
+          "status": "confirmed",
+          "key": 979,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0981-000 | Farigiraf",
+          "name": "Farigiraf",
+          "status": "confirmed",
+          "key": 981,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0983-000 | Kingambit",
+          "name": "Kingambit",
+          "status": "confirmed",
+          "key": 983,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "0998-000 | Baxcalibur",
+          "name": "Baxcalibur",
+          "status": "confirmed",
+          "key": 998,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "1000-000 | Gholdengo",
+          "name": "Gholdengo",
+          "status": "confirmed",
+          "key": 1000,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "1013-000 | Sinistcha",
+          "name": "Sinistcha",
+          "status": "confirmed",
+          "key": 1013,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "1018-000 | Archaludon",
+          "name": "Archaludon",
+          "status": "confirmed",
+          "key": 1018,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "1019-000 | Hydrapple",
+          "name": "Hydrapple",
+          "status": "confirmed",
+          "key": 1019,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        }
+      ]
+    },
+    {
+      "url": "https://victoryroad.pro/champions-regulations/",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-C",
+      "division": "species",
+      "role": "secondary-additions",
+      "location": "M-C節の追加分 NewPokemonMC.png。",
+      "rows": [
+        {
+          "raw": "Wigglytuff",
+          "status": "confirmed",
+          "key": 40,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Persian",
+          "status": "confirmed",
+          "key": 53,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Persian (Alolan Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "Farfetch’d",
+          "status": "confirmed",
+          "key": 83,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Mr. Mime",
+          "status": "confirmed",
+          "key": 122,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Swalot",
+          "status": "confirmed",
+          "key": 317,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Salamence",
+          "status": "confirmed",
+          "key": 373,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Gogoat",
+          "status": "confirmed",
+          "key": 673,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Golisopod",
+          "status": "confirmed",
+          "key": 768,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Rillaboom",
+          "status": "confirmed",
+          "key": 812,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Cinderace",
+          "status": "confirmed",
+          "key": 815,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Inteleon",
+          "status": "confirmed",
+          "key": 818,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Thievul",
+          "status": "confirmed",
+          "key": 828,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Toxtricity (Amped Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "Toxtricity (Low Key Form)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "Grapploct",
+          "status": "confirmed",
+          "key": 853,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Perrserker",
+          "status": "confirmed",
+          "key": 863,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Sirfetch’d",
+          "status": "confirmed",
+          "key": 865,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Pincurchin",
+          "status": "confirmed",
+          "key": 871,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Indeedee (Male)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "Indeedee (Female)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "Pawmot",
+          "status": "confirmed",
+          "key": 923,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Arboliva",
+          "status": "confirmed",
+          "key": 930,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Squawkabilly (Green Plumage)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "Squawkabilly (Blue Plumage)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "Squawkabilly (Yellow Plumage)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "Squawkabilly (White Plumage)",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "Mabosstiff",
+          "status": "confirmed",
+          "key": 943,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "Baxcalibur",
+          "status": "confirmed",
+          "key": 998,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        }
+      ],
+      "independenceGroup": "victory-road"
+    },
+    {
+      "url": "https://pokestats.gg/pokedex/champions",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-C",
+      "division": "species",
+      "role": "secondary-additions",
+      "location": "Added in Regulation M-C の一覧。",
+      "rows": [
+        {
+          "raw": "#0040 Wigglytuff Normal Fairy",
+          "name": "Wigglytuff",
+          "status": "confirmed",
+          "key": 40,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0053 Persian Normal",
+          "name": "Persian",
+          "status": "confirmed",
+          "key": 53,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0053 Alolan Persian Dark",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "#0083 Farfetch’d Normal Flying",
+          "name": "Farfetch’d",
+          "status": "confirmed",
+          "key": 83,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0122 Mr. Mime Psychic Fairy",
+          "name": "Mr. Mime",
+          "status": "confirmed",
+          "key": 122,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0317 Swalot Poison",
+          "name": "Swalot",
+          "status": "confirmed",
+          "key": 317,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0359 Mega Absol Z Absolite Z Dark Ghost",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0373 Salamence Dragon Flying",
+          "name": "Salamence",
+          "status": "confirmed",
+          "key": 373,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0373 Mega Salamence Salamencite Dragon Flying",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0445 Mega Garchomp Z Garchompite Z Dragon",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0448 Mega Lucario Z Lucarionite Z Fighting Steel",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0673 Gogoat Grass",
+          "name": "Gogoat",
+          "status": "confirmed",
+          "key": 673,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0768 Golisopod Bug Water",
+          "name": "Golisopod",
+          "status": "confirmed",
+          "key": 768,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0768 Mega Golisopod Golisopite Bug Steel",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0812 Rillaboom Grass",
+          "name": "Rillaboom",
+          "status": "confirmed",
+          "key": 812,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0815 Cinderace Fire",
+          "name": "Cinderace",
+          "status": "confirmed",
+          "key": 815,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0818 Inteleon Water",
+          "name": "Inteleon",
+          "status": "confirmed",
+          "key": 818,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0828 Thievul Dark",
+          "name": "Thievul",
+          "status": "confirmed",
+          "key": 828,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0849 Toxtricity Electric Poison",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "#0849 Toxtricity (Low Key)Electric Poison",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "#0853 Grapploct Fighting",
+          "name": "Grapploct",
+          "status": "confirmed",
+          "key": 853,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0863 Perrserker Steel",
+          "name": "Perrserker",
+          "status": "confirmed",
+          "key": 863,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0865 Sirfetch’d Fighting",
+          "name": "Sirfetch’d",
+          "status": "confirmed",
+          "key": 865,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0871 Pincurchin Electric",
+          "name": "Pincurchin",
+          "status": "confirmed",
+          "key": 871,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0876 Indeedee Psychic Normal",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "#0876 Indeedee (Female)Psychic Normal",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "#0923 Pawmot Electric Fighting",
+          "name": "Pawmot",
+          "status": "confirmed",
+          "key": 923,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0930 Arboliva Grass Normal",
+          "name": "Arboliva",
+          "status": "confirmed",
+          "key": 930,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0931 Squawkabilly Normal Flying",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "#0931 Squawkabilly (Yellow Plumage)Normal Flying",
+          "status": "excluded",
+          "reason": "フォルムの行。"
+        },
+        {
+          "raw": "#0943 Mabosstiff Dark",
+          "name": "Mabosstiff",
+          "status": "confirmed",
+          "key": 943,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0998 Baxcalibur Dragon Ice",
+          "name": "Baxcalibur",
+          "status": "confirmed",
+          "key": 998,
+          "reason": "原種枠の名称をポケモン名マッピングと図鑑マスターに照合。"
+        },
+        {
+          "raw": "#0998 Mega Baxcalibur Baxcalibrite Dragon Ice",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        }
+      ],
+      "independenceGroup": "pokestats"
+    }
+  ]
+}

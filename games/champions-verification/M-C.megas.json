@@ -1,0 +1,200 @@
+{
+  "regulationId": "M-C",
+  "division": "megas",
+  "sources": [
+    {
+      "url": "https://champions-news.pokemon-home.com/en/page/816.html",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-C",
+      "division": "megas",
+      "role": "official-additions",
+      "location": "Mechanics のメガ一覧。新規追加分の列挙。",
+      "rows": [
+        {
+          "raw": "Mega Absol Z",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 359,
+            "formName": "メガアブソルZ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Salamence",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 373,
+            "formName": "メガボーマンダ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Garchomp Z",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 445,
+            "formName": "メガガブリアスZ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Lucario Z",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 448,
+            "formName": "メガルカリオZ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Golisopod",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 768,
+            "formName": "メガグソクムシャ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Baxcalibur",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 998,
+            "formName": "メガセグレイブ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        }
+      ]
+    },
+    {
+      "url": "https://victoryroad.pro/champions-regulations/",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-C",
+      "division": "megas",
+      "role": "secondary-additions",
+      "location": "M-C節末尾、追加メガの箇条書き。",
+      "rows": [
+        {
+          "raw": "Mega Absol Z",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 359,
+            "formName": "メガアブソルZ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Salamence",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 373,
+            "formName": "メガボーマンダ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Garchomp Z",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 445,
+            "formName": "メガガブリアスZ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Lucario Z",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 448,
+            "formName": "メガルカリオZ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Golisopod",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 768,
+            "formName": "メガグソクムシャ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Baxcalibur",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 998,
+            "formName": "メガセグレイブ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        }
+      ],
+      "independenceGroup": "victory-road"
+    },
+    {
+      "url": "https://pico-piko-nano.com/guide/PokemonChampions",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-C",
+      "division": "megas",
+      "role": "secondary-additions",
+      "location": "M-C節「M-Cで解禁されたメガシンカ（6種）」の表の名前列。",
+      "rows": [
+        {
+          "raw": "メガルカリオZ",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 448,
+            "formName": "メガルカリオZ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "メガガブリアスZ",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 445,
+            "formName": "メガガブリアスZ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "メガアブソルZ",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 359,
+            "formName": "メガアブソルZ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "メガボーマンダ",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 373,
+            "formName": "メガボーマンダ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "メガグソクムシャ",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 768,
+            "formName": "メガグソクムシャ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "メガセグレイブ",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 998,
+            "formName": "メガセグレイブ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        }
+      ],
+      "independenceGroup": "pico-piko-nano"
+    }
+  ]
+}

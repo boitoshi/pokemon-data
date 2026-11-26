@@ -1,0 +1,1676 @@
+{
+  "regulationId": "M-B",
+  "division": "forms",
+  "sources": [
+    {
+      "url": "https://web-view.app.pokemonchampions.jp/battle/pages/events/rs178066986988lmoqpm/en/pokemon.html",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-B",
+      "division": "forms",
+      "role": "reference",
+      "location": "公式のレギュレーション告知（https://champions-news.pokemon-home.com/en/page/776.html）からリンクされる Eligible Pokémon。ページ内スクリプトの pokemons 全行と掲載コード。フォルムの公式累積は第3章により参考扱い。",
+      "rows": [
+        {
+          "raw": "0003-000 | Venusaur",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0006-000 | Charizard",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0009-000 | Blastoise",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0015-000 | Beedrill",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0018-000 | Pidgeot",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0024-000 | Arbok",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0025-000 | Pikachu",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0026-000 | Raichu",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0026-001 | Raichu (Alolan Form)",
+          "name": "Raichu (Alolan Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 26,
+            "formId": "alola"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0036-000 | Clefable",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0038-000 | Ninetales",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0038-001 | Ninetales (Alolan Form)",
+          "name": "Ninetales (Alolan Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 38,
+            "formId": "alola"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0045-000 | Vileplume",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0059-000 | Arcanine",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0059-001 | Arcanine (Hisuian Form)",
+          "name": "Arcanine (Hisuian Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 59,
+            "formId": "hisui"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0065-000 | Alakazam",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0068-000 | Machamp",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0071-000 | Victreebel",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0080-000 | Slowbro",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0080-002 | Slowbro (Galarian Form)",
+          "name": "Slowbro (Galarian Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 80,
+            "formId": "galar"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0094-000 | Gengar",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0115-000 | Kangaskhan",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0121-000 | Starmie",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0127-000 | Pinsir",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0128-000 | Tauros",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0128-001 | Tauros (Paldean Form (Combat Breed))",
+          "name": "Tauros (Paldean Form (Combat Breed))",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 128,
+            "formId": "paldea-combat-breed"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0128-002 | Tauros (Paldean Form (Blaze Breed))",
+          "name": "Tauros (Paldean Form (Blaze Breed))",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 128,
+            "formId": "paldea-blaze-breed"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0128-003 | Tauros (Paldean Form (Aqua Breed))",
+          "name": "Tauros (Paldean Form (Aqua Breed))",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 128,
+            "formId": "paldea-aqua-breed"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0130-000 | Gyarados",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0132-000 | Ditto",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0134-000 | Vaporeon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0135-000 | Jolteon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0136-000 | Flareon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0142-000 | Aerodactyl",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0143-000 | Snorlax",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0149-000 | Dragonite",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0154-000 | Meganium",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0157-000 | Typhlosion",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0157-001 | Typhlosion (Hisuian Form)",
+          "name": "Typhlosion (Hisuian Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 157,
+            "formId": "hisui"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0160-000 | Feraligatr",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0168-000 | Ariados",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0181-000 | Ampharos",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0184-000 | Azumarill",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0186-000 | Politoed",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0196-000 | Espeon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0197-000 | Umbreon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0199-000 | Slowking",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0199-001 | Slowking (Galarian Form)",
+          "name": "Slowking (Galarian Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 199,
+            "formId": "galar"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0205-000 | Forretress",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0208-000 | Steelix",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0211-000 | Qwilfish",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0212-000 | Scizor",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0214-000 | Heracross",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0227-000 | Skarmory",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0229-000 | Houndoom",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0248-000 | Tyranitar",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0254-000 | Sceptile",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0257-000 | Blaziken",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0260-000 | Swampert",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0279-000 | Pelipper",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0282-000 | Gardevoir",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0302-000 | Sableye",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0303-000 | Mawile",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0306-000 | Aggron",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0308-000 | Medicham",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0310-000 | Manectric",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0319-000 | Sharpedo",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0323-000 | Camerupt",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0324-000 | Torkoal",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0334-000 | Altaria",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0350-000 | Milotic",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0351-000 | Castform",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0354-000 | Banette",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0358-000 | Chimecho",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0359-000 | Absol",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0362-000 | Glalie",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0376-000 | Metagross",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0389-000 | Torterra",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0392-000 | Infernape",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0395-000 | Empoleon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0398-000 | Staraptor",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0405-000 | Luxray",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0407-000 | Roserade",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0409-000 | Rampardos",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0411-000 | Bastiodon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0428-000 | Lopunny",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0442-000 | Spiritomb",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0445-000 | Garchomp",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0448-000 | Lucario",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0450-000 | Hippowdon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0454-000 | Toxicroak",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0460-000 | Abomasnow",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0461-000 | Weavile",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0464-000 | Rhyperior",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0470-000 | Leafeon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0471-000 | Glaceon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0472-000 | Gliscor",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0473-000 | Mamoswine",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0475-000 | Gallade",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0478-000 | Froslass",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0479-000 | Rotom (Rotom)",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0479-001 | Rotom (Heat Rotom)",
+          "name": "Rotom (Heat Rotom)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 479,
+            "formId": "heat"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0479-002 | Rotom (Wash Rotom)",
+          "name": "Rotom (Wash Rotom)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 479,
+            "formId": "wash"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0479-003 | Rotom (Frost Rotom)",
+          "name": "Rotom (Frost Rotom)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 479,
+            "formId": "frost"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0479-004 | Rotom (Fan Rotom)",
+          "name": "Rotom (Fan Rotom)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 479,
+            "formId": "fan"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0479-005 | Rotom (Mow Rotom)",
+          "name": "Rotom (Mow Rotom)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 479,
+            "formId": "mow"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0497-000 | Serperior",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0500-000 | Emboar",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0503-000 | Samurott",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0503-001 | Samurott (Hisuian Form)",
+          "name": "Samurott (Hisuian Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 503,
+            "formId": "hisui"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0505-000 | Watchog",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0510-000 | Liepard",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0512-000 | Simisage",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0514-000 | Simisear",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0516-000 | Simipour",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0518-000 | Musharna",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0530-000 | Excadrill",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0531-000 | Audino",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0534-000 | Conkeldurr",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0545-000 | Scolipede",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0547-000 | Whimsicott",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0553-000 | Krookodile",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0560-000 | Scrafty",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0563-000 | Cofagrigus",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0569-000 | Garbodor",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0571-000 | Zoroark",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0571-001 | Zoroark (Hisuian Form)",
+          "name": "Zoroark (Hisuian Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 571,
+            "formId": "hisui"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0579-000 | Reuniclus",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0584-000 | Vanilluxe",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0587-000 | Emolga",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0604-000 | Eelektross",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0609-000 | Chandelure",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0614-000 | Beartic",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0618-000 | Stunfisk",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0618-001 | Stunfisk (Galarian Form)",
+          "name": "Stunfisk (Galarian Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 618,
+            "formId": "galar"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0623-000 | Golurk",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0635-000 | Hydreigon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0637-000 | Volcarona",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0652-000 | Chesnaught",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0655-000 | Delphox",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0658-000 | Greninja",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0660-000 | Diggersby",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0663-000 | Talonflame",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0666-018 | Vivillon",
+          "name": "Vivillon (Fancy Pattern)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 666,
+            "formId": "fancy"
+          },
+          "reason": "公式一覧の掲載コードを図鑑番号・姿の順序（告知と二次一覧の姿名・画像）に照合。"
+        },
+        {
+          "raw": "0668-000 | Pyroar",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0670-005 | Floette",
+          "name": "Floette (Eternal Flower)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 670,
+            "formId": "eternal"
+          },
+          "reason": "公式一覧の掲載コードを図鑑番号・姿の順序（告知と二次一覧の姿名・画像）に照合。"
+        },
+        {
+          "raw": "0671-000 | Florges",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0675-000 | Pangoro",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0676-000 | Furfrou",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0678-000 | Meowstic (Male)",
+          "name": "Meowstic (Male)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 678,
+            "formId": "male"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0678-001 | Meowstic (Female)",
+          "name": "Meowstic (Female)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 678,
+            "formId": "female"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0681-000 | Aegislash",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0683-000 | Aromatisse",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0685-000 | Slurpuff",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0687-000 | Malamar",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0689-000 | Barbaracle",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0691-000 | Dragalge",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0693-000 | Clawitzer",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0695-000 | Heliolisk",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0697-000 | Tyrantrum",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0699-000 | Aurorus",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0700-000 | Sylveon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0701-000 | Hawlucha",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0702-000 | Dedenne",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0706-000 | Goodra",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0706-001 | Goodra (Hisuian Form)",
+          "name": "Goodra (Hisuian Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 706,
+            "formId": "hisui"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0707-000 | Klefki",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0709-000 | Trevenant",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0711-000 | Gourgeist (Medium Variety)",
+          "name": "Gourgeist (Medium Variety)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 711,
+            "formId": "average"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0711-001 | Gourgeist (Small Variety)",
+          "name": "Gourgeist (Small Variety)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 711,
+            "formId": "small"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0711-002 | Gourgeist (Large Variety)",
+          "name": "Gourgeist (Large Variety)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 711,
+            "formId": "large"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0711-003 | Gourgeist (Jumbo Variety)",
+          "name": "Gourgeist (Jumbo Variety)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 711,
+            "formId": "super"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0713-000 | Avalugg",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0713-001 | Avalugg (Hisuian Form)",
+          "name": "Avalugg (Hisuian Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 713,
+            "formId": "hisui"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0715-000 | Noivern",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0724-000 | Decidueye",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0724-001 | Decidueye (Hisuian Form)",
+          "name": "Decidueye (Hisuian Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 724,
+            "formId": "hisui"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0727-000 | Incineroar",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0730-000 | Primarina",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0733-000 | Toucannon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0740-000 | Crabominable",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0745-000 | Lycanroc (Midday Form)",
+          "name": "Lycanroc (Midday Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 745,
+            "formId": "midday"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0745-001 | Lycanroc (Midnight Form)",
+          "name": "Lycanroc (Midnight Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 745,
+            "formId": "midnight"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0745-002 | Lycanroc (Dusk Form)",
+          "name": "Lycanroc (Dusk Form)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 745,
+            "formId": "dusk"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0748-000 | Toxapex",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0750-000 | Mudsdale",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0752-000 | Araquanid",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0758-000 | Salazzle",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0763-000 | Tsareena",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0765-000 | Oranguru",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0766-000 | Passimian",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0778-000 | Mimikyu",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0780-000 | Drampa",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0784-000 | Kommo-o",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0823-000 | Corviknight",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0841-000 | Flapple",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0842-000 | Appletun",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0844-000 | Sandaconda",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0855-000 | Polteageist",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0858-000 | Hatterene",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0861-000 | Grimmsnarl",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0866-000 | Mr. Rime",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0867-000 | Runerigus",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0869-000 | Alcremie",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0870-000 | Falinks",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0877-000 | Morpeko",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0887-000 | Dragapult",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0899-000 | Wyrdeer",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0900-000 | Kleavor",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0902-000 | Basculegion (Male)",
+          "name": "Basculegion (Male)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 902,
+            "formId": "male"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0902-001 | Basculegion (Female)",
+          "name": "Basculegion (Female)",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 902,
+            "formId": "female"
+          },
+          "reason": "出典の姿名を PokeAPI とフォルム別名表の同一キーに照合。"
+        },
+        {
+          "raw": "0903-000 | Sneasler",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0904-000 | Overqwil",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0908-000 | Meowscarada",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0911-000 | Skeledirge",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0914-000 | Quaquaval",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0925-000 | Maushold",
+          "status": "unresolved",
+          "reason": "公式一覧には Maushold とだけあり、回によって掲載コードが異なる。コードと家族構成の対応を確定できない。"
+        },
+        {
+          "raw": "0934-000 | Garganacl",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0936-000 | Armarouge",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0937-000 | Ceruledge",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0939-000 | Bellibolt",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0952-000 | Scovillain",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0956-000 | Espathra",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0959-000 | Tinkaton",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0964-000 | Palafin",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0968-000 | Orthworm",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0970-000 | Glimmora",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0972-000 | Houndstone",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0979-000 | Annihilape",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0981-000 | Farigiraf",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "0983-000 | Kingambit",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "1000-000 | Gholdengo",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "1013-000 | Sinistcha",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "1018-000 | Archaludon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "1019-000 | Hydrapple",
+          "status": "excluded",
+          "reason": "原種の行。"
+        }
+      ]
+    },
+    {
+      "url": "https://victoryroad.pro/champions-regulations/",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-B",
+      "division": "forms",
+      "role": "reference",
+      "location": "M-B節の追加分 NewPokemonRMB.png。 両資料とも追加ポケモンの列挙はあるが、追加フォルムが0件という明示やフォルムの収録範囲に関する説明がない。",
+      "rows": [
+        {
+          "raw": "Vileplume",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Qwilfish",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Sceptile",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Blaziken",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Swampert",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Mawile",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Metagross",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Staraptor",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Musharna",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Scolipede",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Scrafty",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Eelektross",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Pyroar",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Malamar",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Barbaracle",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Dragalge",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Grimmsnarl",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Falinks",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Overqwil",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Houndstone",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Annihilape",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "Gholdengo",
+          "status": "excluded",
+          "reason": "原種の行。"
+        }
+      ]
+    },
+    {
+      "url": "https://pokestats.gg/pokedex/champions",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-B",
+      "division": "forms",
+      "role": "reference",
+      "location": "Added in Regulation M-B の一覧。 両資料とも追加ポケモンの列挙はあるが、追加フォルムが0件という明示やフォルムの収録範囲に関する説明がない。",
+      "rows": [
+        {
+          "raw": "#0026 Mega Raichu X Raichunite X Electric",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0026 Mega Raichu Y Raichunite Y Electric",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0045 Vileplume Grass Poison",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0211 Qwilfish Water Poison",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0254 Sceptile Grass",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0254 Mega Sceptile Sceptilite Grass Dragon",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0257 Blaziken Fire Fighting",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0257 Mega Blaziken Blazikenite Fire Fighting",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0260 Swampert Water Ground",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0260 Mega Swampert Swampertite Water Ground",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0303 Mawile Steel Fairy",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0303 Mega Mawile Mawilite Steel Fairy",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0376 Metagross Steel Psychic",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0376 Mega Metagross Metagrossite Steel Psychic",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0398 Staraptor Normal Flying",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0398 Mega Staraptor Staraptite Fighting Flying",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0518 Musharna Psychic",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0545 Scolipede Bug Poison",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0545 Mega Scolipede Scolipite Bug Poison",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0560 Scrafty Dark Fighting",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0560 Mega Scrafty Scraftinite Dark Fighting",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0604 Eelektross Electric",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0604 Mega Eelektross Eelektrossite Electric",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0668 Pyroar Fire Normal",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0668 Mega Pyroar Pyroarite Fire Normal",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0687 Malamar Dark Psychic",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0687 Mega Malamar Malamarite Dark Psychic",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0689 Barbaracle Rock Water",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0689 Mega Barbaracle Barbaracite Rock Fighting",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0691 Dragalge Poison Dragon",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0691 Mega Dragalge Dragalgite Poison Dragon",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0861 Grimmsnarl Dark Fairy",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0870 Falinks Fighting",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0870 Mega Falinks Falinksite Fighting",
+          "status": "excluded",
+          "reason": "メガシンカの行。"
+        },
+        {
+          "raw": "#0904 Overqwil Dark Poison",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0972 Houndstone Ghost",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#0979 Annihilape Fighting Ghost",
+          "status": "excluded",
+          "reason": "原種の行。"
+        },
+        {
+          "raw": "#1000 Gholdengo Steel Ghost",
+          "status": "excluded",
+          "reason": "原種の行。"
+        }
+      ]
+    }
+  ]
+}

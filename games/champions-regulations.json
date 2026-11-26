@@ -1,86 +1,1664 @@
 {
-  "formatNote": "レギュレーションは累積方式。前レギュレーションまでに使用可能だったポケモンは、次レギュレーションでも引き続き使用できる。ここにはレギュレーションごとの期間と、そのレギュレーションから新規に追加されたポケモン・メガシンカだけを記録する（全ロスターは各レギュレーションまでの累積で再構成できる）。種数とフォルム違いの数え方が出典で異なる場合は、内訳を note に残す。",
+  "formatNote": "各回のレギュレーションから使用可能になった分を種・フォルム・メガの区分ごとに記録する。回別の追加分を累積して使用可能一覧を再構成する。収録範囲と出典は verification、公表値と二次集計の内訳は各回の対応項目を参照。",
   "game": "Pokémon Champions",
   "gameId": "pokemon_champions",
   "lastUpdated": "2026-11-26",
   "regulations": [
     {
-      "addedMegaCount": 60,
-      "addedMegas": [],
-      "addedPokemon": [],
-      "addedPokemonCount": 186,
-      "addedPokemonNote": "種としての数。フォルム違いの枠が別に27（pokestats.gg の集計）",
+      "addedMegas": [
+        {
+          "dexNo": 3,
+          "formName": "メガフシギバナ"
+        },
+        {
+          "dexNo": 6,
+          "formName": "メガリザードンX"
+        },
+        {
+          "dexNo": 6,
+          "formName": "メガリザードンY"
+        },
+        {
+          "dexNo": 9,
+          "formName": "メガカメックス"
+        },
+        {
+          "dexNo": 15,
+          "formName": "メガスピアー"
+        },
+        {
+          "dexNo": 18,
+          "formName": "メガピジョット"
+        },
+        {
+          "dexNo": 36,
+          "formName": "メガピクシー"
+        },
+        {
+          "dexNo": 65,
+          "formName": "メガフーディン"
+        },
+        {
+          "dexNo": 71,
+          "formName": "メガウツボット"
+        },
+        {
+          "dexNo": 80,
+          "formName": "メガヤドラン"
+        },
+        {
+          "dexNo": 94,
+          "formName": "メガゲンガー"
+        },
+        {
+          "dexNo": 115,
+          "formName": "メガガルーラ"
+        },
+        {
+          "dexNo": 121,
+          "formName": "メガスターミー"
+        },
+        {
+          "dexNo": 127,
+          "formName": "メガカイロス"
+        },
+        {
+          "dexNo": 130,
+          "formName": "メガギャラドス"
+        },
+        {
+          "dexNo": 142,
+          "formName": "メガプテラ"
+        },
+        {
+          "dexNo": 149,
+          "formName": "メガカイリュー"
+        },
+        {
+          "dexNo": 154,
+          "formName": "メガメガニウム"
+        },
+        {
+          "dexNo": 160,
+          "formName": "メガオーダイル"
+        },
+        {
+          "dexNo": 181,
+          "formName": "メガデンリュウ"
+        },
+        {
+          "dexNo": 208,
+          "formName": "メガハガネール"
+        },
+        {
+          "dexNo": 212,
+          "formName": "メガハッサム"
+        },
+        {
+          "dexNo": 214,
+          "formName": "メガヘラクロス"
+        },
+        {
+          "dexNo": 227,
+          "formName": "メガエアームド"
+        },
+        {
+          "dexNo": 229,
+          "formName": "メガヘルガー"
+        },
+        {
+          "dexNo": 248,
+          "formName": "メガバンギラス"
+        },
+        {
+          "dexNo": 282,
+          "formName": "メガサーナイト"
+        },
+        {
+          "dexNo": 302,
+          "formName": "メガヤミラミ"
+        },
+        {
+          "dexNo": 306,
+          "formName": "メガボスゴドラ"
+        },
+        {
+          "dexNo": 308,
+          "formName": "メガチャーレム"
+        },
+        {
+          "dexNo": 310,
+          "formName": "メガライボルト"
+        },
+        {
+          "dexNo": 319,
+          "formName": "メガサメハダー"
+        },
+        {
+          "dexNo": 323,
+          "formName": "メガバクーダ"
+        },
+        {
+          "dexNo": 334,
+          "formName": "メガチルタリス"
+        },
+        {
+          "dexNo": 354,
+          "formName": "メガジュペッタ"
+        },
+        {
+          "dexNo": 358,
+          "formName": "メガチリーン"
+        },
+        {
+          "dexNo": 359,
+          "formName": "メガアブソル"
+        },
+        {
+          "dexNo": 362,
+          "formName": "メガオニゴーリ"
+        },
+        {
+          "dexNo": 428,
+          "formName": "メガミミロップ"
+        },
+        {
+          "dexNo": 445,
+          "formName": "メガガブリアス"
+        },
+        {
+          "dexNo": 448,
+          "formName": "メガルカリオ"
+        },
+        {
+          "dexNo": 460,
+          "formName": "メガユキノオー"
+        },
+        {
+          "dexNo": 475,
+          "formName": "メガエルレイド"
+        },
+        {
+          "dexNo": 478,
+          "formName": "メガユキメノコ"
+        },
+        {
+          "dexNo": 500,
+          "formName": "メガエンブオー"
+        },
+        {
+          "dexNo": 530,
+          "formName": "メガドリュウズ"
+        },
+        {
+          "dexNo": 531,
+          "formName": "メガタブンネ"
+        },
+        {
+          "dexNo": 609,
+          "formName": "メガシャンデラ"
+        },
+        {
+          "dexNo": 623,
+          "formName": "メガゴルーグ"
+        },
+        {
+          "dexNo": 652,
+          "formName": "メガブリガロン"
+        },
+        {
+          "dexNo": 655,
+          "formName": "メガマフォクシー"
+        },
+        {
+          "dexNo": 658,
+          "formName": "メガゲッコウガ"
+        },
+        {
+          "dexNo": 670,
+          "formName": "メガフラエッテ"
+        },
+        {
+          "dexNo": 678,
+          "formName": "メガニャオニクス"
+        },
+        {
+          "dexNo": 701,
+          "formName": "メガルチャブル"
+        },
+        {
+          "dexNo": 740,
+          "formName": "メガケケンカニ"
+        },
+        {
+          "dexNo": 780,
+          "formName": "メガジジーロン"
+        },
+        {
+          "dexNo": 952,
+          "formName": "メガスコヴィラン"
+        },
+        {
+          "dexNo": 970,
+          "formName": "メガキラフロル"
+        }
+      ],
+      "addedPokemon": [
+        {
+          "dexNo": 3,
+          "name": "フシギバナ"
+        },
+        {
+          "dexNo": 6,
+          "name": "リザードン"
+        },
+        {
+          "dexNo": 9,
+          "name": "カメックス"
+        },
+        {
+          "dexNo": 15,
+          "name": "スピアー"
+        },
+        {
+          "dexNo": 18,
+          "name": "ピジョット"
+        },
+        {
+          "dexNo": 24,
+          "name": "アーボック"
+        },
+        {
+          "dexNo": 25,
+          "name": "ピカチュウ"
+        },
+        {
+          "dexNo": 26,
+          "name": "ライチュウ"
+        },
+        {
+          "dexNo": 36,
+          "name": "ピクシー"
+        },
+        {
+          "dexNo": 38,
+          "name": "キュウコン"
+        },
+        {
+          "dexNo": 59,
+          "name": "ウインディ"
+        },
+        {
+          "dexNo": 65,
+          "name": "フーディン"
+        },
+        {
+          "dexNo": 68,
+          "name": "カイリキー"
+        },
+        {
+          "dexNo": 71,
+          "name": "ウツボット"
+        },
+        {
+          "dexNo": 80,
+          "name": "ヤドラン"
+        },
+        {
+          "dexNo": 94,
+          "name": "ゲンガー"
+        },
+        {
+          "dexNo": 115,
+          "name": "ガルーラ"
+        },
+        {
+          "dexNo": 121,
+          "name": "スターミー"
+        },
+        {
+          "dexNo": 127,
+          "name": "カイロス"
+        },
+        {
+          "dexNo": 128,
+          "name": "ケンタロス"
+        },
+        {
+          "dexNo": 130,
+          "name": "ギャラドス"
+        },
+        {
+          "dexNo": 132,
+          "name": "メタモン"
+        },
+        {
+          "dexNo": 134,
+          "name": "シャワーズ"
+        },
+        {
+          "dexNo": 135,
+          "name": "サンダース"
+        },
+        {
+          "dexNo": 136,
+          "name": "ブースター"
+        },
+        {
+          "dexNo": 142,
+          "name": "プテラ"
+        },
+        {
+          "dexNo": 143,
+          "name": "カビゴン"
+        },
+        {
+          "dexNo": 149,
+          "name": "カイリュー"
+        },
+        {
+          "dexNo": 154,
+          "name": "メガニウム"
+        },
+        {
+          "dexNo": 157,
+          "name": "バクフーン"
+        },
+        {
+          "dexNo": 160,
+          "name": "オーダイル"
+        },
+        {
+          "dexNo": 168,
+          "name": "アリアドス"
+        },
+        {
+          "dexNo": 181,
+          "name": "デンリュウ"
+        },
+        {
+          "dexNo": 184,
+          "name": "マリルリ"
+        },
+        {
+          "dexNo": 186,
+          "name": "ニョロトノ"
+        },
+        {
+          "dexNo": 196,
+          "name": "エーフィ"
+        },
+        {
+          "dexNo": 197,
+          "name": "ブラッキー"
+        },
+        {
+          "dexNo": 199,
+          "name": "ヤドキング"
+        },
+        {
+          "dexNo": 205,
+          "name": "フォレトス"
+        },
+        {
+          "dexNo": 208,
+          "name": "ハガネール"
+        },
+        {
+          "dexNo": 212,
+          "name": "ハッサム"
+        },
+        {
+          "dexNo": 214,
+          "name": "ヘラクロス"
+        },
+        {
+          "dexNo": 227,
+          "name": "エアームド"
+        },
+        {
+          "dexNo": 229,
+          "name": "ヘルガー"
+        },
+        {
+          "dexNo": 248,
+          "name": "バンギラス"
+        },
+        {
+          "dexNo": 279,
+          "name": "ペリッパー"
+        },
+        {
+          "dexNo": 282,
+          "name": "サーナイト"
+        },
+        {
+          "dexNo": 302,
+          "name": "ヤミラミ"
+        },
+        {
+          "dexNo": 306,
+          "name": "ボスゴドラ"
+        },
+        {
+          "dexNo": 308,
+          "name": "チャーレム"
+        },
+        {
+          "dexNo": 310,
+          "name": "ライボルト"
+        },
+        {
+          "dexNo": 319,
+          "name": "サメハダー"
+        },
+        {
+          "dexNo": 323,
+          "name": "バクーダ"
+        },
+        {
+          "dexNo": 324,
+          "name": "コータス"
+        },
+        {
+          "dexNo": 334,
+          "name": "チルタリス"
+        },
+        {
+          "dexNo": 350,
+          "name": "ミロカロス"
+        },
+        {
+          "dexNo": 351,
+          "name": "ポワルン"
+        },
+        {
+          "dexNo": 354,
+          "name": "ジュペッタ"
+        },
+        {
+          "dexNo": 358,
+          "name": "チリーン"
+        },
+        {
+          "dexNo": 359,
+          "name": "アブソル"
+        },
+        {
+          "dexNo": 362,
+          "name": "オニゴーリ"
+        },
+        {
+          "dexNo": 389,
+          "name": "ドダイトス"
+        },
+        {
+          "dexNo": 392,
+          "name": "ゴウカザル"
+        },
+        {
+          "dexNo": 395,
+          "name": "エンペルト"
+        },
+        {
+          "dexNo": 405,
+          "name": "レントラー"
+        },
+        {
+          "dexNo": 407,
+          "name": "ロズレイド"
+        },
+        {
+          "dexNo": 409,
+          "name": "ラムパルド"
+        },
+        {
+          "dexNo": 411,
+          "name": "トリデプス"
+        },
+        {
+          "dexNo": 428,
+          "name": "ミミロップ"
+        },
+        {
+          "dexNo": 442,
+          "name": "ミカルゲ"
+        },
+        {
+          "dexNo": 445,
+          "name": "ガブリアス"
+        },
+        {
+          "dexNo": 448,
+          "name": "ルカリオ"
+        },
+        {
+          "dexNo": 450,
+          "name": "カバルドン"
+        },
+        {
+          "dexNo": 454,
+          "name": "ドクロッグ"
+        },
+        {
+          "dexNo": 460,
+          "name": "ユキノオー"
+        },
+        {
+          "dexNo": 461,
+          "name": "マニューラ"
+        },
+        {
+          "dexNo": 464,
+          "name": "ドサイドン"
+        },
+        {
+          "dexNo": 470,
+          "name": "リーフィア"
+        },
+        {
+          "dexNo": 471,
+          "name": "グレイシア"
+        },
+        {
+          "dexNo": 472,
+          "name": "グライオン"
+        },
+        {
+          "dexNo": 473,
+          "name": "マンムー"
+        },
+        {
+          "dexNo": 475,
+          "name": "エルレイド"
+        },
+        {
+          "dexNo": 478,
+          "name": "ユキメノコ"
+        },
+        {
+          "dexNo": 479,
+          "name": "ロトム"
+        },
+        {
+          "dexNo": 497,
+          "name": "ジャローダ"
+        },
+        {
+          "dexNo": 500,
+          "name": "エンブオー"
+        },
+        {
+          "dexNo": 503,
+          "name": "ダイケンキ"
+        },
+        {
+          "dexNo": 505,
+          "name": "ミルホッグ"
+        },
+        {
+          "dexNo": 510,
+          "name": "レパルダス"
+        },
+        {
+          "dexNo": 512,
+          "name": "ヤナッキー"
+        },
+        {
+          "dexNo": 514,
+          "name": "バオッキー"
+        },
+        {
+          "dexNo": 516,
+          "name": "ヒヤッキー"
+        },
+        {
+          "dexNo": 530,
+          "name": "ドリュウズ"
+        },
+        {
+          "dexNo": 531,
+          "name": "タブンネ"
+        },
+        {
+          "dexNo": 534,
+          "name": "ローブシン"
+        },
+        {
+          "dexNo": 547,
+          "name": "エルフーン"
+        },
+        {
+          "dexNo": 553,
+          "name": "ワルビアル"
+        },
+        {
+          "dexNo": 563,
+          "name": "デスカーン"
+        },
+        {
+          "dexNo": 569,
+          "name": "ダストダス"
+        },
+        {
+          "dexNo": 571,
+          "name": "ゾロアーク"
+        },
+        {
+          "dexNo": 579,
+          "name": "ランクルス"
+        },
+        {
+          "dexNo": 584,
+          "name": "バイバニラ"
+        },
+        {
+          "dexNo": 587,
+          "name": "エモンガ"
+        },
+        {
+          "dexNo": 609,
+          "name": "シャンデラ"
+        },
+        {
+          "dexNo": 614,
+          "name": "ツンベアー"
+        },
+        {
+          "dexNo": 618,
+          "name": "マッギョ"
+        },
+        {
+          "dexNo": 623,
+          "name": "ゴルーグ"
+        },
+        {
+          "dexNo": 635,
+          "name": "サザンドラ"
+        },
+        {
+          "dexNo": 637,
+          "name": "ウルガモス"
+        },
+        {
+          "dexNo": 652,
+          "name": "ブリガロン"
+        },
+        {
+          "dexNo": 655,
+          "name": "マフォクシー"
+        },
+        {
+          "dexNo": 658,
+          "name": "ゲッコウガ"
+        },
+        {
+          "dexNo": 660,
+          "name": "ホルード"
+        },
+        {
+          "dexNo": 663,
+          "name": "ファイアロー"
+        },
+        {
+          "dexNo": 671,
+          "name": "フラージェス"
+        },
+        {
+          "dexNo": 675,
+          "name": "ゴロンダ"
+        },
+        {
+          "dexNo": 676,
+          "name": "トリミアン"
+        },
+        {
+          "dexNo": 681,
+          "name": "ギルガルド"
+        },
+        {
+          "dexNo": 683,
+          "name": "フレフワン"
+        },
+        {
+          "dexNo": 685,
+          "name": "ペロリーム"
+        },
+        {
+          "dexNo": 693,
+          "name": "ブロスター"
+        },
+        {
+          "dexNo": 695,
+          "name": "エレザード"
+        },
+        {
+          "dexNo": 697,
+          "name": "ガチゴラス"
+        },
+        {
+          "dexNo": 699,
+          "name": "アマルルガ"
+        },
+        {
+          "dexNo": 700,
+          "name": "ニンフィア"
+        },
+        {
+          "dexNo": 701,
+          "name": "ルチャブル"
+        },
+        {
+          "dexNo": 702,
+          "name": "デデンネ"
+        },
+        {
+          "dexNo": 706,
+          "name": "ヌメルゴン"
+        },
+        {
+          "dexNo": 707,
+          "name": "クレッフィ"
+        },
+        {
+          "dexNo": 709,
+          "name": "オーロット"
+        },
+        {
+          "dexNo": 713,
+          "name": "クレベース"
+        },
+        {
+          "dexNo": 715,
+          "name": "オンバーン"
+        },
+        {
+          "dexNo": 724,
+          "name": "ジュナイパー"
+        },
+        {
+          "dexNo": 727,
+          "name": "ガオガエン"
+        },
+        {
+          "dexNo": 730,
+          "name": "アシレーヌ"
+        },
+        {
+          "dexNo": 733,
+          "name": "ドデカバシ"
+        },
+        {
+          "dexNo": 740,
+          "name": "ケケンカニ"
+        },
+        {
+          "dexNo": 748,
+          "name": "ドヒドイデ"
+        },
+        {
+          "dexNo": 750,
+          "name": "バンバドロ"
+        },
+        {
+          "dexNo": 752,
+          "name": "オニシズクモ"
+        },
+        {
+          "dexNo": 758,
+          "name": "エンニュート"
+        },
+        {
+          "dexNo": 763,
+          "name": "アマージョ"
+        },
+        {
+          "dexNo": 765,
+          "name": "ヤレユータン"
+        },
+        {
+          "dexNo": 766,
+          "name": "ナゲツケサル"
+        },
+        {
+          "dexNo": 778,
+          "name": "ミミッキュ"
+        },
+        {
+          "dexNo": 780,
+          "name": "ジジーロン"
+        },
+        {
+          "dexNo": 784,
+          "name": "ジャラランガ"
+        },
+        {
+          "dexNo": 823,
+          "name": "アーマーガア"
+        },
+        {
+          "dexNo": 841,
+          "name": "アップリュー"
+        },
+        {
+          "dexNo": 842,
+          "name": "タルップル"
+        },
+        {
+          "dexNo": 844,
+          "name": "サダイジャ"
+        },
+        {
+          "dexNo": 855,
+          "name": "ポットデス"
+        },
+        {
+          "dexNo": 858,
+          "name": "ブリムオン"
+        },
+        {
+          "dexNo": 866,
+          "name": "バリコオル"
+        },
+        {
+          "dexNo": 867,
+          "name": "デスバーン"
+        },
+        {
+          "dexNo": 869,
+          "name": "マホイップ"
+        },
+        {
+          "dexNo": 877,
+          "name": "モルペコ"
+        },
+        {
+          "dexNo": 887,
+          "name": "ドラパルト"
+        },
+        {
+          "dexNo": 899,
+          "name": "アヤシシ"
+        },
+        {
+          "dexNo": 900,
+          "name": "バサギリ"
+        },
+        {
+          "dexNo": 903,
+          "name": "オオニューラ"
+        },
+        {
+          "dexNo": 908,
+          "name": "マスカーニャ"
+        },
+        {
+          "dexNo": 911,
+          "name": "ラウドボーン"
+        },
+        {
+          "dexNo": 914,
+          "name": "ウェーニバル"
+        },
+        {
+          "dexNo": 934,
+          "name": "キョジオーン"
+        },
+        {
+          "dexNo": 936,
+          "name": "グレンアルマ"
+        },
+        {
+          "dexNo": 937,
+          "name": "ソウブレイズ"
+        },
+        {
+          "dexNo": 939,
+          "name": "ハラバリー"
+        },
+        {
+          "dexNo": 952,
+          "name": "スコヴィラン"
+        },
+        {
+          "dexNo": 956,
+          "name": "クエスパトラ"
+        },
+        {
+          "dexNo": 959,
+          "name": "デカヌチャン"
+        },
+        {
+          "dexNo": 964,
+          "name": "イルカマン"
+        },
+        {
+          "dexNo": 968,
+          "name": "ミミズズ"
+        },
+        {
+          "dexNo": 970,
+          "name": "キラフロル"
+        },
+        {
+          "dexNo": 981,
+          "name": "リキキリン"
+        },
+        {
+          "dexNo": 983,
+          "name": "ドドゲザン"
+        },
+        {
+          "dexNo": 1013,
+          "name": "ヤバソチャ"
+        },
+        {
+          "dexNo": 1018,
+          "name": "ブリジュラス"
+        },
+        {
+          "dexNo": 1019,
+          "name": "カミツオロチ"
+        }
+      ],
       "end": "2026-06-17",
       "id": "M-A",
-      "listStatus": "種の一覧は未収録（バックフィル待ち）。件数と期間のみ二次出典で確認済み",
       "name": "レギュレーションM-A",
       "references": [
         {
+          "url": "https://champions-news.pokemon-home.com/en/page/751.html",
           "checkedAt": "2026-11-26",
-          "url": "https://pokestats.gg/pokedex/champions"
+          "fields": [
+            "start",
+            "end"
+          ]
         },
         {
+          "url": "https://victoryroad.pro/champions-regulations/",
           "checkedAt": "2026-11-26",
-          "url": "https://victoryroad.pro/champions-regulations/"
+          "fields": [
+            "start",
+            "end"
+          ]
         }
       ],
-      "start": "2026-04-08"
+      "start": "2026-04-08",
+      "listStatus": "partial",
+      "addedForms": [
+        {
+          "dexNo": 26,
+          "formName": "ライチュウ",
+          "regionName": "アローラのすがた"
+        },
+        {
+          "dexNo": 38,
+          "formName": "キュウコン",
+          "regionName": "アローラのすがた"
+        },
+        {
+          "dexNo": 59,
+          "formName": "ウインディ",
+          "regionName": "ヒスイのすがた"
+        },
+        {
+          "dexNo": 80,
+          "formName": "ヤドラン",
+          "regionName": "ガラルのすがた"
+        },
+        {
+          "dexNo": 128,
+          "formName": "ケンタロス ウォーター種",
+          "regionName": "パルデアのすがた"
+        },
+        {
+          "dexNo": 128,
+          "formName": "ケンタロス ブレイズ種",
+          "regionName": "パルデアのすがた"
+        },
+        {
+          "dexNo": 128,
+          "formName": "ケンタロス コンバット種",
+          "regionName": "パルデアのすがた"
+        },
+        {
+          "dexNo": 157,
+          "formName": "バクフーン",
+          "regionName": "ヒスイのすがた"
+        },
+        {
+          "dexNo": 199,
+          "formName": "ヤドキング",
+          "regionName": "ガラルのすがた"
+        },
+        {
+          "dexNo": 503,
+          "formName": "ダイケンキ",
+          "regionName": "ヒスイのすがた"
+        },
+        {
+          "dexNo": 571,
+          "formName": "ゾロアーク",
+          "regionName": "ヒスイのすがた"
+        },
+        {
+          "dexNo": 618,
+          "formName": "マッギョ",
+          "regionName": "ガラルのすがた"
+        },
+        {
+          "dexNo": 706,
+          "formName": "ヌメルゴン",
+          "regionName": "ヒスイのすがた"
+        },
+        {
+          "dexNo": 713,
+          "formName": "クレベース",
+          "regionName": "ヒスイのすがた"
+        },
+        {
+          "dexNo": 724,
+          "formName": "ジュナイパー",
+          "regionName": "ヒスイのすがた"
+        }
+      ],
+      "unlistedForms": [
+        {
+          "dexNo": 479,
+          "sourceKey": "rotom-fan",
+          "name": "Rotom (Fan Rotom)"
+        },
+        {
+          "dexNo": 479,
+          "sourceKey": "rotom-frost",
+          "name": "Rotom (Frost Rotom)"
+        },
+        {
+          "dexNo": 479,
+          "sourceKey": "rotom-heat",
+          "name": "Rotom (Heat Rotom)"
+        },
+        {
+          "dexNo": 479,
+          "sourceKey": "rotom-mow",
+          "name": "Rotom (Mow Rotom)"
+        },
+        {
+          "dexNo": 479,
+          "sourceKey": "rotom-wash",
+          "name": "Rotom (Wash Rotom)"
+        },
+        {
+          "dexNo": 670,
+          "sourceKey": "floette-eternal",
+          "name": "Floette (Eternal Flower)"
+        },
+        {
+          "dexNo": 678,
+          "sourceKey": "meowstic-female",
+          "name": "Meowstic (Female)"
+        },
+        {
+          "dexNo": 678,
+          "sourceKey": "meowstic-male",
+          "name": "Meowstic (Male)"
+        },
+        {
+          "dexNo": 711,
+          "sourceKey": "gourgeist-average",
+          "name": "Gourgeist (Medium Variety)"
+        },
+        {
+          "dexNo": 711,
+          "sourceKey": "gourgeist-large",
+          "name": "Gourgeist (Large Variety)"
+        },
+        {
+          "dexNo": 711,
+          "sourceKey": "gourgeist-small",
+          "name": "Gourgeist (Small Variety)"
+        },
+        {
+          "dexNo": 711,
+          "sourceKey": "gourgeist-super",
+          "name": "Gourgeist (Jumbo Variety)"
+        },
+        {
+          "dexNo": 745,
+          "sourceKey": "lycanroc-dusk",
+          "name": "Lycanroc (Dusk Form)"
+        },
+        {
+          "dexNo": 745,
+          "sourceKey": "lycanroc-midday",
+          "name": "Lycanroc (Midday Form)"
+        },
+        {
+          "dexNo": 745,
+          "sourceKey": "lycanroc-midnight",
+          "name": "Lycanroc (Midnight Form)"
+        },
+        {
+          "dexNo": 902,
+          "sourceKey": "basculegion-female",
+          "name": "Basculegion (Female)"
+        },
+        {
+          "dexNo": 902,
+          "sourceKey": "basculegion-male",
+          "name": "Basculegion (Male)"
+        },
+        {
+          "dexNo": 925,
+          "sourceKey": "maushold-family-of-four",
+          "name": "Maushold (Family of Four)"
+        }
+      ],
+      "secondaryTallies": [
+        {
+          "url": "https://pokestats.gg/pokedex/champions",
+          "checkedAt": "2026-11-26",
+          "scope": "species",
+          "count": 186,
+          "note": "PokeStats のゲーム内ロスター集計。姿別枠は別に27。"
+        },
+        {
+          "url": "https://pokestats.gg/pokedex/champions",
+          "checkedAt": "2026-11-26",
+          "scope": "forms",
+          "count": 27,
+          "note": "PokeStats の姿別追加枠の表記。"
+        },
+        {
+          "url": "https://pokestats.gg/pokedex/champions",
+          "checkedAt": "2026-11-26",
+          "scope": "megas",
+          "count": 60,
+          "note": "PokeStats のメガ枠。メガニャオニクスの雌雄を別掲。"
+        }
+      ],
+      "listNote": "PokeStats の種数と姿別枠は同サイトの区分による。メガの集計には同一名の性別違いの別掲を含む。",
+      "verification": {
+        "species": {
+          "method": "official-cumulative",
+          "result": "verified",
+          "coverage": "complete",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-A.species.json"
+        },
+        "forms": {
+          "method": "independent-secondary-lists",
+          "result": "disputed",
+          "coverage": "partial",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-A.forms.json"
+        },
+        "megas": {
+          "method": "official-additions",
+          "result": "verified",
+          "coverage": "complete",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-A.megas.json"
+        }
+      }
     },
     {
-      "addedMegaCount": 16,
-      "addedMegas": [],
-      "addedPokemon": [],
-      "addedPokemonCount": 22,
+      "addedMegas": [
+        {
+          "dexNo": 26,
+          "formName": "メガライチュウX"
+        },
+        {
+          "dexNo": 26,
+          "formName": "メガライチュウY"
+        },
+        {
+          "dexNo": 254,
+          "formName": "メガジュカイン"
+        },
+        {
+          "dexNo": 257,
+          "formName": "メガバシャーモ"
+        },
+        {
+          "dexNo": 260,
+          "formName": "メガラグラージ"
+        },
+        {
+          "dexNo": 303,
+          "formName": "メガクチート"
+        },
+        {
+          "dexNo": 376,
+          "formName": "メガメタグロス"
+        },
+        {
+          "dexNo": 398,
+          "formName": "メガムクホーク"
+        },
+        {
+          "dexNo": 545,
+          "formName": "メガペンドラー"
+        },
+        {
+          "dexNo": 560,
+          "formName": "メガズルズキン"
+        },
+        {
+          "dexNo": 604,
+          "formName": "メガシビルドン"
+        },
+        {
+          "dexNo": 668,
+          "formName": "メガカエンジシ"
+        },
+        {
+          "dexNo": 687,
+          "formName": "メガカラマネロ"
+        },
+        {
+          "dexNo": 689,
+          "formName": "メガガメノデス"
+        },
+        {
+          "dexNo": 691,
+          "formName": "メガドラミドロ"
+        },
+        {
+          "dexNo": 870,
+          "formName": "メガタイレーツ"
+        }
+      ],
+      "addedPokemon": [
+        {
+          "dexNo": 45,
+          "name": "ラフレシア"
+        },
+        {
+          "dexNo": 211,
+          "name": "ハリーセン"
+        },
+        {
+          "dexNo": 254,
+          "name": "ジュカイン"
+        },
+        {
+          "dexNo": 257,
+          "name": "バシャーモ"
+        },
+        {
+          "dexNo": 260,
+          "name": "ラグラージ"
+        },
+        {
+          "dexNo": 303,
+          "name": "クチート"
+        },
+        {
+          "dexNo": 376,
+          "name": "メタグロス"
+        },
+        {
+          "dexNo": 398,
+          "name": "ムクホーク"
+        },
+        {
+          "dexNo": 518,
+          "name": "ムシャーナ"
+        },
+        {
+          "dexNo": 545,
+          "name": "ペンドラー"
+        },
+        {
+          "dexNo": 560,
+          "name": "ズルズキン"
+        },
+        {
+          "dexNo": 604,
+          "name": "シビルドン"
+        },
+        {
+          "dexNo": 668,
+          "name": "カエンジシ"
+        },
+        {
+          "dexNo": 687,
+          "name": "カラマネロ"
+        },
+        {
+          "dexNo": 689,
+          "name": "ガメノデス"
+        },
+        {
+          "dexNo": 691,
+          "name": "ドラミドロ"
+        },
+        {
+          "dexNo": 861,
+          "name": "オーロンゲ"
+        },
+        {
+          "dexNo": 870,
+          "name": "タイレーツ"
+        },
+        {
+          "dexNo": 904,
+          "name": "ハリーマン"
+        },
+        {
+          "dexNo": 972,
+          "name": "ハカドッグ"
+        },
+        {
+          "dexNo": 979,
+          "name": "コノヨザル"
+        },
+        {
+          "dexNo": 1000,
+          "name": "サーフゴー"
+        }
+      ],
       "end": "2026-09-09",
       "id": "M-B",
-      "listStatus": "種の一覧は未収録（バックフィル待ち）。件数と期間のみ二次出典で確認済み",
       "name": "レギュレーションM-B",
       "references": [
         {
+          "url": "https://champions-news.pokemon-home.com/en/page/776.html",
           "checkedAt": "2026-11-26",
-          "url": "https://pokestats.gg/pokedex/champions"
+          "fields": [
+            "start",
+            "end"
+          ]
         },
         {
+          "url": "https://victoryroad.pro/champions-regulations/",
           "checkedAt": "2026-11-26",
-          "url": "https://victoryroad.pro/champions-regulations/"
+          "fields": [
+            "start",
+            "end"
+          ]
         }
       ],
-      "start": "2026-06-17"
+      "start": "2026-06-17",
+      "listStatus": "partial",
+      "addedForms": [],
+      "unlistedForms": [],
+      "secondaryTallies": [
+        {
+          "url": "https://pokestats.gg/pokedex/champions",
+          "checkedAt": "2026-11-26",
+          "scope": "species",
+          "count": 22,
+          "note": "M-Bから使えるポケモンの二次集計。"
+        },
+        {
+          "url": "https://pokestats.gg/pokedex/champions",
+          "checkedAt": "2026-11-26",
+          "scope": "megas",
+          "count": 16,
+          "note": "M-Bから使えるメガの二次集計。"
+        }
+      ],
+      "verification": {
+        "species": {
+          "method": "official-cumulative",
+          "result": "verified",
+          "coverage": "complete",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-B.species.json"
+        },
+        "forms": {
+          "method": "insufficient-sources",
+          "result": "no-source",
+          "coverage": "partial",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-B.forms.json"
+        },
+        "megas": {
+          "method": "official-additions",
+          "result": "verified",
+          "coverage": "complete",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-B.megas.json"
+        }
+      }
     },
     {
-      "addedMegaCount": 6,
       "addedMegas": [
-        "メガアブソルZ",
-        "メガボーマンダ",
-        "メガガブリアスZ",
-        "メガルカリオZ",
-        "メガグソクムシャ",
-        "メガセグレイブ"
+        {
+          "dexNo": 359,
+          "formName": "メガアブソルZ"
+        },
+        {
+          "dexNo": 373,
+          "formName": "メガボーマンダ"
+        },
+        {
+          "dexNo": 445,
+          "formName": "メガガブリアスZ"
+        },
+        {
+          "dexNo": 448,
+          "formName": "メガルカリオZ"
+        },
+        {
+          "dexNo": 768,
+          "formName": "メガグソクムシャ"
+        },
+        {
+          "dexNo": 998,
+          "formName": "メガセグレイブ"
+        }
       ],
-      "addedPokemon": [],
-      "addedPokemonCount": 29,
-      "addedPokemonNote": "フォルム違いを含む数（Victory Road・日本語攻略情報の集計）。種としての数は出典により23〜26と幅があるため、種数としては記録しない",
+      "addedPokemon": [
+        {
+          "dexNo": 40,
+          "name": "プクリン"
+        },
+        {
+          "dexNo": 53,
+          "name": "ペルシアン"
+        },
+        {
+          "dexNo": 83,
+          "name": "カモネギ"
+        },
+        {
+          "dexNo": 122,
+          "name": "バリヤード"
+        },
+        {
+          "dexNo": 317,
+          "name": "マルノーム"
+        },
+        {
+          "dexNo": 373,
+          "name": "ボーマンダ"
+        },
+        {
+          "dexNo": 673,
+          "name": "ゴーゴート"
+        },
+        {
+          "dexNo": 768,
+          "name": "グソクムシャ"
+        },
+        {
+          "dexNo": 812,
+          "name": "ゴリランダー"
+        },
+        {
+          "dexNo": 815,
+          "name": "エースバーン"
+        },
+        {
+          "dexNo": 818,
+          "name": "インテレオン"
+        },
+        {
+          "dexNo": 828,
+          "name": "フォクスライ"
+        },
+        {
+          "dexNo": 853,
+          "name": "オトスパス"
+        },
+        {
+          "dexNo": 863,
+          "name": "ニャイキング"
+        },
+        {
+          "dexNo": 865,
+          "name": "ネギガナイト"
+        },
+        {
+          "dexNo": 871,
+          "name": "バチンウニ"
+        },
+        {
+          "dexNo": 923,
+          "name": "パーモット"
+        },
+        {
+          "dexNo": 930,
+          "name": "オリーヴァ"
+        },
+        {
+          "dexNo": 943,
+          "name": "マフィティフ"
+        },
+        {
+          "dexNo": 998,
+          "name": "セグレイブ"
+        }
+      ],
       "end": "2026-12-02T10:59+09:00",
       "id": "M-C",
-      "listStatus": "ポケモンの種の一覧は未収録（バックフィル待ち）。メガシンカ6種は二次出典で確認済み",
       "name": "レギュレーションM-C",
       "references": [
         {
+          "url": "https://champions-news.pokemon-home.com/en/page/816.html",
           "checkedAt": "2026-11-26",
-          "url": "https://victoryroad.pro/champions-regulations/"
+          "fields": [
+            "start",
+            "end"
+          ]
         },
         {
+          "url": "https://victoryroad.pro/champions-regulations/",
           "checkedAt": "2026-11-26",
-          "url": "https://pico-piko-nano.com/guide/PokemonChampions"
+          "fields": [
+            "start",
+            "end"
+          ]
         }
       ],
-      "start": "2026-09-09"
+      "start": "2026-09-09",
+      "listStatus": "partial",
+      "addedForms": [
+        {
+          "dexNo": 53,
+          "formName": "ペルシアン",
+          "regionName": "アローラのすがた"
+        }
+      ],
+      "unlistedForms": [
+        {
+          "dexNo": 849,
+          "sourceKey": "toxtricity-amped",
+          "name": "Toxtricity (Amped Form)"
+        },
+        {
+          "dexNo": 849,
+          "sourceKey": "toxtricity-low-key",
+          "name": "Toxtricity (Low Key Form)"
+        },
+        {
+          "dexNo": 876,
+          "sourceKey": "indeedee-female",
+          "name": "Indeedee (Female)"
+        },
+        {
+          "dexNo": 876,
+          "sourceKey": "indeedee-male",
+          "name": "Indeedee (Male)"
+        },
+        {
+          "dexNo": 931,
+          "sourceKey": "squawkabilly-green-plumage",
+          "name": "Squawkabilly (Green Plumage)"
+        },
+        {
+          "dexNo": 931,
+          "sourceKey": "squawkabilly-yellow-plumage",
+          "name": "Squawkabilly (Yellow Plumage)"
+        }
+      ],
+      "secondaryTallies": [
+        {
+          "url": "https://victoryroad.pro/champions-regulations/",
+          "checkedAt": "2026-11-26",
+          "scope": "total",
+          "count": 29,
+          "note": "フォルム込みの追加一覧。"
+        },
+        {
+          "url": "https://pokestats.gg/pokedex/champions",
+          "checkedAt": "2026-11-26",
+          "scope": "species",
+          "count": 23,
+          "note": "PokeStats の種ベースの集計。別にフォルム枠4。"
+        },
+        {
+          "url": "https://pokestats.gg/pokedex/champions",
+          "checkedAt": "2026-11-26",
+          "scope": "forms",
+          "count": 4,
+          "note": "PokeStats の種ベース集計に加えたフォルム枠。"
+        },
+        {
+          "url": "https://victoryroad.pro/champions-regulations/",
+          "checkedAt": "2026-11-26",
+          "scope": "megas",
+          "count": 6,
+          "note": "M-Cから使えるメガの二次集計。"
+        }
+      ],
+      "listNote": "Victory Road の29はフォルム込み。PokeStats は種数とフォルム枠を分けて集計している。",
+      "verification": {
+        "species": {
+          "method": "official-cumulative",
+          "result": "verified",
+          "coverage": "complete",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-C.species.json"
+        },
+        "forms": {
+          "method": "independent-secondary-lists",
+          "result": "disputed",
+          "coverage": "partial",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-C.forms.json"
+        },
+        "megas": {
+          "method": "official-additions",
+          "result": "verified",
+          "coverage": "complete",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-C.megas.json"
+        }
+      }
     },
     {
-      "addedMegaCount": 4,
       "addedMegas": [
-        "メガヒードラン",
-        "メガシャリタツ"
+        {
+          "dexNo": 485,
+          "formName": "メガヒードラン"
+        },
+        {
+          "dexNo": 978,
+          "formName": "メガシャリタツ"
+        }
       ],
       "addedPokemon": [
         {
@@ -96,24 +1674,72 @@
           "name": "シャリタツ"
         }
       ],
-      "addedPokemonCount": 24,
       "end": "2027-03-03T10:59+09:00",
       "id": "M-D",
-      "listStatus": "一部のみ発表済み。公式発表で名前が挙がったのはポケモン3種・メガシンカ2種で、残り（ポケモン21種・メガシンカ2種）と使用可能ポケモンの一覧詳細は後日発表とされている",
       "name": "レギュレーションM-D",
       "references": [
         {
+          "url": "https://champions-news.pokemon-home.com/en/page/878.html",
           "checkedAt": "2026-11-26",
-          "note": "株式会社ポケモンの2026-11-25発表（レギュレーション期間・新規参加ポケモン・メガヒードラン／メガシャリタツの特性初公開）を報じた記事",
-          "url": "https://www.4gamer.net/games/886/G088682/20261125009/"
+          "fields": [
+            "start",
+            "end",
+            "announcementNotes"
+          ]
         },
         {
+          "url": "https://www.pokemon.com/us/news/regulation-set-m-d-is-coming-to-pokemon-champions",
           "checkedAt": "2026-11-26",
-          "note": "新規24匹・メガシンカ4種の追加（海外公式サイトの記載）",
-          "url": "https://www.serebii.net/news/2026/25-November-2026.shtml"
+          "fields": [
+            "announcedTotalCount",
+            "announcedMegaCount"
+          ]
         }
       ],
-      "start": "2026-12-02"
+      "start": "2026-12-02",
+      "listStatus": "partial",
+      "addedForms": [],
+      "unlistedForms": [],
+      "announcedTotalCount": 24,
+      "announcedMegaCount": 4,
+      "announcementNotes": {
+        "species": {
+          "text": "レギュレーションの詳細は後日発表予定。",
+          "sourceUrl": "https://champions-news.pokemon-home.com/en/page/878.html"
+        },
+        "forms": {
+          "text": "レギュレーションの詳細は後日発表予定。",
+          "sourceUrl": "https://champions-news.pokemon-home.com/en/page/878.html"
+        },
+        "megas": {
+          "text": "レギュレーションの詳細は後日発表予定。",
+          "sourceUrl": "https://champions-news.pokemon-home.com/en/page/878.html"
+        }
+      },
+      "listNote": "英語版公式告知の24にはポケモンのフォルムを数える単位の説明がない。",
+      "verification": {
+        "species": {
+          "method": "official-named",
+          "result": "named",
+          "coverage": "partial",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-D.species.json"
+        },
+        "forms": {
+          "method": "insufficient-sources",
+          "result": "no-source",
+          "coverage": "partial",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-D.forms.json"
+        },
+        "megas": {
+          "method": "official-named",
+          "result": "named",
+          "coverage": "partial",
+          "publishable": true,
+          "evidence": "games/champions-verification/M-D.megas.json"
+        }
+      }
     }
   ]
 }

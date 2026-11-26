@@ -20,6 +20,8 @@ jobs:
           cache: npm
       - run: npm ci --ignore-scripts
       - run: npm run validate
+      - name: Validate Champions regulations
+        run: node scripts/validate-champions-regulations.mjs
       - run: npm run build
       - name: build/ 成果物の鮮度チェック（正本を変えて rebuild 忘れると落ちる）
         run: git diff --exit-code build/

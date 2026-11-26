@@ -1,0 +1,135 @@
+{
+  "regulationId": "M-D",
+  "division": "megas",
+  "sources": [
+    {
+      "url": "https://champions-news.pokemon-home.com/en/page/878.html",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "megas",
+      "role": "official-named",
+      "location": "Mechanics にある追加対象の例示。",
+      "rows": [
+        {
+          "raw": "Mega Heatran",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 485,
+            "formName": "メガヒードラン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Tatsugiri",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 978,
+            "formName": "メガシャリタツ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        }
+      ]
+    },
+    {
+      "url": "https://x.com/poke_times/status/2125409263161835885",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "megas",
+      "role": "official-named",
+      "location": "公式ポケモン情報局のポスト本文（4Gamerにも埋め込み）。",
+      "rows": [
+        {
+          "raw": "メガヒードラン",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 485,
+            "formName": "メガヒードラン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        }
+      ]
+    },
+    {
+      "url": "https://x.com/poke_times/status/2125409433165451488",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "megas",
+      "role": "official-named",
+      "location": "公式ポケモン情報局のポスト本文（4Gamerにも埋め込み）。",
+      "rows": [
+        {
+          "raw": "メガシャリタツ",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 978,
+            "formName": "メガシャリタツ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pokemon.com/us/news/regulation-set-m-d-is-coming-to-pokemon-champions",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "megas",
+      "role": "official-count",
+      "location": "英語版告知本文の追加メガ公表数。",
+      "rows": [
+        {
+          "raw": "Mega Heatran",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 485,
+            "formName": "メガヒードラン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Tatsugiri",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 978,
+            "formName": "メガシャリタツ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        }
+      ],
+      "counts": [
+        {
+          "scope": "megas",
+          "count": 4,
+          "reason": "追加される Mega Evolutions の公表数。"
+        }
+      ]
+    },
+    {
+      "url": "https://www.serebii.net/news/2026/25-November-2026.shtml",
+      "checkedAt": "2026-11-26",
+      "regulationId": "M-D",
+      "division": "megas",
+      "role": "reference",
+      "location": "In The Games Department / Pokémon Champions - Regulation M-D の本文。",
+      "rows": [
+        {
+          "raw": "Mega Heatran",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 485,
+            "formName": "メガヒードラン"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        },
+        {
+          "raw": "Mega Tatsugiri",
+          "status": "confirmed",
+          "key": {
+            "dexNo": 978,
+            "formName": "メガシャリタツ"
+          },
+          "reason": "親の全国図鑑番号とメガの名称・末尾記号を特殊フォルムの定義に照合。"
+        }
+      ]
+    }
+  ]
+}

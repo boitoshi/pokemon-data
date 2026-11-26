@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "validate": "node scripts/validate-data.mjs && node scripts/validate-distributions.mjs && node scripts/validate-ribbons.mjs && node scripts/validate-game-compatibility.mjs && node scripts/validate-gym-leaders.mjs && node scripts/validate-elite-four.mjs",
+    "validate": "node scripts/validate-data.mjs && node scripts/validate-distributions.mjs && node scripts/validate-ribbons.mjs && node scripts/validate-game-compatibility.mjs && node scripts/validate-gym-leaders.mjs && node scripts/validate-elite-four.mjs && node scripts/validate-champions-regulations.mjs",
     "validate:master": "node scripts/validate-data.mjs",
     "validate:distributions": "node scripts/validate-distributions.mjs",
     "validate:ribbons": "node scripts/validate-ribbons.mjs",

@@ -1,0 +1,402 @@
+[
+  {
+    "dexNo": 26,
+    "formId": "alola",
+    "formName": "ライチュウ",
+    "regionName": "アローラのすがた",
+    "aliases": [
+      "Raichu (Alolan Form)",
+      "Alolan Raichu"
+    ]
+  },
+  {
+    "dexNo": 38,
+    "formId": "alola",
+    "formName": "キュウコン",
+    "regionName": "アローラのすがた",
+    "aliases": [
+      "Ninetales (Alolan Form)",
+      "Alolan Ninetales"
+    ]
+  },
+  {
+    "dexNo": 53,
+    "formId": "alola",
+    "formName": "ペルシアン",
+    "regionName": "アローラのすがた",
+    "aliases": [
+      "Persian (Alolan Form)",
+      "Alolan Persian"
+    ]
+  },
+  {
+    "dexNo": 59,
+    "formId": "hisui",
+    "formName": "ウインディ",
+    "regionName": "ヒスイのすがた",
+    "aliases": [
+      "Arcanine (Hisuian Form)",
+      "Hisuian Arcanine"
+    ]
+  },
+  {
+    "dexNo": 80,
+    "formId": "galar",
+    "formName": "ヤドラン",
+    "regionName": "ガラルのすがた",
+    "aliases": [
+      "Slowbro (Galarian Form)",
+      "Galarian Slowbro"
+    ]
+  },
+  {
+    "dexNo": 128,
+    "formId": "paldea-aqua-breed",
+    "formName": "ケンタロス ウォーター種",
+    "regionName": "パルデアのすがた",
+    "aliases": [
+      "Tauros (Paldean Form (Aqua Breed))",
+      "Paldean Tauros (Aqua Breed)"
+    ]
+  },
+  {
+    "dexNo": 128,
+    "formId": "paldea-blaze-breed",
+    "formName": "ケンタロス ブレイズ種",
+    "regionName": "パルデアのすがた",
+    "aliases": [
+      "Tauros (Paldean Form (Blaze Breed))",
+      "Paldean Tauros (Blaze Breed)"
+    ]
+  },
+  {
+    "dexNo": 128,
+    "formId": "paldea-combat-breed",
+    "formName": "ケンタロス コンバット種",
+    "regionName": "パルデアのすがた",
+    "aliases": [
+      "Tauros (Paldean Form (Combat Breed))",
+      "Paldean Tauros (Combat Breed)"
+    ]
+  },
+  {
+    "dexNo": 157,
+    "formId": "hisui",
+    "formName": "バクフーン",
+    "regionName": "ヒスイのすがた",
+    "aliases": [
+      "Typhlosion (Hisuian Form)",
+      "Hisuian Typhlosion"
+    ]
+  },
+  {
+    "dexNo": 199,
+    "formId": "galar",
+    "formName": "ヤドキング",
+    "regionName": "ガラルのすがた",
+    "aliases": [
+      "Slowking (Galarian Form)",
+      "Galarian Slowking"
+    ]
+  },
+  {
+    "dexNo": 479,
+    "formId": "fan",
+    "sourceKey": "rotom-fan",
+    "aliases": [
+      "Rotom (Fan Rotom)",
+      "Rotom (Fan)"
+    ]
+  },
+  {
+    "dexNo": 479,
+    "formId": "frost",
+    "sourceKey": "rotom-frost",
+    "aliases": [
+      "Rotom (Frost Rotom)",
+      "Rotom (Frost)"
+    ]
+  },
+  {
+    "dexNo": 479,
+    "formId": "heat",
+    "sourceKey": "rotom-heat",
+    "aliases": [
+      "Rotom (Heat Rotom)",
+      "Rotom (Heat)"
+    ]
+  },
+  {
+    "dexNo": 479,
+    "formId": "mow",
+    "sourceKey": "rotom-mow",
+    "aliases": [
+      "Rotom (Mow Rotom)",
+      "Rotom (Mow)"
+    ]
+  },
+  {
+    "dexNo": 479,
+    "formId": "wash",
+    "sourceKey": "rotom-wash",
+    "aliases": [
+      "Rotom (Wash Rotom)",
+      "Rotom (Wash)"
+    ]
+  },
+  {
+    "dexNo": 503,
+    "formId": "hisui",
+    "formName": "ダイケンキ",
+    "regionName": "ヒスイのすがた",
+    "aliases": [
+      "Samurott (Hisuian Form)",
+      "Hisuian Samurott"
+    ]
+  },
+  {
+    "dexNo": 571,
+    "formId": "hisui",
+    "formName": "ゾロアーク",
+    "regionName": "ヒスイのすがた",
+    "aliases": [
+      "Zoroark (Hisuian Form)",
+      "Hisuian Zoroark"
+    ]
+  },
+  {
+    "dexNo": 618,
+    "formId": "galar",
+    "formName": "マッギョ",
+    "regionName": "ガラルのすがた",
+    "aliases": [
+      "Stunfisk (Galarian Form)",
+      "Galarian Stunfisk"
+    ]
+  },
+  {
+    "dexNo": 666,
+    "formId": "fancy",
+    "sourceKey": "vivillon-fancy",
+    "aliases": [
+      "Vivillon (Fancy Pattern)",
+      "vivillon-fancy"
+    ]
+  },
+  {
+    "dexNo": 670,
+    "formId": "eternal",
+    "sourceKey": "floette-eternal",
+    "aliases": [
+      "Floette (Eternal Flower)",
+      "Floette (Eternal)"
+    ]
+  },
+  {
+    "dexNo": 678,
+    "formId": "female",
+    "sourceKey": "meowstic-female",
+    "aliases": [
+      "Meowstic (Female)"
+    ]
+  },
+  {
+    "dexNo": 678,
+    "formId": "male",
+    "sourceKey": "meowstic-male",
+    "aliases": [
+      "Meowstic (Male)"
+    ]
+  },
+  {
+    "dexNo": 706,
+    "formId": "hisui",
+    "formName": "ヌメルゴン",
+    "regionName": "ヒスイのすがた",
+    "aliases": [
+      "Goodra (Hisuian Form)",
+      "Hisuian Goodra"
+    ]
+  },
+  {
+    "dexNo": 711,
+    "formId": "average",
+    "sourceKey": "gourgeist-average",
+    "aliases": [
+      "Gourgeist (Medium Variety)",
+      "Gourgeist (Average)"
+    ]
+  },
+  {
+    "dexNo": 711,
+    "formId": "large",
+    "sourceKey": "gourgeist-large",
+    "aliases": [
+      "Gourgeist (Large Variety)",
+      "Gourgeist (Large)"
+    ]
+  },
+  {
+    "dexNo": 711,
+    "formId": "small",
+    "sourceKey": "gourgeist-small",
+    "aliases": [
+      "Gourgeist (Small Variety)",
+      "Gourgeist (Small)"
+    ]
+  },
+  {
+    "dexNo": 711,
+    "formId": "super",
+    "sourceKey": "gourgeist-super",
+    "aliases": [
+      "Gourgeist (Jumbo Variety)",
+      "Gourgeist (Super)"
+    ]
+  },
+  {
+    "dexNo": 713,
+    "formId": "hisui",
+    "formName": "クレベース",
+    "regionName": "ヒスイのすがた",
+    "aliases": [
+      "Avalugg (Hisuian Form)",
+      "Hisuian Avalugg"
+    ]
+  },
+  {
+    "dexNo": 724,
+    "formId": "hisui",
+    "formName": "ジュナイパー",
+    "regionName": "ヒスイのすがた",
+    "aliases": [
+      "Decidueye (Hisuian Form)",
+      "Hisuian Decidueye"
+    ]
+  },
+  {
+    "dexNo": 745,
+    "formId": "dusk",
+    "sourceKey": "lycanroc-dusk",
+    "aliases": [
+      "Lycanroc (Dusk Form)",
+      "Lycanroc (Dusk)"
+    ]
+  },
+  {
+    "dexNo": 745,
+    "formId": "midday",
+    "sourceKey": "lycanroc-midday",
+    "aliases": [
+      "Lycanroc (Midday Form)",
+      "Lycanroc (Midday)"
+    ]
+  },
+  {
+    "dexNo": 745,
+    "formId": "midnight",
+    "sourceKey": "lycanroc-midnight",
+    "aliases": [
+      "Lycanroc (Midnight Form)",
+      "Lycanroc (Midnight)"
+    ]
+  },
+  {
+    "dexNo": 849,
+    "formId": "amped",
+    "sourceKey": "toxtricity-amped",
+    "aliases": [
+      "Toxtricity (Amped Form)",
+      "Toxtricity (Amped)"
+    ]
+  },
+  {
+    "dexNo": 849,
+    "formId": "low-key",
+    "sourceKey": "toxtricity-low-key",
+    "aliases": [
+      "Toxtricity (Low Key Form)",
+      "Toxtricity (Low Key)"
+    ]
+  },
+  {
+    "dexNo": 876,
+    "formId": "female",
+    "sourceKey": "indeedee-female",
+    "aliases": [
+      "Indeedee (Female)"
+    ]
+  },
+  {
+    "dexNo": 876,
+    "formId": "male",
+    "sourceKey": "indeedee-male",
+    "aliases": [
+      "Indeedee (Male)"
+    ]
+  },
+  {
+    "dexNo": 902,
+    "formId": "female",
+    "sourceKey": "basculegion-female",
+    "aliases": [
+      "Basculegion (Female)"
+    ]
+  },
+  {
+    "dexNo": 902,
+    "formId": "male",
+    "sourceKey": "basculegion-male",
+    "aliases": [
+      "Basculegion (Male)"
+    ]
+  },
+  {
+    "dexNo": 925,
+    "formId": "family-of-four",
+    "sourceKey": "maushold-family-of-four",
+    "aliases": [
+      "Maushold (Family of Four)"
+    ]
+  },
+  {
+    "dexNo": 925,
+    "formId": "family-of-three",
+    "sourceKey": "maushold-family-of-three",
+    "aliases": [
+      "Maushold (Family of Three)"
+    ]
+  },
+  {
+    "dexNo": 931,
+    "formId": "blue-plumage",
+    "sourceKey": "squawkabilly-blue-plumage",
+    "aliases": [
+      "Squawkabilly (Blue Plumage)"
+    ]
+  },
+  {
+    "dexNo": 931,
+    "formId": "green-plumage",
+    "sourceKey": "squawkabilly-green-plumage",
+    "aliases": [
+      "Squawkabilly (Green Plumage)"
+    ]
+  },
+  {
+    "dexNo": 931,
+    "formId": "white-plumage",
+    "sourceKey": "squawkabilly-white-plumage",
+    "aliases": [
+      "Squawkabilly (White Plumage)"
+    ]
+  },
+  {
+    "dexNo": 931,
+    "formId": "yellow-plumage",
+    "sourceKey": "squawkabilly-yellow-plumage",
+    "aliases": [
+      "Squawkabilly (Yellow Plumage)"
+    ]
+  }
+]

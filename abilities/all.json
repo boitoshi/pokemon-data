@@ -2210,5 +2210,12 @@
     "name_en": "",
     "description": "",
     "generation": 10
+  },
+  {
+    "id": 317,
+    "name_ja": "とくじょう",
+    "name_en": "",
+    "description": "登場するたびに、とくこうが1段階上がる。",
+    "generation": 10
   }
 ]

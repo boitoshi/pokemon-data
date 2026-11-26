@@ -8395,7 +8395,9 @@
           "はがね"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "みずがため"
+        ],
         "hidden_ability": "",
         "required_item": "ヒードラナイト",
         "available_in": [
@@ -15787,7 +15789,9 @@
           "みず"
         ],
         "category": "mega",
-        "abilities": [],
+        "abilities": [
+          "とくじょう"
+        ],
         "hidden_ability": "",
         "required_item": "シャリタツナイト",
         "available_in": [

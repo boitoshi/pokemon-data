@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06",
+  "lastUpdated": "2026-11-26",
   "pokemon": [
     {
       "dexNo": 3,
@@ -3937,7 +3937,9 @@
             "ほのお",
             "はがね"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "みずがため"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "ヒードラナイト",
           "availableIn": [
@@ -6512,7 +6514,9 @@
             "ドラゴン",
             "みず"
           ],
-          "formAbilities": [],
+          "formAbilities": [
+            "とくじょう"
+          ],
           "formHiddenAbility": "",
           "requiredItem": "シャリタツナイト",
           "availableIn": [

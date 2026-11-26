@@ -1,0 +1,119 @@
+{
+  "formatNote": "レギュレーションは累積方式。前レギュレーションまでに使用可能だったポケモンは、次レギュレーションでも引き続き使用できる。ここにはレギュレーションごとの期間と、そのレギュレーションから新規に追加されたポケモン・メガシンカだけを記録する（全ロスターは各レギュレーションまでの累積で再構成できる）。種数とフォルム違いの数え方が出典で異なる場合は、内訳を note に残す。",
+  "game": "Pokémon Champions",
+  "gameId": "pokemon_champions",
+  "lastUpdated": "2026-11-26",
+  "regulations": [
+    {
+      "addedMegaCount": 60,
+      "addedMegas": [],
+      "addedPokemon": [],
+      "addedPokemonCount": 186,
+      "addedPokemonNote": "種としての数。フォルム違いの枠が別に27（pokestats.gg の集計）",
+      "end": "2026-06-17",
+      "id": "M-A",
+      "listStatus": "種の一覧は未収録（バックフィル待ち）。件数と期間のみ二次出典で確認済み",
+      "name": "レギュレーションM-A",
+      "references": [
+        {
+          "checkedAt": "2026-11-26",
+          "url": "https://pokestats.gg/pokedex/champions"
+        },
+        {
+          "checkedAt": "2026-11-26",
+          "url": "https://victoryroad.pro/champions-regulations/"
+        }
+      ],
+      "start": "2026-04-08"
+    },
+    {
+      "addedMegaCount": 16,
+      "addedMegas": [],
+      "addedPokemon": [],
+      "addedPokemonCount": 22,
+      "end": "2026-09-09",
+      "id": "M-B",
+      "listStatus": "種の一覧は未収録（バックフィル待ち）。件数と期間のみ二次出典で確認済み",
+      "name": "レギュレーションM-B",
+      "references": [
+        {
+          "checkedAt": "2026-11-26",
+          "url": "https://pokestats.gg/pokedex/champions"
+        },
+        {
+          "checkedAt": "2026-11-26",
+          "url": "https://victoryroad.pro/champions-regulations/"
+        }
+      ],
+      "start": "2026-06-17"
+    },
+    {
+      "addedMegaCount": 6,
+      "addedMegas": [
+        "メガアブソルZ",
+        "メガボーマンダ",
+        "メガガブリアスZ",
+        "メガルカリオZ",
+        "メガグソクムシャ",
+        "メガセグレイブ"
+      ],
+      "addedPokemon": [],
+      "addedPokemonCount": 29,
+      "addedPokemonNote": "フォルム違いを含む数（Victory Road・日本語攻略情報の集計）。種としての数は出典により23〜26と幅があるため、種数としては記録しない",
+      "end": "2026-12-02T10:59+09:00",
+      "id": "M-C",
+      "listStatus": "ポケモンの種の一覧は未収録（バックフィル待ち）。メガシンカ6種は二次出典で確認済み",
+      "name": "レギュレーションM-C",
+      "references": [
+        {
+          "checkedAt": "2026-11-26",
+          "url": "https://victoryroad.pro/champions-regulations/"
+        },
+        {
+          "checkedAt": "2026-11-26",
+          "url": "https://pico-piko-nano.com/guide/PokemonChampions"
+        }
+      ],
+      "start": "2026-09-09"
+    },
+    {
+      "addedMegaCount": 4,
+      "addedMegas": [
+        "メガヒードラン",
+        "メガシャリタツ"
+      ],
+      "addedPokemon": [
+        {
+          "dexNo": 485,
+          "name": "ヒードラン"
+        },
+        {
+          "dexNo": 977,
+          "name": "ヘイラッシャ"
+        },
+        {
+          "dexNo": 978,
+          "name": "シャリタツ"
+        }
+      ],
+      "addedPokemonCount": 24,
+      "end": "2027-03-03T10:59+09:00",
+      "id": "M-D",
+      "listStatus": "一部のみ発表済み。公式発表で名前が挙がったのはポケモン3種・メガシンカ2種で、残り（ポケモン21種・メガシンカ2種）と使用可能ポケモンの一覧詳細は後日発表とされている",
+      "name": "レギュレーションM-D",
+      "references": [
+        {
+          "checkedAt": "2026-11-26",
+          "note": "株式会社ポケモンの2026-11-25発表（レギュレーション期間・新規参加ポケモン・メガヒードラン／メガシャリタツの特性初公開）を報じた記事",
+          "url": "https://www.4gamer.net/games/886/G088682/20261125009/"
+        },
+        {
+          "checkedAt": "2026-11-26",
+          "note": "新規24匹・メガシンカ4種の追加（海外公式サイトの記載）",
+          "url": "https://www.serebii.net/news/2026/25-November-2026.shtml"
+        }
+      ],
+      "start": "2026-12-02"
+    }
+  ]
+}

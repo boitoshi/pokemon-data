@@ -1176,7 +1176,7 @@
           "note": "PokeStats のメガ枠。メガニャオニクスの雌雄を別掲。"
         }
       ],
-      "listNote": "PokeStats の種数と姿別枠は同サイトの区分による。メガの集計には同一名の性別違いの別掲を含む。",
+      "listNote": null,
       "verification": {
         "species": {
           "method": "official-cumulative",
@@ -1624,7 +1624,7 @@
           "note": "M-Cから使えるメガの二次集計。"
         }
       ],
-      "listNote": "Victory Road の29はフォルム込み。PokeStats は種数とフォルム枠を分けて集計している。",
+      "listNote": null,
       "verification": {
         "species": {
           "method": "official-cumulative",

@@ -3,7 +3,7 @@
   "source": "games/titles.json + mappings/distribution-methods.json + mappings/method-glossary.json",
   "counts": {
     "games": 46,
-    "methods": 23
+    "methods": 22
   },
   "games": [
     {
@@ -397,11 +397,6 @@
     "赤外線通信": {
       "sourceKeys": [
         "Infrared"
-      ]
-    },
-    "配布会場": {
-      "sourceKeys": [
-        "In-Life"
       ]
     }
   }

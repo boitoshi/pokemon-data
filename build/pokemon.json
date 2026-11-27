@@ -33529,7 +33529,7 @@
     ],
     "eventName": "『Pokémon LEGENDS Z-A』連携記念！③",
     "distributionMethod": "プレゼントボックス",
-    "startDate": "2026-04-02",
+    "startDate": "2026-04-03",
     "ot": "(プレイヤーのもの)",
     "trainerId": "(プレイヤーのもの)",
     "metLocation": "HOME",
@@ -33542,6 +33542,16 @@
       "たいあたり",
       "にらみつける",
       "ドラゴンクロー"
+    ],
+    "references": [
+      {
+        "url": "https://x.com/pokemon_cojp/status/2039949773017366892",
+        "label": "ポケモン公式X『Pokémon HOME』と『Pokémon LEGENDS Z-A』の連携開始（2026-04-03 15:15 JST）"
+      },
+      {
+        "url": "https://news.pokemon-home.com/ja/page/748.html",
+        "label": "Pokémon HOME お知らせ 2026年4月3日（オヤブンの「チコリータ」「ポカブ」「ワニノコ」をプレゼント。『Pokémon LEGENDS Z-A』から初めて転送すると受け取れる）"
+      }
     ],
     "ivs": "3V",
     "alpha": "オヤブン"
@@ -33557,7 +33567,7 @@
     ],
     "eventName": "『Pokémon LEGENDS Z-A』連携記念！②",
     "distributionMethod": "プレゼントボックス",
-    "startDate": "2026-04-02",
+    "startDate": "2026-04-03",
     "ot": "(プレイヤーのもの)",
     "trainerId": "(プレイヤーのもの)",
     "metLocation": "HOME",
@@ -33570,6 +33580,16 @@
       "たいあたり",
       "しっぽをふる",
       "ワイルドボルト"
+    ],
+    "references": [
+      {
+        "url": "https://x.com/pokemon_cojp/status/2039949773017366892",
+        "label": "ポケモン公式X『Pokémon HOME』と『Pokémon LEGENDS Z-A』の連携開始（2026-04-03 15:15 JST）"
+      },
+      {
+        "url": "https://news.pokemon-home.com/ja/page/748.html",
+        "label": "Pokémon HOME お知らせ 2026年4月3日（オヤブンの「チコリータ」「ポカブ」「ワニノコ」をプレゼント。『Pokémon LEGENDS Z-A』から初めて転送すると受け取れる）"
+      }
     ],
     "ivs": "3V",
     "alpha": "オヤブン"
@@ -33585,7 +33605,7 @@
     ],
     "eventName": "『Pokémon LEGENDS Z-A』連携記念！①",
     "distributionMethod": "プレゼントボックス",
-    "startDate": "2026-04-02",
+    "startDate": "2026-04-03",
     "ot": "(プレイヤーのもの)",
     "trainerId": "(プレイヤーのもの)",
     "metLocation": "HOME",
@@ -33598,6 +33618,16 @@
       "たいあたり",
       "しっぽをふる",
       "マジカルシャイン"
+    ],
+    "references": [
+      {
+        "url": "https://x.com/pokemon_cojp/status/2039949773017366892",
+        "label": "ポケモン公式X『Pokémon HOME』と『Pokémon LEGENDS Z-A』の連携開始（2026-04-03 15:15 JST）"
+      },
+      {
+        "url": "https://news.pokemon-home.com/ja/page/748.html",
+        "label": "Pokémon HOME お知らせ 2026年4月3日（オヤブンの「チコリータ」「ポカブ」「ワニノコ」をプレゼント。『Pokémon LEGENDS Z-A』から初めて転送すると受け取れる）"
+      }
     ],
     "ivs": "3V",
     "alpha": "オヤブン"

@@ -4115,7 +4115,7 @@
       ],
       "eventName": "『Pokémon LEGENDS Z-A』連携記念！③",
       "distributionMethod": "プレゼントボックス",
-      "startDate": "2026-04-02",
+      "startDate": "2026-04-03",
       "level": 5,
       "gender": "♂",
       "nature": "やんちゃ",
@@ -4132,8 +4132,19 @@
       "ivsGuaranteed": 3,
       "alpha": true,
       "source": {
-        "kind": "bulbapedia"
-      }
+        "kind": "bulbapedia",
+        "note": "startDate は公式Xの連携開始の投稿（2026-04-03 15:15 JST）による日本時間の日付。Bulbapedia の 2026-04-02 は米国太平洋時間（04-02 23:00 PDT）による1日ずれと推定"
+      },
+      "references": [
+        {
+          "url": "https://x.com/pokemon_cojp/status/2039949773017366892",
+          "label": "ポケモン公式X『Pokémon HOME』と『Pokémon LEGENDS Z-A』の連携開始（2026-04-03 15:15 JST）"
+        },
+        {
+          "url": "https://news.pokemon-home.com/ja/page/748.html",
+          "label": "Pokémon HOME お知らせ 2026年4月3日（オヤブンの「チコリータ」「ポカブ」「ワニノコ」をプレゼント。『Pokémon LEGENDS Z-A』から初めて転送すると受け取れる）"
+        }
+      ]
     },
     {
       "id": "09110",
@@ -4144,7 +4155,7 @@
       ],
       "eventName": "『Pokémon LEGENDS Z-A』連携記念！②",
       "distributionMethod": "プレゼントボックス",
-      "startDate": "2026-04-02",
+      "startDate": "2026-04-03",
       "level": 5,
       "gender": "♂",
       "nature": "ゆうかん",
@@ -4161,8 +4172,19 @@
       "ivsGuaranteed": 3,
       "alpha": true,
       "source": {
-        "kind": "bulbapedia"
-      }
+        "kind": "bulbapedia",
+        "note": "startDate は公式Xの連携開始の投稿（2026-04-03 15:15 JST）による日本時間の日付。Bulbapedia の 2026-04-02 は米国太平洋時間（04-02 23:00 PDT）による1日ずれと推定"
+      },
+      "references": [
+        {
+          "url": "https://x.com/pokemon_cojp/status/2039949773017366892",
+          "label": "ポケモン公式X『Pokémon HOME』と『Pokémon LEGENDS Z-A』の連携開始（2026-04-03 15:15 JST）"
+        },
+        {
+          "url": "https://news.pokemon-home.com/ja/page/748.html",
+          "label": "Pokémon HOME お知らせ 2026年4月3日（オヤブンの「チコリータ」「ポカブ」「ワニノコ」をプレゼント。『Pokémon LEGENDS Z-A』から初めて転送すると受け取れる）"
+        }
+      ]
     },
     {
       "id": "09111",
@@ -4173,7 +4195,7 @@
       ],
       "eventName": "『Pokémon LEGENDS Z-A』連携記念！①",
       "distributionMethod": "プレゼントボックス",
-      "startDate": "2026-04-02",
+      "startDate": "2026-04-03",
       "level": 5,
       "gender": "♂",
       "nature": "れいせい",
@@ -4190,8 +4212,19 @@
       "ivsGuaranteed": 3,
       "alpha": true,
       "source": {
-        "kind": "bulbapedia"
-      }
+        "kind": "bulbapedia",
+        "note": "startDate は公式Xの連携開始の投稿（2026-04-03 15:15 JST）による日本時間の日付。Bulbapedia の 2026-04-02 は米国太平洋時間（04-02 23:00 PDT）による1日ずれと推定"
+      },
+      "references": [
+        {
+          "url": "https://x.com/pokemon_cojp/status/2039949773017366892",
+          "label": "ポケモン公式X『Pokémon HOME』と『Pokémon LEGENDS Z-A』の連携開始（2026-04-03 15:15 JST）"
+        },
+        {
+          "url": "https://news.pokemon-home.com/ja/page/748.html",
+          "label": "Pokémon HOME お知らせ 2026年4月3日（オヤブンの「チコリータ」「ポカブ」「ワニノコ」をプレゼント。『Pokémon LEGENDS Z-A』から初めて転送すると受け取れる）"
+        }
+      ]
     },
     {
       "id": "09112",
